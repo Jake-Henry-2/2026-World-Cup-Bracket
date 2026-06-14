@@ -68,7 +68,8 @@
     lastError: null,
     news: [],
     newsUpdated: null,
-    details: {}
+    details: {},
+    liveSource: null
   };
 
   /* =========================================================================
@@ -629,7 +630,7 @@
     const lu = state.lastFetch || state.results.lastUpdated;
     $("#last-updated").textContent = lu ? new Date(lu).toLocaleString() : "—";
     $("#live-state").innerHTML = state.live
-      ? (state.lastError ? `<span class="warn">⚠ feed error — using manual</span>` : `<span class="ok">● LIVE feed</span>`)
+      ? (state.lastError ? `<span class="warn">⚠ feed error — using manual</span>` : `<span class="ok">● LIVE · ${state.liveSource === "espn" ? "ESPN direct" : "feed"}</span>`)
       : `<span class="man">✎ manual mode</span>`;
 
     checkNewLeader(computed.managers);
@@ -639,8 +640,73 @@
   /* =========================================================================
      LIVE FEED ADAPTERS (optional). Always falls back to manual on failure.
      ====================================================================== */
+  // Pull live scores straight from ESPN in the browser → true real-time, no dependency on the
+  // build/scheduler. Mirrors scripts/fetch-scores.mjs exactly. A plain GET to site.api.espn.com
+  // sends no custom headers (no CORS preflight); on any failure we throw and fall back to the feed.
+  const ESPN_SCOREBOARD = "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates=20260611-20260720";
+  function espnStage(slug) {
+    slug = (slug || "").toLowerCase();
+    if (slug.includes("group")) return "group";
+    if (slug.includes("round-of-16") || slug.includes("round of 16")) return "r16";
+    if (slug.includes("round-of-32") || slug.includes("round of 32")) return "r32";
+    if (slug.includes("quarter")) return "qf";
+    if (slug.includes("semi")) return "sf";
+    if (slug.includes("third")) return "third";
+    if (slug.includes("final")) return "final";
+    return "group";
+  }
+  async function fetchEspnScoreboard() {
+    const res = await fetch(ESPN_SCOREBOARD + "&t=" + Date.now(), { cache: "no-store" });
+    if (!res.ok) throw new Error("espn HTTP " + res.status);
+    const data = await res.json();
+    const events = data.events || [];
+    if (!events.length) throw new Error("espn: no events");
+    const seen = new Set(), matches = [];
+    for (const ev of events) {
+      if (seen.has(ev.id)) continue; seen.add(ev.id);
+      const comp = (ev.competitions || [])[0]; if (!comp) continue;
+      const cs = comp.competitors || [];
+      const h = cs.find((c) => c.homeAway === "home") || cs[0];
+      const a = cs.find((c) => c.homeAway === "away") || cs[1];
+      if (!h || !a) continue;
+      const st = ev.status && ev.status.type && ev.status.type.state;
+      const status = st === "post" ? "finished" : st === "in" ? "live" : "scheduled";
+      const cstat = comp.status || ev.status || {};
+      const m = {
+        stage: espnStage(ev.season && ev.season.slug),
+        home: canon((h.team && h.team.displayName) || ""),
+        away: canon((a.team && a.team.displayName) || ""),
+        homeScore: parseInt(h.score, 10) || 0,
+        awayScore: parseInt(a.score, 10) || 0,
+        status, id: ev.id || null, date: ev.date || null,
+        venue: (comp.venue && comp.venue.fullName) || ""
+      };
+      if (status === "live") {
+        m.clock = (typeof cstat.clock === "number") ? cstat.clock : 0;
+        m.displayClock = cstat.displayClock || "";
+        m.detail = (cstat.type && (cstat.type.shortDetail || cstat.type.detail)) || "";
+      }
+      matches.push(m);
+    }
+    if (!matches.length) throw new Error("espn: no matches parsed");
+    return { matches, lastUpdated: new Date().toISOString() };
+  }
+
   async function fetchLive() {
     const live = CFG.live || {};
+    // 1) PRIMARY: live scores straight from ESPN (real-time, independent of the deploy schedule).
+    if (live.espnDirect !== false) {
+      try {
+        const espn = await fetchEspnScoreboard();
+        const r = state.results;
+        r.matches = espn.matches; r.lastUpdated = espn.lastUpdated;
+        saveResults(r);
+        state.lastFetch = new Date().toISOString();
+        state.lastError = null; state.liveSource = "espn";
+        return;
+      } catch (e) { console.info("[live] ESPN direct unavailable — using built feed:", e.message); }
+    }
+    // 2) FALLBACK: the same-origin feed the workflow commits (no CORS), or another configured provider.
     try {
       let matches = [], liveUpdated = null;
       if (live.provider === "custom") {
@@ -667,7 +733,7 @@
       if (liveUpdated) r.lastUpdated = liveUpdated;       // keep the feed's capture time for the live clock
       saveResults(r);
       state.lastFetch = new Date().toISOString();
-      state.lastError = null;
+      state.lastError = null; state.liveSource = "feed";
     } catch (e) {
       state.lastError = e.message || String(e);
       console.warn("[live feed] falling back to manual:", e);

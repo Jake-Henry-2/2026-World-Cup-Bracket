@@ -415,9 +415,7 @@
       : `<div class="lg-empty">No games have finished yet.</div>`;
 
     box.innerHTML = `
-      <div class="panel-h">📋 Games
-        <span class="dim">${finished.length} final${computed.liveNow.length ? ` · ${computed.liveNow.length} live` : ""}${computed.upcoming.length ? ` · ${computed.upcoming.length} next 24h` : ""}</span>
-        <button class="ag-btn" data-allgames>All games</button></div>
+      <div class="panel-h"><span class="ph-title">📋 Games <span class="dim">${finished.length} final${computed.liveNow.length ? ` · ${computed.liveNow.length} live` : ""}${computed.upcoming.length ? ` · ${computed.upcoming.length} next 24h` : ""}</span></span><button class="ag-btn" data-allgames>All games</button></div>
       ${liveRows ? `<div class="lg-sub">🔴 Live now</div><div class="lg-livewrap">${liveRows}</div>` : ""}
       ${upRows ? `<div class="lg-sub">⏭ Up next · next 24h</div><div class="lg-uplist">${upRows}</div>` : ""}
       <div class="lg-sub">✅ Played</div><div class="lg-list">${doneRows}</div>`;

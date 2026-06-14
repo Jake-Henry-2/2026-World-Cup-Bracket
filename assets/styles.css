@@ -68,7 +68,8 @@ h1{font-size:20px;margin:0;letter-spacing:.3px}
 .panel{background:linear-gradient(180deg,var(--panel),var(--bg2));border:1px solid var(--line);
   border-radius:14px;box-shadow:var(--shadow);overflow:hidden}
 .panel-h{font-weight:800;font-size:15px;padding:13px 16px;border-bottom:1px solid var(--line);
-  background:rgba(255,255,255,.02);display:flex;justify-content:space-between;align-items:center}
+  background:rgba(255,255,255,.02);display:flex;justify-content:space-between;align-items:center;gap:10px}
+.ph-title{min-width:0}
 
 /* ---------------- leaderboard ---------------- */
 .leaderboard{padding:8px}
@@ -280,7 +281,7 @@ h1{font-size:20px;margin:0;letter-spacing:.3px}
 .sch-opp{flex:1}.sch-res{white-space:nowrap}.sch-res b{color:var(--gold)}
 
 /* ---------------- all-games list + "All games" button ---------------- */
-.ag-btn{margin-left:auto;cursor:pointer;background:var(--panel2);border:1px solid var(--line);color:var(--ink);
+.ag-btn{flex:0 0 auto;white-space:nowrap;cursor:pointer;background:var(--panel2);border:1px solid var(--line);color:var(--ink);
   border-radius:7px;padding:3px 11px;font-weight:700;font-size:11.5px}
 .ag-btn:hover{border-color:var(--blue);color:var(--blue)}
 .ag-list{max-height:66vh;overflow:auto}

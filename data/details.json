@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T20:22:31.848Z",
+  "lastUpdated": "2026-06-14T21:50:06.051Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -8200,67 +8200,170 @@
       "venue": "AT&T Stadium",
       "stats": {
         "home": {
-          "foulsCommitted": "2",
-          "yellowCards": "0",
+          "foulsCommitted": "6",
+          "yellowCards": "2",
           "redCards": "0",
-          "offsides": "0",
-          "wonCorners": "1",
-          "saves": "0",
-          "possessionPct": "67.9",
-          "totalShots": "1",
-          "shotsOnTarget": "1",
-          "shotPct": "1.0",
+          "offsides": "1",
+          "wonCorners": "5",
+          "saves": "1",
+          "possessionPct": "59.7",
+          "totalShots": "9",
+          "shotsOnTarget": "6",
+          "shotPct": "0.7",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "153",
-          "totalPasses": "169",
+          "accuratePasses": "423",
+          "totalPasses": "478",
           "passPct": "0.9",
-          "accurateCrosses": "0",
-          "totalCrosses": "2",
-          "crossPct": "0.0",
-          "totalLongBalls": "14",
-          "accurateLongBalls": "7",
-          "longballPct": "0.5",
-          "blockedShots": "0",
-          "effectiveTackles": "2",
-          "totalTackles": "3",
-          "tacklePct": "0.7",
-          "interceptions": "2",
-          "effectiveClearance": "4",
-          "totalClearance": "4"
+          "accurateCrosses": "6",
+          "totalCrosses": "18",
+          "crossPct": "0.3",
+          "totalLongBalls": "32",
+          "accurateLongBalls": "14",
+          "longballPct": "0.4",
+          "blockedShots": "1",
+          "effectiveTackles": "5",
+          "totalTackles": "10",
+          "tacklePct": "0.5",
+          "interceptions": "7",
+          "effectiveClearance": "22",
+          "totalClearance": "22"
         },
         "away": {
-          "foulsCommitted": "1",
+          "foulsCommitted": "7",
           "yellowCards": "0",
           "redCards": "0",
           "offsides": "0",
-          "wonCorners": "1",
-          "saves": "1",
-          "possessionPct": "32.1",
-          "totalShots": "1",
-          "shotsOnTarget": "0",
-          "shotPct": "0.0",
+          "wonCorners": "4",
+          "saves": "4",
+          "possessionPct": "40.3",
+          "totalShots": "10",
+          "shotsOnTarget": "3",
+          "shotPct": "0.3",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "67",
-          "totalPasses": "76",
-          "passPct": "0.9",
-          "accurateCrosses": "0",
-          "totalCrosses": "5",
-          "crossPct": "0.0",
-          "totalLongBalls": "6",
-          "accurateLongBalls": "3",
-          "longballPct": "0.5",
+          "accuratePasses": "260",
+          "totalPasses": "309",
+          "passPct": "0.8",
+          "accurateCrosses": "6",
+          "totalCrosses": "23",
+          "crossPct": "0.3",
+          "totalLongBalls": "32",
+          "accurateLongBalls": "13",
+          "longballPct": "0.4",
           "blockedShots": "1",
-          "effectiveTackles": "3",
-          "totalTackles": "5",
-          "tacklePct": "0.6",
-          "interceptions": "2",
-          "effectiveClearance": "11",
-          "totalClearance": "11"
+          "effectiveTackles": "8",
+          "totalTackles": "9",
+          "tacklePct": "0.9",
+          "interceptions": "4",
+          "effectiveClearance": "28",
+          "totalClearance": "28"
         }
       },
-      "events": [],
+      "events": [
+        {
+          "kind": "Goal - Header",
+          "min": "51'",
+          "side": "home",
+          "player": "Goal! Netherlands 1, Japan 0. Virgil van Dijk"
+        },
+        {
+          "kind": "Goal",
+          "min": "57'",
+          "side": "away",
+          "player": "Goal! Netherlands 1, Japan 1. Keito Nakamura"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "61'",
+          "side": "home",
+          "player": "Crysencio Summerville"
+        },
+        {
+          "kind": "Goal",
+          "min": "64'",
+          "side": "home",
+          "player": "Goal! Netherlands 2, Japan 1. Crysencio Summerville"
+        },
+        {
+          "kind": "Substitution",
+          "min": "66'",
+          "side": "away",
+          "player": "Substitution, Japan. Junya Ito replaces Daizen Maeda."
+        },
+        {
+          "kind": "Substitution",
+          "min": "70'",
+          "side": "home",
+          "player": "Substitution, Netherlands. Memphis Depay replaces Donyell Malen."
+        },
+        {
+          "kind": "Substitution",
+          "min": "70'",
+          "side": "home",
+          "player": "Substitution, Netherlands. Teun Koopmeiners replaces Crysencio Summerville."
+        },
+        {
+          "kind": "Substitution",
+          "min": "70'",
+          "side": "home",
+          "player": "Substitution, Netherlands. Quinten Timber replaces Tijjani Reijnders."
+        },
+        {
+          "kind": "Substitution",
+          "min": "75'",
+          "side": "away",
+          "player": "Substitution, Japan. Yukinari Sugawara replaces Ritsu Doan."
+        },
+        {
+          "kind": "Substitution",
+          "min": "75'",
+          "side": "away",
+          "player": "Substitution, Japan. Takehiro Tomiyasu replaces Tsuyoshi Watanabe."
+        },
+        {
+          "kind": "Substitution",
+          "min": "75'",
+          "side": "away",
+          "player": "Substitution, Japan. Koki Ogawa replaces Takefusa Kubo because of an injury."
+        },
+        {
+          "kind": "Substitution",
+          "min": "81'",
+          "side": "home",
+          "player": "Substitution, Netherlands. Nathan Aké replaces Ryan Gravenberch."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "83'",
+          "side": "home",
+          "player": "Memphis Depay"
+        },
+        {
+          "kind": "Substitution",
+          "min": "84'",
+          "side": "away",
+          "player": "Substitution, Japan. Kento Shiogai replaces Ayase Ueda."
+        },
+        {
+          "kind": "Substitution",
+          "min": "85'",
+          "side": "home",
+          "player": "Substitution, Netherlands. Brian Brobbey replaces Cody Gakpo."
+        },
+        {
+          "kind": "Goal - Header",
+          "min": "88'",
+          "side": "away",
+          "player": "Goal! Netherlands 2, Japan 2. Daichi Kamada"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "90'+1'",
+          "side": "home",
+          "player": "Micky van de Ven"
+        }
+      ],
       "lineups": {
         "home": [
           {
@@ -8643,58 +8746,303 @@
       },
       "commentary": [
         {
-          "min": "21'",
-          "text": "Crysencio Summerville (Netherlands) wins a free kick on the right wing.",
+          "min": "88'",
+          "text": "Goal! Netherlands 2, Japan 2. Daichi Kamada (Japan) header from the centre of the box to the top right corner. Assisted by Koki Ogawa following a corner.",
+          "goal": true
+        },
+        {
+          "min": "88'",
+          "text": "Attempt blocked. Koki Ogawa (Japan) header from the centre of the box is blocked.",
           "goal": false
         },
         {
-          "min": "21'",
-          "text": "Foul by Keito Nakamura (Japan).",
-          "goal": false
-        },
-        {
-          "min": "14'",
+          "min": "88'",
           "text": "Corner, Japan. Conceded by Denzel Dumfries.",
           "goal": false
         },
         {
-          "min": "8'",
-          "text": "Foul by Frenkie de Jong (Netherlands).",
+          "min": "87'",
+          "text": "Corner, Japan. Conceded by Micky van de Ven.",
           "goal": false
         },
         {
-          "min": "8'",
-          "text": "Ayase Ueda (Japan) wins a free kick in the defensive half.",
+          "min": "86'",
+          "text": "Foul by Teun Koopmeiners (Netherlands).",
           "goal": false
         },
         {
-          "min": "6'",
-          "text": "Foul by Micky van de Ven (Netherlands).",
+          "min": "86'",
+          "text": "Takehiro Tomiyasu (Japan) wins a free kick on the right wing.",
           "goal": false
         },
         {
-          "min": "6'",
-          "text": "Keito Nakamura (Japan) wins a free kick on the left wing.",
+          "min": "85'",
+          "text": "Substitution, Netherlands. Brian Brobbey replaces Cody Gakpo.",
           "goal": false
         },
         {
-          "min": "3'",
+          "min": "84'",
+          "text": "Frenkie de Jong (Netherlands) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Foul by Takehiro Tomiyasu (Japan).",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Substitution, Japan. Kento Shiogai replaces Ayase Ueda.",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Memphis Depay (Netherlands) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Foul by Memphis Depay (Netherlands).",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Shogo Taniguchi (Japan) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Substitution, Netherlands. Nathan Aké replaces Ryan Gravenberch.",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Attempt saved. Yukinari Sugawara (Japan) right footed shot from the centre of the box is saved in the top centre of the goal by Bart Verbruggen (Netherlands). Assisted by Junya Ito.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Attempt missed. Koki Ogawa (Japan) header from the centre of the box misses to the left. Assisted by Yukinari Sugawara with a cross.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Attempt blocked. Teun Koopmeiners (Netherlands) left footed shot from the centre of the box is blocked. Assisted by Quinten Timber.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Attempt missed. Keito Nakamura (Japan) right footed shot from outside the box is high and wide to the right. Assisted by Junya Ito with a cross following a corner.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Substitution, Japan. Koki Ogawa replaces Takefusa Kubo because of an injury.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Substitution, Japan. Takehiro Tomiyasu replaces Tsuyoshi Watanabe.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Substitution, Japan. Yukinari Sugawara replaces Ritsu Doan.",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Corner, Japan. Conceded by Micky van de Ven.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Attempt saved. Jan Paul van Hecke (Netherlands) header from the right side of the six yard box is saved in the top right corner by Zion Suzuki (Japan). Assisted by Memphis Depay with a cross.",
+          "goal": false
+        },
+        {
+          "min": "73'",
           "text": "Corner, Netherlands. Conceded by Zion Suzuki.",
           "goal": false
         },
         {
-          "min": "3'",
-          "text": "Attempt saved. Donyell Malen (Netherlands) right footed shot from the centre of the box is saved in the bottom left corner by Zion Suzuki (Japan). Assisted by Cody Gakpo.",
+          "min": "73'",
+          "text": "Attempt saved. Cody Gakpo (Netherlands) right footed shot from the left side of the box is saved in the bottom left corner by Zion Suzuki (Japan). Assisted by Frenkie de Jong.",
           "goal": false
         },
         {
-          "min": "",
-          "text": "First Half begins.",
+          "min": "72'",
+          "text": "Delay over. They are ready to continue.",
           "goal": false
         },
         {
-          "min": "",
-          "text": "Lineups are announced and players are warming up.",
+          "min": "72'",
+          "text": "Delay in match because of an injury Takefusa Kubo (Japan).",
+          "goal": false
+        },
+        {
+          "min": "70'",
+          "text": "Substitution, Netherlands. Quinten Timber replaces Tijjani Reijnders.",
+          "goal": false
+        },
+        {
+          "min": "70'",
+          "text": "Substitution, Netherlands. Teun Koopmeiners replaces Crysencio Summerville.",
+          "goal": false
+        },
+        {
+          "min": "70'",
+          "text": "Substitution, Netherlands. Memphis Depay replaces Donyell Malen.",
+          "goal": false
+        },
+        {
+          "min": "69'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Attempt missed. Takefusa Kubo (Japan) left footed shot from outside the box is too high. Assisted by Ayase Ueda.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Substitution, Japan. Junya Ito replaces Daizen Maeda.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Offside, Netherlands. Cody Gakpo is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Foul by Ayase Ueda (Japan).",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Jan Paul van Hecke (Netherlands) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Goal! Netherlands 2, Japan 1. Crysencio Summerville (Netherlands) left footed shot from the right side of the box to the bottom left corner. Assisted by Ryan Gravenberch.",
+          "goal": true
+        },
+        {
+          "min": "62'",
+          "text": "Foul by Takefusa Kubo (Japan).",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Crysencio Summerville (Netherlands) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Crysencio Summerville (Netherlands) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Foul by Crysencio Summerville (Netherlands).",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Tsuyoshi Watanabe (Japan) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Corner, Netherlands. Conceded by Ayase Ueda.",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Goal! Netherlands 1, Japan 1. Keito Nakamura (Japan) right footed shot from outside the box to the bottom left corner. Assisted by Takefusa Kubo.",
+          "goal": true
+        },
+        {
+          "min": "51'",
+          "text": "Goal! Netherlands 1, Japan 0. Virgil van Dijk (Netherlands) header from the centre of the box to the bottom right corner. Assisted by Ryan Gravenberch with a cross following a set piece situation.",
+          "goal": true
+        },
+        {
+          "min": "50'",
+          "text": "Foul by Ritsu Doan (Japan).",
+          "goal": false
+        },
+        {
+          "min": "50'",
+          "text": "Cody Gakpo (Netherlands) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Second Half begins Netherlands 0, Japan 0.",
+          "goal": false
+        },
+        {
+          "min": "45'+3'",
+          "text": "First Half ends, Netherlands 0, Japan 0.",
+          "goal": false
+        },
+        {
+          "min": "45'+2'",
+          "text": "Corner, Netherlands. Conceded by Keito Nakamura.",
+          "goal": false
+        },
+        {
+          "min": "45'+1'",
+          "text": "Foul by Hiroki Ito (Japan).",
+          "goal": false
+        },
+        {
+          "min": "45'+1'",
+          "text": "Crysencio Summerville (Netherlands) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Fourth official has announced 3 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Attempt missed. Ayase Ueda (Japan) right footed shot from the right side of the box is close, but misses to the right. Assisted by Daichi Kamada with a through ball.",
+          "goal": false
+        },
+        {
+          "min": "44'",
+          "text": "Foul by Frenkie de Jong (Netherlands).",
+          "goal": false
+        },
+        {
+          "min": "44'",
+          "text": "Takefusa Kubo (Japan) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "43'",
+          "text": "Attempt missed. Keito Nakamura (Japan) right footed shot from the left side of the box is close, but misses to the left. Assisted by Tsuyoshi Watanabe with a cross.",
+          "goal": false
+        },
+        {
+          "min": "36'",
+          "text": "Attempt missed. Cody Gakpo (Netherlands) right footed shot from the centre of the box is high and wide to the right. Assisted by Denzel Dumfries following a set piece situation.",
+          "goal": false
+        },
+        {
+          "min": "35'",
+          "text": "Handball by Keito Nakamura (Japan).",
           "goal": false
         }
       ],
@@ -8705,7 +9053,13 @@
             "name": "D. Malen",
             "num": "18",
             "pos": "F",
-            "value": "1"
+            "value": "2"
+          },
+          "away": {
+            "name": "K. Nakamura",
+            "num": "13",
+            "pos": "F",
+            "value": "3"
           }
         },
         {
@@ -8714,37 +9068,43 @@
             "name": "V. van Dijk",
             "num": "4",
             "pos": "D",
-            "value": "35"
+            "value": "86"
           },
           "away": {
-            "name": "D. Kamada",
-            "num": "15",
-            "pos": "M",
-            "value": "11"
+            "name": "S. Taniguchi",
+            "num": "3",
+            "pos": "D",
+            "value": "45"
           }
         },
         {
           "label": "Defensive Interventions",
           "home": {
-            "name": "F. de Jong",
-            "num": "21",
-            "pos": "M",
-            "value": "4"
+            "name": "V. van Dijk",
+            "num": "4",
+            "pos": "D",
+            "value": "9"
           },
           "away": {
             "name": "T. Watanabe",
             "num": "16",
             "pos": "D",
-            "value": "4"
+            "value": "9"
           }
         },
         {
           "label": "Saves",
+          "home": {
+            "name": "B. Verbruggen",
+            "num": "1",
+            "pos": "G",
+            "value": "1"
+          },
           "away": {
             "name": "Z. Suzuki",
             "num": "1",
             "pos": "G",
-            "value": "1"
+            "value": "4"
           }
         }
       ],

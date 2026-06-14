@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T20:22:31.731Z",
+  "lastUpdated": "2026-06-14T21:50:05.972Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -105,16 +105,16 @@
       "stage": "group",
       "home": "Netherlands",
       "away": "Japan",
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 2,
+      "awayScore": 2,
       "status": "live",
       "id": "760425",
       "date": "2026-06-14T20:00Z",
       "venue": "AT&T Stadium",
-      "clock": 1320,
-      "displayClock": "22'",
-      "detail": "22'",
-      "period": 1
+      "clock": 5400,
+      "displayClock": "90'+1'",
+      "detail": "90'+1'",
+      "period": 2
     },
     {
       "stage": "group",

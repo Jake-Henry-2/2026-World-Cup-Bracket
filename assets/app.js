@@ -21,6 +21,20 @@
   const esc = (s) => String(s).replace(/[&<>"']/g, (c) =>
     ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 
+  // short, live-feeling relative time ("just now", "3m ago", "2h ago", else the date)
+  const relTime = (t) => {
+    const ms = typeof t === "number" ? t : Date.parse(t);
+    if (!ms) return "";
+    const s = Math.max(0, Math.round((Date.now() - ms) / 1000));
+    if (s < 10) return "just now";
+    if (s < 60) return s + "s ago";
+    const m = Math.floor(s / 60);
+    if (m < 60) return m + "m ago";
+    const h = Math.floor(m / 60);
+    if (h < 24) return h + "h ago";
+    return new Date(ms).toLocaleDateString(undefined, { month: "short", day: "numeric" });
+  };
+
   // canonical team name (absorbs spreadsheet typos + API spellings)
   function canon(name) {
     if (name == null) return name;
@@ -476,11 +490,16 @@
   // World Cup news — headlines scraped from ESPN (refreshed each cycle), linking out to the source
   function renderNews() {
     const box = $("#news"); if (!box) return;
-    const arts = state.news || [];
-    const upd = state.newsUpdated ? ` <span class="dim">· updated ${new Date(state.newsUpdated).toLocaleTimeString()}</span>` : "";
+    // newest-first so fresh stories visibly rise to the top each refresh
+    const arts = (state.news || []).slice()
+      .sort((a, b) => (Date.parse(b.published) || 0) - (Date.parse(a.published) || 0));
+    const sinceMs = state.newsUpdated ? (Date.parse(state.newsUpdated) || 0) : 0;
+    // ticking "● LIVE · Xm ago" indicator (refreshed every second by tick()) — same liveness as the scores
+    const live = `<span class="news-live"><span class="news-dot"></span>LIVE${sinceMs
+      ? ` <span class="news-since" data-since="${sinceMs}">· ${esc(relTime(sinceMs))}</span>` : ""}</span>`;
+    const head = `<div class="panel-h"><span class="ph-title">📰 World Cup News <span class="dim">live from ESPN</span></span>${live}</div>`;
     if (!arts.length) {
-      box.innerHTML = `<div class="panel-h">📰 World Cup News <span class="dim">live from ESPN</span></div>
-        <div class="news-empty">Pulling the latest headlines…</div>`;
+      box.innerHTML = `${head}<div class="news-empty">Pulling the latest headlines…</div>`;
       return;
     }
     const cards = arts.map((a) => `
@@ -489,11 +508,10 @@
         <div class="news-body">
           <div class="news-head">${esc(a.headline)}</div>
           ${a.description ? `<div class="news-desc">${esc(a.description)}</div>` : ""}
-          <div class="news-meta">${a.published ? new Date(a.published).toLocaleDateString(undefined, { month: "short", day: "numeric" }) + " · " : ""}ESPN ↗</div>
+          <div class="news-meta">${a.published ? esc(relTime(a.published)) + " · " : ""}ESPN ↗</div>
         </div>
       </a>`).join("");
-    box.innerHTML = `<div class="panel-h">📰 World Cup News <span class="dim">live from ESPN${upd}</span></div>
-      <div class="news-grid">${cards}</div>`;
+    box.innerHTML = `${head}<div class="news-grid">${cards}</div>`;
   }
 
   // Goal highlights — every goal across played matches, tagged with the owner's emoji
@@ -658,6 +676,10 @@
     // advance any live match clocks every second
     document.querySelectorAll(".lg-clock").forEach((el) => {
       el.textContent = liveClockText(el.dataset.clock, el.dataset.disp, Number(el.dataset.since), el.dataset.detail);
+    });
+    // keep the news "updated Xm ago" label live so it visibly tracks with the rest of the site
+    document.querySelectorAll(".news-since").forEach((el) => {
+      el.textContent = "· " + relTime(Number(el.dataset.since));
     });
     countdown -= 1;
     if (countdown <= 0) { refreshCycle(); }

@@ -198,6 +198,11 @@ h1{font-size:20px;margin:0;letter-spacing:.3px}
 .news-desc{font-size:11.5px;color:var(--dim);line-height:1.35;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 .news-meta{font-size:10.5px;color:var(--blue);margin-top:auto;font-weight:700;letter-spacing:.3px}
 .news-empty{padding:20px;color:var(--dim);font-size:13px;text-align:center}
+.news-live{display:inline-flex;align-items:center;gap:6px;flex:0 0 auto;font-size:11px;font-weight:800;
+  letter-spacing:1px;color:var(--red);white-space:nowrap}
+.news-dot{width:8px;height:8px;border-radius:50%;background:var(--red);box-shadow:0 0 0 0 rgba(255,93,108,.6);
+  animation:pulse 1.4s infinite}
+.news-since{color:var(--dim);font-weight:700;letter-spacing:.3px}
 
 /* ---------------- goal highlights ---------------- */
 #highlights{margin:18px 22px 0}

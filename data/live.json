@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T02:57:16.164Z",
+  "lastUpdated": "2026-06-14T03:00:22.227Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -65,8 +65,8 @@
       "status": "live",
       "date": "2026-06-14T01:00Z",
       "clock": 5400,
-      "displayClock": "90'+3'",
-      "detail": "90'+3'"
+      "displayClock": "90'+6'",
+      "detail": "90'+6'"
     },
     {
       "stage": "group",

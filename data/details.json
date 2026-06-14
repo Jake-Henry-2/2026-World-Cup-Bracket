@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T05:27:10.252Z",
+  "lastUpdated": "2026-06-14T06:06:35.020Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -6392,64 +6392,64 @@
       "venue": "BC Place",
       "stats": {
         "home": {
-          "foulsCommitted": "7",
+          "foulsCommitted": "12",
           "yellowCards": "0",
           "redCards": "0",
           "offsides": "1",
-          "wonCorners": "4",
-          "saves": "4",
-          "possessionPct": "33.5",
-          "totalShots": "8",
-          "shotsOnTarget": "3",
+          "wonCorners": "5",
+          "saves": "8",
+          "possessionPct": "28.3",
+          "totalShots": "9",
+          "shotsOnTarget": "4",
           "shotPct": "0.4",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "187",
-          "totalPasses": "237",
-          "passPct": "0.8",
+          "accuratePasses": "202",
+          "totalPasses": "270",
+          "passPct": "0.7",
           "accurateCrosses": "4",
-          "totalCrosses": "11",
-          "crossPct": "0.4",
-          "totalLongBalls": "42",
-          "accurateLongBalls": "14",
+          "totalCrosses": "14",
+          "crossPct": "0.3",
+          "totalLongBalls": "57",
+          "accurateLongBalls": "17",
           "longballPct": "0.3",
           "blockedShots": "1",
-          "effectiveTackles": "3",
-          "totalTackles": "11",
+          "effectiveTackles": "5",
+          "totalTackles": "16",
           "tacklePct": "0.3",
-          "interceptions": "4",
-          "effectiveClearance": "38",
-          "totalClearance": "38"
+          "interceptions": "6",
+          "effectiveClearance": "55",
+          "totalClearance": "55"
         },
         "away": {
-          "foulsCommitted": "3",
-          "yellowCards": "0",
+          "foulsCommitted": "4",
+          "yellowCards": "1",
           "redCards": "0",
-          "offsides": "2",
-          "wonCorners": "5",
+          "offsides": "3",
+          "wonCorners": "8",
           "saves": "2",
-          "possessionPct": "66.5",
-          "totalShots": "20",
-          "shotsOnTarget": "4",
-          "shotPct": "0.2",
+          "possessionPct": "71.7",
+          "totalShots": "30",
+          "shotsOnTarget": "8",
+          "shotPct": "0.3",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "434",
-          "totalPasses": "484",
+          "accuratePasses": "635",
+          "totalPasses": "704",
           "passPct": "0.9",
-          "accurateCrosses": "1",
-          "totalCrosses": "17",
+          "accurateCrosses": "2",
+          "totalCrosses": "26",
           "crossPct": "0.1",
-          "totalLongBalls": "25",
-          "accurateLongBalls": "16",
-          "longballPct": "0.6",
-          "blockedShots": "9",
+          "totalLongBalls": "29",
+          "accurateLongBalls": "20",
+          "longballPct": "0.7",
+          "blockedShots": "12",
           "effectiveTackles": "7",
-          "totalTackles": "10",
-          "tacklePct": "0.7",
-          "interceptions": "1",
-          "effectiveClearance": "27",
-          "totalClearance": "27"
+          "totalTackles": "12",
+          "tacklePct": "0.6",
+          "interceptions": "4",
+          "effectiveClearance": "29",
+          "totalClearance": "29"
         }
       },
       "events": [
@@ -6476,6 +6476,60 @@
           "min": "62'",
           "side": "away",
           "player": "Substitution, Türkiye. Yunus Akgün replaces Orkun Kökçü."
+        },
+        {
+          "kind": "Substitution",
+          "min": "74'",
+          "side": "home",
+          "player": "Substitution, Australia. Tete Yengi replaces Mohamed Touré."
+        },
+        {
+          "kind": "Substitution",
+          "min": "74'",
+          "side": "home",
+          "player": "Substitution, Australia. Jason Geria replaces Jacob Italiano."
+        },
+        {
+          "kind": "Goal",
+          "min": "75'",
+          "side": "home",
+          "player": "Goal! Australia 2, Türkiye 0. Connor Metcalfe"
+        },
+        {
+          "kind": "Substitution",
+          "min": "81'",
+          "side": "away",
+          "player": "Substitution, Türkiye. Salih Özcan replaces Ismail Yüksek."
+        },
+        {
+          "kind": "Substitution",
+          "min": "81'",
+          "side": "away",
+          "player": "Substitution, Türkiye. Mert Müldür replaces Zeki Çelik."
+        },
+        {
+          "kind": "Substitution",
+          "min": "84'",
+          "side": "home",
+          "player": "Substitution, Australia. Aziz Behich replaces Jordan Bos."
+        },
+        {
+          "kind": "Substitution",
+          "min": "84'",
+          "side": "home",
+          "player": "Substitution, Australia. Jackson Irvine replaces Paul Okon-Engstler."
+        },
+        {
+          "kind": "Substitution",
+          "min": "85'",
+          "side": "away",
+          "player": "Substitution, Türkiye. Deniz Gül replaces Kerem Aktürkoglu."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "86'",
+          "side": "away",
+          "player": "Yunus Akgün"
         }
       ],
       "lineups": {
@@ -6860,8 +6914,213 @@
       },
       "commentary": [
         {
+          "min": "",
+          "text": "Match ends, Australia 2, Türkiye 0.",
+          "goal": false
+        },
+        {
+          "min": "90'+7'",
+          "text": "Second Half ends, Australia 2, Türkiye 0.",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Offside, Türkiye. Merih Demiral is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Corner, Türkiye. Conceded by Aziz Behich.",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Corner, Türkiye. Conceded by Harry Souttar.",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Attempt blocked. Kenan Yildiz (Türkiye) right footed shot from outside the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Arda Güler (Türkiye) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Foul by Aziz Behich (Australia).",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Fourth official has announced 6 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Attempt missed. Merih Demiral (Türkiye) header from the centre of the box is close, but misses the top right corner. Assisted by Hakan Çalhanoglu.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Salih Özcan (Türkiye) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Foul by Tete Yengi (Australia).",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Attempt saved. Arda Güler (Türkiye) left footed shot from outside the box is saved in the centre of the goal by Patrick Beach (Australia). Assisted by Kenan Yildiz.",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Yunus Akgün (Türkiye) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Aiden O'Neill (Australia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Foul by Yunus Akgün (Türkiye).",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Attempt saved. Hakan Çalhanoglu (Türkiye) right footed shot from outside the box is saved in the bottom right corner by Patrick Beach (Australia).",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Substitution, Türkiye. Deniz Gül replaces Kerem Aktürkoglu.",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Kerem Aktürkoglu (Türkiye) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Foul by Jackson Irvine (Australia).",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Foul by Tete Yengi (Australia).",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Abdülkerim Bardakci (Türkiye) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Substitution, Australia. Jackson Irvine replaces Paul Okon-Engstler.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Substitution, Australia. Aziz Behich replaces Jordan Bos.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Attempt missed. Arda Güler (Türkiye) left footed shot from outside the box is high and wide to the left. Assisted by Mert Müldür.",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Substitution, Türkiye. Mert Müldür replaces Zeki Çelik.",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Substitution, Türkiye. Salih Özcan replaces Ismail Yüksek.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Corner, Australia. Conceded by Ferdi Kadioglu.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Abdülkerim Bardakci (Türkiye) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Foul by Tete Yengi (Australia).",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Attempt saved. Kerem Aktürkoglu (Türkiye) right footed shot from the centre of the box is saved in the centre of the goal by Patrick Beach (Australia). Assisted by Merih Demiral with a headed pass.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Attempt blocked. Kenan Yildiz (Türkiye) right footed shot from the right side of the box is blocked. Assisted by Yunus Akgün.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Goal! Australia 2, Türkiye 0. Connor Metcalfe (Australia) left footed shot from outside the box to the bottom right corner.",
+          "goal": true
+        },
+        {
+          "min": "74'",
+          "text": "Substitution, Australia. Jason Geria replaces Jacob Italiano.",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Substitution, Australia. Tete Yengi replaces Mohamed Touré.",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Attempt missed. Arda Güler (Türkiye) left footed shot from outside the box is high and wide to the left. Assisted by Yunus Akgün.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Corner, Türkiye. Conceded by Patrick Beach.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Attempt saved. Zeki Çelik (Türkiye) right footed shot from a difficult angle on the right is saved in the bottom right corner by Patrick Beach (Australia). Assisted by Hakan Çalhanoglu with a through ball.",
+          "goal": false
+        },
+        {
+          "min": "69'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
           "min": "66'",
           "text": "Attempt blocked. Kenan Yildiz (Türkiye) right footed shot from the left side of the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Attempt blocked. Kenan Yildiz (Türkiye) right footed shot from the left side of the box is blocked. Assisted by Arda Güler.",
           "goal": false
         },
         {
@@ -6953,211 +7212,6 @@
           "min": "53'",
           "text": "Jordan Bos (Australia) wins a free kick in the defensive half.",
           "goal": false
-        },
-        {
-          "min": "51'",
-          "text": "Offside, Türkiye. Merih Demiral is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "51'",
-          "text": "Attempt missed. Kerem Aktürkoglu (Türkiye) right footed shot from outside the box misses to the left following a corner.",
-          "goal": false
-        },
-        {
-          "min": "51'",
-          "text": "Corner, Türkiye. Conceded by Harry Souttar.",
-          "goal": false
-        },
-        {
-          "min": "50'",
-          "text": "Corner, Türkiye. Conceded by Alessandro Circati.",
-          "goal": false
-        },
-        {
-          "min": "50'",
-          "text": "Attempt blocked. Ismail Yüksek (Türkiye) left footed shot from outside the box is blocked.",
-          "goal": false
-        },
-        {
-          "min": "50'",
-          "text": "Attempt blocked. Hakan Çalhanoglu (Türkiye) right footed shot from the centre of the box is blocked.",
-          "goal": false
-        },
-        {
-          "min": "49'",
-          "text": "Attempt missed. Jacob Italiano (Australia) right footed shot from outside the box is high and wide to the right. Assisted by Harry Souttar following a corner.",
-          "goal": false
-        },
-        {
-          "min": "48'",
-          "text": "Corner, Australia. Conceded by Merih Demiral.",
-          "goal": false
-        },
-        {
-          "min": "48'",
-          "text": "Attempt blocked. Jordan Bos (Australia) right footed shot from the left side of the box is blocked. Assisted by Mohamed Touré.",
-          "goal": false
-        },
-        {
-          "min": "47'",
-          "text": "Foul by Mohamed Touré (Australia).",
-          "goal": false
-        },
-        {
-          "min": "47'",
-          "text": "Merih Demiral (Türkiye) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "46'",
-          "text": "Attempt saved. Hakan Çalhanoglu (Türkiye) right footed shot from outside the box is saved in the centre of the goal by Patrick Beach (Australia). Assisted by Ferdi Kadioglu.",
-          "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Second Half begins Australia 1, Türkiye 0.",
-          "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Substitution, Türkiye. Kenan Yildiz replaces Baris Alper Yilmaz.",
-          "goal": false
-        },
-        {
-          "min": "45'+5'",
-          "text": "First Half ends, Australia 1, Türkiye 0.",
-          "goal": false
-        },
-        {
-          "min": "45'+4'",
-          "text": "Attempt blocked. Kerem Aktürkoglu (Türkiye) left footed shot from the centre of the box is blocked.",
-          "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Fourth official has announced 4 minutes of added time.",
-          "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Attempt saved. Nestory Irankunda (Australia) right footed shot from the centre of the box is saved in the centre of the goal by Ugurcan Çakir (Türkiye). Assisted by Jordan Bos.",
-          "goal": false
-        },
-        {
-          "min": "44'",
-          "text": "VAR Decision: Other Decision Cancelled.",
-          "goal": false
-        },
-        {
-          "min": "42'",
-          "text": "Attempt missed. Arda Güler (Türkiye) left footed shot from outside the box is high and wide to the left. Assisted by Orkun Kökçü.",
-          "goal": false
-        },
-        {
-          "min": "39'",
-          "text": "Delay over. They are ready to continue.",
-          "goal": false
-        },
-        {
-          "min": "39'",
-          "text": "Delay in match (Türkiye).",
-          "goal": false
-        },
-        {
-          "min": "39'",
-          "text": "Attempt missed. Jordan Bos (Australia) left footed shot from outside the box is high and wide to the left. Assisted by Paul Okon-Engstler.",
-          "goal": false
-        },
-        {
-          "min": "36'",
-          "text": "Attempt missed. Orkun Kökçü (Türkiye) right footed shot from the centre of the box misses to the right. Assisted by Kerem Aktürkoglu with a headed pass.",
-          "goal": false
-        },
-        {
-          "min": "35'",
-          "text": "Foul by Nestory Irankunda (Australia).",
-          "goal": false
-        },
-        {
-          "min": "35'",
-          "text": "Arda Güler (Türkiye) wins a free kick on the right wing.",
-          "goal": false
-        },
-        {
-          "min": "34'",
-          "text": "Hakan Çalhanoglu (Türkiye) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "34'",
-          "text": "Foul by Mohamed Touré (Australia).",
-          "goal": false
-        },
-        {
-          "min": "33'",
-          "text": "Foul by Harry Souttar (Australia).",
-          "goal": false
-        },
-        {
-          "min": "33'",
-          "text": "Kerem Aktürkoglu (Türkiye) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "30'",
-          "text": "Attempt missed. Hakan Çalhanoglu (Türkiye) right footed shot from outside the box is high and wide to the right. Assisted by Orkun Kökçü.",
-          "goal": false
-        },
-        {
-          "min": "30'",
-          "text": "Attempt saved. Abdülkerim Bardakci (Türkiye) left footed shot from outside the box is saved in the top left corner by Patrick Beach (Australia).",
-          "goal": false
-        },
-        {
-          "min": "27'",
-          "text": "Goal! Australia 1, Türkiye 0. Nestory Irankunda (Australia) right footed shot from the centre of the box to the bottom left corner. Assisted by Paul Okon-Engstler.",
-          "goal": true
-        },
-        {
-          "min": "27'",
-          "text": "Attempt saved. Arda Güler (Türkiye) right footed shot from the centre of the box is saved in the centre of the goal by Patrick Beach (Australia).",
-          "goal": false
-        },
-        {
-          "min": "25'",
-          "text": "Delay over. They are ready to continue.",
-          "goal": false
-        },
-        {
-          "min": "23'",
-          "text": "Delay in match for a drinks break.",
-          "goal": false
-        },
-        {
-          "min": "22'",
-          "text": "Foul by Ismail Yüksek (Türkiye).",
-          "goal": false
-        },
-        {
-          "min": "22'",
-          "text": "Mohamed Touré (Australia) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "19'",
-          "text": "Attempt missed. Ferdi Kadioglu (Türkiye) right footed shot from outside the box is too high. Assisted by Hakan Çalhanoglu.",
-          "goal": false
-        },
-        {
-          "min": "18'",
-          "text": "Orkun Kökçü (Türkiye) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "18'",
-          "text": "Foul by Alessandro Circati (Australia).",
-          "goal": false
         }
       ],
       "leaders": [
@@ -7173,7 +7227,7 @@
             "name": "A. Güler",
             "num": "8",
             "pos": "M",
-            "value": "5"
+            "value": "8"
           }
         },
         {
@@ -7185,25 +7239,25 @@
             "value": "38"
           },
           "away": {
-            "name": "A. Bardakçi",
-            "num": "14",
-            "pos": "D",
-            "value": "71"
+            "name": "H. Çalhanoglu",
+            "num": "10",
+            "pos": "M",
+            "value": "93"
           }
         },
         {
           "label": "Defensive Interventions",
           "home": {
-            "name": "A. Circati",
-            "num": "3",
+            "name": "H. Souttar",
+            "num": "19",
             "pos": "D",
-            "value": "12"
+            "value": "16"
           },
           "away": {
-            "name": "M. Demiral",
-            "num": "3",
+            "name": "A. Bardakçi",
+            "num": "14",
             "pos": "D",
-            "value": "9"
+            "value": "11"
           }
         },
         {
@@ -7212,7 +7266,7 @@
             "name": "P. Beach",
             "num": "18",
             "pos": "G",
-            "value": "4"
+            "value": "8"
           },
           "away": {
             "name": "U. Çakir",
@@ -7223,7 +7277,7 @@
         }
       ],
       "highlight": null,
-      "final": false,
+      "final": true,
       "dv": 5
     }
   }

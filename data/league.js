@@ -27,7 +27,7 @@ window.LEAGUE = {
     { name: "Jack",    emoji: "🃏", teams: ["Belgium", "Colombia", "Ivory Coast", "Algeria"] },
     { name: "Dom",     emoji: "💎", teams: ["France", "Japan", "Türkiye", "South Africa"] },
     { name: "Ant",     emoji: "🐜", teams: ["Netherlands", "Switzerland", "Australia", "Czechia"] },
-    { name: "Francis", emoji: "🔥", teams: ["Spain", "United States", "Sweden", "Bosnia and Herzegovina"] },
+    { name: "Francis", emoji: "💣", teams: ["Spain", "United States", "Sweden", "Bosnia and Herzegovina"] },
     { name: "Hafid",   emoji: "🦊", teams: ["Norway", "Morocco", "Austria", "Scotland"] },
     { name: "Paul",    emoji: "⚡", teams: ["Germany", "Mexico", "Paraguay", "New Zealand"] }
   ],

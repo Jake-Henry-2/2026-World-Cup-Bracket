@@ -113,4 +113,4 @@ Everything is plain HTML/CSS/JS — no build step, no dependencies.
 
 ### Manager emojis
 🦁 Mitch · 🐉 Trea · 🦅 Benny · 🐺 Andy · 🃏 Jack · 💎 Dom · 🐜 Ant ·
-🔥 Francis · 🦊 Hafid · ⚡ Paul — and whoever's in 1st also wears the 👑.
+💣 Francis · 🦊 Hafid · ⚡ Paul — and whoever's in 1st also wears the 👑.

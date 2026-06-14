@@ -5,7 +5,7 @@
 
    Node 20+ (uses global fetch). No dependencies.
    ========================================================================== */
-import { writeFileSync, existsSync } from "node:fs";
+import { writeFileSync, readFileSync, existsSync } from "node:fs";
 
 const ESPN = "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates=";
 const START = "2026-06-11";              // tournament opener; we aggregate from here for cumulative scoring
@@ -156,3 +156,46 @@ try {
 } catch (e) {
   console.error("news fetch failed (keeping existing data/news.json):", e.message);
 }
+
+/* ---------- per-match detail (events, stats, lineups) -> data/details.json --
+   Pulled server-side from ESPN's match-summary feed so the page can show it
+   same-origin (no browser CORS). Finished matches are cached; only live + new
+   finals are re-fetched each run. -------------------------------------------- */
+const SUMMARY = "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/summary?event=";
+async function fetchDetail(id) {
+  const res = await fetch(SUMMARY + id, { headers: { "User-Agent": "wc2026-tracker" } });
+  if (!res.ok) throw new Error("HTTP " + res.status);
+  const d = await res.json();
+  const teams = (d.boxscore && d.boxscore.teams) || [];
+  const sideOf = {}, stats = {};
+  teams.forEach((t, i) => {
+    const side = t.homeAway || (i === 0 ? "home" : "away");
+    sideOf[t.team && t.team.id] = side;
+    const o = {}; (t.statistics || []).forEach((s) => { o[s.name] = s.displayValue; });
+    stats[side] = o;
+  });
+  const events = (d.keyEvents || []).filter((e) => /goal|card|substitution|penalty/i.test((e.type && e.type.text) || "")).map((e) => ({
+    kind: (e.type && e.type.text) || "", min: (e.clock && e.clock.displayValue) || "",
+    side: sideOf[e.team && e.team.id] || null,
+    player: (e.athletesInvolved && e.athletesInvolved[0] && e.athletesInvolved[0].displayName) || ""
+  }));
+  const lineups = {};
+  (d.rosters || []).forEach((r) => {
+    if (!r.homeAway) return;
+    const starters = (r.roster || []).filter((p) => p.starter);
+    lineups[r.homeAway] = (starters.length ? starters : (r.roster || []).slice(0, 11)).map((p) => ({
+      name: (p.athlete && p.athlete.displayName) || "", pos: (p.position && p.position.abbreviation) || ""
+    })).filter((p) => p.name);
+  });
+  return { venue: (d.gameInfo && d.gameInfo.venue && d.gameInfo.venue.fullName) || "", stats, events, lineups };
+}
+let details = {};
+try { details = (JSON.parse(readFileSync("data/details.json", "utf8")).games) || {}; } catch (e) { details = {}; }
+let dGot = 0;
+for (const m of matches.filter((x) => x.id && (x.status === "finished" || x.status === "live"))) {
+  if (m.status === "finished" && details[m.id] && details[m.id].final) continue;   // cached final — skip
+  try { const det = await fetchDetail(m.id); det.final = (m.status === "finished"); details[m.id] = det; dGot++; }
+  catch (e) { console.error("detail fail", m.id, e.message); }
+}
+writeFileSync("data/details.json", JSON.stringify({ lastUpdated: new Date().toISOString(), games: details }, null, 2) + "\n");
+console.log(`Wrote data/details.json — ${Object.keys(details).length} games cached (${dGot} fetched this run).`);

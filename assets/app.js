@@ -53,7 +53,8 @@
     lastFetch: null,
     lastError: null,
     news: [],
-    newsUpdated: null
+    newsUpdated: null,
+    details: {}
   };
 
   /* =========================================================================
@@ -594,6 +595,15 @@
       if (Array.isArray(d.articles)) { state.news = d.articles; state.newsUpdated = d.lastUpdated; }
     } catch (e) { /* keep last-known headlines */ }
   }
+  // Per-match detail (events/stats/lineups), prefetched server-side -> same-origin
+  async function fetchDetails() {
+    try {
+      const r = await fetch("data/details.json?t=" + Date.now(), { cache: "no-store" });
+      if (!r.ok) return;
+      const d = await r.json();
+      if (d.games) state.details = d.games;
+    } catch (e) { /* keep last-known details */ }
+  }
 
   /* =========================================================================
      REFRESH LOOP + CLOCK
@@ -602,6 +612,7 @@
   async function refreshCycle() {
     if (state.live) await fetchLive();
     await fetchNews();
+    await fetchDetails();
     renderBoard(true);              // advance the movement baseline each cycle
     countdown = CFG.refreshSeconds;
   }
@@ -747,39 +758,33 @@
       </div>
       <div class="md-meta">${g.group ? "Group " + g.group + " · " : ""}${esc(g.venue || "")}${g.date ? " · " + new Date(g.date).toLocaleString() : ""}</div>`;
   }
-  async function openMatchModal(id) {
+  function openMatchModal(id) {
     const g = state.computed && state.computed.byId[id]; if (!g) return;
     const link = `https://www.espn.com/soccer/match/_/gameId/${id}`;
-    showModal(`${matchHeaderHtml(g)}<div id="md-body">${g.status === "scheduled"
+    const det = state.details && state.details[id];
+    const body = g.status === "scheduled"
       ? `<div class="md-empty">Kicks off ${g.date ? new Date(g.date).toLocaleString() : "soon"}.</div>`
-      : `<div class="md-loading">Loading match data…</div>`}</div>
+      : det ? matchDetailHtml(det)
+      : `<div class="md-empty">Detailed data lands within ~5 minutes of kickoff — check back shortly, or open the full match on ESPN below.</div>`;
+    showModal(`${matchHeaderHtml(g)}<div id="md-body">${body}</div>
       <div class="md-foot"><a href="${link}" target="_blank" rel="noopener" class="foot-link">Full match on ESPN ↗</a></div>`);
-    if (g.status === "scheduled") return;
-    try {
-      const d = await (await fetch(ESPN_SUMMARY + id, { cache: "no-store" })).json();
-      renderMatchDetail(d, g);
-    } catch (e) {
-      const b = $("#md-body"); if (b) b.innerHTML = `<div class="md-empty">Detailed data couldn't load here — open the full match on ESPN below.</div>`;
-    }
   }
-  function renderMatchDetail(d, g) {
-    const body = $("#md-body"); if (!body) return;
-    const teams = (d.boxscore && d.boxscore.teams) || [];
-    const sideOf = {}; teams.forEach((t, i) => { sideOf[t.team && t.team.id] = t.homeAway || (i === 0 ? "home" : "away"); });
+  function matchDetailHtml(det) {
     const icon = (k) => /red card/i.test(k) ? "🟥" : /yellow/i.test(k) ? "🟨" : /goal/i.test(k) ? "⚽" : /sub/i.test(k) ? "🔁" : "•";
-    const evs = (d.keyEvents || []).filter((e) => /goal|card|substitution/i.test((e.type && e.type.text) || "")).map((e) => {
-      const side = sideOf[e.team && e.team.id] || "n";
-      const player = (e.athletesInvolved && e.athletesInvolved[0] && e.athletesInvolved[0].displayName) || ((e.type && e.type.text) || "");
-      return `<div class="md-ev md-ev-${side}"><span class="md-ev-min">${esc((e.clock && e.clock.displayValue) || "")}</span><span class="md-ev-ic">${icon((e.type && e.type.text) || "")}</span><span class="md-ev-tx">${esc(player)}</span></div>`;
-    }).join("");
-    const pick = {}; teams.forEach((t) => { const s = sideOf[t.team && t.team.id]; const o = {}; (t.statistics || []).forEach((x) => o[x.name] = x.displayValue); pick[s] = o; });
-    const statRow = (label, key) => {
-      const h = (pick.home && pick.home[key]) || "0", a = (pick.away && pick.away[key]) || "0";
+    const evs = (det.events || []).map((e) => `<div class="md-ev md-ev-${e.side || "n"}"><span class="md-ev-min">${esc(e.min || "")}</span><span class="md-ev-ic">${icon(e.kind || "")}</span><span class="md-ev-tx">${esc(e.player || e.kind || "")}</span></div>`).join("");
+    const S = det.stats || {};
+    const statRow = (label, key, suf) => {
+      if (!(S.home && S.home[key] != null) && !(S.away && S.away[key] != null)) return "";
+      const h = (S.home && S.home[key]) || "0", a = (S.away && S.away[key]) || "0";
       const hv = parseFloat(h) || 0, av = parseFloat(a) || 0, tot = hv + av || 1;
-      return `<div class="md-stat"><span>${esc(h)}</span><div class="md-bar"><i style="width:${(hv / tot * 100).toFixed(0)}%"></i></div><b>${label}</b><div class="md-bar md-bar-a"><i style="width:${(av / tot * 100).toFixed(0)}%"></i></div><span>${esc(a)}</span></div>`;
+      return `<div class="md-stat"><span>${esc(h)}${suf || ""}</span><div class="md-bar"><i style="width:${(hv / tot * 100).toFixed(0)}%"></i></div><b>${label}</b><div class="md-bar md-bar-a"><i style="width:${(av / tot * 100).toFixed(0)}%"></i></div><span>${esc(a)}${suf || ""}</span></div>`;
     };
-    const stats = (pick.home || pick.away) ? `<div class="md-section">Match stats</div>${statRow("Possession %", "possessionPct")}${statRow("Shots", "totalShots")}${statRow("On target", "shotsOnTarget")}${statRow("Corners", "wonCorners")}${statRow("Fouls", "foulsCommitted")}${statRow("Yellow cards", "yellowCards")}` : "";
-    body.innerHTML = (evs ? `<div class="md-section">Key events</div><div class="md-events">${evs}</div>` : "") + stats
+    const stats = (S.home || S.away) ? `<div class="md-section">Match stats</div>${statRow("Possession", "possessionPct", "%")}${statRow("Shots", "totalShots")}${statRow("On target", "shotsOnTarget")}${statRow("Corners", "wonCorners")}${statRow("Fouls", "foulsCommitted")}${statRow("Offsides", "offsides")}${statRow("Yellow", "yellowCards")}${statRow("Saves", "saves")}` : "";
+    const LU = det.lineups || {};
+    const col = (arr) => (arr || []).map((p) => `<div class="md-pl"><span class="md-pos">${esc(p.pos || "")}</span>${esc(p.name)}</div>`).join("");
+    const lineups = (LU.home && LU.home.length) || (LU.away && LU.away.length)
+      ? `<div class="md-section">Lineups</div><div class="md-lineups"><div>${col(LU.home)}</div><div class="md-lu-a">${col(LU.away)}</div></div>` : "";
+    return (evs ? `<div class="md-section">Key events</div><div class="md-events">${evs}</div>` : "") + stats + lineups
       || `<div class="md-empty">No detailed data published for this match yet.</div>`;
   }
   function openManagerModal(name) {
@@ -787,17 +792,20 @@
     const all = state.computed.allGames;
     const teamBlock = (t) => {
       const ct = canon(t), pts = state.computed.team[ct].fpts;
-      const rows = all.filter((x) => x.home === ct || x.away === ct).sort((a, b) => (Date.parse(a.date) || 0) - (Date.parse(b.date) || 0)).map((x) => {
+      const fixtures = all.filter((x) => x.home === ct || x.away === ct).sort((a, b) => (Date.parse(a.date) || 0) - (Date.parse(b.date) || 0));
+      const played = fixtures.filter((x) => x.status === "finished").length;
+      const left = fixtures.filter((x) => x.status !== "finished");        // games LEFT to play (scheduled + live)
+      const rows = left.length ? left.map((x) => {
         const opp = x.home === ct ? x.away : x.home, va = x.home === ct ? "vs" : "at";
         const sc = x.home === ct ? `${x.hs}-${x.as}` : `${x.as}-${x.hs}`;
-        const res = x.status === "finished" ? `<b>${sc}</b>` : x.status === "live" ? `<span class="md-live">LIVE ${sc}</span>`
-          : `<span class="dim">${x.date ? new Date(x.date).toLocaleString(undefined, { month: "short", day: "numeric", hour: "numeric", minute: "2-digit" }) : "TBD"}</span>`;
-        return `<div class="sch-row${x.id ? " lg-click" : ""}"${x.id ? ` data-mid="${esc(x.id)}"` : ""}><span class="sch-opp">${esc(va)} ${esc(opp)}</span><span class="sch-res">${res}</span></div>`;
-      }).join("") || `<div class="dim" style="padding:6px 2px">No fixtures.</div>`;
-      return `<div class="sch-team"><div class="sch-th">${esc(ct)} <span class="sch-pts">${pts} pts</span></div>${rows}</div>`;
+        const when = x.status === "live" ? `<span class="md-live">🔴 LIVE ${sc}</span>`
+          : `<span class="dim">${x.date ? new Date(x.date).toLocaleString(undefined, { weekday: "short", month: "short", day: "numeric", hour: "numeric", minute: "2-digit" }) : "TBD"}</span>`;
+        return `<div class="sch-row${x.id ? " lg-click" : ""}"${x.id ? ` data-mid="${esc(x.id)}"` : ""}><span class="sch-opp">${esc(va)} ${esc(opp)}</span><span class="sch-res">${when}</span></div>`;
+      }).join("") : `<div class="dim" style="padding:6px 2px">✓ no games left</div>`;
+      return `<div class="sch-team"><div class="sch-th">${esc(ct)} <span class="sch-pts">${pts} pts · ${played} played</span></div>${rows}</div>`;
     };
     showModal(`<button class="modal-x">✕</button>
-      <div class="sch-head">${mgr.emoji} <b>${esc(name)}</b> — team schedules</div>
+      <div class="sch-head">${mgr.emoji} <b>${esc(name)}</b> — games left to play</div>
       <div class="sch-grid">${mgr.teams.map(teamBlock).join("")}</div>`);
   }
 

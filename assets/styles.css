@@ -17,8 +17,8 @@ h1{font-size:20px;margin:0;letter-spacing:.3px}
 
 /* ---------------- NYSE ticker ---------------- */
 .topstrip{position:sticky;top:0;z-index:50;box-shadow:var(--shadow)}
-.live-bar{display:flex;justify-content:center;align-items:center;background:#0a1322;
-  border-bottom:1px solid var(--line);padding:6px 0}
+.live-bar{display:flex;justify-content:flex-start;align-items:center;background:#0a1322;
+  border-top:1px solid var(--line);padding:6px 16px}
 .live-pill{background:var(--red);color:#fff;font-weight:800;letter-spacing:1.5px;font-size:11px;
   padding:3px 15px;border-radius:999px;animation:pulse 1.4s infinite}
 .ticker{display:flex;align-items:center;background:linear-gradient(90deg,#06203b,#0a1428);
@@ -262,6 +262,11 @@ h1{font-size:20px;margin:0;letter-spacing:.3px}
 .md-loading,.md-empty{padding:24px 16px;text-align:center;color:var(--dim);font-size:13px}
 .md-foot{padding:14px 16px;border-top:1px solid var(--line);text-align:center}
 .md-live{color:var(--red);font-weight:700}
+.md-lineups{display:grid;grid-template-columns:1fr 1fr;padding:6px 16px 14px;max-height:230px;overflow:auto}
+.md-lineups>div{padding:0 8px}
+.md-lu-a{border-left:1px solid var(--line)}
+.md-pl{font-size:12px;padding:3px 0;display:flex;gap:8px;align-items:baseline;border-bottom:1px solid rgba(255,255,255,.04)}
+.md-pos{min-width:30px;color:var(--dim);font-weight:700;font-size:10px;text-align:right;flex:0 0 30px}
 .mgr-link{cursor:pointer;border-bottom:1px dotted rgba(255,255,255,.35)}
 .mgr-link:hover{color:var(--gold);border-bottom-color:var(--gold)}
 .lg-click{cursor:pointer}

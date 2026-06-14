@@ -80,6 +80,11 @@ fetch script logs it as `⚠ UNMAPPED` in the Actions log — add the spelling t
 Shutout **1** · team wins its group **+5** · group runner-up **+3**.
 A manager's score = the sum of their **4** teams' points.
 
+**Points are awarded only when a game goes _final_** (matching the league
+spreadsheet's "as games end" rule). A match in progress shows in the **Games
+Played** panel marked 🔴 live, but it does not move the standings until it ends.
+The Games Played panel is the running log of every completed match.
+
 **Knockout, Round of 32 → Final (Jun 28 – Jul 19):** each Goal **1** ·
 Shutout **1** · reach R16 **+1** · QF **+2** · SF **+4** · Final **+6** ·
 Champion **+8**. (Appearance bonus = the furthest round a team reaches.)

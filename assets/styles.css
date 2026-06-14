@@ -114,6 +114,20 @@ h1{font-size:20px;margin:0;letter-spacing:.3px}
 .sp-note{padding:11px 14px;font-size:12.5px;color:var(--dim);border-top:1px solid var(--line)}
 .sp-note b{color:var(--ink)}
 
+/* ---------------- games played log ---------------- */
+.lg-livewrap{padding:8px 10px;border-bottom:1px solid var(--line);background:rgba(255,93,108,.06)}
+.lg-list{max-height:340px;overflow:auto}
+.lg-row{display:flex;align-items:center;gap:9px;padding:7px 12px;border-top:1px solid var(--line);font-size:13px}
+.lg-livewrap .lg-row{border-top:none}
+.lg-row:first-child{border-top:none}
+.lg-live{color:var(--ink)}
+.lg-live .lg-g{animation:pulse 1.4s infinite}
+.lg-g{flex:0 0 24px;text-align:center;font-weight:800;font-size:11px;color:var(--dim)}
+.lg-m{flex:1}
+.lg-m b{color:var(--gold);font-variant-numeric:tabular-nums;margin:0 3px}
+.lg-own{font-size:13px;opacity:.85}
+.lg-empty{padding:14px;color:var(--dim);font-size:13px;text-align:center}
+
 /* ---------------- groups ---------------- */
 .groups-panel{margin:18px 22px 0}
 .groups{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:12px;padding:14px}

@@ -72,13 +72,16 @@
     const team = {};
     ALL_TEAMS.forEach((t) => (team[t] = blankTeam()));
 
-    // ----- process matches (live + finished both count toward the board) -----
+    // ----- process matches: ONLY finished games score points. A game must
+    //       END before it counts — this matches the league spreadsheet, where
+    //       points are awarded "as games end". Live games are shown in the
+    //       games log / ticker but don't move the standings until final. -----
     const matches = Array.isArray(R.matches) ? R.matches : [];
     const groupPlayed = {}; // group -> count of finished group matches
     Object.keys(L.groups).forEach((g) => (groupPlayed[g] = 0));
 
     matches.forEach((m) => {
-      if (!m || m.status === "scheduled") return;
+      if (!m || m.status !== "finished") return;
       const home = canon(m.home), away = canon(m.away);
       if (!team[home] || !team[away]) return;            // unknown team, skip
       const hs = Number(m.homeScore) || 0, as = Number(m.awayScore) || 0;
@@ -137,7 +140,7 @@
     // ----- knockout appearance bonuses (explicit map or derived) -------------
     const koMap = Object.assign({}, R.knockout || {});
     matches.forEach((m) => {
-      if (!m || m.stage === "group" || m.status === "scheduled") return;
+      if (!m || m.stage === "group" || m.status !== "finished") return;
       [canon(m.home), canon(m.away)].forEach((t) => {
         if (!team[t]) return;
         const cur = koMap[t];
@@ -170,7 +173,17 @@
     }));
     sidePool.sort((a, b) => (b.topHit + b.ruHit) - (a.topHit + a.ruHit) || a.manager.localeCompare(b.manager));
 
-    return { team, managers, groupTables, eight, actualTop, actualRU, sidePool };
+    // ----- games log (finished) + live-now (in progress) for display ---------
+    const known = (m) => m && team[canon(m.home)] && team[canon(m.away)];
+    const fmt = (m) => ({
+      home: canon(m.home), away: canon(m.away),
+      hs: Number(m.homeScore) || 0, as: Number(m.awayScore) || 0,
+      group: GROUP_OF[canon(m.home)] || null, stage: m.stage || "group"
+    });
+    const log = matches.filter((m) => known(m) && m.status === "finished").map(fmt);
+    const liveNow = matches.filter((m) => known(m) && m.status === "live").map(fmt);
+
+    return { team, managers, groupTables, eight, actualTop, actualRU, sidePool, log, liveNow };
   }
 
   /* =========================================================================
@@ -319,6 +332,27 @@
       </div>`;
   }
 
+  function renderGames(computed) {
+    const box = $("#games");
+    if (!box) return;
+    const ownerTag = (t) => {
+      const o = OWNER_OF[t]; const mgr = o ? MANAGER[o] : null;
+      return mgr ? `<span class="lg-own" title="${esc(o)}">${mgr.emoji}</span>` : "";
+    };
+    const row = (m, live) => `<div class="lg-row${live ? " lg-live" : ""}">
+      <span class="lg-g">${live ? "🔴" : (m.group || m.stage)}</span>
+      <span class="lg-m">${esc(m.home)} ${ownerTag(m.home)} <b>${m.hs}–${m.as}</b> ${ownerTag(m.away)} ${esc(m.away)}</span></div>`;
+    const live = computed.liveNow.map((m) => row(m, true)).join("");
+    const finished = computed.log.slice().reverse();   // newest first
+    const done = finished.length ? finished.map((m) => row(m, false)).join("")
+      : `<div class="lg-empty">No games have finished yet.</div>`;
+    box.innerHTML = `
+      <div class="panel-h">📋 Games Played
+        <span class="dim">${finished.length} final${computed.liveNow.length ? ` · ${computed.liveNow.length} live` : ""}</span></div>
+      ${live ? `<div class="lg-livewrap">${live}</div>` : ""}
+      <div class="lg-list">${done}</div>`;
+  }
+
   /* ---------- full board render -------------------------------------------- */
   function renderBoard(advanceBaseline) {
     const computed = computeState();
@@ -331,6 +365,7 @@
     renderGroups(computed);
     renderSidePool(computed);
     renderPots(computed);
+    renderGames(computed);
 
     const lu = state.lastFetch || state.results.lastUpdated;
     $("#last-updated").textContent = lu ? new Date(lu).toLocaleString() : "—";

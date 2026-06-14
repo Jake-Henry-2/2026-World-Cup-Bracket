@@ -1,13 +1,20 @@
 {
-  "lastUpdated": "2026-06-14T04:06:35.851Z",
+  "lastUpdated": "2026-06-14T04:20:05.585Z",
   "source": "ESPN",
   "articles": [
     {
       "headline": "Socceroos vs. Türkiye LIVE: Australia's opening 2026 World Cup match",
-      "description": "Tony Popovic's Socceroos take on Türkiye at BC Place in Vancouver, Canada. Follow all the action below LIVE with ESPN.",
-      "published": "2026-06-14T04:05:05Z",
+      "description": "With Group D wide open after the USMNT's 4-1 win over Paraguay, can Australia or Türkiye take the initiative? Follow all the action LIVE with ESPN.",
+      "published": "2026-06-14T04:17:29Z",
       "link": "https://www.espn.com/soccer/story/_/id/49055324/socceroos-vs-turkiye-live-australias-opening-2026-world-cup-match",
-      "image": "https://a.espncdn.com/photo/2026/0614/r1672787_1296x729_16-9.jpg"
+      "image": "https://a.espncdn.com/photo/2026/0614/r1672790_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Scotland goes top of Group C with 1-0 win over Haiti",
+      "description": "John McGinn was the hero for Scotland as his strike was the difference in their first World Cup win since 1990.",
+      "published": "2026-06-14T04:17:53Z",
+      "link": "https://www.espn.com/video/clip/_/id/49057235/scotland-goes-top-group-c-1-0-win-haiti",
+      "image": "https://a.espncdn.com/media/motion/2026/0613/dm_260613_Soccer_HIGHLIGHT_Scotland_goes_top_of_Group_C_with_1_0_win_over_Haiti_20260614_AUS/dm_260613_Soccer_HIGHLIGHT_Scotland_goes_top_of_Group_C_with_1_0_win_over_Haiti_20260614_AUS.jpg"
     },
     {
       "headline": "Scotland make 28-year World Cup drought worth the wait on winning return",
@@ -36,13 +43,6 @@
       "published": "2026-06-14T03:30:27Z",
       "link": "https://www.espn.com/soccer/story/_/id/49047065/world-cup-daily-brazil-fans-take-nyc-ahead-knicks-game-ronaldo-arrives",
       "image": "https://a.espncdn.com/photo/2026/0614/r1672700_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Scotland beat Haiti for 1st World Cup win in 36 years",
-      "description": "John McGinn deflected a shot off an opposing defender and past goalkeeper Johny Placide in the 28th minute, and Scotland defeated Haiti 1-0 in Group C of the World Cup on Saturday.",
-      "published": "2026-06-14T03:18:01Z",
-      "link": "http://www.espn.com/soccer/report/_/gameId/760418",
-      "image": "https://a.espncdn.com/photo/2026/0614/r1672745_1296x729_16-9.jpg"
     }
   ]
 }

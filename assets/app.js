@@ -496,6 +496,43 @@
       <div class="news-grid">${cards}</div>`;
   }
 
+  // Goal highlights — every goal across played matches, tagged with the owner's emoji
+  function renderHighlights() {
+    const box = $("#highlights"); if (!box) return;
+    const details = state.details || {}, byId = (state.computed && state.computed.byId) || {};
+    const goals = [];
+    Object.keys(details).forEach((mid) => {
+      const det = details[mid], m = byId[mid];
+      if (!det || !m) return;
+      (det.events || []).filter((e) => /goal/i.test(e.kind || "")).forEach((e) => {
+        const team = e.side === "away" ? m.away : m.home;
+        const owner = OWNER_OF[team];
+        goals.push({
+          mid, scorer: e.player || team, min: e.min || "",
+          emoji: owner ? MANAGER[owner].emoji : "⚽", ownerName: owner || "",
+          team, date: m.date, home: m.home, away: m.away, hs: m.hs, as: m.as,
+          thumb: (det.highlight && det.highlight.thumb) || "",
+          link: (det.highlight && det.highlight.link) || `https://www.espn.com/soccer/match/_/gameId/${mid}`
+        });
+      });
+    });
+    goals.sort((a, b) => (Date.parse(b.date) || 0) - (Date.parse(a.date) || 0));
+    if (!goals.length) {
+      box.innerHTML = `<div class="panel-h">🎬 Goal Highlights <span class="dim">from ESPN</span></div>
+        <div class="hl-empty">Goal highlights show up here as matches are played.</div>`;
+      return;
+    }
+    const cards = goals.map((g) => `
+      <a class="hl-card" href="${esc(g.link)}" target="_blank" rel="noopener noreferrer" title="Watch ${esc(g.home)} v ${esc(g.away)} on ESPN">
+        <div class="hl-thumb"${g.thumb ? ` style="background-image:url('${esc(g.thumb)}')"` : ""}><span class="hl-play">▶</span></div>
+        <div class="hl-body">
+          <div class="hl-scorer"><span class="hl-emoji" title="${esc(g.ownerName || g.team)}">${g.emoji}</span><span class="hl-name">${esc(g.scorer)}</span>${g.min ? `<span class="hl-min">${esc(g.min)}</span>` : ""}</div>
+          <div class="hl-match">${esc(g.home)} <b>${g.hs}–${g.as}</b> ${esc(g.away)}</div>
+        </div></a>`).join("");
+    box.innerHTML = `<div class="panel-h">🎬 Goal Highlights <span class="dim">${goals.length} goals · tap to watch on ESPN</span></div>
+      <div class="hl-grid">${cards}</div>`;
+  }
+
   /* ---------- full board render -------------------------------------------- */
   function renderBoard(advanceBaseline) {
     const computed = computeState();
@@ -513,6 +550,7 @@
     renderPreseason(computed);
     renderRules();
     renderNews();
+    renderHighlights();
 
     const lu = state.lastFetch || state.results.lastUpdated;
     $("#last-updated").textContent = lu ? new Date(lu).toLocaleString() : "—";

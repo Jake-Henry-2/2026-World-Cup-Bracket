@@ -174,10 +174,15 @@ async function fetchDetail(id) {
     const o = {}; (t.statistics || []).forEach((s) => { o[s.name] = s.displayValue; });
     stats[side] = o;
   });
+  const scorerOf = (e) => {
+    const a = (e.athletesInvolved && e.athletesInvolved[0]) || null;
+    if (!a) return (e.text || "").replace(/\s*\(.*$/, "").trim();   // last resort: strip "(assist…)" from the play text
+    return a.displayName || a.shortName || (a.athlete && a.athlete.displayName) || "";
+  };
   const events = (d.keyEvents || []).filter((e) => /goal|card|substitution|penalty/i.test((e.type && e.type.text) || "")).map((e) => ({
     kind: (e.type && e.type.text) || "", min: (e.clock && e.clock.displayValue) || "",
     side: sideOf[e.team && e.team.id] || null,
-    player: (e.athletesInvolved && e.athletesInvolved[0] && e.athletesInvolved[0].displayName) || ""
+    player: scorerOf(e)
   }));
   const lineups = {};
   (d.rosters || []).forEach((r) => {
@@ -187,13 +192,20 @@ async function fetchDetail(id) {
       name: (p.athlete && p.athlete.displayName) || "", pos: (p.position && p.position.abbreviation) || ""
     })).filter((p) => p.name);
   });
-  return { venue: (d.gameInfo && d.gameInfo.venue && d.gameInfo.venue.fullName) || "", stats, events, lineups };
+  const v0 = (d.videos || [])[0];
+  const highlight = v0 ? {
+    thumb: v0.thumbnail || (v0.images && v0.images[0] && (v0.images[0].url || v0.images[0].href)) || "",
+    link: (v0.links && ((v0.links.web && v0.links.web.href) || (v0.links.source && v0.links.source.href) || (v0.links.mobile && v0.links.mobile.href))) || "",
+    headline: v0.headline || ""
+  } : null;
+  return { venue: (d.gameInfo && d.gameInfo.venue && d.gameInfo.venue.fullName) || "", stats, events, lineups, highlight };
 }
 let details = {};
 try { details = (JSON.parse(readFileSync("data/details.json", "utf8")).games) || {}; } catch (e) { details = {}; }
 let dGot = 0;
 for (const m of matches.filter((x) => x.id && (x.status === "finished" || x.status === "live"))) {
-  if (m.status === "finished" && details[m.id] && details[m.id].final) continue;   // cached final — skip
+  // cached final — skip, but re-fetch once if it predates a newer field (e.g. highlight capture)
+  if (m.status === "finished" && details[m.id] && details[m.id].final && ("highlight" in details[m.id])) continue;
   try { const det = await fetchDetail(m.id); det.final = (m.status === "finished"); details[m.id] = det; dGot++; }
   catch (e) { console.error("detail fail", m.id, e.message); }
 }

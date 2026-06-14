@@ -384,8 +384,9 @@
     try {
       let matches = [];
       if (live.provider === "custom") {
-        const url = (live.proxyUrl || "") + (live.customUrl || "");
-        if (!url) throw new Error("customUrl not set");
+        const base = (live.proxyUrl || "") + (live.customUrl || "");
+        if (!base) throw new Error("customUrl not set");
+        const url = base + (base.includes("?") ? "&" : "?") + "t=" + Date.now(); // bust CDN/browser cache
         const data = await (await fetch(url, { cache: "no-store" })).json();
         matches = (data.matches || data).map(normalizeCustom);
       } else if (live.provider === "football-data") {

@@ -35,6 +35,9 @@ jobs:
         continue-on-error: true     # a transient ESPN hiccup must never block the deploy
         run: node scripts/fetch-scores.mjs
 
+      - name: Cache-bust assets (stamp build id)
+        run: sed -i "s/__BUILD__/${GITHUB_SHA::8}/g" index.html
+
       - name: Configure Pages
         uses: actions/configure-pages@v5
         with:

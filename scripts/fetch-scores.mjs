@@ -162,7 +162,7 @@ try {
    same-origin (no browser CORS). Finished matches are cached; only live + new
    finals are re-fetched each run. -------------------------------------------- */
 const SUMMARY = "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/summary?event=";
-async function fetchDetail(id) {
+async function fetchDetail(id, home, away) {
   const res = await fetch(SUMMARY + id, { headers: { "User-Agent": "wc2026-tracker" } });
   if (!res.ok) throw new Error("HTTP " + res.status);
   const d = await res.json();
@@ -194,7 +194,22 @@ async function fetchDetail(id) {
   });
   // grab the match highlight video — capture a directly-playable source (mp4 preferred, else HLS)
   // so the page can embed and play the actual goals inline (a <video> plays cross-origin without CORS).
-  const v0 = (d.videos || [])[0];
+  // ESPN lists pressers/interviews alongside the goals reel, so rank for actual goal/highlight footage.
+  const pickVid = (vids) => {
+    if (!vids || !vids.length) return null;
+    const h = (home || "").toLowerCase(), a = (away || "").toLowerCase();
+    const rank = (v) => {
+      const t = ((v.headline || "") + " " + (v.description || "") + " " + (v.caption || "")).toLowerCase();
+      let s = 0;
+      if (/\bhighlight|condensed|all the goals|extended|full match|match recap|game recap/.test(t)) s += 6;
+      if (/\bgoal/.test(t)) s += 4;
+      if (h && a && t.includes(h) && t.includes(a)) s += 2;     // "Brazil vs Morocco …"
+      if (/press conf|presser|reaction|react\b|interview|preview|analysis|pre-?match|post-?match|talks|speaks|on the win|on the loss/.test(t)) s -= 6;
+      return s;
+    };
+    return vids.slice().map((v, i) => ({ v, i, s: rank(v) })).sort((x, y) => y.s - x.s || x.i - y.i)[0].v;
+  };
+  const v0 = pickVid(d.videos);
   let highlight = null;
   if (v0) {
     const src = (v0.links && v0.links.source) || {};
@@ -215,14 +230,14 @@ async function fetchDetail(id) {
   }
   return { venue: (d.gameInfo && d.gameInfo.venue && d.gameInfo.venue.fullName) || "", stats, events, lineups, highlight };
 }
-const DETAIL_VERSION = 2;   // bump when fetchDetail's shape changes → forces a one-time re-fetch of cached finals
+const DETAIL_VERSION = 3;   // bump when fetchDetail's shape changes → forces a one-time re-fetch of cached finals
 let details = {};
 try { details = (JSON.parse(readFileSync("data/details.json", "utf8")).games) || {}; } catch (e) { details = {}; }
 let dGot = 0;
 for (const m of matches.filter((x) => x.id && (x.status === "finished" || x.status === "live"))) {
   // cached final — skip, unless it predates the current detail shape (e.g. playable video sources)
   if (m.status === "finished" && details[m.id] && details[m.id].final && details[m.id].dv === DETAIL_VERSION) continue;
-  try { const det = await fetchDetail(m.id); det.final = (m.status === "finished"); det.dv = DETAIL_VERSION; details[m.id] = det; dGot++; }
+  try { const det = await fetchDetail(m.id, m.home, m.away); det.final = (m.status === "finished"); det.dv = DETAIL_VERSION; details[m.id] = det; dGot++; }
   catch (e) { console.error("detail fail", m.id, e.message); }
 }
 writeFileSync("data/details.json", JSON.stringify({ lastUpdated: new Date().toISOString(), games: details }, null, 2) + "\n");

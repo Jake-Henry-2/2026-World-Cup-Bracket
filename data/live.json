@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T03:00:22.227Z",
+  "lastUpdated": "2026-06-14T03:11:09.678Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -9,7 +9,9 @@
       "homeScore": 2,
       "awayScore": 0,
       "status": "finished",
-      "date": "2026-06-11T19:00Z"
+      "id": "760415",
+      "date": "2026-06-11T19:00Z",
+      "venue": "Estadio Banorte"
     },
     {
       "stage": "group",
@@ -18,7 +20,9 @@
       "homeScore": 2,
       "awayScore": 1,
       "status": "finished",
-      "date": "2026-06-12T02:00Z"
+      "id": "760414",
+      "date": "2026-06-12T02:00Z",
+      "venue": "Estadio Akron"
     },
     {
       "stage": "group",
@@ -27,7 +31,9 @@
       "homeScore": 1,
       "awayScore": 1,
       "status": "finished",
-      "date": "2026-06-12T19:00Z"
+      "id": "760416",
+      "date": "2026-06-12T19:00Z",
+      "venue": "BMO Field"
     },
     {
       "stage": "group",
@@ -36,7 +42,9 @@
       "homeScore": 4,
       "awayScore": 1,
       "status": "finished",
-      "date": "2026-06-13T01:00Z"
+      "id": "760417",
+      "date": "2026-06-13T01:00Z",
+      "venue": "SoFi Stadium"
     },
     {
       "stage": "group",
@@ -45,7 +53,9 @@
       "homeScore": 1,
       "awayScore": 1,
       "status": "finished",
-      "date": "2026-06-13T19:00Z"
+      "id": "760420",
+      "date": "2026-06-13T19:00Z",
+      "venue": "Levi's Stadium"
     },
     {
       "stage": "group",
@@ -54,7 +64,9 @@
       "homeScore": 1,
       "awayScore": 1,
       "status": "finished",
-      "date": "2026-06-13T22:00Z"
+      "id": "760419",
+      "date": "2026-06-13T22:00Z",
+      "venue": "MetLife Stadium"
     },
     {
       "stage": "group",
@@ -62,11 +74,10 @@
       "away": "Scotland",
       "homeScore": 0,
       "awayScore": 1,
-      "status": "live",
+      "status": "finished",
+      "id": "760418",
       "date": "2026-06-14T01:00Z",
-      "clock": 5400,
-      "displayClock": "90'+6'",
-      "detail": "90'+6'"
+      "venue": "Gillette Stadium"
     },
     {
       "stage": "group",
@@ -75,7 +86,9 @@
       "homeScore": 0,
       "awayScore": 0,
       "status": "scheduled",
-      "date": "2026-06-14T04:00Z"
+      "id": "760421",
+      "date": "2026-06-14T04:00Z",
+      "venue": "BC Place"
     },
     {
       "stage": "group",
@@ -84,7 +97,9 @@
       "homeScore": 0,
       "awayScore": 0,
       "status": "scheduled",
-      "date": "2026-06-14T17:00Z"
+      "id": "760422",
+      "date": "2026-06-14T17:00Z",
+      "venue": "NRG Stadium"
     },
     {
       "stage": "group",
@@ -93,7 +108,9 @@
       "homeScore": 0,
       "awayScore": 0,
       "status": "scheduled",
-      "date": "2026-06-14T20:00Z"
+      "id": "760425",
+      "date": "2026-06-14T20:00Z",
+      "venue": "AT&T Stadium"
     },
     {
       "stage": "group",
@@ -102,7 +119,9 @@
       "homeScore": 0,
       "awayScore": 0,
       "status": "scheduled",
-      "date": "2026-06-14T23:00Z"
+      "id": "760423",
+      "date": "2026-06-14T23:00Z",
+      "venue": "Lincoln Financial Field"
     },
     {
       "stage": "group",
@@ -111,7 +130,9 @@
       "homeScore": 0,
       "awayScore": 0,
       "status": "scheduled",
-      "date": "2026-06-15T02:00Z"
+      "id": "760424",
+      "date": "2026-06-15T02:00Z",
+      "venue": "Estadio BBVA"
     },
     {
       "stage": "group",
@@ -120,7 +141,9 @@
       "homeScore": 0,
       "awayScore": 0,
       "status": "scheduled",
-      "date": "2026-06-15T16:00Z"
+      "id": "760428",
+      "date": "2026-06-15T16:00Z",
+      "venue": "Mercedes-Benz Stadium"
     },
     {
       "stage": "group",
@@ -129,7 +152,9 @@
       "homeScore": 0,
       "awayScore": 0,
       "status": "scheduled",
-      "date": "2026-06-15T19:00Z"
+      "id": "760426",
+      "date": "2026-06-15T19:00Z",
+      "venue": "Lumen Field"
     },
     {
       "stage": "group",
@@ -138,7 +163,9 @@
       "homeScore": 0,
       "awayScore": 0,
       "status": "scheduled",
-      "date": "2026-06-15T22:00Z"
+      "id": "760429",
+      "date": "2026-06-15T22:00Z",
+      "venue": "Hard Rock Stadium"
     },
     {
       "stage": "group",
@@ -147,7 +174,9 @@
       "homeScore": 0,
       "awayScore": 0,
       "status": "scheduled",
-      "date": "2026-06-16T01:00Z"
+      "id": "760427",
+      "date": "2026-06-16T01:00Z",
+      "venue": "SoFi Stadium"
     },
     {
       "stage": "group",
@@ -156,7 +185,9 @@
       "homeScore": 0,
       "awayScore": 0,
       "status": "scheduled",
-      "date": "2026-06-16T19:00Z"
+      "id": "760432",
+      "date": "2026-06-16T19:00Z",
+      "venue": "MetLife Stadium"
     },
     {
       "stage": "group",
@@ -165,7 +196,9 @@
       "homeScore": 0,
       "awayScore": 0,
       "status": "scheduled",
-      "date": "2026-06-16T22:00Z"
+      "id": "760430",
+      "date": "2026-06-16T22:00Z",
+      "venue": "Gillette Stadium"
     },
     {
       "stage": "group",
@@ -174,7 +207,900 @@
       "homeScore": 0,
       "awayScore": 0,
       "status": "scheduled",
-      "date": "2026-06-17T01:00Z"
+      "id": "760433",
+      "date": "2026-06-17T01:00Z",
+      "venue": "GEHA Field at Arrowhead Stadium"
+    },
+    {
+      "stage": "group",
+      "home": "Austria",
+      "away": "Jordan",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760431",
+      "date": "2026-06-17T04:00Z",
+      "venue": "Levi's Stadium"
+    },
+    {
+      "stage": "group",
+      "home": "Portugal",
+      "away": "DR Congo",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760435",
+      "date": "2026-06-17T17:00Z",
+      "venue": "NRG Stadium"
+    },
+    {
+      "stage": "group",
+      "home": "England",
+      "away": "Croatia",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760437",
+      "date": "2026-06-17T20:00Z",
+      "venue": "AT&T Stadium"
+    },
+    {
+      "stage": "group",
+      "home": "Ghana",
+      "away": "Panama",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760434",
+      "date": "2026-06-17T23:00Z",
+      "venue": "BMO Field"
+    },
+    {
+      "stage": "group",
+      "home": "Uzbekistan",
+      "away": "Colombia",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760436",
+      "date": "2026-06-18T02:00Z",
+      "venue": "Estadio Banorte"
+    },
+    {
+      "stage": "group",
+      "home": "Czechia",
+      "away": "South Africa",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760438",
+      "date": "2026-06-18T16:00Z",
+      "venue": "Mercedes-Benz Stadium"
+    },
+    {
+      "stage": "group",
+      "home": "Switzerland",
+      "away": "Bosnia and Herzegovina",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760439",
+      "date": "2026-06-18T19:00Z",
+      "venue": "SoFi Stadium"
+    },
+    {
+      "stage": "group",
+      "home": "Canada",
+      "away": "Qatar",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760440",
+      "date": "2026-06-18T22:00Z",
+      "venue": "BC Place"
+    },
+    {
+      "stage": "group",
+      "home": "Mexico",
+      "away": "South Korea",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760441",
+      "date": "2026-06-19T01:00Z",
+      "venue": "Estadio Akron"
+    },
+    {
+      "stage": "group",
+      "home": "United States",
+      "away": "Australia",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760442",
+      "date": "2026-06-19T19:00Z",
+      "venue": "Lumen Field"
+    },
+    {
+      "stage": "group",
+      "home": "Scotland",
+      "away": "Morocco",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760445",
+      "date": "2026-06-19T22:00Z",
+      "venue": "Gillette Stadium"
+    },
+    {
+      "stage": "group",
+      "home": "Brazil",
+      "away": "Haiti",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760444",
+      "date": "2026-06-20T00:30Z",
+      "venue": "Lincoln Financial Field"
+    },
+    {
+      "stage": "group",
+      "home": "Türkiye",
+      "away": "Paraguay",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760443",
+      "date": "2026-06-20T03:00Z",
+      "venue": "Levi's Stadium"
+    },
+    {
+      "stage": "group",
+      "home": "Netherlands",
+      "away": "Sweden",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760447",
+      "date": "2026-06-20T17:00Z",
+      "venue": "NRG Stadium"
+    },
+    {
+      "stage": "group",
+      "home": "Germany",
+      "away": "Ivory Coast",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760448",
+      "date": "2026-06-20T20:00Z",
+      "venue": "BMO Field"
+    },
+    {
+      "stage": "group",
+      "home": "Ecuador",
+      "away": "Curaçao",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760446",
+      "date": "2026-06-21T00:00Z",
+      "venue": "GEHA Field at Arrowhead Stadium"
+    },
+    {
+      "stage": "group",
+      "home": "Tunisia",
+      "away": "Japan",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760449",
+      "date": "2026-06-21T04:00Z",
+      "venue": "Estadio BBVA"
+    },
+    {
+      "stage": "group",
+      "home": "Spain",
+      "away": "Saudi Arabia",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760453",
+      "date": "2026-06-21T16:00Z",
+      "venue": "Mercedes-Benz Stadium"
+    },
+    {
+      "stage": "group",
+      "home": "Belgium",
+      "away": "Iran",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760451",
+      "date": "2026-06-21T19:00Z",
+      "venue": "SoFi Stadium"
+    },
+    {
+      "stage": "group",
+      "home": "Uruguay",
+      "away": "Cabo Verde",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760450",
+      "date": "2026-06-21T22:00Z",
+      "venue": "Hard Rock Stadium"
+    },
+    {
+      "stage": "group",
+      "home": "New Zealand",
+      "away": "Egypt",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760452",
+      "date": "2026-06-22T01:00Z",
+      "venue": "BC Place"
+    },
+    {
+      "stage": "group",
+      "home": "Argentina",
+      "away": "Austria",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760456",
+      "date": "2026-06-22T17:00Z",
+      "venue": "AT&T Stadium"
+    },
+    {
+      "stage": "group",
+      "home": "France",
+      "away": "Iraq",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760457",
+      "date": "2026-06-22T21:00Z",
+      "venue": "Lincoln Financial Field"
+    },
+    {
+      "stage": "group",
+      "home": "Norway",
+      "away": "Senegal",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760454",
+      "date": "2026-06-23T00:00Z",
+      "venue": "MetLife Stadium"
+    },
+    {
+      "stage": "group",
+      "home": "Jordan",
+      "away": "Algeria",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760455",
+      "date": "2026-06-23T03:00Z",
+      "venue": "Levi's Stadium"
+    },
+    {
+      "stage": "group",
+      "home": "Portugal",
+      "away": "Uzbekistan",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760461",
+      "date": "2026-06-23T17:00Z",
+      "venue": "NRG Stadium"
+    },
+    {
+      "stage": "group",
+      "home": "England",
+      "away": "Ghana",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760458",
+      "date": "2026-06-23T20:00Z",
+      "venue": "Gillette Stadium"
+    },
+    {
+      "stage": "group",
+      "home": "Panama",
+      "away": "Croatia",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760460",
+      "date": "2026-06-23T23:00Z",
+      "venue": "BMO Field"
+    },
+    {
+      "stage": "group",
+      "home": "Colombia",
+      "away": "DR Congo",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760459",
+      "date": "2026-06-24T02:00Z",
+      "venue": "Estadio Akron"
+    },
+    {
+      "stage": "group",
+      "home": "Bosnia and Herzegovina",
+      "away": "Qatar",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760462",
+      "date": "2026-06-24T19:00Z",
+      "venue": "Lumen Field"
+    },
+    {
+      "stage": "group",
+      "home": "Switzerland",
+      "away": "Canada",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760463",
+      "date": "2026-06-24T19:00Z",
+      "venue": "BC Place"
+    },
+    {
+      "stage": "group",
+      "home": "Morocco",
+      "away": "Haiti",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760464",
+      "date": "2026-06-24T22:00Z",
+      "venue": "Mercedes-Benz Stadium"
+    },
+    {
+      "stage": "group",
+      "home": "Scotland",
+      "away": "Brazil",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760465",
+      "date": "2026-06-24T22:00Z",
+      "venue": "Hard Rock Stadium"
+    },
+    {
+      "stage": "group",
+      "home": "Czechia",
+      "away": "Mexico",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760467",
+      "date": "2026-06-25T01:00Z",
+      "venue": "Estadio Banorte"
+    },
+    {
+      "stage": "group",
+      "home": "South Africa",
+      "away": "South Korea",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760466",
+      "date": "2026-06-25T01:00Z",
+      "venue": "Estadio BBVA"
+    },
+    {
+      "stage": "group",
+      "home": "Curaçao",
+      "away": "Ivory Coast",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760473",
+      "date": "2026-06-25T20:00Z",
+      "venue": "Lincoln Financial Field"
+    },
+    {
+      "stage": "group",
+      "home": "Ecuador",
+      "away": "Germany",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760468",
+      "date": "2026-06-25T20:00Z",
+      "venue": "MetLife Stadium"
+    },
+    {
+      "stage": "group",
+      "home": "Japan",
+      "away": "Sweden",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760471",
+      "date": "2026-06-25T23:00Z",
+      "venue": "AT&T Stadium"
+    },
+    {
+      "stage": "group",
+      "home": "Tunisia",
+      "away": "Netherlands",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760472",
+      "date": "2026-06-25T23:00Z",
+      "venue": "GEHA Field at Arrowhead Stadium"
+    },
+    {
+      "stage": "group",
+      "home": "Paraguay",
+      "away": "Australia",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760469",
+      "date": "2026-06-26T02:00Z",
+      "venue": "Levi's Stadium"
+    },
+    {
+      "stage": "group",
+      "home": "Türkiye",
+      "away": "United States",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760470",
+      "date": "2026-06-26T02:00Z",
+      "venue": "SoFi Stadium"
+    },
+    {
+      "stage": "group",
+      "home": "Norway",
+      "away": "France",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760475",
+      "date": "2026-06-26T19:00Z",
+      "venue": "Gillette Stadium"
+    },
+    {
+      "stage": "group",
+      "home": "Senegal",
+      "away": "Iraq",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760474",
+      "date": "2026-06-26T19:00Z",
+      "venue": "BMO Field"
+    },
+    {
+      "stage": "group",
+      "home": "Cabo Verde",
+      "away": "Saudi Arabia",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760478",
+      "date": "2026-06-27T00:00Z",
+      "venue": "NRG Stadium"
+    },
+    {
+      "stage": "group",
+      "home": "Uruguay",
+      "away": "Spain",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760479",
+      "date": "2026-06-27T00:00Z",
+      "venue": "Estadio Akron"
+    },
+    {
+      "stage": "group",
+      "home": "Egypt",
+      "away": "Iran",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760476",
+      "date": "2026-06-27T03:00Z",
+      "venue": "Lumen Field"
+    },
+    {
+      "stage": "group",
+      "home": "New Zealand",
+      "away": "Belgium",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760477",
+      "date": "2026-06-27T03:00Z",
+      "venue": "BC Place"
+    },
+    {
+      "stage": "group",
+      "home": "Croatia",
+      "away": "Ghana",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760480",
+      "date": "2026-06-27T21:00Z",
+      "venue": "Lincoln Financial Field"
+    },
+    {
+      "stage": "group",
+      "home": "Panama",
+      "away": "England",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760485",
+      "date": "2026-06-27T21:00Z",
+      "venue": "MetLife Stadium"
+    },
+    {
+      "stage": "group",
+      "home": "Colombia",
+      "away": "Portugal",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760481",
+      "date": "2026-06-27T23:30Z",
+      "venue": "Hard Rock Stadium"
+    },
+    {
+      "stage": "group",
+      "home": "DR Congo",
+      "away": "Uzbekistan",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760482",
+      "date": "2026-06-27T23:30Z",
+      "venue": "Mercedes-Benz Stadium"
+    },
+    {
+      "stage": "group",
+      "home": "Algeria",
+      "away": "Austria",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760484",
+      "date": "2026-06-28T02:00Z",
+      "venue": "GEHA Field at Arrowhead Stadium"
+    },
+    {
+      "stage": "group",
+      "home": "Jordan",
+      "away": "Argentina",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760483",
+      "date": "2026-06-28T02:00Z",
+      "venue": "AT&T Stadium"
+    },
+    {
+      "stage": "r32",
+      "home": "Group A 2nd Place",
+      "away": "Group B 2nd Place",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760486",
+      "date": "2026-06-28T19:00Z",
+      "venue": "SoFi Stadium"
+    },
+    {
+      "stage": "r32",
+      "home": "Group C Winner",
+      "away": "Group F 2nd Place",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760487",
+      "date": "2026-06-29T17:00Z",
+      "venue": "NRG Stadium"
+    },
+    {
+      "stage": "r32",
+      "home": "Group E Winner",
+      "away": "Third Place Group A/B/C/D/F",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760489",
+      "date": "2026-06-29T20:30Z",
+      "venue": "Gillette Stadium"
+    },
+    {
+      "stage": "r32",
+      "home": "Group F Winner",
+      "away": "Group C 2nd Place",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760488",
+      "date": "2026-06-30T01:00Z",
+      "venue": "Estadio BBVA"
+    },
+    {
+      "stage": "r32",
+      "home": "Group E 2nd Place",
+      "away": "Group I 2nd Place",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760490",
+      "date": "2026-06-30T17:00Z",
+      "venue": "AT&T Stadium"
+    },
+    {
+      "stage": "r32",
+      "home": "Group I Winner",
+      "away": "Third Place Group C/D/F/G/H",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760492",
+      "date": "2026-06-30T21:00Z",
+      "venue": "MetLife Stadium"
+    },
+    {
+      "stage": "r32",
+      "home": "Group A Winner",
+      "away": "Third Place Group C/E/F/H/I",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760491",
+      "date": "2026-07-01T01:00Z",
+      "venue": "Estadio Banorte"
+    },
+    {
+      "stage": "r32",
+      "home": "Group L Winner",
+      "away": "Third Place Group E/H/I/J/K",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760495",
+      "date": "2026-07-01T16:00Z",
+      "venue": "Mercedes-Benz Stadium"
+    },
+    {
+      "stage": "r32",
+      "home": "Group G Winner",
+      "away": "Third Place Group A/E/H/I/J",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760493",
+      "date": "2026-07-01T20:00Z",
+      "venue": "Lumen Field"
+    },
+    {
+      "stage": "r32",
+      "home": "Group D Winner",
+      "away": "Third Place Group B/E/F/I/J",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760494",
+      "date": "2026-07-02T00:00Z",
+      "venue": "Levi's Stadium"
+    },
+    {
+      "stage": "r32",
+      "home": "Group H Winner",
+      "away": "Group J 2nd Place",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760497",
+      "date": "2026-07-02T19:00Z",
+      "venue": "SoFi Stadium"
+    },
+    {
+      "stage": "r32",
+      "home": "Group K 2nd Place",
+      "away": "Group L 2nd Place",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760496",
+      "date": "2026-07-02T23:00Z",
+      "venue": "BMO Field"
+    },
+    {
+      "stage": "r32",
+      "home": "Group B Winner",
+      "away": "Third Place Group E/F/G/I/J",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760498",
+      "date": "2026-07-03T03:00Z",
+      "venue": "BC Place"
+    },
+    {
+      "stage": "r32",
+      "home": "Group D 2nd Place",
+      "away": "Group G 2nd Place",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760499",
+      "date": "2026-07-03T18:00Z",
+      "venue": "AT&T Stadium"
+    },
+    {
+      "stage": "r32",
+      "home": "Group J Winner",
+      "away": "Group H 2nd Place",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760500",
+      "date": "2026-07-03T22:00Z",
+      "venue": "Hard Rock Stadium"
+    },
+    {
+      "stage": "r32",
+      "home": "Group K Winner",
+      "away": "Third Place Group D/E/I/J/L",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760501",
+      "date": "2026-07-04T01:30Z",
+      "venue": "GEHA Field at Arrowhead Stadium"
+    },
+    {
+      "stage": "r16",
+      "home": "Round of 32 1 Winner",
+      "away": "Round of 32 3 Winner",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760502",
+      "date": "2026-07-04T17:00Z",
+      "venue": "NRG Stadium"
+    },
+    {
+      "stage": "r16",
+      "home": "Round of 32 2 Winner",
+      "away": "Round of 32 5 Winner",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760503",
+      "date": "2026-07-04T21:00Z",
+      "venue": "Lincoln Financial Field"
+    },
+    {
+      "stage": "r16",
+      "home": "Round of 32 4 Winner",
+      "away": "Round of 32 6 Winner",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760504",
+      "date": "2026-07-05T20:00Z",
+      "venue": "MetLife Stadium"
+    },
+    {
+      "stage": "r16",
+      "home": "Round of 32 7 Winner",
+      "away": "Round of 32 8 Winner",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760505",
+      "date": "2026-07-06T00:00Z",
+      "venue": "Estadio Banorte"
+    },
+    {
+      "stage": "r16",
+      "home": "Round of 32 11 Winner",
+      "away": "Round of 32 12 Winner",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760506",
+      "date": "2026-07-06T19:00Z",
+      "venue": "AT&T Stadium"
+    },
+    {
+      "stage": "r16",
+      "home": "Round of 32 9 Winner",
+      "away": "Round of 32 10 Winner",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760507",
+      "date": "2026-07-07T00:00Z",
+      "venue": "Lumen Field"
+    },
+    {
+      "stage": "r16",
+      "home": "Round of 32 14 Winner",
+      "away": "Round of 32 16 Winner",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760509",
+      "date": "2026-07-07T16:00Z",
+      "venue": "Mercedes-Benz Stadium"
+    },
+    {
+      "stage": "r16",
+      "home": "Round of 32 13 Winner",
+      "away": "Round of 32 15 Winner",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760508",
+      "date": "2026-07-07T20:00Z",
+      "venue": "BC Place"
+    },
+    {
+      "stage": "qf",
+      "home": "Round of 16 1 Winner",
+      "away": "Round of 16 2 Winner",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760510",
+      "date": "2026-07-09T20:00Z",
+      "venue": "Gillette Stadium"
+    },
+    {
+      "stage": "qf",
+      "home": "Round of 16 5 Winner",
+      "away": "Round of 16 6 Winner",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760511",
+      "date": "2026-07-10T19:00Z",
+      "venue": "SoFi Stadium"
+    },
+    {
+      "stage": "qf",
+      "home": "Round of 16 3 Winner",
+      "away": "Round of 16 4 Winner",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760512",
+      "date": "2026-07-11T21:00Z",
+      "venue": "Hard Rock Stadium"
+    },
+    {
+      "stage": "qf",
+      "home": "Round of 16 7 Winner",
+      "away": "Round of 16 8 Winner",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "id": "760513",
+      "date": "2026-07-12T01:00Z",
+      "venue": "GEHA Field at Arrowhead Stadium"
     }
   ]
 }

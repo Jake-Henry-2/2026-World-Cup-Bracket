@@ -116,6 +116,7 @@ for (const ev of events) {
       rec.clock = (typeof cstat.clock === "number") ? cstat.clock : 0;
       rec.displayClock = cstat.displayClock || "";
       rec.detail = (cstat.type && (cstat.type.shortDetail || cstat.type.detail)) || "";
+      rec.period = Number(cstat.period) || 0;        // 1=1st half, 2=2nd half — so the clock can't cross a half early
     }
     matches.push(rec);
 }

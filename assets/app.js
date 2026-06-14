@@ -216,7 +216,7 @@
       hs: Number(m.homeScore) || 0, as: Number(m.awayScore) || 0,
       group: GROUP_OF[canon(m.home)] || null, stage: m.stage || "group",
       status: m.status || "scheduled", id: m.id || null, venue: m.venue || "",
-      date: m.date || null, clock: m.clock, displayClock: m.displayClock, detail: m.detail
+      date: m.date || null, clock: m.clock, displayClock: m.displayClock, detail: m.detail, period: m.period
     });
     const nowMs = Date.now();
     // a "scheduled" game whose kickoff has already passed (recently) has really kicked off —
@@ -398,18 +398,25 @@
       </div>`;
   }
 
-  // Live match clock: extrapolate ESPN's elapsed time forward so it ticks each second.
-  function liveClockText(clock, displayClock, sinceMs, detail) {
+  // Live match clock: extrapolate ESPN's elapsed seconds forward each second, but never run the
+  // timer through a stoppage or across a half boundary before ESPN actually advances the period.
+  function liveClockText(clock, displayClock, sinceMs, detail, period) {
     const d = (detail || "").toLowerCase();
-    if (d.includes("half")) return "HT";
-    if (d.includes("full") || d.includes("final") || d === "ft") return "FT";
+    const dc = String(displayClock || "").trim();
+    if (/half ?time|halftime|interval|\bht\b/.test(d) || /^ht$/i.test(dc)) return "HT";   // break → frozen
+    if (/full ?time|final|ended|abandon|\bft\b/.test(d) || /^ft$/i.test(dc)) return "FT";
+    if (/penalt|shootout/.test(d)) return "PENS";
+    if (dc.includes("+")) return dc;                     // stoppage ("45'+4'") → show ESPN's exact figure, no run-over
     let base = Number(clock) || 0;                       // ESPN elapsed seconds
     if (base <= 0) {                                     // else parse the minute from "67'"
-      const mm = String(displayClock || "").match(/(\d+)/);
+      const mm = dc.match(/(\d+)/);
       base = mm ? parseInt(mm[1], 10) * 60 : 0;
     }
-    const sec = Math.max(0, base + (Date.now() - (Number(sinceMs) || Date.now())) / 1000);
-    const m = Math.min(130, Math.floor(sec / 60)), s = Math.floor(sec % 60);
+    let sec = base + (Date.now() - (Number(sinceMs) || Date.now())) / 1000;
+    const p = Number(period) || 0;                       // 1=1st half, 2=2nd, 3/4=ET — cap so it can't enter the next period early
+    const capMin = p >= 4 ? 120 : p === 3 ? 105 : p >= 2 ? 90 : 45;
+    sec = Math.max(0, Math.min(sec, capMin * 60));
+    const m = Math.floor(sec / 60), s = Math.floor(sec % 60);
     return m + ":" + String(s).padStart(2, "0");
   }
 
@@ -430,10 +437,11 @@
       const clk = m.kickedOff ? 0 : (m.clock || 0);
       const disp = m.kickedOff ? "" : (m.displayClock || "");
       const det = m.kickedOff ? "" : (m.detail || "");
+      const per = m.kickedOff ? 0 : (m.period || 0);
       return `<div class="lg-row lg-live lg-click"${mid(m)}>
       <span class="lg-g">🔴</span>
       <span class="lg-m">${esc(m.home)} ${ownerTag(m.home)} <b>${m.hs}–${m.as}</b> ${ownerTag(m.away)} ${esc(m.away)}</span>
-      <span class="lg-clock" data-clock="${clk}" data-disp="${esc(disp)}" data-since="${sinceMs}" data-detail="${esc(det)}">${liveClockText(clk, disp, sinceMs, det)}</span></div>`;
+      <span class="lg-clock" data-clock="${clk}" data-disp="${esc(disp)}" data-since="${sinceMs}" data-detail="${esc(det)}" data-period="${per}">${liveClockText(clk, disp, sinceMs, det, per)}</span></div>`;
     }).join("");
 
     const upRows = computed.upcoming.map((m) => `<div class="lg-row lg-up lg-click"${mid(m)}>
@@ -685,6 +693,7 @@
         m.clock = (typeof cstat.clock === "number") ? cstat.clock : 0;
         m.displayClock = cstat.displayClock || "";
         m.detail = (cstat.type && (cstat.type.shortDetail || cstat.type.detail)) || "";
+        m.period = Number(cstat.period) || 0;            // 1=1st half, 2=2nd half — so the clock can't cross a half early
       }
       matches.push(m);
     }
@@ -743,7 +752,7 @@
     return { stage: m.stage || "group", group: m.group, home: m.home, away: m.away,
              homeScore: m.homeScore, awayScore: m.awayScore, status: m.status || "finished",
              id: m.id || null, venue: m.venue || "",
-             date: m.date || null, clock: m.clock, displayClock: m.displayClock, detail: m.detail };
+             date: m.date || null, clock: m.clock, displayClock: m.displayClock, detail: m.detail, period: m.period };
   }
   function normalizeFootballData(m) {
     const st = { GROUP_STAGE: "group", LAST_16: "r16", QUARTER_FINALS: "qf", SEMI_FINALS: "sf",
@@ -805,7 +814,7 @@
     $("#clock").textContent = now.toLocaleTimeString();
     // advance any live match clocks every second
     document.querySelectorAll(".lg-clock").forEach((el) => {
-      el.textContent = liveClockText(el.dataset.clock, el.dataset.disp, Number(el.dataset.since), el.dataset.detail);
+      el.textContent = liveClockText(el.dataset.clock, el.dataset.disp, Number(el.dataset.since), el.dataset.detail, el.dataset.period);
     });
     // keep the news "updated Xm ago" label live so it visibly tracks with the rest of the site
     document.querySelectorAll(".news-since").forEach((el) => {
@@ -935,7 +944,7 @@
 
   function statusLabel(g) {
     if (g.status === "finished") return "Full time";
-    if (g.status === "live") return "🔴 " + liveClockText(g.clock, g.displayClock, (state.computed && state.computed.dataMs) || Date.now(), g.detail);
+    if (g.status === "live") return "🔴 " + liveClockText(g.clock, g.displayClock, (state.computed && state.computed.dataMs) || Date.now(), g.detail, g.period);
     return g.date ? new Date(g.date).toLocaleString(undefined, { weekday: "short", month: "short", day: "numeric", hour: "numeric", minute: "2-digit" }) : "Scheduled";
   }
   function matchHeaderHtml(g) {
@@ -969,9 +978,10 @@
     const top = arr[0], team = top.side === "away" ? g.away : g.home, owner = OWNER_OF[team];
     return { player: top.player, team, goals: top.goals, emoji: owner ? MANAGER[owner].emoji : "⚽" };
   }
-  function radioLink(g) {
-    return "https://www.google.com/search?q=" + encodeURIComponent(`listen live free radio ${g.home} vs ${g.away} 2026 world cup commentary`);
-  }
+  // Free live radio: BBC Radio 5 Live holds the World Cup radio commentary rights and streams it
+  // free worldwide (no login). Sports Extra carries the second concurrent game.
+  const RADIO_MAIN = "https://www.bbc.co.uk/sounds/play/live:bbc_radio_five_live";
+  const RADIO_EXTRA = "https://www.bbc.co.uk/sounds/play/live:bbc_radio_five_live_sports_extra";
   function openMatchModal(id) {
     const g = state.computed && state.computed.byId[id]; if (!g) return;
     const link = `https://www.espn.com/soccer/match/_/gameId/${id}`;
@@ -986,7 +996,8 @@
       : `<div class="md-empty">Detailed data lands within ~5 minutes of kickoff — check back shortly, or open the full match on ESPN below.</div>`;
     showModal(`${matchHeaderHtml(g)}${motmHtml}<div id="md-body">${body}</div>
       <div class="md-foot">
-        <a href="${radioLink(g)}" target="_blank" rel="noopener" class="foot-link md-radio">📻 Listen free — live radio ↗</a>
+        <a href="${RADIO_MAIN}" target="_blank" rel="noopener" class="foot-link md-radio">📻 Live radio · BBC 5 Live (free) ↗</a>
+        <a href="${RADIO_EXTRA}" target="_blank" rel="noopener" class="foot-link md-radio2">📻 5 Sports Extra ↗</a>
         <a href="${link}" target="_blank" rel="noopener" class="foot-link">Full match on ESPN ↗</a>
       </div>`);
   }

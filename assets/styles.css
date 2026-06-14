@@ -179,12 +179,11 @@ h1{font-size:20px;margin:0;letter-spacing:.3px}
 /* ---------------- footer ---------------- */
 .foot{text-align:center;color:var(--dim);font-size:12px;padding:22px}
 
-/* ---------------- Lectra brand wordmark (white) ---------------- */
-.lectra-logo{font-family:"Quicksand","Poppins","Arial Rounded MT Bold","Segoe UI",system-ui,sans-serif;
-  font-weight:700;color:#fff;letter-spacing:.3px;line-height:1}
-.header-lectra{font-size:23px;padding-left:16px;margin-left:4px;border-left:1px solid var(--line)}
+/* ---------------- Lectra brand logo (white) ---------------- */
+.lectra-logo{display:inline-block;width:auto;vertical-align:middle}
+.header-lectra{height:22px;padding-left:16px;margin-left:2px;border-left:1px solid var(--line)}
 .foot-brand{margin-bottom:8px;font-size:13px;color:var(--dim)}
-.foot-brand .lectra-logo{font-size:20px;margin-left:5px;vertical-align:-3px}
+.foot-logo{height:17px;margin-left:6px;vertical-align:middle}
 
 /* ---------------- modal ---------------- */
 .modal{position:fixed;inset:0;background:rgba(4,8,18,.72);backdrop-filter:blur(3px);

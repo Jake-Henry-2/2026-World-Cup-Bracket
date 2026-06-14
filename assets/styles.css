@@ -200,13 +200,15 @@ h1{font-size:20px;margin:0;letter-spacing:.3px}
 .news-empty{padding:20px;color:var(--dim);font-size:13px;text-align:center}
 
 /* ---------------- footer ---------------- */
-.foot{text-align:center;color:var(--dim);font-size:12px;padding:22px}
+.foot{text-align:center;color:var(--dim);font-size:12px;padding:24px 16px;line-height:1.7}
+.foot-dot{color:var(--dim)}
+.foot-rules{max-width:680px;margin:0 auto;line-height:1.6}
 
 /* ---------------- Lectra brand logo (white) ---------------- */
 .lectra-logo{display:inline-block;width:auto;vertical-align:middle}
 .header-lectra{height:22px;padding-left:16px;margin-left:2px;border-left:1px solid var(--line)}
-.foot-brand{margin-bottom:8px;font-size:13px;color:var(--dim);display:flex;align-items:center;justify-content:center;gap:6px;flex-wrap:wrap}
-.foot-logo{height:17px;vertical-align:middle}
+.foot-brand{margin-bottom:10px;font-size:13px;color:var(--dim);display:flex;align-items:center;justify-content:center;gap:8px;flex-wrap:wrap}
+.foot-logo{height:15px;display:block}
 .foot-link{color:var(--blue);text-decoration:none;font-weight:700}
 .foot-link:hover{text-decoration:underline}
 

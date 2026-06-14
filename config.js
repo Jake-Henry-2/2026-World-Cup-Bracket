@@ -15,23 +15,16 @@ window.CONFIG = {
   refreshSeconds: 60,
 
   live: {
-    enabled: false,              // ← flip to true once a feed below is set up
+    enabled: true,               // ← ON: the page auto-pulls scores, no manual updates
 
-    // "custom"         → your own URL returning { matches:[...] } in this app's format (recommended)
-    // "football-data"  → football-data.org v4 (free key; needs a proxy for CORS)
-    // "api-football"   → api-sports.io / RapidAPI (key; needs a proxy for CORS)
+    // "custom" reads data/live.json from this same site. That file is refreshed
+    // automatically every ~5 min by .github/workflows/pages.yml, which fetches
+    // live scores from ESPN (no API key, no CORS proxy needed). Nothing to maintain.
     provider: "custom",
+    customUrl: "data/live.json",
 
-    apiKey: "",                  // your API key, if the provider needs one
-
-    // Optional CORS proxy. If your feed isn't browser-accessible, deploy a tiny
-    // proxy (see README) and put its base URL here; requests get prefixed with it.
-    proxyUrl: "",
-
-    // For "custom": the full URL to your JSON feed.
-    customUrl: "",
-
-    // For "football-data": competition code for the World Cup.
-    competition: "WC"
+    apiKey: "",                  // not needed for the ESPN/custom setup
+    proxyUrl: "",                // not needed (data/live.json is same-origin)
+    competition: "WC"            // only used if you switch provider to football-data
   }
 };

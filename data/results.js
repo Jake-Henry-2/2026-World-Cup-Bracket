@@ -25,22 +25,13 @@
 window.RESULTS = {
   lastUpdated: "2026-06-14T00:30:00Z",
 
-  // QUICK MODE — running fantasy points per team (from your sheet's "Team - N").
-  manualTeamPoints: {
-    "United States": 7,
-    "Mexico": 6,
-    "South Korea": 5,
-    "Brazil": 2,
-    "Switzerland": 2,
-    "Qatar": 2,
-    "Canada": 2,
-    "Bosnia and Herzegovina": 2,
-    "Morocco": 2,
-    "Czechia": 1,
-    "Paraguay": 1,
-    "South Africa": 0
-    // every other team defaults to 0 until it earns points
-  },
+  // QUICK MODE — manual per-team points fallback.
+  // EMPTY ON PURPOSE: the live ESPN feed (data/live.json) is now the source of
+  // truth, so the board reflects REAL scores rather than hand-entered values.
+  // (Your old sheet seeds lived here; the auto-feed supersedes them.)
+  // If you ever want to hand-score with the feed off, fill this in and set
+  // config.js live.enabled = false.
+  manualTeamPoints: {},
 
   // MATCH MODE — add real matches here (or let the live API fill them).
   // Shape:

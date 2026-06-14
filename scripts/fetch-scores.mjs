@@ -1,0 +1,120 @@
+/* =============================================================================
+   fetch-scores.mjs — pulls live 2026 World Cup scores from ESPN's public
+   scoreboard (no API key) and writes data/live.json in the tracker's format.
+   Runs on GitHub Actions (which has internet + no browser CORS limits).
+
+   Node 20+ (uses global fetch). No dependencies.
+   ========================================================================== */
+import { writeFileSync, existsSync } from "node:fs";
+
+const ESPN = "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates=";
+const START = "2026-06-11";              // tournament opener; we aggregate from here for cumulative scoring
+
+/* --- canonical team names + aliases (mirrors data/league.js) --------------- */
+const GROUPS = {
+  A: ["Mexico","South Africa","South Korea","Czechia"],
+  B: ["Canada","Switzerland","Qatar","Bosnia and Herzegovina"],
+  C: ["Brazil","Morocco","Haiti","Scotland"],
+  D: ["United States","Paraguay","Australia","Türkiye"],
+  E: ["Germany","Curaçao","Ivory Coast","Ecuador"],
+  F: ["Netherlands","Japan","Tunisia","Sweden"],
+  G: ["Belgium","Egypt","Iran","New Zealand"],
+  H: ["Spain","Cabo Verde","Saudi Arabia","Uruguay"],
+  I: ["France","Senegal","Norway","Iraq"],
+  J: ["Argentina","Algeria","Austria","Jordan"],
+  K: ["Portugal","DR Congo","Uzbekistan","Colombia"],
+  L: ["England","Croatia","Ghana","Panama"]
+};
+const CANON = new Set(Object.values(GROUPS).flat());
+const ALIASES = {
+  "turkey":"Türkiye","turkiye":"Türkiye","türkiye":"Türkiye",
+  "curacao":"Curaçao","curaçao":"Curaçao",
+  "cape verde":"Cabo Verde","cabo verde":"Cabo Verde","capo verde":"Cabo Verde","cape verde islands":"Cabo Verde",
+  "dr congo":"DR Congo","congo dr":"DR Congo","democratic republic of the congo":"DR Congo","congo":"DR Congo",
+  "uzbekistan":"Uzbekistan","uzbekizstan":"Uzbekistan",
+  "algeria":"Algeria","alegeria":"Algeria",
+  "united states":"United States","usa":"United States","united states of america":"United States",
+  "south korea":"South Korea","korea republic":"South Korea","republic of korea":"South Korea",
+  "ivory coast":"Ivory Coast","côte d'ivoire":"Ivory Coast","cote d'ivoire":"Ivory Coast",
+  "bosnia and herzegovina":"Bosnia and Herzegovina","bosnia & herzegovina":"Bosnia and Herzegovina","bosnia":"Bosnia and Herzegovina",
+  "czechia":"Czechia","czech republic":"Czechia",
+  "iran":"Iran","ir iran":"Iran"
+};
+const canon = (n) => {
+  if (!n) return n;
+  const k = String(n).trim().toLowerCase();
+  return ALIASES[k] || String(n).trim();
+};
+
+/* --- helpers --------------------------------------------------------------- */
+const ymd = (d) => d.toISOString().slice(0, 10).replace(/-/g, "");
+function* dateRange(startStr, endDate) {
+  const d = new Date(startStr + "T00:00:00Z");
+  while (d <= endDate) { yield ymd(d); d.setUTCDate(d.getUTCDate() + 1); }
+}
+const stageOf = (slug = "") => {
+  slug = slug.toLowerCase();
+  if (slug.includes("group")) return "group";
+  if (slug.includes("round-of-32") || slug.includes("round of 32")) return "r32";
+  if (slug.includes("round-of-16") || slug.includes("round of 16")) return "r16";
+  if (slug.includes("quarter")) return "qf";
+  if (slug.includes("semi")) return "sf";
+  if (slug.includes("third")) return "third";
+  if (slug.includes("final")) return "final";
+  return "group";
+};
+const statusOf = (state) => state === "post" ? "finished" : state === "in" ? "live" : "scheduled";
+
+/* --- fetch + aggregate ----------------------------------------------------- */
+const end = new Date(); end.setUTCDate(end.getUTCDate() + 2);   // include the next couple days of fixtures
+const seen = new Set();
+const matches = [];
+const unknown = new Set();
+
+for (const ds of dateRange(START, end)) {
+  let data;
+  try {
+    const res = await fetch(ESPN + ds, { headers: { "User-Agent": "wc2026-tracker" } });
+    if (!res.ok) { console.error("HTTP", res.status, "for", ds); continue; }
+    data = await res.json();
+  } catch (e) { console.error("fetch failed for", ds, "-", e.message); continue; }
+
+  for (const ev of (data.events || [])) {
+    if (seen.has(ev.id)) continue; seen.add(ev.id);
+    const comp = (ev.competitions || [])[0]; if (!comp) continue;
+    const cs = comp.competitors || [];
+    const home = cs.find((c) => c.homeAway === "home") || cs[0];
+    const away = cs.find((c) => c.homeAway === "away") || cs[1];
+    if (!home || !away) continue;
+
+    const hName = canon(home.team && home.team.displayName);
+    const aName = canon(away.team && away.team.displayName);
+    if (!CANON.has(hName)) unknown.add(home.team && home.team.displayName);
+    if (!CANON.has(aName)) unknown.add(away.team && away.team.displayName);
+
+    matches.push({
+      stage: stageOf(ev.season && ev.season.slug),
+      home: hName,
+      away: aName,
+      homeScore: parseInt(home.score, 10) || 0,
+      awayScore: parseInt(away.score, 10) || 0,
+      status: statusOf(ev.status && ev.status.type && ev.status.type.state)
+    });
+  }
+}
+
+if (unknown.size) console.error("⚠ UNMAPPED team names (add to ALIASES):", [...unknown].join(" | "));
+
+if (!matches.length) {
+  console.error("No matches parsed — leaving existing data/live.json untouched.");
+  process.exit(existsSync("data/live.json") ? 0 : 0);
+}
+
+const out = {
+  lastUpdated: new Date().toISOString(),
+  source: "ESPN soccer/fifa.world",
+  matches
+};
+writeFileSync("data/live.json", JSON.stringify(out, null, 2) + "\n");
+const played = matches.filter((m) => m.status !== "scheduled").length;
+console.log(`Wrote data/live.json — ${matches.length} matches (${played} played/live, ${matches.length - played} upcoming).`);

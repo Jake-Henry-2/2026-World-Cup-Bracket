@@ -43,52 +43,34 @@ commit. **Reset to file** discards browser edits and reloads `data/results.js`.
 
 ---
 
-## Going fully live (auto-pull every 60s)
+## Live scores are fully automatic ✅
 
-The tracker already re-renders every 60s. To have it *pull scores from the
-internet* on that cycle, open `config.js` and set `live.enabled = true`, then
-pick one of three feeds. (Browsers block most sports APIs from being called
-directly — "CORS" — so options B and C usually need a tiny proxy.)
+You don't update anything. Here's the pipeline:
 
-**A. Custom JSON feed — most reliable.** Point it at any URL that returns
-matches in this app's own shape. You control CORS, so no proxy needed.
-```js
-live: { enabled:true, provider:"custom",
-        customUrl:"https://your-host.com/wc.json" }
-```
-The JSON should look like:
-```json
-{ "matches": [
-  { "stage":"group", "group":"D", "home":"United States", "away":"Türkiye",
-    "homeScore":3, "awayScore":0, "status":"finished" }
-] }
-```
-`status` is `scheduled` | `live` | `finished`. Knockout `stage`s:
-`r32`, `r16`, `qf`, `sf`, `final`, `third`.
+1. **`.github/workflows/pages.yml`** runs on a **5-minute schedule** (and on every
+   push). It runs **`scripts/fetch-scores.mjs`**, which pulls live 2026 World Cup
+   scores from **ESPN's public scoreboard** (`soccer/fifa.world`) — **no API key,
+   no CORS proxy** — and writes **`data/live.json`**.
+2. The same workflow **redeploys the site** with that fresh data.
+3. The page reads `data/live.json` from its own domain (same-origin, so no CORS)
+   and **re-checks every 60 seconds**, so open tabs update on their own.
 
-**B. football-data.org** (free key). Set `provider:"football-data"`, your
-`apiKey`, and a `proxyUrl` (below). World Cup competition code is `WC`.
+Net effect: scores refresh server-side every ~5 minutes and every viewer sees it
+within a minute — hands-off. The header shows `● LIVE feed` when it's flowing, or
+`⚠ feed error` if ESPN ever hiccups (the workflow's `continue-on-error` keeps the
+last good board live in that case).
 
-**C. API-Football / api-sports.io** (key). Set `provider:"api-football"`,
-your `apiKey`, and a `proxyUrl`.
+**Want tighter than 5 minutes?** GitHub's scheduler floor is ~5 min. True 60-second
+server-side polling needs an always-on host (e.g. a small Cloudflare Worker / Fly.io
+app on a cron) writing the same `data/live.json` — a paid/always-on upgrade. Say the
+word and I'll set it up.
 
-### Tiny CORS proxy (for B and C)
-Deploy this free Cloudflare Worker and put its URL in `proxyUrl`:
-```js
-export default {
-  async fetch(req) {
-    const target = new URL(req.url).search.slice(1);          // ?<encoded url>
-    const r = await fetch(decodeURIComponent(target), { headers: req.headers });
-    const res = new Response(r.body, r);
-    res.headers.set("Access-Control-Allow-Origin", "*");
-    return res;
-  }
-};
-```
+**Switch off auto / go manual:** set `live.enabled = false` in `config.js`; then the
+in-app **✎ Edit scores** button drives the board again.
 
-If a feed ever fails, the tracker **silently falls back to your manual scores** —
-it never goes blank. The header shows `● LIVE feed`, `✎ manual mode`, or a
-`⚠ feed error` notice so you always know which is driving the board.
+**Team-name mismatches:** if ESPN ever spells a team differently than the draft, the
+fetch script logs it as `⚠ UNMAPPED` in the Actions log — add the spelling to
+`ALIASES` in `scripts/fetch-scores.mjs` (and `data/league.js`).
 
 ---
 

@@ -1,8 +1,10 @@
-name: Deploy to GitHub Pages
+name: Refresh scores & deploy
 
 on:
   push:
     branches: ["claude/sweet-mendel-9qsu13"]
+  schedule:
+    - cron: "*/5 * * * *"     # auto-pull live scores every 5 minutes
   workflow_dispatch:
 
 permissions:
@@ -23,14 +25,26 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Fetch live World Cup scores (ESPN, no key)
+        continue-on-error: true     # a transient ESPN hiccup must never block the deploy
+        run: node scripts/fetch-scores.mjs
+
       - name: Configure Pages
         uses: actions/configure-pages@v5
         with:
-          enablement: true        # turn Pages on automatically if it isn't already
-      - name: Upload site
+          enablement: true
+
+      - name: Upload site (with fresh data/live.json)
         uses: actions/upload-pages-artifact@v3
         with:
           path: "."
+
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v4

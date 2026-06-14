@@ -152,11 +152,19 @@
       if (team[t] && KO_BONUS[round]) { team[t].koBonus = KO_BONUS[round]; team[t].fpts += KO_BONUS[round]; }
     });
 
+    // ----- group games played / left per team (3 group games per team) -------
+    const liveTeams = new Set();
+    matches.forEach((m) => { if (m && m.status === "live") { liveTeams.add(canon(m.home)); liveTeams.add(canon(m.away)); } });
+    ALL_TEAMS.forEach((t) => { team[t].live = liveTeams.has(t); team[t].left = Math.max(0, 3 - team[t].gp); });
+
     // ----- manager totals + ranking ------------------------------------------
     const managers = L.managers.map((m) => {
       const teamPts = m.teams.map((t) => ({ team: canon(t), pts: team[canon(t)].fpts }));
       const total = teamPts.reduce((s, x) => s + x.pts, 0);
-      return { name: m.name, emoji: m.emoji, teams: teamPts, total };
+      const gamesPlayed = m.teams.reduce((s, t) => s + team[canon(t)].gp, 0);
+      const gamesLeft = m.teams.reduce((s, t) => s + team[canon(t)].left, 0);   // group games remaining
+      const gamesLive = m.teams.reduce((s, t) => s + (team[canon(t)].live ? 1 : 0), 0);
+      return { name: m.name, emoji: m.emoji, teams: teamPts, total, gamesPlayed, gamesLeft, gamesLive };
     });
     managers.sort((a, b) => b.total - a.total || a.name.localeCompare(b.name));
     let rank = 0, prev = null, seen = 0;
@@ -252,7 +260,8 @@
         <div class="lb-rank">${m.rank === 1 ? "👑" : "#" + m.rank}</div>
         <div class="lb-emoji">${m.emoji}</div>
         <div class="lb-main">
-          <div class="lb-name">${esc(m.name)} ${m.isNew ? "" : arrow(m.deltaRank)}</div>
+          <div class="lb-name">${esc(m.name)} ${m.isNew ? "" : arrow(m.deltaRank)}
+            <span class="lb-left" title="group games left for this squad (of 12)">${m.gamesLeft} left${m.gamesLive ? ` <span class="lb-livedot">🔴${m.gamesLive}</span>` : ""}</span></div>
           <div class="lb-teams">${teams}</div>
         </div>
         <div class="lb-total">
@@ -361,10 +370,14 @@
         const ct = canon(t), ts = computed.team[ct];
         const tag = ts.groupBonus === SG.groupWinner ? '<span class="tg win">GW</span>'
           : ts.groupBonus === SG.groupRunnerUp ? '<span class="tg ru">RU</span>' : "";
-        return `<div class="club-team"><span>${esc(ct)}</span><span class="club-pts">${ts.fpts}${tag}</span></div>`;
+        return `<div class="club-team"><span class="ct-name">${esc(ct)}</span>
+          <span class="ct-gp" title="group games played">${ts.gp}/3${ts.live ? ' <span class="ct-live">●LIVE</span>' : ""}</span>
+          <span class="club-pts">${ts.fpts}${tag}</span></div>`;
       }).join("");
       const total = m.teams.reduce((s, t) => s + computed.team[canon(t)].fpts, 0);
+      const left = m.teams.reduce((s, t) => s + computed.team[canon(t)].left, 0);
       return `<div class="club"><div class="club-h">${m.emoji} <b>${esc(m.name)}</b>
+        <span class="club-left" title="group games left (of 12)">${left} left</span>
         <span class="club-total">${total}</span></div>${teams}</div>`;
     }).join("");
   }

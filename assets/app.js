@@ -199,6 +199,7 @@
       home: canon(m.home), away: canon(m.away),
       hs: Number(m.homeScore) || 0, as: Number(m.awayScore) || 0,
       group: GROUP_OF[canon(m.home)] || null, stage: m.stage || "group",
+      status: m.status || "scheduled", id: m.id || null, venue: m.venue || "",
       date: m.date || null, clock: m.clock, displayClock: m.displayClock, detail: m.detail
     });
     const log = matches.filter((m) => known(m) && m.status === "finished").map(fmt);
@@ -208,8 +209,10 @@
       .filter((m) => { const t = Date.parse(m.date); return t > nowMs && t < nowMs + 24 * 3600 * 1000; })
       .sort((a, b) => Date.parse(a.date) - Date.parse(b.date));
     const dataMs = R.lastUpdated ? (Date.parse(R.lastUpdated) || nowMs) : nowMs;
+    const allGames = matches.filter(known).map(fmt);                 // every fixture (for schedules + detail)
+    const byId = {}; allGames.forEach((g) => { if (g.id) byId[g.id] = g; });
 
-    return { team, managers, groupTables, eight, actualTop, actualRU, anyPlayed, sidePool, log, liveNow, upcoming, dataMs };
+    return { team, managers, groupTables, eight, actualTop, actualRU, anyPlayed, sidePool, log, liveNow, upcoming, dataMs, allGames, byId };
   }
 
   /* =========================================================================
@@ -278,7 +281,7 @@
         <div class="lb-rank">${m.rank === 1 ? "👑" : "#" + m.rank}</div>
         <div class="lb-emoji">${m.emoji}</div>
         <div class="lb-main">
-          <div class="lb-name">${esc(m.name)} ${m.isNew ? "" : arrow(m.deltaRank)}
+          <div class="lb-name"><span class="mgr-link" data-mgr="${esc(m.name)}" title="see ${esc(m.name)}'s team schedules">${esc(m.name)}</span> ${m.isNew ? "" : arrow(m.deltaRank)}
             <span class="lb-left" title="group games this squad has played (of 12)">${m.gamesPlayed}/12 played${m.gamesLive ? ` <span class="lb-livedot">🔴${m.gamesLive}</span>` : ""}</span></div>
           <div class="lb-teams">${teams}</div>
         </div>
@@ -392,18 +395,19 @@
     const playedStr = (iso) => iso ? new Date(iso).toLocaleString(undefined, { month: "short", day: "numeric", hour: "numeric", minute: "2-digit" }) : "";
     const upStr = (iso) => iso ? new Date(iso).toLocaleString(undefined, { weekday: "short", hour: "numeric", minute: "2-digit" }) : "";
 
-    const liveRows = computed.liveNow.map((m) => `<div class="lg-row lg-live">
+    const mid = (m) => m.id ? ` data-mid="${esc(m.id)}"` : "";
+    const liveRows = computed.liveNow.map((m) => `<div class="lg-row lg-live lg-click"${mid(m)}>
       <span class="lg-g">🔴</span>
       <span class="lg-m">${esc(m.home)} ${ownerTag(m.home)} <b>${m.hs}–${m.as}</b> ${ownerTag(m.away)} ${esc(m.away)}</span>
       <span class="lg-clock" data-clock="${m.clock || 0}" data-disp="${esc(m.displayClock || "")}" data-since="${computed.dataMs}" data-detail="${esc(m.detail || "")}">${liveClockText(m.clock, m.displayClock, computed.dataMs, m.detail)}</span></div>`).join("");
 
-    const upRows = computed.upcoming.map((m) => `<div class="lg-row lg-up">
+    const upRows = computed.upcoming.map((m) => `<div class="lg-row lg-up lg-click"${mid(m)}>
       <span class="lg-g">${m.group || m.stage}</span>
       <span class="lg-m">${esc(m.home)} ${ownerTag(m.home)} <span class="lg-vs">vs</span> ${ownerTag(m.away)} ${esc(m.away)}</span>
       <span class="lg-when">${upStr(m.date)}</span></div>`).join("");
 
     const finished = computed.log.slice().sort((a, b) => (Date.parse(b.date) || 0) - (Date.parse(a.date) || 0));
-    const doneRows = finished.length ? finished.map((m) => `<div class="lg-row">
+    const doneRows = finished.length ? finished.map((m) => `<div class="lg-row lg-click"${mid(m)}>
       <span class="lg-g">${m.group || m.stage}</span>
       <span class="lg-m">${esc(m.home)} ${ownerTag(m.home)} <b>${m.hs}–${m.as}</b> ${ownerTag(m.away)} ${esc(m.away)}</span>
       <span class="lg-when">${playedStr(m.date)}</span></div>`).join("")
@@ -431,7 +435,7 @@
       }).join("");
       const total = m.teams.reduce((s, t) => s + computed.team[canon(t)].fpts, 0);
       const played = m.teams.reduce((s, t) => s + computed.team[canon(t)].gp, 0);
-      return `<div class="club"><div class="club-h">${m.emoji} <b>${esc(m.name)}</b>
+      return `<div class="club"><div class="club-h">${m.emoji} <b class="mgr-link" data-mgr="${esc(m.name)}" title="see ${esc(m.name)}'s team schedules">${esc(m.name)}</b>
         <span class="club-left" title="group games played (of 12)">${played}/12 played</span>
         <span class="club-total">${total}</span></div>${teams}</div>`;
     }).join("");
@@ -559,6 +563,7 @@
   function normalizeCustom(m) {
     return { stage: m.stage || "group", group: m.group, home: m.home, away: m.away,
              homeScore: m.homeScore, awayScore: m.awayScore, status: m.status || "finished",
+             id: m.id || null, venue: m.venue || "",
              date: m.date || null, clock: m.clock, displayClock: m.displayClock, detail: m.detail };
   }
   function normalizeFootballData(m) {
@@ -712,6 +717,88 @@
   }
   function closeModal() { const m = $("#modal"); m.classList.remove("open"); m.innerHTML = ""; }
 
+  /* ---------- match-detail (Fotmob-style) + manager-schedule modals -------- */
+  function showModal(html) {
+    const m = $("#modal");
+    m.innerHTML = `<div class="modal-card mc-big">${html}</div>`;
+    m.classList.add("open");
+    m.onclick = (e) => { if (e.target === m) closeModal(); };
+    const x = m.querySelector(".modal-x"); if (x) x.onclick = closeModal;
+  }
+  const ESPN_SUMMARY = "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/summary?event=";
+
+  function statusLabel(g) {
+    if (g.status === "finished") return "Full time";
+    if (g.status === "live") return "🔴 " + liveClockText(g.clock, g.displayClock, (state.computed && state.computed.dataMs) || Date.now(), g.detail);
+    return g.date ? new Date(g.date).toLocaleString(undefined, { weekday: "short", month: "short", day: "numeric", hour: "numeric", minute: "2-digit" }) : "Scheduled";
+  }
+  function matchHeaderHtml(g) {
+    const ho = OWNER_OF[g.home], ao = OWNER_OF[g.away];
+    const hp = state.computed ? state.computed.team[g.home].fpts : 0, ap = state.computed ? state.computed.team[g.away].fpts : 0;
+    const mid = g.status === "scheduled" ? `<span class="md-vs">vs</span>` : `<span class="md-score">${g.hs} – ${g.as}</span>`;
+    const own = (o, p) => o ? `${MANAGER[o].emoji} ${esc(o)} · ${p} pts` : "side pool team";
+    return `<button class="modal-x">✕</button>
+      <div class="md-head">
+        <div class="md-team"><div class="md-tn">${esc(g.home)}</div><div class="md-own">${own(ho, hp)}</div></div>
+        <div class="md-center">${mid}<div class="md-status">${statusLabel(g)}</div></div>
+        <div class="md-team md-team-a"><div class="md-tn">${esc(g.away)}</div><div class="md-own">${own(ao, ap)}</div></div>
+      </div>
+      <div class="md-meta">${g.group ? "Group " + g.group + " · " : ""}${esc(g.venue || "")}${g.date ? " · " + new Date(g.date).toLocaleString() : ""}</div>`;
+  }
+  async function openMatchModal(id) {
+    const g = state.computed && state.computed.byId[id]; if (!g) return;
+    const link = `https://www.espn.com/soccer/match/_/gameId/${id}`;
+    showModal(`${matchHeaderHtml(g)}<div id="md-body">${g.status === "scheduled"
+      ? `<div class="md-empty">Kicks off ${g.date ? new Date(g.date).toLocaleString() : "soon"}.</div>`
+      : `<div class="md-loading">Loading match data…</div>`}</div>
+      <div class="md-foot"><a href="${link}" target="_blank" rel="noopener" class="foot-link">Full match on ESPN ↗</a></div>`);
+    if (g.status === "scheduled") return;
+    try {
+      const d = await (await fetch(ESPN_SUMMARY + id, { cache: "no-store" })).json();
+      renderMatchDetail(d, g);
+    } catch (e) {
+      const b = $("#md-body"); if (b) b.innerHTML = `<div class="md-empty">Detailed data couldn't load here — open the full match on ESPN below.</div>`;
+    }
+  }
+  function renderMatchDetail(d, g) {
+    const body = $("#md-body"); if (!body) return;
+    const teams = (d.boxscore && d.boxscore.teams) || [];
+    const sideOf = {}; teams.forEach((t, i) => { sideOf[t.team && t.team.id] = t.homeAway || (i === 0 ? "home" : "away"); });
+    const icon = (k) => /red card/i.test(k) ? "🟥" : /yellow/i.test(k) ? "🟨" : /goal/i.test(k) ? "⚽" : /sub/i.test(k) ? "🔁" : "•";
+    const evs = (d.keyEvents || []).filter((e) => /goal|card|substitution/i.test((e.type && e.type.text) || "")).map((e) => {
+      const side = sideOf[e.team && e.team.id] || "n";
+      const player = (e.athletesInvolved && e.athletesInvolved[0] && e.athletesInvolved[0].displayName) || ((e.type && e.type.text) || "");
+      return `<div class="md-ev md-ev-${side}"><span class="md-ev-min">${esc((e.clock && e.clock.displayValue) || "")}</span><span class="md-ev-ic">${icon((e.type && e.type.text) || "")}</span><span class="md-ev-tx">${esc(player)}</span></div>`;
+    }).join("");
+    const pick = {}; teams.forEach((t) => { const s = sideOf[t.team && t.team.id]; const o = {}; (t.statistics || []).forEach((x) => o[x.name] = x.displayValue); pick[s] = o; });
+    const statRow = (label, key) => {
+      const h = (pick.home && pick.home[key]) || "0", a = (pick.away && pick.away[key]) || "0";
+      const hv = parseFloat(h) || 0, av = parseFloat(a) || 0, tot = hv + av || 1;
+      return `<div class="md-stat"><span>${esc(h)}</span><div class="md-bar"><i style="width:${(hv / tot * 100).toFixed(0)}%"></i></div><b>${label}</b><div class="md-bar md-bar-a"><i style="width:${(av / tot * 100).toFixed(0)}%"></i></div><span>${esc(a)}</span></div>`;
+    };
+    const stats = (pick.home || pick.away) ? `<div class="md-section">Match stats</div>${statRow("Possession %", "possessionPct")}${statRow("Shots", "totalShots")}${statRow("On target", "shotsOnTarget")}${statRow("Corners", "wonCorners")}${statRow("Fouls", "foulsCommitted")}${statRow("Yellow cards", "yellowCards")}` : "";
+    body.innerHTML = (evs ? `<div class="md-section">Key events</div><div class="md-events">${evs}</div>` : "") + stats
+      || `<div class="md-empty">No detailed data published for this match yet.</div>`;
+  }
+  function openManagerModal(name) {
+    const mgr = MANAGER[name]; if (!mgr || !state.computed) return;
+    const all = state.computed.allGames;
+    const teamBlock = (t) => {
+      const ct = canon(t), pts = state.computed.team[ct].fpts;
+      const rows = all.filter((x) => x.home === ct || x.away === ct).sort((a, b) => (Date.parse(a.date) || 0) - (Date.parse(b.date) || 0)).map((x) => {
+        const opp = x.home === ct ? x.away : x.home, va = x.home === ct ? "vs" : "at";
+        const sc = x.home === ct ? `${x.hs}-${x.as}` : `${x.as}-${x.hs}`;
+        const res = x.status === "finished" ? `<b>${sc}</b>` : x.status === "live" ? `<span class="md-live">LIVE ${sc}</span>`
+          : `<span class="dim">${x.date ? new Date(x.date).toLocaleString(undefined, { month: "short", day: "numeric", hour: "numeric", minute: "2-digit" }) : "TBD"}</span>`;
+        return `<div class="sch-row${x.id ? " lg-click" : ""}"${x.id ? ` data-mid="${esc(x.id)}"` : ""}><span class="sch-opp">${esc(va)} ${esc(opp)}</span><span class="sch-res">${res}</span></div>`;
+      }).join("") || `<div class="dim" style="padding:6px 2px">No fixtures.</div>`;
+      return `<div class="sch-team"><div class="sch-th">${esc(ct)} <span class="sch-pts">${pts} pts</span></div>${rows}</div>`;
+    };
+    showModal(`<button class="modal-x">✕</button>
+      <div class="sch-head">${mgr.emoji} <b>${esc(name)}</b> — team schedules</div>
+      <div class="sch-grid">${mgr.teams.map(teamBlock).join("")}</div>`);
+  }
+
   function exportResults(r) {
     const body = `/* Exported ${new Date().toISOString()} from the live tracker. */\n` +
       `window.RESULTS = ${JSON.stringify(r, null, 2)};\n`;
@@ -725,6 +812,12 @@
      ====================================================================== */
   function init() {
     $("#season").textContent = L.season;
+    document.addEventListener("click", (e) => {
+      const g = e.target.closest("[data-mid]");
+      if (g) { openMatchModal(g.dataset.mid); return; }
+      const mg = e.target.closest("[data-mgr]");
+      if (mg) { openManagerModal(mg.dataset.mgr); return; }
+    });
     refreshCycle();
     setInterval(tick, 1000);
   }

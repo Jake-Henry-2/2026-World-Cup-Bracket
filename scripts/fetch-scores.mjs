@@ -66,20 +66,27 @@ const stageOf = (slug = "") => {
 const statusOf = (state) => state === "post" ? "finished" : state === "in" ? "live" : "scheduled";
 
 /* --- fetch + aggregate ----------------------------------------------------- */
-const end = new Date(); end.setUTCDate(end.getUTCDate() + 2);   // include the next couple days of fixtures
+const end = new Date("2026-07-20T00:00:00Z");   // through the final — full schedule for every team
 const seen = new Set();
 const matches = [];
 const unknown = new Set();
 
-for (const ds of dateRange(START, end)) {
-  let data;
-  try {
-    const res = await fetch(ESPN + ds, { headers: { "User-Agent": "wc2026-tracker" } });
-    if (!res.ok) { console.error("HTTP", res.status, "for", ds); continue; }
-    data = await res.json();
-  } catch (e) { console.error("fetch failed for", ds, "-", e.message); continue; }
+// Fetch the whole tournament window in one range call; fall back to per-day if needed.
+let events = [];
+try {
+  const res = await fetch(ESPN + START.replace(/-/g, "") + "-" + ymd(end), { headers: { "User-Agent": "wc2026-tracker" } });
+  if (res.ok) events = (await res.json()).events || [];
+} catch (e) { console.error("range fetch failed:", e.message); }
+if (!events.length) {
+  for (const ds of dateRange(START, end)) {
+    try {
+      const res = await fetch(ESPN + ds, { headers: { "User-Agent": "wc2026-tracker" } });
+      if (res.ok) events.push(...((await res.json()).events || []));
+    } catch (e) { console.error("fetch failed for", ds, "-", e.message); }
+  }
+}
 
-  for (const ev of (data.events || [])) {
+for (const ev of events) {
     if (seen.has(ev.id)) continue; seen.add(ev.id);
     const comp = (ev.competitions || [])[0]; if (!comp) continue;
     const cs = comp.competitors || [];
@@ -101,7 +108,9 @@ for (const ds of dateRange(START, end)) {
       homeScore: parseInt(home.score, 10) || 0,
       awayScore: parseInt(away.score, 10) || 0,
       status,
-      date: ev.date || null                       // kickoff (ISO) — used for past times + upcoming
+      id: ev.id || null,                           // ESPN event id — for the match-detail view
+      date: ev.date || null,                       // kickoff (ISO) — used for past times + upcoming
+      venue: (comp.venue && comp.venue.fullName) || ""
     };
     if (status === "live") {                       // live match clock, for the running timer
       rec.clock = (typeof cstat.clock === "number") ? cstat.clock : 0;
@@ -109,7 +118,6 @@ for (const ds of dateRange(START, end)) {
       rec.detail = (cstat.type && (cstat.type.shortDetail || cstat.type.detail)) || "";
     }
     matches.push(rec);
-  }
 }
 
 if (unknown.size) console.error("⚠ UNMAPPED team names (add to ALIASES):", [...unknown].join(" | "));

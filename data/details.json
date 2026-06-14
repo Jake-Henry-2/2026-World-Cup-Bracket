@@ -1,4 +1,1799 @@
 {
-  "lastUpdated": "2026-06-14T00:00:00Z",
-  "games": {}
+  "lastUpdated": "2026-06-14T03:28:10.973Z",
+  "games": {
+    "760414": {
+      "venue": "Estadio Akron",
+      "stats": {
+        "home": {
+          "foulsCommitted": "9",
+          "yellowCards": "1",
+          "redCards": "0",
+          "offsides": "2",
+          "wonCorners": "4",
+          "saves": "3",
+          "possessionPct": "61.5",
+          "totalShots": "15",
+          "shotsOnTarget": "6",
+          "shotPct": "0.4",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "469",
+          "totalPasses": "541",
+          "passPct": "0.9",
+          "accurateCrosses": "3",
+          "totalCrosses": "12",
+          "crossPct": "0.3",
+          "totalLongBalls": "61",
+          "accurateLongBalls": "30",
+          "longballPct": "0.5",
+          "blockedShots": "4",
+          "effectiveTackles": "4",
+          "totalTackles": "7",
+          "tacklePct": "0.6",
+          "interceptions": "9",
+          "effectiveClearance": "32",
+          "totalClearance": "32"
+        },
+        "away": {
+          "foulsCommitted": "16",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "2",
+          "wonCorners": "5",
+          "saves": "4",
+          "possessionPct": "38.5",
+          "totalShots": "7",
+          "shotsOnTarget": "4",
+          "shotPct": "0.6",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "230",
+          "totalPasses": "327",
+          "passPct": "0.7",
+          "accurateCrosses": "3",
+          "totalCrosses": "15",
+          "crossPct": "0.2",
+          "totalLongBalls": "69",
+          "accurateLongBalls": "23",
+          "longballPct": "0.3",
+          "blockedShots": "1",
+          "effectiveTackles": "7",
+          "totalTackles": "9",
+          "tacklePct": "0.8",
+          "interceptions": "6",
+          "effectiveClearance": "21",
+          "totalClearance": "21"
+        }
+      },
+      "events": [
+        {
+          "kind": "Goal - Header",
+          "min": "59'",
+          "side": "away",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "62'",
+          "side": "home",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "64'",
+          "side": "away",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "64'",
+          "side": "away",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "64'",
+          "side": "away",
+          "player": ""
+        },
+        {
+          "kind": "Goal",
+          "min": "67'",
+          "side": "home",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "69'",
+          "side": "home",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "69'",
+          "side": "home",
+          "player": ""
+        },
+        {
+          "kind": "Goal",
+          "min": "80'",
+          "side": "home",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "84'",
+          "side": "home",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "84'",
+          "side": "home",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "84'",
+          "side": "away",
+          "player": ""
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "90'+6'",
+          "side": "home",
+          "player": ""
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Kim Seung-Gyu",
+            "pos": "G"
+          },
+          {
+            "name": "Kim Min-Jae",
+            "pos": "CD"
+          },
+          {
+            "name": "Lee Gi-Hyuk",
+            "pos": "CD-L"
+          },
+          {
+            "name": "Lee Han-Beom",
+            "pos": "CD-R"
+          },
+          {
+            "name": "Paik Seung-Ho",
+            "pos": "CM-L"
+          },
+          {
+            "name": "Hwang In-Beom",
+            "pos": "CM-R"
+          },
+          {
+            "name": "Lee Tae-Seok",
+            "pos": "LM"
+          },
+          {
+            "name": "Seol Young-Woo",
+            "pos": "RM"
+          },
+          {
+            "name": "Son Heung-Min",
+            "pos": "F"
+          },
+          {
+            "name": "Lee Jae-Sung",
+            "pos": "CF-L"
+          },
+          {
+            "name": "Lee Kang-In",
+            "pos": "CF-R"
+          }
+        ],
+        "away": [
+          {
+            "name": "Matej Kovár",
+            "pos": "G"
+          },
+          {
+            "name": "Robin Hranác",
+            "pos": "CD"
+          },
+          {
+            "name": "Ladislav Krejcí",
+            "pos": "CD-L"
+          },
+          {
+            "name": "Stepán Chaloupek",
+            "pos": "CD-R"
+          },
+          {
+            "name": "Alexandr Sojka",
+            "pos": "CM-L"
+          },
+          {
+            "name": "Tomás Soucek",
+            "pos": "CM-R"
+          },
+          {
+            "name": "Jaroslav Zelený",
+            "pos": "LM"
+          },
+          {
+            "name": "Vladimír Coufal",
+            "pos": "RM"
+          },
+          {
+            "name": "Patrik Schick",
+            "pos": "F"
+          },
+          {
+            "name": "Pavel Sulc",
+            "pos": "CF-L"
+          },
+          {
+            "name": "Lukás Provod",
+            "pos": "CF-R"
+          }
+        ]
+      },
+      "final": true
+    },
+    "760415": {
+      "venue": "Estadio Banorte",
+      "stats": {
+        "home": {
+          "foulsCommitted": "12",
+          "yellowCards": "1",
+          "redCards": "1",
+          "offsides": "1",
+          "wonCorners": "3",
+          "saves": "2",
+          "possessionPct": "60.5",
+          "totalShots": "16",
+          "shotsOnTarget": "4",
+          "shotPct": "0.3",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "467",
+          "totalPasses": "520",
+          "passPct": "0.9",
+          "accurateCrosses": "4",
+          "totalCrosses": "12",
+          "crossPct": "0.3",
+          "totalLongBalls": "48",
+          "accurateLongBalls": "31",
+          "longballPct": "0.6",
+          "blockedShots": "5",
+          "effectiveTackles": "6",
+          "totalTackles": "12",
+          "tacklePct": "0.5",
+          "interceptions": "8",
+          "effectiveClearance": "15",
+          "totalClearance": "15"
+        },
+        "away": {
+          "foulsCommitted": "11",
+          "yellowCards": "2",
+          "redCards": "2",
+          "offsides": "1",
+          "wonCorners": "1",
+          "saves": "2",
+          "possessionPct": "39.5",
+          "totalShots": "3",
+          "shotsOnTarget": "2",
+          "shotPct": "0.7",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "272",
+          "totalPasses": "334",
+          "passPct": "0.8",
+          "accurateCrosses": "1",
+          "totalCrosses": "8",
+          "crossPct": "0.1",
+          "totalLongBalls": "46",
+          "accurateLongBalls": "17",
+          "longballPct": "0.4",
+          "blockedShots": "0",
+          "effectiveTackles": "7",
+          "totalTackles": "14",
+          "tacklePct": "0.5",
+          "interceptions": "7",
+          "effectiveClearance": "17",
+          "totalClearance": "17"
+        }
+      },
+      "events": [
+        {
+          "kind": "Goal",
+          "min": "9'",
+          "side": "home",
+          "player": ""
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "17'",
+          "side": "away",
+          "player": ""
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "23'",
+          "side": "home",
+          "player": ""
+        },
+        {
+          "kind": "Red Card",
+          "min": "49'",
+          "side": "away",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "56'",
+          "side": "away",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "61'",
+          "side": "away",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "66'",
+          "side": "home",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "66'",
+          "side": "home",
+          "player": ""
+        },
+        {
+          "kind": "Goal - Header",
+          "min": "67'",
+          "side": "home",
+          "player": ""
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "74'",
+          "side": "away",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "76'",
+          "side": "home",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "76'",
+          "side": "home",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "76'",
+          "side": "away",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "77'",
+          "side": "away",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "79'",
+          "side": "home",
+          "player": ""
+        },
+        {
+          "kind": "Red Card",
+          "min": "84'",
+          "side": "away",
+          "player": ""
+        },
+        {
+          "kind": "Red Card",
+          "min": "90'+2'",
+          "side": "home",
+          "player": ""
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Raúl Rangel",
+            "pos": "G"
+          },
+          {
+            "name": "Johan Vásquez",
+            "pos": "CD-L"
+          },
+          {
+            "name": "César Montes",
+            "pos": "CD-R"
+          },
+          {
+            "name": "Érik Lira",
+            "pos": "DM"
+          },
+          {
+            "name": "Jesús Gallardo",
+            "pos": "LB"
+          },
+          {
+            "name": "Israel Reyes",
+            "pos": "RB"
+          },
+          {
+            "name": "Álvaro Fidalgo",
+            "pos": "CM-L"
+          },
+          {
+            "name": "Brian Gutiérrez",
+            "pos": "CM-R"
+          },
+          {
+            "name": "Julián Quiñones",
+            "pos": "LM"
+          },
+          {
+            "name": "Roberto Alvarado",
+            "pos": "RM"
+          },
+          {
+            "name": "Raúl Jiménez",
+            "pos": "F"
+          }
+        ],
+        "away": [
+          {
+            "name": "Ronwen Williams",
+            "pos": "G"
+          },
+          {
+            "name": "Ime Okon",
+            "pos": "CD"
+          },
+          {
+            "name": "Mbekezeli Mbokazi",
+            "pos": "CD-L"
+          },
+          {
+            "name": "Nkosinathi Sibisi",
+            "pos": "CD-R"
+          },
+          {
+            "name": "Aubrey Modiba",
+            "pos": "LB"
+          },
+          {
+            "name": "Khuliso Mudau",
+            "pos": "RB"
+          },
+          {
+            "name": "Sphephelo Sithole",
+            "pos": "CM"
+          },
+          {
+            "name": "Jayden Adams",
+            "pos": "CM-L"
+          },
+          {
+            "name": "Teboho Mokoena",
+            "pos": "CM-R"
+          },
+          {
+            "name": "Lyle Foster",
+            "pos": "CF-L"
+          },
+          {
+            "name": "Iqraam Rayners",
+            "pos": "CF-R"
+          }
+        ]
+      },
+      "final": true
+    },
+    "760416": {
+      "venue": "BMO Field",
+      "stats": {
+        "home": {
+          "foulsCommitted": "10",
+          "yellowCards": "2",
+          "redCards": "0",
+          "offsides": "1",
+          "wonCorners": "9",
+          "saves": "2",
+          "possessionPct": "61.1",
+          "totalShots": "13",
+          "shotsOnTarget": "4",
+          "shotPct": "0.3",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "310",
+          "totalPasses": "421",
+          "passPct": "0.7",
+          "accurateCrosses": "5",
+          "totalCrosses": "24",
+          "crossPct": "0.2",
+          "totalLongBalls": "41",
+          "accurateLongBalls": "18",
+          "longballPct": "0.4",
+          "blockedShots": "4",
+          "effectiveTackles": "15",
+          "totalTackles": "23",
+          "tacklePct": "0.7",
+          "interceptions": "4",
+          "effectiveClearance": "21",
+          "totalClearance": "21"
+        },
+        "away": {
+          "foulsCommitted": "20",
+          "yellowCards": "3",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "4",
+          "saves": "1",
+          "possessionPct": "38.9",
+          "totalShots": "8",
+          "shotsOnTarget": "3",
+          "shotPct": "0.4",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "172",
+          "totalPasses": "271",
+          "passPct": "0.6",
+          "accurateCrosses": "6",
+          "totalCrosses": "10",
+          "crossPct": "0.6",
+          "totalLongBalls": "62",
+          "accurateLongBalls": "17",
+          "longballPct": "0.3",
+          "blockedShots": "1",
+          "effectiveTackles": "12",
+          "totalTackles": "20",
+          "tacklePct": "0.6",
+          "interceptions": "11",
+          "effectiveClearance": "70",
+          "totalClearance": "70"
+        }
+      },
+      "events": [
+        {
+          "kind": "Yellow Card",
+          "min": "11'",
+          "side": "home",
+          "player": ""
+        },
+        {
+          "kind": "Goal - Header",
+          "min": "21'",
+          "side": "away",
+          "player": ""
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "45'",
+          "side": "away",
+          "player": ""
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "45'+1'",
+          "side": "away",
+          "player": ""
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "53'",
+          "side": "home",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "61'",
+          "side": "home",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "61'",
+          "side": "home",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "61'",
+          "side": "home",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "62'",
+          "side": "away",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "62'",
+          "side": "away",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "74'",
+          "side": "away",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "74'",
+          "side": "away",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "76'",
+          "side": "home",
+          "player": ""
+        },
+        {
+          "kind": "Goal",
+          "min": "78'",
+          "side": "home",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "84'",
+          "side": "away",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'+1'",
+          "side": "home",
+          "player": ""
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "90'+3'",
+          "side": "away",
+          "player": ""
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Maxime Crépeau",
+            "pos": "G"
+          },
+          {
+            "name": "Derek Cornelius",
+            "pos": "CD-L"
+          },
+          {
+            "name": "Luc de Fougerolles",
+            "pos": "CD-R"
+          },
+          {
+            "name": "Richie Laryea",
+            "pos": "LB"
+          },
+          {
+            "name": "Alistair Johnston",
+            "pos": "RB"
+          },
+          {
+            "name": "Stephen Eustáquio",
+            "pos": "CM-L"
+          },
+          {
+            "name": "Ismaël Koné",
+            "pos": "CM-R"
+          },
+          {
+            "name": "Liam Millar",
+            "pos": "LM"
+          },
+          {
+            "name": "Tajon Buchanan",
+            "pos": "RM"
+          },
+          {
+            "name": "Tani Oluwaseyi",
+            "pos": "CF-L"
+          },
+          {
+            "name": "Jonathan David",
+            "pos": "CF-R"
+          }
+        ],
+        "away": [
+          {
+            "name": "Nikola Vasilj",
+            "pos": "G"
+          },
+          {
+            "name": "Tarik Muharemovic",
+            "pos": "CD-L"
+          },
+          {
+            "name": "Nikola Katic",
+            "pos": "CD-R"
+          },
+          {
+            "name": "Sead Kolasinac",
+            "pos": "LB"
+          },
+          {
+            "name": "Amar Dedic",
+            "pos": "RB"
+          },
+          {
+            "name": "Ivan Basic",
+            "pos": "CM-L"
+          },
+          {
+            "name": "Benjamin Tahirovic",
+            "pos": "CM-R"
+          },
+          {
+            "name": "Amar Memic",
+            "pos": "LM"
+          },
+          {
+            "name": "Esmir Bajraktarevic",
+            "pos": "RM"
+          },
+          {
+            "name": "Jovo Lukic",
+            "pos": "CF-L"
+          },
+          {
+            "name": "Ermedin Demirovic",
+            "pos": "CF-R"
+          }
+        ]
+      },
+      "final": true
+    },
+    "760417": {
+      "venue": "SoFi Stadium",
+      "stats": {
+        "home": {
+          "foulsCommitted": "13",
+          "yellowCards": "1",
+          "redCards": "0",
+          "offsides": "2",
+          "wonCorners": "3",
+          "saves": "1",
+          "possessionPct": "65.3",
+          "totalShots": "16",
+          "shotsOnTarget": "6",
+          "shotPct": "0.4",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "509",
+          "totalPasses": "598",
+          "passPct": "0.9",
+          "accurateCrosses": "3",
+          "totalCrosses": "19",
+          "crossPct": "0.2",
+          "totalLongBalls": "48",
+          "accurateLongBalls": "26",
+          "longballPct": "0.5",
+          "blockedShots": "4",
+          "effectiveTackles": "7",
+          "totalTackles": "9",
+          "tacklePct": "0.8",
+          "interceptions": "9",
+          "effectiveClearance": "15",
+          "totalClearance": "15"
+        },
+        "away": {
+          "foulsCommitted": "17",
+          "yellowCards": "5",
+          "redCards": "0",
+          "offsides": "1",
+          "wonCorners": "1",
+          "saves": "3",
+          "possessionPct": "34.7",
+          "totalShots": "9",
+          "shotsOnTarget": "1",
+          "shotPct": "0.1",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "232",
+          "totalPasses": "319",
+          "passPct": "0.7",
+          "accurateCrosses": "1",
+          "totalCrosses": "5",
+          "crossPct": "0.0",
+          "totalLongBalls": "59",
+          "accurateLongBalls": "20",
+          "longballPct": "0.3",
+          "blockedShots": "5",
+          "effectiveTackles": "16",
+          "totalTackles": "21",
+          "tacklePct": "0.8",
+          "interceptions": "10",
+          "effectiveClearance": "33",
+          "totalClearance": "33"
+        }
+      },
+      "events": [
+        {
+          "kind": "Own Goal",
+          "min": "7'",
+          "side": "home",
+          "player": ""
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "10'",
+          "side": "away",
+          "player": ""
+        },
+        {
+          "kind": "Goal",
+          "min": "31'",
+          "side": "home",
+          "player": ""
+        },
+        {
+          "kind": "Goal",
+          "min": "45'+5'",
+          "side": "home",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "away",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "home",
+          "player": ""
+        },
+        {
+          "kind": "VAR - (Red) Card Upgrade",
+          "min": "52'",
+          "side": "home",
+          "player": ""
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "53'",
+          "side": "away",
+          "player": ""
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "59'",
+          "side": "home",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "62'",
+          "side": "away",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "72'",
+          "side": "home",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "72'",
+          "side": "home",
+          "player": ""
+        },
+        {
+          "kind": "Goal",
+          "min": "73'",
+          "side": "away",
+          "player": ""
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "79'",
+          "side": "away",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "79'",
+          "side": "away",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "79'",
+          "side": "away",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "80'",
+          "side": "away",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "82'",
+          "side": "home",
+          "player": ""
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "88'",
+          "side": "away",
+          "player": ""
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "90'+3'",
+          "side": "away",
+          "player": ""
+        },
+        {
+          "kind": "Goal",
+          "min": "90'+8'",
+          "side": "home",
+          "player": ""
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Matt Freese",
+            "pos": "G"
+          },
+          {
+            "name": "Tim Ream",
+            "pos": "CD-L"
+          },
+          {
+            "name": "Chris Richards",
+            "pos": "CD-R"
+          },
+          {
+            "name": "Antonee Robinson",
+            "pos": "LB"
+          },
+          {
+            "name": "Alex Freeman",
+            "pos": "RB"
+          },
+          {
+            "name": "Weston McKennie",
+            "pos": "AM"
+          },
+          {
+            "name": "Malik Tillman",
+            "pos": "LM"
+          },
+          {
+            "name": "Tyler Adams",
+            "pos": "RM"
+          },
+          {
+            "name": "Folarin Balogun",
+            "pos": "F"
+          },
+          {
+            "name": "Christian Pulisic",
+            "pos": "AM-L"
+          },
+          {
+            "name": "Sergiño Dest",
+            "pos": "AM-R"
+          }
+        ],
+        "away": [
+          {
+            "name": "Orlando Gil",
+            "pos": "G"
+          },
+          {
+            "name": "Omar Alderete",
+            "pos": "CD-L"
+          },
+          {
+            "name": "Gustavo Gómez",
+            "pos": "CD-R"
+          },
+          {
+            "name": "Júnior Alonso",
+            "pos": "LB"
+          },
+          {
+            "name": "Juan Jose Cáceres",
+            "pos": "RB"
+          },
+          {
+            "name": "Damián Bobadilla",
+            "pos": "CM-L"
+          },
+          {
+            "name": "Andrés Cubas",
+            "pos": "CM-R"
+          },
+          {
+            "name": "Miguel Almirón",
+            "pos": "LM"
+          },
+          {
+            "name": "Diego Gómez",
+            "pos": "RM"
+          },
+          {
+            "name": "Julio Enciso",
+            "pos": "CF-L"
+          },
+          {
+            "name": "Antonio Sanabria",
+            "pos": "CF-R"
+          }
+        ]
+      },
+      "final": true
+    },
+    "760418": {
+      "venue": "Gillette Stadium",
+      "stats": {
+        "home": {
+          "foulsCommitted": "23",
+          "yellowCards": "1",
+          "redCards": "0",
+          "offsides": "3",
+          "wonCorners": "4",
+          "saves": "1",
+          "possessionPct": "53.8",
+          "totalShots": "15",
+          "shotsOnTarget": "2",
+          "shotPct": "0.1",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "367",
+          "totalPasses": "431",
+          "passPct": "0.9",
+          "accurateCrosses": "5",
+          "totalCrosses": "23",
+          "crossPct": "0.2",
+          "totalLongBalls": "58",
+          "accurateLongBalls": "26",
+          "longballPct": "0.4",
+          "blockedShots": "4",
+          "effectiveTackles": "7",
+          "totalTackles": "12",
+          "tacklePct": "0.6",
+          "interceptions": "6",
+          "effectiveClearance": "20",
+          "totalClearance": "20"
+        },
+        "away": {
+          "foulsCommitted": "21",
+          "yellowCards": "3",
+          "redCards": "0",
+          "offsides": "1",
+          "wonCorners": "3",
+          "saves": "2",
+          "possessionPct": "46.2",
+          "totalShots": "9",
+          "shotsOnTarget": "2",
+          "shotPct": "0.2",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "306",
+          "totalPasses": "373",
+          "passPct": "0.8",
+          "accurateCrosses": "5",
+          "totalCrosses": "14",
+          "crossPct": "0.4",
+          "totalLongBalls": "58",
+          "accurateLongBalls": "30",
+          "longballPct": "0.5",
+          "blockedShots": "2",
+          "effectiveTackles": "6",
+          "totalTackles": "12",
+          "tacklePct": "0.5",
+          "interceptions": "6",
+          "effectiveClearance": "17",
+          "totalClearance": "17"
+        }
+      },
+      "events": [
+        {
+          "kind": "Goal",
+          "min": "28'",
+          "side": "away",
+          "player": ""
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "39'",
+          "side": "home",
+          "player": ""
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "46'",
+          "side": "away",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "61'",
+          "side": "home",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "75'",
+          "side": "away",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "75'",
+          "side": "away",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "75'",
+          "side": "away",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "76'",
+          "side": "home",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "83'",
+          "side": "away",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "83'",
+          "side": "away",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "85'",
+          "side": "home",
+          "player": ""
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "90'+1'",
+          "side": "away",
+          "player": ""
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "90'+5'",
+          "side": "away",
+          "player": ""
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Johny Placide",
+            "pos": "G"
+          },
+          {
+            "name": "Hannes Delcroix",
+            "pos": "CD-L"
+          },
+          {
+            "name": "Ricardo Adé",
+            "pos": "CD-R"
+          },
+          {
+            "name": "Martin Expérience",
+            "pos": "LB"
+          },
+          {
+            "name": "Carlens Arcus",
+            "pos": "RB"
+          },
+          {
+            "name": "Jean-Ricner Bellegarde",
+            "pos": "CM-L"
+          },
+          {
+            "name": "Danley Jean Jacques",
+            "pos": "CM-R"
+          },
+          {
+            "name": "Ruben Providence",
+            "pos": "LM"
+          },
+          {
+            "name": "Louicius Deedson",
+            "pos": "RM"
+          },
+          {
+            "name": "Wilson Isidor",
+            "pos": "CF-L"
+          },
+          {
+            "name": "Frantzdy Pierrot",
+            "pos": "CF-R"
+          }
+        ],
+        "away": [
+          {
+            "name": "Angus Gunn",
+            "pos": "G"
+          },
+          {
+            "name": "Jack Hendry",
+            "pos": "CD-L"
+          },
+          {
+            "name": "Grant Hanley",
+            "pos": "CD-R"
+          },
+          {
+            "name": "Andy Robertson",
+            "pos": "LB"
+          },
+          {
+            "name": "Aaron Hickey",
+            "pos": "RB"
+          },
+          {
+            "name": "Lewis Ferguson",
+            "pos": "CM-L"
+          },
+          {
+            "name": "Scott McTominay",
+            "pos": "CM-R"
+          },
+          {
+            "name": "John McGinn",
+            "pos": "LM"
+          },
+          {
+            "name": "Ben Gannon-Doak",
+            "pos": "RM"
+          },
+          {
+            "name": "Ché Adams",
+            "pos": "CF-L"
+          },
+          {
+            "name": "Lawrence Shankland",
+            "pos": "CF-R"
+          }
+        ]
+      },
+      "final": true
+    },
+    "760419": {
+      "venue": "MetLife Stadium",
+      "stats": {
+        "home": {
+          "foulsCommitted": "16",
+          "yellowCards": "2",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "6",
+          "saves": "2",
+          "possessionPct": "51.4",
+          "totalShots": "12",
+          "shotsOnTarget": "5",
+          "shotPct": "0.4",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "449",
+          "totalPasses": "514",
+          "passPct": "0.9",
+          "accurateCrosses": "4",
+          "totalCrosses": "16",
+          "crossPct": "0.3",
+          "totalLongBalls": "36",
+          "accurateLongBalls": "18",
+          "longballPct": "0.5",
+          "blockedShots": "3",
+          "effectiveTackles": "13",
+          "totalTackles": "23",
+          "tacklePct": "0.6",
+          "interceptions": "5",
+          "effectiveClearance": "23",
+          "totalClearance": "23"
+        },
+        "away": {
+          "foulsCommitted": "14",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "1",
+          "wonCorners": "2",
+          "saves": "4",
+          "possessionPct": "48.6",
+          "totalShots": "14",
+          "shotsOnTarget": "3",
+          "shotPct": "0.2",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "419",
+          "totalPasses": "486",
+          "passPct": "0.9",
+          "accurateCrosses": "2",
+          "totalCrosses": "15",
+          "crossPct": "0.1",
+          "totalLongBalls": "52",
+          "accurateLongBalls": "17",
+          "longballPct": "0.3",
+          "blockedShots": "6",
+          "effectiveTackles": "18",
+          "totalTackles": "26",
+          "tacklePct": "0.7",
+          "interceptions": "5",
+          "effectiveClearance": "17",
+          "totalClearance": "17"
+        }
+      },
+      "events": [
+        {
+          "kind": "Goal",
+          "min": "21'",
+          "side": "away",
+          "player": ""
+        },
+        {
+          "kind": "Goal",
+          "min": "32'",
+          "side": "home",
+          "player": ""
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "37'",
+          "side": "home",
+          "player": ""
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "43'",
+          "side": "home",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "home",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "home",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "61'",
+          "side": "home",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "62'",
+          "side": "home",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "65'",
+          "side": "away",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "65'",
+          "side": "away",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "80'",
+          "side": "away",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "80'",
+          "side": "away",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "80'",
+          "side": "home",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "89'",
+          "side": "away",
+          "player": ""
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Alisson Becker",
+            "pos": "G"
+          },
+          {
+            "name": "Gabriel Magalhães",
+            "pos": "CD-L"
+          },
+          {
+            "name": "Marquinhos",
+            "pos": "CD-R"
+          },
+          {
+            "name": "Douglas Santos",
+            "pos": "LB"
+          },
+          {
+            "name": "Roger Ibañez",
+            "pos": "RB"
+          },
+          {
+            "name": "Raphinha",
+            "pos": "AM"
+          },
+          {
+            "name": "Bruno Guimarães",
+            "pos": "LM"
+          },
+          {
+            "name": "Casemiro",
+            "pos": "RM"
+          },
+          {
+            "name": "Igor Thiago",
+            "pos": "F"
+          },
+          {
+            "name": "Vinícius Júnior",
+            "pos": "AM-L"
+          },
+          {
+            "name": "Lucas Paquetá",
+            "pos": "AM-R"
+          }
+        ],
+        "away": [
+          {
+            "name": "Yassine Bounou",
+            "pos": "G"
+          },
+          {
+            "name": "Chadi Riad",
+            "pos": "CD-L"
+          },
+          {
+            "name": "Issa Diop",
+            "pos": "CD-R"
+          },
+          {
+            "name": "Noussair Mazraoui",
+            "pos": "LB"
+          },
+          {
+            "name": "Achraf Hakimi",
+            "pos": "RB"
+          },
+          {
+            "name": "Azzedine Ounahi",
+            "pos": "AM"
+          },
+          {
+            "name": "Ayyoub Bouaddi",
+            "pos": "LM"
+          },
+          {
+            "name": "Neil El Aynaoui",
+            "pos": "RM"
+          },
+          {
+            "name": "Ismael Saibari",
+            "pos": "F"
+          },
+          {
+            "name": "Bilal El Khannouss",
+            "pos": "AM-L"
+          },
+          {
+            "name": "Brahim Díaz",
+            "pos": "AM-R"
+          }
+        ]
+      },
+      "final": true
+    },
+    "760420": {
+      "venue": "Levi's Stadium",
+      "stats": {
+        "home": {
+          "foulsCommitted": "12",
+          "yellowCards": "2",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "3",
+          "saves": "5",
+          "possessionPct": "32",
+          "totalShots": "6",
+          "shotsOnTarget": "3",
+          "shotPct": "0.5",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "200",
+          "totalPasses": "278",
+          "passPct": "0.7",
+          "accurateCrosses": "1",
+          "totalCrosses": "9",
+          "crossPct": "0.1",
+          "totalLongBalls": "64",
+          "accurateLongBalls": "19",
+          "longballPct": "0.3",
+          "blockedShots": "0",
+          "effectiveTackles": "9",
+          "totalTackles": "14",
+          "tacklePct": "0.6",
+          "interceptions": "11",
+          "effectiveClearance": "31",
+          "totalClearance": "31"
+        },
+        "away": {
+          "foulsCommitted": "11",
+          "yellowCards": "1",
+          "redCards": "0",
+          "offsides": "1",
+          "wonCorners": "10",
+          "saves": "3",
+          "possessionPct": "68",
+          "totalShots": "26",
+          "shotsOnTarget": "7",
+          "shotPct": "0.3",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "1",
+          "accuratePasses": "527",
+          "totalPasses": "576",
+          "passPct": "0.9",
+          "accurateCrosses": "6",
+          "totalCrosses": "35",
+          "crossPct": "0.2",
+          "totalLongBalls": "35",
+          "accurateLongBalls": "27",
+          "longballPct": "0.8",
+          "blockedShots": "9",
+          "effectiveTackles": "6",
+          "totalTackles": "8",
+          "tacklePct": "0.8",
+          "interceptions": "7",
+          "effectiveClearance": "13",
+          "totalClearance": "13"
+        }
+      },
+      "events": [
+        {
+          "kind": "Yellow Card",
+          "min": "16'",
+          "side": "home",
+          "player": ""
+        },
+        {
+          "kind": "Penalty - Scored",
+          "min": "17'",
+          "side": "away",
+          "player": ""
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "23'",
+          "side": "home",
+          "player": ""
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "42'",
+          "side": "away",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "60'",
+          "side": "home",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "60'",
+          "side": "home",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "60'",
+          "side": "home",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "65'",
+          "side": "away",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "65'",
+          "side": "away",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "79'",
+          "side": "home",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "79'",
+          "side": "away",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "88'",
+          "side": "home",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "89'",
+          "side": "away",
+          "player": ""
+        },
+        {
+          "kind": "Substitution",
+          "min": "89'",
+          "side": "away",
+          "player": ""
+        },
+        {
+          "kind": "Own Goal",
+          "min": "90'+4'",
+          "side": "home",
+          "player": ""
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Mahmoud Abunada",
+            "pos": "G"
+          },
+          {
+            "name": "Boualem Khoukhi",
+            "pos": "CD-L"
+          },
+          {
+            "name": "Pedro Miguel",
+            "pos": "CD-R"
+          },
+          {
+            "name": "Homam Ahmed",
+            "pos": "LB"
+          },
+          {
+            "name": "Ayoub Al-Oui",
+            "pos": "RB"
+          },
+          {
+            "name": "Assim Madibo",
+            "pos": "CM"
+          },
+          {
+            "name": "Issa Laye",
+            "pos": "LM"
+          },
+          {
+            "name": "Jassem Gaber",
+            "pos": "RM"
+          },
+          {
+            "name": "Yusuf Abdurisag",
+            "pos": "F"
+          },
+          {
+            "name": "Akram Afif",
+            "pos": "LF"
+          },
+          {
+            "name": "Edmílson Junior",
+            "pos": "RF"
+          }
+        ],
+        "away": [
+          {
+            "name": "Gregor Kobel",
+            "pos": "G"
+          },
+          {
+            "name": "Manuel Akanji",
+            "pos": "CD-L"
+          },
+          {
+            "name": "Nico Elvedi",
+            "pos": "CD-R"
+          },
+          {
+            "name": "Ricardo Rodríguez",
+            "pos": "LB"
+          },
+          {
+            "name": "Denis Zakaria",
+            "pos": "RB"
+          },
+          {
+            "name": "Granit Xhaka",
+            "pos": "CM"
+          },
+          {
+            "name": "Remo Freuler",
+            "pos": "LM"
+          },
+          {
+            "name": "Michel Aebischer",
+            "pos": "RM"
+          },
+          {
+            "name": "Breel Embolo",
+            "pos": "F"
+          },
+          {
+            "name": "Rubén Vargas",
+            "pos": "LF"
+          },
+          {
+            "name": "Dan Ndoye",
+            "pos": "RF"
+          }
+        ]
+      },
+      "final": true
+    }
+  }
 }

@@ -51,7 +51,9 @@
     results: loadResults(),
     live: !!(CFG.live && CFG.live.enabled),
     lastFetch: null,
-    lastError: null
+    lastError: null,
+    news: [],
+    newsUpdated: null
   };
 
   /* =========================================================================
@@ -432,6 +434,29 @@
       </div>`;
   }
 
+  // World Cup news — headlines scraped from ESPN (refreshed each cycle), linking out to the source
+  function renderNews() {
+    const box = $("#news"); if (!box) return;
+    const arts = state.news || [];
+    const upd = state.newsUpdated ? ` <span class="dim">· updated ${new Date(state.newsUpdated).toLocaleTimeString()}</span>` : "";
+    if (!arts.length) {
+      box.innerHTML = `<div class="panel-h">📰 World Cup News <span class="dim">live from ESPN</span></div>
+        <div class="news-empty">Pulling the latest headlines…</div>`;
+      return;
+    }
+    const cards = arts.map((a) => `
+      <a class="news-card" href="${esc(a.link || "#")}" target="_blank" rel="noopener noreferrer">
+        ${a.image ? `<div class="news-img" style="background-image:url('${esc(a.image)}')"></div>` : `<div class="news-img news-img-ph">📰</div>`}
+        <div class="news-body">
+          <div class="news-head">${esc(a.headline)}</div>
+          ${a.description ? `<div class="news-desc">${esc(a.description)}</div>` : ""}
+          <div class="news-meta">${a.published ? new Date(a.published).toLocaleDateString(undefined, { month: "short", day: "numeric" }) + " · " : ""}ESPN ↗</div>
+        </div>
+      </a>`).join("");
+    box.innerHTML = `<div class="panel-h">📰 World Cup News <span class="dim">live from ESPN${upd}</span></div>
+      <div class="news-grid">${cards}</div>`;
+  }
+
   /* ---------- full board render -------------------------------------------- */
   function renderBoard(advanceBaseline) {
     const computed = computeState();
@@ -448,6 +473,7 @@
     renderClubs(computed);
     renderPreseason(computed);
     renderRules();
+    renderNews();
 
     const lu = state.lastFetch || state.results.lastUpdated;
     $("#last-updated").textContent = lu ? new Date(lu).toLocaleString() : "—";
@@ -514,12 +540,23 @@
              homeScore: g.home || 0, awayScore: g.away || 0, status };
   }
 
+  // News: same-origin data/news.json (refreshed server-side every cycle), cache-busted
+  async function fetchNews() {
+    try {
+      const r = await fetch("data/news.json?t=" + Date.now(), { cache: "no-store" });
+      if (!r.ok) return;
+      const d = await r.json();
+      if (Array.isArray(d.articles)) { state.news = d.articles; state.newsUpdated = d.lastUpdated; }
+    } catch (e) { /* keep last-known headlines */ }
+  }
+
   /* =========================================================================
      REFRESH LOOP + CLOCK
      ====================================================================== */
   let countdown = CFG.refreshSeconds;
   async function refreshCycle() {
     if (state.live) await fetchLive();
+    await fetchNews();
     renderBoard(true);              // advance the movement baseline each cycle
     countdown = CFG.refreshSeconds;
   }
@@ -646,7 +683,6 @@
      ====================================================================== */
   function init() {
     $("#season").textContent = L.season;
-    $("#edit-btn").onclick = openModal;
     refreshCycle();
     setInterval(tick, 1000);
   }

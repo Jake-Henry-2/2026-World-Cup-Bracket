@@ -107,17 +107,35 @@ if (unknown.size) console.error("⚠ UNMAPPED team names (add to ALIASES):", [..
 
 if (!matches.length) {
   console.error("No matches parsed — leaving existing data/live.json untouched.");
-  process.exit(existsSync("data/live.json") ? 0 : 0);
+} else {
+  const out = { lastUpdated: new Date().toISOString(), source: "ESPN soccer/fifa.world", matches };
+  writeFileSync("data/live.json", JSON.stringify(out, null, 2) + "\n");
+  const playedList = matches.filter((m) => m.status !== "scheduled");
+  console.log(`Wrote data/live.json — ${matches.length} matches (${playedList.length} played/live, ${matches.length - playedList.length} upcoming).`);
+  for (const m of playedList) {
+    console.log(`  ${m.status.toUpperCase().padEnd(8)} ${m.home} ${m.homeScore}-${m.awayScore} ${m.away}  [${m.stage}]`);
+  }
 }
 
-const out = {
-  lastUpdated: new Date().toISOString(),
-  source: "ESPN soccer/fifa.world",
-  matches
-};
-writeFileSync("data/live.json", JSON.stringify(out, null, 2) + "\n");
-const playedList = matches.filter((m) => m.status !== "scheduled");
-console.log(`Wrote data/live.json — ${matches.length} matches (${playedList.length} played/live, ${matches.length - playedList.length} upcoming).`);
-for (const m of playedList) {
-  console.log(`  ${m.status.toUpperCase().padEnd(8)} ${m.home} ${m.homeScore}-${m.awayScore} ${m.away}  [${m.stage}]`);
+/* ---------- World Cup news (ESPN public feed, no key) -> data/news.json ----- */
+try {
+  const nres = await fetch("https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/news",
+    { headers: { "User-Agent": "wc2026-tracker" } });
+  if (!nres.ok) throw new Error("HTTP " + nres.status);
+  const nd = await nres.json();
+  const articles = (nd.articles || []).slice(0, 16).map((a) => ({
+    headline: (a.headline || a.title || "").trim(),
+    description: (a.description || "").trim().slice(0, 220),
+    published: a.published || a.lastModified || "",
+    link: (a.links && a.links.web && a.links.web.href) || (a.links && a.links.mobile && a.links.mobile.href) || "",
+    image: (a.images && a.images[0] && (a.images[0].url || a.images[0].href)) || ""
+  })).filter((a) => a.headline);
+  if (articles.length) {
+    writeFileSync("data/news.json", JSON.stringify({ lastUpdated: new Date().toISOString(), source: "ESPN", articles }, null, 2) + "\n");
+    console.log(`Wrote data/news.json — ${articles.length} headlines (top: "${articles[0].headline}").`);
+  } else {
+    console.error("news: no articles parsed; leaving existing file.");
+  }
+} catch (e) {
+  console.error("news fetch failed (keeping existing data/news.json):", e.message);
 }

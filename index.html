@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
   <title>2026 World Cup — Live Fantasy Tracker</title>
-  <link rel="stylesheet" href="assets/styles.css" />
+  <link rel="stylesheet" href="assets/styles.css?v=dev" />
 </head>
 <body>
 
@@ -28,7 +28,6 @@
       <div class="status-item"><span class="lbl">Next refresh</span><span id="refresh-countdown">60s</span></div>
       <div class="status-item"><span class="lbl">Feed</span><span id="live-state">—</span></div>
       <div class="status-item"><span class="lbl">Updated</span><span id="last-updated">—</span></div>
-      <button id="edit-btn" class="btn primary">✎ Edit scores</button>
       <img src="assets/lectra-logo.png" alt="Lectra" class="lectra-logo header-lectra" />
     </div>
   </header>
@@ -63,6 +62,8 @@
     <div class="panel" id="rules"></div>
   </section>
 
+  <section class="panel news-panel" id="news"></section>
+
   <footer class="foot">
     <div class="foot-brand">Powered by <img src="assets/lectra-logo.png" alt="Lectra" class="lectra-logo foot-logo" /></div>
     Auto-updates from ESPN every ~5 min ·
@@ -72,9 +73,9 @@
   <div id="modal" class="modal"></div>
 
   <!-- load order matters: config + data define globals, then the app uses them -->
-  <script src="config.js"></script>
-  <script src="data/league.js"></script>
-  <script src="data/results.js"></script>
-  <script src="assets/app.js"></script>
+  <script src="config.js?v=dev"></script>
+  <script src="data/league.js?v=dev"></script>
+  <script src="data/results.js?v=dev"></script>
+  <script src="assets/app.js?v=dev"></script>
 </body>
 </html>

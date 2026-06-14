@@ -1,13 +1,158 @@
 {
-  "lastUpdated": "2026-06-14T01:42:00Z",
+  "lastUpdated": "2026-06-14T01:50:45.192Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
-    { "stage": "group", "home": "Mexico", "away": "South Africa", "homeScore": 2, "awayScore": 0, "status": "finished" },
-    { "stage": "group", "home": "South Korea", "away": "Czechia", "homeScore": 2, "awayScore": 1, "status": "finished" },
-    { "stage": "group", "home": "Canada", "away": "Bosnia and Herzegovina", "homeScore": 1, "awayScore": 1, "status": "finished" },
-    { "stage": "group", "home": "United States", "away": "Paraguay", "homeScore": 4, "awayScore": 1, "status": "finished" },
-    { "stage": "group", "home": "Qatar", "away": "Switzerland", "homeScore": 1, "awayScore": 1, "status": "finished" },
-    { "stage": "group", "home": "Brazil", "away": "Morocco", "homeScore": 1, "awayScore": 1, "status": "finished" },
-    { "stage": "group", "home": "Haiti", "away": "Scotland", "homeScore": 0, "awayScore": 1, "status": "live" }
+    {
+      "stage": "group",
+      "home": "Mexico",
+      "away": "South Africa",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "stage": "group",
+      "home": "South Korea",
+      "away": "Czechia",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "stage": "group",
+      "home": "Canada",
+      "away": "Bosnia and Herzegovina",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "stage": "group",
+      "home": "United States",
+      "away": "Paraguay",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "stage": "group",
+      "home": "Qatar",
+      "away": "Switzerland",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "stage": "group",
+      "home": "Brazil",
+      "away": "Morocco",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "stage": "group",
+      "home": "Haiti",
+      "away": "Scotland",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "live"
+    },
+    {
+      "stage": "group",
+      "home": "Australia",
+      "away": "Türkiye",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled"
+    },
+    {
+      "stage": "group",
+      "home": "Germany",
+      "away": "Curaçao",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled"
+    },
+    {
+      "stage": "group",
+      "home": "Netherlands",
+      "away": "Japan",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled"
+    },
+    {
+      "stage": "group",
+      "home": "Ivory Coast",
+      "away": "Ecuador",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled"
+    },
+    {
+      "stage": "group",
+      "home": "Sweden",
+      "away": "Tunisia",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled"
+    },
+    {
+      "stage": "group",
+      "home": "Spain",
+      "away": "Cabo Verde",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled"
+    },
+    {
+      "stage": "group",
+      "home": "Belgium",
+      "away": "Egypt",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled"
+    },
+    {
+      "stage": "group",
+      "home": "Saudi Arabia",
+      "away": "Uruguay",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled"
+    },
+    {
+      "stage": "group",
+      "home": "Iran",
+      "away": "New Zealand",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled"
+    },
+    {
+      "stage": "group",
+      "home": "France",
+      "away": "Senegal",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled"
+    },
+    {
+      "stage": "group",
+      "home": "Iraq",
+      "away": "Norway",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled"
+    },
+    {
+      "stage": "group",
+      "home": "Argentina",
+      "away": "Algeria",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled"
+    }
   ]
 }

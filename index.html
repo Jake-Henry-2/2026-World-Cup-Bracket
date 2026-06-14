@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>2026 World Cup — Live Fantasy Tracker</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="stylesheet" href="assets/styles.css" />
+</head>
+<body>
+
+  <!-- NYSE-style scrolling ticker: current leader + full standings tape -->
+  <div id="ticker" class="ticker">
+    <div class="ticker-badge">LIVE</div>
+    <div id="ticker-track" class="ticker-track"></div>
+  </div>
+
+  <header class="topbar">
+    <div class="brand">
+      <span class="ball">⚽</span>
+      <div>
+        <h1 id="season">2026 FIFA World Cup</h1>
+        <div class="subtitle">Fantasy Draft — Live Standings</div>
+      </div>
+    </div>
+    <div class="status">
+      <div class="status-item"><span class="lbl">Time</span><span id="clock">—</span></div>
+      <div class="status-item"><span class="lbl">Next refresh</span><span id="refresh-countdown">60s</span></div>
+      <div class="status-item"><span class="lbl">Feed</span><span id="live-state">—</span></div>
+      <div class="status-item"><span class="lbl">Updated</span><span id="last-updated">—</span></div>
+      <button id="edit-btn" class="btn primary">✎ Edit scores</button>
+    </div>
+  </header>
+
+  <main class="layout">
+    <section class="col-main">
+      <div class="panel">
+        <div class="panel-h">🏁 Manager Standings <span class="dim">1st → last</span></div>
+        <div id="leaderboard" class="leaderboard"></div>
+      </div>
+    </section>
+
+    <aside class="col-side">
+      <div class="panel" id="pots"></div>
+      <div class="panel" id="sidepool"></div>
+    </aside>
+  </main>
+
+  <section class="panel groups-panel">
+    <div class="panel-h">🌍 Group Standings <span class="dim">owner emoji · GP · GF-GA · fantasy pts</span></div>
+    <div id="groups" class="groups"></div>
+  </section>
+
+  <footer class="foot">
+    Manual + optional live feed · updates every <span id="foot-secs">60</span>s ·
+    points = Win 3 · Draw 1 · Goal 1 · Shutout 1 · Group winner +5 · Runner-up +3
+  </footer>
+
+  <div id="modal" class="modal"></div>
+
+  <!-- load order matters: config + data define globals, then the app uses them -->
+  <script src="config.js"></script>
+  <script src="data/league.js"></script>
+  <script src="data/results.js"></script>
+  <script src="assets/app.js"></script>
+  <script>document.getElementById('foot-secs').textContent = (window.CONFIG&&window.CONFIG.refreshSeconds)||60;</script>
+</body>
+</html>

@@ -542,79 +542,6 @@
     box.innerHTML = `${head}<div class="news-grid">${cards}</div>`;
   }
 
-  // Goal highlights — every goal across played matches, tagged with the owner's emoji
-  function renderHighlights() {
-    const box = $("#highlights"); if (!box) return;
-    const details = state.details || {}, byId = (state.computed && state.computed.byId) || {};
-    const goals = [];
-    Object.keys(details).forEach((mid) => {
-      const det = details[mid], m = byId[mid];
-      if (!det || !m) return;
-      (det.events || []).filter((e) => /goal/i.test(e.kind || "")).forEach((e) => {
-        const team = e.side === "away" ? m.away : m.home;
-        const owner = OWNER_OF[team];
-        goals.push({
-          mid, scorer: e.player || team, min: e.min || "",
-          emoji: owner ? MANAGER[owner].emoji : "⚽", ownerName: owner || "",
-          team, date: m.date, home: m.home, away: m.away, hs: m.hs, as: m.as,
-          thumb: (det.highlight && det.highlight.thumb) || "",
-          link: (det.highlight && det.highlight.link) || `https://www.espn.com/soccer/match/_/gameId/${mid}`
-        });
-      });
-    });
-    goals.sort((a, b) => (Date.parse(b.date) || 0) - (Date.parse(a.date) || 0));
-    if (!goals.length) {
-      box.innerHTML = `<div class="panel-h">🎬 Goal Highlights <span class="dim">from ESPN</span></div>
-        <div class="hl-empty">Goal highlights show up here as matches are played.</div>`;
-      return;
-    }
-    const cards = goals.map((g) => `
-      <a class="hl-card" data-hl="${esc(g.mid)}" href="${esc(g.link)}" target="_blank" rel="noopener noreferrer" title="Play ${esc(g.home)} v ${esc(g.away)} highlight">
-        <div class="hl-thumb"${g.thumb ? ` style="background-image:url('${esc(g.thumb)}')"` : ""}><span class="hl-play">▶</span></div>
-        <div class="hl-body">
-          <div class="hl-scorer"><span class="hl-emoji" title="${esc(g.ownerName || g.team)}">${g.emoji}</span><span class="hl-name">${esc(g.scorer)}</span>${g.min ? `<span class="hl-min">${esc(g.min)}</span>` : ""}</div>
-          <div class="hl-match">${esc(g.home)} <b>${g.hs}–${g.as}</b> ${esc(g.away)}</div>
-        </div></a>`).join("");
-    box.innerHTML = `<div class="panel-h">🎬 Goal Highlights <span class="dim">${goals.length} goals · tap to play the goal</span></div>
-      <div class="hl-grid">${cards}</div>`;
-  }
-
-  // Play the actual goal/highlight inline in a modal (a <video> plays ESPN's CDN cross-origin, no fetch-CORS).
-  function openHighlightModal(mid) {
-    const det = state.details && state.details[mid];
-    const g = state.computed && state.computed.byId[mid];
-    const h = det && det.highlight;
-    const link = (h && h.link) || `https://www.espn.com/soccer/match/_/gameId/${mid}`;
-    const title = g ? `${g.home} ${g.hs}–${g.as} ${g.away}` : (h && h.headline) || "Goal highlight";
-    const poster = h && h.thumb ? ` poster="${esc(h.thumb)}"` : "";
-    let media, hookHls = "";
-    if (h && h.mp4) {
-      media = `<video class="hl-video" src="${esc(h.mp4)}" controls autoplay playsinline${poster}></video>`;
-    } else if (h && h.hls) {
-      media = `<video class="hl-video" id="hlVideo" controls autoplay playsinline${poster}></video>`;
-      hookHls = h.hls;
-    } else {
-      media = `<a class="hl-watch" href="${esc(link)}" target="_blank" rel="noopener noreferrer">
-        <div class="hl-watch-thumb"${h && h.thumb ? ` style="background-image:url('${esc(h.thumb)}')"` : ""}><span class="hl-play">▶</span></div>
-        <span>Highlight video lands within ~5 min of the goal — tap to watch on ESPN ↗</span></a>`;
-    }
-    showModal(`<button class="modal-x">✕</button>
-      <div class="hlm-h">🎬 ${esc(title)}</div>
-      <div class="hlm-media">${media}</div>
-      ${h && h.headline ? `<div class="hlm-cap">${esc(h.headline)}</div>` : ""}
-      <div class="md-foot"><a href="${esc(link)}" target="_blank" rel="noopener" class="foot-link">Open full highlights on ESPN ↗</a></div>`);
-    if (hookHls) { const v = document.getElementById("hlVideo"); if (v) attachHls(v, hookHls); }
-  }
-  // HLS (.m3u8) playback: native on Safari, else lazy-load hls.js from a CDN on demand
-  function attachHls(video, url) {
-    if (video.canPlayType("application/vnd.apple.mpegurl")) { video.src = url; video.play().catch(() => {}); return; }
-    const go = () => { try { const H = window.Hls; const hp = new H(); hp.loadSource(url); hp.attachMedia(video); video.play().catch(() => {}); } catch (e) {} };
-    if (window.Hls) return go();
-    const s = document.createElement("script");
-    s.src = "https://cdn.jsdelivr.net/npm/hls.js@1.5/dist/hls.min.js";
-    s.onload = go; s.onerror = () => {};
-    document.head.appendChild(s);
-  }
 
   /* ---------- full board render -------------------------------------------- */
   function renderBoard(advanceBaseline) {
@@ -633,7 +560,6 @@
     renderPreseason(computed);
     renderRules();
     renderNews();
-    renderHighlights();
 
     const lu = state.lastFetch || state.results.lastUpdated;
     $("#last-updated").textContent = lu ? new Date(lu).toLocaleString() : "—";
@@ -1146,8 +1072,6 @@
   function init() {
     $("#season").textContent = L.season;
     document.addEventListener("click", (e) => {
-      const hl = e.target.closest("[data-hl]");
-      if (hl) { e.preventDefault(); openHighlightModal(hl.dataset.hl); return; }   // play the goal inline (link is the no-JS fallback)
       if (e.target.closest("[data-allgames]")) { openAllGamesModal(); return; }
       const g = e.target.closest("[data-mid]");
       if (g) { openMatchModal(g.dataset.mid); return; }

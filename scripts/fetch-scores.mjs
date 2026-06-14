@@ -116,5 +116,8 @@ const out = {
   matches
 };
 writeFileSync("data/live.json", JSON.stringify(out, null, 2) + "\n");
-const played = matches.filter((m) => m.status !== "scheduled").length;
-console.log(`Wrote data/live.json — ${matches.length} matches (${played} played/live, ${matches.length - played} upcoming).`);
+const playedList = matches.filter((m) => m.status !== "scheduled");
+console.log(`Wrote data/live.json — ${matches.length} matches (${playedList.length} played/live, ${matches.length - playedList.length} upcoming).`);
+for (const m of playedList) {
+  console.log(`  ${m.status.toUpperCase().padEnd(8)} ${m.home} ${m.homeScore}-${m.awayScore} ${m.away}  [${m.stage}]`);
+}

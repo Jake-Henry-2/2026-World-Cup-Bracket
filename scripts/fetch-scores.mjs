@@ -192,21 +192,37 @@ async function fetchDetail(id) {
       name: (p.athlete && p.athlete.displayName) || "", pos: (p.position && p.position.abbreviation) || ""
     })).filter((p) => p.name);
   });
+  // grab the match highlight video — capture a directly-playable source (mp4 preferred, else HLS)
+  // so the page can embed and play the actual goals inline (a <video> plays cross-origin without CORS).
   const v0 = (d.videos || [])[0];
-  const highlight = v0 ? {
-    thumb: v0.thumbnail || (v0.images && v0.images[0] && (v0.images[0].url || v0.images[0].href)) || "",
-    link: (v0.links && ((v0.links.web && v0.links.web.href) || (v0.links.source && v0.links.source.href) || (v0.links.mobile && v0.links.mobile.href))) || "",
-    headline: v0.headline || ""
-  } : null;
+  let highlight = null;
+  if (v0) {
+    const src = (v0.links && v0.links.source) || {};
+    const mob = (v0.links && v0.links.mobile) || {};
+    const cand = [];
+    const add = (u) => { if (u && typeof u === "string") cand.push(u); };
+    add(src.href); add(src.full && src.full.href); add(src.mezzanine && src.mezzanine.href);
+    add(src.HD && src.HD.href); add(mob.progressiveDownload && mob.progressiveDownload.href);
+    add(src.HLS && src.HLS.href); add(src.HLS && src.HLS.HD && src.HLS.HD.href);
+    add(mob.streaming && mob.streaming.href); add(mob.href);
+    const mp4 = cand.find((u) => /\.mp4(\?|$)/i.test(u)) || "";
+    const hls = cand.find((u) => /\.m3u8(\?|$)/i.test(u)) || "";
+    highlight = {
+      thumb: v0.thumbnail || (v0.images && v0.images[0] && (v0.images[0].url || v0.images[0].href)) || "",
+      link: (v0.links && ((v0.links.web && v0.links.web.href) || (v0.links.source && v0.links.source.href) || (v0.links.mobile && v0.links.mobile.href))) || "",
+      headline: v0.headline || "", mp4, hls
+    };
+  }
   return { venue: (d.gameInfo && d.gameInfo.venue && d.gameInfo.venue.fullName) || "", stats, events, lineups, highlight };
 }
+const DETAIL_VERSION = 2;   // bump when fetchDetail's shape changes → forces a one-time re-fetch of cached finals
 let details = {};
 try { details = (JSON.parse(readFileSync("data/details.json", "utf8")).games) || {}; } catch (e) { details = {}; }
 let dGot = 0;
 for (const m of matches.filter((x) => x.id && (x.status === "finished" || x.status === "live"))) {
-  // cached final — skip, but re-fetch once if it predates a newer field (e.g. highlight capture)
-  if (m.status === "finished" && details[m.id] && details[m.id].final && ("highlight" in details[m.id])) continue;
-  try { const det = await fetchDetail(m.id); det.final = (m.status === "finished"); details[m.id] = det; dGot++; }
+  // cached final — skip, unless it predates the current detail shape (e.g. playable video sources)
+  if (m.status === "finished" && details[m.id] && details[m.id].final && details[m.id].dv === DETAIL_VERSION) continue;
+  try { const det = await fetchDetail(m.id); det.final = (m.status === "finished"); det.dv = DETAIL_VERSION; details[m.id] = det; dGot++; }
   catch (e) { console.error("detail fail", m.id, e.message); }
 }
 writeFileSync("data/details.json", JSON.stringify({ lastUpdated: new Date().toISOString(), games: details }, null, 2) + "\n");

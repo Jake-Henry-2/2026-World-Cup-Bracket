@@ -225,6 +225,15 @@ h1{font-size:20px;margin:0;letter-spacing:.3px}
 .hl-match{font-size:11.5px;color:var(--dim);line-height:1.3;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .hl-match b{color:var(--ink);font-weight:800}
 .hl-empty{padding:20px;color:var(--dim);font-size:13px;text-align:center}
+/* highlight video modal */
+.hlm-h{font-weight:800;font-size:16px;padding:4px 2px 12px;text-align:center}
+.hlm-media{position:relative;width:100%;background:#000;border-radius:12px;overflow:hidden;border:1px solid var(--line)}
+.hl-video{display:block;width:100%;max-height:72vh;aspect-ratio:16/9;background:#000}
+.hlm-cap{color:var(--dim);font-size:12.5px;text-align:center;padding:10px 4px 2px;line-height:1.4}
+.hl-watch{display:flex;flex-direction:column;align-items:center;gap:12px;padding:26px 18px;text-decoration:none;color:var(--ink)}
+.hl-watch-thumb{width:100%;max-width:520px;aspect-ratio:16/9;background:#0b1426 center/cover no-repeat;
+  border-radius:12px;border:1px solid var(--line);display:flex;align-items:center;justify-content:center}
+.hl-watch span{font-size:13px;color:var(--dim);text-align:center}
 
 /* ---------------- footer ---------------- */
 .foot{text-align:center;color:var(--dim);font-size:12px;padding:24px 16px;line-height:1.7}

@@ -217,10 +217,22 @@
       status: m.status || "scheduled", id: m.id || null, venue: m.venue || "",
       date: m.date || null, clock: m.clock, displayClock: m.displayClock, detail: m.detail
     });
-    const log = matches.filter((m) => known(m) && m.status === "finished").map(fmt);
-    const liveNow = matches.filter((m) => known(m) && m.status === "live").map(fmt);
     const nowMs = Date.now();
-    const upcoming = matches.filter((m) => known(m) && m.status === "scheduled" && m.date).map(fmt)
+    // a "scheduled" game whose kickoff has already passed (recently) has really kicked off —
+    // the feed just hasn't flipped it to "live" yet. Treat it as live so it never vanishes during
+    // the data-refresh lag, and extrapolate its clock from kickoff. ~2.5h covers a full match.
+    const KICKOFF_GRACE = 150 * 60 * 1000;
+    const koMs = (m) => (m && m.date) ? (Date.parse(m.date) || 0) : 0;
+    const justKicked = (m) => m.status === "scheduled" && koMs(m) && koMs(m) <= nowMs && (nowMs - koMs(m)) < KICKOFF_GRACE;
+    const isLive = (m) => m.status === "live" || justKicked(m);
+
+    const log = matches.filter((m) => known(m) && m.status === "finished").map(fmt);
+    const liveNow = matches.filter((m) => known(m) && isLive(m)).map((m) => {
+      const r = fmt(m);
+      if (r.status !== "live") { r.status = "live"; r.kickedOff = true; }   // promoted: clock comes from kickoff time
+      return r;
+    }).sort((a, b) => koMs(b) - koMs(a));
+    const upcoming = matches.filter((m) => known(m) && m.status === "scheduled" && !isLive(m) && m.date).map(fmt)
       .filter((m) => { const t = Date.parse(m.date); return t > nowMs && t < nowMs + 24 * 3600 * 1000; })
       .sort((a, b) => Date.parse(a.date) - Date.parse(b.date));
     const dataMs = R.lastUpdated ? (Date.parse(R.lastUpdated) || nowMs) : nowMs;
@@ -411,10 +423,17 @@
     const upStr = (iso) => iso ? new Date(iso).toLocaleString(undefined, { weekday: "short", hour: "numeric", minute: "2-digit" }) : "";
 
     const mid = (m) => m.id ? ` data-mid="${esc(m.id)}"` : "";
-    const liveRows = computed.liveNow.map((m) => `<div class="lg-row lg-live lg-click"${mid(m)}>
+    const liveRows = computed.liveNow.map((m) => {
+      // freshly kicked-off games (feed still says "scheduled") have no ESPN clock — tick from kickoff time
+      const sinceMs = m.kickedOff ? (Date.parse(m.date) || computed.dataMs) : computed.dataMs;
+      const clk = m.kickedOff ? 0 : (m.clock || 0);
+      const disp = m.kickedOff ? "" : (m.displayClock || "");
+      const det = m.kickedOff ? "" : (m.detail || "");
+      return `<div class="lg-row lg-live lg-click"${mid(m)}>
       <span class="lg-g">🔴</span>
       <span class="lg-m">${esc(m.home)} ${ownerTag(m.home)} <b>${m.hs}–${m.as}</b> ${ownerTag(m.away)} ${esc(m.away)}</span>
-      <span class="lg-clock" data-clock="${m.clock || 0}" data-disp="${esc(m.displayClock || "")}" data-since="${computed.dataMs}" data-detail="${esc(m.detail || "")}">${liveClockText(m.clock, m.displayClock, computed.dataMs, m.detail)}</span></div>`).join("");
+      <span class="lg-clock" data-clock="${clk}" data-disp="${esc(disp)}" data-since="${sinceMs}" data-detail="${esc(det)}">${liveClockText(clk, disp, sinceMs, det)}</span></div>`;
+    }).join("");
 
     const upRows = computed.upcoming.map((m) => `<div class="lg-row lg-up lg-click"${mid(m)}>
       <span class="lg-g">${m.group || m.stage}</span>
@@ -541,14 +560,51 @@
       return;
     }
     const cards = goals.map((g) => `
-      <a class="hl-card" href="${esc(g.link)}" target="_blank" rel="noopener noreferrer" title="Watch ${esc(g.home)} v ${esc(g.away)} on ESPN">
+      <a class="hl-card" data-hl="${esc(g.mid)}" href="${esc(g.link)}" target="_blank" rel="noopener noreferrer" title="Play ${esc(g.home)} v ${esc(g.away)} highlight">
         <div class="hl-thumb"${g.thumb ? ` style="background-image:url('${esc(g.thumb)}')"` : ""}><span class="hl-play">▶</span></div>
         <div class="hl-body">
           <div class="hl-scorer"><span class="hl-emoji" title="${esc(g.ownerName || g.team)}">${g.emoji}</span><span class="hl-name">${esc(g.scorer)}</span>${g.min ? `<span class="hl-min">${esc(g.min)}</span>` : ""}</div>
           <div class="hl-match">${esc(g.home)} <b>${g.hs}–${g.as}</b> ${esc(g.away)}</div>
         </div></a>`).join("");
-    box.innerHTML = `<div class="panel-h">🎬 Goal Highlights <span class="dim">${goals.length} goals · tap to watch on ESPN</span></div>
+    box.innerHTML = `<div class="panel-h">🎬 Goal Highlights <span class="dim">${goals.length} goals · tap to play the goal</span></div>
       <div class="hl-grid">${cards}</div>`;
+  }
+
+  // Play the actual goal/highlight inline in a modal (a <video> plays ESPN's CDN cross-origin, no fetch-CORS).
+  function openHighlightModal(mid) {
+    const det = state.details && state.details[mid];
+    const g = state.computed && state.computed.byId[mid];
+    const h = det && det.highlight;
+    const link = (h && h.link) || `https://www.espn.com/soccer/match/_/gameId/${mid}`;
+    const title = g ? `${g.home} ${g.hs}–${g.as} ${g.away}` : (h && h.headline) || "Goal highlight";
+    const poster = h && h.thumb ? ` poster="${esc(h.thumb)}"` : "";
+    let media, hookHls = "";
+    if (h && h.mp4) {
+      media = `<video class="hl-video" src="${esc(h.mp4)}" controls autoplay playsinline${poster}></video>`;
+    } else if (h && h.hls) {
+      media = `<video class="hl-video" id="hlVideo" controls autoplay playsinline${poster}></video>`;
+      hookHls = h.hls;
+    } else {
+      media = `<a class="hl-watch" href="${esc(link)}" target="_blank" rel="noopener noreferrer">
+        <div class="hl-watch-thumb"${h && h.thumb ? ` style="background-image:url('${esc(h.thumb)}')"` : ""}><span class="hl-play">▶</span></div>
+        <span>Highlight video lands within ~5 min of the goal — tap to watch on ESPN ↗</span></a>`;
+    }
+    showModal(`<button class="modal-x">✕</button>
+      <div class="hlm-h">🎬 ${esc(title)}</div>
+      <div class="hlm-media">${media}</div>
+      ${h && h.headline ? `<div class="hlm-cap">${esc(h.headline)}</div>` : ""}
+      <div class="md-foot"><a href="${esc(link)}" target="_blank" rel="noopener" class="foot-link">Open full highlights on ESPN ↗</a></div>`);
+    if (hookHls) { const v = document.getElementById("hlVideo"); if (v) attachHls(v, hookHls); }
+  }
+  // HLS (.m3u8) playback: native on Safari, else lazy-load hls.js from a CDN on demand
+  function attachHls(video, url) {
+    if (video.canPlayType("application/vnd.apple.mpegurl")) { video.src = url; video.play().catch(() => {}); return; }
+    const go = () => { try { const H = window.Hls; const hp = new H(); hp.loadSource(url); hp.attachMedia(video); video.play().catch(() => {}); } catch (e) {} };
+    if (window.Hls) return go();
+    const s = document.createElement("script");
+    s.src = "https://cdn.jsdelivr.net/npm/hls.js@1.5/dist/hls.min.js";
+    s.onload = go; s.onerror = () => {};
+    document.head.appendChild(s);
   }
 
   /* ---------- full board render -------------------------------------------- */
@@ -931,6 +987,8 @@
   function init() {
     $("#season").textContent = L.season;
     document.addEventListener("click", (e) => {
+      const hl = e.target.closest("[data-hl]");
+      if (hl) { e.preventDefault(); openHighlightModal(hl.dataset.hl); return; }   // play the goal inline (link is the no-JS fallback)
       if (e.target.closest("[data-allgames]")) { openAllGamesModal(); return; }
       const g = e.target.closest("[data-mid]");
       if (g) { openMatchModal(g.dataset.mid); return; }

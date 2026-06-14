@@ -170,16 +170,26 @@
     let rank = 0, prev = null, seen = 0;
     managers.forEach((m) => { seen += 1; if (m.total !== prev) { rank = seen; prev = m.total; } m.rank = rank; });
 
-    // ----- $50 side pool among the remaining 8 -------------------------------
-    const eight = L.remainingEight.map((t) => ({ team: canon(t), pts: team[canon(t)].fpts }))
-      .sort((a, b) => b.pts - a.pts || a.team.localeCompare(b.team));
-    const actualTop = eight[0], actualRU = eight[1];
-    const sidePool = (L.sidePool || []).map((p) => ({
-      manager: p.manager, top: canon(p.top), runnerUp: canon(p.runnerUp), team: canon(p.team),
-      topHit: actualTop && canon(p.top) === actualTop.team,
-      ruHit: actualRU && canon(p.runnerUp) === actualRU.team
-    }));
-    sidePool.sort((a, b) => (b.topHit + b.ruHit) - (a.topHit + a.ruHit) || a.manager.localeCompare(b.manager));
+    // ----- $50 side pool: bets (Top Point Winner / Runner-Up) vs actual points
+    const eight = L.remainingEight.map((t) => {
+      const ct = canon(t), ts = team[ct];
+      return { team: ct, pts: ts.fpts, gp: ts.gp, live: ts.live };
+    }).sort((a, b) => b.pts - a.pts || b.gp - a.gp || a.team.localeCompare(b.team));
+    const anyPlayed = eight.some((e) => e.gp > 0);            // a remaining-8 team has finished a match
+    const actualTop = anyPlayed ? eight[0] : null;
+    const actualRU = anyPlayed ? eight[1] : null;
+    const ptsOf = (name) => { const e = eight.find((x) => x.team === name); return e ? e.pts : 0; };
+    const sidePool = (L.sidePool || []).map((p) => {
+      const top = canon(p.top), ru = canon(p.runnerUp);
+      return {
+        manager: p.manager, top, runnerUp: ru, topPts: ptsOf(top), ruPts: ptsOf(ru),
+        topHit: !!(actualTop && top === actualTop.team),
+        ruHit: !!(actualRU && ru === actualRU.team)
+      };
+    });
+    // lead the side board by correct bets, then by how their picked teams are doing
+    sidePool.sort((a, b) => (b.topHit + b.ruHit) - (a.topHit + a.ruHit)
+      || (b.topPts + b.ruPts) - (a.topPts + a.ruPts) || a.manager.localeCompare(b.manager));
 
     // ----- games log (finished) + live-now (in progress) for display ---------
     const known = (m) => m && team[canon(m.home)] && team[canon(m.away)];
@@ -191,7 +201,7 @@
     const log = matches.filter((m) => known(m) && m.status === "finished").map(fmt);
     const liveNow = matches.filter((m) => known(m) && m.status === "live").map(fmt);
 
-    return { team, managers, groupTables, eight, actualTop, actualRU, sidePool, log, liveNow };
+    return { team, managers, groupTables, eight, actualTop, actualRU, anyPlayed, sidePool, log, liveNow };
   }
 
   /* =========================================================================
@@ -299,24 +309,32 @@
 
   function renderSidePool(computed) {
     const box = $("#sidepool");
-    const eight = computed.eight.map((e, i) =>
-      `<span class="sp-team${i === 0 ? " sp-top" : i === 1 ? " sp-ru" : ""}">${i === 0 ? "🏆 " : i === 1 ? "🥈 " : ""}${esc(e.team)} <b>${e.pts}</b></span>`
-    ).join("");
+    const ap = computed.anyPlayed;
+    const eight = computed.eight.map((e, i) => {
+      const mark = ap && i === 0 ? "🏆 " : ap && i === 1 ? "🥈 " : "";
+      const cls = ap && i === 0 ? " sp-top" : ap && i === 1 ? " sp-ru" : "";
+      return `<span class="sp-team${cls}">${mark}${esc(e.team)} <b>${e.pts}</b>${e.live ? ' <span class="ct-live">●</span>' : ""}</span>`;
+    }).join("");
     const picks = computed.sidePool.map((p) =>
       `<tr><td>${esc(p.manager)}</td>
-        <td class="${p.topHit ? "hit" : ""}">${esc(p.top)}${p.topHit ? " ✓" : ""}</td>
-        <td class="${p.ruHit ? "hit" : ""}">${esc(p.runnerUp)}${p.ruHit ? " ✓" : ""}</td>
-        <td>${esc(p.team)}</td></tr>`
+        <td class="${p.topHit ? "hit" : ""}">${esc(p.top)} <span class="sp-pp">${p.topPts}</span>${p.topHit ? " ✓" : ""}</td>
+        <td class="${p.ruHit ? "hit" : ""}">${esc(p.runnerUp)} <span class="sp-pp">${p.ruPts}</span>${p.ruHit ? " ✓" : ""}</td></tr>`
     ).join("");
-    const leader = computed.sidePool.find((p) => p.topHit) || null;
+    let note;
+    if (!ap) {
+      note = `No Remaining-8 games have finished yet — bets go live the moment these teams play.`;
+    } else {
+      const w = computed.sidePool.find((p) => p.topHit);
+      note = w
+        ? `Leading the $${L.pots.sidePool}: <b>${esc(w.manager)}</b> — called <b>${esc(computed.actualTop.team)}</b> as Top Point Winner${w.ruHit ? " + Runner-Up ✓" : ""}.`
+        : `Top Point Winner so far: <b>${esc(computed.actualTop.team)}</b> (${computed.actualTop.pts} pts) — no one bet it. Closest: <b>${esc(computed.sidePool[0].manager)}</b>.`;
+    }
     box.innerHTML = `
-      <div class="panel-h">💰 Remaining 8 — $${L.pots.sidePool} Side Pool</div>
+      <div class="panel-h">💰 Remaining 8 — $${L.pots.sidePool} Side Pool <span class="dim">predict the top scorer · $ to the correct Top pick</span></div>
       <div class="sp-standings">${eight}</div>
-      <table class="sp-t"><thead><tr><th>Manager</th><th>Top winner</th><th>Runner-up</th><th>Team</th></tr></thead>
+      <table class="sp-t"><thead><tr><th>Manager</th><th>Top Point Winner</th><th>Runner-Up</th></tr></thead>
         <tbody>${picks}</tbody></table>
-      <div class="sp-note">${leader
-        ? `Projected pool winner: <b>${esc(leader.manager)}</b> (called ${esc(computed.actualTop.team)} on top)`
-        : `No one has the current top team (${esc(computed.actualTop ? computed.actualTop.team : "—")}) yet.`}</div>`;
+      <div class="sp-note">${note}</div>`;
   }
 
   function renderPots(computed) {

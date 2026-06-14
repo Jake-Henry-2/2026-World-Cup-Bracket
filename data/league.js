@@ -55,15 +55,17 @@ window.LEAGUE = {
      ---------------------------------------------------------------------- */
   remainingEight: ["Haiti", "Curaçao", "Tunisia", "Cabo Verde", "Saudi Arabia", "DR Congo", "Uzbekistan", "Jordan"],
 
-  /* Side-pool picks: each manager called the Top points winner, a Runner-up,
-     and one more Team, among the remaining 8. (From your "Remaining 8" block.)
-     Only the 5 fully-filled rows from the sheet are encoded; add more here. */
+  /* Side-pool BETS: these 5 managers each predicted the Top Point Winner and the
+     Runner-Up among the remaining 8 (ranked by total points). The $50 pot is
+     decided by these bets vs the teams' actual point standings. The other 5
+     managers did not enter the side pool. (From your "Remaining 8" block —
+     the "Team" column there is just the list of 8 teams, not a per-manager pick.) */
   sidePool: [
-    { manager: "Francis", top: "Uzbekistan",   runnerUp: "Tunisia",      team: "Cabo Verde" },
-    { manager: "Paul",    top: "Uzbekistan",   runnerUp: "Saudi Arabia", team: "Curaçao" },
-    { manager: "Mitch",   top: "Saudi Arabia", runnerUp: "Haiti",        team: "DR Congo" },
-    { manager: "Dom",     top: "DR Congo",     runnerUp: "Uzbekistan",   team: "Haiti" },
-    { manager: "Andy",    top: "Saudi Arabia", runnerUp: "Uzbekistan",   team: "Jordan" }
+    { manager: "Francis", top: "Uzbekistan",   runnerUp: "Tunisia" },
+    { manager: "Paul",    top: "Uzbekistan",   runnerUp: "Saudi Arabia" },
+    { manager: "Mitch",   top: "Saudi Arabia", runnerUp: "Haiti" },
+    { manager: "Dom",     top: "DR Congo",     runnerUp: "Uzbekistan" },
+    { manager: "Andy",    top: "Saudi Arabia", runnerUp: "Uzbekistan" }
   ],
 
   /* -------------------------------------------------------------------------

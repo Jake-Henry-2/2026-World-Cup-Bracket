@@ -207,8 +207,8 @@ h1{font-size:20px;margin:0;letter-spacing:.3px}
 /* ---------------- Lectra brand logo (white) ---------------- */
 .lectra-logo{display:inline-block;width:auto;vertical-align:middle}
 .header-lectra{height:22px;padding-left:16px;margin-left:2px;border-left:1px solid var(--line)}
-.foot-brand{margin-bottom:10px;font-size:13px;color:var(--dim);display:flex;align-items:center;justify-content:center;gap:8px;flex-wrap:wrap}
-.foot-logo{height:15px;display:block}
+.foot-brand{margin-bottom:10px;font-size:13px;color:var(--dim);display:flex;align-items:baseline;justify-content:center;gap:8px;flex-wrap:wrap}
+.foot-logo{height:14px;display:inline-block;vertical-align:baseline;position:relative;top:1px}
 .foot-link{color:var(--blue);text-decoration:none;font-weight:700}
 .foot-link:hover{text-decoration:underline}
 

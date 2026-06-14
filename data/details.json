@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T16:00:13.945Z",
+  "lastUpdated": "2026-06-14T17:39:35.030Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -7278,6 +7278,721 @@
       ],
       "highlight": null,
       "final": true,
+      "dv": 5
+    },
+    "760422": {
+      "venue": "NRG Stadium",
+      "stats": {
+        "home": {
+          "foulsCommitted": "6",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "3",
+          "saves": "0",
+          "possessionPct": "70.7",
+          "totalShots": "11",
+          "shotsOnTarget": "3",
+          "shotPct": "0.3",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "237",
+          "totalPasses": "262",
+          "passPct": "0.9",
+          "accurateCrosses": "2",
+          "totalCrosses": "6",
+          "crossPct": "0.3",
+          "totalLongBalls": "4",
+          "accurateLongBalls": "3",
+          "longballPct": "0.8",
+          "blockedShots": "4",
+          "effectiveTackles": "3",
+          "totalTackles": "6",
+          "tacklePct": "0.5",
+          "interceptions": "5",
+          "effectiveClearance": "2",
+          "totalClearance": "2"
+        },
+        "away": {
+          "foulsCommitted": "3",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "0",
+          "saves": "2",
+          "possessionPct": "29.3",
+          "totalShots": "3",
+          "shotsOnTarget": "1",
+          "shotPct": "0.3",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "90",
+          "totalPasses": "110",
+          "passPct": "0.8",
+          "accurateCrosses": "1",
+          "totalCrosses": "1",
+          "crossPct": "1.0",
+          "totalLongBalls": "18",
+          "accurateLongBalls": "10",
+          "longballPct": "0.6",
+          "blockedShots": "0",
+          "effectiveTackles": "2",
+          "totalTackles": "5",
+          "tacklePct": "0.4",
+          "interceptions": "6",
+          "effectiveClearance": "8",
+          "totalClearance": "8"
+        }
+      },
+      "events": [
+        {
+          "kind": "Goal",
+          "min": "6'",
+          "side": "home",
+          "player": "Goal! Germany 1, Curaçao 0. Felix Nmecha"
+        },
+        {
+          "kind": "Goal",
+          "min": "21'",
+          "side": "away",
+          "player": "Goal! Germany 1, Curaçao 1. Livano Comenencia"
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Manuel Neuer",
+            "short": "M. Neuer",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Nico Schlotterbeck",
+            "short": "N. Schlotterbeck",
+            "num": "15",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Jonathan Tah",
+            "short": "J. Tah",
+            "num": "4",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Nathaniel Brown",
+            "short": "N. Brown",
+            "num": "18",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Joshua Kimmich",
+            "short": "J. Kimmich",
+            "num": "6",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Jamal Musiala",
+            "short": "J. Musiala",
+            "num": "10",
+            "pos": "AM",
+            "place": "10"
+          },
+          {
+            "name": "Aleksandar Pavlovic",
+            "short": "A. Pavlovic",
+            "num": "5",
+            "pos": "LM",
+            "place": "4"
+          },
+          {
+            "name": "Felix Nmecha",
+            "short": "F. Nmecha",
+            "num": "23",
+            "pos": "RM",
+            "place": "8"
+          },
+          {
+            "name": "Kai Havertz",
+            "short": "K. Havertz",
+            "num": "7",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Florian Wirtz",
+            "short": "F. Wirtz",
+            "num": "17",
+            "pos": "AM-L",
+            "place": "11"
+          },
+          {
+            "name": "Leroy Sané",
+            "short": "L. Sané",
+            "num": "19",
+            "pos": "AM-R",
+            "place": "7"
+          }
+        ],
+        "away": [
+          {
+            "name": "Eloy Room",
+            "short": "E. Room",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Armando Obispo",
+            "short": "A. Obispo",
+            "num": "18",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Riechedly Bazoer",
+            "short": "R. Bazoer",
+            "num": "23",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Deveron Fonville",
+            "short": "D. Fonville",
+            "num": "24",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Sherel Floranus",
+            "short": "S. Floranus",
+            "num": "5",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Sontje Hansen",
+            "short": "S. Hansen",
+            "num": "12",
+            "pos": "M",
+            "place": "10"
+          },
+          {
+            "name": "Leandro Bacuna",
+            "short": "L. Bacuna",
+            "num": "10",
+            "pos": "CM",
+            "place": "4"
+          },
+          {
+            "name": "Tahith Chong",
+            "short": "T. Chong",
+            "num": "21",
+            "pos": "AM",
+            "place": "8"
+          },
+          {
+            "name": "Juninho Bacuna",
+            "short": "J. Bacuna",
+            "num": "7",
+            "pos": "LM",
+            "place": "11"
+          },
+          {
+            "name": "Livano Comenencia",
+            "short": "L. Comenencia",
+            "num": "8",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Jürgen Locadia",
+            "short": "J. Locadia",
+            "num": "9",
+            "pos": "CF-R",
+            "place": "9"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "David Raum",
+            "short": "D. Raum",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nick Woltemade",
+            "short": "N. Woltemade",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Angelo Stiller",
+            "short": "A. Stiller",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Deniz Undav",
+            "short": "D. Undav",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Waldemar Anton",
+            "short": "W. Anton",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jamie Leweling",
+            "short": "J. Leweling",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Alexander Nübel",
+            "short": "A. Nübel",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Leon Goretzka",
+            "short": "L. Goretzka",
+            "num": "8",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Antonio Rüdiger",
+            "short": "A. Rüdiger",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Malick Thiaw",
+            "short": "M. Thiaw",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nadiem Amiri",
+            "short": "N. Amiri",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Oliver Baumann",
+            "short": "O. Baumann",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Pascal Gross",
+            "short": "P. Gross",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Assan Ouédraogo",
+            "short": "A. Ouédraogo",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Maximilian Beier",
+            "short": "M. Beier",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Ar'jany Martha",
+            "short": "A. Martha",
+            "num": "15",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Juriën Gaari",
+            "short": "J. Gaari",
+            "num": "3",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Tyrick Bodak",
+            "short": "T. Bodak",
+            "num": "25",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Kevin Felida",
+            "short": "K. Felida",
+            "num": "22",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Joshua Brenet",
+            "short": "J. Brenet",
+            "num": "20",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Gervane Kastaneer",
+            "short": "G. Kastaneer",
+            "num": "19",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Brandley Kuwas",
+            "short": "B. Kuwas",
+            "num": "17",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Tyrese Noslin",
+            "short": "T. Noslin",
+            "num": "13",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Jearl Margaritha",
+            "short": "J. Margaritha",
+            "num": "16",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Jeremy Antonisse",
+            "short": "J. Antonisse",
+            "num": "11",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Shurandy Sambo",
+            "short": "S. Sambo",
+            "num": "2",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Trevor Doornbusch",
+            "short": "T. Doornbusch",
+            "num": "26",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Kenji Gorré",
+            "short": "K. Gorré",
+            "num": "14",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Godfried Roemeratoe",
+            "short": "G. Roemeratoe",
+            "num": "6",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Roshon van Eijma",
+            "short": "R. van Eijma",
+            "num": "4",
+            "pos": "",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-2-3-1",
+        "away": "4-3-1-2"
+      },
+      "commentary": [
+        {
+          "min": "36'",
+          "text": "Attempt missed. Juninho Bacuna (Curaçao) right footed shot from outside the box is high and wide to the right. Assisted by Sontje Hansen.",
+          "goal": false
+        },
+        {
+          "min": "34'",
+          "text": "Jürgen Locadia (Curaçao) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "34'",
+          "text": "Foul by Nico Schlotterbeck (Germany).",
+          "goal": false
+        },
+        {
+          "min": "32'",
+          "text": "Attempt missed. Leroy Sané (Germany) left footed shot from the centre of the box misses to the right. Assisted by Florian Wirtz with a through ball.",
+          "goal": false
+        },
+        {
+          "min": "30'",
+          "text": "Corner, Germany. Conceded by Riechedly Bazoer.",
+          "goal": false
+        },
+        {
+          "min": "30'",
+          "text": "Attempt blocked. Aleksandar Pavlovic (Germany) left footed shot from outside the box is blocked. Assisted by Leroy Sané.",
+          "goal": false
+        },
+        {
+          "min": "29'",
+          "text": "Corner, Germany. Conceded by Armando Obispo.",
+          "goal": false
+        },
+        {
+          "min": "28'",
+          "text": "Corner, Germany. Conceded by Eloy Room.",
+          "goal": false
+        },
+        {
+          "min": "28'",
+          "text": "Attempt saved. Nico Schlotterbeck (Germany) header from the centre of the box is saved in the top centre of the goal by Eloy Room (Curaçao). Assisted by Joshua Kimmich with a cross.",
+          "goal": false
+        },
+        {
+          "min": "27'",
+          "text": "Jamal Musiala (Germany) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "27'",
+          "text": "Foul by Leandro Bacuna (Curaçao).",
+          "goal": false
+        },
+        {
+          "min": "25'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "23'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "21'",
+          "text": "Goal! Germany 1, Curaçao 1. Livano Comenencia (Curaçao) left footed shot from the centre of the box to the bottom left corner.",
+          "goal": true
+        },
+        {
+          "min": "21'",
+          "text": "Juninho Bacuna (Curaçao) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "21'",
+          "text": "Foul by Felix Nmecha (Germany).",
+          "goal": false
+        },
+        {
+          "min": "19'",
+          "text": "Attempt missed. Leandro Bacuna (Curaçao) left footed shot from outside the box is high and wide to the left. Assisted by Sontje Hansen.",
+          "goal": false
+        },
+        {
+          "min": "18'",
+          "text": "Tahith Chong (Curaçao) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "18'",
+          "text": "Foul by Jamal Musiala (Germany).",
+          "goal": false
+        },
+        {
+          "min": "17'",
+          "text": "Jürgen Locadia (Curaçao) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "17'",
+          "text": "Foul by Jonathan Tah (Germany).",
+          "goal": false
+        },
+        {
+          "min": "14'",
+          "text": "Attempt missed. Florian Wirtz (Germany) right footed shot from outside the box is close, but misses to the right. Assisted by Nathaniel Brown.",
+          "goal": false
+        },
+        {
+          "min": "13'",
+          "text": "Foul by Jürgen Locadia (Curaçao).",
+          "goal": false
+        },
+        {
+          "min": "13'",
+          "text": "Joshua Kimmich (Germany) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "12'",
+          "text": "Attempt saved. Felix Nmecha (Germany) right footed shot from the centre of the box is saved in the centre of the goal by Eloy Room (Curaçao). Assisted by Aleksandar Pavlovic with a through ball.",
+          "goal": false
+        },
+        {
+          "min": "11'",
+          "text": "Attempt missed. Leroy Sané (Germany) left footed shot from the centre of the box is close, but misses to the left. Assisted by Jamal Musiala.",
+          "goal": false
+        },
+        {
+          "min": "10'",
+          "text": "Attempt blocked. Florian Wirtz (Germany) right footed shot from outside the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "9'",
+          "text": "Attempt missed. Felix Nmecha (Germany) right footed shot from outside the box is close, but misses to the left. Assisted by Jamal Musiala.",
+          "goal": false
+        },
+        {
+          "min": "7'",
+          "text": "Attempt blocked. Jamal Musiala (Germany) right footed shot from the left side of the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "6'",
+          "text": "Goal! Germany 1, Curaçao 0. Felix Nmecha (Germany) right footed shot from the centre of the box to the bottom right corner. Assisted by Florian Wirtz.",
+          "goal": true
+        },
+        {
+          "min": "6'",
+          "text": "Attempt blocked. Jamal Musiala (Germany) right footed shot from the centre of the box is blocked. Assisted by Nathaniel Brown with a through ball.",
+          "goal": false
+        },
+        {
+          "min": "5'",
+          "text": "Joshua Kimmich (Germany) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "5'",
+          "text": "Foul by Juninho Bacuna (Curaçao).",
+          "goal": false
+        },
+        {
+          "min": "3'",
+          "text": "Foul by Aleksandar Pavlovic (Germany).",
+          "goal": false
+        },
+        {
+          "min": "3'",
+          "text": "Deveron Fonville (Curaçao) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "1'",
+          "text": "Foul by Aleksandar Pavlovic (Germany).",
+          "goal": false
+        },
+        {
+          "min": "1'",
+          "text": "Tahith Chong (Curaçao) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "First Half begins.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "Lineups are announced and players are warming up.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "F. Nmecha",
+            "num": "23",
+            "pos": "M",
+            "value": "3"
+          },
+          "away": {
+            "name": "L. Comenencia",
+            "num": "8",
+            "pos": "D",
+            "value": "1"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "J. Tah",
+            "num": "4",
+            "pos": "D",
+            "value": "41"
+          },
+          "away": {
+            "name": "A. Obispo",
+            "num": "18",
+            "pos": "D",
+            "value": "17"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "N. Schlotterbeck",
+            "num": "15",
+            "pos": "D",
+            "value": "7"
+          },
+          "away": {
+            "name": "A. Obispo",
+            "num": "18",
+            "pos": "D",
+            "value": "8"
+          }
+        },
+        {
+          "label": "Saves",
+          "away": {
+            "name": "E. Room",
+            "num": "1",
+            "pos": "G",
+            "value": "2"
+          }
+        }
+      ],
+      "highlight": null,
+      "final": false,
       "dv": 5
     }
   }

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T03:42:59.796Z",
+  "lastUpdated": "2026-06-14T03:56:06.101Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -70,79 +70,79 @@
           "kind": "Goal - Header",
           "min": "59'",
           "side": "away",
-          "player": ""
+          "player": "Goal! Korea Republic 0, Czechia 1. Ladislav Krejcí"
         },
         {
           "kind": "Substitution",
           "min": "62'",
           "side": "home",
-          "player": ""
+          "player": "Substitution, Korea Republic. Hwang Hee-Chan replaces Lee Jae-Sung."
         },
         {
           "kind": "Substitution",
           "min": "64'",
           "side": "away",
-          "player": ""
+          "player": "Substitution, Czechia. Adam Hlozek replaces Pavel Sulc."
         },
         {
           "kind": "Substitution",
           "min": "64'",
           "side": "away",
-          "player": ""
+          "player": "Substitution, Czechia. Tomás Chory replaces Patrik Schick."
         },
         {
           "kind": "Substitution",
           "min": "64'",
           "side": "away",
-          "player": ""
+          "player": "Substitution, Czechia. Michal Sadílek replaces Lukás Provod."
         },
         {
           "kind": "Goal",
           "min": "67'",
           "side": "home",
-          "player": ""
+          "player": "Goal! Korea Republic 1, Czechia 1. Hwang In-Beom"
         },
         {
           "kind": "Substitution",
           "min": "69'",
           "side": "home",
-          "player": ""
+          "player": "Substitution, Korea Republic. Eom Ji-Sung replaces Lee Tae-Seok."
         },
         {
           "kind": "Substitution",
           "min": "69'",
           "side": "home",
-          "player": ""
+          "player": "Substitution, Korea Republic. Oh Hyeon-Gyu replaces Son Heung-Min."
         },
         {
           "kind": "Goal",
           "min": "80'",
           "side": "home",
-          "player": ""
+          "player": "Goal! Korea Republic 2, Czechia 1. Oh Hyeon-Gyu"
         },
         {
           "kind": "Substitution",
           "min": "84'",
           "side": "home",
-          "player": ""
+          "player": "Substitution, Korea Republic. Kim Jin-Gyu replaces Hwang In-Beom."
         },
         {
           "kind": "Substitution",
           "min": "84'",
           "side": "home",
-          "player": ""
+          "player": "Substitution, Korea Republic. Park Jin-Seob replaces Paik Seung-Ho."
         },
         {
           "kind": "Substitution",
           "min": "84'",
           "side": "away",
-          "player": ""
+          "player": "Substitution, Czechia. Mojmír Chytil replaces Alexandr Sojka."
         },
         {
           "kind": "Yellow Card",
           "min": "90'+6'",
           "side": "home",
-          "player": ""
+          "player": "Lee Gi-Hyuk"
         }
       ],
       "lineups": {
@@ -239,6 +239,11 @@
           }
         ]
       },
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0612/dm_260612_COM_SOC_Presser_Hwang_In-Beom_South_Korea_dominated_Czechia__20262F062F12_GLOBAL/dm_260612_COM_SOC_Presser_Hwang_In-Beom_South_Korea_dominated_Czechia__20262F062F12_GLOBAL.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49039384/south-korea-dominated-czechia",
+        "headline": "Hwang In-Beom: South Korea 'dominated' Czechia"
+      },
       "final": true
     },
     "760415": {
@@ -310,103 +315,103 @@
           "kind": "Goal",
           "min": "9'",
           "side": "home",
-          "player": ""
+          "player": "Goal! Mexico 1, South Africa 0. Julián Quiñones"
         },
         {
           "kind": "Yellow Card",
           "min": "17'",
           "side": "away",
-          "player": ""
+          "player": "Teboho Mokoena"
         },
         {
           "kind": "Yellow Card",
           "min": "23'",
           "side": "home",
-          "player": ""
+          "player": "Brian Gutiérrez"
         },
         {
           "kind": "Red Card",
           "min": "49'",
           "side": "away",
-          "player": ""
+          "player": "Yaya Sithole"
         },
         {
           "kind": "Substitution",
           "min": "56'",
           "side": "away",
-          "player": ""
+          "player": "Substitution, South Africa. Thalente Mbatha replaces Lyle Foster."
         },
         {
           "kind": "Substitution",
           "min": "61'",
           "side": "away",
-          "player": ""
+          "player": "Substitution, South Africa. Themba Zwane replaces Jayden Adams."
         },
         {
           "kind": "Substitution",
           "min": "66'",
           "side": "home",
-          "player": ""
+          "player": "Substitution, Mexico. Luis Chávez replaces Brian Gutiérrez."
         },
         {
           "kind": "Substitution",
           "min": "66'",
           "side": "home",
-          "player": ""
+          "player": "Substitution, Mexico. Gilberto Mora replaces Álvaro Fidalgo."
         },
         {
           "kind": "Goal - Header",
           "min": "67'",
           "side": "home",
-          "player": ""
+          "player": "Goal! Mexico 2, South Africa 0. Raúl Jiménez"
         },
         {
           "kind": "Yellow Card",
           "min": "74'",
           "side": "away",
-          "player": ""
+          "player": "Nkosinathi Sibisi"
         },
         {
           "kind": "Substitution",
           "min": "76'",
           "side": "home",
-          "player": ""
+          "player": "Substitution, Mexico. Edson Álvarez replaces Érik Lira."
         },
         {
           "kind": "Substitution",
           "min": "76'",
           "side": "home",
-          "player": ""
+          "player": "Substitution, Mexico. Armando González replaces Raúl Jiménez."
         },
         {
           "kind": "Substitution",
           "min": "76'",
           "side": "away",
-          "player": ""
+          "player": "Substitution, South Africa. Evidence Makgopa replaces Iqraam Rayners."
         },
         {
           "kind": "Substitution",
           "min": "77'",
           "side": "away",
-          "player": ""
+          "player": "Substitution, South Africa. Oswin Appollis replaces Aubrey Modiba."
         },
         {
           "kind": "Substitution",
           "min": "79'",
           "side": "home",
-          "player": ""
+          "player": "Substitution, Mexico. Alexis Vega replaces Julián Quiñones."
         },
         {
           "kind": "Red Card",
           "min": "84'",
           "side": "away",
-          "player": ""
+          "player": "Themba Zwane"
         },
         {
           "kind": "Red Card",
           "min": "90'+2'",
           "side": "home",
-          "player": ""
+          "player": "César Montes"
         }
       ],
       "lineups": {
@@ -503,6 +508,11 @@
           }
         ]
       },
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0611/dm_260611_Keller_Mexico_could_have_set_the_tone_for_the_group/dm_260611_Keller_Mexico_could_have_set_the_tone_for_the_group.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49033823/mexico-set-tone-group",
+        "headline": "Keller: Mexico 'could have set the tone' for the group"
+      },
       "final": true
     },
     "760416": {
@@ -574,103 +584,103 @@
           "kind": "Yellow Card",
           "min": "11'",
           "side": "home",
-          "player": ""
+          "player": "Alistair Johnston"
         },
         {
           "kind": "Goal - Header",
           "min": "21'",
           "side": "away",
-          "player": ""
+          "player": "Goal! Canada 0, Bosnia and Herzegovina 1. Jovo Lukic"
         },
         {
           "kind": "Yellow Card",
           "min": "45'",
           "side": "away",
-          "player": ""
+          "player": "Ermedin Demirovic"
         },
         {
           "kind": "Yellow Card",
           "min": "45'+1'",
           "side": "away",
-          "player": ""
+          "player": "Jovo Lukic"
         },
         {
           "kind": "Yellow Card",
           "min": "53'",
           "side": "home",
-          "player": ""
+          "player": "Luc De Fougerolles"
         },
         {
           "kind": "Substitution",
           "min": "61'",
           "side": "home",
-          "player": ""
+          "player": "Substitution, Canada. Jacob Shaffelburg replaces Liam Millar."
         },
         {
           "kind": "Substitution",
           "min": "61'",
           "side": "home",
-          "player": ""
+          "player": "Substitution, Canada. Promise David replaces Jonathan David."
         },
         {
           "kind": "Substitution",
           "min": "61'",
           "side": "home",
-          "player": ""
+          "player": "Substitution, Canada. Ali Ahmed replaces Tajon Buchanan."
         },
         {
           "kind": "Substitution",
           "min": "62'",
           "side": "away",
-          "player": ""
+          "player": "Substitution, Bosnia and Herzegovina. Samed Bazdar replaces Jovo Lukic."
         },
         {
           "kind": "Substitution",
           "min": "62'",
           "side": "away",
-          "player": ""
+          "player": "Substitution, Bosnia and Herzegovina. Armin Gigovic replaces Ivan Basic."
         },
         {
           "kind": "Substitution",
           "min": "74'",
           "side": "away",
-          "player": ""
+          "player": "Substitution, Bosnia and Herzegovina. Ivan Sunjic replaces Esmir Bajraktarevic."
         },
         {
           "kind": "Substitution",
           "min": "74'",
           "side": "away",
-          "player": ""
+          "player": "Substitution, Bosnia and Herzegovina. Kerim Alajbegovic replaces Amar Memic."
         },
         {
           "kind": "Substitution",
           "min": "76'",
           "side": "home",
-          "player": ""
+          "player": "Substitution, Canada. Cyle Larin replaces Tani Oluwaseyi."
         },
         {
           "kind": "Goal",
           "min": "78'",
           "side": "home",
-          "player": ""
+          "player": "Goal! Canada 1, Bosnia and Herzegovina 1. Cyle Larin"
         },
         {
           "kind": "Substitution",
           "min": "84'",
           "side": "away",
-          "player": ""
+          "player": "Substitution, Bosnia and Herzegovina. Dzenis Burnic replaces Sead Kolasinac because of an injury."
         },
         {
           "kind": "Substitution",
           "min": "90'+1'",
           "side": "home",
-          "player": ""
+          "player": "Substitution, Canada. Jonathan Osorio replaces Stephen Eustaquio."
         },
         {
           "kind": "Yellow Card",
           "min": "90'+3'",
           "side": "away",
-          "player": ""
+          "player": "Nikola Katic"
         }
       ],
       "lineups": {
@@ -767,6 +777,11 @@
           }
         ]
       },
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0612/dm_260612_COM_SOC_ANALYSIS_Will_Canada_regret_a_missed_opportunity_vs_Bosnia-Herzegovina_2026_6_12/dm_260612_COM_SOC_ANALYSIS_Will_Canada_regret_a_missed_opportunity_vs_Bosnia-Herzegovina_2026_6_12.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49044125/will-canada-regret-missed-opportunity-vs-bosnia-herzegovina",
+        "headline": "Will Canada regret a missed opportunity vs. Bosnia-Herzegovina?"
+      },
       "final": true
     },
     "760417": {
@@ -838,127 +853,127 @@
           "kind": "Own Goal",
           "min": "7'",
           "side": "home",
-          "player": ""
+          "player": "Own Goal by Damián Bobadilla, Paraguay. USA 1, Paraguay 0."
         },
         {
           "kind": "Yellow Card",
           "min": "10'",
           "side": "away",
-          "player": ""
+          "player": "Juan José Cáceres"
         },
         {
           "kind": "Goal",
           "min": "31'",
           "side": "home",
-          "player": ""
+          "player": "Goal! USA 2, Paraguay 0. Folarin Balogun"
         },
         {
           "kind": "Goal",
           "min": "45'+5'",
           "side": "home",
-          "player": ""
+          "player": "Goal! USA 3, Paraguay 0. Folarin Balogun"
         },
         {
           "kind": "Substitution",
           "min": "45'",
           "side": "away",
-          "player": ""
+          "player": "Substitution, Paraguay. Mauricio replaces Damián Bobadilla."
         },
         {
           "kind": "Substitution",
           "min": "45'",
           "side": "home",
-          "player": ""
+          "player": "Substitution, USA. Sebastian Berhalter replaces Christian Pulisic."
         },
         {
           "kind": "VAR - (Red) Card Upgrade",
           "min": "52'",
           "side": "home",
-          "player": ""
+          "player": "VAR Decision: Card Changed."
         },
         {
           "kind": "Yellow Card",
           "min": "53'",
           "side": "away",
-          "player": ""
+          "player": "Miguel Almirón"
         },
         {
           "kind": "Yellow Card",
           "min": "59'",
           "side": "home",
-          "player": ""
+          "player": "Tyler Adams"
         },
         {
           "kind": "Substitution",
           "min": "62'",
           "side": "away",
-          "player": ""
+          "player": "Substitution, Paraguay. Álex Arce replaces Antonio Sanabria."
         },
         {
           "kind": "Substitution",
           "min": "72'",
           "side": "home",
-          "player": ""
+          "player": "Substitution, USA. Timothy Weah replaces Sergiño Dest."
         },
         {
           "kind": "Substitution",
           "min": "72'",
           "side": "home",
-          "player": ""
+          "player": "Substitution, USA. Ricardo Pepi replaces Folarin Balogun."
         },
         {
           "kind": "Goal",
           "min": "73'",
           "side": "away",
-          "player": ""
+          "player": "Goal! USA 3, Paraguay 1. Mauricio"
         },
         {
           "kind": "Yellow Card",
           "min": "79'",
           "side": "away",
-          "player": ""
+          "player": "Diego Gómez"
         },
         {
           "kind": "Substitution",
           "min": "79'",
           "side": "away",
-          "player": ""
+          "player": "Substitution, Paraguay. Ramón Sosa replaces Miguel Almirón."
         },
         {
           "kind": "Substitution",
           "min": "79'",
           "side": "away",
-          "player": ""
+          "player": "Substitution, Paraguay. Gustavo Velázquez replaces Juan José Cáceres."
         },
         {
           "kind": "Substitution",
           "min": "80'",
           "side": "away",
-          "player": ""
+          "player": "Substitution, Paraguay. Alejandro Romero replaces Diego Gómez."
         },
         {
           "kind": "Substitution",
           "min": "82'",
           "side": "home",
-          "player": ""
+          "player": "Substitution, USA. Giovanni Reyna replaces Malik Tillman."
         },
         {
           "kind": "Yellow Card",
           "min": "88'",
           "side": "away",
-          "player": ""
+          "player": "Álex Arce"
         },
         {
           "kind": "Yellow Card",
           "min": "90'+3'",
           "side": "away",
-          "player": ""
+          "player": "Júnior Alonso"
         },
         {
           "kind": "Goal",
           "min": "90'+8'",
           "side": "home",
-          "player": ""
+          "player": "Goal! USA 4, Paraguay 1. Giovanni Reyna"
         }
       ],
       "lineups": {
@@ -1055,6 +1070,11 @@
           }
         ]
       },
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/wsc/2026/0613/57760942-70f4-400f-b483-6b7201facdac/57760942-70f4-400f-b483-6b7201facdac.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49045570/usmnt-fans-celebrate-team-first-goal-2026-world-cup",
+        "headline": "USMNT fans celebrate team's first goal of 2026 World Cup"
+      },
       "final": true
     },
     "760418": {
@@ -1126,79 +1146,79 @@
           "kind": "Goal",
           "min": "28'",
           "side": "away",
-          "player": ""
+          "player": "Goal! Haiti 0, Scotland 1. John McGinn"
         },
         {
           "kind": "Yellow Card",
           "min": "39'",
           "side": "home",
-          "player": ""
+          "player": "Jean-Ricner Bellegarde"
         },
         {
           "kind": "Yellow Card",
           "min": "46'",
           "side": "away",
-          "player": ""
+          "player": "Aaron Hickey"
         },
         {
           "kind": "Substitution",
           "min": "61'",
           "side": "home",
-          "player": ""
+          "player": "Substitution, Haiti. Josué Casimir replaces Louicius Deedson."
         },
         {
           "kind": "Substitution",
           "min": "75'",
           "side": "away",
-          "player": ""
+          "player": "Substitution, Scotland. Ryan Christie replaces Ben Gannon-Doak."
         },
         {
           "kind": "Substitution",
           "min": "75'",
           "side": "away",
-          "player": ""
+          "player": "Substitution, Scotland. Lyndon Dykes replaces Ché Adams."
         },
         {
           "kind": "Substitution",
           "min": "75'",
           "side": "away",
-          "player": ""
+          "player": "Substitution, Scotland. Nathan Patterson replaces Aaron Hickey."
         },
         {
           "kind": "Substitution",
           "min": "76'",
           "side": "home",
-          "player": ""
+          "player": "Substitution, Haiti. Lenny Joseph replaces Wilson Isidor."
         },
         {
           "kind": "Substitution",
           "min": "83'",
           "side": "away",
-          "player": ""
+          "player": "Substitution, Scotland. Findlay Curtis replaces John McGinn."
         },
         {
           "kind": "Substitution",
           "min": "83'",
           "side": "away",
-          "player": ""
+          "player": "Substitution, Scotland. Kenny McLean replaces Lawrence Shankland."
         },
         {
           "kind": "Substitution",
           "min": "85'",
           "side": "home",
-          "player": ""
+          "player": "Substitution, Haiti. Yassin Fortuné replaces Ruben Providence."
         },
         {
           "kind": "Yellow Card",
           "min": "90'+1'",
           "side": "away",
-          "player": ""
+          "player": "Findlay Curtis"
         },
         {
           "kind": "Yellow Card",
           "min": "90'+5'",
           "side": "away",
-          "player": ""
+          "player": "Kenny McLean"
         }
       ],
       "lineups": {
@@ -1295,6 +1315,11 @@
           }
         ]
       },
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0613/dm_260613_COM_SOC_Analysis_Burley_Scotland_will_be_hoping_three_points_is_enough_for_knockouts_20260613_G/dm_260613_COM_SOC_Analysis_Burley_Scotland_will_be_hoping_three_points_is_enough_for_knockouts_20260613_G.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49056537/scotland-hoping-three-points-enough-knockouts",
+        "headline": "Burley: Scotland will be hoping three points is enough for knockouts"
+      },
       "final": true
     },
     "760419": {
@@ -1366,85 +1391,85 @@
           "kind": "Goal",
           "min": "21'",
           "side": "away",
-          "player": ""
+          "player": "Goal! Brazil 0, Morocco 1. Ismael Saibari"
         },
         {
           "kind": "Goal",
           "min": "32'",
           "side": "home",
-          "player": ""
+          "player": "Goal! Brazil 1, Morocco 1. Vinícius Júnior"
         },
         {
           "kind": "Yellow Card",
           "min": "37'",
           "side": "home",
-          "player": ""
+          "player": "Casemiro"
         },
         {
           "kind": "Yellow Card",
           "min": "43'",
           "side": "home",
-          "player": ""
+          "player": "Roger Ibañez"
         },
         {
           "kind": "Substitution",
           "min": "45'",
           "side": "home",
-          "player": ""
+          "player": "Substitution, Brazil. Danilo replaces Roger Ibañez."
         },
         {
           "kind": "Substitution",
           "min": "45'",
           "side": "home",
-          "player": ""
+          "player": "Substitution, Brazil. Fabinho replaces Casemiro."
         },
         {
           "kind": "Substitution",
           "min": "61'",
           "side": "home",
-          "player": ""
+          "player": "Substitution, Brazil. Matheus Cunha replaces Lucas Paquetá."
         },
         {
           "kind": "Substitution",
           "min": "62'",
           "side": "home",
-          "player": ""
+          "player": "Substitution, Brazil. Luiz Henrique replaces Igor Thiago."
         },
         {
           "kind": "Substitution",
           "min": "65'",
           "side": "away",
-          "player": ""
+          "player": "Substitution, Morocco. Samir El Mourabet replaces Azzedine Ounahi."
         },
         {
           "kind": "Substitution",
           "min": "65'",
           "side": "away",
-          "player": ""
+          "player": "Substitution, Morocco. Chemsdine Talbi replaces Brahim Díaz."
         },
         {
           "kind": "Substitution",
           "min": "80'",
           "side": "away",
-          "player": ""
+          "player": "Substitution, Morocco. Anass Salah-Eddine replaces Noussair Mazraoui."
         },
         {
           "kind": "Substitution",
           "min": "80'",
           "side": "away",
-          "player": ""
+          "player": "Substitution, Morocco. Ayoube Amaimouni-Echghouyab replaces Bilal El Khannouss."
         },
         {
           "kind": "Substitution",
           "min": "80'",
           "side": "home",
-          "player": ""
+          "player": "Substitution, Brazil. Danilo Santos replaces Bruno Guimarães."
         },
         {
           "kind": "Substitution",
           "min": "89'",
           "side": "away",
-          "player": ""
+          "player": "Substitution, Morocco. Soufiane Rahimi replaces Ismael Saibari."
         }
       ],
       "lineups": {
@@ -1541,6 +1566,11 @@
           }
         ]
       },
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0613/dm_260613_COM_SOC_News_Fans_on_Copacabana_Beach_celebrate_Brazils_equalizer_vs_Morocco_20260613_GLOBAL_F/dm_260613_COM_SOC_News_Fans_on_Copacabana_Beach_celebrate_Brazils_equalizer_vs_Morocco_20260613_GLOBAL_F.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49053884/fans-copacabana-beach-celebrate-brazil-equalizer-vs-morocco",
+        "headline": "Fans on Copacabana Beach celebrate Brazil's equalizer vs. Morocco"
+      },
       "final": true
     },
     "760420": {
@@ -1612,91 +1642,91 @@
           "kind": "Yellow Card",
           "min": "16'",
           "side": "home",
-          "player": ""
+          "player": "Mahmoud Abunada"
         },
         {
           "kind": "Penalty - Scored",
           "min": "17'",
           "side": "away",
-          "player": ""
+          "player": "Goal! Qatar 0, Switzerland 1. Breel Embolo"
         },
         {
           "kind": "Yellow Card",
           "min": "23'",
           "side": "home",
-          "player": ""
+          "player": "Jassem Gaber"
         },
         {
           "kind": "Yellow Card",
           "min": "42'",
           "side": "away",
-          "player": ""
+          "player": "Denis Zakaria"
         },
         {
           "kind": "Substitution",
           "min": "60'",
           "side": "home",
-          "player": ""
+          "player": "Substitution, Qatar. Ahmed Fathy replaces Ayoub Al Oui."
         },
         {
           "kind": "Substitution",
           "min": "60'",
           "side": "home",
-          "player": ""
+          "player": "Substitution, Qatar. Karim Boudiaf replaces Jassem Gaber."
         },
         {
           "kind": "Substitution",
           "min": "60'",
           "side": "home",
-          "player": ""
+          "player": "Substitution, Qatar. Ahmed Alaa replaces Yusuf Abdurisag."
         },
         {
           "kind": "Substitution",
           "min": "65'",
           "side": "away",
-          "player": ""
+          "player": "Substitution, Switzerland. Fabian Rieder replaces Michel Aebischer."
         },
         {
           "kind": "Substitution",
           "min": "65'",
           "side": "away",
-          "player": ""
+          "player": "Substitution, Switzerland. Johan Manzambi replaces Dan Ndoye."
         },
         {
           "kind": "Substitution",
           "min": "79'",
           "side": "home",
-          "player": ""
+          "player": "Substitution, Qatar. Mohammad Al Mannai replaces Assim Madibo."
         },
         {
           "kind": "Substitution",
           "min": "79'",
           "side": "away",
-          "player": ""
+          "player": "Substitution, Switzerland. Zeki Amdouni replaces Rubén Vargas."
         },
         {
           "kind": "Substitution",
           "min": "88'",
           "side": "home",
-          "player": ""
+          "player": "Substitution, Qatar. Hassan Al Haydos replaces Edmílson Junior."
         },
         {
           "kind": "Substitution",
           "min": "89'",
           "side": "away",
-          "player": ""
+          "player": "Substitution, Switzerland. Ardon Jashari replaces Remo Freuler."
         },
         {
           "kind": "Substitution",
           "min": "89'",
           "side": "away",
-          "player": ""
+          "player": "Substitution, Switzerland. Miro Muheim replaces Ricardo Rodríguez."
         },
         {
           "kind": "Own Goal",
           "min": "90'+4'",
           "side": "home",
-          "player": ""
+          "player": "Own Goal by Miro Muheim, Switzerland. Qatar 1, Switzerland 1."
         }
       ],
       "lineups": {
@@ -1792,6 +1822,11 @@
             "pos": "RF"
           }
         ]
+      },
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0613/dm_260613_COM_SOC_Analysis_How_Qatar_earned_their_first_ever_World_Cup_point_20260613_GLOBAL_FIFA_WORLD_C/dm_260613_COM_SOC_Analysis_How_Qatar_earned_their_first_ever_World_Cup_point_20260613_GLOBAL_FIFA_WORLD_C.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49053368/how-qatar-earned-their-first-ever-world-cup-point",
+        "headline": "How Qatar earned their first ever World Cup point"
       },
       "final": true
     }

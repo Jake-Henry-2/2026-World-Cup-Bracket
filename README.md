@@ -10,7 +10,9 @@ It replaces the manual "change every cell" workflow: you update **one** number
 group winner/runner-up bonuses, the side pool, the money pots, and the ticker —
 recalculates instantly.
 
-![standings + ticker](docs/preview.png)
+> Open `index.html` to see it: a live ticker across the top, the manager
+> standings on the left, money pots and the side pool on the right, and all
+> 12 group tables below.
 
 ---
 

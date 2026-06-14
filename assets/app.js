@@ -415,7 +415,8 @@
 
     box.innerHTML = `
       <div class="panel-h">📋 Games
-        <span class="dim">${finished.length} final${computed.liveNow.length ? ` · ${computed.liveNow.length} live` : ""}${computed.upcoming.length ? ` · ${computed.upcoming.length} next 24h` : ""}</span></div>
+        <span class="dim">${finished.length} final${computed.liveNow.length ? ` · ${computed.liveNow.length} live` : ""}${computed.upcoming.length ? ` · ${computed.upcoming.length} next 24h` : ""}</span>
+        <button class="ag-btn" data-allgames>All games</button></div>
       ${liveRows ? `<div class="lg-sub">🔴 Live now</div><div class="lg-livewrap">${liveRows}</div>` : ""}
       ${upRows ? `<div class="lg-sub">⏭ Up next · next 24h</div><div class="lg-uplist">${upRows}</div>` : ""}
       <div class="lg-sub">✅ Played</div><div class="lg-list">${doneRows}</div>`;
@@ -520,6 +521,7 @@
       ? (state.lastError ? `<span class="warn">⚠ feed error — using manual</span>` : `<span class="ok">● LIVE feed</span>`)
       : `<span class="man">✎ manual mode</span>`;
 
+    checkNewLeader(computed.managers);
     if (advanceBaseline) setBaseline(computed.managers);
   }
 
@@ -799,6 +801,56 @@
       <div class="sch-grid">${mgr.teams.map(teamBlock).join("")}</div>`);
   }
 
+  function openAllGamesModal() {
+    if (!state.computed) return;
+    const ownerTag = (t) => { const o = OWNER_OF[t], m = o ? MANAGER[o] : null; return m ? `<span class="lg-own" title="${esc(o)}">${m.emoji}</span>` : ""; };
+    const all = state.computed.allGames.slice().sort((a, b) => (Date.parse(a.date) || 0) - (Date.parse(b.date) || 0));
+    const groups = {};
+    all.forEach((g) => { const d = g.date ? new Date(g.date).toLocaleDateString(undefined, { weekday: "short", month: "short", day: "numeric" }) : "Date TBD"; (groups[d] = groups[d] || []).push(g); });
+    const html = Object.entries(groups).map(([d, gs]) => `<div class="ag-day">${esc(d)}</div>` + gs.map((g) => {
+      const res = g.status === "finished" ? `<b>${g.hs}–${g.as}</b>` : g.status === "live" ? `<span class="md-live">🔴 ${g.hs}–${g.as}</span>`
+        : `<span class="dim">${g.date ? new Date(g.date).toLocaleTimeString(undefined, { hour: "numeric", minute: "2-digit" }) : ""}</span>`;
+      return `<div class="ag-row${g.id ? " lg-click" : ""}"${g.id ? ` data-mid="${esc(g.id)}"` : ""}><span class="ag-g">${g.group || g.stage}</span><span class="ag-m">${esc(g.home)} ${ownerTag(g.home)} <span class="dim">v</span> ${ownerTag(g.away)} ${esc(g.away)}</span><span class="ag-r">${res}</span></div>`;
+    }).join("")).join("");
+    showModal(`<button class="modal-x">✕</button><div class="sch-head">📅 All games <span class="dim">${all.length} fixtures</span></div>
+      <div class="ag-list">${html || `<div class="md-empty">No fixtures loaded yet.</div>`}</div>`);
+  }
+
+  /* ---------- new-leader fireworks celebration ----------------------------- */
+  let fwRAF = null;
+  function celebrate(name, emoji) {
+    const old = document.querySelector(".celebrate"); if (old) old.remove();
+    const wrap = el("div", "celebrate");
+    wrap.innerHTML = `<canvas class="fw-canvas"></canvas>
+      <div class="celebrate-banner">🎉 <span class="cb-emoji">${emoji}</span> <b>${esc(name)}</b> takes 1st place! 🎉
+        <div class="cb-sub">New leader of the $${L.pots.main} pot</div></div>`;
+    document.body.appendChild(wrap);
+    runFireworks(wrap.querySelector("canvas"));
+    setTimeout(() => { wrap.classList.add("fade"); setTimeout(() => { if (fwRAF) cancelAnimationFrame(fwRAF); wrap.remove(); }, 800); }, 5500);
+  }
+  function runFireworks(canvas) {
+    const ctx = canvas.getContext("2d");
+    const W = canvas.width = window.innerWidth, H = canvas.height = window.innerHeight;
+    const parts = [], colors = ["#ffd23f", "#ff5d6c", "#2bd576", "#4ea8ff", "#ffffff", "#ff9f1c"];
+    const burst = (x, y) => { const c = colors[Math.random() * colors.length | 0]; for (let i = 0; i < 46; i++) { const a = Math.PI * 2 * i / 46, sp = 2 + Math.random() * 4.5; parts.push({ x, y, vx: Math.cos(a) * sp, vy: Math.sin(a) * sp, life: 55 + Math.random() * 35, c }); } };
+    let f = 0;
+    const loop = () => {
+      ctx.clearRect(0, 0, W, H);
+      if (f % 16 === 0 && f < 170) burst(W * (0.15 + Math.random() * 0.7), H * (0.15 + Math.random() * 0.45));
+      for (let i = parts.length - 1; i >= 0; i--) { const p = parts[i]; p.x += p.vx; p.y += p.vy; p.vy += 0.045; p.life--; ctx.globalAlpha = Math.max(0, p.life / 80); ctx.fillStyle = p.c; ctx.beginPath(); ctx.arc(p.x, p.y, 2.4, 0, 7); ctx.fill(); if (p.life <= 0) parts.splice(i, 1); }
+      ctx.globalAlpha = 1; f++;
+      if (f < 360 || parts.length) fwRAF = requestAnimationFrame(loop);
+    };
+    loop();
+  }
+  function checkNewLeader(managers) {
+    const leader = managers[0] ? managers[0].name : null;
+    if (!leader) return;
+    let prev = null; try { prev = localStorage.getItem("wc2026.leader"); } catch (e) {}
+    if (prev && prev !== leader) celebrate(leader, managers[0].emoji);   // only when a NEW name takes 1st
+    try { localStorage.setItem("wc2026.leader", leader); } catch (e) {}
+  }
+
   function exportResults(r) {
     const body = `/* Exported ${new Date().toISOString()} from the live tracker. */\n` +
       `window.RESULTS = ${JSON.stringify(r, null, 2)};\n`;
@@ -813,6 +865,7 @@
   function init() {
     $("#season").textContent = L.season;
     document.addEventListener("click", (e) => {
+      if (e.target.closest("[data-allgames]")) { openAllGamesModal(); return; }
       const g = e.target.closest("[data-mid]");
       if (g) { openMatchModal(g.dataset.mid); return; }
       const mg = e.target.closest("[data-mgr]");

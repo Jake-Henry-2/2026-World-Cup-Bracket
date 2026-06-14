@@ -9,10 +9,12 @@
 </head>
 <body>
 
-  <!-- NYSE-style scrolling ticker: current leader + full standings tape -->
-  <div id="ticker" class="ticker">
-    <div class="ticker-badge">LIVE</div>
-    <div id="ticker-track" class="ticker-track"></div>
+  <!-- LIVE badge sits above the NYSE-style scrolling ticker -->
+  <div class="topstrip">
+    <div class="live-bar"><span class="live-pill">● LIVE</span></div>
+    <div id="ticker" class="ticker">
+      <div id="ticker-track" class="ticker-track"></div>
+    </div>
   </div>
 
   <header class="topbar">

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T03:56:05.633Z",
+  "lastUpdated": "2026-06-14T04:06:35.742Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -85,10 +85,13 @@
       "away": "Türkiye",
       "homeScore": 0,
       "awayScore": 0,
-      "status": "scheduled",
+      "status": "live",
       "id": "760421",
       "date": "2026-06-14T04:00Z",
-      "venue": "BC Place"
+      "venue": "BC Place",
+      "clock": 360,
+      "displayClock": "6'",
+      "detail": "6'"
     },
     {
       "stage": "group",

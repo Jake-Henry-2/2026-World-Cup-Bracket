@@ -261,7 +261,7 @@
         <div class="lb-emoji">${m.emoji}</div>
         <div class="lb-main">
           <div class="lb-name">${esc(m.name)} ${m.isNew ? "" : arrow(m.deltaRank)}
-            <span class="lb-left" title="group games left for this squad (of 12)">${m.gamesLeft} left${m.gamesLive ? ` <span class="lb-livedot">🔴${m.gamesLive}</span>` : ""}</span></div>
+            <span class="lb-left" title="group games this squad has played (of 12)">${m.gamesPlayed}/12 played${m.gamesLive ? ` <span class="lb-livedot">🔴${m.gamesLive}</span>` : ""}</span></div>
           <div class="lb-teams">${teams}</div>
         </div>
         <div class="lb-total">
@@ -375,9 +375,9 @@
           <span class="club-pts">${ts.fpts}${tag}</span></div>`;
       }).join("");
       const total = m.teams.reduce((s, t) => s + computed.team[canon(t)].fpts, 0);
-      const left = m.teams.reduce((s, t) => s + computed.team[canon(t)].left, 0);
+      const played = m.teams.reduce((s, t) => s + computed.team[canon(t)].gp, 0);
       return `<div class="club"><div class="club-h">${m.emoji} <b>${esc(m.name)}</b>
-        <span class="club-left" title="group games left (of 12)">${left} left</span>
+        <span class="club-left" title="group games played (of 12)">${played}/12 played</span>
         <span class="club-total">${total}</span></div>${teams}</div>`;
     }).join("");
   }

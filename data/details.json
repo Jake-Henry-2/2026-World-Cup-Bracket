@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T18:57:38.656Z",
+  "lastUpdated": "2026-06-14T20:22:31.848Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -7290,58 +7290,58 @@
           "offsides": "0",
           "wonCorners": "8",
           "saves": "1",
-          "possessionPct": "66.8",
+          "possessionPct": "64.7",
           "totalShots": "26",
           "shotsOnTarget": "12",
           "shotPct": "0.5",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "1",
-          "accuratePasses": "529",
-          "totalPasses": "604",
+          "accuratePasses": "551",
+          "totalPasses": "635",
           "passPct": "0.9",
           "accurateCrosses": "5",
           "totalCrosses": "12",
           "crossPct": "0.4",
-          "totalLongBalls": "24",
-          "accurateLongBalls": "12",
+          "totalLongBalls": "26",
+          "accurateLongBalls": "13",
           "longballPct": "0.5",
           "blockedShots": "8",
-          "effectiveTackles": "11",
-          "totalTackles": "16",
+          "effectiveTackles": "13",
+          "totalTackles": "19",
           "tacklePct": "0.7",
           "interceptions": "10",
-          "effectiveClearance": "8",
-          "totalClearance": "8"
+          "effectiveClearance": "9",
+          "totalClearance": "9"
         },
         "away": {
-          "foulsCommitted": "10",
+          "foulsCommitted": "11",
           "yellowCards": "0",
           "redCards": "0",
           "offsides": "1",
           "wonCorners": "1",
           "saves": "4",
-          "possessionPct": "33.2",
+          "possessionPct": "35.3",
           "totalShots": "8",
           "shotsOnTarget": "2",
           "shotPct": "0.3",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "240",
-          "totalPasses": "295",
+          "accuratePasses": "280",
+          "totalPasses": "341",
           "passPct": "0.8",
           "accurateCrosses": "2",
-          "totalCrosses": "6",
+          "totalCrosses": "7",
           "crossPct": "0.3",
-          "totalLongBalls": "41",
-          "accurateLongBalls": "16",
+          "totalLongBalls": "44",
+          "accurateLongBalls": "17",
           "longballPct": "0.4",
           "blockedShots": "0",
           "effectiveTackles": "7",
-          "totalTackles": "14",
-          "tacklePct": "0.5",
-          "interceptions": "15",
-          "effectiveClearance": "24",
-          "totalClearance": "24"
+          "totalTackles": "16",
+          "tacklePct": "0.4",
+          "interceptions": "16",
+          "effectiveClearance": "25",
+          "totalClearance": "25"
         }
       },
       "events": [
@@ -7394,7 +7394,7 @@
           "player": "Substitution, Curaçao. Jearl Margaritha replaces Jürgen Locadia."
         },
         {
-          "kind": "Goal",
+          "kind": "Goal - Volley",
           "min": "68'",
           "side": "home",
           "player": "Goal! Germany 5, Curaçao 1. Nathaniel Brown"
@@ -7824,6 +7824,21 @@
       },
       "commentary": [
         {
+          "min": "",
+          "text": "Match ends, Germany 7, Curaçao 1.",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Second Half ends, Germany 7, Curaçao 1.",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Foul by Livano Comenencia (Curaçao).",
+          "goal": false
+        },
+        {
           "min": "90'+4'",
           "text": "Aleksandar Pavlovic (Germany) wins a free kick in the attacking half.",
           "goal": false
@@ -8107,30 +8122,15 @@
           "min": "50'",
           "text": "Leroy Sané (Germany) wins a free kick on the right wing.",
           "goal": false
-        },
-        {
-          "min": "47'",
-          "text": "Goal! Germany 4, Curaçao 1. Jamal Musiala (Germany) right footed shot from the right side of the box to the bottom left corner. Assisted by Joshua Kimmich.",
-          "goal": true
-        },
-        {
-          "min": "46'",
-          "text": "Jamal Musiala (Germany) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "46'",
-          "text": "Foul by Riechedly Bazoer (Curaçao).",
-          "goal": false
         }
       ],
       "leaders": [
         {
           "label": "Total Shots",
           "home": {
-            "name": "F. Nmecha",
-            "num": "23",
-            "pos": "M",
+            "name": "K. Havertz",
+            "num": "7",
+            "pos": "F",
             "value": "4"
           },
           "away": {
@@ -8146,13 +8146,13 @@
             "name": "N. Schlotterbeck",
             "num": "15",
             "pos": "D",
-            "value": "71"
+            "value": "74"
           },
           "away": {
             "name": "L. Bacuna",
             "num": "10",
             "pos": "M",
-            "value": "40"
+            "value": "47"
           }
         },
         {
@@ -8167,7 +8167,7 @@
             "name": "A. Obispo",
             "num": "18",
             "pos": "D",
-            "value": "14"
+            "value": "15"
           }
         },
         {
@@ -8193,6 +8193,562 @@
         "mp4": "https://media.video-cdn.espn.com/motion/2026/0614/dm_260614_COM_SOC_News_Lone_Curacao_supporter_in_Berlin_celebrates_goal_vs_Germany_20260614_GLOBAL_FIFA_W/dm_260614_COM_SOC_News_Lone_Curacao_supporter_in_Berlin_celebrates_goal_vs_Germany_20260614_GLOBAL_FIFA_W_360p30_1464k.mp4",
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0614/dm_260614_COM_SOC_News_Lone_Curacao_supporter_in_Berlin_celebrates_goal_vs_Germany_20260614_GLOBAL_FIFA_W/dm_260614_COM_SOC_News_Lone_Curacao_supporter_in_Berlin_celebrates_goal_vs_Germany_20260614_GLOBAL_FIFA_W/playlist.m3u8"
       },
+      "final": true,
+      "dv": 5
+    },
+    "760425": {
+      "venue": "AT&T Stadium",
+      "stats": {
+        "home": {
+          "foulsCommitted": "2",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "1",
+          "saves": "0",
+          "possessionPct": "67.9",
+          "totalShots": "1",
+          "shotsOnTarget": "1",
+          "shotPct": "1.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "153",
+          "totalPasses": "169",
+          "passPct": "0.9",
+          "accurateCrosses": "0",
+          "totalCrosses": "2",
+          "crossPct": "0.0",
+          "totalLongBalls": "14",
+          "accurateLongBalls": "7",
+          "longballPct": "0.5",
+          "blockedShots": "0",
+          "effectiveTackles": "2",
+          "totalTackles": "3",
+          "tacklePct": "0.7",
+          "interceptions": "2",
+          "effectiveClearance": "4",
+          "totalClearance": "4"
+        },
+        "away": {
+          "foulsCommitted": "1",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "1",
+          "saves": "1",
+          "possessionPct": "32.1",
+          "totalShots": "1",
+          "shotsOnTarget": "0",
+          "shotPct": "0.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "67",
+          "totalPasses": "76",
+          "passPct": "0.9",
+          "accurateCrosses": "0",
+          "totalCrosses": "5",
+          "crossPct": "0.0",
+          "totalLongBalls": "6",
+          "accurateLongBalls": "3",
+          "longballPct": "0.5",
+          "blockedShots": "1",
+          "effectiveTackles": "3",
+          "totalTackles": "5",
+          "tacklePct": "0.6",
+          "interceptions": "2",
+          "effectiveClearance": "11",
+          "totalClearance": "11"
+        }
+      },
+      "events": [],
+      "lineups": {
+        "home": [
+          {
+            "name": "Bart Verbruggen",
+            "short": "B. Verbruggen",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Virgil van Dijk",
+            "short": "V. van Dijk",
+            "num": "4",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Jan Paul van Hecke",
+            "short": "J. van Hecke",
+            "num": "6",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Micky van de Ven",
+            "short": "M. van de Ven",
+            "num": "15",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Denzel Dumfries",
+            "short": "D. Dumfries",
+            "num": "22",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Frenkie de Jong",
+            "short": "F. de Jong",
+            "num": "21",
+            "pos": "CM",
+            "place": "4"
+          },
+          {
+            "name": "Tijjani Reijnders",
+            "short": "T. Reijnders",
+            "num": "14",
+            "pos": "LM",
+            "place": "8"
+          },
+          {
+            "name": "Ryan Gravenberch",
+            "short": "R. Gravenberch",
+            "num": "8",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Donyell Malen",
+            "short": "D. Malen",
+            "num": "18",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Cody Gakpo",
+            "short": "C. Gakpo",
+            "num": "11",
+            "pos": "LF",
+            "place": "11"
+          },
+          {
+            "name": "Crysencio Summerville",
+            "short": "C. Summerville",
+            "num": "24",
+            "pos": "RF",
+            "place": "10"
+          }
+        ],
+        "away": [
+          {
+            "name": "Zion Suzuki",
+            "short": "Z. Suzuki",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Shogo Taniguchi",
+            "short": "S. Taniguchi",
+            "num": "3",
+            "pos": "CD",
+            "place": "5"
+          },
+          {
+            "name": "Hiroki Ito",
+            "short": "H. Ito",
+            "num": "21",
+            "pos": "CD-L",
+            "place": "4"
+          },
+          {
+            "name": "Tsuyoshi Watanabe",
+            "short": "T. Watanabe",
+            "num": "16",
+            "pos": "CD-R",
+            "place": "6"
+          },
+          {
+            "name": "Daichi Kamada",
+            "short": "D. Kamada",
+            "num": "15",
+            "pos": "CM-L",
+            "place": "8"
+          },
+          {
+            "name": "Kaishu Sano",
+            "short": "K. Sano",
+            "num": "24",
+            "pos": "CM-R",
+            "place": "7"
+          },
+          {
+            "name": "Keito Nakamura",
+            "short": "K. Nakamura",
+            "num": "13",
+            "pos": "LM",
+            "place": "3"
+          },
+          {
+            "name": "Ritsu Doan",
+            "short": "R. Doan",
+            "num": "10",
+            "pos": "RM",
+            "place": "2"
+          },
+          {
+            "name": "Ayase Ueda",
+            "short": "A. Ueda",
+            "num": "18",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Daizen Maeda",
+            "short": "D. Maeda",
+            "num": "11",
+            "pos": "CF-L",
+            "place": "11"
+          },
+          {
+            "name": "Takefusa Kubo",
+            "short": "T. Kubo",
+            "num": "8",
+            "pos": "CF-R",
+            "place": "10"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Mats Wieffer",
+            "short": "M. Wieffer",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Lutsharel Geertruida",
+            "short": "L. Geertruida",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Justin Kluivert",
+            "short": "J. Kluivert",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Teun Koopmeiners",
+            "short": "T. Koopmeiners",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Guus Til",
+            "short": "G. Til",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Robin Roefs",
+            "short": "R. Roefs",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Quinten Timber",
+            "short": "Q. Timber",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nathan Aké",
+            "short": "N. Aké",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Wout Weghorst",
+            "short": "W. Weghorst",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mark Flekken",
+            "short": "M. Flekken",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Memphis Depay",
+            "short": "M. Depay",
+            "num": "10",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Noa Lang",
+            "short": "N. Lang",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Marten de Roon",
+            "short": "M. de Roon",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jorrel Hato",
+            "short": "J. Hato",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Brian Brobbey",
+            "short": "B. Brobbey",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Junya Ito",
+            "short": "J. Ito",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Koki Ogawa",
+            "short": "K. Ogawa",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Yuto Nagatomo",
+            "short": "Y. Nagatomo",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kento Shiogai",
+            "short": "K. Shiogai",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Keisuke Goto",
+            "short": "K. Goto",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Yuito Suzuki",
+            "short": "Y. Suzuki",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ayumu Seko",
+            "short": "A. Seko",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Tomoki Hayakawa",
+            "short": "T. Hayakawa",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Shuto Machino",
+            "short": "S. Machino",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kou Itakura",
+            "short": "K. Itakura",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Junnosuke Suzuki",
+            "short": "J. Suzuki",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Keisuke Osako",
+            "short": "K. Osako",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ao Tanaka",
+            "short": "A. Tanaka",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Yukinari Sugawara",
+            "short": "Y. Sugawara",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Takehiro Tomiyasu",
+            "short": "T. Tomiyasu",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-3-3",
+        "away": "3-4-2-1"
+      },
+      "commentary": [
+        {
+          "min": "21'",
+          "text": "Crysencio Summerville (Netherlands) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "21'",
+          "text": "Foul by Keito Nakamura (Japan).",
+          "goal": false
+        },
+        {
+          "min": "14'",
+          "text": "Corner, Japan. Conceded by Denzel Dumfries.",
+          "goal": false
+        },
+        {
+          "min": "8'",
+          "text": "Foul by Frenkie de Jong (Netherlands).",
+          "goal": false
+        },
+        {
+          "min": "8'",
+          "text": "Ayase Ueda (Japan) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "6'",
+          "text": "Foul by Micky van de Ven (Netherlands).",
+          "goal": false
+        },
+        {
+          "min": "6'",
+          "text": "Keito Nakamura (Japan) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "3'",
+          "text": "Corner, Netherlands. Conceded by Zion Suzuki.",
+          "goal": false
+        },
+        {
+          "min": "3'",
+          "text": "Attempt saved. Donyell Malen (Netherlands) right footed shot from the centre of the box is saved in the bottom left corner by Zion Suzuki (Japan). Assisted by Cody Gakpo.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "First Half begins.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "Lineups are announced and players are warming up.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "D. Malen",
+            "num": "18",
+            "pos": "F",
+            "value": "1"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "V. van Dijk",
+            "num": "4",
+            "pos": "D",
+            "value": "35"
+          },
+          "away": {
+            "name": "D. Kamada",
+            "num": "15",
+            "pos": "M",
+            "value": "11"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "F. de Jong",
+            "num": "21",
+            "pos": "M",
+            "value": "4"
+          },
+          "away": {
+            "name": "T. Watanabe",
+            "num": "16",
+            "pos": "D",
+            "value": "4"
+          }
+        },
+        {
+          "label": "Saves",
+          "away": {
+            "name": "Z. Suzuki",
+            "num": "1",
+            "pos": "G",
+            "value": "1"
+          }
+        }
+      ],
+      "highlight": null,
       "final": false,
       "dv": 5
     }

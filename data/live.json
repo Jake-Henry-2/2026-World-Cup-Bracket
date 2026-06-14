@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T18:57:38.570Z",
+  "lastUpdated": "2026-06-14T20:22:31.731Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -96,14 +96,10 @@
       "away": "Curaçao",
       "homeScore": 7,
       "awayScore": 1,
-      "status": "live",
+      "status": "finished",
       "id": "760422",
       "date": "2026-06-14T17:00Z",
-      "venue": "NRG Stadium",
-      "clock": 5400,
-      "displayClock": "90'+4'",
-      "detail": "90'+4'",
-      "period": 2
+      "venue": "NRG Stadium"
     },
     {
       "stage": "group",
@@ -111,10 +107,14 @@
       "away": "Japan",
       "homeScore": 0,
       "awayScore": 0,
-      "status": "scheduled",
+      "status": "live",
       "id": "760425",
       "date": "2026-06-14T20:00Z",
-      "venue": "AT&T Stadium"
+      "venue": "AT&T Stadium",
+      "clock": 1320,
+      "displayClock": "22'",
+      "detail": "22'",
+      "period": 1
     },
     {
       "stage": "group",

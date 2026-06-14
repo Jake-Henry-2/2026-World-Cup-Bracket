@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T04:20:05.777Z",
+  "lastUpdated": "2026-06-14T04:24:49.596Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -247,7 +247,7 @@
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0612/dm_260612_COM_SOC_Presser_Hwang_In-Beom_South_Korea_dominated_Czechia__20262F062F12_GLOBAL/dm_260612_COM_SOC_Presser_Hwang_In-Beom_South_Korea_dominated_Czechia__20262F062F12_GLOBAL/playlist.m3u8"
       },
       "final": true,
-      "dv": 2
+      "dv": 3
     },
     "760415": {
       "venue": "Estadio Banorte",
@@ -512,14 +512,14 @@
         ]
       },
       "highlight": {
-        "thumb": "https://a.espncdn.com/media/motion/2026/0611/dm_260611_Keller_Mexico_could_have_set_the_tone_for_the_group/dm_260611_Keller_Mexico_could_have_set_the_tone_for_the_group.jpg",
-        "link": "https://www.espn.com/video/clip/_/id/49033823/mexico-set-tone-group",
-        "headline": "Keller: Mexico 'could have set the tone' for the group",
-        "mp4": "https://media.video-cdn.espn.com/motion/2026/0611/dm_260611_Keller_Mexico_could_have_set_the_tone_for_the_group/dm_260611_Keller_Mexico_could_have_set_the_tone_for_the_group_360p30_1464k.mp4",
-        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0611/dm_260611_Keller_Mexico_could_have_set_the_tone_for_the_group/dm_260611_Keller_Mexico_could_have_set_the_tone_for_the_group/playlist.m3u8"
+        "thumb": "https://a.espncdn.com/media/motion/2026/0611/dm_260611_COM_SOC_News_Mexico_fans_celebrate_opening_goal_of_the_2026_FIFA_World_Cup_20260611_GLOBAL/dm_260611_COM_SOC_News_Mexico_fans_celebrate_opening_goal_of_the_2026_FIFA_World_Cup_20260611_GLOBAL.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49032790/mexico-fans-celebrate-opening-goal-2026-fifa-world-cup",
+        "headline": "Mexico fans celebrate opening goal of the 2026 FIFA World Cup",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0611/dm_260611_COM_SOC_News_Mexico_fans_celebrate_opening_goal_of_the_2026_FIFA_World_Cup_20260611_GLOBAL/dm_260611_COM_SOC_News_Mexico_fans_celebrate_opening_goal_of_the_2026_FIFA_World_Cup_20260611_GLOBAL_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0611/dm_260611_COM_SOC_News_Mexico_fans_celebrate_opening_goal_of_the_2026_FIFA_World_Cup_20260611_GLOBAL/dm_260611_COM_SOC_News_Mexico_fans_celebrate_opening_goal_of_the_2026_FIFA_World_Cup_20260611_GLOBAL/playlist.m3u8"
       },
       "final": true,
-      "dv": 2
+      "dv": 3
     },
     "760416": {
       "venue": "BMO Field",
@@ -791,7 +791,7 @@
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0612/dm_260612_COM_SOC_ANALYSIS_Will_Canada_regret_a_missed_opportunity_vs_Bosnia-Herzegovina_2026_6_12/dm_260612_COM_SOC_ANALYSIS_Will_Canada_regret_a_missed_opportunity_vs_Bosnia-Herzegovina_2026_6_12/playlist.m3u8"
       },
       "final": true,
-      "dv": 2
+      "dv": 3
     },
     "760417": {
       "venue": "SoFi Stadium",
@@ -1087,7 +1087,7 @@
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/wsc/2026/0613/57760942-70f4-400f-b483-6b7201facdac/57760942-70f4-400f-b483-6b7201facdac/playlist.m3u8"
       },
       "final": true,
-      "dv": 2
+      "dv": 3
     },
     "760418": {
       "venue": "Gillette Stadium",
@@ -1335,7 +1335,7 @@
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0613/dm_260613_COM_SOC_Analysis_Burley_Scotland_will_be_hoping_three_points_is_enough_for_knockouts_20260613_G/dm_260613_COM_SOC_Analysis_Burley_Scotland_will_be_hoping_three_points_is_enough_for_knockouts_20260613_G/playlist.m3u8"
       },
       "final": true,
-      "dv": 2
+      "dv": 3
     },
     "760419": {
       "venue": "MetLife Stadium",
@@ -1589,7 +1589,7 @@
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0613/dm_260613_COM_SOC_News_Fans_on_Copacabana_Beach_celebrate_Brazils_equalizer_vs_Morocco_20260613_GLOBAL_F/dm_260613_COM_SOC_News_Fans_on_Copacabana_Beach_celebrate_Brazils_equalizer_vs_Morocco_20260613_GLOBAL_F/playlist.m3u8"
       },
       "final": true,
-      "dv": 2
+      "dv": 3
     },
     "760420": {
       "venue": "Levi's Stadium",
@@ -1849,67 +1849,67 @@
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0613/dm_260613_COM_SOC_Analysis_How_Qatar_earned_their_first_ever_World_Cup_point_20260613_GLOBAL_FIFA_WORLD_C/dm_260613_COM_SOC_Analysis_How_Qatar_earned_their_first_ever_World_Cup_point_20260613_GLOBAL_FIFA_WORLD_C/playlist.m3u8"
       },
       "final": true,
-      "dv": 2
+      "dv": 3
     },
     "760421": {
       "venue": "BC Place",
       "stats": {
         "home": {
-          "foulsCommitted": "1",
+          "foulsCommitted": "2",
           "yellowCards": "0",
           "redCards": "0",
           "offsides": "0",
           "wonCorners": "2",
           "saves": "0",
-          "possessionPct": "31.6",
+          "possessionPct": "34",
           "totalShots": "1",
           "shotsOnTarget": "0",
           "shotPct": "0.0",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "53",
-          "totalPasses": "60",
+          "accuratePasses": "73",
+          "totalPasses": "85",
           "passPct": "0.9",
           "accurateCrosses": "1",
           "totalCrosses": "5",
           "crossPct": "0.2",
-          "totalLongBalls": "9",
-          "accurateLongBalls": "6",
+          "totalLongBalls": "12",
+          "accurateLongBalls": "8",
           "longballPct": "0.7",
           "blockedShots": "0",
           "effectiveTackles": "1",
           "totalTackles": "2",
           "tacklePct": "0.5",
-          "interceptions": "0",
+          "interceptions": "1",
           "effectiveClearance": "5",
           "totalClearance": "5"
         },
         "away": {
-          "foulsCommitted": "0",
+          "foulsCommitted": "1",
           "yellowCards": "0",
           "redCards": "0",
           "offsides": "1",
           "wonCorners": "2",
           "saves": "0",
-          "possessionPct": "68.4",
-          "totalShots": "3",
+          "possessionPct": "66",
+          "totalShots": "4",
           "shotsOnTarget": "0",
           "shotPct": "0.0",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "132",
-          "totalPasses": "139",
-          "passPct": "1.0",
+          "accuratePasses": "159",
+          "totalPasses": "173",
+          "passPct": "0.9",
           "accurateCrosses": "1",
           "totalCrosses": "3",
           "crossPct": "0.3",
-          "totalLongBalls": "8",
-          "accurateLongBalls": "4",
+          "totalLongBalls": "11",
+          "accurateLongBalls": "6",
           "longballPct": "0.5",
           "blockedShots": "2",
           "effectiveTackles": "3",
-          "totalTackles": "4",
-          "tacklePct": "0.8",
+          "totalTackles": "5",
+          "tacklePct": "0.6",
           "interceptions": "1",
           "effectiveClearance": "8",
           "totalClearance": "8"
@@ -2012,7 +2012,7 @@
       },
       "highlight": null,
       "final": false,
-      "dv": 2
+      "dv": 3
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T04:20:05.543Z",
+  "lastUpdated": "2026-06-14T04:24:49.113Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -89,9 +89,9 @@
       "id": "760421",
       "date": "2026-06-14T04:00Z",
       "venue": "BC Place",
-      "clock": 1080,
-      "displayClock": "18'",
-      "detail": "18'"
+      "clock": 1380,
+      "displayClock": "23'",
+      "detail": "23'"
     },
     {
       "stage": "group",

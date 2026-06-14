@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T05:21:21.546Z",
+  "lastUpdated": "2026-06-14T05:27:10.252Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -6398,58 +6398,58 @@
           "offsides": "1",
           "wonCorners": "4",
           "saves": "4",
-          "possessionPct": "34.4",
+          "possessionPct": "33.5",
           "totalShots": "8",
           "shotsOnTarget": "3",
           "shotPct": "0.4",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "174",
-          "totalPasses": "217",
+          "accuratePasses": "187",
+          "totalPasses": "237",
           "passPct": "0.8",
           "accurateCrosses": "4",
           "totalCrosses": "11",
           "crossPct": "0.4",
-          "totalLongBalls": "40",
-          "accurateLongBalls": "13",
+          "totalLongBalls": "42",
+          "accurateLongBalls": "14",
           "longballPct": "0.3",
           "blockedShots": "1",
           "effectiveTackles": "3",
-          "totalTackles": "9",
+          "totalTackles": "11",
           "tacklePct": "0.3",
-          "interceptions": "3",
-          "effectiveClearance": "34",
-          "totalClearance": "34"
+          "interceptions": "4",
+          "effectiveClearance": "38",
+          "totalClearance": "38"
         },
         "away": {
-          "foulsCommitted": "2",
+          "foulsCommitted": "3",
           "yellowCards": "0",
           "redCards": "0",
           "offsides": "2",
           "wonCorners": "5",
           "saves": "2",
-          "possessionPct": "65.6",
-          "totalShots": "16",
+          "possessionPct": "66.5",
+          "totalShots": "20",
           "shotsOnTarget": "4",
-          "shotPct": "0.3",
+          "shotPct": "0.2",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "385",
-          "totalPasses": "428",
+          "accuratePasses": "434",
+          "totalPasses": "484",
           "passPct": "0.9",
           "accurateCrosses": "1",
           "totalCrosses": "17",
           "crossPct": "0.1",
-          "totalLongBalls": "23",
-          "accurateLongBalls": "15",
-          "longballPct": "0.7",
-          "blockedShots": "6",
+          "totalLongBalls": "25",
+          "accurateLongBalls": "16",
+          "longballPct": "0.6",
+          "blockedShots": "9",
           "effectiveTackles": "7",
           "totalTackles": "10",
           "tacklePct": "0.7",
           "interceptions": "1",
-          "effectiveClearance": "26",
-          "totalClearance": "26"
+          "effectiveClearance": "27",
+          "totalClearance": "27"
         }
       },
       "events": [
@@ -6470,6 +6470,12 @@
           "min": "61'",
           "side": "home",
           "player": "Substitution, Australia. Nishan Velupillay replaces Nestory Irankunda."
+        },
+        {
+          "kind": "Substitution",
+          "min": "62'",
+          "side": "away",
+          "player": "Substitution, Türkiye. Yunus Akgün replaces Orkun Kökçü."
         }
       ],
       "lineups": {
@@ -6854,6 +6860,26 @@
       },
       "commentary": [
         {
+          "min": "66'",
+          "text": "Attempt blocked. Kenan Yildiz (Türkiye) right footed shot from the left side of the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Attempt blocked. Arda Güler (Türkiye) left footed shot from outside the box is blocked. Assisted by Ferdi Kadioglu.",
+          "goal": false
+        },
+        {
+          "min": "63'",
+          "text": "Attempt blocked. Kenan Yildiz (Türkiye) right footed shot from outside the box is blocked. Assisted by Ferdi Kadioglu.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Substitution, Türkiye. Yunus Akgün replaces Orkun Kökçü.",
+          "goal": false
+        },
+        {
           "min": "61'",
           "text": "Substitution, Australia. Nishan Velupillay replaces Nestory Irankunda.",
           "goal": false
@@ -6885,7 +6911,7 @@
         },
         {
           "min": "57'",
-          "text": "Attempt saved. Arda Güler (Türkiye) left footed shot from outside the box is saved in the centre of the goal by Patrick Beach (Australia).",
+          "text": "Attempt saved. Arda Güler (Türkiye) left footed shot from outside the box is saved in the bottom left corner by Patrick Beach (Australia).",
           "goal": false
         },
         {
@@ -6935,7 +6961,7 @@
         },
         {
           "min": "51'",
-          "text": "Attempt blocked. Kerem Aktürkoglu (Türkiye) right footed shot from outside the box is blocked.",
+          "text": "Attempt missed. Kerem Aktürkoglu (Türkiye) right footed shot from outside the box misses to the left following a corner.",
           "goal": false
         },
         {
@@ -7132,26 +7158,6 @@
           "min": "18'",
           "text": "Foul by Alessandro Circati (Australia).",
           "goal": false
-        },
-        {
-          "min": "17'",
-          "text": "Attempt missed. Alessandro Circati (Australia) header from the left side of the six yard box is high and wide to the left. Assisted by Connor Metcalfe with a cross following a corner.",
-          "goal": false
-        },
-        {
-          "min": "16'",
-          "text": "Corner, Australia. Conceded by Merih Demiral.",
-          "goal": false
-        },
-        {
-          "min": "15'",
-          "text": "Offside, Türkiye. Baris Alper Yilmaz is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "7'",
-          "text": "Corner, Australia. Conceded by Abdülkerim Bardakci.",
-          "goal": false
         }
       ],
       "leaders": [
@@ -7167,7 +7173,7 @@
             "name": "A. Güler",
             "num": "8",
             "pos": "M",
-            "value": "4"
+            "value": "5"
           }
         },
         {
@@ -7176,28 +7182,28 @@
             "name": "C. Burgess",
             "num": "21",
             "pos": "D",
-            "value": "36"
+            "value": "38"
           },
           "away": {
             "name": "A. Bardakçi",
             "num": "14",
             "pos": "D",
-            "value": "65"
+            "value": "71"
           }
         },
         {
           "label": "Defensive Interventions",
           "home": {
-            "name": "P. Okon-Engstler",
-            "num": "24",
-            "pos": "M",
-            "value": "10"
+            "name": "A. Circati",
+            "num": "3",
+            "pos": "D",
+            "value": "12"
           },
           "away": {
             "name": "M. Demiral",
             "num": "3",
             "pos": "D",
-            "value": "8"
+            "value": "9"
           }
         },
         {

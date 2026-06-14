@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T17:39:34.924Z",
+  "lastUpdated": "2026-06-14T18:57:38.570Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -94,16 +94,16 @@
       "stage": "group",
       "home": "Germany",
       "away": "Curaçao",
-      "homeScore": 1,
+      "homeScore": 7,
       "awayScore": 1,
       "status": "live",
       "id": "760422",
       "date": "2026-06-14T17:00Z",
       "venue": "NRG Stadium",
-      "clock": 2220,
-      "displayClock": "37'",
-      "detail": "37'",
-      "period": 1
+      "clock": 5400,
+      "displayClock": "90'+4'",
+      "detail": "90'+4'",
+      "period": 2
     },
     {
       "stage": "group",

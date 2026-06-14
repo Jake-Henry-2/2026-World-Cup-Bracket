@@ -36,7 +36,7 @@ const ALIASES = {
   "united states":"United States","usa":"United States","united states of america":"United States",
   "south korea":"South Korea","korea republic":"South Korea","republic of korea":"South Korea",
   "ivory coast":"Ivory Coast","côte d'ivoire":"Ivory Coast","cote d'ivoire":"Ivory Coast",
-  "bosnia and herzegovina":"Bosnia and Herzegovina","bosnia & herzegovina":"Bosnia and Herzegovina","bosnia":"Bosnia and Herzegovina",
+  "bosnia and herzegovina":"Bosnia and Herzegovina","bosnia & herzegovina":"Bosnia and Herzegovina","bosnia-herzegovina":"Bosnia and Herzegovina","bosnia":"Bosnia and Herzegovina",
   "czechia":"Czechia","czech republic":"Czechia",
   "iran":"Iran","ir iran":"Iran"
 };

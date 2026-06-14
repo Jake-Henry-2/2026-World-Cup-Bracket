@@ -299,7 +299,15 @@ h1{font-size:20px;margin:0;letter-spacing:.3px}
 .md-bar i{display:block;height:100%;background:var(--blue);border-radius:4px}
 .md-bar-a{justify-content:flex-start}.md-bar-a i{background:var(--gold)}
 .md-loading,.md-empty{padding:24px 16px;text-align:center;color:var(--dim);font-size:13px}
-.md-foot{padding:14px 16px;border-top:1px solid var(--line);text-align:center}
+.md-foot{padding:14px 16px;border-top:1px solid var(--line);text-align:center;display:flex;gap:10px;justify-content:center;flex-wrap:wrap}
+.md-radio{background:rgba(43,213,118,.12);border:1px solid rgba(43,213,118,.4);color:var(--green)!important;
+  padding:7px 14px;border-radius:999px;font-weight:700;text-decoration:none}
+.md-radio:hover{background:rgba(43,213,118,.22)}
+.md-motm{margin:12px 16px 2px;padding:10px 14px;border-radius:10px;font-size:13.5px;
+  background:linear-gradient(90deg,rgba(255,210,63,.16),rgba(255,210,63,.04));border:1px solid rgba(255,210,63,.35);
+  display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.md-motm-l{font-weight:800;color:var(--gold);text-transform:uppercase;letter-spacing:.5px;font-size:11px}
+.md-motm b{font-weight:800}
 .md-live{color:var(--red);font-weight:700}
 .md-lineups{display:grid;grid-template-columns:1fr 1fr;padding:6px 16px 14px;max-height:230px;overflow:auto}
 .md-lineups>div{padding:0 8px}

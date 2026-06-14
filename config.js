@@ -14,6 +14,9 @@ window.CONFIG = {
   // How often the board recomputes / re-polls, in seconds.
   refreshSeconds: 60,
 
+  // While any game is LIVE, poll scores this often instead (seconds) so goals/clock update with ~no lag.
+  liveRefreshSeconds: 10,
+
   live: {
     enabled: true,               // ← ON: the page auto-pulls scores, no manual updates
 

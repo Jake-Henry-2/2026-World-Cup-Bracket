@@ -784,14 +784,22 @@
   /* =========================================================================
      REFRESH LOOP + CLOCK
      ====================================================================== */
-  let countdown = CFG.refreshSeconds;
-  async function refreshCycle() {
-    if (state.live) await fetchLive();
-    await fetchNews();
-    await fetchDetails();
-    renderBoard(true);              // advance the movement baseline each cycle
-    countdown = CFG.refreshSeconds;
+  let scoreCd = CFG.refreshSeconds;     // seconds to next score poll (short while games are live)
+  let auxCd = CFG.refreshSeconds;       // seconds to next news/details poll (always the slow clock)
+  let busy = false;
+  function scoreInterval() {
+    const hasLive = state.computed && state.computed.liveNow && state.computed.liveNow.length;
+    return hasLive ? (CFG.liveRefreshSeconds || 10) : CFG.refreshSeconds;   // fast during live games → goals land with ~no lag
   }
+  async function doRefresh(full) {
+    if (busy) return; busy = true;
+    try {
+      if (state.live) await fetchLive();            // ESPN scoreboard: live scores/goals/clock, real-time
+      if (full) { await fetchNews(); await fetchDetails(); }
+      renderBoard(true);                            // advance the movement baseline each cycle
+    } finally { busy = false; }
+  }
+  async function refreshCycle() { await doRefresh(true); scoreCd = scoreInterval(); auxCd = CFG.refreshSeconds; }
   function tick() {
     const now = new Date();
     $("#clock").textContent = now.toLocaleTimeString();
@@ -803,9 +811,14 @@
     document.querySelectorAll(".news-since").forEach((el) => {
       el.textContent = "· " + relTime(Number(el.dataset.since));
     });
-    countdown -= 1;
-    if (countdown <= 0) { refreshCycle(); }
-    else $("#refresh-countdown").textContent = countdown + "s";
+    scoreCd -= 1; auxCd -= 1;
+    if (scoreCd <= 0) {
+      const full = auxCd <= 0;                      // fold in news/details only on the slow clock
+      doRefresh(full);
+      scoreCd = scoreInterval();
+      if (full) auxCd = CFG.refreshSeconds;
+    }
+    $("#refresh-countdown").textContent = Math.max(0, scoreCd) + "s";
   }
 
   /* =========================================================================
@@ -938,16 +951,44 @@
       </div>
       <div class="md-meta">${g.group ? "Group " + g.group + " · " : ""}${esc(g.venue || "")}${g.date ? " · " + new Date(g.date).toLocaleString() : ""}</div>`;
   }
+  // Man of the Match — derived by combining each player's match stats: goals, own goals and cards.
+  function manOfMatch(det, g) {
+    const sc = {};
+    (det.events || []).forEach((e) => {
+      const p = (e.player || "").trim(); if (!p) return;
+      const k = (e.kind || "").toLowerCase();
+      sc[p] = sc[p] || { player: p, side: e.side, goals: 0, pts: 0 };
+      if (e.side) sc[p].side = e.side;
+      if (/own goal/.test(k)) sc[p].pts -= 2;
+      else if (/goal/.test(k)) { sc[p].goals++; sc[p].pts += 3; }
+      if (/red card/.test(k)) sc[p].pts -= 3;
+      else if (/yellow/.test(k)) sc[p].pts -= 1;
+    });
+    const arr = Object.values(sc).filter((x) => x.pts > 0).sort((a, b) => b.pts - a.pts || b.goals - a.goals);
+    if (!arr.length) return null;
+    const top = arr[0], team = top.side === "away" ? g.away : g.home, owner = OWNER_OF[team];
+    return { player: top.player, team, goals: top.goals, emoji: owner ? MANAGER[owner].emoji : "⚽" };
+  }
+  function radioLink(g) {
+    return "https://www.google.com/search?q=" + encodeURIComponent(`listen live free radio ${g.home} vs ${g.away} 2026 world cup commentary`);
+  }
   function openMatchModal(id) {
     const g = state.computed && state.computed.byId[id]; if (!g) return;
     const link = `https://www.espn.com/soccer/match/_/gameId/${id}`;
     const det = state.details && state.details[id];
+    const motm = (det && g.status !== "scheduled") ? manOfMatch(det, g) : null;
+    const motmHtml = motm
+      ? `<div class="md-motm">⭐ <span class="md-motm-l">Man of the Match</span> ${motm.emoji} <b>${esc(motm.player)}</b> <span class="dim">${esc(motm.team)}${motm.goals ? ` · ${motm.goals} goal${motm.goals > 1 ? "s" : ""}` : ""}</span></div>`
+      : "";
     const body = g.status === "scheduled"
       ? `<div class="md-empty">Kicks off ${g.date ? new Date(g.date).toLocaleString() : "soon"}.</div>`
       : det ? matchDetailHtml(det)
       : `<div class="md-empty">Detailed data lands within ~5 minutes of kickoff — check back shortly, or open the full match on ESPN below.</div>`;
-    showModal(`${matchHeaderHtml(g)}<div id="md-body">${body}</div>
-      <div class="md-foot"><a href="${link}" target="_blank" rel="noopener" class="foot-link">Full match on ESPN ↗</a></div>`);
+    showModal(`${matchHeaderHtml(g)}${motmHtml}<div id="md-body">${body}</div>
+      <div class="md-foot">
+        <a href="${radioLink(g)}" target="_blank" rel="noopener" class="foot-link md-radio">📻 Listen free — live radio ↗</a>
+        <a href="${link}" target="_blank" rel="noopener" class="foot-link">Full match on ESPN ↗</a>
+      </div>`);
   }
   function matchDetailHtml(det) {
     const icon = (k) => /red card/i.test(k) ? "🟥" : /yellow/i.test(k) ? "🟨" : /goal/i.test(k) ? "⚽" : /sub/i.test(k) ? "🔁" : "•";

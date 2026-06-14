@@ -1,5 +1,13 @@
 {
-  "lastUpdated": "2026-06-14T00:00:00Z",
-  "source": "pending auto-fetch (refreshed every ~5 min by GitHub Actions)",
-  "matches": []
+  "lastUpdated": "2026-06-14T01:42:00Z",
+  "source": "ESPN soccer/fifa.world",
+  "matches": [
+    { "stage": "group", "home": "Mexico", "away": "South Africa", "homeScore": 2, "awayScore": 0, "status": "finished" },
+    { "stage": "group", "home": "South Korea", "away": "Czechia", "homeScore": 2, "awayScore": 1, "status": "finished" },
+    { "stage": "group", "home": "Canada", "away": "Bosnia and Herzegovina", "homeScore": 1, "awayScore": 1, "status": "finished" },
+    { "stage": "group", "home": "United States", "away": "Paraguay", "homeScore": 4, "awayScore": 1, "status": "finished" },
+    { "stage": "group", "home": "Qatar", "away": "Switzerland", "homeScore": 1, "awayScore": 1, "status": "finished" },
+    { "stage": "group", "home": "Brazil", "away": "Morocco", "homeScore": 1, "awayScore": 1, "status": "finished" },
+    { "stage": "group", "home": "Haiti", "away": "Scotland", "homeScore": 0, "awayScore": 1, "status": "live" }
+  ]
 }

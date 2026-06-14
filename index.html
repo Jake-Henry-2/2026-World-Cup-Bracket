@@ -6,7 +6,7 @@
   <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
   <title>2026 World Cup — Live Fantasy Tracker</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="stylesheet" href="assets/styles.css?v=__BUILD__" />
+  <link rel="stylesheet" href="assets/styles.css" />
 </head>
 <body>
 
@@ -61,10 +61,10 @@
   <div id="modal" class="modal"></div>
 
   <!-- load order matters: config + data define globals, then the app uses them -->
-  <script src="config.js?v=__BUILD__"></script>
-  <script src="data/league.js?v=__BUILD__"></script>
-  <script src="data/results.js?v=__BUILD__"></script>
-  <script src="assets/app.js?v=__BUILD__"></script>
+  <script src="config.js"></script>
+  <script src="data/league.js"></script>
+  <script src="data/results.js"></script>
+  <script src="assets/app.js"></script>
   <script>document.getElementById('foot-secs').textContent = (window.CONFIG&&window.CONFIG.refreshSeconds)||60;</script>
 </body>
 </html>

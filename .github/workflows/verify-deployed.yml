@@ -1,0 +1,32 @@
+name: Verify deployed site
+on:
+  workflow_dispatch:
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Inspect deployed files
+        run: |
+          set +e
+          BASE="https://jake-henry-2.github.io/2026-World-Cup-Bracket"
+          echo "==================== data/live.json (headers) ===================="
+          curl -sI "$BASE/data/live.json" | grep -iE "HTTP/|cache-control|age|last-modified|etag"
+          echo "==================== data/live.json (body) ===================="
+          curl -s "$BASE/data/live.json" -o live.json -w "HTTP %{http_code}\n"
+          node -e '
+            try { const d=JSON.parse(require("fs").readFileSync("live.json","utf8"));
+              console.log("lastUpdated:", d.lastUpdated, "| source:", d.source);
+              console.log("matches:", (d.matches||[]).length);
+              for (const m of (d.matches||[]).filter(x=>x.status!=="scheduled")) console.log("  ", m.status, m.home, m.homeScore+"-"+m.awayScore, m.away);
+            } catch(e){ console.log("parse fail:", e.message); }
+          '
+          echo "==================== config.js ===================="
+          curl -s "$BASE/config.js" | grep -iE "enabled|customUrl|provider"
+          echo "==================== app.js markers ===================="
+          curl -s "$BASE/assets/app.js" -o app.js
+          echo "bytes: $(wc -c < app.js)"
+          grep -c 'data/live.json' app.js | xargs echo "contains customUrl ref count:"
+          grep -c 'status !== "finished"' app.js | xargs echo "finished-only logic present count:"
+          grep -c 'renderGames' app.js | xargs echo "games-log render present count:"
+          echo "==================== index.html ===================="
+          curl -sI "$BASE/index.html" | grep -iE "HTTP/|cache-control|age|last-modified"

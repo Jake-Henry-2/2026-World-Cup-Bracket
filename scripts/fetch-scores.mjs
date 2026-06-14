@@ -92,14 +92,23 @@ for (const ds of dateRange(START, end)) {
     if (!CANON.has(hName)) unknown.add(home.team && home.team.displayName);
     if (!CANON.has(aName)) unknown.add(away.team && away.team.displayName);
 
-    matches.push({
+    const status = statusOf(ev.status && ev.status.type && ev.status.type.state);
+    const cstat = comp.status || ev.status || {};
+    const rec = {
       stage: stageOf(ev.season && ev.season.slug),
       home: hName,
       away: aName,
       homeScore: parseInt(home.score, 10) || 0,
       awayScore: parseInt(away.score, 10) || 0,
-      status: statusOf(ev.status && ev.status.type && ev.status.type.state)
-    });
+      status,
+      date: ev.date || null                       // kickoff (ISO) — used for past times + upcoming
+    };
+    if (status === "live") {                       // live match clock, for the running timer
+      rec.clock = (typeof cstat.clock === "number") ? cstat.clock : 0;
+      rec.displayClock = cstat.displayClock || "";
+      rec.detail = (cstat.type && (cstat.type.shortDetail || cstat.type.detail)) || "";
+    }
+    matches.push(rec);
   }
 }
 

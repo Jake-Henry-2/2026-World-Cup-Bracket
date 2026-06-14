@@ -193,17 +193,23 @@
     sidePool.sort((a, b) => (b.topHit + b.ruHit) - (a.topHit + a.ruHit)
       || (b.topPts + b.ruPts) - (a.topPts + a.ruPts) || a.manager.localeCompare(b.manager));
 
-    // ----- games log (finished) + live-now (in progress) for display ---------
+    // ----- games: finished log + live (with clock) + upcoming (next 24h) -----
     const known = (m) => m && team[canon(m.home)] && team[canon(m.away)];
     const fmt = (m) => ({
       home: canon(m.home), away: canon(m.away),
       hs: Number(m.homeScore) || 0, as: Number(m.awayScore) || 0,
-      group: GROUP_OF[canon(m.home)] || null, stage: m.stage || "group"
+      group: GROUP_OF[canon(m.home)] || null, stage: m.stage || "group",
+      date: m.date || null, clock: m.clock, displayClock: m.displayClock, detail: m.detail
     });
     const log = matches.filter((m) => known(m) && m.status === "finished").map(fmt);
     const liveNow = matches.filter((m) => known(m) && m.status === "live").map(fmt);
+    const nowMs = Date.now();
+    const upcoming = matches.filter((m) => known(m) && m.status === "scheduled" && m.date).map(fmt)
+      .filter((m) => { const t = Date.parse(m.date); return t > nowMs && t < nowMs + 24 * 3600 * 1000; })
+      .sort((a, b) => Date.parse(a.date) - Date.parse(b.date));
+    const dataMs = R.lastUpdated ? (Date.parse(R.lastUpdated) || nowMs) : nowMs;
 
-    return { team, managers, groupTables, eight, actualTop, actualRU, anyPlayed, sidePool, log, liveNow };
+    return { team, managers, groupTables, eight, actualTop, actualRU, anyPlayed, sidePool, log, liveNow, upcoming, dataMs };
   }
 
   /* =========================================================================
@@ -361,6 +367,21 @@
       </div>`;
   }
 
+  // Live match clock: extrapolate ESPN's elapsed time forward so it ticks each second.
+  function liveClockText(clock, displayClock, sinceMs, detail) {
+    const d = (detail || "").toLowerCase();
+    if (d.includes("half")) return "HT";
+    if (d.includes("full") || d.includes("final") || d === "ft") return "FT";
+    let base = Number(clock) || 0;                       // ESPN elapsed seconds
+    if (base <= 0) {                                     // else parse the minute from "67'"
+      const mm = String(displayClock || "").match(/(\d+)/);
+      base = mm ? parseInt(mm[1], 10) * 60 : 0;
+    }
+    const sec = Math.max(0, base + (Date.now() - (Number(sinceMs) || Date.now())) / 1000);
+    const m = Math.min(130, Math.floor(sec / 60)), s = Math.floor(sec % 60);
+    return m + ":" + String(s).padStart(2, "0");
+  }
+
   function renderGames(computed) {
     const box = $("#games");
     if (!box) return;
@@ -368,18 +389,32 @@
       const o = OWNER_OF[t]; const mgr = o ? MANAGER[o] : null;
       return mgr ? `<span class="lg-own" title="${esc(o)}">${mgr.emoji}</span>` : "";
     };
-    const row = (m, live) => `<div class="lg-row${live ? " lg-live" : ""}">
-      <span class="lg-g">${live ? "🔴" : (m.group || m.stage)}</span>
-      <span class="lg-m">${esc(m.home)} ${ownerTag(m.home)} <b>${m.hs}–${m.as}</b> ${ownerTag(m.away)} ${esc(m.away)}</span></div>`;
-    const live = computed.liveNow.map((m) => row(m, true)).join("");
-    const finished = computed.log.slice().reverse();   // newest first
-    const done = finished.length ? finished.map((m) => row(m, false)).join("")
+    const playedStr = (iso) => iso ? new Date(iso).toLocaleString(undefined, { month: "short", day: "numeric", hour: "numeric", minute: "2-digit" }) : "";
+    const upStr = (iso) => iso ? new Date(iso).toLocaleString(undefined, { weekday: "short", hour: "numeric", minute: "2-digit" }) : "";
+
+    const liveRows = computed.liveNow.map((m) => `<div class="lg-row lg-live">
+      <span class="lg-g">🔴</span>
+      <span class="lg-m">${esc(m.home)} ${ownerTag(m.home)} <b>${m.hs}–${m.as}</b> ${ownerTag(m.away)} ${esc(m.away)}</span>
+      <span class="lg-clock" data-clock="${m.clock || 0}" data-disp="${esc(m.displayClock || "")}" data-since="${computed.dataMs}" data-detail="${esc(m.detail || "")}">${liveClockText(m.clock, m.displayClock, computed.dataMs, m.detail)}</span></div>`).join("");
+
+    const upRows = computed.upcoming.map((m) => `<div class="lg-row lg-up">
+      <span class="lg-g">${m.group || m.stage}</span>
+      <span class="lg-m">${esc(m.home)} ${ownerTag(m.home)} <span class="lg-vs">vs</span> ${ownerTag(m.away)} ${esc(m.away)}</span>
+      <span class="lg-when">${upStr(m.date)}</span></div>`).join("");
+
+    const finished = computed.log.slice().sort((a, b) => (Date.parse(b.date) || 0) - (Date.parse(a.date) || 0));
+    const doneRows = finished.length ? finished.map((m) => `<div class="lg-row">
+      <span class="lg-g">${m.group || m.stage}</span>
+      <span class="lg-m">${esc(m.home)} ${ownerTag(m.home)} <b>${m.hs}–${m.as}</b> ${ownerTag(m.away)} ${esc(m.away)}</span>
+      <span class="lg-when">${playedStr(m.date)}</span></div>`).join("")
       : `<div class="lg-empty">No games have finished yet.</div>`;
+
     box.innerHTML = `
-      <div class="panel-h">📋 Games Played
-        <span class="dim">${finished.length} final${computed.liveNow.length ? ` · ${computed.liveNow.length} live` : ""}</span></div>
-      ${live ? `<div class="lg-livewrap">${live}</div>` : ""}
-      <div class="lg-list">${done}</div>`;
+      <div class="panel-h">📋 Games
+        <span class="dim">${finished.length} final${computed.liveNow.length ? ` · ${computed.liveNow.length} live` : ""}${computed.upcoming.length ? ` · ${computed.upcoming.length} next 24h` : ""}</span></div>
+      ${liveRows ? `<div class="lg-sub">🔴 Live now</div><div class="lg-livewrap">${liveRows}</div>` : ""}
+      ${upRows ? `<div class="lg-sub">⏭ Up next · next 24h</div><div class="lg-uplist">${upRows}</div>` : ""}
+      <div class="lg-sub">✅ Played</div><div class="lg-list">${doneRows}</div>`;
   }
 
   // Manager's Clubs — each manager's 4 drafted teams with live points (mirrors the sheet block)
@@ -490,13 +525,14 @@
   async function fetchLive() {
     const live = CFG.live || {};
     try {
-      let matches = [];
+      let matches = [], liveUpdated = null;
       if (live.provider === "custom") {
         const base = (live.proxyUrl || "") + (live.customUrl || "");
         if (!base) throw new Error("customUrl not set");
         const url = base + (base.includes("?") ? "&" : "?") + "t=" + Date.now(); // bust CDN/browser cache
         const data = await (await fetch(url, { cache: "no-store" })).json();
         matches = (data.matches || data).map(normalizeCustom);
+        liveUpdated = data.lastUpdated || null;          // when the feed captured the scores/clock
       } else if (live.provider === "football-data") {
         const base = `https://api.football-data.org/v4/competitions/${live.competition || "WC"}/matches`;
         const url = (live.proxyUrl || "") + base;
@@ -511,6 +547,7 @@
       // merge: live matches replace manual for teams they cover
       const r = state.results;
       r.matches = matches;
+      if (liveUpdated) r.lastUpdated = liveUpdated;       // keep the feed's capture time for the live clock
       saveResults(r);
       state.lastFetch = new Date().toISOString();
       state.lastError = null;
@@ -521,7 +558,8 @@
   }
   function normalizeCustom(m) {
     return { stage: m.stage || "group", group: m.group, home: m.home, away: m.away,
-             homeScore: m.homeScore, awayScore: m.awayScore, status: m.status || "finished" };
+             homeScore: m.homeScore, awayScore: m.awayScore, status: m.status || "finished",
+             date: m.date || null, clock: m.clock, displayClock: m.displayClock, detail: m.detail };
   }
   function normalizeFootballData(m) {
     const st = { GROUP_STAGE: "group", LAST_16: "r16", QUARTER_FINALS: "qf", SEMI_FINALS: "sf",
@@ -563,6 +601,10 @@
   function tick() {
     const now = new Date();
     $("#clock").textContent = now.toLocaleTimeString();
+    // advance any live match clocks every second
+    document.querySelectorAll(".lg-clock").forEach((el) => {
+      el.textContent = liveClockText(el.dataset.clock, el.dataset.disp, Number(el.dataset.since), el.dataset.detail);
+    });
     countdown -= 1;
     if (countdown <= 0) { refreshCycle(); }
     else $("#refresh-countdown").textContent = countdown + "s";

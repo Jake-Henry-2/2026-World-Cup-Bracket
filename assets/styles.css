@@ -130,6 +130,11 @@ h1{font-size:20px;margin:0;letter-spacing:.3px}
 .lg-m b{color:var(--gold);font-variant-numeric:tabular-nums;margin:0 3px}
 .lg-own{font-size:13px;opacity:.85}
 .lg-empty{padding:14px;color:var(--dim);font-size:13px;text-align:center}
+.lg-sub{padding:8px 12px 3px;font-size:10px;font-weight:800;text-transform:uppercase;letter-spacing:.6px;color:var(--dim)}
+.lg-uplist{border-top:1px solid var(--line)}
+.lg-vs{color:var(--dim);font-size:11px;margin:0 2px}
+.lg-when{flex:0 0 auto;font-size:10.5px;color:var(--dim);font-variant-numeric:tabular-nums;white-space:nowrap;text-align:right}
+.lg-clock{flex:0 0 auto;font-weight:800;font-size:12px;color:var(--red);font-variant-numeric:tabular-nums;white-space:nowrap}
 
 /* ---------------- groups ---------------- */
 .groups-panel{margin:18px 22px 0}
@@ -196,8 +201,10 @@ h1{font-size:20px;margin:0;letter-spacing:.3px}
 /* ---------------- Lectra brand logo (white) ---------------- */
 .lectra-logo{display:inline-block;width:auto;vertical-align:middle}
 .header-lectra{height:22px;padding-left:16px;margin-left:2px;border-left:1px solid var(--line)}
-.foot-brand{margin-bottom:8px;font-size:13px;color:var(--dim)}
-.foot-logo{height:17px;margin-left:6px;vertical-align:middle}
+.foot-brand{margin-bottom:8px;font-size:13px;color:var(--dim);display:flex;align-items:center;justify-content:center;gap:6px;flex-wrap:wrap}
+.foot-logo{height:17px;vertical-align:middle}
+.foot-link{color:var(--blue);text-decoration:none;font-weight:700}
+.foot-link:hover{text-decoration:underline}
 
 /* ---------------- modal ---------------- */
 .modal{position:fixed;inset:0;background:rgba(4,8,18,.72);backdrop-filter:blur(3px);

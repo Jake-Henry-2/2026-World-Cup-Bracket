@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T05:13:10.371Z",
+  "lastUpdated": "2026-06-14T05:14:49.920Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -527,10 +527,7 @@
       },
       "commentary": [
         {
-          "min": {
-            "value": 0,
-            "displayValue": ""
-          },
+          "min": "",
           "text": "Match ends, Korea Republic 2, Czechia 1.",
           "goal": false
         },
@@ -900,7 +897,7 @@
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0612/dm_260612_COM_SOC_Presser_Hwang_In-Beom_South_Korea_dominated_Czechia__20262F062F12_GLOBAL/dm_260612_COM_SOC_Presser_Hwang_In-Beom_South_Korea_dominated_Czechia__20262F062F12_GLOBAL/playlist.m3u8"
       },
       "final": true,
-      "dv": 4
+      "dv": 5
     },
     "760415": {
       "venue": "Estadio Banorte",
@@ -1452,10 +1449,7 @@
       },
       "commentary": [
         {
-          "min": {
-            "value": 0,
-            "displayValue": ""
-          },
+          "min": "",
           "text": "Match ends, Mexico 2, South Africa 0.",
           "goal": false
         },
@@ -1825,7 +1819,7 @@
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0611/dm_260611_COM_SOC_News_Mexico_fans_celebrate_opening_goal_of_the_2026_FIFA_World_Cup_20260611_GLOBAL/dm_260611_COM_SOC_News_Mexico_fans_celebrate_opening_goal_of_the_2026_FIFA_World_Cup_20260611_GLOBAL/playlist.m3u8"
       },
       "final": true,
-      "dv": 4
+      "dv": 5
     },
     "760416": {
       "venue": "BMO Field",
@@ -2377,10 +2371,7 @@
       },
       "commentary": [
         {
-          "min": {
-            "value": 0,
-            "displayValue": ""
-          },
+          "min": "",
           "text": "Match ends, Canada 1, Bosnia and Herzegovina 1.",
           "goal": false
         },
@@ -2750,7 +2741,7 @@
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0612/dm_260612_COM_SOC_ANALYSIS_Will_Canada_regret_a_missed_opportunity_vs_Bosnia-Herzegovina_2026_6_12/dm_260612_COM_SOC_ANALYSIS_Will_Canada_regret_a_missed_opportunity_vs_Bosnia-Herzegovina_2026_6_12/playlist.m3u8"
       },
       "final": true,
-      "dv": 4
+      "dv": 5
     },
     "760417": {
       "venue": "SoFi Stadium",
@@ -3326,10 +3317,7 @@
       },
       "commentary": [
         {
-          "min": {
-            "value": 0,
-            "displayValue": ""
-          },
+          "min": "",
           "text": "Match ends, USA 4, Paraguay 1.",
           "goal": false
         },
@@ -3693,7 +3681,7 @@
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/wsc/2026/0613/57760942-70f4-400f-b483-6b7201facdac/57760942-70f4-400f-b483-6b7201facdac/playlist.m3u8"
       },
       "final": true,
-      "dv": 4
+      "dv": 5
     },
     "760418": {
       "venue": "Gillette Stadium",
@@ -4221,10 +4209,7 @@
       },
       "commentary": [
         {
-          "min": {
-            "value": 0,
-            "displayValue": ""
-          },
+          "min": "",
           "text": "Match ends, Haiti 0, Scotland 1.",
           "goal": false
         },
@@ -4594,7 +4579,7 @@
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0613/dm_260613_COM_SOC_Analysis_Burley_Scotland_will_be_hoping_three_points_is_enough_for_knockouts_20260613_G/dm_260613_COM_SOC_Analysis_Burley_Scotland_will_be_hoping_three_points_is_enough_for_knockouts_20260613_G/playlist.m3u8"
       },
       "final": true,
-      "dv": 4
+      "dv": 5
     },
     "760419": {
       "venue": "MetLife Stadium",
@@ -5121,10 +5106,7 @@
       },
       "commentary": [
         {
-          "min": {
-            "value": 0,
-            "displayValue": ""
-          },
+          "min": "",
           "text": "Match ends, Brazil 1, Morocco 1.",
           "goal": false
         },
@@ -5494,7 +5476,7 @@
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0613/dm_260613_COM_SOC_News_Fans_on_Copacabana_Beach_celebrate_Brazils_equalizer_vs_Morocco_20260613_GLOBAL_F/dm_260613_COM_SOC_News_Fans_on_Copacabana_Beach_celebrate_Brazils_equalizer_vs_Morocco_20260613_GLOBAL_F/playlist.m3u8"
       },
       "final": true,
-      "dv": 4
+      "dv": 5
     },
     "760420": {
       "venue": "Levi's Stadium",
@@ -6034,10 +6016,7 @@
       },
       "commentary": [
         {
-          "min": {
-            "value": 0,
-            "displayValue": ""
-          },
+          "min": "",
           "text": "Match ends, Qatar 1, Switzerland 1.",
           "goal": false
         },
@@ -6407,7 +6386,7 @@
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0613/dm_260613_COM_SOC_Analysis_How_Qatar_earned_their_first_ever_World_Cup_point_20260613_GLOBAL_FIFA_WORLD_C/dm_260613_COM_SOC_Analysis_How_Qatar_earned_their_first_ever_World_Cup_point_20260613_GLOBAL_FIFA_WORLD_C/playlist.m3u8"
       },
       "final": true,
-      "dv": 4
+      "dv": 5
     },
     "760421": {
       "venue": "BC Place",
@@ -6417,23 +6396,23 @@
           "yellowCards": "0",
           "redCards": "0",
           "offsides": "0",
-          "wonCorners": "3",
+          "wonCorners": "4",
           "saves": "3",
-          "possessionPct": "29.7",
+          "possessionPct": "30.9",
           "totalShots": "6",
           "shotsOnTarget": "2",
           "shotPct": "0.3",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "135",
-          "totalPasses": "171",
+          "accuratePasses": "145",
+          "totalPasses": "182",
           "passPct": "0.8",
           "accurateCrosses": "2",
-          "totalCrosses": "7",
+          "totalCrosses": "8",
           "crossPct": "0.3",
-          "totalLongBalls": "35",
-          "accurateLongBalls": "12",
-          "longballPct": "0.3",
+          "totalLongBalls": "37",
+          "accurateLongBalls": "13",
+          "longballPct": "0.4",
           "blockedShots": "1",
           "effectiveTackles": "3",
           "totalTackles": "9",
@@ -6443,20 +6422,20 @@
           "totalClearance": "30"
         },
         "away": {
-          "foulsCommitted": "1",
+          "foulsCommitted": "2",
           "yellowCards": "0",
           "redCards": "0",
           "offsides": "2",
           "wonCorners": "4",
           "saves": "1",
-          "possessionPct": "70.3",
-          "totalShots": "13",
+          "possessionPct": "69.1",
+          "totalShots": "14",
           "shotsOnTarget": "3",
           "shotPct": "0.2",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "377",
-          "totalPasses": "416",
+          "accuratePasses": "378",
+          "totalPasses": "419",
           "passPct": "0.9",
           "accurateCrosses": "1",
           "totalCrosses": "15",
@@ -6464,13 +6443,13 @@
           "totalLongBalls": "23",
           "accurateLongBalls": "15",
           "longballPct": "0.7",
-          "blockedShots": "5",
+          "blockedShots": "6",
           "effectiveTackles": "5",
           "totalTackles": "8",
           "tacklePct": "0.6",
           "interceptions": "1",
-          "effectiveClearance": "17",
-          "totalClearance": "17"
+          "effectiveClearance": "18",
+          "totalClearance": "18"
         }
       },
       "events": [
@@ -6869,8 +6848,28 @@
       },
       "commentary": [
         {
+          "min": "53'",
+          "text": "Corner, Australia. Conceded by Zeki Çelik.",
+          "goal": false
+        },
+        {
+          "min": "53'",
+          "text": "Foul by Hakan Çalhanoglu (Türkiye).",
+          "goal": false
+        },
+        {
+          "min": "53'",
+          "text": "Jordan Bos (Australia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
           "min": "52'",
           "text": "Offside, Türkiye. Kenan Yildiz is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "51'",
+          "text": "Attempt blocked. Kerem Aktürkoglu (Türkiye) right footed shot from outside the box is blocked.",
           "goal": false
         },
         {
@@ -7124,18 +7123,12 @@
           "goal": false
         },
         {
-          "min": {
-            "value": 0,
-            "displayValue": ""
-          },
+          "min": "",
           "text": "First Half begins.",
           "goal": false
         },
         {
-          "min": {
-            "value": 0,
-            "displayValue": ""
-          },
+          "min": "",
           "text": "Lineups are announced and players are warming up.",
           "goal": false
         }
@@ -7162,7 +7155,7 @@
             "name": "C. Burgess",
             "num": "21",
             "pos": "D",
-            "value": "27"
+            "value": "30"
           },
           "away": {
             "name": "A. Bardakçi",
@@ -7204,7 +7197,7 @@
       ],
       "highlight": null,
       "final": false,
-      "dv": 4
+      "dv": 5
     }
   }
 }

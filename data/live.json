@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T05:13:09.859Z",
+  "lastUpdated": "2026-06-14T05:14:49.625Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -89,9 +89,9 @@
       "id": "760421",
       "date": "2026-06-14T04:00Z",
       "venue": "BC Place",
-      "clock": 3180,
-      "displayClock": "53'",
-      "detail": "53'",
+      "clock": 3240,
+      "displayClock": "54'",
+      "detail": "54'",
       "period": 2
     },
     {

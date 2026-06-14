@@ -578,21 +578,30 @@
   // build/scheduler. Mirrors scripts/fetch-scores.mjs exactly. A plain GET to site.api.espn.com
   // sends no custom headers (no CORS preflight); on any failure we throw and fall back to the feed.
   const ESPN_SCOREBOARD = "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates=20260611-20260720";
-  function espnStage(slug) {
-    slug = (slug || "").toLowerCase();
-    if (slug.includes("group")) return "group";
-    if (slug.includes("round-of-16") || slug.includes("round of 16")) return "r16";
-    if (slug.includes("round-of-32") || slug.includes("round of 32")) return "r32";
-    if (slug.includes("quarter")) return "qf";
-    if (slug.includes("semi")) return "sf";
-    if (slug.includes("third")) return "third";
-    if (slug.includes("final")) return "final";
+  // round detection from any ESPN text — specific rounds before "final" so knockout scoring stays correct
+  function espnStage(ev, comp) {
+    const s = [(ev.season && ev.season.slug) || "", ev.name || "", ev.shortName || "",
+      ((comp && comp.notes) || []).map((n) => n.headline || n.text || "").join(" "),
+      (comp && comp.type && (comp.type.text || comp.type.abbreviation)) || ""].join(" ").toLowerCase();
+    if (/round of 32|round-of-32|\bro32\b/.test(s)) return "r32";
+    if (/round of 16|round-of-16|\bro16\b/.test(s)) return "r16";
+    if (/quarter/.test(s)) return "qf";
+    if (/semi/.test(s)) return "sf";
+    if (/third place|3rd place/.test(s)) return "third";
+    if (/\bfinal\b/.test(s)) return "final";
     return "group";
   }
+  // fetch JSON with an abort timeout so a stalled request can never freeze the refresh loop
+  async function fetchJSON(url, timeout) {
+    const ctrl = new AbortController(), t = setTimeout(() => ctrl.abort(), timeout || 9000);
+    try {
+      const r = await fetch(url, { cache: "no-store", signal: ctrl.signal });
+      if (!r.ok) throw new Error("HTTP " + r.status);
+      return await r.json();
+    } finally { clearTimeout(t); }
+  }
   async function fetchEspnScoreboard() {
-    const res = await fetch(ESPN_SCOREBOARD + "&t=" + Date.now(), { cache: "no-store" });
-    if (!res.ok) throw new Error("espn HTTP " + res.status);
-    const data = await res.json();
+    const data = await fetchJSON(ESPN_SCOREBOARD + "&t=" + Date.now(), 9000);
     const events = data.events || [];
     if (!events.length) throw new Error("espn: no events");
     const seen = new Set(), matches = [];
@@ -607,7 +616,7 @@
       const status = st === "post" ? "finished" : st === "in" ? "live" : "scheduled";
       const cstat = comp.status || ev.status || {};
       const m = {
-        stage: espnStage(ev.season && ev.season.slug),
+        stage: espnStage(ev, comp),
         home: canon((h.team && h.team.displayName) || ""),
         away: canon((a.team && a.team.displayName) || ""),
         homeScore: parseInt(h.score, 10) || 0,
@@ -700,18 +709,14 @@
   // News: same-origin data/news.json (refreshed server-side every cycle), cache-busted
   async function fetchNews() {
     try {
-      const r = await fetch("data/news.json?t=" + Date.now(), { cache: "no-store" });
-      if (!r.ok) return;
-      const d = await r.json();
+      const d = await fetchJSON("data/news.json?t=" + Date.now(), 8000);
       if (Array.isArray(d.articles)) { state.news = d.articles; state.newsUpdated = d.lastUpdated; }
     } catch (e) { /* keep last-known headlines */ }
   }
   // Per-match detail (events/stats/lineups), prefetched server-side -> same-origin
   async function fetchDetails() {
     try {
-      const r = await fetch("data/details.json?t=" + Date.now(), { cache: "no-store" });
-      if (!r.ok) return;
-      const d = await r.json();
+      const d = await fetchJSON("data/details.json?t=" + Date.now(), 8000);
       if (d.games) state.details = d.games;
     } catch (e) { /* keep last-known details */ }
   }
@@ -1078,6 +1083,10 @@
       const mg = e.target.closest("[data-mgr]");
       if (mg) { openManagerModal(mg.dataset.mgr); return; }
     });
+    // when the tab is re-focused (phone unlocked, app reopened), refresh immediately — no stale wait
+    document.addEventListener("visibilitychange", () => { if (!document.hidden) refreshCycle(); });
+    window.addEventListener("online", () => refreshCycle());
+    window.addEventListener("focus", () => { if (scoreCd > 3) refreshCycle(); });
     refreshCycle();
     setInterval(tick, 1000);
   }

@@ -52,17 +52,22 @@ function* dateRange(startStr, endDate) {
   const d = new Date(startStr + "T00:00:00Z");
   while (d <= endDate) { yield ymd(d); d.setUTCDate(d.getUTCDate() + 1); }
 }
-const stageOf = (slug = "") => {
-  slug = slug.toLowerCase();
-  if (slug.includes("group")) return "group";
-  if (slug.includes("round-of-32") || slug.includes("round of 32")) return "r32";
-  if (slug.includes("round-of-16") || slug.includes("round of 16")) return "r16";
-  if (slug.includes("quarter")) return "qf";
-  if (slug.includes("semi")) return "sf";
-  if (slug.includes("third")) return "third";
-  if (slug.includes("final")) return "final";
+// Round detection from any ESPN text (slug / event name / notes). Check specific rounds before
+// "final" so semifinal/quarterfinal aren't misread, so knockout scoring stays correct all tournament.
+const stageOf = (s = "") => {
+  s = String(s).toLowerCase();
+  if (/round of 32|round-of-32|\bro32\b/.test(s)) return "r32";
+  if (/round of 16|round-of-16|\bro16\b/.test(s)) return "r16";
+  if (/quarter/.test(s)) return "qf";
+  if (/semi/.test(s)) return "sf";
+  if (/third place|3rd place/.test(s)) return "third";
+  if (/\bfinal\b/.test(s)) return "final";
   return "group";
 };
+// pull every text field ESPN might carry the round in, for stageOf()
+const stageText = (ev, comp) => [(ev.season && ev.season.slug) || "", ev.name || "", ev.shortName || "",
+  ((comp && comp.notes) || []).map((n) => n.headline || n.text || "").join(" "),
+  (comp && comp.type && (comp.type.text || comp.type.abbreviation)) || ""].join(" ");
 const statusOf = (state) => state === "post" ? "finished" : state === "in" ? "live" : "scheduled";
 
 /* --- fetch + aggregate ----------------------------------------------------- */
@@ -102,7 +107,7 @@ for (const ev of events) {
     const status = statusOf(ev.status && ev.status.type && ev.status.type.state);
     const cstat = comp.status || ev.status || {};
     const rec = {
-      stage: stageOf(ev.season && ev.season.slug),
+      stage: stageOf(stageText(ev, comp)),
       home: hName,
       away: aName,
       homeScore: parseInt(home.score, 10) || 0,

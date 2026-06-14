@@ -185,14 +185,45 @@ async function fetchDetail(id, home, away) {
     side: sideOf[e.team && e.team.id] || null,
     player: scorerOf(e)
   }));
-  const lineups = {};
+  const lineups = {}, subs = {}, formation = {};
   (d.rosters || []).forEach((r) => {
     if (!r.homeAway) return;
-    const starters = (r.roster || []).filter((p) => p.starter);
-    lineups[r.homeAway] = (starters.length ? starters : (r.roster || []).slice(0, 11)).map((p) => ({
-      name: (p.athlete && p.athlete.displayName) || "", pos: (p.position && p.position.abbreviation) || ""
-    })).filter((p) => p.name);
+    formation[r.homeAway] = (r.formation && (r.formation.name || r.formation)) || "";
+    const all = r.roster || [];
+    const map = (p) => ({
+      name: (p.athlete && p.athlete.displayName) || "",
+      short: (p.athlete && (p.athlete.shortName || p.athlete.lastName)) || "",
+      num: p.jersey || (p.athlete && p.athlete.jersey) || "",
+      pos: (p.position && p.position.abbreviation) || "",
+      place: (typeof p.formationPlace !== "undefined" ? p.formationPlace : null)
+    });
+    const starters = all.filter((p) => p.starter);
+    lineups[r.homeAway] = (starters.length ? starters : all.slice(0, 11)).map(map).filter((p) => p.name);
+    subs[r.homeAway] = all.filter((p) => !p.starter).map(map).filter((p) => p.name);
   });
+  // play-by-play commentary (most recent first, capped)
+  const commentary = (d.commentary || []).map((c) => ({
+    min: (c.time && (c.time.displayValue || c.time)) || "",
+    text: (c.text || "").trim(),
+    goal: !!(c.play && (c.play.scoringPlay || /goal/i.test((c.play.type && c.play.type.text) || "")))
+  })).filter((c) => c.text).reverse().slice(0, 60);
+  // per-player match leaders (Total Shots, Accurate Passes, Defensive Interventions, Saves, …)
+  const byCat = {};
+  (d.leaders || []).forEach((tl) => {
+    const side = sideOf[tl.team && tl.team.id] || null; if (!side) return;
+    (tl.leaders || []).forEach((cat) => {
+      const label = cat.displayName || cat.shortDisplayName || cat.name || ""; if (!label) return;
+      const top = (cat.leaders || [])[0]; if (!top) return;
+      byCat[label] = byCat[label] || { label };
+      byCat[label][side] = {
+        name: (top.athlete && (top.athlete.shortName || top.athlete.displayName)) || "",
+        num: (top.athlete && top.athlete.jersey) || "",
+        pos: (top.athlete && top.athlete.position && top.athlete.position.abbreviation) || "",
+        value: top.displayValue || ""
+      };
+    });
+  });
+  const leaders = Object.values(byCat).filter((c) => c.home || c.away);
   // grab the match highlight video — capture a directly-playable source (mp4 preferred, else HLS)
   // so the page can embed and play the actual goals inline (a <video> plays cross-origin without CORS).
   // ESPN lists pressers/interviews alongside the goals reel, so rank for actual goal/highlight footage.
@@ -229,9 +260,10 @@ async function fetchDetail(id, home, away) {
       headline: v0.headline || "", mp4, hls
     };
   }
-  return { venue: (d.gameInfo && d.gameInfo.venue && d.gameInfo.venue.fullName) || "", stats, events, lineups, highlight };
+  return { venue: (d.gameInfo && d.gameInfo.venue && d.gameInfo.venue.fullName) || "",
+    stats, events, lineups, subs, formation, commentary, leaders, highlight };
 }
-const DETAIL_VERSION = 3;   // bump when fetchDetail's shape changes → forces a one-time re-fetch of cached finals
+const DETAIL_VERSION = 4;   // bump when fetchDetail's shape changes → forces a one-time re-fetch of cached finals
 let details = {};
 try { details = (JSON.parse(readFileSync("data/details.json", "utf8")).games) || {}; } catch (e) { details = {}; }
 let dGot = 0;

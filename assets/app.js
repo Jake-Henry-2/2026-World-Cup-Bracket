@@ -992,7 +992,7 @@
       : "";
     const body = g.status === "scheduled"
       ? `<div class="md-empty">Kicks off ${g.date ? new Date(g.date).toLocaleString() : "soon"}.</div>`
-      : det ? matchDetailHtml(det)
+      : det ? matchDetailHtml(det, g)
       : `<div class="md-empty">Detailed data lands within ~5 minutes of kickoff — check back shortly, or open the full match on ESPN below.</div>`;
     showModal(`${matchHeaderHtml(g)}${motmHtml}<div id="md-body">${body}</div>
       <div class="md-foot">
@@ -1001,22 +1001,62 @@
         <a href="${link}" target="_blank" rel="noopener" class="foot-link">Full match on ESPN ↗</a>
       </div>`);
   }
-  function matchDetailHtml(det) {
+  function matchDetailHtml(det, g) {
+    const home = (g && g.home) || "Home", away = (g && g.away) || "Away";
     const icon = (k) => /red card/i.test(k) ? "🟥" : /yellow/i.test(k) ? "🟨" : /goal/i.test(k) ? "⚽" : /sub/i.test(k) ? "🔁" : "•";
-    const evs = (det.events || []).map((e) => `<div class="md-ev md-ev-${e.side || "n"}"><span class="md-ev-min">${esc(e.min || "")}</span><span class="md-ev-ic">${icon(e.kind || "")}</span><span class="md-ev-tx">${esc(e.player || e.kind || "")}</span></div>`).join("");
+    const minNum = (m) => { const mm = String(m || "").match(/(\d+)/); return mm ? Math.min(120, parseInt(mm[1], 10)) : 0; };
+    const evList = det.events || [];
+
+    // ---- timeline strip: KO → HT → FT with event markers ----
+    const timeline = evList.length ? `<div class="md-section">Match timeline</div>
+      <div class="md-timeline"><div class="md-tl-line"></div>
+        <span class="md-tl-cap" style="left:0">KO</span><span class="md-tl-cap" style="left:50%">HT</span><span class="md-tl-cap" style="left:100%">FT</span>
+        ${evList.map((e) => `<span class="md-tl-ev md-tl-${e.side || "n"}" style="left:${Math.max(1, Math.min(99, minNum(e.min) / 90 * 100))}%" title="${esc(e.min)} ${esc(e.player || e.kind)}">${icon(e.kind)}</span>`).join("")}
+      </div>` : "";
+
+    // ---- key events ----
+    const evs = evList.map((e) => `<div class="md-ev md-ev-${e.side || "n"}"><span class="md-ev-min">${esc(e.min || "")}</span><span class="md-ev-ic">${icon(e.kind || "")}</span><span class="md-ev-tx">${esc(e.player || e.kind || "")}</span></div>`).join("");
+    const eventsSec = evs ? `<div class="md-section">Key events</div><div class="md-events">${evs}</div>` : "";
+
+    // ---- per-player match leaders ----
+    const L = det.leaders || [];
+    const ldCell = (p) => (p && p.name) ? `<b>${esc(p.value)}</b> <span>${esc(p.name)}${p.num ? ` <i>#${esc(String(p.num))}</i>` : ""}</span>` : `<span class="md-ld-none">—</span>`;
+    const leaders = L.length ? `<div class="md-section">Match leaders</div><div class="md-leaders">${L.map((c) => `<div class="md-ld"><div class="md-ld-p">${ldCell(c.home)}</div><div class="md-ld-cat">${esc(c.label)}</div><div class="md-ld-p md-ld-a">${ldCell(c.away)}</div></div>`).join("")}</div>` : "";
+
+    // ---- team stats (expanded) ----
     const S = det.stats || {};
-    const statRow = (label, key, suf) => {
-      if (!(S.home && S.home[key] != null) && !(S.away && S.away[key] != null)) return "";
+    const statRow = (label, keys, suf) => {
+      const key = (Array.isArray(keys) ? keys : [keys]).find((k) => (S.home && S.home[k] != null) || (S.away && S.away[k] != null));
+      if (!key) return "";
       const h = (S.home && S.home[key]) || "0", a = (S.away && S.away[key]) || "0";
       const hv = parseFloat(h) || 0, av = parseFloat(a) || 0, tot = hv + av || 1;
       return `<div class="md-stat"><span>${esc(h)}${suf || ""}</span><div class="md-bar"><i style="width:${(hv / tot * 100).toFixed(0)}%"></i></div><b>${label}</b><div class="md-bar md-bar-a"><i style="width:${(av / tot * 100).toFixed(0)}%"></i></div><span>${esc(a)}${suf || ""}</span></div>`;
     };
-    const stats = (S.home || S.away) ? `<div class="md-section">Match stats</div>${statRow("Possession", "possessionPct", "%")}${statRow("Shots", "totalShots")}${statRow("On target", "shotsOnTarget")}${statRow("Corners", "wonCorners")}${statRow("Fouls", "foulsCommitted")}${statRow("Offsides", "offsides")}${statRow("Yellow", "yellowCards")}${statRow("Saves", "saves")}` : "";
-    const LU = det.lineups || {};
-    const col = (arr) => (arr || []).map((p) => `<div class="md-pl"><span class="md-pos">${esc(p.pos || "")}</span>${esc(p.name)}</div>`).join("");
-    const lineups = (LU.home && LU.home.length) || (LU.away && LU.away.length)
-      ? `<div class="md-section">Lineups</div><div class="md-lineups"><div>${col(LU.home)}</div><div class="md-lu-a">${col(LU.away)}</div></div>` : "";
-    return (evs ? `<div class="md-section">Key events</div><div class="md-events">${evs}</div>` : "") + stats + lineups
+    const stats = (S.home || S.away) ? `<div class="md-section">Team stats</div>
+      ${statRow("Expected goals (xG)", ["expectedGoals", "xGoals", "xg"])}${statRow("Possession", "possessionPct", "%")}${statRow("Shots", "totalShots")}${statRow("On target", "shotsOnTarget")}${statRow("Big chances", ["bigChanceCreated", "bigChancesCreated"])}${statRow("Accurate passes", "accuratePasses")}${statRow("Duels won", ["duelsWon", "wonDuels"])}${statRow("Corners", "wonCorners")}${statRow("Fouls", "foulsCommitted")}${statRow("Offsides", "offsides")}${statRow("Saves", "saves")}${statRow("Yellow cards", "yellowCards")}` : "";
+
+    // ---- formations + pitch ----
+    const LU = det.lineups || {}, F = det.formation || {};
+    const scorers = {}; evList.filter((e) => /goal/i.test(e.kind || "") && !/own/i.test(e.kind || "")).forEach((e) => { if (e.player) scorers[e.player] = (scorers[e.player] || 0) + 1; });
+    const lineOf = (pos) => { const p = (pos || "").toUpperCase(); if (/^G/.test(p)) return "G"; if (/^(D|CB|LB|RB|LWB|RWB|SW)/.test(p)) return "D"; if (/^(F|ST|CF|LW|RW|SS|W)/.test(p)) return "F"; return "M"; };
+    const pitch = (side) => {
+      const arr = LU[side] || []; if (!arr.length) return "";
+      const grp = { F: [], M: [], D: [], G: [] };
+      arr.forEach((p) => grp[lineOf(p.pos)].push(p));
+      const jersey = (p) => `<div class="md-jersey" title="${esc(p.name)}"><span class="md-jn">${esc(String(p.num || ""))}</span>${scorers[p.name] ? `<span class="md-jg">⚽${scorers[p.name] > 1 ? scorers[p.name] : ""}</span>` : ""}<span class="md-jname">${esc(p.short || p.name)}</span></div>`;
+      return `<div class="md-pitch">${["F", "M", "D", "G"].map((k) => grp[k].length ? `<div class="md-prow">${grp[k].map(jersey).join("")}</div>` : "").join("")}</div>`;
+    };
+    const formations = ((LU.home && LU.home.length) || (LU.away && LU.away.length)) ? `<div class="md-section">Formations &amp; lineups</div>
+      <div class="md-pitches">
+        <div class="md-pitchwrap"><div class="md-form-h">${esc(home)} ${F.home ? `<span class="md-form-tag">${esc(F.home)}</span>` : ""}</div>${pitch("home")}</div>
+        <div class="md-pitchwrap"><div class="md-form-h">${esc(away)} ${F.away ? `<span class="md-form-tag">${esc(F.away)}</span>` : ""}</div>${pitch("away")}</div>
+      </div>` : "";
+
+    // ---- commentary feed ----
+    const C = det.commentary || [];
+    const commentary = C.length ? `<div class="md-section">Commentary</div><div class="md-comm">${C.map((c) => `<div class="md-cm${c.goal ? " md-cm-goal" : ""}"><span class="md-cm-min">${esc(c.min || "")}</span><span class="md-cm-tx">${c.goal ? "⚽ " : ""}${esc(c.text)}</span></div>`).join("")}</div>` : "";
+
+    return (timeline + eventsSec + leaders + stats + formations + commentary)
       || `<div class="md-empty">No detailed data published for this match yet.</div>`;
   }
   function openManagerModal(name) {

@@ -11,6 +11,9 @@ window.LEAGUE = {
   // Money pots, from your sheet (Buy In $25/manager x 10 = $250 main pot)
   pots: { buyIn: 25, main: 250, sidePool: 50 },
 
+  // PRESEASON RANK (1-10) from your sheet — FIFA-strength of each 4-team roster.
+  preseasonRank: { Andy: 1, Trea: 2, Jack: 3, Mitch: 4, Dom: 5, Hafid: 6, Ant: 7, Francis: 8, Paul: 9, Benny: 10 },
+
   /* -------------------------------------------------------------------------
      MANAGERS — each drafted 4 national teams (snake draft, rounds 1–4).
      Each manager gets a UNIQUE emoji. Whoever is in 1st also gets a 👑 crown

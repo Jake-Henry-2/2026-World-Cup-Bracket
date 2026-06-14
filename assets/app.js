@@ -353,6 +353,54 @@
       <div class="lg-list">${done}</div>`;
   }
 
+  // Manager's Clubs — each manager's 4 drafted teams with live points (mirrors the sheet block)
+  function renderClubs(computed) {
+    const box = $("#clubs"); if (!box) return;
+    box.innerHTML = L.managers.map((m) => {
+      const teams = m.teams.map((t) => {
+        const ct = canon(t), ts = computed.team[ct];
+        const tag = ts.groupBonus === SG.groupWinner ? '<span class="tg win">GW</span>'
+          : ts.groupBonus === SG.groupRunnerUp ? '<span class="tg ru">RU</span>' : "";
+        return `<div class="club-team"><span>${esc(ct)}</span><span class="club-pts">${ts.fpts}${tag}</span></div>`;
+      }).join("");
+      const total = m.teams.reduce((s, t) => s + computed.team[canon(t)].fpts, 0);
+      return `<div class="club"><div class="club-h">${m.emoji} <b>${esc(m.name)}</b>
+        <span class="club-total">${total}</span></div>${teams}</div>`;
+    }).join("");
+  }
+
+  // Preseason rank (from the sheet) vs current live rank, with movement since preseason
+  function renderPreseason(computed) {
+    const box = $("#preseason"); if (!box) return;
+    const pr = L.preseasonRank || {};
+    const liveRank = Object.fromEntries(computed.managers.map((m) => [m.name, m.rank]));
+    const rows = Object.entries(pr).sort((a, b) => a[1] - b[1]).map(([name, rank]) => {
+      const lr = liveRank[name] || "—", d = (typeof lr === "number") ? rank - lr : 0;
+      const mv = d > 0 ? `<span class="mv up">▲ ${d}</span>` : d < 0 ? `<span class="mv down">▼ ${-d}</span>` : `<span class="mv flat">—</span>`;
+      const m = MANAGER[name];
+      return `<tr><td class="g-pos">${rank}</td><td class="ps-name">${m ? m.emoji : ""} ${esc(name)}</td>
+        <td class="g-n">#${lr}</td><td class="ps-mv">${mv}</td></tr>`;
+    }).join("");
+    box.innerHTML = `<div class="panel-h">📊 Preseason Rank <span class="dim">vs live</span></div>
+      <table class="ps-t"><thead><tr><th>Pre</th><th>Manager</th><th>Now</th><th>±</th></tr></thead><tbody>${rows}</tbody></table>`;
+  }
+
+  // Scoring rules reference (static, from the sheet)
+  function renderRules() {
+    const box = $("#rules"); if (!box) return;
+    const g = L.scoring.group, k = L.scoring.knockout;
+    const r = (label, val, plus) => `<div class="rule"><span>${label}</span><b>${plus ? "+" : ""}${val}</b></div>`;
+    box.innerHTML = `<div class="panel-h">📏 Scoring Rules</div>
+      <div class="rules-wrap">
+        <div class="rules-col"><div class="rules-h">Group Stage</div>
+          ${r("Win", g.win)}${r("Draw", g.draw)}${r("Goal (each)", g.goalEach)}${r("Shutout", g.shutout)}
+          ${r("Wins group", g.groupWinner, true)}${r("Group runner-up", g.groupRunnerUp, true)}</div>
+        <div class="rules-col"><div class="rules-h">Round of 32 → Final</div>
+          ${r("Goal (each)", k.goalEach)}${r("Shutout", k.shutout)}${r("Reach R16", k.r16, true)}
+          ${r("Quarterfinal", k.qf, true)}${r("Semifinal", k.sf, true)}${r("Final", k.final, true)}${r("Champion", k.champion, true)}</div>
+      </div>`;
+  }
+
   /* ---------- full board render -------------------------------------------- */
   function renderBoard(advanceBaseline) {
     const computed = computeState();
@@ -366,6 +414,9 @@
     renderSidePool(computed);
     renderPots(computed);
     renderGames(computed);
+    renderClubs(computed);
+    renderPreseason(computed);
+    renderRules();
 
     const lu = state.lastFetch || state.results.lastUpdated;
     $("#last-updated").textContent = lu ? new Date(lu).toLocaleString() : "—";

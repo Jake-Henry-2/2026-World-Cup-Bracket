@@ -145,6 +145,30 @@ h1{font-size:20px;margin:0;letter-spacing:.3px}
 .grp-t .g-fpts{text-align:center;font-weight:800;color:var(--blue)}
 .grp-t tr.qual td{background:rgba(43,213,118,.05)}
 
+/* ---------------- manager's clubs grid ---------------- */
+.clubs-panel{margin:18px 22px 0}
+.clubs{display:grid;grid-template-columns:repeat(auto-fill,minmax(168px,1fr));gap:12px;padding:14px}
+.club{background:rgba(255,255,255,.02);border:1px solid var(--line);border-radius:10px;overflow:hidden}
+.club-h{display:flex;align-items:center;gap:6px;padding:8px 10px;background:rgba(255,255,255,.03);font-size:14px}
+.club-h b{font-weight:800}
+.club-total{margin-left:auto;font-weight:900;color:var(--gold);font-variant-numeric:tabular-nums}
+.club-team{display:flex;justify-content:space-between;align-items:center;gap:6px;padding:5px 10px;border-top:1px solid var(--line);font-size:12.5px}
+.club-pts{font-weight:800;color:var(--blue);display:inline-flex;align-items:center;gap:4px}
+
+/* ---------------- preseason + rules row ---------------- */
+.extra-grid{display:grid;grid-template-columns:1fr 1fr;gap:18px;margin:18px 22px 0}
+.ps-t{width:100%;border-collapse:collapse;font-size:13px}
+.ps-t th{color:var(--dim);font-size:10px;text-transform:uppercase;padding:6px 12px;text-align:left}
+.ps-t td{padding:6px 12px;border-top:1px solid var(--line)}
+.ps-t .g-pos{text-align:center;width:34px;font-weight:800;color:var(--dim)}
+.ps-name{font-weight:600}
+.ps-t .g-n{color:var(--dim);font-variant-numeric:tabular-nums}
+.ps-mv{width:48px}
+.rules-wrap{display:grid;grid-template-columns:1fr 1fr;gap:14px;padding:14px}
+.rules-h{font-weight:800;font-size:12px;text-transform:uppercase;letter-spacing:.5px;color:var(--gold);margin-bottom:8px}
+.rule{display:flex;justify-content:space-between;border-top:1px solid var(--line);padding:5px 2px;font-size:13px}
+.rule b{color:var(--blue);font-weight:800}
+
 /* ---------------- footer ---------------- */
 .foot{text-align:center;color:var(--dim);font-size:12px;padding:22px}
 
@@ -176,5 +200,5 @@ h1{font-size:20px;margin:0;letter-spacing:.3px}
 .modal-foot .grow{flex:1}
 
 /* ---------------- responsive ---------------- */
-@media(max-width:920px){.layout{grid-template-columns:1fr}.pot-grid{grid-template-columns:1fr 1fr}}
+@media(max-width:920px){.layout{grid-template-columns:1fr}.pot-grid{grid-template-columns:1fr 1fr}.extra-grid{grid-template-columns:1fr}}
 @media(max-width:560px){.status{gap:12px}.lb-total-pts{font-size:22px}}

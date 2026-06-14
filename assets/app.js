@@ -1054,7 +1054,8 @@
 
     // ---- commentary feed ----
     const C = det.commentary || [];
-    const commentary = C.length ? `<div class="md-section">Commentary</div><div class="md-comm">${C.map((c) => `<div class="md-cm${c.goal ? " md-cm-goal" : ""}"><span class="md-cm-min">${esc(c.min || "")}</span><span class="md-cm-tx">${c.goal ? "⚽ " : ""}${esc(c.text)}</span></div>`).join("")}</div>` : "";
+    const cmin = (m) => (m && typeof m === "object") ? (m.displayValue || "") : (m || "");
+    const commentary = C.length ? `<div class="md-section">Commentary</div><div class="md-comm">${C.map((c) => `<div class="md-cm${c.goal ? " md-cm-goal" : ""}"><span class="md-cm-min">${esc(cmin(c.min))}</span><span class="md-cm-tx">${c.goal ? "⚽ " : ""}${esc(c.text)}</span></div>`).join("")}</div>` : "";
 
     return (timeline + eventsSec + leaders + stats + formations + commentary)
       || `<div class="md-empty">No detailed data published for this match yet.</div>`;

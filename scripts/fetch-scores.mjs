@@ -203,7 +203,7 @@ async function fetchDetail(id, home, away) {
   });
   // play-by-play commentary (most recent first, capped)
   const commentary = (d.commentary || []).map((c) => ({
-    min: (c.time && (c.time.displayValue || c.time)) || "",
+    min: (c.time && typeof c.time === "object" ? c.time.displayValue : c.time) || "",
     text: (c.text || "").trim(),
     goal: !!(c.play && (c.play.scoringPlay || /goal/i.test((c.play.type && c.play.type.text) || "")))
   })).filter((c) => c.text).reverse().slice(0, 60);
@@ -263,7 +263,7 @@ async function fetchDetail(id, home, away) {
   return { venue: (d.gameInfo && d.gameInfo.venue && d.gameInfo.venue.fullName) || "",
     stats, events, lineups, subs, formation, commentary, leaders, highlight };
 }
-const DETAIL_VERSION = 4;   // bump when fetchDetail's shape changes → forces a one-time re-fetch of cached finals
+const DETAIL_VERSION = 5;   // bump when fetchDetail's shape changes → forces a one-time re-fetch of cached finals
 let details = {};
 try { details = (JSON.parse(readFileSync("data/details.json", "utf8")).games) || {}; } catch (e) { details = {}; }
 let dGot = 0;

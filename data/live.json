@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T21:50:05.972Z",
+  "lastUpdated": "2026-06-14T22:56:32.951Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -107,14 +107,10 @@
       "away": "Japan",
       "homeScore": 2,
       "awayScore": 2,
-      "status": "live",
+      "status": "finished",
       "id": "760425",
       "date": "2026-06-14T20:00Z",
-      "venue": "AT&T Stadium",
-      "clock": 5400,
-      "displayClock": "90'+1'",
-      "detail": "90'+1'",
-      "period": 2
+      "venue": "AT&T Stadium"
     },
     {
       "stage": "group",

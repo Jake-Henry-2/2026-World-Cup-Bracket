@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T21:50:06.051Z",
+  "lastUpdated": "2026-06-14T22:56:33.085Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -8200,30 +8200,30 @@
       "venue": "AT&T Stadium",
       "stats": {
         "home": {
-          "foulsCommitted": "6",
-          "yellowCards": "2",
+          "foulsCommitted": "7",
+          "yellowCards": "3",
           "redCards": "0",
           "offsides": "1",
           "wonCorners": "5",
           "saves": "1",
-          "possessionPct": "59.7",
-          "totalShots": "9",
+          "possessionPct": "59.8",
+          "totalShots": "10",
           "shotsOnTarget": "6",
-          "shotPct": "0.7",
+          "shotPct": "0.6",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "423",
-          "totalPasses": "478",
+          "accuratePasses": "464",
+          "totalPasses": "525",
           "passPct": "0.9",
-          "accurateCrosses": "6",
-          "totalCrosses": "18",
-          "crossPct": "0.3",
-          "totalLongBalls": "32",
-          "accurateLongBalls": "14",
-          "longballPct": "0.4",
+          "accurateCrosses": "8",
+          "totalCrosses": "21",
+          "crossPct": "0.4",
+          "totalLongBalls": "36",
+          "accurateLongBalls": "17",
+          "longballPct": "0.5",
           "blockedShots": "1",
           "effectiveTackles": "5",
-          "totalTackles": "10",
+          "totalTackles": "11",
           "tacklePct": "0.5",
           "interceptions": "7",
           "effectiveClearance": "22",
@@ -8236,28 +8236,28 @@
           "offsides": "0",
           "wonCorners": "4",
           "saves": "4",
-          "possessionPct": "40.3",
+          "possessionPct": "40.2",
           "totalShots": "10",
           "shotsOnTarget": "3",
           "shotPct": "0.3",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "260",
-          "totalPasses": "309",
+          "accuratePasses": "287",
+          "totalPasses": "342",
           "passPct": "0.8",
           "accurateCrosses": "6",
           "totalCrosses": "23",
           "crossPct": "0.3",
-          "totalLongBalls": "32",
-          "accurateLongBalls": "13",
+          "totalLongBalls": "38",
+          "accurateLongBalls": "14",
           "longballPct": "0.4",
           "blockedShots": "1",
-          "effectiveTackles": "8",
-          "totalTackles": "9",
+          "effectiveTackles": "10",
+          "totalTackles": "11",
           "tacklePct": "0.9",
           "interceptions": "4",
-          "effectiveClearance": "28",
-          "totalClearance": "28"
+          "effectiveClearance": "33",
+          "totalClearance": "33"
         }
       },
       "events": [
@@ -8746,13 +8746,58 @@
       },
       "commentary": [
         {
+          "min": "",
+          "text": "Match ends, Netherlands 2, Japan 2.",
+          "goal": false
+        },
+        {
+          "min": "90'+7'",
+          "text": "Second Half ends, Netherlands 2, Japan 2.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Attempt missed. Teun Koopmeiners (Netherlands) header from the left side of the six yard box is high and wide to the left. Assisted by Denzel Dumfries with a cross.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Micky van de Ven (Netherlands) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Junya Ito (Japan) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Foul by Micky van de Ven (Netherlands).",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Fourth official has announced 6 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Delay in match (Netherlands).",
+          "goal": false
+        },
+        {
           "min": "88'",
           "text": "Goal! Netherlands 2, Japan 2. Daichi Kamada (Japan) header from the centre of the box to the top right corner. Assisted by Koki Ogawa following a corner.",
           "goal": true
         },
         {
           "min": "88'",
-          "text": "Attempt blocked. Koki Ogawa (Japan) header from the centre of the box is blocked.",
+          "text": "Attempt blocked. Koki Ogawa (Japan) header from the centre of the box is blocked. Assisted by Junya Ito with a cross.",
           "goal": false
         },
         {
@@ -8999,59 +9044,14 @@
           "min": "45'+2'",
           "text": "Corner, Netherlands. Conceded by Keito Nakamura.",
           "goal": false
-        },
-        {
-          "min": "45'+1'",
-          "text": "Foul by Hiroki Ito (Japan).",
-          "goal": false
-        },
-        {
-          "min": "45'+1'",
-          "text": "Crysencio Summerville (Netherlands) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Fourth official has announced 3 minutes of added time.",
-          "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Attempt missed. Ayase Ueda (Japan) right footed shot from the right side of the box is close, but misses to the right. Assisted by Daichi Kamada with a through ball.",
-          "goal": false
-        },
-        {
-          "min": "44'",
-          "text": "Foul by Frenkie de Jong (Netherlands).",
-          "goal": false
-        },
-        {
-          "min": "44'",
-          "text": "Takefusa Kubo (Japan) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "43'",
-          "text": "Attempt missed. Keito Nakamura (Japan) right footed shot from the left side of the box is close, but misses to the left. Assisted by Tsuyoshi Watanabe with a cross.",
-          "goal": false
-        },
-        {
-          "min": "36'",
-          "text": "Attempt missed. Cody Gakpo (Netherlands) right footed shot from the centre of the box is high and wide to the right. Assisted by Denzel Dumfries following a set piece situation.",
-          "goal": false
-        },
-        {
-          "min": "35'",
-          "text": "Handball by Keito Nakamura (Japan).",
-          "goal": false
         }
       ],
       "leaders": [
         {
           "label": "Total Shots",
           "home": {
-            "name": "D. Malen",
-            "num": "18",
+            "name": "C. Gakpo",
+            "num": "11",
             "pos": "F",
             "value": "2"
           },
@@ -9068,13 +9068,13 @@
             "name": "V. van Dijk",
             "num": "4",
             "pos": "D",
-            "value": "86"
+            "value": "96"
           },
           "away": {
-            "name": "S. Taniguchi",
-            "num": "3",
-            "pos": "D",
-            "value": "45"
+            "name": "D. Kamada",
+            "num": "15",
+            "pos": "M",
+            "value": "49"
           }
         },
         {
@@ -9108,8 +9108,14 @@
           }
         }
       ],
-      "highlight": null,
-      "final": false,
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0614/dm_260614_COM_SOC_Analysis_Will_Japan_go_further_than_the_Netherlands_at_the_World_Cup_20260614_GLOBAL_FI/dm_260614_COM_SOC_Analysis_Will_Japan_go_further_than_the_Netherlands_at_the_World_Cup_20260614_GLOBAL_FI.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49065076/will-japan-go-further-netherlands-world-cup",
+        "headline": "Will Japan go further than the Netherlands at the World Cup?",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0614/dm_260614_COM_SOC_Analysis_Will_Japan_go_further_than_the_Netherlands_at_the_World_Cup_20260614_GLOBAL_FI/dm_260614_COM_SOC_Analysis_Will_Japan_go_further_than_the_Netherlands_at_the_World_Cup_20260614_GLOBAL_FI_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0614/dm_260614_COM_SOC_Analysis_Will_Japan_go_further_than_the_Netherlands_at_the_World_Cup_20260614_GLOBAL_FI/dm_260614_COM_SOC_Analysis_Will_Japan_go_further_than_the_Netherlands_at_the_World_Cup_20260614_GLOBAL_FI/playlist.m3u8"
+      },
+      "final": true,
       "dv": 5
     }
   }

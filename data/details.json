@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15T16:31:16.561Z",
+  "lastUpdated": "2026-06-15T20:05:47.943Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -10944,68 +10944,878 @@
       "final": true,
       "dv": 5
     },
+    "760426": {
+      "venue": "Lumen Field",
+      "stats": {
+        "home": {
+          "foulsCommitted": "10",
+          "yellowCards": "1",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "1",
+          "saves": "2",
+          "possessionPct": "58",
+          "totalShots": "7",
+          "shotsOnTarget": "0",
+          "shotPct": "0.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "224",
+          "totalPasses": "262",
+          "passPct": "0.9",
+          "accurateCrosses": "3",
+          "totalCrosses": "8",
+          "crossPct": "0.4",
+          "totalLongBalls": "16",
+          "accurateLongBalls": "9",
+          "longballPct": "0.6",
+          "blockedShots": "4",
+          "effectiveTackles": "5",
+          "totalTackles": "8",
+          "tacklePct": "0.6",
+          "interceptions": "4",
+          "effectiveClearance": "8",
+          "totalClearance": "8"
+        },
+        "away": {
+          "foulsCommitted": "6",
+          "yellowCards": "2",
+          "redCards": "0",
+          "offsides": "1",
+          "wonCorners": "4",
+          "saves": "0",
+          "possessionPct": "42",
+          "totalShots": "4",
+          "shotsOnTarget": "3",
+          "shotPct": "0.8",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "152",
+          "totalPasses": "191",
+          "passPct": "0.8",
+          "accurateCrosses": "0",
+          "totalCrosses": "4",
+          "crossPct": "0.0",
+          "totalLongBalls": "25",
+          "accurateLongBalls": "8",
+          "longballPct": "0.3",
+          "blockedShots": "1",
+          "effectiveTackles": "10",
+          "totalTackles": "16",
+          "tacklePct": "0.6",
+          "interceptions": "6",
+          "effectiveClearance": "13",
+          "totalClearance": "13"
+        }
+      },
+      "events": [
+        {
+          "kind": "Yellow Card",
+          "min": "13'",
+          "side": "away",
+          "player": "Marwan Attia"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "14'",
+          "side": "home",
+          "player": "Timothy Castagne"
+        },
+        {
+          "kind": "Goal",
+          "min": "19'",
+          "side": "away",
+          "player": "Goal! Belgium 0, Egypt 1. Emam Ashour"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "34'",
+          "side": "away",
+          "player": "Ahmed Fatouh"
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Thibaut Courtois",
+            "short": "T. Courtois",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Brandon Mechele",
+            "short": "B. Mechele",
+            "num": "4",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Nathan Ngoy",
+            "short": "N. Ngoy",
+            "num": "25",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Timothy Castagne",
+            "short": "T. Castagne",
+            "num": "21",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Thomas Meunier",
+            "short": "T. Meunier",
+            "num": "15",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Kevin De Bruyne",
+            "short": "K. De Bruyne",
+            "num": "7",
+            "pos": "AM",
+            "place": "10"
+          },
+          {
+            "name": "Youri Tielemans",
+            "short": "Y. Tielemans",
+            "num": "8",
+            "pos": "LM",
+            "place": "4"
+          },
+          {
+            "name": "Amadou Onana",
+            "short": "A. Onana",
+            "num": "24",
+            "pos": "RM",
+            "place": "8"
+          },
+          {
+            "name": "Charles De Ketelaere",
+            "short": "C. De Ketelaere",
+            "num": "17",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Jérémy Doku",
+            "short": "J. Doku",
+            "num": "11",
+            "pos": "AM-L",
+            "place": "11"
+          },
+          {
+            "name": "Leandro Trossard",
+            "short": "L. Trossard",
+            "num": "10",
+            "pos": "AM-R",
+            "place": "7"
+          }
+        ],
+        "away": [
+          {
+            "name": "Mostafa Shoubir",
+            "short": "M. Shoubir",
+            "num": "23",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Hamdy Fathy",
+            "short": "H. Fathy",
+            "num": "14",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Yasser Ibrahim",
+            "short": "Y. Ibrahim",
+            "num": "2",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Ahmed Fatouh",
+            "short": "A. Fatouh",
+            "num": "13",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Mohamed Hany",
+            "short": "M. Hany",
+            "num": "3",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Mohamed Salah",
+            "short": "M. Salah",
+            "num": "10",
+            "pos": "AM",
+            "place": "10"
+          },
+          {
+            "name": "Mohanad Lashin",
+            "short": "M. Lashin",
+            "num": "17",
+            "pos": "LM",
+            "place": "4"
+          },
+          {
+            "name": "Marawan Attia",
+            "short": "M. Attia",
+            "num": "19",
+            "pos": "RM",
+            "place": "8"
+          },
+          {
+            "name": "Omar Marmoush",
+            "short": "O. Marmoush",
+            "num": "22",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Emam Ashour",
+            "short": "E. Ashour",
+            "num": "8",
+            "pos": "AM-L",
+            "place": "11"
+          },
+          {
+            "name": "Mostafa Zico",
+            "short": "M. Zico",
+            "num": "11",
+            "pos": "AM-R",
+            "place": "7"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Mike Penders",
+            "short": "M. Penders",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nicolas Raskin",
+            "short": "N. Raskin",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Senne Lammens",
+            "short": "S. Lammens",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Romelu Lukaku",
+            "short": "R. Lukaku",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Joaquin Seys",
+            "short": "J. Seys",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Diego Moreira",
+            "short": "D. Moreira",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Arthur Theate",
+            "short": "A. Theate",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Matias Fernandez-Pardo",
+            "short": "M. Fernandez-Pardo",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Alexis Saelemaekers",
+            "short": "A. Saelemaekers",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Dodi Lukébakio",
+            "short": "D. Lukébakio",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Hans Vanaken",
+            "short": "H. Vanaken",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Axel Witsel",
+            "short": "A. Witsel",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Maxim De Cuyper",
+            "short": "M. De Cuyper",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Koni De Winter",
+            "short": "K. De Winter",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Ramy Rabia",
+            "short": "R. Rabia",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Hamza Abdelkarim",
+            "short": "H. Abdelkarim",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mohamed Abdelmoneim",
+            "short": "M. Abdelmoneim",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Zizo",
+            "short": "Zizo",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Tarek Alaa",
+            "short": "T. Alaa",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Hossam Abdelmaguid",
+            "short": "H. Abdelmaguid",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ibrahim Adel",
+            "short": "I. Adel",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Haissem Hassan",
+            "short": "H. Hassan",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nabil Donga",
+            "short": "N. Donga",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mahdy Soliman",
+            "short": "M. Soliman",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Karim Hafez",
+            "short": "K. Hafez",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mohamed El Shenawy",
+            "short": "M. El Shenawy",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mohamed Alaa",
+            "short": "M. Alaa",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Trézéguet",
+            "short": "Trézéguet",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mahmoud Saber",
+            "short": "M. Saber",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-2-3-1",
+        "away": "4-2-3-1"
+      },
+      "commentary": [
+        {
+          "min": "45'+5'",
+          "text": "First Half ends, Belgium 0, Egypt 1.",
+          "goal": false
+        },
+        {
+          "min": "45'+4'",
+          "text": "Corner, Egypt. Conceded by Amadou Onana.",
+          "goal": false
+        },
+        {
+          "min": "45'+4'",
+          "text": "Attempt blocked. Mohamed Hany (Egypt) right footed shot from outside the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "45'+4'",
+          "text": "Corner, Egypt. Conceded by Thomas Meunier.",
+          "goal": false
+        },
+        {
+          "min": "45'+4'",
+          "text": "Corner, Egypt. Conceded by Thibaut Courtois.",
+          "goal": false
+        },
+        {
+          "min": "45'+4'",
+          "text": "Attempt saved. Omar Marmoush (Egypt) right footed shot from a difficult angle on the left is saved in the centre of the goal by Thibaut Courtois (Belgium).",
+          "goal": false
+        },
+        {
+          "min": "45'+3'",
+          "text": "Foul by Thomas Meunier (Belgium).",
+          "goal": false
+        },
+        {
+          "min": "45'+3'",
+          "text": "Ahmed Fatouh (Egypt) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "45'+1'",
+          "text": "Attempt missed. Jérémy Doku (Belgium) right footed shot from the centre of the box is high and wide to the right. Assisted by Charles De Ketelaere.",
+          "goal": false
+        },
+        {
+          "min": "45'+1'",
+          "text": "Fourth official has announced 4 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Amadou Onana (Belgium) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Foul by Omar Marmoush (Egypt).",
+          "goal": false
+        },
+        {
+          "min": "44'",
+          "text": "Amadou Onana (Belgium) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "44'",
+          "text": "Foul by Marwan Attia (Egypt).",
+          "goal": false
+        },
+        {
+          "min": "43'",
+          "text": "Attempt blocked. Kevin De Bruyne (Belgium) right footed shot from outside the box is blocked. Assisted by Leandro Trossard.",
+          "goal": false
+        },
+        {
+          "min": "40'",
+          "text": "Foul by Thomas Meunier (Belgium).",
+          "goal": false
+        },
+        {
+          "min": "40'",
+          "text": "Emam Ashour (Egypt) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "39'",
+          "text": "Foul by Mohanad Lasheen (Egypt).",
+          "goal": false
+        },
+        {
+          "min": "39'",
+          "text": "Leandro Trossard (Belgium) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "39'",
+          "text": "Attempt blocked. Leandro Trossard (Belgium) left footed shot from outside the box is blocked. Assisted by Kevin De Bruyne.",
+          "goal": false
+        },
+        {
+          "min": "38'",
+          "text": "Attempt blocked. Leandro Trossard (Belgium) right footed shot from the centre of the box is blocked. Assisted by Jérémy Doku.",
+          "goal": false
+        },
+        {
+          "min": "37'",
+          "text": "Hamdi Fathy (Egypt) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "37'",
+          "text": "Foul by Youri Tielemans (Belgium).",
+          "goal": false
+        },
+        {
+          "min": "34'",
+          "text": "Ahmed Fatouh (Egypt) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "34'",
+          "text": "Foul by Ahmed Fatouh (Egypt).",
+          "goal": false
+        },
+        {
+          "min": "34'",
+          "text": "Jérémy Doku (Belgium) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "33'",
+          "text": "Corner, Egypt. Conceded by Thibaut Courtois.",
+          "goal": false
+        },
+        {
+          "min": "33'",
+          "text": "Attempt saved. Mostafa Zico (Egypt) right footed shot from the right side of the box is saved in the centre of the goal by Thibaut Courtois (Belgium). Assisted by Marwan Attia.",
+          "goal": false
+        },
+        {
+          "min": "31'",
+          "text": "Attempt missed. Youri Tielemans (Belgium) header from the centre of the box misses to the right. Assisted by Timothy Castagne with a cross.",
+          "goal": false
+        },
+        {
+          "min": "28'",
+          "text": "Foul by Thomas Meunier (Belgium).",
+          "goal": false
+        },
+        {
+          "min": "28'",
+          "text": "Emam Ashour (Egypt) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "25'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "22'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "22'",
+          "text": "Mohamed Salah (Egypt) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "22'",
+          "text": "Foul by Brandon Mechele (Belgium).",
+          "goal": false
+        },
+        {
+          "min": "19'",
+          "text": "Goal! Belgium 0, Egypt 1. Emam Ashour (Egypt) right footed shot from outside the box to the bottom left corner. Assisted by Mohamed Salah.",
+          "goal": true
+        },
+        {
+          "min": "19'",
+          "text": "Handball by Thomas Meunier (Belgium).",
+          "goal": false
+        },
+        {
+          "min": "17'",
+          "text": "Mohamed Salah (Egypt) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "17'",
+          "text": "Foul by Brandon Mechele (Belgium).",
+          "goal": false
+        },
+        {
+          "min": "14'",
+          "text": "Timothy Castagne (Belgium) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "14'",
+          "text": "Foul by Timothy Castagne (Belgium).",
+          "goal": false
+        },
+        {
+          "min": "14'",
+          "text": "Mohamed Salah (Egypt) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "13'",
+          "text": "Marwan Attia (Egypt) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "13'",
+          "text": "Foul by Marwan Attia (Egypt).",
+          "goal": false
+        },
+        {
+          "min": "13'",
+          "text": "Nathan Ngoy (Belgium) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "12'",
+          "text": "VAR Decision: Other Decision Cancelled.",
+          "goal": false
+        },
+        {
+          "min": "9'",
+          "text": "Foul by Mohamed Salah (Egypt).",
+          "goal": false
+        },
+        {
+          "min": "9'",
+          "text": "Amadou Onana (Belgium) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "7'",
+          "text": "Omar Marmoush (Egypt) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "7'",
+          "text": "Foul by Nathan Ngoy (Belgium).",
+          "goal": false
+        },
+        {
+          "min": "7'",
+          "text": "Attempt missed. Kevin De Bruyne (Belgium) right footed shot from outside the box is close, but misses to the left. Assisted by Youri Tielemans.",
+          "goal": false
+        },
+        {
+          "min": "6'",
+          "text": "Attempt blocked. Leandro Trossard (Belgium) left footed shot from outside the box is blocked. Assisted by Kevin De Bruyne.",
+          "goal": false
+        },
+        {
+          "min": "5'",
+          "text": "Offside, Egypt. Mostafa Zico is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "1'",
+          "text": "Emam Ashour (Egypt) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "1'",
+          "text": "Foul by Amadou Onana (Belgium).",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "First Half begins.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "Lineups are announced and players are warming up.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "L. Trossard",
+            "num": "10",
+            "pos": "F",
+            "value": "3"
+          },
+          "away": {
+            "name": "M. Zico",
+            "num": "11",
+            "pos": "M",
+            "value": "1"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "N. Ngoy",
+            "num": "25",
+            "pos": "D",
+            "value": "45"
+          },
+          "away": {
+            "name": "Y. Ibrahim",
+            "num": "2",
+            "pos": "D",
+            "value": "24"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "N. Ngoy",
+            "num": "25",
+            "pos": "D",
+            "value": "4"
+          },
+          "away": {
+            "name": "H. Fathy",
+            "num": "14",
+            "pos": "M",
+            "value": "7"
+          }
+        },
+        {
+          "label": "Saves",
+          "home": {
+            "name": "T. Courtois",
+            "num": "1",
+            "pos": "G",
+            "value": "2"
+          }
+        }
+      ],
+      "highlight": null,
+      "final": false,
+      "dv": 5
+    },
     "760428": {
       "venue": "Mercedes-Benz Stadium",
       "stats": {
         "home": {
-          "foulsCommitted": "2",
-          "yellowCards": "0",
+          "foulsCommitted": "10",
+          "yellowCards": "1",
           "redCards": "0",
-          "offsides": "0",
-          "wonCorners": "1",
-          "saves": "0",
-          "possessionPct": "66.9",
-          "totalShots": "3",
-          "shotsOnTarget": "1",
+          "offsides": "2",
+          "wonCorners": "11",
+          "saves": "1",
+          "possessionPct": "74.3",
+          "totalShots": "27",
+          "shotsOnTarget": "7",
           "shotPct": "0.3",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "206",
-          "totalPasses": "229",
+          "accuratePasses": "734",
+          "totalPasses": "800",
           "passPct": "0.9",
-          "accurateCrosses": "0",
-          "totalCrosses": "6",
-          "crossPct": "0.0",
-          "totalLongBalls": "10",
-          "accurateLongBalls": "8",
+          "accurateCrosses": "6",
+          "totalCrosses": "36",
+          "crossPct": "0.2",
+          "totalLongBalls": "30",
+          "accurateLongBalls": "24",
           "longballPct": "0.8",
-          "blockedShots": "1",
-          "effectiveTackles": "2",
-          "totalTackles": "2",
-          "tacklePct": "1.0",
-          "interceptions": "4",
-          "effectiveClearance": "2",
-          "totalClearance": "2"
+          "blockedShots": "8",
+          "effectiveTackles": "12",
+          "totalTackles": "13",
+          "tacklePct": "0.9",
+          "interceptions": "6",
+          "effectiveClearance": "7",
+          "totalClearance": "7"
         },
         "away": {
           "foulsCommitted": "1",
           "yellowCards": "1",
           "redCards": "0",
-          "offsides": "2",
-          "wonCorners": "0",
-          "saves": "1",
-          "possessionPct": "33.1",
-          "totalShots": "1",
-          "shotsOnTarget": "0",
-          "shotPct": "0.0",
+          "offsides": "3",
+          "wonCorners": "1",
+          "saves": "7",
+          "possessionPct": "25.7",
+          "totalShots": "6",
+          "shotsOnTarget": "1",
+          "shotPct": "0.2",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "86",
-          "totalPasses": "112",
-          "passPct": "0.8",
-          "accurateCrosses": "0",
-          "totalCrosses": "2",
-          "crossPct": "0.0",
-          "totalLongBalls": "14",
-          "accurateLongBalls": "3",
-          "longballPct": "0.2",
-          "blockedShots": "1",
-          "effectiveTackles": "1",
-          "totalTackles": "2",
-          "tacklePct": "0.0",
-          "interceptions": "3",
-          "effectiveClearance": "8",
-          "totalClearance": "8"
+          "accuratePasses": "205",
+          "totalPasses": "278",
+          "passPct": "0.7",
+          "accurateCrosses": "1",
+          "totalCrosses": "4",
+          "crossPct": "0.3",
+          "totalLongBalls": "56",
+          "accurateLongBalls": "19",
+          "longballPct": "0.3",
+          "blockedShots": "2",
+          "effectiveTackles": "11",
+          "totalTackles": "18",
+          "tacklePct": "0.6",
+          "interceptions": "15",
+          "effectiveClearance": "46",
+          "totalClearance": "46"
         }
       },
       "events": [
@@ -11014,6 +11824,66 @@
           "min": "16'",
           "side": "away",
           "player": "Sidny Cabral"
+        },
+        {
+          "kind": "Substitution",
+          "min": "61'",
+          "side": "away",
+          "player": "Substitution, Cabo Verde. Willy Semedo replaces Jovane Cabral because of an injury."
+        },
+        {
+          "kind": "Substitution",
+          "min": "61'",
+          "side": "away",
+          "player": "Substitution, Cabo Verde. Deroy Duarte replaces Laros Duarte."
+        },
+        {
+          "kind": "Substitution",
+          "min": "61'",
+          "side": "away",
+          "player": "Substitution, Cabo Verde. Nuno da Costa replaces Dailon Livramento."
+        },
+        {
+          "kind": "Substitution",
+          "min": "71'",
+          "side": "home",
+          "player": "Substitution, Spain. Mikel Merino replaces Fabián Ruiz."
+        },
+        {
+          "kind": "Substitution",
+          "min": "71'",
+          "side": "home",
+          "player": "Substitution, Spain. Lamine Yamal replaces Gavi."
+        },
+        {
+          "kind": "Substitution",
+          "min": "76'",
+          "side": "away",
+          "player": "Substitution, Cabo Verde. João Paulo replaces Sidny Cabral."
+        },
+        {
+          "kind": "Substitution",
+          "min": "79'",
+          "side": "away",
+          "player": "Substitution, Cabo Verde. Telmo Arcanjo replaces Jamiro Monteiro."
+        },
+        {
+          "kind": "Substitution",
+          "min": "81'",
+          "side": "home",
+          "player": "Substitution, Spain. Dani Olmo replaces Ferran Torres."
+        },
+        {
+          "kind": "Substitution",
+          "min": "87'",
+          "side": "home",
+          "player": "Substitution, Spain. Nico Williams replaces Rodri."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "90'+3'",
+          "side": "home",
+          "player": "Pedri"
         }
       ],
       "lineups": {
@@ -11398,93 +12268,303 @@
       },
       "commentary": [
         {
-          "min": "27'",
-          "text": "Attempt blocked. Steven Moreira (Cabo Verde) right footed shot from the right side of the box is blocked.",
+          "min": "",
+          "text": "Match ends, Spain 0, Cabo Verde 0.",
           "goal": false
         },
         {
-          "min": "26'",
-          "text": "Delay over. They are ready to continue.",
+          "min": "90'+6'",
+          "text": "Second Half ends, Spain 0, Cabo Verde 0.",
           "goal": false
         },
         {
-          "min": "23'",
-          "text": "Delay in match for a drinks break.",
+          "min": "90'+5'",
+          "text": "Attempt missed. Mikel Oyarzabal (Spain) header from the right side of the six yard box misses to the left. Assisted by Lamine Yamal with a cross following a corner.",
           "goal": false
         },
         {
-          "min": "22'",
-          "text": "Offside, Cabo Verde. Ryan Mendes is caught offside.",
+          "min": "90'+5'",
+          "text": "Corner, Spain. Conceded by Kevin Pina.",
           "goal": false
         },
         {
-          "min": "20'",
-          "text": "Offside, Cabo Verde. Dailon Livramento is caught offside.",
+          "min": "90'+5'",
+          "text": "Attempt missed. Lamine Yamal (Spain) left footed shot from the right side of the box misses to the left.",
           "goal": false
         },
         {
-          "min": "20'",
-          "text": "Attempt blocked. Pau Cubarsí (Spain) right footed shot from outside the box is blocked. Assisted by Rodri.",
+          "min": "90'+4'",
+          "text": "Attempt missed. Ryan Mendes (Cabo Verde) right footed shot from outside the box misses to the right. Assisted by Telmo Arcanjo.",
           "goal": false
         },
         {
-          "min": "19'",
-          "text": "Attempt missed. Fabián Ruiz (Spain) left footed shot from outside the box misses to the left.",
+          "min": "90'+3'",
+          "text": "Pedri (Spain) is shown the yellow card for a bad foul.",
           "goal": false
         },
         {
-          "min": "16'",
-          "text": "Sidny Cabral (Cabo Verde) is shown the yellow card for a bad foul.",
+          "min": "90'+3'",
+          "text": "Foul by Pedri (Spain).",
           "goal": false
         },
         {
-          "min": "16'",
-          "text": "Marcos Llorente (Spain) wins a free kick on the right wing.",
+          "min": "90'+3'",
+          "text": "Nuno da Costa (Cabo Verde) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "16'",
-          "text": "Foul by Sidny Cabral (Cabo Verde).",
+          "min": "90'+2'",
+          "text": "Attempt blocked. Lamine Yamal (Spain) left footed shot from outside the box is blocked. Assisted by Pau Cubarsí.",
           "goal": false
         },
         {
-          "min": "15'",
-          "text": "Attempt saved. Pedri (Spain) right footed shot from outside the box is saved in the centre of the goal by Vozinha (Cabo Verde).",
+          "min": "90'+1'",
+          "text": "Corner, Spain. Conceded by Diney Borges.",
           "goal": false
         },
         {
-          "min": "15'",
-          "text": "Handball by Gavi (Spain).",
+          "min": "90'+1'",
+          "text": "Attempt saved. Diney Borges (Cabo Verde) header from the centre of the box is saved in the centre of the goal by Unai Simón (Spain). Assisted by Telmo Arcanjo with a cross.",
           "goal": false
         },
         {
-          "min": "10'",
-          "text": "Corner, Spain. Conceded by Jovane Cabral.",
+          "min": "90'",
+          "text": "Fourth official has announced 5 minutes of added time.",
           "goal": false
         },
         {
-          "min": "4'",
+          "min": "90'",
+          "text": "Corner, Cabo Verde. Conceded by Dani Olmo.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Attempt blocked. Kevin Pina (Cabo Verde) right footed shot from outside the box is blocked. Assisted by Deroy Duarte.",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Corner, Spain. Conceded by Pico Lopes.",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Attempt blocked. Mikel Oyarzabal (Spain) right footed shot from the centre of the box is blocked. Assisted by Dani Olmo.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Substitution, Spain. Nico Williams replaces Rodri.",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Attempt missed. Rodri (Spain) left footed shot from outside the box misses to the right.",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "João Paulo (Cabo Verde) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Foul by Lamine Yamal (Spain).",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Attempt saved. Marc Cucurella (Spain) header from the centre of the box is saved in the centre of the goal by Vozinha (Cabo Verde). Assisted by Mikel Merino with a headed pass.",
+          "goal": false
+        },
+        {
+          "min": "81'",
           "text": "VAR Decision: Other Decision Cancelled.",
           "goal": false
         },
         {
-          "min": "2'",
-          "text": "Foul by Marc Cucurella (Spain).",
+          "min": "81'",
+          "text": "Substitution, Spain. Dani Olmo replaces Ferran Torres.",
           "goal": false
         },
         {
-          "min": "2'",
+          "min": "79'",
+          "text": "Substitution, Cabo Verde. Telmo Arcanjo replaces Jamiro Monteiro.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Corner, Spain. Conceded by Diney Borges.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Attempt blocked. Pedri (Spain) right footed shot from outside the box is blocked. Assisted by Mikel Merino.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Substitution, Cabo Verde. João Paulo replaces Sidny Cabral.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Kevin Pina (Cabo Verde) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Foul by Mikel Merino (Spain).",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Attempt blocked. Ferran Torres (Spain) right footed shot from outside the box is blocked. Assisted by Rodri.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Attempt saved. Mikel Merino (Spain) right footed shot from the centre of the box is saved in the centre of the goal by Vozinha (Cabo Verde). Assisted by Marcos Llorente.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Substitution, Spain. Lamine Yamal replaces Gavi.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Substitution, Spain. Mikel Merino replaces Fabián Ruiz.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Vozinha (Cabo Verde) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Foul by Rodri (Spain).",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Corner, Spain. Conceded by Sidny Cabral.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Delay in match because of an injury Aymeric Laporte (Spain).",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Substitution, Cabo Verde. Nuno da Costa replaces Dailon Livramento.",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Substitution, Cabo Verde. Deroy Duarte replaces Laros Duarte.",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Substitution, Cabo Verde. Willy Semedo replaces Jovane Cabral because of an injury.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Corner, Spain. Conceded by Diney Borges.",
+          "goal": false
+        },
+        {
+          "min": "59'",
+          "text": "Corner, Spain. Conceded by Diney Borges.",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Attempt missed. Aymeric Laporte (Spain) left footed shot from outside the box is too high. Assisted by Rodri.",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Attempt saved. Fabián Ruiz (Spain) header from the centre of the box is saved in the centre of the goal by Vozinha (Cabo Verde). Assisted by Pedri with a through ball.",
+          "goal": false
+        },
+        {
+          "min": "52'",
           "text": "Ryan Mendes (Cabo Verde) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "",
-          "text": "First Half begins.",
+          "min": "52'",
+          "text": "Foul by Gavi (Spain).",
           "goal": false
         },
         {
-          "min": "",
-          "text": "Lineups are announced and players are warming up.",
+          "min": "51'",
+          "text": "Attempt missed. Fabián Ruiz (Spain) left footed shot from outside the box is high and wide to the left. Assisted by Pedri.",
+          "goal": false
+        },
+        {
+          "min": "48'",
+          "text": "Attempt missed. Fabián Ruiz (Spain) left footed shot from outside the box is high and wide to the left. Assisted by Marcos Llorente.",
+          "goal": false
+        },
+        {
+          "min": "48'",
+          "text": "Attempt missed. Mikel Oyarzabal (Spain) header from the centre of the box misses to the right. Assisted by Pedri with a cross.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Second Half begins Spain 0, Cabo Verde 0.",
+          "goal": false
+        },
+        {
+          "min": "45'+5'",
+          "text": "First Half ends, Spain 0, Cabo Verde 0.",
+          "goal": false
+        },
+        {
+          "min": "45'+4'",
+          "text": "Attempt missed. Mikel Oyarzabal (Spain) header from very close range misses to the right. Assisted by Marcos Llorente with a cross.",
+          "goal": false
+        },
+        {
+          "min": "45'+3'",
+          "text": "Attempt blocked. Rodri (Spain) header from the left side of the six yard box is blocked. Assisted by Pedri with a cross.",
+          "goal": false
+        },
+        {
+          "min": "45'+3'",
+          "text": "Corner, Spain. Conceded by Vozinha.",
+          "goal": false
+        },
+        {
+          "min": "45'+2'",
+          "text": "Attempt saved. Aymeric Laporte (Spain) header from the centre of the box is saved in the bottom left corner by Vozinha (Cabo Verde).",
+          "goal": false
+        },
+        {
+          "min": "45'+2'",
+          "text": "Corner, Spain. Conceded by Jovane Cabral.",
           "goal": false
         }
       ],
@@ -11492,15 +12572,15 @@
         {
           "label": "Total Shots",
           "home": {
-            "name": "P. Cubarsí",
-            "num": "22",
-            "pos": "D",
-            "value": "1"
+            "name": "M. Oyarzabal",
+            "num": "21",
+            "pos": "F",
+            "value": "5"
           },
           "away": {
-            "name": "S. Moreira",
-            "num": "22",
-            "pos": "D",
+            "name": "K. Pina",
+            "num": "6",
+            "pos": "M",
             "value": "1"
           }
         },
@@ -11510,7 +12590,22 @@
             "name": "Rodri",
             "num": "16",
             "pos": "M",
-            "value": "36"
+            "value": "116"
+          },
+          "away": {
+            "name": "D. Borges",
+            "num": "3",
+            "pos": "D",
+            "value": "32"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "P. Cubarsí",
+            "num": "22",
+            "pos": "D",
+            "value": "6"
           },
           "away": {
             "name": "D. Borges",
@@ -11520,32 +12615,29 @@
           }
         },
         {
-          "label": "Defensive Interventions",
-          "home": {
-            "name": "P. Cubarsí",
-            "num": "22",
-            "pos": "D",
-            "value": "2"
-          },
-          "away": {
-            "name": "P. Lopes",
-            "num": "4",
-            "pos": "D",
-            "value": "5"
-          }
-        },
-        {
           "label": "Saves",
+          "home": {
+            "name": "U. Simón",
+            "num": "23",
+            "pos": "G",
+            "value": "1"
+          },
           "away": {
             "name": "Vozinha",
             "num": "1",
             "pos": "G",
-            "value": "1"
+            "value": "7"
           }
         }
       ],
-      "highlight": null,
-      "final": false,
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0615/dm_260615_Burley_slams_extremely_pedestrian_Spain_after_Cape_Verde_draw/dm_260615_Burley_slams_extremely_pedestrian_Spain_after_Cape_Verde_draw.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49074141/burley-slams-extremely-pedestrian-spain-cape-verde-draw",
+        "headline": "Burley slams 'extremely pedestrian' Spain after Cape Verde draw",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0615/dm_260615_Burley_slams_extremely_pedestrian_Spain_after_Cape_Verde_draw/dm_260615_Burley_slams_extremely_pedestrian_Spain_after_Cape_Verde_draw_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0615/dm_260615_Burley_slams_extremely_pedestrian_Spain_after_Cape_Verde_draw/dm_260615_Burley_slams_extremely_pedestrian_Spain_after_Cape_Verde_draw/playlist.m3u8"
+      },
+      "final": true,
       "dv": 5
     }
   }

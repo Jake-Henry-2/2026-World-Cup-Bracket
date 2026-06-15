@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T22:56:32.951Z",
+  "lastUpdated": "2026-06-15T00:16:34.404Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -118,10 +118,14 @@
       "away": "Ecuador",
       "homeScore": 0,
       "awayScore": 0,
-      "status": "scheduled",
+      "status": "live",
       "id": "760423",
       "date": "2026-06-14T23:00Z",
-      "venue": "Lincoln Financial Field"
+      "venue": "Lincoln Financial Field",
+      "clock": 3060,
+      "displayClock": "51'",
+      "detail": "51'",
+      "period": 2
     },
     {
       "stage": "group",

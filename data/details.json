@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T22:56:33.085Z",
+  "lastUpdated": "2026-06-15T00:16:34.622Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -8194,6 +8194,792 @@
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0614/dm_260614_COM_SOC_News_Lone_Curacao_supporter_in_Berlin_celebrates_goal_vs_Germany_20260614_GLOBAL_FIFA_W/dm_260614_COM_SOC_News_Lone_Curacao_supporter_in_Berlin_celebrates_goal_vs_Germany_20260614_GLOBAL_FIFA_W/playlist.m3u8"
       },
       "final": true,
+      "dv": 5
+    },
+    "760423": {
+      "venue": "Lincoln Financial Field",
+      "stats": {
+        "home": {
+          "foulsCommitted": "8",
+          "yellowCards": "3",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "2",
+          "saves": "0",
+          "possessionPct": "46.7",
+          "totalShots": "7",
+          "shotsOnTarget": "1",
+          "shotPct": "0.1",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "220",
+          "totalPasses": "266",
+          "passPct": "0.8",
+          "accurateCrosses": "1",
+          "totalCrosses": "5",
+          "crossPct": "0.2",
+          "totalLongBalls": "24",
+          "accurateLongBalls": "9",
+          "longballPct": "0.4",
+          "blockedShots": "3",
+          "effectiveTackles": "4",
+          "totalTackles": "7",
+          "tacklePct": "0.6",
+          "interceptions": "5",
+          "effectiveClearance": "10",
+          "totalClearance": "10"
+        },
+        "away": {
+          "foulsCommitted": "4",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "0",
+          "saves": "1",
+          "possessionPct": "53.3",
+          "totalShots": "7",
+          "shotsOnTarget": "0",
+          "shotPct": "0.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "267",
+          "totalPasses": "306",
+          "passPct": "0.9",
+          "accurateCrosses": "1",
+          "totalCrosses": "3",
+          "crossPct": "0.3",
+          "totalLongBalls": "20",
+          "accurateLongBalls": "5",
+          "longballPct": "0.3",
+          "blockedShots": "0",
+          "effectiveTackles": "8",
+          "totalTackles": "12",
+          "tacklePct": "0.7",
+          "interceptions": "8",
+          "effectiveClearance": "12",
+          "totalClearance": "12"
+        }
+      },
+      "events": [
+        {
+          "kind": "Yellow Card",
+          "min": "28'",
+          "side": "home",
+          "player": "Seko Fofana"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "38'",
+          "side": "home",
+          "player": "Franck Kessie"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "40'",
+          "side": "home",
+          "player": "Guéla Doué"
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Yahia Fofana",
+            "short": "Y. Fofana",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Emmanuel Agbadou",
+            "short": "E. Agbadou",
+            "num": "20",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Wilfried Singo",
+            "short": "W. Singo",
+            "num": "5",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Ghislain Konan",
+            "short": "G. Konan",
+            "num": "3",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Guela Doué",
+            "short": "G. Doué",
+            "num": "17",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Seko Fofana",
+            "short": "S. Fofana",
+            "num": "6",
+            "pos": "CM-L",
+            "place": "8"
+          },
+          {
+            "name": "Franck Kessié",
+            "short": "F. Kessié",
+            "num": "8",
+            "pos": "CM-R",
+            "place": "4"
+          },
+          {
+            "name": "Bazoumana Touré",
+            "short": "B. Touré",
+            "num": "24",
+            "pos": "LM",
+            "place": "11"
+          },
+          {
+            "name": "Yan Diomande",
+            "short": "Y. Diomande",
+            "num": "11",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Elye Wahi",
+            "short": "E. Wahi",
+            "num": "12",
+            "pos": "CF-L",
+            "place": "9"
+          },
+          {
+            "name": "Nicolas Pépé",
+            "short": "N. Pépé",
+            "num": "19",
+            "pos": "CF-R",
+            "place": "10"
+          }
+        ],
+        "away": [
+          {
+            "name": "Hernán Galíndez",
+            "short": "H. Galíndez",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Joel Ordóñez",
+            "short": "J. Ordóñez",
+            "num": "4",
+            "pos": "CD",
+            "place": "5"
+          },
+          {
+            "name": "Willian Pacho",
+            "short": "W. Pacho",
+            "num": "6",
+            "pos": "CD-L",
+            "place": "4"
+          },
+          {
+            "name": "Alan Franco",
+            "short": "A. Franco",
+            "num": "21",
+            "pos": "CD-R",
+            "place": "6"
+          },
+          {
+            "name": "Pedro Vite",
+            "short": "P. Vite",
+            "num": "15",
+            "pos": "CM-L",
+            "place": "8"
+          },
+          {
+            "name": "Moisés Caicedo",
+            "short": "M. Caicedo",
+            "num": "23",
+            "pos": "CM-R",
+            "place": "7"
+          },
+          {
+            "name": "Piero Hincapié",
+            "short": "P. Hincapié",
+            "num": "3",
+            "pos": "LM",
+            "place": "3"
+          },
+          {
+            "name": "John Yeboah",
+            "short": "J. Yeboah",
+            "num": "9",
+            "pos": "RM",
+            "place": "2"
+          },
+          {
+            "name": "Enner Valencia",
+            "short": "E. Valencia",
+            "num": "13",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Alan Minda",
+            "short": "A. Minda",
+            "num": "14",
+            "pos": "CF-L",
+            "place": "11"
+          },
+          {
+            "name": "Gonzalo Plata",
+            "short": "G. Plata",
+            "num": "19",
+            "pos": "CF-R",
+            "place": "10"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Parfait Guiagon",
+            "short": "P. Guiagon",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Christ Inao Oulaï",
+            "short": "C. Oulaï",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Christopher Operi",
+            "short": "C. Operi",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Simon Adingra",
+            "short": "S. Adingra",
+            "num": "10",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ange-Yoan Bonny",
+            "short": "A. Bonny",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Oumar Diakité",
+            "short": "O. Diakité",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mohamed Koné",
+            "short": "M. Koné",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ibrahim Sangaré",
+            "short": "I. Sangaré",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ousmane Diomande",
+            "short": "O. Diomande",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Evan Ndicka",
+            "short": "E. Ndicka",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Alban Lafont",
+            "short": "A. Lafont",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Evann Guessand",
+            "short": "E. Guessand",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jean Michaël Seri",
+            "short": "J. Seri",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Amad Diallo",
+            "short": "A. Diallo",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Odilon Kossounou",
+            "short": "O. Kossounou",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Kevin Rodríguez",
+            "short": "K. Rodríguez",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gonzalo Valle",
+            "short": "G. Valle",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Pervis Estupiñán",
+            "short": "P. Estupiñán",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Denil Castillo",
+            "short": "D. Castillo",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jordy Caicedo",
+            "short": "J. Caicedo",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nilson Angulo",
+            "short": "N. Angulo",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Anthony Valencia",
+            "short": "A. Valencia",
+            "num": "8",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ángelo Preciado",
+            "short": "Á. Preciado",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kendry Páez",
+            "short": "K. Páez",
+            "num": "10",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Yaimar Medina",
+            "short": "Y. Medina",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jackson Porozo",
+            "short": "J. Porozo",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Félix Torres",
+            "short": "F. Torres",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jeremy Arévalo",
+            "short": "J. Arévalo",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jordy Alcívar",
+            "short": "J. Alcívar",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Moisés Ramírez",
+            "short": "M. Ramírez",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-4-2",
+        "away": "3-4-2-1"
+      },
+      "commentary": [
+        {
+          "min": "50'",
+          "text": "Attempt missed. Nicolas Pépé (Côte d'Ivoire) left footed shot from the centre of the box.",
+          "goal": false
+        },
+        {
+          "min": "48'",
+          "text": "Bazoumana Touré (Côte d'Ivoire) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "48'",
+          "text": "Foul by Alan Franco (Ecuador).",
+          "goal": false
+        },
+        {
+          "min": "46'",
+          "text": "Enner Valencia (Ecuador) hits the left post with a left footed shot from a difficult angle on the left. Assisted by Gonzalo Plata with a through ball.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Second Half begins Côte d'Ivoire 0, Ecuador 0.",
+          "goal": false
+        },
+        {
+          "min": "45'+5'",
+          "text": "First Half ends, Côte d'Ivoire 0, Ecuador 0.",
+          "goal": false
+        },
+        {
+          "min": "45'+4'",
+          "text": "Moisés Caicedo (Ecuador) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "45'+4'",
+          "text": "Foul by Franck Kessie (Côte d'Ivoire).",
+          "goal": false
+        },
+        {
+          "min": "45'+3'",
+          "text": "Attempt blocked. Nicolas Pépé (Côte d'Ivoire) left footed shot from outside the box is blocked. Assisted by Yan Diomande.",
+          "goal": false
+        },
+        {
+          "min": "45'+2'",
+          "text": "Attempt missed. Wilfried Singo (Côte d'Ivoire) right footed shot from the centre of the box is too high. Assisted by Guéla Doué with a cross following a corner.",
+          "goal": false
+        },
+        {
+          "min": "45'+2'",
+          "text": "Corner, Côte d'Ivoire. Conceded by Pedro Vite.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Fourth official has announced 4 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "41'",
+          "text": "Guéla Doué (Côte d'Ivoire) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "41'",
+          "text": "Foul by Willian Pacho (Ecuador).",
+          "goal": false
+        },
+        {
+          "min": "40'",
+          "text": "Guéla Doué (Côte d'Ivoire) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "40'",
+          "text": "Enner Valencia (Ecuador) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "40'",
+          "text": "Foul by Guéla Doué (Côte d'Ivoire).",
+          "goal": false
+        },
+        {
+          "min": "38'",
+          "text": "Franck Kessie (Côte d'Ivoire) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "38'",
+          "text": "Piero Hincapié (Ecuador) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "38'",
+          "text": "Foul by Franck Kessie (Côte d'Ivoire).",
+          "goal": false
+        },
+        {
+          "min": "37'",
+          "text": "Alan Minda (Ecuador) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "37'",
+          "text": "Foul by Guéla Doué (Côte d'Ivoire).",
+          "goal": false
+        },
+        {
+          "min": "37'",
+          "text": "Foul by Enner Valencia (Ecuador).",
+          "goal": false
+        },
+        {
+          "min": "37'",
+          "text": "Guéla Doué (Côte d'Ivoire) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "35'",
+          "text": "Attempt blocked. Nicolas Pépé (Côte d'Ivoire) left footed shot from the centre of the box is blocked. Assisted by Yan Diomande.",
+          "goal": false
+        },
+        {
+          "min": "33'",
+          "text": "Attempt missed. Seko Fofana (Côte d'Ivoire) right footed shot from outside the box is high and wide to the right. Assisted by Franck Kessie.",
+          "goal": false
+        },
+        {
+          "min": "30'",
+          "text": "Attempt missed. John Yeboah (Ecuador) left footed shot from outside the box misses to the left. Assisted by Moisés Caicedo.",
+          "goal": false
+        },
+        {
+          "min": "30'",
+          "text": "Alan Minda (Ecuador) hits the bar with a right footed shot from the centre of the box. Assisted by Pedro Vite with a through ball.",
+          "goal": false
+        },
+        {
+          "min": "28'",
+          "text": "Seko Fofana (Côte d'Ivoire) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "28'",
+          "text": "Foul by Seko Fofana (Côte d'Ivoire).",
+          "goal": false
+        },
+        {
+          "min": "28'",
+          "text": "Moisés Caicedo (Ecuador) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "27'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "24'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "24'",
+          "text": "Attempt missed. Alan Minda (Ecuador) right footed shot from outside the box misses to the right.",
+          "goal": false
+        },
+        {
+          "min": "23'",
+          "text": "John Yeboah (Ecuador) hits the bar with a left footed shot from outside the box.",
+          "goal": false
+        },
+        {
+          "min": "22'",
+          "text": "Foul by Wilfried Singo (Côte d'Ivoire).",
+          "goal": false
+        },
+        {
+          "min": "22'",
+          "text": "Enner Valencia (Ecuador) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "20'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "20'",
+          "text": "Delay in match because of an injury Moisés Caicedo (Ecuador).",
+          "goal": false
+        },
+        {
+          "min": "19'",
+          "text": "Corner, Côte d'Ivoire. Conceded by Joel Ordóñez.",
+          "goal": false
+        },
+        {
+          "min": "18'",
+          "text": "Attempt saved. Elye Wahi (Côte d'Ivoire) right footed shot from the centre of the box is saved in the bottom right corner by Hernán Galíndez (Ecuador).",
+          "goal": false
+        },
+        {
+          "min": "16'",
+          "text": "Attempt blocked. Seko Fofana (Côte d'Ivoire) right footed shot from outside the box is blocked. Assisted by Yan Diomande.",
+          "goal": false
+        },
+        {
+          "min": "14'",
+          "text": "Attempt missed. John Yeboah (Ecuador) left footed shot from outside the box is high and wide to the left. Assisted by Alan Franco.",
+          "goal": false
+        },
+        {
+          "min": "8'",
+          "text": "Foul by Enner Valencia (Ecuador).",
+          "goal": false
+        },
+        {
+          "min": "8'",
+          "text": "Franck Kessie (Côte d'Ivoire) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "4'",
+          "text": "Foul by Franck Kessie (Côte d'Ivoire).",
+          "goal": false
+        },
+        {
+          "min": "4'",
+          "text": "Enner Valencia (Ecuador) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "2'",
+          "text": "Attempt missed. Moisés Caicedo (Ecuador) right footed shot from outside the box misses to the left. Assisted by Gonzalo Plata.",
+          "goal": false
+        },
+        {
+          "min": "2'",
+          "text": "Enner Valencia (Ecuador) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "2'",
+          "text": "Foul by Wilfried Singo (Côte d'Ivoire).",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "First Half begins.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "Lineups are announced and players are warming up.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "N. Pépé",
+            "num": "19",
+            "pos": "F",
+            "value": "3"
+          },
+          "away": {
+            "name": "J. Yeboah",
+            "num": "9",
+            "pos": "F",
+            "value": "3"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "F. Kessié",
+            "num": "8",
+            "pos": "M",
+            "value": "35"
+          },
+          "away": {
+            "name": "W. Pacho",
+            "num": "6",
+            "pos": "D",
+            "value": "50"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "G. Doué",
+            "num": "17",
+            "pos": "D",
+            "value": "6"
+          },
+          "away": {
+            "name": "A. Franco",
+            "num": "21",
+            "pos": "M",
+            "value": "8"
+          }
+        },
+        {
+          "label": "Saves",
+          "away": {
+            "name": "H. Galíndez",
+            "num": "1",
+            "pos": "G",
+            "value": "1"
+          }
+        }
+      ],
+      "highlight": null,
+      "final": false,
       "dv": 5
     },
     "760425": {

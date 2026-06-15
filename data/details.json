@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15T20:05:47.943Z",
+  "lastUpdated": "2026-06-15T22:27:25.740Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -10948,64 +10948,64 @@
       "venue": "Lumen Field",
       "stats": {
         "home": {
-          "foulsCommitted": "10",
-          "yellowCards": "1",
+          "foulsCommitted": "15",
+          "yellowCards": "2",
           "redCards": "0",
           "offsides": "0",
-          "wonCorners": "1",
+          "wonCorners": "2",
           "saves": "2",
-          "possessionPct": "58",
-          "totalShots": "7",
-          "shotsOnTarget": "0",
-          "shotPct": "0.0",
+          "possessionPct": "53.6",
+          "totalShots": "15",
+          "shotsOnTarget": "3",
+          "shotPct": "0.2",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "224",
-          "totalPasses": "262",
+          "accuratePasses": "389",
+          "totalPasses": "453",
           "passPct": "0.9",
-          "accurateCrosses": "3",
-          "totalCrosses": "8",
+          "accurateCrosses": "6",
+          "totalCrosses": "16",
           "crossPct": "0.4",
-          "totalLongBalls": "16",
-          "accurateLongBalls": "9",
+          "totalLongBalls": "30",
+          "accurateLongBalls": "18",
           "longballPct": "0.6",
-          "blockedShots": "4",
-          "effectiveTackles": "5",
-          "totalTackles": "8",
-          "tacklePct": "0.6",
-          "interceptions": "4",
-          "effectiveClearance": "8",
-          "totalClearance": "8"
+          "blockedShots": "5",
+          "effectiveTackles": "11",
+          "totalTackles": "16",
+          "tacklePct": "0.7",
+          "interceptions": "10",
+          "effectiveClearance": "26",
+          "totalClearance": "26"
         },
         "away": {
-          "foulsCommitted": "6",
+          "foulsCommitted": "15",
           "yellowCards": "2",
           "redCards": "0",
           "offsides": "1",
-          "wonCorners": "4",
-          "saves": "0",
-          "possessionPct": "42",
-          "totalShots": "4",
+          "wonCorners": "7",
+          "saves": "3",
+          "possessionPct": "46.4",
+          "totalShots": "14",
           "shotsOnTarget": "3",
-          "shotPct": "0.8",
+          "shotPct": "0.2",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "152",
-          "totalPasses": "191",
+          "accuratePasses": "323",
+          "totalPasses": "397",
           "passPct": "0.8",
-          "accurateCrosses": "0",
-          "totalCrosses": "4",
-          "crossPct": "0.0",
-          "totalLongBalls": "25",
-          "accurateLongBalls": "8",
-          "longballPct": "0.3",
-          "blockedShots": "1",
-          "effectiveTackles": "10",
-          "totalTackles": "16",
+          "accurateCrosses": "2",
+          "totalCrosses": "13",
+          "crossPct": "0.2",
+          "totalLongBalls": "51",
+          "accurateLongBalls": "18",
+          "longballPct": "0.4",
+          "blockedShots": "8",
+          "effectiveTackles": "17",
+          "totalTackles": "28",
           "tacklePct": "0.6",
-          "interceptions": "6",
-          "effectiveClearance": "13",
-          "totalClearance": "13"
+          "interceptions": "12",
+          "effectiveClearance": "18",
+          "totalClearance": "18"
         }
       },
       "events": [
@@ -11032,6 +11032,78 @@
           "min": "34'",
           "side": "away",
           "player": "Ahmed Fatouh"
+        },
+        {
+          "kind": "Substitution",
+          "min": "56'",
+          "side": "home",
+          "player": "Substitution, Belgium. Nicolas Raskin replaces Timothy Castagne."
+        },
+        {
+          "kind": "Substitution",
+          "min": "56'",
+          "side": "home",
+          "player": "Substitution, Belgium. Maxim De Cuyper replaces Amadou Onana."
+        },
+        {
+          "kind": "Substitution",
+          "min": "66'",
+          "side": "home",
+          "player": "Substitution, Belgium. Romelu Lukaku replaces Charles De Ketelaere."
+        },
+        {
+          "kind": "Own Goal",
+          "min": "66'",
+          "side": "home",
+          "player": "Own Goal by Mohamed Hany, Egypt. Belgium 1, Egypt 1."
+        },
+        {
+          "kind": "Substitution",
+          "min": "71'",
+          "side": "away",
+          "player": "Substitution, Egypt. Ramy Rabia replaces Emam Ashour."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "75'",
+          "side": "home",
+          "player": "Maxim De Cuyper"
+        },
+        {
+          "kind": "Substitution",
+          "min": "76'",
+          "side": "away",
+          "player": "Substitution, Egypt. Zizo replaces Mostafa Zico."
+        },
+        {
+          "kind": "Substitution",
+          "min": "76'",
+          "side": "away",
+          "player": "Substitution, Egypt. Hamza Abdelkarim replaces Mohamed Salah."
+        },
+        {
+          "kind": "Substitution",
+          "min": "86'",
+          "side": "home",
+          "player": "Substitution, Belgium. Matias Fernandez-Pardo replaces Jérémy Doku."
+        },
+        {
+          "kind": "Substitution",
+          "min": "86'",
+          "side": "home",
+          "player": "Substitution, Belgium. Hans Vanaken replaces Kevin De Bruyne."
+        },
+        {
+          "kind": "Substitution",
+          "min": "88'",
+          "side": "away",
+          "player": "Substitution, Egypt. Karim Hafez replaces Ahmed Fatouh."
+        },
+        {
+          "kind": "Substitution",
+          "min": "88'",
+          "side": "away",
+          "player": "Substitution, Egypt. Ibrahim Adel replaces Hamdi Fathy."
         }
       ],
       "lineups": {
@@ -11409,288 +11481,303 @@
       },
       "commentary": [
         {
-          "min": "45'+5'",
-          "text": "First Half ends, Belgium 0, Egypt 1.",
+          "min": "",
+          "text": "Match ends, Belgium 1, Egypt 1.",
           "goal": false
         },
         {
-          "min": "45'+4'",
-          "text": "Corner, Egypt. Conceded by Amadou Onana.",
+          "min": "90'+6'",
+          "text": "Second Half ends, Belgium 1, Egypt 1.",
           "goal": false
         },
         {
-          "min": "45'+4'",
-          "text": "Attempt blocked. Mohamed Hany (Egypt) right footed shot from outside the box is blocked.",
+          "min": "90'+4'",
+          "text": "Attempt missed. Brandon Mechele (Belgium) right footed shot from the centre of the box is just a bit too high. Assisted by Youri Tielemans with a cross following a set piece situation.",
           "goal": false
         },
         {
-          "min": "45'+4'",
-          "text": "Corner, Egypt. Conceded by Thomas Meunier.",
+          "min": "90'+3'",
+          "text": "Foul by Zizo (Egypt).",
           "goal": false
         },
         {
-          "min": "45'+4'",
+          "min": "90'+3'",
+          "text": "Leandro Trossard (Belgium) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Fourth official has announced 5 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Attempt blocked. Mohamed Hany (Egypt) right footed shot from outside the box is blocked. Assisted by Omar Marmoush.",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Substitution, Egypt. Ibrahim Adel replaces Hamdi Fathy.",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Substitution, Egypt. Karim Hafez replaces Ahmed Fatouh.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Attempt missed. Romelu Lukaku (Belgium) header from the centre of the box is too high. Assisted by Nicolas Raskin with a cross.",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Substitution, Belgium. Hans Vanaken replaces Kevin De Bruyne.",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Substitution, Belgium. Matias Fernandez-Pardo replaces Jérémy Doku.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Attempt blocked. Omar Marmoush (Egypt) right footed shot from the centre of the box is blocked. Assisted by Hamdi Fathy.",
+          "goal": false
+        },
+        {
+          "min": "84'",
           "text": "Corner, Egypt. Conceded by Thibaut Courtois.",
           "goal": false
         },
         {
-          "min": "45'+4'",
-          "text": "Attempt saved. Omar Marmoush (Egypt) right footed shot from a difficult angle on the left is saved in the centre of the goal by Thibaut Courtois (Belgium).",
+          "min": "83'",
+          "text": "Attempt saved. Brandon Mechele (Belgium) header from the centre of the box is saved in the bottom right corner by Mostafa Shobeir (Egypt). Assisted by Youri Tielemans.",
           "goal": false
         },
         {
-          "min": "45'+3'",
+          "min": "81'",
+          "text": "Foul by Mohamed Hany (Egypt).",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Jérémy Doku (Belgium) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Hamdi Fathy (Egypt) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "80'",
           "text": "Foul by Thomas Meunier (Belgium).",
           "goal": false
         },
         {
-          "min": "45'+3'",
-          "text": "Ahmed Fatouh (Egypt) wins a free kick in the defensive half.",
+          "min": "79'",
+          "text": "Attempt blocked. Zizo (Egypt) right footed shot from outside the box is blocked. Assisted by Hamdi Fathy.",
           "goal": false
         },
         {
-          "min": "45'+1'",
-          "text": "Attempt missed. Jérémy Doku (Belgium) right footed shot from the centre of the box is high and wide to the right. Assisted by Charles De Ketelaere.",
+          "min": "78'",
+          "text": "Attempt blocked. Romelu Lukaku (Belgium) right footed shot from the centre of the box is blocked. Assisted by Leandro Trossard.",
           "goal": false
         },
         {
-          "min": "45'+1'",
-          "text": "Fourth official has announced 4 minutes of added time.",
+          "min": "76'",
+          "text": "Substitution, Egypt. Hamza Abdelkarim replaces Mohamed Salah.",
           "goal": false
         },
         {
-          "min": "45'",
-          "text": "Amadou Onana (Belgium) wins a free kick in the defensive half.",
+          "min": "76'",
+          "text": "Substitution, Egypt. Zizo replaces Mostafa Zico.",
           "goal": false
         },
         {
-          "min": "45'",
-          "text": "Foul by Omar Marmoush (Egypt).",
+          "min": "75'",
+          "text": "Maxim De Cuyper (Belgium) is shown the yellow card for a bad foul.",
           "goal": false
         },
         {
-          "min": "44'",
-          "text": "Amadou Onana (Belgium) wins a free kick on the right wing.",
+          "min": "75'",
+          "text": "Mostafa Zico (Egypt) wins a free kick on the right wing.",
           "goal": false
         },
         {
-          "min": "44'",
-          "text": "Foul by Marwan Attia (Egypt).",
+          "min": "75'",
+          "text": "Foul by Maxim De Cuyper (Belgium).",
           "goal": false
         },
         {
-          "min": "43'",
-          "text": "Attempt blocked. Kevin De Bruyne (Belgium) right footed shot from outside the box is blocked. Assisted by Leandro Trossard.",
+          "min": "74'",
+          "text": "Mostafa Zico (Egypt) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "40'",
-          "text": "Foul by Thomas Meunier (Belgium).",
+          "min": "74'",
+          "text": "Foul by Maxim De Cuyper (Belgium).",
           "goal": false
         },
         {
-          "min": "40'",
-          "text": "Emam Ashour (Egypt) wins a free kick in the defensive half.",
+          "min": "73'",
+          "text": "Attempt saved. Thomas Meunier (Belgium) left footed shot from the right side of the box is saved in the centre of the goal by Mostafa Shobeir (Egypt). Assisted by Leandro Trossard.",
           "goal": false
         },
         {
-          "min": "39'",
-          "text": "Foul by Mohanad Lasheen (Egypt).",
+          "min": "72'",
+          "text": "Mohanad Lasheen (Egypt) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "39'",
-          "text": "Leandro Trossard (Belgium) wins a free kick in the attacking half.",
+          "min": "72'",
+          "text": "Foul by Jérémy Doku (Belgium).",
           "goal": false
         },
         {
-          "min": "39'",
-          "text": "Attempt blocked. Leandro Trossard (Belgium) left footed shot from outside the box is blocked. Assisted by Kevin De Bruyne.",
+          "min": "71'",
+          "text": "Substitution, Egypt. Ramy Rabia replaces Emam Ashour.",
           "goal": false
         },
         {
-          "min": "38'",
-          "text": "Attempt blocked. Leandro Trossard (Belgium) right footed shot from the centre of the box is blocked. Assisted by Jérémy Doku.",
-          "goal": false
-        },
-        {
-          "min": "37'",
-          "text": "Hamdi Fathy (Egypt) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "37'",
-          "text": "Foul by Youri Tielemans (Belgium).",
-          "goal": false
-        },
-        {
-          "min": "34'",
-          "text": "Ahmed Fatouh (Egypt) is shown the yellow card for a bad foul.",
-          "goal": false
-        },
-        {
-          "min": "34'",
-          "text": "Foul by Ahmed Fatouh (Egypt).",
-          "goal": false
-        },
-        {
-          "min": "34'",
-          "text": "Jérémy Doku (Belgium) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "33'",
-          "text": "Corner, Egypt. Conceded by Thibaut Courtois.",
-          "goal": false
-        },
-        {
-          "min": "33'",
-          "text": "Attempt saved. Mostafa Zico (Egypt) right footed shot from the right side of the box is saved in the centre of the goal by Thibaut Courtois (Belgium). Assisted by Marwan Attia.",
-          "goal": false
-        },
-        {
-          "min": "31'",
-          "text": "Attempt missed. Youri Tielemans (Belgium) header from the centre of the box misses to the right. Assisted by Timothy Castagne with a cross.",
-          "goal": false
-        },
-        {
-          "min": "28'",
-          "text": "Foul by Thomas Meunier (Belgium).",
-          "goal": false
-        },
-        {
-          "min": "28'",
-          "text": "Emam Ashour (Egypt) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "25'",
+          "min": "69'",
           "text": "Delay over. They are ready to continue.",
           "goal": false
         },
         {
-          "min": "22'",
+          "min": "67'",
           "text": "Delay in match for a drinks break.",
           "goal": false
         },
         {
-          "min": "22'",
-          "text": "Mohamed Salah (Egypt) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "22'",
-          "text": "Foul by Brandon Mechele (Belgium).",
-          "goal": false
-        },
-        {
-          "min": "19'",
-          "text": "Goal! Belgium 0, Egypt 1. Emam Ashour (Egypt) right footed shot from outside the box to the bottom left corner. Assisted by Mohamed Salah.",
+          "min": "66'",
+          "text": "Own Goal by Mohamed Hany, Egypt. Belgium 1, Egypt 1.",
           "goal": true
         },
         {
-          "min": "19'",
-          "text": "Handball by Thomas Meunier (Belgium).",
+          "min": "66'",
+          "text": "Substitution, Belgium. Romelu Lukaku replaces Charles De Ketelaere.",
           "goal": false
         },
         {
-          "min": "17'",
-          "text": "Mohamed Salah (Egypt) wins a free kick in the defensive half.",
+          "min": "66'",
+          "text": "Youri Tielemans (Belgium) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "17'",
-          "text": "Foul by Brandon Mechele (Belgium).",
+          "min": "66'",
+          "text": "Foul by Mohanad Lasheen (Egypt).",
           "goal": false
         },
         {
-          "min": "14'",
-          "text": "Timothy Castagne (Belgium) is shown the yellow card for a bad foul.",
+          "min": "65'",
+          "text": "Corner, Egypt. Conceded by Nathan Ngoy.",
           "goal": false
         },
         {
-          "min": "14'",
-          "text": "Foul by Timothy Castagne (Belgium).",
+          "min": "65'",
+          "text": "Attempt blocked. Omar Marmoush (Egypt) right footed shot from the centre of the box is blocked. Assisted by Mohamed Salah.",
           "goal": false
         },
         {
-          "min": "14'",
-          "text": "Mohamed Salah (Egypt) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "13'",
-          "text": "Marwan Attia (Egypt) is shown the yellow card for a bad foul.",
-          "goal": false
-        },
-        {
-          "min": "13'",
-          "text": "Foul by Marwan Attia (Egypt).",
-          "goal": false
-        },
-        {
-          "min": "13'",
-          "text": "Nathan Ngoy (Belgium) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "12'",
-          "text": "VAR Decision: Other Decision Cancelled.",
-          "goal": false
-        },
-        {
-          "min": "9'",
-          "text": "Foul by Mohamed Salah (Egypt).",
-          "goal": false
-        },
-        {
-          "min": "9'",
-          "text": "Amadou Onana (Belgium) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "7'",
-          "text": "Omar Marmoush (Egypt) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "7'",
+          "min": "64'",
           "text": "Foul by Nathan Ngoy (Belgium).",
           "goal": false
         },
         {
-          "min": "7'",
-          "text": "Attempt missed. Kevin De Bruyne (Belgium) right footed shot from outside the box is close, but misses to the left. Assisted by Youri Tielemans.",
+          "min": "64'",
+          "text": "Mostafa Shobeir (Egypt) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "6'",
-          "text": "Attempt blocked. Leandro Trossard (Belgium) left footed shot from outside the box is blocked. Assisted by Kevin De Bruyne.",
+          "min": "63'",
+          "text": "Corner, Belgium. Conceded by Ahmed Fatouh.",
           "goal": false
         },
         {
-          "min": "5'",
-          "text": "Offside, Egypt. Mostafa Zico is caught offside.",
+          "min": "63'",
+          "text": "Foul by Mohamed Salah (Egypt).",
           "goal": false
         },
         {
-          "min": "1'",
-          "text": "Emam Ashour (Egypt) wins a free kick in the defensive half.",
+          "min": "63'",
+          "text": "Brandon Mechele (Belgium) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "1'",
-          "text": "Foul by Amadou Onana (Belgium).",
+          "min": "62'",
+          "text": "Attempt saved. Kevin De Bruyne (Belgium) right footed shot from the centre of the box is saved in the centre of the goal by Mostafa Shobeir (Egypt). Assisted by Thomas Meunier.",
           "goal": false
         },
         {
-          "min": "",
-          "text": "First Half begins.",
+          "min": "62'",
+          "text": "Attempt missed. Youri Tielemans (Belgium) left footed shot from outside the box is close, but misses to the left following a corner.",
           "goal": false
         },
         {
-          "min": "",
-          "text": "Lineups are announced and players are warming up.",
+          "min": "61'",
+          "text": "Corner, Belgium. Conceded by Marwan Attia.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Attempt missed. Omar Marmoush (Egypt) right footed shot from the right side of the box is high and wide to the right. Assisted by Mohamed Salah following a fast break.",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Charles De Ketelaere (Belgium) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Foul by Hamdi Fathy (Egypt).",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Attempt blocked. Marwan Attia (Egypt) left footed shot from the left side of the box is blocked. Assisted by Emam Ashour.",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Substitution, Belgium. Maxim De Cuyper replaces Amadou Onana.",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Substitution, Belgium. Nicolas Raskin replaces Timothy Castagne.",
+          "goal": false
+        },
+        {
+          "min": "55'",
+          "text": "Attempt missed. Emam Ashour (Egypt) right footed shot from the right side of the box misses to the left.",
+          "goal": false
+        },
+        {
+          "min": "55'",
+          "text": "Attempt saved. Mohamed Salah (Egypt) header from the centre of the box is saved in the top right corner by Thibaut Courtois (Belgium). Assisted by Ahmed Fatouh with a cross.",
+          "goal": false
+        },
+        {
+          "min": "54'",
+          "text": "Corner, Egypt. Conceded by Timothy Castagne.",
+          "goal": false
+        },
+        {
+          "min": "53'",
+          "text": "Kevin De Bruyne (Belgium) hits the left post with a right footed shot from outside the box from a direct free kick.",
+          "goal": false
+        },
+        {
+          "min": "52'",
+          "text": "Foul by Marwan Attia (Egypt).",
+          "goal": false
+        },
+        {
+          "min": "52'",
+          "text": "Jérémy Doku (Belgium) wins a free kick in the attacking half.",
           "goal": false
         }
       ],
@@ -11698,16 +11785,16 @@
         {
           "label": "Total Shots",
           "home": {
-            "name": "L. Trossard",
-            "num": "10",
-            "pos": "F",
-            "value": "3"
+            "name": "K. De Bruyne",
+            "num": "7",
+            "pos": "M",
+            "value": "4"
           },
           "away": {
-            "name": "M. Zico",
-            "num": "11",
-            "pos": "M",
-            "value": "1"
+            "name": "O. Marmoush",
+            "num": "22",
+            "pos": "F",
+            "value": "5"
           }
         },
         {
@@ -11716,28 +11803,28 @@
             "name": "N. Ngoy",
             "num": "25",
             "pos": "D",
-            "value": "45"
+            "value": "68"
           },
           "away": {
             "name": "Y. Ibrahim",
             "num": "2",
             "pos": "D",
-            "value": "24"
+            "value": "49"
           }
         },
         {
           "label": "Defensive Interventions",
           "home": {
-            "name": "N. Ngoy",
-            "num": "25",
+            "name": "B. Mechele",
+            "num": "4",
             "pos": "D",
-            "value": "4"
+            "value": "12"
           },
           "away": {
-            "name": "H. Fathy",
-            "num": "14",
+            "name": "M. Lashin",
+            "num": "17",
             "pos": "M",
-            "value": "7"
+            "value": "11"
           }
         },
         {
@@ -11747,11 +11834,23 @@
             "num": "1",
             "pos": "G",
             "value": "2"
+          },
+          "away": {
+            "name": "M. Shoubir",
+            "num": "23",
+            "pos": "G",
+            "value": "3"
           }
         }
       ],
-      "highlight": null,
-      "final": false,
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0615/dm_260615_COM_SOC_ANALYSIS_Are_Belgium_too_reliant_on_De_Bruyne_and_Lukaku_2026_6_15/dm_260615_COM_SOC_ANALYSIS_Are_Belgium_too_reliant_on_De_Bruyne_and_Lukaku_2026_6_15.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49076101/are-belgium-too-reliant-de-bruyne-lukaku",
+        "headline": "Are Belgium too reliant on De Bruyne and Lukaku?",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0615/dm_260615_COM_SOC_ANALYSIS_Are_Belgium_too_reliant_on_De_Bruyne_and_Lukaku_2026_6_15/dm_260615_COM_SOC_ANALYSIS_Are_Belgium_too_reliant_on_De_Bruyne_and_Lukaku_2026_6_15_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0615/dm_260615_COM_SOC_ANALYSIS_Are_Belgium_too_reliant_on_De_Bruyne_and_Lukaku_2026_6_15/dm_260615_COM_SOC_ANALYSIS_Are_Belgium_too_reliant_on_De_Bruyne_and_Lukaku_2026_6_15/playlist.m3u8"
+      },
+      "final": true,
       "dv": 5
     },
     "760428": {
@@ -12638,6 +12737,574 @@
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0615/dm_260615_Burley_slams_extremely_pedestrian_Spain_after_Cape_Verde_draw/dm_260615_Burley_slams_extremely_pedestrian_Spain_after_Cape_Verde_draw/playlist.m3u8"
       },
       "final": true,
+      "dv": 5
+    },
+    "760429": {
+      "venue": "Hard Rock Stadium",
+      "stats": {
+        "home": {
+          "foulsCommitted": "2",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "1",
+          "saves": "1",
+          "possessionPct": "44.5",
+          "totalShots": "1",
+          "shotsOnTarget": "0",
+          "shotPct": "0.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "114",
+          "totalPasses": "139",
+          "passPct": "0.8",
+          "accurateCrosses": "0",
+          "totalCrosses": "2",
+          "crossPct": "0.0",
+          "totalLongBalls": "8",
+          "accurateLongBalls": "2",
+          "longballPct": "0.3",
+          "blockedShots": "0",
+          "effectiveTackles": "2",
+          "totalTackles": "3",
+          "tacklePct": "0.7",
+          "interceptions": "4",
+          "effectiveClearance": "3",
+          "totalClearance": "3"
+        },
+        "away": {
+          "foulsCommitted": "1",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "1",
+          "saves": "0",
+          "possessionPct": "55.5",
+          "totalShots": "3",
+          "shotsOnTarget": "1",
+          "shotPct": "0.3",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "148",
+          "totalPasses": "172",
+          "passPct": "0.9",
+          "accurateCrosses": "2",
+          "totalCrosses": "3",
+          "crossPct": "0.7",
+          "totalLongBalls": "16",
+          "accurateLongBalls": "8",
+          "longballPct": "0.5",
+          "blockedShots": "1",
+          "effectiveTackles": "1",
+          "totalTackles": "1",
+          "tacklePct": "1.0",
+          "interceptions": "4",
+          "effectiveClearance": "4",
+          "totalClearance": "4"
+        }
+      },
+      "events": [],
+      "lineups": {
+        "home": [
+          {
+            "name": "Mohammed Al-Owais",
+            "short": "M. Al-Owais",
+            "num": "21",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Hassan Al-Tambakti",
+            "short": "H. Al-Tambakti",
+            "num": "5",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Abdulelah Al-Amri",
+            "short": "A. Al-Amri",
+            "num": "4",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Moteb Al-Harbi",
+            "short": "M. Al-Harbi",
+            "num": "24",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Saud Abdulhamid",
+            "short": "S. Abdulhamid",
+            "num": "12",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Abdullah Al-Khaibari",
+            "short": "A. Al-Khaibari",
+            "num": "15",
+            "pos": "CM-L",
+            "place": "8"
+          },
+          {
+            "name": "Mohamed Kanno",
+            "short": "M. Kanno",
+            "num": "23",
+            "pos": "CM-R",
+            "place": "4"
+          },
+          {
+            "name": "Salem Al-Dawsari",
+            "short": "S. Al-Dawsari",
+            "num": "10",
+            "pos": "LM",
+            "place": "11"
+          },
+          {
+            "name": "Mohammed Abu Al-Shamat",
+            "short": "M. Abu Al-Shamat",
+            "num": "26",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Musab Al-Juwayr",
+            "short": "M. Al-Juwayr",
+            "num": "7",
+            "pos": "CF-L",
+            "place": "9"
+          },
+          {
+            "name": "Feras Al-Brikan",
+            "short": "F. Al-Brikan",
+            "num": "9",
+            "pos": "CF-R",
+            "place": "10"
+          }
+        ],
+        "away": [
+          {
+            "name": "Fernando Muslera",
+            "short": "F. Muslera",
+            "num": "23",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Mathías Olivera",
+            "short": "M. Olivera",
+            "num": "16",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Sebastián Cáceres",
+            "short": "S. Cáceres",
+            "num": "3",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Matías Viña",
+            "short": "M. Viña",
+            "num": "17",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Guillermo Varela",
+            "short": "G. Varela",
+            "num": "13",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Rodrigo Bentancur",
+            "short": "R. Bentancur",
+            "num": "6",
+            "pos": "CM-L",
+            "place": "8"
+          },
+          {
+            "name": "Manuel Ugarte",
+            "short": "M. Ugarte",
+            "num": "5",
+            "pos": "CM-R",
+            "place": "4"
+          },
+          {
+            "name": "Maxi Araújo",
+            "short": "M. Araújo",
+            "num": "20",
+            "pos": "LM",
+            "place": "11"
+          },
+          {
+            "name": "Federico Valverde",
+            "short": "F. Valverde",
+            "num": "8",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Darwin Núñez",
+            "short": "D. Núñez",
+            "num": "9",
+            "pos": "CF-L",
+            "place": "9"
+          },
+          {
+            "name": "Federico Viñas",
+            "short": "F. Viñas",
+            "num": "21",
+            "pos": "CF-R",
+            "place": "10"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Jehad Thakri",
+            "short": "J. Thakri",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nawaf Al-Aqidi",
+            "short": "N. Al-Aqidi",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Aiman Yahya",
+            "short": "A. Yahya",
+            "num": "8",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Khalid Al-Ghannam",
+            "short": "K. Al-Ghannam",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ziyad Al-Johani",
+            "short": "Z. Al-Johani",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ali Lajami",
+            "short": "A. Lajami",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Abdullah Al-Hamdan",
+            "short": "A. Al-Hamdan",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nasser Al-Dawsari",
+            "short": "N. Al-Dawsari",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ali Majrashi",
+            "short": "A. Majrashi",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ahmed Al-Kassar",
+            "short": "A. Al-Kassar",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ala Al-Hajji",
+            "short": "A. Al-Hajji",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nawaf Boushal",
+            "short": "N. Boushal",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Sultan Mandash",
+            "short": "S. Mandash",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Hassan Kadish",
+            "short": "H. Kadish",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Saleh Al-Shehri",
+            "short": "S. Al-Shehri",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Nicolás de la Cruz",
+            "short": "N. de la Cruz",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Emiliano Martínez",
+            "short": "E. Martínez",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Joaquín Piquerez",
+            "short": "J. Piquerez",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Rodrigo Aguirre",
+            "short": "R. Aguirre",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Juan Manuel Sanabria",
+            "short": "J. Sanabria",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Agustín Canobbio",
+            "short": "A. Canobbio",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Santiago Mele",
+            "short": "S. Mele",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Sergio Rochet",
+            "short": "S. Rochet",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Facundo Pellistri",
+            "short": "F. Pellistri",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Rodrigo Zalazar",
+            "short": "R. Zalazar",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Brian Rodríguez",
+            "short": "B. Rodríguez",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Santiago Bueno",
+            "short": "S. Bueno",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "José María Giménez",
+            "short": "J. Giménez",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-4-2",
+        "away": "4-4-2"
+      },
+      "commentary": [
+        {
+          "min": "23'",
+          "text": "Offside, Uruguay. Federico Viñas is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "22'",
+          "text": "Corner, Saudi Arabia. Conceded by Matías Viña.",
+          "goal": false
+        },
+        {
+          "min": "21'",
+          "text": "Attempt missed. Rodrigo Bentancur (Uruguay) header from the centre of the box misses to the right. Assisted by Maxi Araújo with a cross following a set piece situation.",
+          "goal": false
+        },
+        {
+          "min": "20'",
+          "text": "Foul by Saud Abdulhamid (Saudi Arabia).",
+          "goal": false
+        },
+        {
+          "min": "20'",
+          "text": "Matías Viña (Uruguay) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "19'",
+          "text": "Foul by Salem Al Dawsari (Saudi Arabia).",
+          "goal": false
+        },
+        {
+          "min": "19'",
+          "text": "Sebastián Cáceres (Uruguay) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "18'",
+          "text": "Attempt missed. Salem Al Dawsari (Saudi Arabia) right footed shot from outside the box is close, but misses to the right.",
+          "goal": false
+        },
+        {
+          "min": "7'",
+          "text": "Moteb Al Harbi (Saudi Arabia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "7'",
+          "text": "Foul by Guillermo Varela (Uruguay).",
+          "goal": false
+        },
+        {
+          "min": "5'",
+          "text": "Attempt blocked. Federico Viñas (Uruguay) header from the centre of the box is blocked. Assisted by Maxi Araújo with a cross.",
+          "goal": false
+        },
+        {
+          "min": "5'",
+          "text": "Corner, Uruguay. Conceded by Mohammed Abu Al Shamat.",
+          "goal": false
+        },
+        {
+          "min": "5'",
+          "text": "Attempt saved. Maxi Araújo (Uruguay) left footed shot from outside the box is saved in the centre of the goal by Mohammed Al Owais (Saudi Arabia). Assisted by Matías Viña.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "First Half begins.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "Lineups are announced and players are warming up.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "S. Al-Dawsari",
+            "num": "10",
+            "pos": "M",
+            "value": "1"
+          },
+          "away": {
+            "name": "F. Viñas",
+            "num": "21",
+            "pos": "F",
+            "value": "1"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "M. Al-Juwayr",
+            "num": "7",
+            "pos": "M",
+            "value": "17"
+          },
+          "away": {
+            "name": "M. Olivera",
+            "num": "16",
+            "pos": "D",
+            "value": "35"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "A. Al-Khaibari",
+            "num": "15",
+            "pos": "M",
+            "value": "3"
+          },
+          "away": {
+            "name": "M. Ugarte",
+            "num": "5",
+            "pos": "M",
+            "value": "3"
+          }
+        },
+        {
+          "label": "Saves",
+          "home": {
+            "name": "M. Al-Owais",
+            "num": "21",
+            "pos": "G",
+            "value": "1"
+          }
+        }
+      ],
+      "highlight": null,
+      "final": false,
       "dv": 5
     }
   }

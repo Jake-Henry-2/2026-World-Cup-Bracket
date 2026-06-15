@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15T20:05:47.734Z",
+  "lastUpdated": "2026-06-15T22:27:25.653Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -149,16 +149,12 @@
       "stage": "group",
       "home": "Belgium",
       "away": "Egypt",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 1,
-      "status": "live",
+      "status": "finished",
       "id": "760426",
       "date": "2026-06-15T19:00Z",
-      "venue": "Lumen Field",
-      "clock": 2700,
-      "displayClock": "45'+4'",
-      "detail": "HT",
-      "period": 1
+      "venue": "Lumen Field"
     },
     {
       "stage": "group",
@@ -166,10 +162,14 @@
       "away": "Uruguay",
       "homeScore": 0,
       "awayScore": 0,
-      "status": "scheduled",
+      "status": "live",
       "id": "760429",
       "date": "2026-06-15T22:00Z",
-      "venue": "Hard Rock Stadium"
+      "venue": "Hard Rock Stadium",
+      "clock": 1440,
+      "displayClock": "24'",
+      "detail": "24'",
+      "period": 1
     },
     {
       "stage": "group",

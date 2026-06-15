@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15T00:16:34.404Z",
+  "lastUpdated": "2026-06-15T05:31:47.167Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -116,24 +116,20 @@
       "stage": "group",
       "home": "Ivory Coast",
       "away": "Ecuador",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
-      "status": "live",
+      "status": "finished",
       "id": "760423",
       "date": "2026-06-14T23:00Z",
-      "venue": "Lincoln Financial Field",
-      "clock": 3060,
-      "displayClock": "51'",
-      "detail": "51'",
-      "period": 2
+      "venue": "Lincoln Financial Field"
     },
     {
       "stage": "group",
       "home": "Sweden",
       "away": "Tunisia",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "scheduled",
+      "homeScore": 5,
+      "awayScore": 1,
+      "status": "finished",
       "id": "760424",
       "date": "2026-06-15T02:00Z",
       "venue": "Estadio BBVA"

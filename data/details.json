@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15T00:16:34.622Z",
+  "lastUpdated": "2026-06-15T05:31:47.604Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -8200,64 +8200,64 @@
       "venue": "Lincoln Financial Field",
       "stats": {
         "home": {
-          "foulsCommitted": "8",
+          "foulsCommitted": "10",
           "yellowCards": "3",
           "redCards": "0",
           "offsides": "0",
-          "wonCorners": "2",
-          "saves": "0",
-          "possessionPct": "46.7",
-          "totalShots": "7",
+          "wonCorners": "3",
+          "saves": "1",
+          "possessionPct": "48.4",
+          "totalShots": "15",
+          "shotsOnTarget": "4",
+          "shotPct": "0.3",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "397",
+          "totalPasses": "470",
+          "passPct": "0.8",
+          "accurateCrosses": "2",
+          "totalCrosses": "8",
+          "crossPct": "0.3",
+          "totalLongBalls": "40",
+          "accurateLongBalls": "18",
+          "longballPct": "0.5",
+          "blockedShots": "3",
+          "effectiveTackles": "9",
+          "totalTackles": "14",
+          "tacklePct": "0.6",
+          "interceptions": "11",
+          "effectiveClearance": "29",
+          "totalClearance": "29"
+        },
+        "away": {
+          "foulsCommitted": "13",
+          "yellowCards": "1",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "6",
+          "saves": "3",
+          "possessionPct": "51.6",
+          "totalShots": "12",
           "shotsOnTarget": "1",
           "shotPct": "0.1",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "220",
-          "totalPasses": "266",
-          "passPct": "0.8",
-          "accurateCrosses": "1",
-          "totalCrosses": "5",
-          "crossPct": "0.2",
-          "totalLongBalls": "24",
-          "accurateLongBalls": "9",
-          "longballPct": "0.4",
-          "blockedShots": "3",
-          "effectiveTackles": "4",
-          "totalTackles": "7",
-          "tacklePct": "0.6",
-          "interceptions": "5",
-          "effectiveClearance": "10",
-          "totalClearance": "10"
-        },
-        "away": {
-          "foulsCommitted": "4",
-          "yellowCards": "0",
-          "redCards": "0",
-          "offsides": "0",
-          "wonCorners": "0",
-          "saves": "1",
-          "possessionPct": "53.3",
-          "totalShots": "7",
-          "shotsOnTarget": "0",
-          "shotPct": "0.0",
-          "penaltyKickGoals": "0",
-          "penaltyKickShots": "0",
-          "accuratePasses": "267",
-          "totalPasses": "306",
+          "accuratePasses": "419",
+          "totalPasses": "492",
           "passPct": "0.9",
-          "accurateCrosses": "1",
-          "totalCrosses": "3",
+          "accurateCrosses": "4",
+          "totalCrosses": "14",
           "crossPct": "0.3",
-          "totalLongBalls": "20",
-          "accurateLongBalls": "5",
+          "totalLongBalls": "36",
+          "accurateLongBalls": "11",
           "longballPct": "0.3",
-          "blockedShots": "0",
-          "effectiveTackles": "8",
-          "totalTackles": "12",
+          "blockedShots": "3",
+          "effectiveTackles": "15",
+          "totalTackles": "21",
           "tacklePct": "0.7",
-          "interceptions": "8",
-          "effectiveClearance": "12",
-          "totalClearance": "12"
+          "interceptions": "13",
+          "effectiveClearance": "18",
+          "totalClearance": "18"
         }
       },
       "events": [
@@ -8278,6 +8278,72 @@
           "min": "40'",
           "side": "home",
           "player": "Guéla Doué"
+        },
+        {
+          "kind": "Substitution",
+          "min": "56'",
+          "side": "away",
+          "player": "Substitution, Ecuador. Nilson Angulo replaces Alan Minda."
+        },
+        {
+          "kind": "Substitution",
+          "min": "56'",
+          "side": "home",
+          "player": "Substitution, Côte d'Ivoire. Ange-Yoan Bonny replaces Elye Wahi."
+        },
+        {
+          "kind": "Substitution",
+          "min": "56'",
+          "side": "home",
+          "player": "Substitution, Côte d'Ivoire. Amad Diallo replaces Bazoumana Touré."
+        },
+        {
+          "kind": "Substitution",
+          "min": "62'",
+          "side": "away",
+          "player": "Substitution, Ecuador. Jackson Porozo replaces Alan Franco."
+        },
+        {
+          "kind": "Substitution",
+          "min": "62'",
+          "side": "away",
+          "player": "Substitution, Ecuador. Ángelo Preciado replaces John Yeboah."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "73'",
+          "side": "away",
+          "player": "Jackson Porozo"
+        },
+        {
+          "kind": "Substitution",
+          "min": "77'",
+          "side": "home",
+          "player": "Substitution, Côte d'Ivoire. Ibrahim Sangaré replaces Seko Fofana."
+        },
+        {
+          "kind": "Substitution",
+          "min": "77'",
+          "side": "home",
+          "player": "Substitution, Côte d'Ivoire. Christ Inao Oulaï replaces Nicolas Pépé."
+        },
+        {
+          "kind": "Substitution",
+          "min": "77'",
+          "side": "away",
+          "player": "Substitution, Ecuador. Kevin Rodríguez replaces Enner Valencia."
+        },
+        {
+          "kind": "Substitution",
+          "min": "89'",
+          "side": "home",
+          "player": "Substitution, Côte d'Ivoire. Odilon Kossounou replaces Guéla Doué."
+        },
+        {
+          "kind": "Goal",
+          "min": "90'",
+          "side": "home",
+          "player": "Goal! Côte d'Ivoire 1, Ecuador 0. Amad Diallo"
         }
       ],
       "lineups": {
@@ -8369,25 +8435,32 @@
             "place": "1"
           },
           {
-            "name": "Joel Ordóñez",
-            "short": "J. Ordóñez",
-            "num": "4",
-            "pos": "CD",
-            "place": "5"
-          },
-          {
             "name": "Willian Pacho",
             "short": "W. Pacho",
             "num": "6",
             "pos": "CD-L",
-            "place": "4"
+            "place": "6"
+          },
+          {
+            "name": "Joel Ordóñez",
+            "short": "J. Ordóñez",
+            "num": "4",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Piero Hincapié",
+            "short": "P. Hincapié",
+            "num": "3",
+            "pos": "LB",
+            "place": "3"
           },
           {
             "name": "Alan Franco",
             "short": "A. Franco",
             "num": "21",
-            "pos": "CD-R",
-            "place": "6"
+            "pos": "RB",
+            "place": "2"
           },
           {
             "name": "Pedro Vite",
@@ -8401,35 +8474,28 @@
             "short": "M. Caicedo",
             "num": "23",
             "pos": "CM-R",
-            "place": "7"
+            "place": "4"
           },
           {
-            "name": "Piero Hincapié",
-            "short": "P. Hincapié",
-            "num": "3",
+            "name": "Alan Minda",
+            "short": "A. Minda",
+            "num": "14",
             "pos": "LM",
-            "place": "3"
+            "place": "11"
           },
           {
             "name": "John Yeboah",
             "short": "J. Yeboah",
             "num": "9",
             "pos": "RM",
-            "place": "2"
+            "place": "7"
           },
           {
             "name": "Enner Valencia",
             "short": "E. Valencia",
             "num": "13",
-            "pos": "F",
-            "place": "9"
-          },
-          {
-            "name": "Alan Minda",
-            "short": "A. Minda",
-            "num": "14",
             "pos": "CF-L",
-            "place": "11"
+            "place": "9"
           },
           {
             "name": "Gonzalo Plata",
@@ -8658,267 +8724,307 @@
       },
       "formation": {
         "home": "4-4-2",
-        "away": "3-4-2-1"
+        "away": "4-4-2"
       },
       "commentary": [
         {
+          "min": "",
+          "text": "Match ends, Côte d'Ivoire 1, Ecuador 0.",
+          "goal": false
+        },
+        {
+          "min": "90'+9'",
+          "text": "Second Half ends, Côte d'Ivoire 1, Ecuador 0.",
+          "goal": false
+        },
+        {
+          "min": "90'+9'",
+          "text": "Corner, Ecuador. Conceded by Christ Inao Oulaï.",
+          "goal": false
+        },
+        {
+          "min": "90'+9'",
+          "text": "Attempt blocked. Piero Hincapié (Ecuador) header from very close range is blocked. Assisted by Moisés Caicedo with a cross.",
+          "goal": false
+        },
+        {
+          "min": "90'+8'",
+          "text": "Corner, Ecuador. Conceded by Odilon Kossounou.",
+          "goal": false
+        },
+        {
+          "min": "90'+7'",
+          "text": "Attempt missed. Christ Inao Oulaï (Côte d'Ivoire) right footed shot from outside the box is too high. Assisted by Amad Diallo.",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Corner, Ecuador. Conceded by Christ Inao Oulaï.",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Corner, Ecuador. Conceded by Wilfried Singo.",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Attempt saved. Amad Diallo (Côte d'Ivoire) left footed shot from outside the box is saved in the centre of the goal by Hernán Galíndez (Ecuador). Assisted by Ghislain Konan.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Foul by Nilson Angulo (Ecuador).",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Wilfried Singo (Côte d'Ivoire) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Foul by Moisés Caicedo (Ecuador).",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Christ Inao Oulaï (Côte d'Ivoire) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Fourth official has announced 7 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Goal! Côte d'Ivoire 1, Ecuador 0. Amad Diallo (Côte d'Ivoire) left footed shot from the centre of the box to the bottom left corner. Assisted by Wilfried Singo.",
+          "goal": true
+        },
+        {
+          "min": "89'",
+          "text": "Substitution, Côte d'Ivoire. Odilon Kossounou replaces Guéla Doué.",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Attempt blocked. Joel Ordóñez (Ecuador) right footed shot from the centre of the box is blocked. Assisted by Nilson Angulo with a cross.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Corner, Ecuador. Conceded by Ghislain Konan.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Attempt blocked. Joel Ordóñez (Ecuador) header from very close range is blocked. Assisted by Moisés Caicedo with a cross.",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Foul by Guéla Doué (Côte d'Ivoire).",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Nilson Angulo (Ecuador) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Ibrahim Sangaré (Côte d'Ivoire) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Foul by Gonzalo Plata (Ecuador).",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Delay in match because of an injury Joel Ordóñez (Ecuador).",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Attempt missed. Ghislain Konan (Côte d'Ivoire) right footed shot from a difficult angle on the left misses to the left.",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Franck Kessie (Côte d'Ivoire) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Foul by Moisés Caicedo (Ecuador).",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Handball by Christ Inao Oulaï (Côte d'Ivoire).",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Foul by Moisés Caicedo (Ecuador).",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Christ Inao Oulaï (Côte d'Ivoire) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Substitution, Ecuador. Kevin Rodríguez replaces Enner Valencia.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Substitution, Côte d'Ivoire. Christ Inao Oulaï replaces Nicolas Pépé.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Substitution, Côte d'Ivoire. Ibrahim Sangaré replaces Seko Fofana.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Jackson Porozo (Ecuador) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Foul by Jackson Porozo (Ecuador).",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Ange-Yoan Bonny (Côte d'Ivoire) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Corner, Ecuador. Conceded by Emmanuel Agbadou.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "69'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Attempt saved. Gonzalo Plata (Ecuador) left footed shot from outside the box is saved in the centre of the goal by Yahia Fofana (Côte d'Ivoire).",
+          "goal": false
+        },
+        {
+          "min": "63'",
+          "text": "Foul by Jackson Porozo (Ecuador).",
+          "goal": false
+        },
+        {
+          "min": "63'",
+          "text": "Ange-Yoan Bonny (Côte d'Ivoire) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Substitution, Ecuador. Ángelo Preciado replaces John Yeboah.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Substitution, Ecuador. Jackson Porozo replaces Alan Franco.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Foul by Alan Franco (Ecuador).",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Yan Diomande (Côte d'Ivoire) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Attempt saved. Seko Fofana (Côte d'Ivoire) right footed shot from outside the box is saved in the centre of the goal by Hernán Galíndez (Ecuador). Assisted by Yan Diomande.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Corner, Côte d'Ivoire. Conceded by Joel Ordóñez.",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Attempt missed. Yan Diomande (Côte d'Ivoire) right footed shot from the left side of the box is too high.",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Yan Diomande (Côte d'Ivoire) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Foul by Alan Franco (Ecuador).",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Substitution, Côte d'Ivoire. Amad Diallo replaces Bazoumana Touré.",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Substitution, Côte d'Ivoire. Ange-Yoan Bonny replaces Elye Wahi.",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Substitution, Ecuador. Nilson Angulo replaces Alan Minda.",
+          "goal": false
+        },
+        {
+          "min": "55'",
+          "text": "Attempt missed. Pedro Vite (Ecuador) left footed shot from outside the box is close, but misses to the right. Assisted by Gonzalo Plata.",
+          "goal": false
+        },
+        {
+          "min": "53'",
+          "text": "Attempt missed. Seko Fofana (Côte d'Ivoire) left footed shot from outside the box misses to the left. Assisted by Guéla Doué.",
+          "goal": false
+        },
+        {
+          "min": "52'",
+          "text": "Elye Wahi (Côte d'Ivoire) hits the bar with a right footed shot from the centre of the box. Assisted by Yan Diomande with a cross.",
+          "goal": false
+        },
+        {
           "min": "50'",
-          "text": "Attempt missed. Nicolas Pépé (Côte d'Ivoire) left footed shot from the centre of the box.",
+          "text": "Attempt missed. Yan Diomande (Côte d'Ivoire) left footed shot from the centre of the box is high and wide to the left. Assisted by Seko Fofana.",
           "goal": false
         },
         {
           "min": "48'",
           "text": "Bazoumana Touré (Côte d'Ivoire) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "48'",
-          "text": "Foul by Alan Franco (Ecuador).",
-          "goal": false
-        },
-        {
-          "min": "46'",
-          "text": "Enner Valencia (Ecuador) hits the left post with a left footed shot from a difficult angle on the left. Assisted by Gonzalo Plata with a through ball.",
-          "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Second Half begins Côte d'Ivoire 0, Ecuador 0.",
-          "goal": false
-        },
-        {
-          "min": "45'+5'",
-          "text": "First Half ends, Côte d'Ivoire 0, Ecuador 0.",
-          "goal": false
-        },
-        {
-          "min": "45'+4'",
-          "text": "Moisés Caicedo (Ecuador) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "45'+4'",
-          "text": "Foul by Franck Kessie (Côte d'Ivoire).",
-          "goal": false
-        },
-        {
-          "min": "45'+3'",
-          "text": "Attempt blocked. Nicolas Pépé (Côte d'Ivoire) left footed shot from outside the box is blocked. Assisted by Yan Diomande.",
-          "goal": false
-        },
-        {
-          "min": "45'+2'",
-          "text": "Attempt missed. Wilfried Singo (Côte d'Ivoire) right footed shot from the centre of the box is too high. Assisted by Guéla Doué with a cross following a corner.",
-          "goal": false
-        },
-        {
-          "min": "45'+2'",
-          "text": "Corner, Côte d'Ivoire. Conceded by Pedro Vite.",
-          "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Fourth official has announced 4 minutes of added time.",
-          "goal": false
-        },
-        {
-          "min": "41'",
-          "text": "Guéla Doué (Côte d'Ivoire) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "41'",
-          "text": "Foul by Willian Pacho (Ecuador).",
-          "goal": false
-        },
-        {
-          "min": "40'",
-          "text": "Guéla Doué (Côte d'Ivoire) is shown the yellow card for a bad foul.",
-          "goal": false
-        },
-        {
-          "min": "40'",
-          "text": "Enner Valencia (Ecuador) wins a free kick on the left wing.",
-          "goal": false
-        },
-        {
-          "min": "40'",
-          "text": "Foul by Guéla Doué (Côte d'Ivoire).",
-          "goal": false
-        },
-        {
-          "min": "38'",
-          "text": "Franck Kessie (Côte d'Ivoire) is shown the yellow card for a bad foul.",
-          "goal": false
-        },
-        {
-          "min": "38'",
-          "text": "Piero Hincapié (Ecuador) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "38'",
-          "text": "Foul by Franck Kessie (Côte d'Ivoire).",
-          "goal": false
-        },
-        {
-          "min": "37'",
-          "text": "Alan Minda (Ecuador) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "37'",
-          "text": "Foul by Guéla Doué (Côte d'Ivoire).",
-          "goal": false
-        },
-        {
-          "min": "37'",
-          "text": "Foul by Enner Valencia (Ecuador).",
-          "goal": false
-        },
-        {
-          "min": "37'",
-          "text": "Guéla Doué (Côte d'Ivoire) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "35'",
-          "text": "Attempt blocked. Nicolas Pépé (Côte d'Ivoire) left footed shot from the centre of the box is blocked. Assisted by Yan Diomande.",
-          "goal": false
-        },
-        {
-          "min": "33'",
-          "text": "Attempt missed. Seko Fofana (Côte d'Ivoire) right footed shot from outside the box is high and wide to the right. Assisted by Franck Kessie.",
-          "goal": false
-        },
-        {
-          "min": "30'",
-          "text": "Attempt missed. John Yeboah (Ecuador) left footed shot from outside the box misses to the left. Assisted by Moisés Caicedo.",
-          "goal": false
-        },
-        {
-          "min": "30'",
-          "text": "Alan Minda (Ecuador) hits the bar with a right footed shot from the centre of the box. Assisted by Pedro Vite with a through ball.",
-          "goal": false
-        },
-        {
-          "min": "28'",
-          "text": "Seko Fofana (Côte d'Ivoire) is shown the yellow card for a bad foul.",
-          "goal": false
-        },
-        {
-          "min": "28'",
-          "text": "Foul by Seko Fofana (Côte d'Ivoire).",
-          "goal": false
-        },
-        {
-          "min": "28'",
-          "text": "Moisés Caicedo (Ecuador) wins a free kick on the right wing.",
-          "goal": false
-        },
-        {
-          "min": "27'",
-          "text": "Delay over. They are ready to continue.",
-          "goal": false
-        },
-        {
-          "min": "24'",
-          "text": "Delay in match for a drinks break.",
-          "goal": false
-        },
-        {
-          "min": "24'",
-          "text": "Attempt missed. Alan Minda (Ecuador) right footed shot from outside the box misses to the right.",
-          "goal": false
-        },
-        {
-          "min": "23'",
-          "text": "John Yeboah (Ecuador) hits the bar with a left footed shot from outside the box.",
-          "goal": false
-        },
-        {
-          "min": "22'",
-          "text": "Foul by Wilfried Singo (Côte d'Ivoire).",
-          "goal": false
-        },
-        {
-          "min": "22'",
-          "text": "Enner Valencia (Ecuador) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "20'",
-          "text": "Delay over. They are ready to continue.",
-          "goal": false
-        },
-        {
-          "min": "20'",
-          "text": "Delay in match because of an injury Moisés Caicedo (Ecuador).",
-          "goal": false
-        },
-        {
-          "min": "19'",
-          "text": "Corner, Côte d'Ivoire. Conceded by Joel Ordóñez.",
-          "goal": false
-        },
-        {
-          "min": "18'",
-          "text": "Attempt saved. Elye Wahi (Côte d'Ivoire) right footed shot from the centre of the box is saved in the bottom right corner by Hernán Galíndez (Ecuador).",
-          "goal": false
-        },
-        {
-          "min": "16'",
-          "text": "Attempt blocked. Seko Fofana (Côte d'Ivoire) right footed shot from outside the box is blocked. Assisted by Yan Diomande.",
-          "goal": false
-        },
-        {
-          "min": "14'",
-          "text": "Attempt missed. John Yeboah (Ecuador) left footed shot from outside the box is high and wide to the left. Assisted by Alan Franco.",
-          "goal": false
-        },
-        {
-          "min": "8'",
-          "text": "Foul by Enner Valencia (Ecuador).",
-          "goal": false
-        },
-        {
-          "min": "8'",
-          "text": "Franck Kessie (Côte d'Ivoire) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "4'",
-          "text": "Foul by Franck Kessie (Côte d'Ivoire).",
-          "goal": false
-        },
-        {
-          "min": "4'",
-          "text": "Enner Valencia (Ecuador) wins a free kick on the left wing.",
-          "goal": false
-        },
-        {
-          "min": "2'",
-          "text": "Attempt missed. Moisés Caicedo (Ecuador) right footed shot from outside the box misses to the left. Assisted by Gonzalo Plata.",
-          "goal": false
-        },
-        {
-          "min": "2'",
-          "text": "Enner Valencia (Ecuador) wins a free kick on the left wing.",
-          "goal": false
-        },
-        {
-          "min": "2'",
-          "text": "Foul by Wilfried Singo (Côte d'Ivoire).",
-          "goal": false
-        },
-        {
-          "min": "",
-          "text": "First Half begins.",
-          "goal": false
-        },
-        {
-          "min": "",
-          "text": "Lineups are announced and players are warming up.",
           "goal": false
         }
       ],
@@ -8926,10 +9032,10 @@
         {
           "label": "Total Shots",
           "home": {
-            "name": "N. Pépé",
-            "num": "19",
-            "pos": "F",
-            "value": "3"
+            "name": "S. Fofana",
+            "num": "6",
+            "pos": "M",
+            "value": "4"
           },
           "away": {
             "name": "J. Yeboah",
@@ -8941,45 +9047,979 @@
         {
           "label": "Accurate Passes",
           "home": {
-            "name": "F. Kessié",
-            "num": "8",
-            "pos": "M",
-            "value": "35"
+            "name": "E. Agbadou",
+            "num": "20",
+            "pos": "D",
+            "value": "57"
           },
           "away": {
             "name": "W. Pacho",
             "num": "6",
             "pos": "D",
-            "value": "50"
+            "value": "72"
           }
         },
         {
           "label": "Defensive Interventions",
           "home": {
-            "name": "G. Doué",
-            "num": "17",
+            "name": "E. Agbadou",
+            "num": "20",
             "pos": "D",
-            "value": "6"
+            "value": "17"
           },
           "away": {
-            "name": "A. Franco",
-            "num": "21",
-            "pos": "M",
-            "value": "8"
+            "name": "W. Pacho",
+            "num": "6",
+            "pos": "D",
+            "value": "13"
           }
         },
         {
           "label": "Saves",
+          "home": {
+            "name": "Y. Fofana",
+            "num": "1",
+            "pos": "G",
+            "value": "1"
+          },
           "away": {
             "name": "H. Galíndez",
+            "num": "1",
+            "pos": "G",
+            "value": "3"
+          }
+        }
+      ],
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0614/dm_260614_COM_SOC_News_Onuoha_praises_Diomandes_impact_in_Ivory_Coasts_win_over_Ecuador_20260614_GLOBAL/dm_260614_COM_SOC_News_Onuoha_praises_Diomandes_impact_in_Ivory_Coasts_win_over_Ecuador_20260614_GLOBAL.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49066976/onuoha-praises-diomande-impact-ivory-coast-win-ecuador",
+        "headline": "Onuoha praises Diomande's impact in Ivory Coast's win over Ecuador",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0614/dm_260614_COM_SOC_News_Onuoha_praises_Diomandes_impact_in_Ivory_Coasts_win_over_Ecuador_20260614_GLOBAL/dm_260614_COM_SOC_News_Onuoha_praises_Diomandes_impact_in_Ivory_Coasts_win_over_Ecuador_20260614_GLOBAL_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0614/dm_260614_COM_SOC_News_Onuoha_praises_Diomandes_impact_in_Ivory_Coasts_win_over_Ecuador_20260614_GLOBAL/dm_260614_COM_SOC_News_Onuoha_praises_Diomandes_impact_in_Ivory_Coasts_win_over_Ecuador_20260614_GLOBAL/playlist.m3u8"
+      },
+      "final": true,
+      "dv": 5
+    },
+    "760424": {
+      "venue": "Estadio BBVA",
+      "stats": {
+        "home": {
+          "foulsCommitted": "10",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "3",
+          "wonCorners": "4",
+          "saves": "1",
+          "possessionPct": "49.1",
+          "totalShots": "13",
+          "shotsOnTarget": "7",
+          "shotPct": "0.5",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "279",
+          "totalPasses": "355",
+          "passPct": "0.8",
+          "accurateCrosses": "3",
+          "totalCrosses": "12",
+          "crossPct": "0.3",
+          "totalLongBalls": "58",
+          "accurateLongBalls": "22",
+          "longballPct": "0.4",
+          "blockedShots": "3",
+          "effectiveTackles": "10",
+          "totalTackles": "14",
+          "tacklePct": "0.7",
+          "interceptions": "8",
+          "effectiveClearance": "24",
+          "totalClearance": "24"
+        },
+        "away": {
+          "foulsCommitted": "8",
+          "yellowCards": "1",
+          "redCards": "0",
+          "offsides": "6",
+          "wonCorners": "2",
+          "saves": "1",
+          "possessionPct": "50.9",
+          "totalShots": "6",
+          "shotsOnTarget": "2",
+          "shotPct": "0.3",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "288",
+          "totalPasses": "364",
+          "passPct": "0.8",
+          "accurateCrosses": "3",
+          "totalCrosses": "13",
+          "crossPct": "0.2",
+          "totalLongBalls": "54",
+          "accurateLongBalls": "24",
+          "longballPct": "0.4",
+          "blockedShots": "1",
+          "effectiveTackles": "11",
+          "totalTackles": "20",
+          "tacklePct": "0.6",
+          "interceptions": "5",
+          "effectiveClearance": "15",
+          "totalClearance": "15"
+        }
+      },
+      "events": [
+        {
+          "kind": "Goal",
+          "min": "7'",
+          "side": "home",
+          "player": "Goal! Sweden 1, Tunisia 0. Yasin Ayari"
+        },
+        {
+          "kind": "Goal",
+          "min": "30'",
+          "side": "home",
+          "player": "Goal! Sweden 2, Tunisia 0. Alexander Isak"
+        },
+        {
+          "kind": "Goal - Header",
+          "min": "43'",
+          "side": "away",
+          "player": "Goal! Sweden 2, Tunisia 1. Omar Rekik"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "54'",
+          "side": "away",
+          "player": "Rani Khedira"
+        },
+        {
+          "kind": "Goal",
+          "min": "59'",
+          "side": "home",
+          "player": "Goal! Sweden 3, Tunisia 1. Viktor Gyökeres"
+        },
+        {
+          "kind": "Substitution",
+          "min": "65'",
+          "side": "home",
+          "player": "Substitution, Sweden. Elliot Stroud replaces Gabriel Gudmundsson because of an injury."
+        },
+        {
+          "kind": "Substitution",
+          "min": "65'",
+          "side": "home",
+          "player": "Substitution, Sweden. Lucas Bergvall replaces Benjamin Nygren."
+        },
+        {
+          "kind": "Substitution",
+          "min": "72'",
+          "side": "away",
+          "player": "Substitution, Tunisia. Elias Achouri replaces Ellyes Skhiri."
+        },
+        {
+          "kind": "Substitution",
+          "min": "72'",
+          "side": "away",
+          "player": "Substitution, Tunisia. Sebastian Tounekti replaces Elias Saad."
+        },
+        {
+          "kind": "Substitution",
+          "min": "72'",
+          "side": "away",
+          "player": "Substitution, Tunisia. Hadj Mahmoud replaces Yan Valery."
+        },
+        {
+          "kind": "Substitution",
+          "min": "83'",
+          "side": "away",
+          "player": "Substitution, Tunisia. Ismaël Gharbi replaces Rani Khedira."
+        },
+        {
+          "kind": "Substitution",
+          "min": "84'",
+          "side": "away",
+          "player": "Substitution, Tunisia. Firas Chaouat replaces Anis Ben Slimane."
+        },
+        {
+          "kind": "Substitution",
+          "min": "84'",
+          "side": "home",
+          "player": "Substitution, Sweden. Mattias Svanberg replaces Jesper Karlström."
+        },
+        {
+          "kind": "Goal",
+          "min": "84'",
+          "side": "home",
+          "player": "Goal! Sweden 4, Tunisia 1. Mattias Svanberg"
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'+1'",
+          "side": "home",
+          "player": "Substitution, Sweden. Anthony Elanga replaces Alexander Isak."
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'+1'",
+          "side": "home",
+          "player": "Substitution, Sweden. Daniel Svensson replaces Alexander Bernhardsson."
+        },
+        {
+          "kind": "Goal",
+          "min": "90'+6'",
+          "side": "home",
+          "player": "Goal! Sweden 5, Tunisia 1. Yasin Ayari"
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Kristoffer Nordfeldt",
+            "short": "K. Nordfeldt",
+            "num": "23",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Isak Hien",
+            "short": "I. Hien",
+            "num": "4",
+            "pos": "CD",
+            "place": "4"
+          },
+          {
+            "name": "Victor Lindelöf",
+            "short": "V. Lindelöf",
+            "num": "3",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Gustaf Lagerbielke",
+            "short": "G. Lagerbielke",
+            "num": "2",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Jesper Karlström",
+            "short": "J. Karlström",
+            "num": "16",
+            "pos": "SW",
+            "place": "8"
+          },
+          {
+            "name": "Yasin Ayari",
+            "short": "Y. Ayari",
+            "num": "18",
+            "pos": "CM-L",
+            "place": "11"
+          },
+          {
+            "name": "Benjamin Nygren",
+            "short": "B. Nygren",
+            "num": "10",
+            "pos": "CM-R",
+            "place": "7"
+          },
+          {
+            "name": "Gabriel Gudmundsson",
+            "short": "G. Gudmundsson",
+            "num": "5",
+            "pos": "LM",
+            "place": "3"
+          },
+          {
+            "name": "Alexander Bernhardsson",
+            "short": "A. Bernhardsson",
+            "num": "21",
+            "pos": "RM",
+            "place": "2"
+          },
+          {
+            "name": "Alexander Isak",
+            "short": "A. Isak",
+            "num": "9",
+            "pos": "CF-L",
+            "place": "10"
+          },
+          {
+            "name": "Viktor Gyökeres",
+            "short": "V. Gyökeres",
+            "num": "17",
+            "pos": "CF-R",
+            "place": "9"
+          }
+        ],
+        "away": [
+          {
+            "name": "Mouhib Chamakh",
+            "short": "M. Chamakh",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Montassar Talbi",
+            "short": "M. Talbi",
+            "num": "3",
+            "pos": "CD",
+            "place": "5"
+          },
+          {
+            "name": "Mohamed Amine Ben Hamida",
+            "short": "M. Ben Hamida",
+            "num": "21",
+            "pos": "CD-L",
+            "place": "4"
+          },
+          {
+            "name": "Omar Rekik",
+            "short": "O. Rekik",
+            "num": "4",
+            "pos": "CD-R",
+            "place": "6"
+          },
+          {
+            "name": "Ali Abdi",
+            "short": "A. Abdi",
+            "num": "2",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Yan Valery",
+            "short": "Y. Valery",
+            "num": "20",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Ellyes Skhiri",
+            "short": "E. Skhiri",
+            "num": "17",
+            "pos": "CM",
+            "place": "8"
+          },
+          {
+            "name": "Hannibal Mejbri",
+            "short": "H. Mejbri",
+            "num": "10",
+            "pos": "CM-L",
+            "place": "11"
+          },
+          {
+            "name": "Rani Khedira",
+            "short": "R. Khedira",
+            "num": "13",
+            "pos": "CM-R",
+            "place": "7"
+          },
+          {
+            "name": "Anis Slimane",
+            "short": "A. Slimane",
+            "num": "25",
+            "pos": "CF-L",
+            "place": "9"
+          },
+          {
+            "name": "Elias Saad",
+            "short": "E. Saad",
+            "num": "8",
+            "pos": "CF-R",
+            "place": "10"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Mattias Svanberg",
+            "short": "M. Svanberg",
+            "num": "19",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Daniel Svensson",
+            "short": "D. Svensson",
+            "num": "8",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Gustaf Nilsson",
+            "short": "G. Nilsson",
+            "num": "25",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Elliot Stroud",
+            "short": "E. Stroud",
+            "num": "24",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Viktor Johansson",
+            "short": "V. Johansson",
+            "num": "12",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Besfort Zeneli",
+            "short": "B. Zeneli",
+            "num": "22",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Hjalmar Ekdal",
+            "short": "H. Ekdal",
+            "num": "14",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Eric Smith",
+            "short": "E. Smith",
+            "num": "20",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Anthony Elanga",
+            "short": "A. Elanga",
+            "num": "11",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Lucas Bergvall",
+            "short": "L. Bergvall",
+            "num": "7",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Herman Johansson",
+            "short": "H. Johansson",
+            "num": "6",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Jacob Widell Zetterström",
+            "short": "J. Widell Zetterström",
+            "num": "1",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Taha Ali",
+            "short": "T. Ali",
+            "num": "26",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Ken Sema",
+            "short": "K. Sema",
+            "num": "13",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Carl Starfelt",
+            "short": "C. Starfelt",
+            "num": "15",
+            "pos": "",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Adem Arous",
+            "short": "A. Arous",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Khalil Ayari",
+            "short": "K. Ayari",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Sebastian Tounekti",
+            "short": "S. Tounekti",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Dylan Bronn",
+            "short": "D. Bronn",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ismaël Gharbi",
+            "short": "I. Gharbi",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Hazem Mastouri",
+            "short": "H. Mastouri",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Moutaz Neffati",
+            "short": "M. Neffati",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Elias Achouri",
+            "short": "E. Achouri",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Raed Chikhaoui",
+            "short": "R. Chikhaoui",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mohamed Hadj Mahmoud",
+            "short": "M. Hadj Mahmoud",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Aymen Dahmen",
+            "short": "A. Dahmen",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Firas Chaouat",
+            "short": "F. Chaouat",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Rayan Elloumi",
+            "short": "R. Elloumi",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mortadha Ben Ouanes",
+            "short": "M. Ben Ouanes",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Sabri Ben Hessen",
+            "short": "S. Ben Hessen",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "3-1-4-2",
+        "away": "5-3-2"
+      },
+      "commentary": [
+        {
+          "min": "",
+          "text": "Match ends, Sweden 5, Tunisia 1.",
+          "goal": false
+        },
+        {
+          "min": "90'+7'",
+          "text": "Second Half ends, Sweden 5, Tunisia 1.",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Goal! Sweden 5, Tunisia 1. Yasin Ayari (Sweden) right footed shot from outside the box to the bottom left corner. Assisted by Lucas Bergvall.",
+          "goal": true
+        },
+        {
+          "min": "90'+4'",
+          "text": "Offside, Tunisia. Firas Chaouat is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Gustaf Lagerbielke (Sweden) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Foul by Ali Abdi (Tunisia).",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Attempt saved. Elias Achouri (Tunisia) right footed shot from outside the box is saved in the top centre of the goal by Kristoffer Nordfeldt (Sweden).",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Foul by Victor Lindelöf (Sweden).",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Elias Achouri (Tunisia) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Substitution, Sweden. Daniel Svensson replaces Alexander Bernhardsson.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Substitution, Sweden. Anthony Elanga replaces Alexander Isak.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Fourth official has announced 6 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Corner, Sweden. Conceded by Mohamed Amine Ben Hmida.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Attempt blocked. Lucas Bergvall (Sweden) right footed shot from the centre of the box is blocked. Assisted by Viktor Gyökeres.",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Offside, Tunisia. Firas Chaouat is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Attempt saved. Alexander Isak (Sweden) right footed shot from the centre of the box is saved in the bottom right corner by Abdelmouhib Chamakh (Tunisia). Assisted by Viktor Gyökeres.",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "VAR Decision: Goal Sweden 4-1 Tunisia (Mattias Svanberg).",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Goal! Sweden 4, Tunisia 1. Mattias Svanberg (Sweden) right footed shot from the centre of the box to the centre of the goal. Assisted by Alexander Isak following a set piece situation.Goal awarded following VAR Review.",
+          "goal": true
+        },
+        {
+          "min": "84'",
+          "text": "Substitution, Sweden. Mattias Svanberg replaces Jesper Karlström.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Substitution, Tunisia. Firas Chaouat replaces Anis Ben Slimane.",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Substitution, Tunisia. Ismaël Gharbi replaces Rani Khedira.",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Foul by Ali Abdi (Tunisia).",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Alexander Bernhardsson (Sweden) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Offside, Tunisia. Elias Achouri is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Handball by Isak Hien (Sweden).",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Corner, Sweden. Conceded by Hadj Mahmoud.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Hannibal Mejbri (Tunisia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Foul by Lucas Bergvall (Sweden).",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Isak Hien (Sweden) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Foul by Sebastian Tounekti (Tunisia).",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Substitution, Tunisia. Hadj Mahmoud replaces Yan Valery.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Substitution, Tunisia. Sebastian Tounekti replaces Elias Saad.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Substitution, Tunisia. Elias Achouri replaces Ellyes Skhiri.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "69'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Attempt blocked. Alexander Isak (Sweden) right footed shot from the centre of the box is blocked. Assisted by Viktor Gyökeres.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Offside, Tunisia. Anis Ben Slimane is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Attempt missed. Viktor Gyökeres (Sweden) right footed shot from the right side of the box is high and wide to the right. Assisted by Gustaf Lagerbielke.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Substitution, Sweden. Lucas Bergvall replaces Benjamin Nygren.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Substitution, Sweden. Elliot Stroud replaces Gabriel Gudmundsson because of an injury.",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Delay in match because of an injury Gabriel Gudmundsson (Sweden).",
+          "goal": false
+        },
+        {
+          "min": "63'",
+          "text": "Hannibal Mejbri (Tunisia) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "63'",
+          "text": "Foul by Victor Lindelöf (Sweden).",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Corner, Tunisia. Conceded by Gabriel Gudmundsson.",
+          "goal": false
+        },
+        {
+          "min": "59'",
+          "text": "Goal! Sweden 3, Tunisia 1. Viktor Gyökeres (Sweden) right footed shot from the centre of the box to the bottom left corner. Assisted by Alexander Isak.",
+          "goal": true
+        },
+        {
+          "min": "58'",
+          "text": "Foul by Yan Valery (Tunisia).",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Gabriel Gudmundsson (Sweden) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Offside, Sweden. Alexander Isak is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "55'",
+          "text": "Attempt missed. Montassar Talbi (Tunisia) header from the centre of the box is high and wide to the left. Assisted by Hannibal Mejbri with a cross following a corner.",
+          "goal": false
+        },
+        {
+          "min": "55'",
+          "text": "Corner, Tunisia. Conceded by Isak Hien.",
+          "goal": false
+        },
+        {
+          "min": "54'",
+          "text": "Rani Khedira (Tunisia) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "54'",
+          "text": "Offside, Sweden. Alexander Isak is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "53'",
+          "text": "Attempt blocked. Viktor Gyökeres (Sweden) right footed shot from outside the box is blocked. Assisted by Jesper Karlström.",
+          "goal": false
+        },
+        {
+          "min": "52'",
+          "text": "Attempt missed. Hannibal Mejbri (Tunisia) right footed shot from outside the box is too high from a direct free kick.",
+          "goal": false
+        },
+        {
+          "min": "51'",
+          "text": "Foul by Jesper Karlström (Sweden).",
+          "goal": false
+        },
+        {
+          "min": "51'",
+          "text": "Elias Saad (Tunisia) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "50'",
+          "text": "Mohamed Amine Ben Hmida (Tunisia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "50'",
+          "text": "Foul by Alexander Isak (Sweden).",
+          "goal": false
+        },
+        {
+          "min": "50'",
+          "text": "Offside, Sweden. Alexander Isak is caught offside.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "V. Gyökeres",
+            "num": "17",
+            "pos": "F",
+            "value": "5"
+          },
+          "away": {
+            "name": "O. Rekik",
+            "num": "4",
+            "pos": "D",
+            "value": "1"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "V. Lindelöf",
+            "num": "3",
+            "pos": "D",
+            "value": "51"
+          },
+          "away": {
+            "name": "M. Ben Hamida",
+            "num": "21",
+            "pos": "D",
+            "value": "46"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "G. Gudmundsson",
+            "num": "5",
+            "pos": "D",
+            "value": "10"
+          },
+          "away": {
+            "name": "M. Ben Hamida",
+            "num": "21",
+            "pos": "D",
+            "value": "13"
+          }
+        },
+        {
+          "label": "Saves",
+          "home": {
+            "name": "K. Nordfeldt",
+            "num": "23",
+            "pos": "G",
+            "value": "1"
+          },
+          "away": {
+            "name": "M. Chamakh",
             "num": "1",
             "pos": "G",
             "value": "1"
           }
         }
       ],
-      "highlight": null,
-      "final": false,
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0613/dm_260613_COM_SOC_Presser_Potter_not_putting_a_ceiling_on_Sweden_at_the_World_Cup_20260613_GLOBAL_FIFA_W/dm_260613_COM_SOC_Presser_Potter_not_putting_a_ceiling_on_Sweden_at_the_World_Cup_20260613_GLOBAL_FIFA_W.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49055590/potter-not-putting-ceiling-sweden-world-cup",
+        "headline": "Potter not 'putting a ceiling' on Sweden at the World Cup",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0613/dm_260613_COM_SOC_Presser_Potter_not_putting_a_ceiling_on_Sweden_at_the_World_Cup_20260613_GLOBAL_FIFA_W/dm_260613_COM_SOC_Presser_Potter_not_putting_a_ceiling_on_Sweden_at_the_World_Cup_20260613_GLOBAL_FIFA_W_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0613/dm_260613_COM_SOC_Presser_Potter_not_putting_a_ceiling_on_Sweden_at_the_World_Cup_20260613_GLOBAL_FIFA_W/dm_260613_COM_SOC_Presser_Potter_not_putting_a_ceiling_on_Sweden_at_the_World_Cup_20260613_GLOBAL_FIFA_W/playlist.m3u8"
+      },
+      "final": true,
       "dv": 5
     },
     "760425": {

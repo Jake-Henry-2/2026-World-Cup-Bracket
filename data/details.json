@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15T11:33:54.021Z",
+  "lastUpdated": "2026-06-15T16:31:16.561Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -10942,6 +10942,610 @@
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0614/dm_260614_COM_SOC_Analysis_Will_Japan_go_further_than_the_Netherlands_at_the_World_Cup_20260614_GLOBAL_FI/dm_260614_COM_SOC_Analysis_Will_Japan_go_further_than_the_Netherlands_at_the_World_Cup_20260614_GLOBAL_FI/playlist.m3u8"
       },
       "final": true,
+      "dv": 5
+    },
+    "760428": {
+      "venue": "Mercedes-Benz Stadium",
+      "stats": {
+        "home": {
+          "foulsCommitted": "2",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "1",
+          "saves": "0",
+          "possessionPct": "66.9",
+          "totalShots": "3",
+          "shotsOnTarget": "1",
+          "shotPct": "0.3",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "206",
+          "totalPasses": "229",
+          "passPct": "0.9",
+          "accurateCrosses": "0",
+          "totalCrosses": "6",
+          "crossPct": "0.0",
+          "totalLongBalls": "10",
+          "accurateLongBalls": "8",
+          "longballPct": "0.8",
+          "blockedShots": "1",
+          "effectiveTackles": "2",
+          "totalTackles": "2",
+          "tacklePct": "1.0",
+          "interceptions": "4",
+          "effectiveClearance": "2",
+          "totalClearance": "2"
+        },
+        "away": {
+          "foulsCommitted": "1",
+          "yellowCards": "1",
+          "redCards": "0",
+          "offsides": "2",
+          "wonCorners": "0",
+          "saves": "1",
+          "possessionPct": "33.1",
+          "totalShots": "1",
+          "shotsOnTarget": "0",
+          "shotPct": "0.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "86",
+          "totalPasses": "112",
+          "passPct": "0.8",
+          "accurateCrosses": "0",
+          "totalCrosses": "2",
+          "crossPct": "0.0",
+          "totalLongBalls": "14",
+          "accurateLongBalls": "3",
+          "longballPct": "0.2",
+          "blockedShots": "1",
+          "effectiveTackles": "1",
+          "totalTackles": "2",
+          "tacklePct": "0.0",
+          "interceptions": "3",
+          "effectiveClearance": "8",
+          "totalClearance": "8"
+        }
+      },
+      "events": [
+        {
+          "kind": "Yellow Card",
+          "min": "16'",
+          "side": "away",
+          "player": "Sidny Cabral"
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Unai Simón",
+            "short": "U. Simón",
+            "num": "23",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Aymeric Laporte",
+            "short": "A. Laporte",
+            "num": "14",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Pau Cubarsí",
+            "short": "P. Cubarsí",
+            "num": "22",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Marc Cucurella",
+            "short": "M. Cucurella",
+            "num": "24",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Marcos Llorente",
+            "short": "M. Llorente",
+            "num": "5",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Rodri",
+            "short": "Rodri",
+            "num": "16",
+            "pos": "CM",
+            "place": "4"
+          },
+          {
+            "name": "Pedri",
+            "short": "Pedri",
+            "num": "20",
+            "pos": "LM",
+            "place": "8"
+          },
+          {
+            "name": "Fabián Ruiz",
+            "short": "F. Ruiz",
+            "num": "8",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Mikel Oyarzabal",
+            "short": "M. Oyarzabal",
+            "num": "21",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Gavi",
+            "short": "Gavi",
+            "num": "9",
+            "pos": "LF",
+            "place": "11"
+          },
+          {
+            "name": "Ferran Torres",
+            "short": "F. Torres",
+            "num": "7",
+            "pos": "RF",
+            "place": "10"
+          }
+        ],
+        "away": [
+          {
+            "name": "Vozinha",
+            "short": "Vozinha",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Diney Borges",
+            "short": "D. Borges",
+            "num": "3",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Pico Lopes",
+            "short": "P. Lopes",
+            "num": "4",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Kevin Pina",
+            "short": "K. Pina",
+            "num": "6",
+            "pos": "DM",
+            "place": "4"
+          },
+          {
+            "name": "Sidny Lopes Cabral",
+            "short": "S. Lopes Cabral",
+            "num": "13",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Steven Moreira",
+            "short": "S. Moreira",
+            "num": "22",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Jamiro Monteiro",
+            "short": "J. Monteiro",
+            "num": "10",
+            "pos": "CM-L",
+            "place": "10"
+          },
+          {
+            "name": "Laros Duarte",
+            "short": "L. Duarte",
+            "num": "15",
+            "pos": "CM-R",
+            "place": "8"
+          },
+          {
+            "name": "Jovane Cabral",
+            "short": "J. Cabral",
+            "num": "7",
+            "pos": "LM",
+            "place": "11"
+          },
+          {
+            "name": "Ryan Mendes",
+            "short": "R. Mendes",
+            "num": "20",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Dailon Livramento",
+            "short": "D. Livramento",
+            "num": "19",
+            "pos": "F",
+            "place": "9"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "David Raya",
+            "short": "D. Raya",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Víctor Muñoz",
+            "short": "V. Muñoz",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Lamine Yamal",
+            "short": "L. Yamal",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Yéremy Pino",
+            "short": "Y. Pino",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Martín Zubimendi",
+            "short": "M. Zubimendi",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Dani Olmo",
+            "short": "D. Olmo",
+            "num": "10",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nico Williams",
+            "short": "N. Williams",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mikel Merino",
+            "short": "M. Merino",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Pedro Porro",
+            "short": "P. Porro",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Borja Iglesias",
+            "short": "B. Iglesias",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Joan García",
+            "short": "J. García",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Álex Baena",
+            "short": "Á. Baena",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Alejandro Grimaldo",
+            "short": "A. Grimaldo",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Marc Pubill",
+            "short": "M. Pubill",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Eric García",
+            "short": "E. García",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Stopira",
+            "short": "Stopira",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Márcio Rosa",
+            "short": "M. Rosa",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Hélio Varela",
+            "short": "H. Varela",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Wagner Pina",
+            "short": "W. Pina",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gilson Benchimol",
+            "short": "G. Benchimol",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Garry Rodrigues",
+            "short": "G. Rodrigues",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Telmo Arcanjo",
+            "short": "T. Arcanjo",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Willy Semedo",
+            "short": "W. Semedo",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Logan Costa",
+            "short": "L. Costa",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Yannick Semedo",
+            "short": "Y. Semedo",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nuno da Costa",
+            "short": "N. da Costa",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "João Paulo",
+            "short": "J. Paulo",
+            "num": "8",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "CJ dos Santos",
+            "short": "C. dos Santos",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kelvin Pires",
+            "short": "K. Pires",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Deroy Duarte",
+            "short": "D. Duarte",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-3-3",
+        "away": "4-1-4-1"
+      },
+      "commentary": [
+        {
+          "min": "27'",
+          "text": "Attempt blocked. Steven Moreira (Cabo Verde) right footed shot from the right side of the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "26'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "23'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "22'",
+          "text": "Offside, Cabo Verde. Ryan Mendes is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "20'",
+          "text": "Offside, Cabo Verde. Dailon Livramento is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "20'",
+          "text": "Attempt blocked. Pau Cubarsí (Spain) right footed shot from outside the box is blocked. Assisted by Rodri.",
+          "goal": false
+        },
+        {
+          "min": "19'",
+          "text": "Attempt missed. Fabián Ruiz (Spain) left footed shot from outside the box misses to the left.",
+          "goal": false
+        },
+        {
+          "min": "16'",
+          "text": "Sidny Cabral (Cabo Verde) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "16'",
+          "text": "Marcos Llorente (Spain) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "16'",
+          "text": "Foul by Sidny Cabral (Cabo Verde).",
+          "goal": false
+        },
+        {
+          "min": "15'",
+          "text": "Attempt saved. Pedri (Spain) right footed shot from outside the box is saved in the centre of the goal by Vozinha (Cabo Verde).",
+          "goal": false
+        },
+        {
+          "min": "15'",
+          "text": "Handball by Gavi (Spain).",
+          "goal": false
+        },
+        {
+          "min": "10'",
+          "text": "Corner, Spain. Conceded by Jovane Cabral.",
+          "goal": false
+        },
+        {
+          "min": "4'",
+          "text": "VAR Decision: Other Decision Cancelled.",
+          "goal": false
+        },
+        {
+          "min": "2'",
+          "text": "Foul by Marc Cucurella (Spain).",
+          "goal": false
+        },
+        {
+          "min": "2'",
+          "text": "Ryan Mendes (Cabo Verde) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "First Half begins.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "Lineups are announced and players are warming up.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "P. Cubarsí",
+            "num": "22",
+            "pos": "D",
+            "value": "1"
+          },
+          "away": {
+            "name": "S. Moreira",
+            "num": "22",
+            "pos": "D",
+            "value": "1"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "Rodri",
+            "num": "16",
+            "pos": "M",
+            "value": "36"
+          },
+          "away": {
+            "name": "D. Borges",
+            "num": "3",
+            "pos": "D",
+            "value": "18"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "P. Cubarsí",
+            "num": "22",
+            "pos": "D",
+            "value": "2"
+          },
+          "away": {
+            "name": "P. Lopes",
+            "num": "4",
+            "pos": "D",
+            "value": "5"
+          }
+        },
+        {
+          "label": "Saves",
+          "away": {
+            "name": "Vozinha",
+            "num": "1",
+            "pos": "G",
+            "value": "1"
+          }
+        }
+      ],
+      "highlight": null,
+      "final": false,
       "dv": 5
     }
   }

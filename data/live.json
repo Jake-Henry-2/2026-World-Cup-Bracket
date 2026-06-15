@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15T11:33:53.977Z",
+  "lastUpdated": "2026-06-15T16:31:16.441Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -140,10 +140,14 @@
       "away": "Cabo Verde",
       "homeScore": 0,
       "awayScore": 0,
-      "status": "scheduled",
+      "status": "live",
       "id": "760428",
       "date": "2026-06-15T16:00Z",
-      "venue": "Mercedes-Benz Stadium"
+      "venue": "Mercedes-Benz Stadium",
+      "clock": 1800,
+      "displayClock": "30'",
+      "detail": "30'",
+      "period": 1
     },
     {
       "stage": "group",

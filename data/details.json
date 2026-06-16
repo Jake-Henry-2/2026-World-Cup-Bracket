@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-16T00:13:28.948Z",
+  "lastUpdated": "2026-06-16T05:36:42.066Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -11849,6 +11849,903 @@
         "headline": "Are Belgium too reliant on De Bruyne and Lukaku?",
         "mp4": "https://media.video-cdn.espn.com/motion/2026/0615/dm_260615_COM_SOC_ANALYSIS_Are_Belgium_too_reliant_on_De_Bruyne_and_Lukaku_2026_6_15/dm_260615_COM_SOC_ANALYSIS_Are_Belgium_too_reliant_on_De_Bruyne_and_Lukaku_2026_6_15_360p30_1464k.mp4",
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0615/dm_260615_COM_SOC_ANALYSIS_Are_Belgium_too_reliant_on_De_Bruyne_and_Lukaku_2026_6_15/dm_260615_COM_SOC_ANALYSIS_Are_Belgium_too_reliant_on_De_Bruyne_and_Lukaku_2026_6_15/playlist.m3u8"
+      },
+      "final": true,
+      "dv": 5
+    },
+    "760427": {
+      "venue": "SoFi Stadium",
+      "stats": {
+        "home": {
+          "foulsCommitted": "10",
+          "yellowCards": "1",
+          "redCards": "0",
+          "offsides": "2",
+          "wonCorners": "4",
+          "saves": "6",
+          "possessionPct": "48.5",
+          "totalShots": "17",
+          "shotsOnTarget": "4",
+          "shotPct": "0.2",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "314",
+          "totalPasses": "409",
+          "passPct": "0.8",
+          "accurateCrosses": "6",
+          "totalCrosses": "19",
+          "crossPct": "0.3",
+          "totalLongBalls": "61",
+          "accurateLongBalls": "27",
+          "longballPct": "0.4",
+          "blockedShots": "5",
+          "effectiveTackles": "10",
+          "totalTackles": "17",
+          "tacklePct": "0.6",
+          "interceptions": "11",
+          "effectiveClearance": "27",
+          "totalClearance": "27"
+        },
+        "away": {
+          "foulsCommitted": "8",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "1",
+          "saves": "2",
+          "possessionPct": "51.5",
+          "totalShots": "14",
+          "shotsOnTarget": "8",
+          "shotPct": "0.6",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "376",
+          "totalPasses": "446",
+          "passPct": "0.8",
+          "accurateCrosses": "1",
+          "totalCrosses": "12",
+          "crossPct": "0.1",
+          "totalLongBalls": "40",
+          "accurateLongBalls": "21",
+          "longballPct": "0.5",
+          "blockedShots": "2",
+          "effectiveTackles": "10",
+          "totalTackles": "13",
+          "tacklePct": "0.8",
+          "interceptions": "15",
+          "effectiveClearance": "26",
+          "totalClearance": "26"
+        }
+      },
+      "events": [
+        {
+          "kind": "Goal - Volley",
+          "min": "7'",
+          "side": "away",
+          "player": "Goal! IR Iran 0, New Zealand 1. Elijah Just"
+        },
+        {
+          "kind": "Goal",
+          "min": "32'",
+          "side": "home",
+          "player": "Goal! IR Iran 1, New Zealand 1. Ramin Rezaeian"
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "home",
+          "player": "Substitution, IR Iran. Mehdi Ghayedi replaces Arya Yousefi."
+        },
+        {
+          "kind": "Substitution",
+          "min": "53'",
+          "side": "home",
+          "player": "Substitution, IR Iran. Ali Alipour replaces Shahriyar Moghanloo."
+        },
+        {
+          "kind": "Goal",
+          "min": "54'",
+          "side": "away",
+          "player": "Goal! IR Iran 1, New Zealand 2. Elijah Just"
+        },
+        {
+          "kind": "Goal - Header",
+          "min": "64'",
+          "side": "home",
+          "player": "Goal! IR Iran 2, New Zealand 2. Mohammad Mohebbi"
+        },
+        {
+          "kind": "Substitution",
+          "min": "65'",
+          "side": "home",
+          "player": "Substitution, IR Iran. Ehsan Hajisafi replaces Saman Ghoddos."
+        },
+        {
+          "kind": "Substitution",
+          "min": "68'",
+          "side": "away",
+          "player": "Substitution, New Zealand. Ryan Thomas replaces Callum McCowatt."
+        },
+        {
+          "kind": "Substitution",
+          "min": "68'",
+          "side": "away",
+          "player": "Substitution, New Zealand. Ben Old replaces Liberato Cacace."
+        },
+        {
+          "kind": "Substitution",
+          "min": "78'",
+          "side": "away",
+          "player": "Substitution, New Zealand. Callan Elliot replaces Tim Payne."
+        },
+        {
+          "kind": "Substitution",
+          "min": "80'",
+          "side": "home",
+          "player": "Substitution, IR Iran. Amirhossein Hosseinzadeh replaces Mehdi Taremi."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "89'",
+          "side": "home",
+          "player": "Ehsan Hajisafi"
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'+2'",
+          "side": "away",
+          "player": "Substitution, New Zealand. Jesse Randall replaces Sarpreet Singh."
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'+2'",
+          "side": "away",
+          "player": "Substitution, New Zealand. Tyler Bindon replaces Marko Stamenic."
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Alireza Beiranvand",
+            "short": "A. Beiranvand",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Ali Nemati",
+            "short": "A. Nemati",
+            "num": "19",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Shoja Khalilzadeh",
+            "short": "S. Khalilzadeh",
+            "num": "4",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Milad Mohammadi",
+            "short": "M. Mohammadi",
+            "num": "5",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Ramin Rezaeian",
+            "short": "R. Rezaeian",
+            "num": "23",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Saeid Ezatolahi",
+            "short": "S. Ezatolahi",
+            "num": "6",
+            "pos": "CM-L",
+            "place": "8"
+          },
+          {
+            "name": "Saman Ghoddos",
+            "short": "S. Ghoddos",
+            "num": "14",
+            "pos": "CM-R",
+            "place": "4"
+          },
+          {
+            "name": "Arya Yousefi",
+            "short": "A. Yousefi",
+            "num": "17",
+            "pos": "LM",
+            "place": "11"
+          },
+          {
+            "name": "Mohammad Mohebbi",
+            "short": "M. Mohebbi",
+            "num": "8",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Mehdi Taremi",
+            "short": "M. Taremi",
+            "num": "9",
+            "pos": "CF-L",
+            "place": "9"
+          },
+          {
+            "name": "Shahriyar Moghanloo",
+            "short": "S. Moghanloo",
+            "num": "20",
+            "pos": "CF-R",
+            "place": "10"
+          }
+        ],
+        "away": [
+          {
+            "name": "Max Crocombe",
+            "short": "M. Crocombe",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Michael Boxall",
+            "short": "M. Boxall",
+            "num": "5",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Finn Surman",
+            "short": "F. Surman",
+            "num": "16",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Liberato Cacace",
+            "short": "L. Cacace",
+            "num": "13",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Tim Payne",
+            "short": "T. Payne",
+            "num": "2",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Sarpreet Singh",
+            "short": "S. Singh",
+            "num": "10",
+            "pos": "AM",
+            "place": "10"
+          },
+          {
+            "name": "Marko Stamenic",
+            "short": "M. Stamenic",
+            "num": "8",
+            "pos": "LM",
+            "place": "4"
+          },
+          {
+            "name": "Joe Bell",
+            "short": "J. Bell",
+            "num": "6",
+            "pos": "RM",
+            "place": "8"
+          },
+          {
+            "name": "Chris Wood",
+            "short": "C. Wood",
+            "num": "9",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Elijah Just",
+            "short": "E. Just",
+            "num": "11",
+            "pos": "AM-L",
+            "place": "11"
+          },
+          {
+            "name": "Callum McCowatt",
+            "short": "C. McCowatt",
+            "num": "20",
+            "pos": "AM-R",
+            "place": "7"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Mehdi Ghayedi",
+            "short": "M. Ghayedi",
+            "num": "10",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ali Alipour",
+            "short": "A. Alipour",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Hossein Hosseini",
+            "short": "H. Hosseini",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Roozbeh Cheshmi",
+            "short": "R. Cheshmi",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Alireza Jahanbakhsh",
+            "short": "A. Jahanbakhsh",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Amirmohammad Razzaghinia",
+            "short": "A. Razzaghinia",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Saleh Hardani",
+            "short": "S. Hardani",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ehsan Hajsafi",
+            "short": "E. Hajsafi",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Payam Niazmand",
+            "short": "P. Niazmand",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Dennis Dargahi",
+            "short": "D. Dargahi",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Amirhossein Hosseinzadeh",
+            "short": "A. Hosseinzadeh",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mehdi Torabi",
+            "short": "M. Torabi",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Hossein Kanani",
+            "short": "H. Kanani",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Danial Iri",
+            "short": "D. Iri",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mohammad Ghorbani",
+            "short": "M. Ghorbani",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Alex Paulsen",
+            "short": "A. Paulsen",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ben Old",
+            "short": "B. Old",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jesse Randall",
+            "short": "J. Randall",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Callan Elliot",
+            "short": "C. Elliot",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Francis de Vries",
+            "short": "F. de Vries",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ben Waine",
+            "short": "B. Waine",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Michael Woud",
+            "short": "M. Woud",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Tyler Bindon",
+            "short": "T. Bindon",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kosta Barbarouses",
+            "short": "K. Barbarouses",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Tommy Smith",
+            "short": "T. Smith",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Lachlan Bayliss",
+            "short": "L. Bayliss",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nando Pijnaker",
+            "short": "N. Pijnaker",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ryan Thomas",
+            "short": "R. Thomas",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Alex Rufer",
+            "short": "A. Rufer",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-4-2",
+        "away": "4-2-3-1"
+      },
+      "commentary": [
+        {
+          "min": "",
+          "text": "Match ends, IR Iran 2, New Zealand 2.",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Second Half ends, IR Iran 2, New Zealand 2.",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Tyler Bindon (New Zealand) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Foul by Mehdi Ghayedi (IR Iran).",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Ali Alipour (IR Iran) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Foul by Ryan Thomas (New Zealand).",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Corner, IR Iran. Conceded by Callan Elliot.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Attempt saved. Chris Wood (New Zealand) header from the centre of the box is saved in the top centre of the goal by Alireza Beiranvand (IR Iran). Assisted by Jesse Randall with a cross.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Substitution, New Zealand. Tyler Bindon replaces Marko Stamenic.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Substitution, New Zealand. Jesse Randall replaces Sarpreet Singh.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Fourth official has announced 5 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Ehsan Hajisafi (IR Iran) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Foul by Ehsan Hajisafi (IR Iran).",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Elijah Just (New Zealand) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Attempt missed. Ali Nemati (IR Iran) left footed shot from the centre of the box misses to the left following a corner.",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Corner, IR Iran. Conceded by Callan Elliot.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Attempt saved. Saeid Ezatolahi (IR Iran) right footed shot from outside the box is saved in the top centre of the goal by Max Crocombe (New Zealand). Assisted by Amirhossein Hosseinzadeh.",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Foul by Marko Stamenic (New Zealand).",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Ehsan Hajisafi (IR Iran) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Attempt missed. Saeid Ezatolahi (IR Iran) right footed shot from outside the box is high and wide to the right.",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Attempt blocked. Ali Alipour (IR Iran) left footed shot from the centre of the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Foul by Ryan Thomas (New Zealand).",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Ramin Rezaeian (IR Iran) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Attempt missed. Finn Surman (New Zealand) header from very close range is high and wide to the right following a set piece situation.",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Foul by Saeid Ezatolahi (IR Iran).",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Ryan Thomas (New Zealand) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Substitution, IR Iran. Amirhossein Hosseinzadeh replaces Mehdi Taremi.",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Attempt missed. Mehdi Taremi (IR Iran) header from the centre of the box is high and wide to the right. Assisted by Ramin Rezaeian with a cross.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Delay in match because of an injury Saeid Ezatolahi (IR Iran).",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Substitution, New Zealand. Callan Elliot replaces Tim Payne.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Tim Payne (New Zealand) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Foul by Mehdi Ghayedi (IR Iran).",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Attempt blocked. Ehsan Hajisafi (IR Iran) left footed shot from outside the box is blocked. Assisted by Mehdi Taremi.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Foul by Saeid Ezatolahi (IR Iran).",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Elijah Just (New Zealand) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Attempt blocked. Mohammad Mohebbi (IR Iran) right footed shot from the left side of the box is blocked. Assisted by Mehdi Ghayedi.",
+          "goal": false
+        },
+        {
+          "min": "70'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Substitution, New Zealand. Ben Old replaces Liberato Cacace.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Substitution, New Zealand. Ryan Thomas replaces Callum McCowatt.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Foul by Ali Nemati (IR Iran).",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Max Crocombe (New Zealand) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Corner, IR Iran. Conceded by Michael Boxall.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Substitution, IR Iran. Ehsan Hajisafi replaces Saman Ghoddos.",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Goal! IR Iran 2, New Zealand 2. Mohammad Mohebbi (IR Iran) header from the centre of the box to the bottom left corner. Assisted by Ramin Rezaeian with a cross.",
+          "goal": true
+        },
+        {
+          "min": "61'",
+          "text": "Attempt saved. Sarpreet Singh (New Zealand) left footed shot from the left side of the box is saved in the centre of the goal by Alireza Beiranvand (IR Iran). Assisted by Chris Wood.",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Callum McCowatt (New Zealand) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Foul by Shoja Khalilzadeh (IR Iran).",
+          "goal": false
+        },
+        {
+          "min": "59'",
+          "text": "Foul by Tim Payne (New Zealand).",
+          "goal": false
+        },
+        {
+          "min": "59'",
+          "text": "Mehdi Ghayedi (IR Iran) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Offside, IR Iran. Saman Ghoddos is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "54'",
+          "text": "Goal! IR Iran 1, New Zealand 2. Elijah Just (New Zealand) right footed shot from the right side of the box to the centre of the goal. Assisted by Chris Wood following a fast break.",
+          "goal": true
+        },
+        {
+          "min": "54'",
+          "text": "Finn Surman (New Zealand) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "54'",
+          "text": "Foul by Ali Alipour (IR Iran).",
+          "goal": false
+        },
+        {
+          "min": "53'",
+          "text": "Substitution, IR Iran. Ali Alipour replaces Shahriyar Moghanloo.",
+          "goal": false
+        },
+        {
+          "min": "51'",
+          "text": "Attempt missed. Shahriyar Moghanloo (IR Iran) left footed shot from outside the box is high and wide to the left. Assisted by Ramin Rezaeian.",
+          "goal": false
+        },
+        {
+          "min": "49'",
+          "text": "Attempt blocked. Mehdi Ghayedi (IR Iran) right footed shot from outside the box is blocked. Assisted by Ali Nemati with a headed pass.",
+          "goal": false
+        },
+        {
+          "min": "48'",
+          "text": "Corner, IR Iran. Conceded by Tim Payne.",
+          "goal": false
+        },
+        {
+          "min": "47'",
+          "text": "Attempt missed. Chris Wood (New Zealand) right footed shot from outside the box is high and wide to the right. Assisted by Max Crocombe.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "S. Moghanloo",
+            "num": "20",
+            "pos": "F",
+            "value": "3"
+          },
+          "away": {
+            "name": "C. Wood",
+            "num": "9",
+            "pos": "F",
+            "value": "4"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "A. Nemati",
+            "num": "19",
+            "pos": "D",
+            "value": "50"
+          },
+          "away": {
+            "name": "F. Surman",
+            "num": "16",
+            "pos": "D",
+            "value": "51"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "A. Nemati",
+            "num": "19",
+            "pos": "D",
+            "value": "15"
+          },
+          "away": {
+            "name": "F. Surman",
+            "num": "16",
+            "pos": "D",
+            "value": "18"
+          }
+        },
+        {
+          "label": "Saves",
+          "home": {
+            "name": "A. Beiranvand",
+            "num": "1",
+            "pos": "G",
+            "value": "6"
+          },
+          "away": {
+            "name": "M. Crocombe",
+            "num": "1",
+            "pos": "G",
+            "value": "2"
+          }
+        }
+      ],
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0616/dm_260616_schaap_on_iran/dm_260616_schaap_on_iran.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49079380/inside-iran-tense-world-cup-opener",
+        "headline": "Inside Iran's tense World Cup opener",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0616/dm_260616_schaap_on_iran/dm_260616_schaap_on_iran_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0616/dm_260616_schaap_on_iran/dm_260616_schaap_on_iran/playlist.m3u8"
       },
       "final": true,
       "dv": 5

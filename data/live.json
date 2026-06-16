@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-16T00:13:28.805Z",
+  "lastUpdated": "2026-06-16T05:36:41.917Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -171,9 +171,9 @@
       "stage": "group",
       "home": "Iran",
       "away": "New Zealand",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "scheduled",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished",
       "id": "760427",
       "date": "2026-06-16T01:00Z",
       "venue": "SoFi Stadium"

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-16T19:05:49.304Z",
+  "lastUpdated": "2026-06-16T21:46:44.989Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -14518,67 +14518,134 @@
       "venue": "MetLife Stadium",
       "stats": {
         "home": {
-          "foulsCommitted": "0",
+          "foulsCommitted": "5",
           "yellowCards": "0",
           "redCards": "0",
-          "offsides": "0",
-          "wonCorners": "0",
-          "saves": "0",
-          "possessionPct": "15.8",
-          "totalShots": "0",
-          "shotsOnTarget": "0",
-          "shotPct": "0.0",
+          "offsides": "1",
+          "wonCorners": "6",
+          "saves": "2",
+          "possessionPct": "53.7",
+          "totalShots": "11",
+          "shotsOnTarget": "8",
+          "shotPct": "0.7",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "0",
-          "totalPasses": "3",
-          "passPct": "0.0",
-          "accurateCrosses": "0",
-          "totalCrosses": "0",
-          "crossPct": "0.0",
-          "totalLongBalls": "3",
-          "accurateLongBalls": "0",
-          "longballPct": "0.0",
-          "blockedShots": "0",
-          "effectiveTackles": "0",
-          "totalTackles": "0",
-          "tacklePct": "0.0",
-          "interceptions": "0",
-          "effectiveClearance": "1",
-          "totalClearance": "1"
-        },
-        "away": {
-          "foulsCommitted": "0",
-          "yellowCards": "0",
-          "redCards": "0",
-          "offsides": "0",
-          "wonCorners": "1",
-          "saves": "0",
-          "possessionPct": "84.2",
-          "totalShots": "0",
-          "shotsOnTarget": "0",
-          "shotPct": "0.0",
-          "penaltyKickGoals": "0",
-          "penaltyKickShots": "0",
-          "accuratePasses": "13",
-          "totalPasses": "15",
+          "accuratePasses": "505",
+          "totalPasses": "576",
           "passPct": "0.9",
           "accurateCrosses": "0",
-          "totalCrosses": "1",
+          "totalCrosses": "9",
           "crossPct": "0.0",
-          "totalLongBalls": "2",
-          "accurateLongBalls": "0",
-          "longballPct": "0.0",
-          "blockedShots": "0",
-          "effectiveTackles": "0",
-          "totalTackles": "0",
-          "tacklePct": "0.0",
-          "interceptions": "1",
-          "effectiveClearance": "0",
-          "totalClearance": "0"
+          "totalLongBalls": "46",
+          "accurateLongBalls": "21",
+          "longballPct": "0.5",
+          "blockedShots": "2",
+          "effectiveTackles": "14",
+          "totalTackles": "18",
+          "tacklePct": "0.8",
+          "interceptions": "7",
+          "effectiveClearance": "14",
+          "totalClearance": "14"
+        },
+        "away": {
+          "foulsCommitted": "9",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "3",
+          "wonCorners": "4",
+          "saves": "5",
+          "possessionPct": "46.3",
+          "totalShots": "6",
+          "shotsOnTarget": "2",
+          "shotPct": "0.3",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "427",
+          "totalPasses": "497",
+          "passPct": "0.9",
+          "accurateCrosses": "1",
+          "totalCrosses": "9",
+          "crossPct": "0.1",
+          "totalLongBalls": "48",
+          "accurateLongBalls": "25",
+          "longballPct": "0.5",
+          "blockedShots": "1",
+          "effectiveTackles": "9",
+          "totalTackles": "14",
+          "tacklePct": "0.6",
+          "interceptions": "8",
+          "effectiveClearance": "17",
+          "totalClearance": "17"
         }
       },
-      "events": [],
+      "events": [
+        {
+          "kind": "Goal",
+          "min": "66'",
+          "side": "home",
+          "player": "Goal! France 1, Senegal 0. Kylian Mbappé"
+        },
+        {
+          "kind": "Substitution",
+          "min": "75'",
+          "side": "away",
+          "player": "Substitution, Senegal. Ibrahim Mbaye replaces Ismaïla Sarr."
+        },
+        {
+          "kind": "Substitution",
+          "min": "76'",
+          "side": "away",
+          "player": "Substitution, Senegal. Habib Diarra replaces Lamine Camara."
+        },
+        {
+          "kind": "Substitution",
+          "min": "80'",
+          "side": "home",
+          "player": "Substitution, France. Bradley Barcola replaces Ousmane Dembélé."
+        },
+        {
+          "kind": "Goal",
+          "min": "82'",
+          "side": "home",
+          "player": "Goal! France 2, Senegal 0. Bradley Barcola"
+        },
+        {
+          "kind": "Substitution",
+          "min": "83'",
+          "side": "away",
+          "player": "Substitution, Senegal. Iliman Ndiaye replaces Pape Gueye."
+        },
+        {
+          "kind": "Substitution",
+          "min": "83'",
+          "side": "away",
+          "player": "Substitution, Senegal. Bamba Dieng replaces Nicolas Jackson."
+        },
+        {
+          "kind": "Substitution",
+          "min": "87'",
+          "side": "home",
+          "player": "Substitution, France. Rayan Cherki replaces Désiré Doué."
+        },
+        {
+          "kind": "Substitution",
+          "min": "88'",
+          "side": "away",
+          "player": "Substitution, Senegal. Pathé Ciss replaces Idrissa Gueye."
+        },
+        {
+          "kind": "Goal",
+          "min": "90'+5'",
+          "side": "away",
+          "player": "Goal! France 2, Senegal 1. Ibrahim Mbaye"
+        },
+        {
+          "kind": "Goal",
+          "min": "90'+6'",
+          "side": "home",
+          "player": "Goal! France 3, Senegal 1. Kylian Mbappé"
+        }
+      ],
       "lineups": {
         "home": [
           {
@@ -14589,16 +14656,16 @@
             "place": "1"
           },
           {
-            "name": "Dayot Upamecano",
-            "short": "D. Upamecano",
-            "num": "4",
+            "name": "William Saliba",
+            "short": "W. Saliba",
+            "num": "17",
             "pos": "CD-L",
             "place": "6"
           },
           {
-            "name": "William Saliba",
-            "short": "W. Saliba",
-            "num": "17",
+            "name": "Dayot Upamecano",
+            "short": "D. Upamecano",
+            "num": "4",
             "pos": "CD-R",
             "place": "5"
           },
@@ -14696,25 +14763,25 @@
             "place": "2"
           },
           {
-            "name": "Idrissa Gueye",
-            "short": "I. Gueye",
-            "num": "5",
-            "pos": "CM",
-            "place": "4"
+            "name": "Lamine Camara",
+            "short": "L. Camara",
+            "num": "8",
+            "pos": "AM",
+            "place": "10"
           },
           {
             "name": "Pape Gueye",
             "short": "P. Gueye",
             "num": "26",
             "pos": "LM",
-            "place": "8"
+            "place": "4"
           },
           {
-            "name": "Lamine Camara",
-            "short": "L. Camara",
-            "num": "8",
+            "name": "Idrissa Gueye",
+            "short": "I. Gueye",
+            "num": "5",
             "pos": "RM",
-            "place": "7"
+            "place": "8"
           },
           {
             "name": "Nicolas Jackson",
@@ -14727,15 +14794,15 @@
             "name": "Sadio Mané",
             "short": "S. Mané",
             "num": "10",
-            "pos": "LF",
+            "pos": "AM-L",
             "place": "11"
           },
           {
             "name": "Ismaïla Sarr",
             "short": "I. Sarr",
             "num": "18",
-            "pos": "RF",
-            "place": "10"
+            "pos": "AM-R",
+            "place": "7"
           }
         ]
       },
@@ -14957,63 +15024,380 @@
       },
       "formation": {
         "home": "4-2-3-1",
-        "away": "4-3-3"
+        "away": "4-2-3-1"
       },
       "commentary": [
         {
-          "min": "3'",
-          "text": "Mike Maignan (France) wins a free kick in the defensive half.",
+          "min": "",
+          "text": "Match ends, France 3, Senegal 1.",
           "goal": false
         },
         {
-          "min": "3'",
+          "min": "90'+10'",
+          "text": "Second Half ends, France 3, Senegal 1.",
+          "goal": false
+        },
+        {
+          "min": "90'+9'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "90'+9'",
+          "text": "Delay in match because of an injury Kylian Mbappé (France).",
+          "goal": false
+        },
+        {
+          "min": "90'+8'",
+          "text": "Foul by Kylian Mbappé (France).",
+          "goal": false
+        },
+        {
+          "min": "90'+8'",
+          "text": "Moussa Niakhaté (Senegal) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Goal! France 3, Senegal 1. Kylian Mbappé (France) right footed shot from outside the box to the top left corner.",
+          "goal": true
+        },
+        {
+          "min": "90'+5'",
+          "text": "Goal! France 2, Senegal 1. Ibrahim Mbaye (Senegal) right footed shot from the right side of the box to the top right corner. Assisted by Iliman Ndiaye following a fast break.",
+          "goal": true
+        },
+        {
+          "min": "90'+3'",
+          "text": "Rayan Cherki (France) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Foul by El Hadji Malick Diouf (Senegal).",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Foul by Habib Diarra (Senegal).",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Michael Olise (France) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Fourth official has announced 8 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Corner, Senegal. Conceded by Jules Koundé.",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Substitution, Senegal. Pathé Ciss replaces Idrissa Gueye.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Substitution, France. Rayan Cherki replaces Désiré Doué.",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Attempt saved. Kylian Mbappé (France) left footed shot from the centre of the box is saved in the bottom left corner by Édouard Mendy (Senegal). Assisted by Michael Olise.",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Substitution, Senegal. Bamba Dieng replaces Nicolas Jackson.",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Substitution, Senegal. Iliman Ndiaye replaces Pape Gueye.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Goal! France 2, Senegal 0. Bradley Barcola (France) right footed shot from the right side of the box to the bottom right corner. Assisted by Adrien Rabiot with a through ball following a fast break.",
+          "goal": true
+        },
+        {
+          "min": "80'",
+          "text": "Substitution, France. Bradley Barcola replaces Ousmane Dembélé.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Offside, Senegal. Nicolas Jackson is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Kylian Mbappé (France) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Foul by Habib Diarra (Senegal).",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Foul by Kylian Mbappé (France).",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Habib Diarra (Senegal) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Substitution, Senegal. Habib Diarra replaces Lamine Camara.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Substitution, Senegal. Ibrahim Mbaye replaces Ismaïla Sarr.",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Corner, France. Conceded by Édouard Mendy.",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Attempt saved. Désiré Doué (France) left footed shot from the left side of the box is saved in the bottom left corner by Édouard Mendy (Senegal). Assisted by Adrien Rabiot.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Corner, Senegal. Conceded by Adrien Rabiot.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Attempt saved. Michael Olise (France) left footed shot from outside the box is saved in the bottom right corner by Édouard Mendy (Senegal).",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Offside, Senegal. Nicolas Jackson is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Goal! France 1, Senegal 0. Kylian Mbappé (France) right footed shot from the centre of the box to the centre of the goal. Assisted by Michael Olise with a through ball.",
+          "goal": true
+        },
+        {
+          "min": "65'",
+          "text": "Attempt blocked. Théo Hernández (France) left footed shot from the centre of the box is blocked. Assisted by Désiré Doué.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "VAR Decision: No Penalty France.",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Corner, France. Conceded by Krépin Diatta.",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Attempt saved. Kylian Mbappé (France) right footed shot from the centre of the box is saved in the centre of the goal by Édouard Mendy (Senegal). Assisted by Michael Olise with a through ball.",
+          "goal": false
+        },
+        {
+          "min": "53'",
+          "text": "Corner, France. Conceded by Édouard Mendy.",
+          "goal": false
+        },
+        {
+          "min": "53'",
+          "text": "Attempt saved. Michael Olise (France) left footed shot from the centre of the box is saved in the centre of the goal by Édouard Mendy (Senegal). Assisted by Jules Koundé.",
+          "goal": false
+        },
+        {
+          "min": "50'",
+          "text": "Offside, France. Jules Koundé is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "48'",
           "text": "Foul by Nicolas Jackson (Senegal).",
           "goal": false
         },
         {
-          "min": "2'",
-          "text": "Corner, Senegal. Conceded by Théo Hernández.",
+          "min": "48'",
+          "text": "Dayot Upamecano (France) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "",
-          "text": "First Half begins.",
+          "min": "47'",
+          "text": "Attempt missed. Désiré Doué (France) left footed shot from outside the box is close, but misses to the left. Assisted by Dayot Upamecano.",
           "goal": false
         },
         {
-          "min": "",
-          "text": "Lineups are announced and players are warming up.",
+          "min": "46'",
+          "text": "Foul by Lamine Camara (Senegal).",
+          "goal": false
+        },
+        {
+          "min": "46'",
+          "text": "Michael Olise (France) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Second Half begins France 0, Senegal 0.",
+          "goal": false
+        },
+        {
+          "min": "45'+7'",
+          "text": "First Half ends, France 0, Senegal 0.",
+          "goal": false
+        },
+        {
+          "min": "45'+6'",
+          "text": "Attempt missed. Ismaïla Sarr (Senegal) right footed shot from the centre of the box is too high.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Fourth official has announced 6 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "44'",
+          "text": "Corner, France. Conceded by Kalidou Koulibaly.",
+          "goal": false
+        },
+        {
+          "min": "43'",
+          "text": "Handball by Pape Gueye (Senegal).",
+          "goal": false
+        },
+        {
+          "min": "42'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "40'",
+          "text": "Delay in match because of an injury Ismaïla Sarr (Senegal).",
+          "goal": false
+        },
+        {
+          "min": "40'",
+          "text": "Attempt saved. Sadio Mané (Senegal) right footed shot from outside the box is saved in the top centre of the goal by Mike Maignan (France). Assisted by Ismaïla Sarr.",
+          "goal": false
+        },
+        {
+          "min": "32'",
+          "text": "Foul by Jules Koundé (France).",
+          "goal": false
+        },
+        {
+          "min": "32'",
+          "text": "Sadio Mané (Senegal) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "31'",
+          "text": "Attempt missed. Ismaïla Sarr (Senegal) right footed shot from outside the box is high and wide to the right. Assisted by Nicolas Jackson.",
           "goal": false
         }
       ],
       "leaders": [
         {
-          "label": "Defensive Interventions",
+          "label": "Total Shots",
           "home": {
-            "name": "T. Hernández",
-            "num": "19",
-            "pos": "D",
-            "value": "1"
+            "name": "K. Mbappé",
+            "num": "10",
+            "pos": "F",
+            "value": "4"
           },
           "away": {
-            "name": "K. Koulibaly",
-            "num": "3",
-            "pos": "D",
-            "value": "1"
+            "name": "I. Sarr",
+            "num": "18",
+            "pos": "F",
+            "value": "3"
           }
         },
         {
           "label": "Accurate Passes",
+          "home": {
+            "name": "D. Upamecano",
+            "num": "4",
+            "pos": "D",
+            "value": "70"
+          },
           "away": {
-            "name": "S. Mané",
-            "num": "10",
-            "pos": "F",
-            "value": "3"
+            "name": "M. Niakhaté",
+            "num": "19",
+            "pos": "D",
+            "value": "74"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "D. Upamecano",
+            "num": "4",
+            "pos": "D",
+            "value": "14"
+          },
+          "away": {
+            "name": "E. Diouf",
+            "num": "25",
+            "pos": "D",
+            "value": "11"
+          }
+        },
+        {
+          "label": "Saves",
+          "home": {
+            "name": "M. Maignan",
+            "num": "16",
+            "pos": "G",
+            "value": "2"
+          },
+          "away": {
+            "name": "É. Mendy",
+            "num": "16",
+            "pos": "G",
+            "value": "5"
           }
         }
       ],
-      "highlight": null,
-      "final": false,
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0616/dm_260616_COM_SOC_Analysis_Are_France_World_Cup_favourites_after_victory_vs_Senegal3F_GLOBAL_2026-06-16/dm_260616_COM_SOC_Analysis_Are_France_World_Cup_favourites_after_victory_vs_Senegal3F_GLOBAL_2026-06-16.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49086198/are-france-world-cup-favourites-victory-vs-senegal",
+        "headline": "Are France World Cup favourites after victory vs. Senegal?",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0616/dm_260616_COM_SOC_Analysis_Are_France_World_Cup_favourites_after_victory_vs_Senegal3F_GLOBAL_2026-06-16/dm_260616_COM_SOC_Analysis_Are_France_World_Cup_favourites_after_victory_vs_Senegal3F_GLOBAL_2026-06-16_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0616/dm_260616_COM_SOC_Analysis_Are_France_World_Cup_favourites_after_victory_vs_Senegal3F_GLOBAL_2026-06-16/dm_260616_COM_SOC_Analysis_Are_France_World_Cup_favourites_after_victory_vs_Senegal3F_GLOBAL_2026-06-16/playlist.m3u8"
+      },
+      "final": true,
       "dv": 5
     }
   }

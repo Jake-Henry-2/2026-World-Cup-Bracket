@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-16T19:05:49.227Z",
+  "lastUpdated": "2026-06-16T21:46:44.825Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -182,16 +182,12 @@
       "stage": "group",
       "home": "France",
       "away": "Senegal",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "live",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished",
       "id": "760432",
       "date": "2026-06-16T19:00Z",
-      "venue": "MetLife Stadium",
-      "clock": 180,
-      "displayClock": "3'",
-      "detail": "3'",
-      "period": 1
+      "venue": "MetLife Stadium"
     },
     {
       "stage": "group",

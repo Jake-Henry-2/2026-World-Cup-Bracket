@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-16T21:46:44.989Z",
+  "lastUpdated": "2026-06-16T23:14:29.786Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -14512,6 +14512,817 @@
       ],
       "highlight": null,
       "final": true,
+      "dv": 5
+    },
+    "760430": {
+      "venue": "Gillette Stadium",
+      "stats": {
+        "home": {
+          "foulsCommitted": "6",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "1",
+          "wonCorners": "2",
+          "saves": "1",
+          "possessionPct": "39.8",
+          "totalShots": "9",
+          "shotsOnTarget": "1",
+          "shotPct": "0.1",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "148",
+          "totalPasses": "190",
+          "passPct": "0.8",
+          "accurateCrosses": "3",
+          "totalCrosses": "10",
+          "crossPct": "0.3",
+          "totalLongBalls": "39",
+          "accurateLongBalls": "16",
+          "longballPct": "0.4",
+          "blockedShots": "2",
+          "effectiveTackles": "8",
+          "totalTackles": "12",
+          "tacklePct": "0.7",
+          "interceptions": "2",
+          "effectiveClearance": "8",
+          "totalClearance": "8"
+        },
+        "away": {
+          "foulsCommitted": "9",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "2",
+          "saves": "0",
+          "possessionPct": "60.2",
+          "totalShots": "7",
+          "shotsOnTarget": "3",
+          "shotPct": "0.4",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "261",
+          "totalPasses": "299",
+          "passPct": "0.9",
+          "accurateCrosses": "3",
+          "totalCrosses": "7",
+          "crossPct": "0.4",
+          "totalLongBalls": "25",
+          "accurateLongBalls": "11",
+          "longballPct": "0.4",
+          "blockedShots": "2",
+          "effectiveTackles": "5",
+          "totalTackles": "8",
+          "tacklePct": "0.6",
+          "interceptions": "0",
+          "effectiveClearance": "17",
+          "totalClearance": "17"
+        }
+      },
+      "events": [
+        {
+          "kind": "Goal",
+          "min": "29'",
+          "side": "away",
+          "player": "Goal! Iraq 0, Norway 1. Erling Haaland"
+        },
+        {
+          "kind": "Goal - Header",
+          "min": "39'",
+          "side": "home",
+          "player": "Goal! Iraq 1, Norway 1. Aymen Hussein"
+        },
+        {
+          "kind": "Goal",
+          "min": "43'",
+          "side": "away",
+          "player": "Goal! Iraq 1, Norway 2. Erling Haaland"
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Jalal Hassan",
+            "short": "J. Hassan",
+            "num": "12",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Akam Hashim",
+            "short": "A. Hashim",
+            "num": "5",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Zaid Tahseen",
+            "short": "Z. Tahseen",
+            "num": "4",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Merchas Doski",
+            "short": "M. Doski",
+            "num": "23",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Hussein Ali",
+            "short": "H. Ali",
+            "num": "3",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Amir Al-Ammari",
+            "short": "A. Al-Ammari",
+            "num": "16",
+            "pos": "CM-L",
+            "place": "8"
+          },
+          {
+            "name": "Zaid Ismael",
+            "short": "Z. Ismael",
+            "num": "24",
+            "pos": "CM-R",
+            "place": "4"
+          },
+          {
+            "name": "Ali Jasim",
+            "short": "A. Jasim",
+            "num": "17",
+            "pos": "LM",
+            "place": "11"
+          },
+          {
+            "name": "Ibrahim Bayesh",
+            "short": "I. Bayesh",
+            "num": "8",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Ali Al-Hamadi",
+            "short": "A. Al-Hamadi",
+            "num": "9",
+            "pos": "CF-L",
+            "place": "9"
+          },
+          {
+            "name": "Aymen Hussein",
+            "short": "A. Hussein",
+            "num": "18",
+            "pos": "CF-R",
+            "place": "10"
+          }
+        ],
+        "away": [
+          {
+            "name": "Ørjan Nyland",
+            "short": "Ø. Nyland",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Torbjørn Heggem",
+            "short": "T. Heggem",
+            "num": "17",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Kristoffer Ajer",
+            "short": "K. Ajer",
+            "num": "3",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "David Møller Wolfe",
+            "short": "D. Møller Wolfe",
+            "num": "5",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Julian Ryerson",
+            "short": "J. Ryerson",
+            "num": "26",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Fredrik Aursnes",
+            "short": "F. Aursnes",
+            "num": "14",
+            "pos": "CM-L",
+            "place": "8"
+          },
+          {
+            "name": "Sander Berge",
+            "short": "S. Berge",
+            "num": "8",
+            "pos": "CM-R",
+            "place": "4"
+          },
+          {
+            "name": "Antonio Nusa",
+            "short": "A. Nusa",
+            "num": "20",
+            "pos": "LM",
+            "place": "11"
+          },
+          {
+            "name": "Martin Ødegaard",
+            "short": "M. Ødegaard",
+            "num": "10",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Erling Haaland",
+            "short": "E. Haaland",
+            "num": "9",
+            "pos": "CF-L",
+            "place": "9"
+          },
+          {
+            "name": "Alexander Sørloth",
+            "short": "A. Sørloth",
+            "num": "7",
+            "pos": "CF-R",
+            "place": "10"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Frans Putros",
+            "short": "F. Putros",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mustafa Saadoon",
+            "short": "M. Saadoon",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Munaf Younus",
+            "short": "M. Younus",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ahmed Basil",
+            "short": "A. Basil",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Rebin Sulaka",
+            "short": "R. Sulaka",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ahmed Qasim",
+            "short": "A. Qasim",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Youssef Amyn",
+            "short": "Y. Amyn",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ali Yousif",
+            "short": "A. Yousif",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kevin Yakob",
+            "short": "K. Yakob",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ahmed Maknazi",
+            "short": "A. Maknazi",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Fahad Talib",
+            "short": "F. Talib",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Marko Farji",
+            "short": "M. Farji",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Aimar Sher",
+            "short": "A. Sher",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mohanad Ali",
+            "short": "M. Ali",
+            "num": "10",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Zidane Iqbal",
+            "short": "Z. Iqbal",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Morten Thorsby",
+            "short": "M. Thorsby",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Sondre Langas",
+            "short": "S. Langas",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Oscar Bobb",
+            "short": "O. Bobb",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Henrik Falchener",
+            "short": "H. Falchener",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kristian Thorstvedt",
+            "short": "K. Thorstvedt",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Leo Østigard",
+            "short": "L. Østigard",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Andreas Schjelderup",
+            "short": "A. Schjelderup",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Patrick Berg",
+            "short": "P. Berg",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Thelo Aasgaard",
+            "short": "T. Aasgaard",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Egil Selvik",
+            "short": "E. Selvik",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jørgen Strand Larsen",
+            "short": "J. Larsen",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Sander Tangvik",
+            "short": "S. Tangvik",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jens Petter Hauge",
+            "short": "J. Hauge",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Marcus Holmgren Pedersen",
+            "short": "M. Holmgren Pedersen",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Fredrik André Bjørkan",
+            "short": "F. Bjørkan",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-4-2",
+        "away": "4-4-2"
+      },
+      "commentary": [
+        {
+          "min": "49'",
+          "text": "David Møller Wolfe (Norway) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "49'",
+          "text": "Foul by Aymen Hussein (Iraq).",
+          "goal": false
+        },
+        {
+          "min": "47'",
+          "text": "Offside, Iraq. Hussein Ali is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Second Half begins Iraq 1, Norway 2.",
+          "goal": false
+        },
+        {
+          "min": "45'+7'",
+          "text": "First Half ends, Iraq 1, Norway 2.",
+          "goal": false
+        },
+        {
+          "min": "45'+6'",
+          "text": "Attempt missed. Akam Hashim (Iraq) left footed shot from outside the box is too high following a corner.",
+          "goal": false
+        },
+        {
+          "min": "45'+5'",
+          "text": "Corner, Iraq. Conceded by Kristoffer Ajer.",
+          "goal": false
+        },
+        {
+          "min": "45'+5'",
+          "text": "Attempt blocked. Ali Al Hamadi (Iraq) right footed shot from outside the box is blocked. Assisted by Ali Jasim with a through ball.",
+          "goal": false
+        },
+        {
+          "min": "45'+4'",
+          "text": "Attempt missed. Zaid Tahseen (Iraq) header from the left side of the six yard box is high and wide to the left. Assisted by Amir Al Ammari with a cross following a corner.",
+          "goal": false
+        },
+        {
+          "min": "45'+3'",
+          "text": "Corner, Iraq. Conceded by David Møller Wolfe.",
+          "goal": false
+        },
+        {
+          "min": "45'+3'",
+          "text": "Attempt blocked. Ibrahim Bayesh (Iraq) right footed shot from the right side of the six yard box is blocked. Assisted by Ali Al Hamadi.",
+          "goal": false
+        },
+        {
+          "min": "45'+3'",
+          "text": "Attempt missed. Ali Al Hamadi (Iraq) with an attempt from the centre of the box misses to the right. Assisted by Merchas Doski with a cross.",
+          "goal": false
+        },
+        {
+          "min": "45'+2'",
+          "text": "Akam Hashim (Iraq) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "45'+2'",
+          "text": "Foul by Erling Haaland (Norway).",
+          "goal": false
+        },
+        {
+          "min": "45'+1'",
+          "text": "Zaid Tahseen (Iraq) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "45'+1'",
+          "text": "Foul by David Møller Wolfe (Norway).",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Fourth official has announced 5 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "44'",
+          "text": "Handball by Zaid Ismael (Iraq).",
+          "goal": false
+        },
+        {
+          "min": "43'",
+          "text": "Goal! Iraq 1, Norway 2. Erling Haaland (Norway) right footed shot from very close range to the centre of the goal.",
+          "goal": true
+        },
+        {
+          "min": "43'",
+          "text": "Attempt saved. Erling Haaland (Norway) right footed shot from very close range is saved in the centre of the goal by Jalal Hassan (Iraq).",
+          "goal": false
+        },
+        {
+          "min": "39'",
+          "text": "Goal! Iraq 1, Norway 1. Aymen Hussein (Iraq) header from the centre of the box to the bottom right corner. Assisted by Amir Al Ammari with a cross.",
+          "goal": true
+        },
+        {
+          "min": "37'",
+          "text": "Merchas Doski (Iraq) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "37'",
+          "text": "Foul by Alexander Sørloth (Norway).",
+          "goal": false
+        },
+        {
+          "min": "37'",
+          "text": "Attempt missed. Martin Ødegaard (Norway) left footed shot from outside the box misses to the right. Assisted by Alexander Sørloth.",
+          "goal": false
+        },
+        {
+          "min": "36'",
+          "text": "Foul by David Møller Wolfe (Norway).",
+          "goal": false
+        },
+        {
+          "min": "36'",
+          "text": "Ibrahim Bayesh (Iraq) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "35'",
+          "text": "Alexander Sørloth (Norway) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "35'",
+          "text": "Foul by Aymen Hussein (Iraq).",
+          "goal": false
+        },
+        {
+          "min": "33'",
+          "text": "Foul by Sander Berge (Norway).",
+          "goal": false
+        },
+        {
+          "min": "33'",
+          "text": "Jalal Hassan (Iraq) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "32'",
+          "text": "Corner, Norway. Conceded by Hussein Ali.",
+          "goal": false
+        },
+        {
+          "min": "31'",
+          "text": "Attempt blocked. Alexander Sørloth (Norway) left footed shot from the left side of the box is blocked. Assisted by Erling Haaland.",
+          "goal": false
+        },
+        {
+          "min": "29'",
+          "text": "Goal! Iraq 0, Norway 1. Erling Haaland (Norway) left footed shot from very close range to the top right corner. Assisted by David Møller Wolfe with a cross.",
+          "goal": true
+        },
+        {
+          "min": "28'",
+          "text": "Attempt missed. Zaid Tahseen (Iraq) left footed shot from outside the box is high and wide to the left following a set piece situation.",
+          "goal": false
+        },
+        {
+          "min": "27'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "24'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "24'",
+          "text": "Foul by David Møller Wolfe (Norway).",
+          "goal": false
+        },
+        {
+          "min": "24'",
+          "text": "Ibrahim Bayesh (Iraq) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "24'",
+          "text": "Attempt blocked. Alexander Sørloth (Norway) header from the centre of the box is blocked. Assisted by Julian Ryerson with a cross.",
+          "goal": false
+        },
+        {
+          "min": "22'",
+          "text": "Antonio Nusa (Norway) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "22'",
+          "text": "Foul by Zaid Ismael (Iraq).",
+          "goal": false
+        },
+        {
+          "min": "20'",
+          "text": "Attempt missed. Erling Haaland (Norway) header from the centre of the box is too high. Assisted by Julian Ryerson with a cross following a corner.",
+          "goal": false
+        },
+        {
+          "min": "19'",
+          "text": "Corner, Norway. Conceded by Ibrahim Bayesh.",
+          "goal": false
+        },
+        {
+          "min": "17'",
+          "text": "Foul by Zaid Tahseen (Iraq).",
+          "goal": false
+        },
+        {
+          "min": "17'",
+          "text": "Sander Berge (Norway) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "13'",
+          "text": "Attempt missed. Ali Al Hamadi (Iraq) right footed shot from the centre of the box is too high. Assisted by Aymen Hussein.",
+          "goal": false
+        },
+        {
+          "min": "10'",
+          "text": "Kristoffer Ajer (Norway) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "10'",
+          "text": "Foul by Ali Al Hamadi (Iraq).",
+          "goal": false
+        },
+        {
+          "min": "8'",
+          "text": "Merchas Doski (Iraq) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "8'",
+          "text": "Foul by Julian Ryerson (Norway).",
+          "goal": false
+        },
+        {
+          "min": "6'",
+          "text": "Akam Hashim (Iraq) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "6'",
+          "text": "Foul by Alexander Sørloth (Norway).",
+          "goal": false
+        },
+        {
+          "min": "5'",
+          "text": "Attempt missed. Aymen Hussein (Iraq) header from the centre of the box is too high following a set piece situation.",
+          "goal": false
+        },
+        {
+          "min": "4'",
+          "text": "Aymen Hussein (Iraq) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "4'",
+          "text": "Foul by Torbjørn Heggem (Norway).",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "First Half begins.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "Lineups are announced and players are warming up.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "A. Al-Hamadi",
+            "num": "9",
+            "pos": "F",
+            "value": "3"
+          },
+          "away": {
+            "name": "E. Haaland",
+            "num": "9",
+            "pos": "F",
+            "value": "4"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "A. Al-Ammari",
+            "num": "16",
+            "pos": "M",
+            "value": "25"
+          },
+          "away": {
+            "name": "T. Heggem",
+            "num": "17",
+            "pos": "D",
+            "value": "54"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "Z. Ismael",
+            "num": "24",
+            "pos": "M",
+            "value": "5"
+          },
+          "away": {
+            "name": "K. Ajer",
+            "num": "3",
+            "pos": "D",
+            "value": "8"
+          }
+        },
+        {
+          "label": "Saves",
+          "home": {
+            "name": "J. Hassan",
+            "num": "12",
+            "pos": "G",
+            "value": "1"
+          }
+        }
+      ],
+      "highlight": null,
+      "final": false,
       "dv": 5
     },
     "760432": {

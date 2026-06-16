@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-16T21:46:44.825Z",
+  "lastUpdated": "2026-06-16T23:14:29.714Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -193,12 +193,16 @@
       "stage": "group",
       "home": "Iraq",
       "away": "Norway",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "scheduled",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "live",
       "id": "760430",
       "date": "2026-06-16T22:00Z",
-      "venue": "Gillette Stadium"
+      "venue": "Gillette Stadium",
+      "clock": 3060,
+      "displayClock": "51'",
+      "detail": "51'",
+      "period": 2
     },
     {
       "stage": "group",

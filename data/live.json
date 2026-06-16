@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-16T15:31:08.783Z",
+  "lastUpdated": "2026-06-16T19:05:49.227Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -184,10 +184,14 @@
       "away": "Senegal",
       "homeScore": 0,
       "awayScore": 0,
-      "status": "scheduled",
+      "status": "live",
       "id": "760432",
       "date": "2026-06-16T19:00Z",
-      "venue": "MetLife Stadium"
+      "venue": "MetLife Stadium",
+      "clock": 180,
+      "displayClock": "3'",
+      "detail": "3'",
+      "period": 1
     },
     {
       "stage": "group",

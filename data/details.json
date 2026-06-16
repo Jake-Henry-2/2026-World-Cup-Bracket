@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15T22:27:25.740Z",
+  "lastUpdated": "2026-06-16T00:13:28.948Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -12743,67 +12743,146 @@
       "venue": "Hard Rock Stadium",
       "stats": {
         "home": {
-          "foulsCommitted": "2",
-          "yellowCards": "0",
+          "foulsCommitted": "11",
+          "yellowCards": "1",
           "redCards": "0",
           "offsides": "0",
-          "wonCorners": "1",
-          "saves": "1",
-          "possessionPct": "44.5",
-          "totalShots": "1",
-          "shotsOnTarget": "0",
-          "shotPct": "0.0",
+          "wonCorners": "4",
+          "saves": "9",
+          "possessionPct": "33.2",
+          "totalShots": "7",
+          "shotsOnTarget": "3",
+          "shotPct": "0.4",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "114",
-          "totalPasses": "139",
-          "passPct": "0.8",
-          "accurateCrosses": "0",
-          "totalCrosses": "2",
-          "crossPct": "0.0",
-          "totalLongBalls": "8",
-          "accurateLongBalls": "2",
-          "longballPct": "0.3",
-          "blockedShots": "0",
+          "accuratePasses": "234",
+          "totalPasses": "320",
+          "passPct": "0.7",
+          "accurateCrosses": "3",
+          "totalCrosses": "7",
+          "crossPct": "0.4",
+          "totalLongBalls": "41",
+          "accurateLongBalls": "10",
+          "longballPct": "0.2",
+          "blockedShots": "1",
+          "effectiveTackles": "9",
+          "totalTackles": "12",
+          "tacklePct": "0.8",
+          "interceptions": "7",
+          "effectiveClearance": "42",
+          "totalClearance": "42"
+        },
+        "away": {
+          "foulsCommitted": "6",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "6",
+          "wonCorners": "14",
+          "saves": "2",
+          "possessionPct": "66.8",
+          "totalShots": "28",
+          "shotsOnTarget": "10",
+          "shotPct": "0.4",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "540",
+          "totalPasses": "610",
+          "passPct": "0.9",
+          "accurateCrosses": "16",
+          "totalCrosses": "47",
+          "crossPct": "0.3",
+          "totalLongBalls": "41",
+          "accurateLongBalls": "24",
+          "longballPct": "0.6",
+          "blockedShots": "7",
           "effectiveTackles": "2",
           "totalTackles": "3",
           "tacklePct": "0.7",
-          "interceptions": "4",
-          "effectiveClearance": "3",
-          "totalClearance": "3"
-        },
-        "away": {
-          "foulsCommitted": "1",
-          "yellowCards": "0",
-          "redCards": "0",
-          "offsides": "0",
-          "wonCorners": "1",
-          "saves": "0",
-          "possessionPct": "55.5",
-          "totalShots": "3",
-          "shotsOnTarget": "1",
-          "shotPct": "0.3",
-          "penaltyKickGoals": "0",
-          "penaltyKickShots": "0",
-          "accuratePasses": "148",
-          "totalPasses": "172",
-          "passPct": "0.9",
-          "accurateCrosses": "2",
-          "totalCrosses": "3",
-          "crossPct": "0.7",
-          "totalLongBalls": "16",
-          "accurateLongBalls": "8",
-          "longballPct": "0.5",
-          "blockedShots": "1",
-          "effectiveTackles": "1",
-          "totalTackles": "1",
-          "tacklePct": "1.0",
-          "interceptions": "4",
-          "effectiveClearance": "4",
-          "totalClearance": "4"
+          "interceptions": "10",
+          "effectiveClearance": "18",
+          "totalClearance": "18"
         }
       },
-      "events": [],
+      "events": [
+        {
+          "kind": "Goal",
+          "min": "41'",
+          "side": "home",
+          "player": "Goal! Saudi Arabia 1, Uruguay 0. Abdulelah Al Amri"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "44'",
+          "side": "home",
+          "player": "Abdulelah Al Amri"
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "away",
+          "player": "Substitution, Uruguay. Juan Manuel Sanabria replaces Matías Viña."
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "away",
+          "player": "Substitution, Uruguay. Agustín Canobbio replaces Darwin Núñez."
+        },
+        {
+          "kind": "Substitution",
+          "min": "63'",
+          "side": "home",
+          "player": "Substitution, Saudi Arabia. Nasser Al Dawsari replaces Musab Al Juwayr."
+        },
+        {
+          "kind": "Substitution",
+          "min": "72'",
+          "side": "away",
+          "player": "Substitution, Uruguay. Nicolás de la Cruz replaces Manuel Ugarte."
+        },
+        {
+          "kind": "Goal - Volley",
+          "min": "80'",
+          "side": "away",
+          "player": "Goal! Saudi Arabia 1, Uruguay 1. Maxi Araújo"
+        },
+        {
+          "kind": "Substitution",
+          "min": "81'",
+          "side": "away",
+          "player": "Substitution, Uruguay. Brian Rodríguez replaces Maxi Araújo."
+        },
+        {
+          "kind": "Substitution",
+          "min": "81'",
+          "side": "home",
+          "player": "Substitution, Saudi Arabia. Nawaf Bu Washl replaces Mohammed Abu Al Shamat."
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'",
+          "side": "away",
+          "player": "Substitution, Uruguay. Rodrigo Aguirre replaces Federico Viñas."
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'+3'",
+          "side": "home",
+          "player": "Substitution, Saudi Arabia. Abdullah Al Hamddan replaces Moteb Al Harbi."
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'+3'",
+          "side": "home",
+          "player": "Substitution, Saudi Arabia. Alaa Al Hejji replaces Feras Al Brikan."
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'+3'",
+          "side": "home",
+          "player": "Substitution, Saudi Arabia. Ali Lajami replaces Saud Abdulhamid."
+        }
+      ],
       "lineups": {
         "home": [
           {
@@ -12921,46 +13000,46 @@
             "place": "2"
           },
           {
+            "name": "Federico Viñas",
+            "short": "F. Viñas",
+            "num": "21",
+            "pos": "AM",
+            "place": "10"
+          },
+          {
             "name": "Rodrigo Bentancur",
             "short": "R. Bentancur",
             "num": "6",
-            "pos": "CM-L",
-            "place": "8"
+            "pos": "LM",
+            "place": "4"
           },
           {
             "name": "Manuel Ugarte",
             "short": "M. Ugarte",
             "num": "5",
-            "pos": "CM-R",
-            "place": "4"
+            "pos": "RM",
+            "place": "8"
+          },
+          {
+            "name": "Darwin Núñez",
+            "short": "D. Núñez",
+            "num": "9",
+            "pos": "F",
+            "place": "9"
           },
           {
             "name": "Maxi Araújo",
             "short": "M. Araújo",
             "num": "20",
-            "pos": "LM",
+            "pos": "AM-L",
             "place": "11"
           },
           {
             "name": "Federico Valverde",
             "short": "F. Valverde",
             "num": "8",
-            "pos": "RM",
+            "pos": "AM-R",
             "place": "7"
-          },
-          {
-            "name": "Darwin Núñez",
-            "short": "D. Núñez",
-            "num": "9",
-            "pos": "CF-L",
-            "place": "9"
-          },
-          {
-            "name": "Federico Viñas",
-            "short": "F. Viñas",
-            "num": "21",
-            "pos": "CF-R",
-            "place": "10"
           }
         ]
       },
@@ -13168,82 +13247,307 @@
       },
       "formation": {
         "home": "4-4-2",
-        "away": "4-4-2"
+        "away": "4-2-3-1"
       },
       "commentary": [
         {
-          "min": "23'",
-          "text": "Offside, Uruguay. Federico Viñas is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "22'",
-          "text": "Corner, Saudi Arabia. Conceded by Matías Viña.",
-          "goal": false
-        },
-        {
-          "min": "21'",
-          "text": "Attempt missed. Rodrigo Bentancur (Uruguay) header from the centre of the box misses to the right. Assisted by Maxi Araújo with a cross following a set piece situation.",
-          "goal": false
-        },
-        {
-          "min": "20'",
-          "text": "Foul by Saud Abdulhamid (Saudi Arabia).",
-          "goal": false
-        },
-        {
-          "min": "20'",
-          "text": "Matías Viña (Uruguay) wins a free kick on the left wing.",
-          "goal": false
-        },
-        {
-          "min": "19'",
-          "text": "Foul by Salem Al Dawsari (Saudi Arabia).",
-          "goal": false
-        },
-        {
-          "min": "19'",
-          "text": "Sebastián Cáceres (Uruguay) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "18'",
-          "text": "Attempt missed. Salem Al Dawsari (Saudi Arabia) right footed shot from outside the box is close, but misses to the right.",
-          "goal": false
-        },
-        {
-          "min": "7'",
-          "text": "Moteb Al Harbi (Saudi Arabia) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "7'",
-          "text": "Foul by Guillermo Varela (Uruguay).",
-          "goal": false
-        },
-        {
-          "min": "5'",
-          "text": "Attempt blocked. Federico Viñas (Uruguay) header from the centre of the box is blocked. Assisted by Maxi Araújo with a cross.",
-          "goal": false
-        },
-        {
-          "min": "5'",
-          "text": "Corner, Uruguay. Conceded by Mohammed Abu Al Shamat.",
-          "goal": false
-        },
-        {
-          "min": "5'",
-          "text": "Attempt saved. Maxi Araújo (Uruguay) left footed shot from outside the box is saved in the centre of the goal by Mohammed Al Owais (Saudi Arabia). Assisted by Matías Viña.",
-          "goal": false
-        },
-        {
           "min": "",
-          "text": "First Half begins.",
+          "text": "Match ends, Saudi Arabia 1, Uruguay 1.",
           "goal": false
         },
         {
-          "min": "",
-          "text": "Lineups are announced and players are warming up.",
+          "min": "90'+9'",
+          "text": "Second Half ends, Saudi Arabia 1, Uruguay 1.",
+          "goal": false
+        },
+        {
+          "min": "90'+8'",
+          "text": "Attempt blocked. Juan Manuel Sanabria (Uruguay) right footed shot from the right side of the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "90'+8'",
+          "text": "Corner, Uruguay. Conceded by Nawaf Bu Washl.",
+          "goal": false
+        },
+        {
+          "min": "90'+7'",
+          "text": "Corner, Uruguay. Conceded by Abdulelah Al Amri.",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Corner, Uruguay. Conceded by Mohammed Al Owais.",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Attempt saved. Brian Rodríguez (Uruguay) right footed shot from outside the box is saved in the bottom left corner by Mohammed Al Owais (Saudi Arabia). Assisted by Juan Manuel Sanabria.",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Attempt missed. Guillermo Varela (Uruguay) right footed shot from outside the box misses to the left following a corner.",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Corner, Uruguay. Conceded by Abdullah Al Khaibari.",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Attempt blocked. Federico Valverde (Uruguay) right footed shot from the right side of the box is blocked. Assisted by Nicolás de la Cruz.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Attempt missed. Sebastián Cáceres (Uruguay) header from the centre of the box is close, but misses to the right. Assisted by Nicolás de la Cruz with a cross following a corner.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Corner, Uruguay. Conceded by Mohammed Al Owais.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Attempt saved. Federico Valverde (Uruguay) right footed shot from outside the box is saved in the bottom right corner by Mohammed Al Owais (Saudi Arabia). Assisted by Brian Rodríguez.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Substitution, Saudi Arabia. Ali Lajami replaces Saud Abdulhamid.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Substitution, Saudi Arabia. Alaa Al Hejji replaces Feras Al Brikan.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Substitution, Saudi Arabia. Abdullah Al Hamddan replaces Moteb Al Harbi.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Corner, Uruguay. Conceded by Saud Abdulhamid.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Attempt saved. Nicolás de la Cruz (Uruguay) left footed shot from the centre of the box is saved in the centre of the goal by Mohammed Al Owais (Saudi Arabia). Assisted by Juan Manuel Sanabria.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Brian Rodríguez (Uruguay) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Foul by Nawaf Bu Washl (Saudi Arabia).",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Fourth official has announced 7 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Substitution, Uruguay. Rodrigo Aguirre replaces Federico Viñas.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Attempt missed. Mathías Olivera (Uruguay) header from the centre of the box misses to the left. Assisted by Juan Manuel Sanabria with a cross.",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Corner, Uruguay. Conceded by Abdulelah Al Amri.",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Offside, Uruguay. Juan Manuel Sanabria is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Attempt missed. Saud Abdulhamid (Saudi Arabia) right footed shot from the right side of the box is too high.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Attempt blocked. Mohamed Kanno (Saudi Arabia) right footed shot from outside the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Rodrigo Bentancur (Uruguay) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Foul by Nasser Al Dawsari (Saudi Arabia).",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Attempt missed. Brian Rodríguez (Uruguay) right footed shot from outside the box is close, but misses to the right. Assisted by Nicolás de la Cruz.",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Attempt missed. Sebastián Cáceres (Uruguay) header from the centre of the box is just a bit too high. Assisted by Nicolás de la Cruz with a cross following a corner.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Corner, Uruguay. Conceded by Mohamed Kanno.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Attempt blocked. Juan Manuel Sanabria (Uruguay) left footed shot from outside the box is blocked. Assisted by Mathías Olivera.",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Substitution, Saudi Arabia. Nawaf Bu Washl replaces Mohammed Abu Al Shamat.",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Substitution, Uruguay. Brian Rodríguez replaces Maxi Araújo.",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Goal! Saudi Arabia 1, Uruguay 1. Maxi Araújo (Uruguay) left footed shot from the left side of the six yard box to the bottom left corner.",
+          "goal": true
+        },
+        {
+          "min": "80'",
+          "text": "Attempt saved. Federico Viñas (Uruguay) header from the centre of the box is saved in the bottom left corner by Mohammed Al Owais (Saudi Arabia). Assisted by Mathías Olivera with a cross.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Attempt blocked. Nicolás de la Cruz (Uruguay) left footed shot from outside the box is blocked. Assisted by Rodrigo Bentancur.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Foul by Mohammed Abu Al Shamat (Saudi Arabia).",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Nicolás de la Cruz (Uruguay) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Foul by Sebastián Cáceres (Uruguay).",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Feras Al Brikan (Saudi Arabia) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Corner, Uruguay. Conceded by Feras Al Brikan.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Corner, Uruguay. Conceded by Moteb Al Harbi.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Foul by Nasser Al Dawsari (Saudi Arabia).",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Agustín Canobbio (Uruguay) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Substitution, Uruguay. Nicolás de la Cruz replaces Manuel Ugarte.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "69'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Foul by Nasser Al Dawsari (Saudi Arabia).",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Rodrigo Bentancur (Uruguay) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Attempt blocked. Guillermo Varela (Uruguay) right footed shot from outside the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Attempt saved. Federico Valverde (Uruguay) right footed shot from a difficult angle and long range on the left is saved in the top left corner by Mohammed Al Owais (Saudi Arabia).",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Foul by Mohammed Abu Al Shamat (Saudi Arabia).",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Maxi Araújo (Uruguay) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "63'",
+          "text": "Substitution, Saudi Arabia. Nasser Al Dawsari replaces Musab Al Juwayr.",
+          "goal": false
+        },
+        {
+          "min": "63'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Delay in match because of an injury Mohammed Al Owais (Saudi Arabia).",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Attempt missed. Juan Manuel Sanabria (Uruguay) left footed shot from the left side of the box misses to the left.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Attempt saved. Manuel Ugarte (Uruguay) right footed shot from outside the box is saved in the bottom left corner by Mohammed Al Owais (Saudi Arabia). Assisted by Rodrigo Bentancur.",
           "goal": false
         }
       ],
@@ -13251,46 +13555,46 @@
         {
           "label": "Total Shots",
           "home": {
-            "name": "S. Al-Dawsari",
-            "num": "10",
+            "name": "M. Kanno",
+            "num": "23",
             "pos": "M",
-            "value": "1"
+            "value": "2"
           },
           "away": {
             "name": "F. Viñas",
             "num": "21",
             "pos": "F",
-            "value": "1"
+            "value": "5"
           }
         },
         {
           "label": "Accurate Passes",
           "home": {
-            "name": "M. Al-Juwayr",
-            "num": "7",
+            "name": "M. Kanno",
+            "num": "23",
             "pos": "M",
-            "value": "17"
+            "value": "32"
           },
           "away": {
             "name": "M. Olivera",
             "num": "16",
             "pos": "D",
-            "value": "35"
+            "value": "99"
           }
         },
         {
           "label": "Defensive Interventions",
           "home": {
-            "name": "A. Al-Khaibari",
-            "num": "15",
-            "pos": "M",
-            "value": "3"
+            "name": "M. Al-Harbi",
+            "num": "24",
+            "pos": "D",
+            "value": "12"
           },
           "away": {
-            "name": "M. Ugarte",
-            "num": "5",
-            "pos": "M",
-            "value": "3"
+            "name": "M. Olivera",
+            "num": "16",
+            "pos": "D",
+            "value": "9"
           }
         },
         {
@@ -13299,12 +13603,18 @@
             "name": "M. Al-Owais",
             "num": "21",
             "pos": "G",
-            "value": "1"
+            "value": "9"
+          },
+          "away": {
+            "name": "F. Muslera",
+            "num": "23",
+            "pos": "G",
+            "value": "2"
           }
         }
       ],
       "highlight": null,
-      "final": false,
+      "final": true,
       "dv": 5
     }
   }

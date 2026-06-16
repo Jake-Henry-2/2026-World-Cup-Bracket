@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15T22:27:25.653Z",
+  "lastUpdated": "2026-06-16T00:13:28.805Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -160,16 +160,12 @@
       "stage": "group",
       "home": "Saudi Arabia",
       "away": "Uruguay",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "live",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished",
       "id": "760429",
       "date": "2026-06-15T22:00Z",
-      "venue": "Hard Rock Stadium",
-      "clock": 1440,
-      "displayClock": "24'",
-      "detail": "24'",
-      "period": 1
+      "venue": "Hard Rock Stadium"
     },
     {
       "stage": "group",

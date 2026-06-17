@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-17T17:39:14.483Z",
+  "lastUpdated": "2026-06-17T19:50:09.927Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -18110,64 +18110,64 @@
       "venue": "NRG Stadium",
       "stats": {
         "home": {
-          "foulsCommitted": "2",
-          "yellowCards": "1",
+          "foulsCommitted": "9",
+          "yellowCards": "3",
           "redCards": "0",
-          "offsides": "1",
-          "wonCorners": "1",
+          "offsides": "3",
+          "wonCorners": "5",
           "saves": "1",
-          "possessionPct": "78.9",
-          "totalShots": "1",
+          "possessionPct": "75.4",
+          "totalShots": "7",
           "shotsOnTarget": "1",
-          "shotPct": "1.0",
+          "shotPct": "0.1",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "325",
-          "totalPasses": "346",
+          "accuratePasses": "724",
+          "totalPasses": "783",
           "passPct": "0.9",
-          "accurateCrosses": "2",
-          "totalCrosses": "10",
-          "crossPct": "0.2",
-          "totalLongBalls": "22",
-          "accurateLongBalls": "16",
-          "longballPct": "0.7",
-          "blockedShots": "0",
-          "effectiveTackles": "2",
-          "totalTackles": "3",
-          "tacklePct": "0.7",
-          "interceptions": "0",
-          "effectiveClearance": "4",
-          "totalClearance": "4"
+          "accurateCrosses": "6",
+          "totalCrosses": "23",
+          "crossPct": "0.3",
+          "totalLongBalls": "65",
+          "accurateLongBalls": "42",
+          "longballPct": "0.6",
+          "blockedShots": "2",
+          "effectiveTackles": "6",
+          "totalTackles": "11",
+          "tacklePct": "0.5",
+          "interceptions": "2",
+          "effectiveClearance": "10",
+          "totalClearance": "10"
         },
         "away": {
-          "foulsCommitted": "2",
+          "foulsCommitted": "10",
           "yellowCards": "1",
           "redCards": "0",
-          "offsides": "1",
-          "wonCorners": "1",
+          "offsides": "2",
+          "wonCorners": "4",
           "saves": "0",
-          "possessionPct": "21.1",
-          "totalShots": "3",
-          "shotsOnTarget": "1",
+          "possessionPct": "24.6",
+          "totalShots": "8",
+          "shotsOnTarget": "2",
           "shotPct": "0.3",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "78",
-          "totalPasses": "93",
+          "accuratePasses": "197",
+          "totalPasses": "251",
           "passPct": "0.8",
-          "accurateCrosses": "0",
-          "totalCrosses": "3",
-          "crossPct": "0.0",
-          "totalLongBalls": "13",
-          "accurateLongBalls": "4",
+          "accurateCrosses": "1",
+          "totalCrosses": "9",
+          "crossPct": "0.1",
+          "totalLongBalls": "41",
+          "accurateLongBalls": "11",
           "longballPct": "0.3",
-          "blockedShots": "1",
-          "effectiveTackles": "3",
-          "totalTackles": "5",
+          "blockedShots": "3",
+          "effectiveTackles": "11",
+          "totalTackles": "19",
           "tacklePct": "0.6",
-          "interceptions": "1",
-          "effectiveClearance": "11",
-          "totalClearance": "11"
+          "interceptions": "5",
+          "effectiveClearance": "28",
+          "totalClearance": "28"
         }
       },
       "events": [
@@ -18188,6 +18188,78 @@
           "min": "32'",
           "side": "away",
           "player": "Chancel Mbemba"
+        },
+        {
+          "kind": "Goal - Header",
+          "min": "45'+5'",
+          "side": "away",
+          "player": "Goal! Portugal 1, Congo DR 1. Yoane Wissa"
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "home",
+          "player": "Substitution, Portugal. Francisco Conceição replaces Bernardo Silva."
+        },
+        {
+          "kind": "Substitution",
+          "min": "57'",
+          "side": "away",
+          "player": "Substitution, Congo DR. Noah Sadiki replaces Ngal'ayel Mukau."
+        },
+        {
+          "kind": "Substitution",
+          "min": "71'",
+          "side": "home",
+          "player": "Substitution, Portugal. Rafael Leão replaces Pedro Neto."
+        },
+        {
+          "kind": "Substitution",
+          "min": "72'",
+          "side": "home",
+          "player": "Substitution, Portugal. Nélson Semedo replaces Nuno Mendes."
+        },
+        {
+          "kind": "Substitution",
+          "min": "74'",
+          "side": "away",
+          "player": "Substitution, Congo DR. Charles Pickel replaces Edo Kayembe."
+        },
+        {
+          "kind": "Substitution",
+          "min": "74'",
+          "side": "away",
+          "player": "Substitution, Congo DR. Joris Kayembe replaces Arthur Masuaku."
+        },
+        {
+          "kind": "Substitution",
+          "min": "83'",
+          "side": "home",
+          "player": "Substitution, Portugal. Gonçalo Ramos replaces Vitinha."
+        },
+        {
+          "kind": "Substitution",
+          "min": "85'",
+          "side": "away",
+          "player": "Substitution, Congo DR. Gédéon Kalulu replaces Aaron Wan-Bissaka."
+        },
+        {
+          "kind": "Substitution",
+          "min": "85'",
+          "side": "away",
+          "player": "Substitution, Congo DR. Simon Banza replaces Cédric Bakambu."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "88'",
+          "side": "home",
+          "player": "Nélson Semedo"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "90'+2'",
+          "side": "home",
+          "player": "Tomás Araújo"
         }
       ],
       "lineups": {
@@ -18572,113 +18644,303 @@
       },
       "commentary": [
         {
-          "min": "33'",
-          "text": "Attempt saved. Edo Kayembe (Congo DR) left footed shot from outside the box is saved in the top right corner by Diogo Costa (Portugal). Assisted by Steve Kapuadi.",
+          "min": "",
+          "text": "Match ends, Portugal 1, Congo DR 1.",
           "goal": false
         },
         {
-          "min": "32'",
-          "text": "Chancel Mbemba (Congo DR) is shown the yellow card for a bad foul.",
+          "min": "90'+5'",
+          "text": "Second Half ends, Portugal 1, Congo DR 1.",
           "goal": false
         },
         {
-          "min": "32'",
-          "text": "Foul by Chancel Mbemba (Congo DR).",
+          "min": "90'+4'",
+          "text": "Corner, Portugal. Conceded by Joris Kayembe.",
           "goal": false
         },
         {
-          "min": "32'",
-          "text": "Pedro Neto (Portugal) wins a free kick on the left wing.",
+          "min": "90'+2'",
+          "text": "Tomás Araújo (Portugal) is shown the yellow card for a bad foul.",
           "goal": false
         },
         {
-          "min": "31'",
-          "text": "Foul by Yoane Wissa (Congo DR).",
+          "min": "90'+2'",
+          "text": "Yoane Wissa (Congo DR) wins a free kick in the attacking half.",
           "goal": false
         },
         {
-          "min": "31'",
-          "text": "Renato Veiga (Portugal) wins a free kick in the defensive half.",
+          "min": "90'+2'",
+          "text": "Foul by Tomás Araújo (Portugal).",
           "goal": false
         },
         {
-          "min": "28'",
-          "text": "Corner, Portugal. Conceded by Chancel Mbemba.",
+          "min": "90'+2'",
+          "text": "Attempt missed. Cristiano Ronaldo (Portugal) with an attempt from the centre of the box misses to the left. Assisted by Bruno Fernandes with a cross.",
           "goal": false
         },
         {
-          "min": "27'",
+          "min": "90'",
+          "text": "Fourth official has announced 5 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Attempt missed. Bruno Fernandes (Portugal) left footed shot from outside the box is close, but misses to the right. Assisted by Tomás Araújo.",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Nélson Semedo (Portugal) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Yoane Wissa (Congo DR) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Foul by Nélson Semedo (Portugal).",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Substitution, Congo DR. Simon Banza replaces Cédric Bakambu.",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Substitution, Congo DR. Gédéon Kalulu replaces Aaron Wan-Bissaka.",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Substitution, Portugal. Gonçalo Ramos replaces Vitinha.",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Joris Kayembe (Congo DR) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Foul by Francisco Conceição (Portugal).",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Offside, Portugal. Francisco Conceição is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Foul by Renato Veiga (Portugal).",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Cédric Bakambu (Congo DR) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Attempt blocked. Francisco Conceição (Portugal) left footed shot from the right side of the box is blocked. Assisted by Rafael Leão with a cross.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Attempt missed. Cédric Bakambu (Congo DR) right footed shot from outside the box is too high. Assisted by Noah Sadiki following a fast break.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Corner, Portugal. Conceded by Samuel Moutoussamy.",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Substitution, Congo DR. Joris Kayembe replaces Arthur Masuaku.",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Substitution, Congo DR. Charles Pickel replaces Edo Kayembe.",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Attempt missed. Cristiano Ronaldo (Portugal) right footed shot from the centre of the box is close, but misses to the right. Assisted by Francisco Conceição.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Substitution, Portugal. Nélson Semedo replaces Nuno Mendes.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Substitution, Portugal. Rafael Leão replaces Pedro Neto.",
+          "goal": false
+        },
+        {
+          "min": "71'",
           "text": "Delay over. They are ready to continue.",
           "goal": false
         },
         {
-          "min": "24'",
+          "min": "69'",
           "text": "Delay in match for a drinks break.",
           "goal": false
         },
         {
-          "min": "15'",
-          "text": "Offside, Congo DR. Cédric Bakambu is caught offside.",
+          "min": "68'",
+          "text": "Attempt missed. Cristiano Ronaldo (Portugal) right footed shot from the centre of the box is close, but misses to the right. Assisted by Francisco Conceição.",
           "goal": false
         },
         {
-          "min": "14'",
-          "text": "Corner, Congo DR. Conceded by Tomás Araújo.",
+          "min": "67'",
+          "text": "Foul by Edo Kayembe (Congo DR).",
           "goal": false
         },
         {
-          "min": "14'",
-          "text": "Attempt blocked. Cédric Bakambu (Congo DR) right footed shot from outside the box is blocked. Assisted by Edo Kayembe.",
+          "min": "67'",
+          "text": "Nuno Mendes (Portugal) wins a free kick on the left wing.",
           "goal": false
         },
         {
-          "min": "13'",
-          "text": "Bernardo Silva (Portugal) is shown the yellow card for a bad foul.",
+          "min": "66'",
+          "text": "Foul by Samuel Moutoussamy (Congo DR).",
           "goal": false
         },
         {
-          "min": "13'",
+          "min": "66'",
+          "text": "Nuno Mendes (Portugal) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Foul by Bruno Fernandes (Portugal).",
+          "goal": false
+        },
+        {
+          "min": "64'",
           "text": "Edo Kayembe (Congo DR) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "13'",
-          "text": "Foul by Bernardo Silva (Portugal).",
+          "min": "63'",
+          "text": "Attempt missed. Steve Kapuadi (Congo DR) header from the centre of the box is close, but misses to the right. Assisted by Cédric Bakambu with a headed pass.",
           "goal": false
         },
         {
-          "min": "11'",
-          "text": "Attempt missed. Yoane Wissa (Congo DR) left footed shot from outside the box is close, but misses to the left.",
+          "min": "60'",
+          "text": "Corner, Portugal. Conceded by Steve Kapuadi.",
           "goal": false
         },
         {
-          "min": "10'",
-          "text": "Offside, Portugal. Nuno Mendes is caught offside.",
+          "min": "58'",
+          "text": "Nuno Mendes (Portugal) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "6'",
-          "text": "Goal! Portugal 1, Congo DR 0. João Neves (Portugal) header from the centre of the box to the bottom right corner. Assisted by Pedro Neto with a cross.",
+          "min": "58'",
+          "text": "Foul by Aaron Wan-Bissaka (Congo DR).",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Substitution, Congo DR. Noah Sadiki replaces Ngal'ayel Mukau.",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Foul by Cédric Bakambu (Congo DR).",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Bruno Fernandes (Portugal) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "55'",
+          "text": "Corner, Congo DR. Conceded by Renato Veiga.",
+          "goal": false
+        },
+        {
+          "min": "55'",
+          "text": "Offside, Portugal. João Cancelo is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "52'",
+          "text": "Corner, Portugal. Conceded by Lionel Mpasi.",
+          "goal": false
+        },
+        {
+          "min": "50'",
+          "text": "Offside, Congo DR. Cédric Bakambu is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "49'",
+          "text": "Foul by Vitinha (Portugal).",
+          "goal": false
+        },
+        {
+          "min": "49'",
+          "text": "Yoane Wissa (Congo DR) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "46'",
+          "text": "Foul by Samuel Moutoussamy (Congo DR).",
+          "goal": false
+        },
+        {
+          "min": "46'",
+          "text": "Bruno Fernandes (Portugal) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Second Half begins Portugal 1, Congo DR 1.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Substitution, Portugal. Francisco Conceição replaces Bernardo Silva.",
+          "goal": false
+        },
+        {
+          "min": "45'+6'",
+          "text": "First Half ends, Portugal 1, Congo DR 1.",
+          "goal": false
+        },
+        {
+          "min": "45'+5'",
+          "text": "Goal! Portugal 1, Congo DR 1. Yoane Wissa (Congo DR) header from very close range to the top left corner. Assisted by Arthur Masuaku with a cross following a corner.",
           "goal": true
         },
         {
-          "min": "3'",
-          "text": "Samuel Moutoussamy (Congo DR) wins a free kick in the defensive half.",
+          "min": "45'+4'",
+          "text": "Corner, Congo DR. Conceded by Bruno Fernandes.",
           "goal": false
         },
         {
-          "min": "3'",
-          "text": "Foul by João Cancelo (Portugal).",
+          "min": "45'+3'",
+          "text": "Corner, Congo DR. Conceded by Vitinha.",
           "goal": false
         },
         {
-          "min": "",
-          "text": "First Half begins.",
+          "min": "45'+3'",
+          "text": "Attempt blocked. Samuel Moutoussamy (Congo DR) left footed shot from outside the box is blocked. Assisted by Arthur Masuaku.",
           "goal": false
         },
         {
-          "min": "",
-          "text": "Lineups are announced and players are warming up.",
+          "min": "45'+1'",
+          "text": "Foul by Yoane Wissa (Congo DR).",
           "goal": false
         }
       ],
@@ -18686,16 +18948,16 @@
         {
           "label": "Total Shots",
           "home": {
-            "name": "J. Neves",
-            "num": "15",
-            "pos": "M",
-            "value": "1"
+            "name": "C. Ronaldo",
+            "num": "7",
+            "pos": "F",
+            "value": "3"
           },
           "away": {
-            "name": "E. Kayembe",
-            "num": "25",
+            "name": "S. Moutoussamy",
+            "num": "8",
             "pos": "M",
-            "value": "1"
+            "value": "2"
           }
         },
         {
@@ -18704,13 +18966,13 @@
             "name": "Vitinha ",
             "num": "23",
             "pos": "M",
-            "value": "65"
+            "value": "121"
           },
           "away": {
-            "name": "N. Mukau",
-            "num": "6",
-            "pos": "M",
-            "value": "10"
+            "name": "C. Mbemba",
+            "num": "22",
+            "pos": "D",
+            "value": "22"
           }
         },
         {
@@ -18719,13 +18981,13 @@
             "name": "J. Cancelo",
             "num": "20",
             "pos": "D",
-            "value": "5"
+            "value": "12"
           },
           "away": {
             "name": "C. Mbemba",
             "num": "22",
             "pos": "D",
-            "value": "5"
+            "value": "12"
           }
         },
         {
@@ -18738,8 +19000,14 @@
           }
         }
       ],
-      "highlight": null,
-      "final": false,
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0617/dm_260617_COM_SOC_Analysis_Does_DR_Congo_deserve_more_credit_for_their_draw_vs_Portugal_20260617_GLOBAL/dm_260617_COM_SOC_Analysis_Does_DR_Congo_deserve_more_credit_for_their_draw_vs_Portugal_20260617_GLOBAL.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49098991/does-congo-dr-deserve-more-credit-their-draw-vs-portugal",
+        "headline": "Does Congo DR deserve more credit for their draw vs. Portugal?",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0617/dm_260617_COM_SOC_Analysis_Does_DR_Congo_deserve_more_credit_for_their_draw_vs_Portugal_20260617_GLOBAL/dm_260617_COM_SOC_Analysis_Does_DR_Congo_deserve_more_credit_for_their_draw_vs_Portugal_20260617_GLOBAL_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0617/dm_260617_COM_SOC_Analysis_Does_DR_Congo_deserve_more_credit_for_their_draw_vs_Portugal_20260617_GLOBAL/dm_260617_COM_SOC_Analysis_Does_DR_Congo_deserve_more_credit_for_their_draw_vs_Portugal_20260617_GLOBAL/playlist.m3u8"
+      },
+      "final": true,
       "dv": 5
     }
   }

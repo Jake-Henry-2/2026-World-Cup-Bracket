@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-17T14:41:05.717Z",
+  "lastUpdated": "2026-06-17T17:39:14.483Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -18104,6 +18104,642 @@
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0616/dm_260616_World_Cup_Highlight_Lionel_Messi_nets_screamer_in_Argentinas_World_Cup_opener_20260617_AUS_ONLY/dm_260616_World_Cup_Highlight_Lionel_Messi_nets_screamer_in_Argentinas_World_Cup_opener_20260617_AUS_ONLY/playlist.m3u8"
       },
       "final": true,
+      "dv": 5
+    },
+    "760435": {
+      "venue": "NRG Stadium",
+      "stats": {
+        "home": {
+          "foulsCommitted": "2",
+          "yellowCards": "1",
+          "redCards": "0",
+          "offsides": "1",
+          "wonCorners": "1",
+          "saves": "1",
+          "possessionPct": "78.9",
+          "totalShots": "1",
+          "shotsOnTarget": "1",
+          "shotPct": "1.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "325",
+          "totalPasses": "346",
+          "passPct": "0.9",
+          "accurateCrosses": "2",
+          "totalCrosses": "10",
+          "crossPct": "0.2",
+          "totalLongBalls": "22",
+          "accurateLongBalls": "16",
+          "longballPct": "0.7",
+          "blockedShots": "0",
+          "effectiveTackles": "2",
+          "totalTackles": "3",
+          "tacklePct": "0.7",
+          "interceptions": "0",
+          "effectiveClearance": "4",
+          "totalClearance": "4"
+        },
+        "away": {
+          "foulsCommitted": "2",
+          "yellowCards": "1",
+          "redCards": "0",
+          "offsides": "1",
+          "wonCorners": "1",
+          "saves": "0",
+          "possessionPct": "21.1",
+          "totalShots": "3",
+          "shotsOnTarget": "1",
+          "shotPct": "0.3",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "78",
+          "totalPasses": "93",
+          "passPct": "0.8",
+          "accurateCrosses": "0",
+          "totalCrosses": "3",
+          "crossPct": "0.0",
+          "totalLongBalls": "13",
+          "accurateLongBalls": "4",
+          "longballPct": "0.3",
+          "blockedShots": "1",
+          "effectiveTackles": "3",
+          "totalTackles": "5",
+          "tacklePct": "0.6",
+          "interceptions": "1",
+          "effectiveClearance": "11",
+          "totalClearance": "11"
+        }
+      },
+      "events": [
+        {
+          "kind": "Goal - Header",
+          "min": "6'",
+          "side": "home",
+          "player": "Goal! Portugal 1, Congo DR 0. João Neves"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "13'",
+          "side": "home",
+          "player": "Bernardo Silva"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "32'",
+          "side": "away",
+          "player": "Chancel Mbemba"
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Diogo Costa",
+            "short": "D. Costa",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Renato Veiga",
+            "short": "R. Veiga",
+            "num": "13",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Tomás Araújo",
+            "short": "T. Araújo",
+            "num": "4",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Nuno Mendes",
+            "short": "N. Mendes",
+            "num": "25",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "João Cancelo",
+            "short": "J. Cancelo",
+            "num": "20",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Bruno Fernandes",
+            "short": "B. Fernandes",
+            "num": "8",
+            "pos": "AM",
+            "place": "10"
+          },
+          {
+            "name": "Vitinha ",
+            "short": "Vitinha ",
+            "num": "23",
+            "pos": "LM",
+            "place": "4"
+          },
+          {
+            "name": "João Neves",
+            "short": "J. Neves",
+            "num": "15",
+            "pos": "RM",
+            "place": "8"
+          },
+          {
+            "name": "Cristiano Ronaldo",
+            "short": "C. Ronaldo",
+            "num": "7",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Pedro Neto",
+            "short": "P. Neto",
+            "num": "18",
+            "pos": "AM-L",
+            "place": "11"
+          },
+          {
+            "name": "Bernardo Silva",
+            "short": "B. Silva",
+            "num": "10",
+            "pos": "AM-R",
+            "place": "7"
+          }
+        ],
+        "away": [
+          {
+            "name": "Lionel Mpasi",
+            "short": "L. Mpasi",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Axel Tuanzebe",
+            "short": "A. Tuanzebe",
+            "num": "4",
+            "pos": "CD",
+            "place": "5"
+          },
+          {
+            "name": "Steve Kapuadi",
+            "short": "S. Kapuadi",
+            "num": "3",
+            "pos": "CD-L",
+            "place": "4"
+          },
+          {
+            "name": "Chancel Mbemba",
+            "short": "C. Mbemba",
+            "num": "22",
+            "pos": "CD-R",
+            "place": "6"
+          },
+          {
+            "name": "Arthur Masuaku",
+            "short": "A. Masuaku",
+            "num": "26",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Aaron Wan-Bissaka",
+            "short": "A. Wan-Bissaka",
+            "num": "2",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Samuel Moutoussamy",
+            "short": "S. Moutoussamy",
+            "num": "8",
+            "pos": "CM",
+            "place": "8"
+          },
+          {
+            "name": "Edo Kayembe",
+            "short": "E. Kayembe",
+            "num": "25",
+            "pos": "CM-L",
+            "place": "11"
+          },
+          {
+            "name": "Ngal'ayel Mukau",
+            "short": "N. Mukau",
+            "num": "6",
+            "pos": "CM-R",
+            "place": "7"
+          },
+          {
+            "name": "Cédric Bakambu",
+            "short": "C. Bakambu",
+            "num": "17",
+            "pos": "CF-L",
+            "place": "9"
+          },
+          {
+            "name": "Yoane Wissa",
+            "short": "Y. Wissa",
+            "num": "20",
+            "pos": "CF-R",
+            "place": "10"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Gonçalo Inácio",
+            "short": "G. Inácio",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Samú Costa",
+            "short": "S. Costa",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Rúben Dias",
+            "short": "R. Dias",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "João Félix",
+            "short": "J. Félix",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "José Sá",
+            "short": "J. Sá",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Matheus Nunes",
+            "short": "M. Nunes",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Francisco Trincão",
+            "short": "F. Trincão",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Rúben Neves",
+            "short": "R. Neves",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Francisco Conceição",
+            "short": "F. Conceição",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nélson Semedo",
+            "short": "N. Semedo",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gonçalo Ramos",
+            "short": "G. Ramos",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Rui Silva",
+            "short": "R. Silva",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Rafael Leão",
+            "short": "R. Leão",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Diogo Dalot",
+            "short": "D. Dalot",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gonçalo Guedes",
+            "short": "G. Guedes",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Joris Kayembe",
+            "short": "J. Kayembe",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Théo Bongonda",
+            "short": "T. Bongonda",
+            "num": "10",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Brian Cipenga",
+            "short": "B. Cipenga",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gédéon Kalulu",
+            "short": "G. Kalulu",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Timothy Fayulu",
+            "short": "T. Fayulu",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Simon Banza",
+            "short": "S. Banza",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Noah Sadiki",
+            "short": "N. Sadiki",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Matthieu Epolo",
+            "short": "M. Epolo",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Aaron Tshibola",
+            "short": "A. Tshibola",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nathanaël Mbuku",
+            "short": "N. Mbuku",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Dylan Batubinsika",
+            "short": "D. Batubinsika",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Fiston Mayele",
+            "short": "F. Mayele",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gaël Kakuta",
+            "short": "G. Kakuta",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Charles Pickel",
+            "short": "C. Pickel",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Meschack Elia",
+            "short": "M. Elia",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-2-3-1",
+        "away": "5-3-2"
+      },
+      "commentary": [
+        {
+          "min": "33'",
+          "text": "Attempt saved. Edo Kayembe (Congo DR) left footed shot from outside the box is saved in the top right corner by Diogo Costa (Portugal). Assisted by Steve Kapuadi.",
+          "goal": false
+        },
+        {
+          "min": "32'",
+          "text": "Chancel Mbemba (Congo DR) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "32'",
+          "text": "Foul by Chancel Mbemba (Congo DR).",
+          "goal": false
+        },
+        {
+          "min": "32'",
+          "text": "Pedro Neto (Portugal) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "31'",
+          "text": "Foul by Yoane Wissa (Congo DR).",
+          "goal": false
+        },
+        {
+          "min": "31'",
+          "text": "Renato Veiga (Portugal) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "28'",
+          "text": "Corner, Portugal. Conceded by Chancel Mbemba.",
+          "goal": false
+        },
+        {
+          "min": "27'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "24'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "15'",
+          "text": "Offside, Congo DR. Cédric Bakambu is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "14'",
+          "text": "Corner, Congo DR. Conceded by Tomás Araújo.",
+          "goal": false
+        },
+        {
+          "min": "14'",
+          "text": "Attempt blocked. Cédric Bakambu (Congo DR) right footed shot from outside the box is blocked. Assisted by Edo Kayembe.",
+          "goal": false
+        },
+        {
+          "min": "13'",
+          "text": "Bernardo Silva (Portugal) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "13'",
+          "text": "Edo Kayembe (Congo DR) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "13'",
+          "text": "Foul by Bernardo Silva (Portugal).",
+          "goal": false
+        },
+        {
+          "min": "11'",
+          "text": "Attempt missed. Yoane Wissa (Congo DR) left footed shot from outside the box is close, but misses to the left.",
+          "goal": false
+        },
+        {
+          "min": "10'",
+          "text": "Offside, Portugal. Nuno Mendes is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "6'",
+          "text": "Goal! Portugal 1, Congo DR 0. João Neves (Portugal) header from the centre of the box to the bottom right corner. Assisted by Pedro Neto with a cross.",
+          "goal": true
+        },
+        {
+          "min": "3'",
+          "text": "Samuel Moutoussamy (Congo DR) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "3'",
+          "text": "Foul by João Cancelo (Portugal).",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "First Half begins.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "Lineups are announced and players are warming up.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "J. Neves",
+            "num": "15",
+            "pos": "M",
+            "value": "1"
+          },
+          "away": {
+            "name": "E. Kayembe",
+            "num": "25",
+            "pos": "M",
+            "value": "1"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "Vitinha ",
+            "num": "23",
+            "pos": "M",
+            "value": "65"
+          },
+          "away": {
+            "name": "N. Mukau",
+            "num": "6",
+            "pos": "M",
+            "value": "10"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "J. Cancelo",
+            "num": "20",
+            "pos": "D",
+            "value": "5"
+          },
+          "away": {
+            "name": "C. Mbemba",
+            "num": "22",
+            "pos": "D",
+            "value": "5"
+          }
+        },
+        {
+          "label": "Saves",
+          "home": {
+            "name": "D. Costa",
+            "num": "1",
+            "pos": "G",
+            "value": "1"
+          }
+        }
+      ],
+      "highlight": null,
+      "final": false,
       "dv": 5
     }
   }

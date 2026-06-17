@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-16T23:14:29.786Z",
+  "lastUpdated": "2026-06-17T01:44:00.795Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -14518,64 +14518,64 @@
       "venue": "Gillette Stadium",
       "stats": {
         "home": {
-          "foulsCommitted": "6",
-          "yellowCards": "0",
+          "foulsCommitted": "12",
+          "yellowCards": "1",
           "redCards": "0",
           "offsides": "1",
           "wonCorners": "2",
-          "saves": "1",
-          "possessionPct": "39.8",
-          "totalShots": "9",
+          "saves": "2",
+          "possessionPct": "38.7",
+          "totalShots": "11",
           "shotsOnTarget": "1",
           "shotPct": "0.1",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "148",
-          "totalPasses": "190",
+          "accuratePasses": "271",
+          "totalPasses": "333",
           "passPct": "0.8",
-          "accurateCrosses": "3",
-          "totalCrosses": "10",
-          "crossPct": "0.3",
-          "totalLongBalls": "39",
-          "accurateLongBalls": "16",
+          "accurateCrosses": "6",
+          "totalCrosses": "13",
+          "crossPct": "0.5",
+          "totalLongBalls": "53",
+          "accurateLongBalls": "22",
           "longballPct": "0.4",
           "blockedShots": "2",
-          "effectiveTackles": "8",
-          "totalTackles": "12",
+          "effectiveTackles": "13",
+          "totalTackles": "19",
           "tacklePct": "0.7",
-          "interceptions": "2",
-          "effectiveClearance": "8",
-          "totalClearance": "8"
+          "interceptions": "5",
+          "effectiveClearance": "21",
+          "totalClearance": "21"
         },
         "away": {
-          "foulsCommitted": "9",
+          "foulsCommitted": "13",
           "yellowCards": "0",
           "redCards": "0",
           "offsides": "0",
-          "wonCorners": "2",
+          "wonCorners": "5",
           "saves": "0",
-          "possessionPct": "60.2",
-          "totalShots": "7",
-          "shotsOnTarget": "3",
+          "possessionPct": "61.3",
+          "totalShots": "12",
+          "shotsOnTarget": "5",
           "shotPct": "0.4",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "261",
-          "totalPasses": "299",
+          "accuratePasses": "476",
+          "totalPasses": "536",
           "passPct": "0.9",
-          "accurateCrosses": "3",
-          "totalCrosses": "7",
+          "accurateCrosses": "7",
+          "totalCrosses": "17",
           "crossPct": "0.4",
-          "totalLongBalls": "25",
-          "accurateLongBalls": "11",
+          "totalLongBalls": "42",
+          "accurateLongBalls": "18",
           "longballPct": "0.4",
-          "blockedShots": "2",
-          "effectiveTackles": "5",
-          "totalTackles": "8",
+          "blockedShots": "3",
+          "effectiveTackles": "10",
+          "totalTackles": "16",
           "tacklePct": "0.6",
-          "interceptions": "0",
-          "effectiveClearance": "17",
-          "totalClearance": "17"
+          "interceptions": "3",
+          "effectiveClearance": "22",
+          "totalClearance": "22"
         }
       },
       "events": [
@@ -14596,6 +14596,84 @@
           "min": "43'",
           "side": "away",
           "player": "Goal! Iraq 1, Norway 2. Erling Haaland"
+        },
+        {
+          "kind": "Substitution",
+          "min": "59'",
+          "side": "home",
+          "player": "Substitution, Iraq. Zidane Iqbal replaces Zaid Ismael."
+        },
+        {
+          "kind": "Substitution",
+          "min": "59'",
+          "side": "home",
+          "player": "Substitution, Iraq. Marko Farji replaces Ali Al Hamadi."
+        },
+        {
+          "kind": "Substitution",
+          "min": "73'",
+          "side": "away",
+          "player": "Substitution, Norway. Andreas Schjelderup replaces Antonio Nusa."
+        },
+        {
+          "kind": "Substitution",
+          "min": "73'",
+          "side": "away",
+          "player": "Substitution, Norway. Kristian Thorstvedt replaces Fredrik Aursnes."
+        },
+        {
+          "kind": "Substitution",
+          "min": "73'",
+          "side": "away",
+          "player": "Substitution, Norway. Leo Østigård replaces David Møller Wolfe because of an injury."
+        },
+        {
+          "kind": "Substitution",
+          "min": "73'",
+          "side": "away",
+          "player": "Substitution, Norway. Oscar Bobb replaces Alexander Sørloth."
+        },
+        {
+          "kind": "Substitution",
+          "min": "73'",
+          "side": "home",
+          "player": "Substitution, Iraq. Mustafa Saadoon replaces Hussein Ali."
+        },
+        {
+          "kind": "Substitution",
+          "min": "73'",
+          "side": "home",
+          "player": "Substitution, Iraq. Ahmed Qasem replaces Ali Jasim because of an injury."
+        },
+        {
+          "kind": "Goal - Header",
+          "min": "76'",
+          "side": "away",
+          "player": "Goal! Iraq 1, Norway 3. Leo Østigård"
+        },
+        {
+          "kind": "Substitution",
+          "min": "78'",
+          "side": "home",
+          "player": "Substitution, Iraq. Mohanad Ali replaces Ibrahim Bayesh."
+        },
+        {
+          "kind": "Substitution",
+          "min": "81'",
+          "side": "away",
+          "player": "Substitution, Norway. Patrick Berg replaces Martin Ødegaard."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "86'",
+          "side": "home",
+          "player": "Zaid Tahseen"
+        },
+        {
+          "kind": "Own Goal",
+          "min": "90'+6'",
+          "side": "away",
+          "player": "Own Goal by Aymen Hussein, Iraq. Iraq 1, Norway 4."
         }
       ],
       "lineups": {
@@ -14980,6 +15058,271 @@
       },
       "commentary": [
         {
+          "min": "",
+          "text": "Match ends, Iraq 1, Norway 4.",
+          "goal": false
+        },
+        {
+          "min": "90'+8'",
+          "text": "Second Half ends, Iraq 1, Norway 4.",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Own Goal by Aymen Hussein, Iraq. Iraq 1, Norway 4.",
+          "goal": true
+        },
+        {
+          "min": "90'+6'",
+          "text": "Erling Haaland (Norway) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Foul by Mustafa Saadoon (Iraq).",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Andreas Schjelderup (Norway) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Foul by Mustafa Saadoon (Iraq).",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Foul by Julian Ryerson (Norway).",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Marko Farji (Iraq) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Delay in match because of an injury Aymen Hussein (Iraq).",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Attempt missed. Kristian Thorstvedt (Norway) right footed shot from the left side of the box is close, but misses to the left. Assisted by Andreas Schjelderup.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Fourth official has announced 6 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Zaid Tahseen (Iraq) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Foul by Zaid Tahseen (Iraq).",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Erling Haaland (Norway) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Attempt saved. Erling Haaland (Norway) left footed shot from the right side of the box is saved in the centre of the goal by Jalal Hassan (Iraq).",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Attempt missed. Leo Østigård (Norway) header from the centre of the box misses to the right. Assisted by Julian Ryerson with a cross following a set piece situation.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Erling Haaland (Norway) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Foul by Zaid Tahseen (Iraq).",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Substitution, Norway. Patrick Berg replaces Martin Ødegaard.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Zaid Tahseen (Iraq) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Foul by Erling Haaland (Norway).",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Foul by Martin Ødegaard (Norway).",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Merchas Doski (Iraq) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Substitution, Iraq. Mohanad Ali replaces Ibrahim Bayesh.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Goal! Iraq 1, Norway 3. Leo Østigård (Norway) header from very close range to the high centre of the goal. Assisted by Martin Ødegaard with a cross following a corner.",
+          "goal": true
+        },
+        {
+          "min": "76'",
+          "text": "Corner, Norway. Conceded by Merchas Doski.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Attempt blocked. Kristian Thorstvedt (Norway) left footed shot from the right side of the box is blocked. Assisted by Oscar Bobb.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Substitution, Iraq. Ahmed Qasem replaces Ali Jasim because of an injury.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Substitution, Iraq. Mustafa Saadoon replaces Hussein Ali.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Substitution, Norway. Oscar Bobb replaces Alexander Sørloth.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Substitution, Norway. Leo Østigård replaces David Møller Wolfe because of an injury.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Substitution, Norway. Kristian Thorstvedt replaces Fredrik Aursnes.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Substitution, Norway. Andreas Schjelderup replaces Antonio Nusa.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "69'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "69'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "69'",
+          "text": "Delay in match because of an injury Ali Jasim (Iraq).",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Corner, Norway. Conceded by Hussein Ali.",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Merchas Doski (Iraq) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Foul by Alexander Sørloth (Norway).",
+          "goal": false
+        },
+        {
+          "min": "63'",
+          "text": "Attempt missed. Hussein Ali (Iraq) right footed shot from a difficult angle on the right is just a bit too high. Assisted by Amir Al Ammari with a cross.",
+          "goal": false
+        },
+        {
+          "min": "59'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "59'",
+          "text": "Substitution, Iraq. Marko Farji replaces Ali Al Hamadi.",
+          "goal": false
+        },
+        {
+          "min": "59'",
+          "text": "Substitution, Iraq. Zidane Iqbal replaces Zaid Ismael.",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Delay in match because of an injury Ali Jasim (Iraq).",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Corner, Norway. Conceded by Akam Hashim.",
+          "goal": false
+        },
+        {
+          "min": "54'",
+          "text": "Antonio Nusa (Norway) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "54'",
+          "text": "Foul by Hussein Ali (Iraq).",
+          "goal": false
+        },
+        {
+          "min": "54'",
+          "text": "Martin Ødegaard (Norway) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "54'",
+          "text": "Foul by Amir Al Ammari (Iraq).",
+          "goal": false
+        },
+        {
+          "min": "53'",
+          "text": "Attempt missed. Aymen Hussein (Iraq) header from the centre of the box misses to the left. Assisted by Ibrahim Bayesh with a cross.",
+          "goal": false
+        },
+        {
           "min": "49'",
           "text": "David Møller Wolfe (Norway) wins a free kick in the defensive half.",
           "goal": false
@@ -15013,264 +15356,14 @@
           "min": "45'+5'",
           "text": "Corner, Iraq. Conceded by Kristoffer Ajer.",
           "goal": false
-        },
-        {
-          "min": "45'+5'",
-          "text": "Attempt blocked. Ali Al Hamadi (Iraq) right footed shot from outside the box is blocked. Assisted by Ali Jasim with a through ball.",
-          "goal": false
-        },
-        {
-          "min": "45'+4'",
-          "text": "Attempt missed. Zaid Tahseen (Iraq) header from the left side of the six yard box is high and wide to the left. Assisted by Amir Al Ammari with a cross following a corner.",
-          "goal": false
-        },
-        {
-          "min": "45'+3'",
-          "text": "Corner, Iraq. Conceded by David Møller Wolfe.",
-          "goal": false
-        },
-        {
-          "min": "45'+3'",
-          "text": "Attempt blocked. Ibrahim Bayesh (Iraq) right footed shot from the right side of the six yard box is blocked. Assisted by Ali Al Hamadi.",
-          "goal": false
-        },
-        {
-          "min": "45'+3'",
-          "text": "Attempt missed. Ali Al Hamadi (Iraq) with an attempt from the centre of the box misses to the right. Assisted by Merchas Doski with a cross.",
-          "goal": false
-        },
-        {
-          "min": "45'+2'",
-          "text": "Akam Hashim (Iraq) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "45'+2'",
-          "text": "Foul by Erling Haaland (Norway).",
-          "goal": false
-        },
-        {
-          "min": "45'+1'",
-          "text": "Zaid Tahseen (Iraq) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "45'+1'",
-          "text": "Foul by David Møller Wolfe (Norway).",
-          "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Fourth official has announced 5 minutes of added time.",
-          "goal": false
-        },
-        {
-          "min": "44'",
-          "text": "Handball by Zaid Ismael (Iraq).",
-          "goal": false
-        },
-        {
-          "min": "43'",
-          "text": "Goal! Iraq 1, Norway 2. Erling Haaland (Norway) right footed shot from very close range to the centre of the goal.",
-          "goal": true
-        },
-        {
-          "min": "43'",
-          "text": "Attempt saved. Erling Haaland (Norway) right footed shot from very close range is saved in the centre of the goal by Jalal Hassan (Iraq).",
-          "goal": false
-        },
-        {
-          "min": "39'",
-          "text": "Goal! Iraq 1, Norway 1. Aymen Hussein (Iraq) header from the centre of the box to the bottom right corner. Assisted by Amir Al Ammari with a cross.",
-          "goal": true
-        },
-        {
-          "min": "37'",
-          "text": "Merchas Doski (Iraq) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "37'",
-          "text": "Foul by Alexander Sørloth (Norway).",
-          "goal": false
-        },
-        {
-          "min": "37'",
-          "text": "Attempt missed. Martin Ødegaard (Norway) left footed shot from outside the box misses to the right. Assisted by Alexander Sørloth.",
-          "goal": false
-        },
-        {
-          "min": "36'",
-          "text": "Foul by David Møller Wolfe (Norway).",
-          "goal": false
-        },
-        {
-          "min": "36'",
-          "text": "Ibrahim Bayesh (Iraq) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "35'",
-          "text": "Alexander Sørloth (Norway) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "35'",
-          "text": "Foul by Aymen Hussein (Iraq).",
-          "goal": false
-        },
-        {
-          "min": "33'",
-          "text": "Foul by Sander Berge (Norway).",
-          "goal": false
-        },
-        {
-          "min": "33'",
-          "text": "Jalal Hassan (Iraq) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "32'",
-          "text": "Corner, Norway. Conceded by Hussein Ali.",
-          "goal": false
-        },
-        {
-          "min": "31'",
-          "text": "Attempt blocked. Alexander Sørloth (Norway) left footed shot from the left side of the box is blocked. Assisted by Erling Haaland.",
-          "goal": false
-        },
-        {
-          "min": "29'",
-          "text": "Goal! Iraq 0, Norway 1. Erling Haaland (Norway) left footed shot from very close range to the top right corner. Assisted by David Møller Wolfe with a cross.",
-          "goal": true
-        },
-        {
-          "min": "28'",
-          "text": "Attempt missed. Zaid Tahseen (Iraq) left footed shot from outside the box is high and wide to the left following a set piece situation.",
-          "goal": false
-        },
-        {
-          "min": "27'",
-          "text": "Delay over. They are ready to continue.",
-          "goal": false
-        },
-        {
-          "min": "24'",
-          "text": "Delay in match for a drinks break.",
-          "goal": false
-        },
-        {
-          "min": "24'",
-          "text": "Foul by David Møller Wolfe (Norway).",
-          "goal": false
-        },
-        {
-          "min": "24'",
-          "text": "Ibrahim Bayesh (Iraq) wins a free kick on the right wing.",
-          "goal": false
-        },
-        {
-          "min": "24'",
-          "text": "Attempt blocked. Alexander Sørloth (Norway) header from the centre of the box is blocked. Assisted by Julian Ryerson with a cross.",
-          "goal": false
-        },
-        {
-          "min": "22'",
-          "text": "Antonio Nusa (Norway) wins a free kick on the left wing.",
-          "goal": false
-        },
-        {
-          "min": "22'",
-          "text": "Foul by Zaid Ismael (Iraq).",
-          "goal": false
-        },
-        {
-          "min": "20'",
-          "text": "Attempt missed. Erling Haaland (Norway) header from the centre of the box is too high. Assisted by Julian Ryerson with a cross following a corner.",
-          "goal": false
-        },
-        {
-          "min": "19'",
-          "text": "Corner, Norway. Conceded by Ibrahim Bayesh.",
-          "goal": false
-        },
-        {
-          "min": "17'",
-          "text": "Foul by Zaid Tahseen (Iraq).",
-          "goal": false
-        },
-        {
-          "min": "17'",
-          "text": "Sander Berge (Norway) wins a free kick on the left wing.",
-          "goal": false
-        },
-        {
-          "min": "13'",
-          "text": "Attempt missed. Ali Al Hamadi (Iraq) right footed shot from the centre of the box is too high. Assisted by Aymen Hussein.",
-          "goal": false
-        },
-        {
-          "min": "10'",
-          "text": "Kristoffer Ajer (Norway) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "10'",
-          "text": "Foul by Ali Al Hamadi (Iraq).",
-          "goal": false
-        },
-        {
-          "min": "8'",
-          "text": "Merchas Doski (Iraq) wins a free kick on the left wing.",
-          "goal": false
-        },
-        {
-          "min": "8'",
-          "text": "Foul by Julian Ryerson (Norway).",
-          "goal": false
-        },
-        {
-          "min": "6'",
-          "text": "Akam Hashim (Iraq) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "6'",
-          "text": "Foul by Alexander Sørloth (Norway).",
-          "goal": false
-        },
-        {
-          "min": "5'",
-          "text": "Attempt missed. Aymen Hussein (Iraq) header from the centre of the box is too high following a set piece situation.",
-          "goal": false
-        },
-        {
-          "min": "4'",
-          "text": "Aymen Hussein (Iraq) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "4'",
-          "text": "Foul by Torbjørn Heggem (Norway).",
-          "goal": false
-        },
-        {
-          "min": "",
-          "text": "First Half begins.",
-          "goal": false
-        },
-        {
-          "min": "",
-          "text": "Lineups are announced and players are warming up.",
-          "goal": false
         }
       ],
       "leaders": [
         {
           "label": "Total Shots",
           "home": {
-            "name": "A. Al-Hamadi",
-            "num": "9",
+            "name": "A. Hussein",
+            "num": "18",
             "pos": "F",
             "value": "3"
           },
@@ -15278,37 +15371,37 @@
             "name": "E. Haaland",
             "num": "9",
             "pos": "F",
-            "value": "4"
+            "value": "5"
           }
         },
         {
           "label": "Accurate Passes",
           "home": {
-            "name": "A. Al-Ammari",
-            "num": "16",
-            "pos": "M",
-            "value": "25"
+            "name": "A. Hashim",
+            "num": "5",
+            "pos": "D",
+            "value": "42"
           },
           "away": {
             "name": "T. Heggem",
             "num": "17",
             "pos": "D",
-            "value": "54"
+            "value": "80"
           }
         },
         {
           "label": "Defensive Interventions",
           "home": {
-            "name": "Z. Ismael",
-            "num": "24",
-            "pos": "M",
-            "value": "5"
+            "name": "M. Doski",
+            "num": "23",
+            "pos": "D",
+            "value": "10"
           },
           "away": {
             "name": "K. Ajer",
             "num": "3",
             "pos": "D",
-            "value": "8"
+            "value": "12"
           }
         },
         {
@@ -15317,12 +15410,18 @@
             "name": "J. Hassan",
             "num": "12",
             "pos": "G",
-            "value": "1"
+            "value": "2"
           }
         }
       ],
-      "highlight": null,
-      "final": false,
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0616/dm_260616_COM_SOC_Analysis_Moreno_full_of_praise_for_Haaland_after_brace_on_World_Cup_debut_20260616_GLOBA/dm_260616_COM_SOC_Analysis_Moreno_full_of_praise_for_Haaland_after_brace_on_World_Cup_debut_20260616_GLOBA.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49087949/moreno-full-praise-haaland-brace-world-cup-debut",
+        "headline": "Moreno full of praise for Haaland after brace on World Cup debut",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0616/dm_260616_COM_SOC_Analysis_Moreno_full_of_praise_for_Haaland_after_brace_on_World_Cup_debut_20260616_GLOBA/dm_260616_COM_SOC_Analysis_Moreno_full_of_praise_for_Haaland_after_brace_on_World_Cup_debut_20260616_GLOBA_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0616/dm_260616_COM_SOC_Analysis_Moreno_full_of_praise_for_Haaland_after_brace_on_World_Cup_debut_20260616_GLOBA/dm_260616_COM_SOC_Analysis_Moreno_full_of_praise_for_Haaland_after_brace_on_World_Cup_debut_20260616_GLOBA/playlist.m3u8"
+      },
+      "final": true,
       "dv": 5
     },
     "760432": {
@@ -16209,6 +16308,641 @@
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0616/dm_260616_COM_SOC_Analysis_Are_France_World_Cup_favourites_after_victory_vs_Senegal3F_GLOBAL_2026-06-16/dm_260616_COM_SOC_Analysis_Are_France_World_Cup_favourites_after_victory_vs_Senegal3F_GLOBAL_2026-06-16/playlist.m3u8"
       },
       "final": true,
+      "dv": 5
+    },
+    "760433": {
+      "venue": "GEHA Field at Arrowhead Stadium",
+      "stats": {
+        "home": {
+          "foulsCommitted": "5",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "3",
+          "wonCorners": "0",
+          "saves": "0",
+          "possessionPct": "61.5",
+          "totalShots": "1",
+          "shotsOnTarget": "1",
+          "shotPct": "1.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "273",
+          "totalPasses": "294",
+          "passPct": "0.9",
+          "accurateCrosses": "0",
+          "totalCrosses": "1",
+          "crossPct": "0.0",
+          "totalLongBalls": "14",
+          "accurateLongBalls": "10",
+          "longballPct": "0.7",
+          "blockedShots": "0",
+          "effectiveTackles": "5",
+          "totalTackles": "8",
+          "tacklePct": "0.6",
+          "interceptions": "4",
+          "effectiveClearance": "3",
+          "totalClearance": "3"
+        },
+        "away": {
+          "foulsCommitted": "2",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "1",
+          "wonCorners": "1",
+          "saves": "1",
+          "possessionPct": "38.5",
+          "totalShots": "1",
+          "shotsOnTarget": "1",
+          "shotPct": "0.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "167",
+          "totalPasses": "183",
+          "passPct": "0.9",
+          "accurateCrosses": "0",
+          "totalCrosses": "0",
+          "crossPct": "0.0",
+          "totalLongBalls": "5",
+          "accurateLongBalls": "3",
+          "longballPct": "0.6",
+          "blockedShots": "0",
+          "effectiveTackles": "7",
+          "totalTackles": "10",
+          "tacklePct": "0.7",
+          "interceptions": "2",
+          "effectiveClearance": "5",
+          "totalClearance": "5"
+        }
+      },
+      "events": [
+        {
+          "kind": "Goal",
+          "min": "17'",
+          "side": "home",
+          "player": "Goal! Argentina 1, Algeria 0. Lionel Messi"
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Emiliano Martínez",
+            "short": "E. Martínez",
+            "num": "23",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Lisandro Martínez",
+            "short": "L. Martínez",
+            "num": "6",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Cristian Romero",
+            "short": "C. Romero",
+            "num": "13",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Facundo Medina",
+            "short": "F. Medina",
+            "num": "25",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Gonzalo Montiel",
+            "short": "G. Montiel",
+            "num": "4",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Enzo Fernández",
+            "short": "E. Fernández",
+            "num": "24",
+            "pos": "CM-L",
+            "place": "8"
+          },
+          {
+            "name": "Alexis Mac Allister",
+            "short": "A. Mac Allister",
+            "num": "20",
+            "pos": "CM-R",
+            "place": "4"
+          },
+          {
+            "name": "Thiago Almada",
+            "short": "T. Almada",
+            "num": "16",
+            "pos": "LM",
+            "place": "11"
+          },
+          {
+            "name": "Rodrigo De Paul",
+            "short": "R. De Paul",
+            "num": "7",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Lautaro Martínez",
+            "short": "L. Martínez",
+            "num": "22",
+            "pos": "CF-L",
+            "place": "9"
+          },
+          {
+            "name": "Lionel Messi",
+            "short": "L. Messi",
+            "num": "10",
+            "pos": "CF-R",
+            "place": "10"
+          }
+        ],
+        "away": [
+          {
+            "name": "Luca Zidane",
+            "short": "L. Zidane",
+            "num": "23",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Ramy Bensebaini",
+            "short": "R. Bensebaini",
+            "num": "21",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Aïssa Mandi",
+            "short": "A. Mandi",
+            "num": "2",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Rayan Aït-Nouri",
+            "short": "R. Aït-Nouri",
+            "num": "15",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Rafik Belghali",
+            "short": "R. Belghali",
+            "num": "17",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Nabil Bentaleb",
+            "short": "N. Bentaleb",
+            "num": "19",
+            "pos": "CM",
+            "place": "4"
+          },
+          {
+            "name": "Ibrahim Maza",
+            "short": "I. Maza",
+            "num": "22",
+            "pos": "LM",
+            "place": "8"
+          },
+          {
+            "name": "Hicham Boudaoui",
+            "short": "H. Boudaoui",
+            "num": "14",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Amine Gouiri",
+            "short": "A. Gouiri",
+            "num": "9",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Farès Chaïbi",
+            "short": "F. Chaïbi",
+            "num": "10",
+            "pos": "LF",
+            "place": "11"
+          },
+          {
+            "name": "Anis Hadj Moussa",
+            "short": "A. Hadj Moussa",
+            "num": "11",
+            "pos": "RF",
+            "place": "10"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Nicolás Tagliafico",
+            "short": "N. Tagliafico",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Giovani Lo Celso",
+            "short": "G. Lo Celso",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Juan Musso",
+            "short": "J. Musso",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Giuliano Simeone",
+            "short": "G. Simeone",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Leandro Paredes",
+            "short": "L. Paredes",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Valentín Barco",
+            "short": "V. Barco",
+            "num": "8",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Julián Álvarez",
+            "short": "J. Álvarez",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nico González",
+            "short": "N. González",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nahuel Molina",
+            "short": "N. Molina",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nico Paz",
+            "short": "N. Paz",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "José Manuel López",
+            "short": "J. López",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Marcos Senesi",
+            "short": "M. Senesi",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gerónimo Rulli",
+            "short": "G. Rulli",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nicolás Otamendi",
+            "short": "N. Otamendi",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Exequiel Palacios",
+            "short": "E. Palacios",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Riyad Mahrez",
+            "short": "R. Mahrez",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nadhir Benbouali",
+            "short": "N. Benbouali",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jaouen Hadjam",
+            "short": "J. Hadjam",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Zineddine Belaïd",
+            "short": "Z. Belaïd",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Melvin Mastil",
+            "short": "M. Mastil",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Farès Ghedjemis",
+            "short": "F. Ghedjemis",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mohamed Amine Tougai",
+            "short": "M. Tougai",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Houssem Aouar",
+            "short": "H. Aouar",
+            "num": "8",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Yassine Titraoui",
+            "short": "Y. Titraoui",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Adil Boulbina",
+            "short": "A. Boulbina",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Samir Chergui",
+            "short": "S. Chergui",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Achraf Abada",
+            "short": "A. Abada",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mohamed Amoura",
+            "short": "M. Amoura",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Oussama Benbot",
+            "short": "O. Benbot",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ramiz Zerrouki",
+            "short": "R. Zerrouki",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-4-2",
+        "away": "4-3-3"
+      },
+      "commentary": [
+        {
+          "min": "41'",
+          "text": "Corner, Algeria. Conceded by Emiliano Martínez.",
+          "goal": false
+        },
+        {
+          "min": "39'",
+          "text": "Offside, Argentina. Thiago Almada is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "37'",
+          "text": "Foul by Facundo Medina (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "37'",
+          "text": "Aïssa Mandi (Algeria) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "36'",
+          "text": "Thiago Almada (Argentina) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "36'",
+          "text": "Foul by Rafik Belghali (Algeria).",
+          "goal": false
+        },
+        {
+          "min": "34'",
+          "text": "Foul by Amine Gouiri (Algeria).",
+          "goal": false
+        },
+        {
+          "min": "34'",
+          "text": "Alexis Mac Allister (Argentina) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "31'",
+          "text": "Aïssa Mandi (Algeria) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "31'",
+          "text": "Foul by Lionel Messi (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "28'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "25'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "17'",
+          "text": "Goal! Argentina 1, Algeria 0. Lionel Messi (Argentina) left footed shot from outside the box to the top right corner. Assisted by Rodrigo De Paul.",
+          "goal": true
+        },
+        {
+          "min": "11'",
+          "text": "Foul by Gonzalo Montiel (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "11'",
+          "text": "Rayan Aït-Nouri (Algeria) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "10'",
+          "text": "Foul by Lautaro Martínez (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "10'",
+          "text": "Aïssa Mandi (Algeria) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "9'",
+          "text": "VAR Decision: No Goal Argentina 0-0 Algeria.",
+          "goal": false
+        },
+        {
+          "min": "8'",
+          "text": "GOAL OVERTURNED BY VAR: Farès Chaïbi (Algeria) scores but the goal is ruled out after a VAR review.",
+          "goal": false
+        },
+        {
+          "min": "8'",
+          "text": "Offside, Algeria. Farès Chaïbi is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "5'",
+          "text": "Offside, Argentina. Lionel Messi is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "4'",
+          "text": "Offside, Argentina. Lautaro Martínez is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "1'",
+          "text": "Anis Hadj Moussa (Algeria) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "1'",
+          "text": "Foul by Enzo Fernández (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "First Half begins.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "Lineups are announced and players are warming up.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "L. Messi",
+            "num": "10",
+            "pos": "F",
+            "value": "1"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "C. Romero",
+            "num": "13",
+            "pos": "D",
+            "value": "42"
+          },
+          "away": {
+            "name": "A. Mandi",
+            "num": "2",
+            "pos": "D",
+            "value": "37"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "E. Fernández",
+            "num": "24",
+            "pos": "M",
+            "value": "4"
+          },
+          "away": {
+            "name": "R. Aït-Nouri",
+            "num": "15",
+            "pos": "D",
+            "value": "4"
+          }
+        }
+      ],
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0616/dm_260616_COM_SOC_News_Fans_in_Argentina_celebrate_Messis_spectacular_goal_vs_Algeria_20260616_GLOBAL_FI/dm_260616_COM_SOC_News_Fans_in_Argentina_celebrate_Messis_spectacular_goal_vs_Algeria_20260616_GLOBAL_FI.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49088668/fans-argentina-celebrate-messi-spectacular-goal-vs-algeria",
+        "headline": "Fans in Argentina celebrate Messi's spectacular goal vs. Algeria",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0616/dm_260616_COM_SOC_News_Fans_in_Argentina_celebrate_Messis_spectacular_goal_vs_Algeria_20260616_GLOBAL_FI/dm_260616_COM_SOC_News_Fans_in_Argentina_celebrate_Messis_spectacular_goal_vs_Algeria_20260616_GLOBAL_FI_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0616/dm_260616_COM_SOC_News_Fans_in_Argentina_celebrate_Messis_spectacular_goal_vs_Algeria_20260616_GLOBAL_FI/dm_260616_COM_SOC_News_Fans_in_Argentina_celebrate_Messis_spectacular_goal_vs_Algeria_20260616_GLOBAL_FI/playlist.m3u8"
+      },
+      "final": false,
       "dv": 5
     }
   }

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-17T19:50:09.927Z",
+  "lastUpdated": "2026-06-17T21:48:51.574Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -19008,6 +19008,903 @@
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0617/dm_260617_COM_SOC_Analysis_Does_DR_Congo_deserve_more_credit_for_their_draw_vs_Portugal_20260617_GLOBAL/dm_260617_COM_SOC_Analysis_Does_DR_Congo_deserve_more_credit_for_their_draw_vs_Portugal_20260617_GLOBAL/playlist.m3u8"
       },
       "final": true,
+      "dv": 5
+    },
+    "760437": {
+      "venue": "AT&T Stadium",
+      "stats": {
+        "home": {
+          "foulsCommitted": "9",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "8",
+          "saves": "2",
+          "possessionPct": "52.8",
+          "totalShots": "20",
+          "shotsOnTarget": "10",
+          "shotPct": "0.5",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "1",
+          "accuratePasses": "356",
+          "totalPasses": "417",
+          "passPct": "0.9",
+          "accurateCrosses": "6",
+          "totalCrosses": "13",
+          "crossPct": "0.5",
+          "totalLongBalls": "37",
+          "accurateLongBalls": "13",
+          "longballPct": "0.4",
+          "blockedShots": "5",
+          "effectiveTackles": "3",
+          "totalTackles": "5",
+          "tacklePct": "0.6",
+          "interceptions": "7",
+          "effectiveClearance": "11",
+          "totalClearance": "11"
+        },
+        "away": {
+          "foulsCommitted": "10",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "1",
+          "wonCorners": "1",
+          "saves": "7",
+          "possessionPct": "47.2",
+          "totalShots": "7",
+          "shotsOnTarget": "4",
+          "shotPct": "0.6",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "320",
+          "totalPasses": "377",
+          "passPct": "0.8",
+          "accurateCrosses": "2",
+          "totalCrosses": "8",
+          "crossPct": "0.3",
+          "totalLongBalls": "39",
+          "accurateLongBalls": "15",
+          "longballPct": "0.4",
+          "blockedShots": "0",
+          "effectiveTackles": "4",
+          "totalTackles": "8",
+          "tacklePct": "0.5",
+          "interceptions": "6",
+          "effectiveClearance": "15",
+          "totalClearance": "15"
+        }
+      },
+      "events": [
+        {
+          "kind": "Penalty - Scored",
+          "min": "12'",
+          "side": "home",
+          "player": "Goal! England 1, Croatia 0. Harry Kane"
+        },
+        {
+          "kind": "Goal",
+          "min": "36'",
+          "side": "away",
+          "player": "Goal! England 1, Croatia 1. Martin Baturina"
+        },
+        {
+          "kind": "Goal - Header",
+          "min": "42'",
+          "side": "home",
+          "player": "Goal! England 2, Croatia 1. Harry Kane"
+        },
+        {
+          "kind": "Goal",
+          "min": "45'+5'",
+          "side": "away",
+          "player": "Goal! England 2, Croatia 2. Petar Musa"
+        },
+        {
+          "kind": "Goal",
+          "min": "47'",
+          "side": "home",
+          "player": "Goal! England 3, Croatia 2. Jude Bellingham"
+        },
+        {
+          "kind": "Substitution",
+          "min": "58'",
+          "side": "away",
+          "player": "Substitution, Croatia. Mateo Kovacic replaces Luka Modric."
+        },
+        {
+          "kind": "Substitution",
+          "min": "66'",
+          "side": "away",
+          "player": "Substitution, Croatia. Igor Matanovic replaces Petar Musa."
+        },
+        {
+          "kind": "Substitution",
+          "min": "66'",
+          "side": "away",
+          "player": "Substitution, Croatia. Marco Pasalic replaces Luka Vuskovic."
+        },
+        {
+          "kind": "Substitution",
+          "min": "72'",
+          "side": "home",
+          "player": "Substitution, England. Morgan Rogers replaces Declan Rice."
+        },
+        {
+          "kind": "Substitution",
+          "min": "72'",
+          "side": "home",
+          "player": "Substitution, England. Bukayo Saka replaces Noni Madueke."
+        },
+        {
+          "kind": "Substitution",
+          "min": "72'",
+          "side": "home",
+          "player": "Substitution, England. Marcus Rashford replaces Anthony Gordon."
+        },
+        {
+          "kind": "Substitution",
+          "min": "78'",
+          "side": "away",
+          "player": "Substitution, Croatia. Nikola Vlasic replaces Martin Baturina."
+        },
+        {
+          "kind": "Substitution",
+          "min": "79'",
+          "side": "away",
+          "player": "Substitution, Croatia. Andrej Kramaric replaces Mario Pasalic."
+        },
+        {
+          "kind": "Substitution",
+          "min": "80'",
+          "side": "home",
+          "player": "Substitution, England. Djed Spence replaces Jude Bellingham."
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Jordan Pickford",
+            "short": "J. Pickford",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "John Stones",
+            "short": "J. Stones",
+            "num": "5",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Ezri Konsa",
+            "short": "E. Konsa",
+            "num": "2",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Nico O'Reilly",
+            "short": "N. O'Reilly",
+            "num": "3",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Reece James",
+            "short": "R. James",
+            "num": "24",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Jude Bellingham",
+            "short": "J. Bellingham",
+            "num": "10",
+            "pos": "AM",
+            "place": "10"
+          },
+          {
+            "name": "Declan Rice",
+            "short": "D. Rice",
+            "num": "4",
+            "pos": "LM",
+            "place": "4"
+          },
+          {
+            "name": "Elliot Anderson",
+            "short": "E. Anderson",
+            "num": "8",
+            "pos": "RM",
+            "place": "8"
+          },
+          {
+            "name": "Harry Kane",
+            "short": "H. Kane",
+            "num": "9",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Anthony Gordon",
+            "short": "A. Gordon",
+            "num": "18",
+            "pos": "AM-L",
+            "place": "11"
+          },
+          {
+            "name": "Noni Madueke",
+            "short": "N. Madueke",
+            "num": "20",
+            "pos": "AM-R",
+            "place": "7"
+          }
+        ],
+        "away": [
+          {
+            "name": "Dominik Livakovic",
+            "short": "D. Livakovic",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Luka Vuskovic",
+            "short": "L. Vuskovic",
+            "num": "22",
+            "pos": "CD",
+            "place": "5"
+          },
+          {
+            "name": "Josko Gvardiol",
+            "short": "J. Gvardiol",
+            "num": "4",
+            "pos": "CD-L",
+            "place": "4"
+          },
+          {
+            "name": "Josip Sutalo",
+            "short": "J. Sutalo",
+            "num": "6",
+            "pos": "CD-R",
+            "place": "6"
+          },
+          {
+            "name": "Mario Pasalic",
+            "short": "M. Pasalic",
+            "num": "15",
+            "pos": "CM-L",
+            "place": "8"
+          },
+          {
+            "name": "Luka Modric",
+            "short": "L. Modric",
+            "num": "10",
+            "pos": "CM-R",
+            "place": "7"
+          },
+          {
+            "name": "Ivan Perisic",
+            "short": "I. Perisic",
+            "num": "14",
+            "pos": "LM",
+            "place": "3"
+          },
+          {
+            "name": "Josip Stanisic",
+            "short": "J. Stanisic",
+            "num": "2",
+            "pos": "RM",
+            "place": "2"
+          },
+          {
+            "name": "Petar Musa",
+            "short": "P. Musa",
+            "num": "26",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Martin Baturina",
+            "short": "M. Baturina",
+            "num": "16",
+            "pos": "CF-L",
+            "place": "11"
+          },
+          {
+            "name": "Petar Sucic",
+            "short": "P. Sucic",
+            "num": "17",
+            "pos": "CF-R",
+            "place": "10"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Morgan Rogers",
+            "short": "M. Rogers",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jordan Henderson",
+            "short": "J. Henderson",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Eberechi Eze",
+            "short": "E. Eze",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ivan Toney",
+            "short": "I. Toney",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ollie Watkins",
+            "short": "O. Watkins",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kobbie Mainoo",
+            "short": "K. Mainoo",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jarell Quansah",
+            "short": "J. Quansah",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Djed Spence",
+            "short": "D. Spence",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Dan Burn",
+            "short": "D. Burn",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "James Trafford",
+            "short": "J. Trafford",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Marc Guéhi",
+            "short": "M. Guéhi",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Dean Henderson",
+            "short": "D. Henderson",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Marcus Rashford",
+            "short": "M. Rashford",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Bukayo Saka",
+            "short": "B. Saka",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Nikola Vlasic",
+            "short": "N. Vlasic",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Duje Caleta-Car",
+            "short": "D. Caleta-Car",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Luka Sucic",
+            "short": "L. Sucic",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ante Budimir",
+            "short": "A. Budimir",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mateo Kovacic",
+            "short": "M. Kovacic",
+            "num": "8",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Toni Fruk",
+            "short": "T. Fruk",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Igor Matanovic",
+            "short": "I. Matanovic",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Andrej Kramaric",
+            "short": "A. Kramaric",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Dominik Kotarski",
+            "short": "D. Kotarski",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nikola Moro",
+            "short": "N. Moro",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Martin Erlic",
+            "short": "M. Erlic",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Marin Pongracic",
+            "short": "M. Pongracic",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kristijan Jakic",
+            "short": "K. Jakic",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Marco Pasalic",
+            "short": "M. Pasalic",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ivor Pandur",
+            "short": "I. Pandur",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-2-3-1",
+        "away": "3-4-2-1"
+      },
+      "commentary": [
+        {
+          "min": "83'",
+          "text": "Igor Matanovic (Croatia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Foul by Reece James (England).",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Attempt saved. Djed Spence (England) right footed shot from the centre of the box is saved in the centre of the goal by Dominik Livakovic (Croatia). Assisted by Morgan Rogers with a through ball.",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Attempt missed. Petar Sucic (Croatia) right footed shot from outside the box is too high.",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Substitution, England. Djed Spence replaces Jude Bellingham.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Ezri Konsa (England) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Foul by Igor Matanovic (Croatia).",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Substitution, Croatia. Andrej Kramaric replaces Mario Pasalic.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Substitution, Croatia. Nikola Vlasic replaces Martin Baturina.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Offside, Croatia. Josip Stanisic is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Attempt saved. Igor Matanovic (Croatia) right footed shot from outside the box is saved in the bottom left corner by Jordan Pickford (England). Assisted by Ivan Perisic.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Attempt saved. Marco Pasalic (Croatia) left footed shot from the right side of the box is saved in the centre of the goal by Jordan Pickford (England). Assisted by Josip Stanisic.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Foul by Ivan Perisic (Croatia).",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Bukayo Saka (England) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Substitution, England. Marcus Rashford replaces Anthony Gordon.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Substitution, England. Bukayo Saka replaces Noni Madueke.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Substitution, England. Morgan Rogers replaces Declan Rice.",
+          "goal": false
+        },
+        {
+          "min": "69'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "69'",
+          "text": "Attempt blocked. Anthony Gordon (England) right footed shot from the left side of the box is blocked. Assisted by Harry Kane with a headed pass.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Jordan Pickford (England) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Foul by Igor Matanovic (Croatia).",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Substitution, Croatia. Marco Pasalic replaces Luka Vuskovic.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Substitution, Croatia. Igor Matanovic replaces Petar Musa.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Elliot Anderson (England) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Foul by Mateo Kovacic (Croatia).",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Foul by Harry Kane (England).",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Mateo Kovacic (Croatia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Foul by Ivan Perisic (Croatia).",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "John Stones (England) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Substitution, Croatia. Mateo Kovacic replaces Luka Modric.",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Attempt missed. Harry Kane (England) right footed shot from the left side of the box is close, but misses to the right. Assisted by Nico O'Reilly.",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Attempt saved. Harry Kane (England) left footed shot from the left side of the box is saved in the centre of the goal by Dominik Livakovic (Croatia). Assisted by Noni Madueke.",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Corner, England. Conceded by Josip Sutalo.",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Attempt saved. Ezri Konsa (England) right footed shot from very close range is saved in the centre of the goal by Dominik Livakovic (Croatia).",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Attempt saved. Anthony Gordon (England) header from very close range is saved in the top centre of the goal by Dominik Livakovic (Croatia).",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Attempt saved. Nico O'Reilly (England) header from the centre of the box is saved in the top centre of the goal by Dominik Livakovic (Croatia). Assisted by Declan Rice with a cross.",
+          "goal": false
+        },
+        {
+          "min": "55'",
+          "text": "Corner, England. Conceded by Mario Pasalic.",
+          "goal": false
+        },
+        {
+          "min": "53'",
+          "text": "Corner, England. Conceded by Ivan Perisic.",
+          "goal": false
+        },
+        {
+          "min": "52'",
+          "text": "Corner, England. Conceded by Dominik Livakovic.",
+          "goal": false
+        },
+        {
+          "min": "52'",
+          "text": "Attempt saved. Declan Rice (England) right footed shot from the left side of the box is saved in the top right corner by Dominik Livakovic (Croatia). Assisted by Nico O'Reilly.",
+          "goal": false
+        },
+        {
+          "min": "51'",
+          "text": "Foul by John Stones (England).",
+          "goal": false
+        },
+        {
+          "min": "51'",
+          "text": "Martin Baturina (Croatia) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "49'",
+          "text": "Attempt missed. Nico O'Reilly (England) header from the right side of the six yard box is close, but misses to the right. Assisted by Declan Rice with a cross following a corner.",
+          "goal": false
+        },
+        {
+          "min": "48'",
+          "text": "Corner, England. Conceded by Dominik Livakovic.",
+          "goal": false
+        },
+        {
+          "min": "48'",
+          "text": "Attempt saved. Jude Bellingham (England) right footed shot from the centre of the box is saved in the bottom left corner by Dominik Livakovic (Croatia). Assisted by Declan Rice.",
+          "goal": false
+        },
+        {
+          "min": "47'",
+          "text": "Goal! England 3, Croatia 2. Jude Bellingham (England) right footed shot from the right side of the box to the bottom left corner. Assisted by Elliot Anderson.",
+          "goal": true
+        },
+        {
+          "min": "45'",
+          "text": "Second Half begins England 2, Croatia 2.",
+          "goal": false
+        },
+        {
+          "min": "45'+6'",
+          "text": "First Half ends, England 2, Croatia 2.",
+          "goal": false
+        },
+        {
+          "min": "45'+5'",
+          "text": "Goal! England 2, Croatia 2. Petar Musa (Croatia) right footed shot from the centre of the box to the centre of the goal. Assisted by Ivan Perisic with a headed pass.",
+          "goal": true
+        },
+        {
+          "min": "45'+4'",
+          "text": "Luka Modric (Croatia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "45'+4'",
+          "text": "Foul by Harry Kane (England).",
+          "goal": false
+        },
+        {
+          "min": "45'+4'",
+          "text": "Attempt missed. Mario Pasalic (Croatia) right footed shot from outside the box is close, but misses the top right corner. Assisted by Martin Baturina.",
+          "goal": false
+        },
+        {
+          "min": "45'+1'",
+          "text": "Attempt blocked. Reece James (England) right footed shot from outside the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Fourth official has announced 5 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Foul by Mario Pasalic (Croatia).",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Jude Bellingham (England) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "42'",
+          "text": "Goal! England 2, Croatia 1. Harry Kane (England) header from the centre of the box to the bottom left corner. Assisted by Declan Rice with a cross following a corner.",
+          "goal": true
+        },
+        {
+          "min": "41'",
+          "text": "Corner, England. Conceded by Luka Vuskovic.",
+          "goal": false
+        },
+        {
+          "min": "39'",
+          "text": "Petar Musa (Croatia) wins a free kick in the attacking half.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "H. Kane",
+            "num": "9",
+            "pos": "F",
+            "value": "6"
+          },
+          "away": {
+            "name": "P. Sucic",
+            "num": "17",
+            "pos": "M",
+            "value": "1"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "J. Stones",
+            "num": "5",
+            "pos": "D",
+            "value": "61"
+          },
+          "away": {
+            "name": "J. Sutalo",
+            "num": "6",
+            "pos": "D",
+            "value": "52"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "E. Anderson",
+            "num": "8",
+            "pos": "M",
+            "value": "8"
+          },
+          "away": {
+            "name": "L. Vuskovic",
+            "num": "22",
+            "pos": "D",
+            "value": "9"
+          }
+        },
+        {
+          "label": "Saves",
+          "home": {
+            "name": "J. Pickford",
+            "num": "1",
+            "pos": "G",
+            "value": "2"
+          },
+          "away": {
+            "name": "D. Livakovic",
+            "num": "1",
+            "pos": "G",
+            "value": "7"
+          }
+        }
+      ],
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0617/dm_260617_World_Cup_Highlight_Harry_Kane_makes_England_history_with_firsthalf_double_20260618_AUS_ONLY/dm_260617_World_Cup_Highlight_Harry_Kane_makes_England_history_with_firsthalf_double_20260618_AUS_ONLY.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49100680/harry-kane-makes-england-history-first-half-double",
+        "headline": "Harry Kane makes England history with first-half double",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0617/dm_260617_World_Cup_Highlight_Harry_Kane_makes_England_history_with_firsthalf_double_20260618_AUS_ONLY/dm_260617_World_Cup_Highlight_Harry_Kane_makes_England_history_with_firsthalf_double_20260618_AUS_ONLY_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0617/dm_260617_World_Cup_Highlight_Harry_Kane_makes_England_history_with_firsthalf_double_20260618_AUS_ONLY/dm_260617_World_Cup_Highlight_Harry_Kane_makes_England_history_with_firsthalf_double_20260618_AUS_ONLY/playlist.m3u8"
+      },
+      "final": false,
       "dv": 5
     }
   }

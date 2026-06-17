@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-17T19:50:09.819Z",
+  "lastUpdated": "2026-06-17T21:48:51.503Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -237,12 +237,16 @@
       "stage": "group",
       "home": "England",
       "away": "Croatia",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "scheduled",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "live",
       "id": "760437",
       "date": "2026-06-17T20:00Z",
-      "venue": "AT&T Stadium"
+      "venue": "AT&T Stadium",
+      "clock": 5040,
+      "displayClock": "84'",
+      "detail": "84'",
+      "period": 2
     },
     {
       "stage": "group",

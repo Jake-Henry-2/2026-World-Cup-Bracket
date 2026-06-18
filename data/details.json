@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-18T17:35:29.791Z",
+  "lastUpdated": "2026-06-18T19:53:41.643Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -21730,64 +21730,64 @@
       "venue": "Mercedes-Benz Stadium",
       "stats": {
         "home": {
-          "foulsCommitted": "9",
-          "yellowCards": "0",
+          "foulsCommitted": "12",
+          "yellowCards": "1",
           "redCards": "0",
-          "offsides": "1",
-          "wonCorners": "4",
-          "saves": "0",
-          "possessionPct": "39",
-          "totalShots": "11",
+          "offsides": "2",
+          "wonCorners": "5",
+          "saves": "3",
+          "possessionPct": "38.2",
+          "totalShots": "14",
           "shotsOnTarget": "3",
-          "shotPct": "0.3",
+          "shotPct": "0.2",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "210",
-          "totalPasses": "257",
+          "accuratePasses": "271",
+          "totalPasses": "340",
           "passPct": "0.8",
-          "accurateCrosses": "5",
-          "totalCrosses": "12",
+          "accurateCrosses": "7",
+          "totalCrosses": "16",
           "crossPct": "0.4",
-          "totalLongBalls": "32",
-          "accurateLongBalls": "14",
-          "longballPct": "0.4",
+          "totalLongBalls": "45",
+          "accurateLongBalls": "22",
+          "longballPct": "0.5",
           "blockedShots": "3",
-          "effectiveTackles": "3",
-          "totalTackles": "8",
-          "tacklePct": "0.4",
-          "interceptions": "6",
-          "effectiveClearance": "16",
-          "totalClearance": "16"
+          "effectiveTackles": "4",
+          "totalTackles": "12",
+          "tacklePct": "0.3",
+          "interceptions": "9",
+          "effectiveClearance": "23",
+          "totalClearance": "23"
         },
         "away": {
-          "foulsCommitted": "8",
+          "foulsCommitted": "10",
           "yellowCards": "2",
           "redCards": "0",
           "offsides": "3",
-          "wonCorners": "4",
+          "wonCorners": "5",
           "saves": "2",
-          "possessionPct": "61",
-          "totalShots": "8",
-          "shotsOnTarget": "0",
-          "shotPct": "0.0",
+          "possessionPct": "61.8",
+          "totalShots": "17",
+          "shotsOnTarget": "4",
+          "shotPct": "0.2",
           "penaltyKickGoals": "0",
-          "penaltyKickShots": "0",
-          "accuratePasses": "368",
-          "totalPasses": "410",
+          "penaltyKickShots": "1",
+          "accuratePasses": "508",
+          "totalPasses": "563",
           "passPct": "0.9",
-          "accurateCrosses": "2",
-          "totalCrosses": "10",
+          "accurateCrosses": "4",
+          "totalCrosses": "17",
           "crossPct": "0.2",
-          "totalLongBalls": "46",
-          "accurateLongBalls": "24",
+          "totalLongBalls": "57",
+          "accurateLongBalls": "30",
           "longballPct": "0.5",
-          "blockedShots": "3",
-          "effectiveTackles": "8",
-          "totalTackles": "17",
+          "blockedShots": "8",
+          "effectiveTackles": "11",
+          "totalTackles": "21",
           "tacklePct": "0.5",
-          "interceptions": "7",
-          "effectiveClearance": "16",
-          "totalClearance": "16"
+          "interceptions": "9",
+          "effectiveClearance": "23",
+          "totalClearance": "23"
         }
       },
       "events": [
@@ -21844,6 +21844,30 @@
           "min": "67'",
           "side": "home",
           "player": "Substitution, Czechia. Lukás Provod replaces Adam Hlozek."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "75'",
+          "side": "home",
+          "player": "Ladislav Krejcí"
+        },
+        {
+          "kind": "Substitution",
+          "min": "78'",
+          "side": "home",
+          "player": "Substitution, Czechia. David Zima replaces Lukás Cerv."
+        },
+        {
+          "kind": "Penalty - Scored",
+          "min": "83'",
+          "side": "away",
+          "player": "Goal! Czechia 1, South Africa 1. Teboho Mokoena"
+        },
+        {
+          "kind": "Substitution",
+          "min": "84'",
+          "side": "away",
+          "player": "Substitution, South Africa. Kamogelo Sebelebele replaces Thapelo Maseko."
         }
       ],
       "lineups": {
@@ -22207,6 +22231,171 @@
       },
       "commentary": [
         {
+          "min": "",
+          "text": "Match ends, Czechia 1, South Africa 1.",
+          "goal": false
+        },
+        {
+          "min": "90'+8'",
+          "text": "Second Half ends, Czechia 1, South Africa 1.",
+          "goal": false
+        },
+        {
+          "min": "90'+7'",
+          "text": "Attempt blocked. Mbekezeli Mbokazi (South Africa) left footed shot from outside the box is blocked. Assisted by Ime Okon.",
+          "goal": false
+        },
+        {
+          "min": "90'+7'",
+          "text": "Corner, South Africa. Conceded by David Zima.",
+          "goal": false
+        },
+        {
+          "min": "90'+7'",
+          "text": "Attempt blocked. Aubrey Modiba (South Africa) right footed shot from the centre of the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Attempt saved. Evidence Makgopa (South Africa) left footed shot from the right side of the box is saved in the centre of the goal by Matej Kovár (Czechia). Assisted by Khuliso Mudau.",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Attempt missed. Lukás Provod (Czechia) left footed shot from outside the box is close, but misses to the right. Assisted by Ladislav Krejcí.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Offside, Czechia. Tomás Soucek is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Attempt missed. Jaroslav Zeleny (Czechia) header from the centre of the box misses to the right. Assisted by Vladimír Coufal with a cross following a set piece situation.",
+          "goal": false
+        },
+        {
+          "min": "91'+1'",
+          "text": "Fourth official has announced 7 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Foul by Kamogelo Sebelebele (South Africa).",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Jaroslav Zeleny (Czechia) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Attempt missed. Ladislav Krejcí (Czechia) header from the centre of the box misses to the right. Assisted by Lukás Provod with a cross.",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Corner, Czechia. Conceded by Mbekezeli Mbokazi.",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Attempt saved. Relebohile Mofokeng (South Africa) right footed shot from outside the box is saved in the bottom left corner by Matej Kovár (Czechia).",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Attempt blocked. Thalente Mbatha (South Africa) right footed shot from outside the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Substitution, South Africa. Kamogelo Sebelebele replaces Thapelo Maseko.",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Goal! Czechia 1, South Africa 1. Teboho Mokoena (South Africa) converts the penalty with a right footed shot to the bottom left corner.",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Penalty conceded by Pavel Sulc (Czechia) with a handball in the penalty area.",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Attempt blocked. Thapelo Maseko (South Africa) left footed shot from outside the box is blocked. Assisted by Teboho Mokoena.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Teboho Mokoena (South Africa) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Foul by Tomás Soucek (Czechia).",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Substitution, Czechia. David Zima replaces Lukás Cerv.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Delay in match (South Africa).",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Attempt blocked. Mbekezeli Mbokazi (South Africa) left footed shot from outside the box is blocked. Assisted by Aubrey Modiba.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Ladislav Krejcí (Czechia) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Thapelo Maseko (South Africa) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Foul by Ladislav Krejcí (Czechia).",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Foul by Relebohile Mofokeng (South Africa).",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Tomás Soucek (Czechia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Attempt saved. Evidence Makgopa (South Africa) header from the left side of the box is saved in the centre of the goal by Matej Kovár (Czechia). Assisted by Teboho Mokoena with a cross.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
           "min": "69'",
           "text": "Delay in match for a drinks break.",
           "goal": false
@@ -22340,144 +22529,611 @@
           "min": "47'",
           "text": "Attempt blocked. Vladimír Darida (Czechia) right footed shot from the centre of the box is blocked. Assisted by Michal Sadílek.",
           "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "L. Krejcí",
+            "num": "7",
+            "pos": "D",
+            "value": "4"
+          },
+          "away": {
+            "name": "M. Mbokazi",
+            "num": "14",
+            "pos": "D",
+            "value": "3"
+          }
         },
         {
-          "min": "46'",
-          "text": "Foul by Teboho Mokoena (South Africa).",
-          "goal": false
+          "label": "Accurate Passes",
+          "home": {
+            "name": "L. Krejcí",
+            "num": "7",
+            "pos": "D",
+            "value": "45"
+          },
+          "away": {
+            "name": "T. Mokoena",
+            "num": "4",
+            "pos": "M",
+            "value": "93"
+          }
         },
         {
-          "min": "46'",
-          "text": "Lukás Cerv (Czechia) wins a free kick in the defensive half.",
-          "goal": false
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "L. Krejcí",
+            "num": "7",
+            "pos": "D",
+            "value": "10"
+          },
+          "away": {
+            "name": "M. Mbokazi",
+            "num": "14",
+            "pos": "D",
+            "value": "14"
+          }
         },
         {
-          "min": "45'",
-          "text": "Second Half begins Czechia 1, South Africa 0.",
-          "goal": false
+          "label": "Saves",
+          "home": {
+            "name": "M. Kovár",
+            "num": "1",
+            "pos": "G",
+            "value": "3"
+          },
+          "away": {
+            "name": "R. Williams",
+            "num": "1",
+            "pos": "G",
+            "value": "2"
+          }
+        }
+      ],
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0618/dm_260618_COM_SOC_Analysis_Should_Czechia_have_taken_more_risks_when_in_the_lead_against_South_Africa_2026/dm_260618_COM_SOC_Analysis_Should_Czechia_have_taken_more_risks_when_in_the_lead_against_South_Africa_2026.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49109072/should-czechia-taken-more-risks-lead-south-africa",
+        "headline": "Should Czechia have taken more risks when in the lead against South Africa?",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0618/dm_260618_COM_SOC_Analysis_Should_Czechia_have_taken_more_risks_when_in_the_lead_against_South_Africa_2026/dm_260618_COM_SOC_Analysis_Should_Czechia_have_taken_more_risks_when_in_the_lead_against_South_Africa_2026_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0618/dm_260618_COM_SOC_Analysis_Should_Czechia_have_taken_more_risks_when_in_the_lead_against_South_Africa_2026/dm_260618_COM_SOC_Analysis_Should_Czechia_have_taken_more_risks_when_in_the_lead_against_South_Africa_2026/playlist.m3u8"
+      },
+      "final": true,
+      "dv": 5
+    },
+    "760439": {
+      "venue": "SoFi Stadium",
+      "stats": {
+        "home": {
+          "foulsCommitted": "3",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "2",
+          "wonCorners": "4",
+          "saves": "1",
+          "possessionPct": "69",
+          "totalShots": "4",
+          "shotsOnTarget": "1",
+          "shotPct": "0.3",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "307",
+          "totalPasses": "344",
+          "passPct": "0.9",
+          "accurateCrosses": "1",
+          "totalCrosses": "14",
+          "crossPct": "0.1",
+          "totalLongBalls": "31",
+          "accurateLongBalls": "15",
+          "longballPct": "0.5",
+          "blockedShots": "1",
+          "effectiveTackles": "6",
+          "totalTackles": "8",
+          "tacklePct": "0.8",
+          "interceptions": "2",
+          "effectiveClearance": "7",
+          "totalClearance": "7"
         },
-        {
-          "min": "45'",
-          "text": "Substitution, South Africa. Relebohile Mofokeng replaces Jayden Adams.",
-          "goal": false
-        },
-        {
-          "min": "45'+5'",
-          "text": "First Half ends, Czechia 1, South Africa 0.",
-          "goal": false
-        },
+        "away": {
+          "foulsCommitted": "9",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "1",
+          "wonCorners": "2",
+          "saves": "1",
+          "possessionPct": "31",
+          "totalShots": "3",
+          "shotsOnTarget": "1",
+          "shotPct": "0.3",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "117",
+          "totalPasses": "153",
+          "passPct": "0.8",
+          "accurateCrosses": "1",
+          "totalCrosses": "7",
+          "crossPct": "0.0",
+          "totalLongBalls": "25",
+          "accurateLongBalls": "5",
+          "longballPct": "0.2",
+          "blockedShots": "1",
+          "effectiveTackles": "0",
+          "totalTackles": "5",
+          "tacklePct": "0.0",
+          "interceptions": "5",
+          "effectiveClearance": "22",
+          "totalClearance": "22"
+        }
+      },
+      "events": [],
+      "lineups": {
+        "home": [
+          {
+            "name": "Gregor Kobel",
+            "short": "G. Kobel",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Manuel Akanji",
+            "short": "M. Akanji",
+            "num": "5",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Nico Elvedi",
+            "short": "N. Elvedi",
+            "num": "4",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Ricardo Rodríguez",
+            "short": "R. Rodríguez",
+            "num": "13",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Silvan Widmer",
+            "short": "S. Widmer",
+            "num": "3",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Dan Ndoye",
+            "short": "D. Ndoye",
+            "num": "11",
+            "pos": "M",
+            "place": "10"
+          },
+          {
+            "name": "Granit Xhaka",
+            "short": "G. Xhaka",
+            "num": "10",
+            "pos": "CM",
+            "place": "4"
+          },
+          {
+            "name": "Fabian Rieder",
+            "short": "F. Rieder",
+            "num": "22",
+            "pos": "AM",
+            "place": "8"
+          },
+          {
+            "name": "Remo Freuler",
+            "short": "R. Freuler",
+            "num": "8",
+            "pos": "LM",
+            "place": "11"
+          },
+          {
+            "name": "Michel Aebischer",
+            "short": "M. Aebischer",
+            "num": "20",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Breel Embolo",
+            "short": "B. Embolo",
+            "num": "7",
+            "pos": "CF-R",
+            "place": "9"
+          }
+        ],
+        "away": [
+          {
+            "name": "Nikola Vasilj",
+            "short": "N. Vasilj",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Tarik Muharemovic",
+            "short": "T. Muharemovic",
+            "num": "4",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Nikola Katic",
+            "short": "N. Katic",
+            "num": "18",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Sead Kolasinac",
+            "short": "S. Kolasinac",
+            "num": "5",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Amar Dedic",
+            "short": "A. Dedic",
+            "num": "7",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Ivan Sunjic",
+            "short": "I. Sunjic",
+            "num": "14",
+            "pos": "CM-L",
+            "place": "8"
+          },
+          {
+            "name": "Benjamin Tahirovic",
+            "short": "B. Tahirovic",
+            "num": "6",
+            "pos": "CM-R",
+            "place": "4"
+          },
+          {
+            "name": "Kerim Alajbegovic",
+            "short": "K. Alajbegovic",
+            "num": "19",
+            "pos": "LM",
+            "place": "11"
+          },
+          {
+            "name": "Amar Memic",
+            "short": "A. Memic",
+            "num": "15",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Edin Dzeko",
+            "short": "E. Dzeko",
+            "num": "11",
+            "pos": "CF-L",
+            "place": "9"
+          },
+          {
+            "name": "Ermedin Demirovic",
+            "short": "E. Demirovic",
+            "num": "10",
+            "pos": "CF-R",
+            "place": "10"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Yvon Mvogo",
+            "short": "Y. Mvogo",
+            "num": "12",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Christian Fassnacht",
+            "short": "C. Fassnacht",
+            "num": "16",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Djibril Sow",
+            "short": "D. Sow",
+            "num": "15",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Luca Jaquez",
+            "short": "L. Jaquez",
+            "num": "25",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Aurèle Amenda",
+            "short": "A. Amenda",
+            "num": "24",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Eray Cömert",
+            "short": "E. Cömert",
+            "num": "18",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Marvin Keller",
+            "short": "M. Keller",
+            "num": "21",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Noah Okafor",
+            "short": "N. Okafor",
+            "num": "19",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Denis Zakaria",
+            "short": "D. Zakaria",
+            "num": "6",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Zeki Amdouni",
+            "short": "Z. Amdouni",
+            "num": "23",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Cedric Itten",
+            "short": "C. Itten",
+            "num": "26",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Rubén Vargas",
+            "short": "R. Vargas",
+            "num": "17",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Johan Manzambi",
+            "short": "J. Manzambi",
+            "num": "9",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Ardon Jashari",
+            "short": "A. Jashari",
+            "num": "14",
+            "pos": "",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Ermin Mahmic",
+            "short": "E. Mahmic",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Martin Zlomislic",
+            "short": "M. Zlomislic",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nihad Mujakic",
+            "short": "N. Mujakic",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Dzenis Burnic",
+            "short": "D. Burnic",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Dennis Hadzikadunic",
+            "short": "D. Hadzikadunic",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Arjan Malic",
+            "short": "A. Malic",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ivan Basic",
+            "short": "I. Basic",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Amir Hadziahmetovic",
+            "short": "A. Hadziahmetovic",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Samed Bazdar",
+            "short": "S. Bazdar",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jovo Lukic",
+            "short": "J. Lukic",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Stjepan Radeljic",
+            "short": "S. Radeljic",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Haris Tabakovic",
+            "short": "H. Tabakovic",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mladen Jurkas",
+            "short": "M. Jurkas",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Esmir Bajraktarevic",
+            "short": "E. Bajraktarevic",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Armin Gigovic",
+            "short": "A. Gigovic",
+            "num": "8",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-3-1-2",
+        "away": "4-4-2"
+      },
+      "commentary": [
         {
           "min": "45'+4'",
-          "text": "Attempt blocked. Thapelo Maseko (South Africa) left footed shot from the centre of the box is blocked.",
+          "text": "First Half ends, Switzerland 0, Bosnia and Herzegovina 0.",
+          "goal": false
+        },
+        {
+          "min": "45'+3'",
+          "text": "Handball by Ermedin Demirovic (Bosnia and Herzegovina).",
           "goal": false
         },
         {
           "min": "45'+2'",
-          "text": "Teboho Mokoena (South Africa) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "45'+2'",
-          "text": "Foul by Lukás Cerv (Czechia).",
+          "text": "Offside, Bosnia and Herzegovina. Ermedin Demirovic is caught offside.",
           "goal": false
         },
         {
           "min": "45'",
-          "text": "Fourth official has announced 4 minutes of added time.",
+          "text": "Fourth official has announced 3 minutes of added time.",
           "goal": false
         },
         {
           "min": "45'",
-          "text": "Attempt missed. Teboho Mokoena (South Africa) right footed shot from outside the box is too high. Assisted by Jayden Adams.",
+          "text": "Michel Aebischer (Switzerland) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Foul by Benjamin Tahirovic (Bosnia and Herzegovina).",
           "goal": false
         },
         {
           "min": "44'",
-          "text": "Corner, South Africa. Conceded by Ladislav Krejcí.",
-          "goal": false
-        },
-        {
-          "min": "42'",
-          "text": "Offside, South Africa. Iqraam Rayners is caught offside.",
+          "text": "Corner, Bosnia and Herzegovina. Conceded by Silvan Widmer.",
           "goal": false
         },
         {
           "min": "41'",
-          "text": "Attempt missed. Adam Hlozek (Czechia) right footed shot from outside the box is too high from a direct free kick.",
+          "text": "Attempt blocked. Edin Dzeko (Bosnia and Herzegovina) left footed shot from the centre of the box is blocked. Assisted by Kerim Alajbegovic.",
           "goal": false
         },
         {
-          "min": "40'",
-          "text": "Thalente Mbatha (South Africa) is shown the yellow card for a bad foul.",
+          "min": "39'",
+          "text": "Delay over. They are ready to continue.",
           "goal": false
         },
         {
-          "min": "40'",
-          "text": "Foul by Thalente Mbatha (South Africa).",
+          "min": "39'",
+          "text": "Delay in match (Switzerland).",
           "goal": false
         },
         {
-          "min": "40'",
-          "text": "Patrik Schick (Czechia) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "37'",
-          "text": "Corner, South Africa. Conceded by Lukás Cerv.",
+          "min": "38'",
+          "text": "Attempt saved. Amar Memic (Bosnia and Herzegovina) right footed shot from outside the box is saved in the bottom left corner by Gregor Kobel (Switzerland). Assisted by Kerim Alajbegovic.",
           "goal": false
         },
         {
           "min": "36'",
-          "text": "Offside, South Africa. Iqraam Rayners is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "34'",
-          "text": "Aubrey Modiba (South Africa) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "34'",
-          "text": "Foul by Lukás Cerv (Czechia).",
-          "goal": false
-        },
-        {
-          "min": "33'",
-          "text": "Teboho Mokoena (South Africa) is shown the yellow card for a bad foul.",
-          "goal": false
-        },
-        {
-          "min": "32'",
-          "text": "Oswin Appollis (South Africa) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "32'",
-          "text": "Foul by Tomás Holes (Czechia).",
+          "text": "Corner, Switzerland. Conceded by Nikola Katic.",
           "goal": false
         },
         {
           "min": "30'",
-          "text": "Iqraam Rayners (South Africa) wins a free kick on the left wing.",
+          "text": "Foul by Silvan Widmer (Switzerland).",
           "goal": false
         },
         {
           "min": "30'",
-          "text": "Foul by Robin Hranác (Czechia).",
+          "text": "Amar Memic (Bosnia and Herzegovina) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "29'",
-          "text": "Teboho Mokoena (South Africa) wins a free kick in the defensive half.",
+          "min": "30'",
+          "text": "Fabian Rieder (Switzerland) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "29'",
-          "text": "Foul by Adam Hlozek (Czechia).",
+          "min": "30'",
+          "text": "Foul by Benjamin Tahirovic (Bosnia and Herzegovina).",
           "goal": false
         },
         {
-          "min": "26'",
+          "min": "28'",
+          "text": "Breel Embolo (Switzerland) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "28'",
+          "text": "Foul by Sead Kolasinac (Bosnia and Herzegovina).",
+          "goal": false
+        },
+        {
+          "min": "25'",
           "text": "Delay over. They are ready to continue.",
           "goal": false
         },
@@ -22487,23 +23143,133 @@
           "goal": false
         },
         {
-          "min": "22'",
-          "text": "Attempt blocked. Iqraam Rayners (South Africa) header from the centre of the box is blocked. Assisted by Aubrey Modiba with a cross.",
-          "goal": false
-        },
-        {
-          "min": "21'",
-          "text": "Handball by Adam Hlozek (Czechia).",
+          "min": "23'",
+          "text": "Attempt missed. Remo Freuler (Switzerland) right footed shot from outside the box is close, but misses to the left. Assisted by Dan Ndoye.",
           "goal": false
         },
         {
           "min": "20'",
-          "text": "Thapelo Maseko (South Africa) wins a free kick in the defensive half.",
+          "text": "Attempt saved. Dan Ndoye (Switzerland) right footed shot from outside the box is saved in the centre of the goal by Nikola Vasilj (Bosnia and Herzegovina). Assisted by Breel Embolo.",
           "goal": false
         },
         {
-          "min": "20'",
-          "text": "Foul by Ladislav Krejcí (Czechia).",
+          "min": "17'",
+          "text": "Granit Xhaka (Switzerland) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "17'",
+          "text": "Foul by Amar Memic (Bosnia and Herzegovina).",
+          "goal": false
+        },
+        {
+          "min": "16'",
+          "text": "Foul by Dan Ndoye (Switzerland).",
+          "goal": false
+        },
+        {
+          "min": "16'",
+          "text": "Amar Dedic (Bosnia and Herzegovina) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "14'",
+          "text": "Breel Embolo (Switzerland) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "14'",
+          "text": "Foul by Tarik Muharemovic (Bosnia and Herzegovina).",
+          "goal": false
+        },
+        {
+          "min": "11'",
+          "text": "Offside, Switzerland. Breel Embolo is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "10'",
+          "text": "Attempt missed. Dan Ndoye (Switzerland) left footed shot from the left side of the box is close, but misses to the left. Assisted by Granit Xhaka.",
+          "goal": false
+        },
+        {
+          "min": "9'",
+          "text": "Handball by Amar Dedic (Bosnia and Herzegovina).",
+          "goal": false
+        },
+        {
+          "min": "8'",
+          "text": "Corner, Switzerland. Conceded by Nikola Katic.",
+          "goal": false
+        },
+        {
+          "min": "8'",
+          "text": "Attempt blocked. Granit Xhaka (Switzerland) left footed shot from outside the box is blocked. Assisted by Nico Elvedi.",
+          "goal": false
+        },
+        {
+          "min": "7'",
+          "text": "Nico Elvedi (Switzerland) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "7'",
+          "text": "Foul by Benjamin Tahirovic (Bosnia and Herzegovina).",
+          "goal": false
+        },
+        {
+          "min": "7'",
+          "text": "Corner, Switzerland. Conceded by Edin Dzeko.",
+          "goal": false
+        },
+        {
+          "min": "6'",
+          "text": "Corner, Switzerland. Conceded by Tarik Muharemovic.",
+          "goal": false
+        },
+        {
+          "min": "5'",
+          "text": "Offside, Switzerland. Breel Embolo is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "2'",
+          "text": "Foul by Nikola Katic (Bosnia and Herzegovina).",
+          "goal": false
+        },
+        {
+          "min": "2'",
+          "text": "Dan Ndoye (Switzerland) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "2'",
+          "text": "Attempt missed. Edin Dzeko (Bosnia and Herzegovina) left footed shot from the centre of the box misses to the left following a corner.",
+          "goal": false
+        },
+        {
+          "min": "2'",
+          "text": "Corner, Bosnia and Herzegovina. Conceded by Silvan Widmer.",
+          "goal": false
+        },
+        {
+          "min": "1'",
+          "text": "Kerim Alajbegovic (Bosnia and Herzegovina) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "1'",
+          "text": "Foul by Michel Aebischer (Switzerland).",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "First Half begins.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "Lineups are announced and players are warming up.",
           "goal": false
         }
       ],
@@ -22511,14 +23277,14 @@
         {
           "label": "Total Shots",
           "home": {
-            "name": "M. Sadílek",
-            "num": "18",
-            "pos": "M",
-            "value": "3"
+            "name": "D. Ndoye",
+            "num": "11",
+            "pos": "F",
+            "value": "2"
           },
           "away": {
-            "name": "T. Maseko",
-            "num": "12",
+            "name": "E. Dzeko",
+            "num": "11",
             "pos": "F",
             "value": "2"
           }
@@ -22526,40 +23292,46 @@
         {
           "label": "Accurate Passes",
           "home": {
-            "name": "L. Krejcí",
-            "num": "7",
-            "pos": "D",
-            "value": "41"
+            "name": "G. Xhaka",
+            "num": "10",
+            "pos": "M",
+            "value": "59"
           },
           "away": {
-            "name": "T. Mokoena",
+            "name": "T. Muharemovic",
             "num": "4",
-            "pos": "M",
-            "value": "62"
+            "pos": "D",
+            "value": "17"
           }
         },
         {
           "label": "Defensive Interventions",
           "home": {
-            "name": "V. Coufal",
-            "num": "5",
-            "pos": "D",
-            "value": "7"
+            "name": "G. Kobel",
+            "num": "1",
+            "pos": "G",
+            "value": "4"
           },
           "away": {
-            "name": "I. Okon",
-            "num": "21",
+            "name": "T. Muharemovic",
+            "num": "4",
             "pos": "D",
-            "value": "11"
+            "value": "8"
           }
         },
         {
           "label": "Saves",
-          "away": {
-            "name": "R. Williams",
+          "home": {
+            "name": "G. Kobel",
             "num": "1",
             "pos": "G",
-            "value": "2"
+            "value": "1"
+          },
+          "away": {
+            "name": "N. Vasilj",
+            "num": "1",
+            "pos": "G",
+            "value": "1"
           }
         }
       ],

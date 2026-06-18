@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-18T14:17:29.526Z",
+  "lastUpdated": "2026-06-18T17:35:29.466Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -270,12 +270,16 @@
       "stage": "group",
       "home": "Czechia",
       "away": "South Africa",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
-      "status": "scheduled",
+      "status": "live",
       "id": "760438",
       "date": "2026-06-18T16:00Z",
-      "venue": "Mercedes-Benz Stadium"
+      "venue": "Mercedes-Benz Stadium",
+      "clock": 4440,
+      "displayClock": "74'",
+      "detail": "74'",
+      "period": 2
     },
     {
       "stage": "group",

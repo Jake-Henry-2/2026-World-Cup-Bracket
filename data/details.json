@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-18T01:45:00.080Z",
+  "lastUpdated": "2026-06-18T06:31:37.309Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -19897,6 +19897,922 @@
         "headline": "Does Congo DR deserve more credit for their draw vs. Portugal?",
         "mp4": "https://media.video-cdn.espn.com/motion/2026/0617/dm_260617_COM_SOC_Analysis_Does_DR_Congo_deserve_more_credit_for_their_draw_vs_Portugal_20260617_GLOBAL/dm_260617_COM_SOC_Analysis_Does_DR_Congo_deserve_more_credit_for_their_draw_vs_Portugal_20260617_GLOBAL_360p30_1464k.mp4",
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0617/dm_260617_COM_SOC_Analysis_Does_DR_Congo_deserve_more_credit_for_their_draw_vs_Portugal_20260617_GLOBAL/dm_260617_COM_SOC_Analysis_Does_DR_Congo_deserve_more_credit_for_their_draw_vs_Portugal_20260617_GLOBAL/playlist.m3u8"
+      },
+      "final": true,
+      "dv": 5
+    },
+    "760436": {
+      "venue": "Estadio Banorte",
+      "stats": {
+        "home": {
+          "foulsCommitted": "14",
+          "yellowCards": "1",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "3",
+          "saves": "1",
+          "possessionPct": "38.6",
+          "totalShots": "8",
+          "shotsOnTarget": "2",
+          "shotPct": "0.3",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "243",
+          "totalPasses": "319",
+          "passPct": "0.8",
+          "accurateCrosses": "3",
+          "totalCrosses": "13",
+          "crossPct": "0.2",
+          "totalLongBalls": "53",
+          "accurateLongBalls": "17",
+          "longballPct": "0.3",
+          "blockedShots": "2",
+          "effectiveTackles": "7",
+          "totalTackles": "10",
+          "tacklePct": "0.7",
+          "interceptions": "7",
+          "effectiveClearance": "24",
+          "totalClearance": "24"
+        },
+        "away": {
+          "foulsCommitted": "11",
+          "yellowCards": "1",
+          "redCards": "0",
+          "offsides": "3",
+          "wonCorners": "4",
+          "saves": "1",
+          "possessionPct": "61.4",
+          "totalShots": "15",
+          "shotsOnTarget": "4",
+          "shotPct": "0.3",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "444",
+          "totalPasses": "519",
+          "passPct": "0.9",
+          "accurateCrosses": "6",
+          "totalCrosses": "16",
+          "crossPct": "0.4",
+          "totalLongBalls": "48",
+          "accurateLongBalls": "17",
+          "longballPct": "0.4",
+          "blockedShots": "4",
+          "effectiveTackles": "3",
+          "totalTackles": "10",
+          "tacklePct": "0.3",
+          "interceptions": "6",
+          "effectiveClearance": "20",
+          "totalClearance": "20"
+        }
+      },
+      "events": [
+        {
+          "kind": "Yellow Card",
+          "min": "7'",
+          "side": "away",
+          "player": "Johan Mojica"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "34'",
+          "side": "home",
+          "player": "Abdukodir Khusanov"
+        },
+        {
+          "kind": "Goal - Volley",
+          "min": "40'",
+          "side": "away",
+          "player": "Goal! Uzbekistan 0, Colombia 1. Daniel Muñoz"
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "home",
+          "player": "Substitution, Uzbekistan. Dostonbek Khamdamov replaces Oston Urunov."
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "home",
+          "player": "Substitution, Uzbekistan. Farrukh Sayfiev replaces Sherzod Nasrullaev."
+        },
+        {
+          "kind": "Goal - Header",
+          "min": "60'",
+          "side": "home",
+          "player": "Goal! Uzbekistan 1, Colombia 1. Abbosbek Fayzullaev"
+        },
+        {
+          "kind": "Goal",
+          "min": "65'",
+          "side": "away",
+          "player": "Goal! Uzbekistan 1, Colombia 2. Luis Díaz"
+        },
+        {
+          "kind": "Substitution",
+          "min": "72'",
+          "side": "away",
+          "player": "Substitution, Colombia. Jaminton Campaz replaces James Rodríguez."
+        },
+        {
+          "kind": "Substitution",
+          "min": "77'",
+          "side": "home",
+          "player": "Substitution, Uzbekistan. Jakhongir Urozov replaces Rustam Ashurmatov because of an injury."
+        },
+        {
+          "kind": "Substitution",
+          "min": "77'",
+          "side": "home",
+          "player": "Substitution, Uzbekistan. Azizbek Amonov replaces Abbosbek Fayzullaev."
+        },
+        {
+          "kind": "Substitution",
+          "min": "80'",
+          "side": "away",
+          "player": "Substitution, Colombia. Richard Ríos replaces Gustavo Puerta."
+        },
+        {
+          "kind": "Substitution",
+          "min": "80'",
+          "side": "away",
+          "player": "Substitution, Colombia. Cucho Hernández replaces Luis Suárez."
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'+3'",
+          "side": "away",
+          "player": "Substitution, Colombia. Andrés Gómez replaces Luis Díaz."
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'+3'",
+          "side": "away",
+          "player": "Substitution, Colombia. Kevin Castaño replaces Jhon Arias."
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'+3'",
+          "side": "home",
+          "player": "Substitution, Uzbekistan. Igor Sergeev replaces Eldor Shomurodov."
+        },
+        {
+          "kind": "Goal - Header",
+          "min": "90'+9'",
+          "side": "away",
+          "player": "Goal! Uzbekistan 1, Colombia 3. Jaminton Campaz"
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Utkir Yusupov",
+            "short": "U. Yusupov",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Abdulla Abdullaev",
+            "short": "A. Abdullaev",
+            "num": "18",
+            "pos": "CD",
+            "place": "5"
+          },
+          {
+            "name": "Rustam Ashurmatov",
+            "short": "R. Ashurmatov",
+            "num": "5",
+            "pos": "CD-L",
+            "place": "4"
+          },
+          {
+            "name": "Abdukodir Khusanov",
+            "short": "A. Khusanov",
+            "num": "2",
+            "pos": "CD-R",
+            "place": "6"
+          },
+          {
+            "name": "Otabek Shukurov",
+            "short": "O. Shukurov",
+            "num": "7",
+            "pos": "CM-L",
+            "place": "8"
+          },
+          {
+            "name": "Akmal Mozgovoy",
+            "short": "A. Mozgovoy",
+            "num": "6",
+            "pos": "CM-R",
+            "place": "7"
+          },
+          {
+            "name": "Sherzod Nasrullaev",
+            "short": "S. Nasrullaev",
+            "num": "13",
+            "pos": "LM",
+            "place": "3"
+          },
+          {
+            "name": "Behruzjon Karimov",
+            "short": "B. Karimov",
+            "num": "24",
+            "pos": "RM",
+            "place": "2"
+          },
+          {
+            "name": "Eldor Shomurodov",
+            "short": "E. Shomurodov",
+            "num": "14",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Oston Urunov",
+            "short": "O. Urunov",
+            "num": "11",
+            "pos": "CF-L",
+            "place": "11"
+          },
+          {
+            "name": "Abbosbek Fayzullaev",
+            "short": "A. Fayzullaev",
+            "num": "22",
+            "pos": "CF-R",
+            "place": "10"
+          }
+        ],
+        "away": [
+          {
+            "name": "Camilo Vargas",
+            "short": "C. Vargas",
+            "num": "12",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Jhon Lucumí",
+            "short": "J. Lucumí",
+            "num": "3",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Davinson Sánchez",
+            "short": "D. Sánchez",
+            "num": "23",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Johan Mojica",
+            "short": "J. Mojica",
+            "num": "17",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Daniel Muñoz",
+            "short": "D. Muñoz",
+            "num": "2",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Jefferson Lerma",
+            "short": "J. Lerma",
+            "num": "16",
+            "pos": "CM",
+            "place": "4"
+          },
+          {
+            "name": "Jhon Arias",
+            "short": "J. Arias",
+            "num": "11",
+            "pos": "LM",
+            "place": "8"
+          },
+          {
+            "name": "Gustavo Puerta",
+            "short": "G. Puerta",
+            "num": "14",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Luis Suárez",
+            "short": "L. Suárez",
+            "num": "25",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Luis Díaz",
+            "short": "L. Díaz",
+            "num": "7",
+            "pos": "LF",
+            "place": "11"
+          },
+          {
+            "name": "James Rodríguez",
+            "short": "J. Rodríguez",
+            "num": "10",
+            "pos": "RF",
+            "place": "10"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Avazbek Ulmasaliyev",
+            "short": "A. Ulmasaliyev",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Botirali Ergashev",
+            "short": "B. Ergashev",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Farrukh Sayfiev",
+            "short": "F. Sayfiev",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Azizbek Amonov",
+            "short": "A. Amonov",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jakhongir Urozov",
+            "short": "J. Urozov",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Khojiakbar Alijonov",
+            "short": "K. Alijonov",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Umar Eshmurodov",
+            "short": "U. Eshmurodov",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Azizjon Ganiev",
+            "short": "A. Ganiev",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Dostonbek Khamdamov",
+            "short": "D. Khamdamov",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Odiljon Xamrobekov",
+            "short": "O. Xamrobekov",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Igor Sergeev",
+            "short": "I. Sergeev",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jamshid Iskanderov",
+            "short": "J. Iskanderov",
+            "num": "8",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Sherzod Esanov",
+            "short": "S. Esanov",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ruslanbek Jiyanov",
+            "short": "R. Jiyanov",
+            "num": "10",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Abduvohid Nematov",
+            "short": "A. Nematov",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "David Ospina",
+            "short": "D. Ospina",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Yerry Mina",
+            "short": "Y. Mina",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Juan Fernando Quintero",
+            "short": "J. Quintero",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jhon Córdoba",
+            "short": "J. Córdoba",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Willer Ditta",
+            "short": "W. Ditta",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Álvaro Montero",
+            "short": "Á. Montero",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Santiago Arias",
+            "short": "S. Arias",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jáminton Campaz",
+            "short": "J. Campaz",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Deiver Machado",
+            "short": "D. Machado",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kevin Castaño",
+            "short": "K. Castaño",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Juan Portilla",
+            "short": "J. Portilla",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jorge Carrascal",
+            "short": "J. Carrascal",
+            "num": "8",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Andrés Gómez",
+            "short": "A. Gómez",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Richard Ríos",
+            "short": "R. Ríos",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Cucho Hernández",
+            "short": "C. Hernández",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "3-4-2-1",
+        "away": "4-3-3"
+      },
+      "commentary": [
+        {
+          "min": "",
+          "text": "Match ends, Uzbekistan 1, Colombia 3.",
+          "goal": false
+        },
+        {
+          "min": "90'+11'",
+          "text": "Second Half ends, Uzbekistan 1, Colombia 3.",
+          "goal": false
+        },
+        {
+          "min": "90'+11'",
+          "text": "Bekhruz Karimov (Uzbekistan) hits the bar with a right footed shot from outside the box.",
+          "goal": false
+        },
+        {
+          "min": "90'+11'",
+          "text": "Attempt blocked. Azizbek Amonov (Uzbekistan) right footed shot from outside the box is blocked. Assisted by Otabek Shukurov.",
+          "goal": false
+        },
+        {
+          "min": "90'+9'",
+          "text": "Goal! Uzbekistan 1, Colombia 3. Jaminton Campaz (Colombia) header from the centre of the box to the bottom left corner. Assisted by Cucho Hernández with a cross.",
+          "goal": true
+        },
+        {
+          "min": "90'+7'",
+          "text": "Foul by Daniel Muñoz (Colombia).",
+          "goal": false
+        },
+        {
+          "min": "90'+7'",
+          "text": "Akmal Mozgovoy (Uzbekistan) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Substitution, Uzbekistan. Igor Sergeev replaces Eldor Shomurodov.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Substitution, Colombia. Kevin Castaño replaces Jhon Arias.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Substitution, Colombia. Andrés Gómez replaces Luis Díaz.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Attempt missed. Dostonbek Khamdamov (Uzbekistan) header from the left side of the box misses to the right. Assisted by Farrukh Sayfiev with a cross.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Fourth official has announced 8 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Attempt missed. Akmal Mozgovoy (Uzbekistan) right footed shot from the left side of the box is high and wide to the right. Assisted by Azizbek Amonov.",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Corner, Uzbekistan. Conceded by Jefferson Lerma.",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Attempt blocked. Dostonbek Khamdamov (Uzbekistan) left footed shot from outside the box is blocked. Assisted by Bekhruz Karimov.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Attempt missed. Jaminton Campaz (Colombia) left footed shot from the right side of the box is high and wide to the left.",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Attempt missed. Jefferson Lerma (Colombia) right footed shot from the centre of the box is close, but misses to the left. Assisted by Jhon Arias following a corner.",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Corner, Colombia. Conceded by Abdulla Abdullaev.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Otabek Shukurov (Uzbekistan) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Foul by Richard Ríos (Colombia).",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Foul by Davinson Sánchez (Colombia).",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Farrukh Sayfiev (Uzbekistan) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Attempt missed. Johan Mojica (Colombia) left footed shot from outside the box is too high. Assisted by Jefferson Lerma.",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Jaminton Campaz (Colombia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Foul by Eldor Shomurodov (Uzbekistan).",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Substitution, Colombia. Cucho Hernández replaces Luis Suárez.",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Substitution, Colombia. Richard Ríos replaces Gustavo Puerta.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Luis Suárez (Colombia) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Foul by Abdulla Abdullaev (Uzbekistan).",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Substitution, Uzbekistan. Azizbek Amonov replaces Abbosbek Fayzullaev.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Substitution, Uzbekistan. Jakhongir Urozov replaces Rustam Ashurmatov because of an injury.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Delay in match because of an injury Rustam Ashurmatov (Uzbekistan).",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Luis Díaz (Colombia) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Foul by Abdukodir Khusanov (Uzbekistan).",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Offside, Colombia. Luis Díaz is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Substitution, Colombia. Jaminton Campaz replaces James Rodríguez.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "69'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Goal! Uzbekistan 1, Colombia 2. Luis Díaz (Colombia) right footed shot from the centre of the box to the bottom right corner. Assisted by Gustavo Puerta.",
+          "goal": true
+        },
+        {
+          "min": "64'",
+          "text": "Attempt missed. Davinson Sánchez (Colombia) header from the centre of the box misses to the left following a corner.",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Corner, Colombia. Conceded by Otabek Shukurov.",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Attempt blocked. Jefferson Lerma (Colombia) right footed shot from outside the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Attempt blocked. Jhon Arias (Colombia) left footed shot from the centre of the box is blocked. Assisted by Luis Díaz.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Farrukh Sayfiev (Uzbekistan) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Foul by Gustavo Puerta (Colombia).",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Goal! Uzbekistan 1, Colombia 1. Abbosbek Fayzullaev (Uzbekistan) header from very close range to the top left corner.",
+          "goal": true
+        },
+        {
+          "min": "60'",
+          "text": "Attempt saved. Eldor Shomurodov (Uzbekistan) right footed shot from the right side of the box is saved in the bottom right corner by Camilo Vargas (Colombia). Assisted by Dostonbek Khamdamov with a cross.",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Foul by Abdulla Abdullaev (Uzbekistan).",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Luis Suárez (Colombia) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Handball by Jefferson Lerma (Colombia).",
+          "goal": false
+        },
+        {
+          "min": "52'",
+          "text": "Foul by Abbosbek Fayzullaev (Uzbekistan).",
+          "goal": false
+        },
+        {
+          "min": "52'",
+          "text": "Luis Díaz (Colombia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "49'",
+          "text": "Corner, Uzbekistan. Conceded by Daniel Muñoz.",
+          "goal": false
+        },
+        {
+          "min": "48'",
+          "text": "Otabek Shukurov (Uzbekistan) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "48'",
+          "text": "Foul by Jhon Arias (Colombia).",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Second Half begins Uzbekistan 0, Colombia 1.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Substitution, Uzbekistan. Farrukh Sayfiev replaces Sherzod Nasrullaev.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Substitution, Uzbekistan. Dostonbek Khamdamov replaces Oston Urunov.",
+          "goal": false
+        },
+        {
+          "min": "45'+6'",
+          "text": "First Half ends, Uzbekistan 0, Colombia 1.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "B. Karimov",
+            "num": "24",
+            "pos": "D",
+            "value": "2"
+          },
+          "away": {
+            "name": "J. Lerma",
+            "num": "16",
+            "pos": "M",
+            "value": "3"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "O. Shukurov",
+            "num": "7",
+            "pos": "M",
+            "value": "45"
+          },
+          "away": {
+            "name": "J. Lucumí",
+            "num": "3",
+            "pos": "D",
+            "value": "68"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "R. Ashurmatov",
+            "num": "5",
+            "pos": "D",
+            "value": "11"
+          },
+          "away": {
+            "name": "D. Sánchez",
+            "num": "23",
+            "pos": "D",
+            "value": "9"
+          }
+        },
+        {
+          "label": "Saves",
+          "home": {
+            "name": "U. Yusupov",
+            "num": "1",
+            "pos": "G",
+            "value": "1"
+          },
+          "away": {
+            "name": "C. Vargas",
+            "num": "12",
+            "pos": "G",
+            "value": "1"
+          }
+        }
+      ],
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0618/ss_20260618_005823322_3568169/ss_20260618_005823322_3568169.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49104113/moreno-believes-colombia-work-do-3-1-victory",
+        "headline": "Moreno believes Colombia still has work to do after a 3-1 victory",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0618/ss_20260618_005823322_3568169/ss_20260618_005823322_3568169_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0618/ss_20260618_005823322_3568169/ss_20260618_005823322_3568169/playlist.m3u8"
       },
       "final": true,
       "dv": 5

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-18T01:45:00.003Z",
+  "lastUpdated": "2026-06-18T06:31:37.244Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -259,9 +259,9 @@
       "stage": "group",
       "home": "Uzbekistan",
       "away": "Colombia",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "scheduled",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "finished",
       "id": "760436",
       "date": "2026-06-18T02:00Z",
       "venue": "Estadio Banorte"

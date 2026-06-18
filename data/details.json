@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-17T23:12:09.582Z",
+  "lastUpdated": "2026-06-18T01:45:00.080Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -18110,67 +18110,146 @@
       "venue": "BMO Field",
       "stats": {
         "home": {
-          "foulsCommitted": "1",
-          "yellowCards": "0",
+          "foulsCommitted": "9",
+          "yellowCards": "1",
           "redCards": "0",
-          "offsides": "1",
-          "wonCorners": "0",
-          "saves": "1",
-          "possessionPct": "33",
-          "totalShots": "0",
-          "shotsOnTarget": "0",
-          "shotPct": "0.0",
+          "offsides": "4",
+          "wonCorners": "2",
+          "saves": "4",
+          "possessionPct": "38.1",
+          "totalShots": "8",
+          "shotsOnTarget": "2",
+          "shotPct": "0.3",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "24",
-          "totalPasses": "32",
+          "accuratePasses": "292",
+          "totalPasses": "353",
           "passPct": "0.8",
-          "accurateCrosses": "0",
-          "totalCrosses": "0",
-          "crossPct": "0.0",
-          "totalLongBalls": "7",
-          "accurateLongBalls": "3",
-          "longballPct": "0.4",
-          "blockedShots": "0",
-          "effectiveTackles": "1",
-          "totalTackles": "2",
-          "tacklePct": "0.0",
-          "interceptions": "0",
-          "effectiveClearance": "2",
-          "totalClearance": "2"
+          "accurateCrosses": "4",
+          "totalCrosses": "16",
+          "crossPct": "0.3",
+          "totalLongBalls": "51",
+          "accurateLongBalls": "29",
+          "longballPct": "0.6",
+          "blockedShots": "2",
+          "effectiveTackles": "9",
+          "totalTackles": "16",
+          "tacklePct": "0.6",
+          "interceptions": "8",
+          "effectiveClearance": "26",
+          "totalClearance": "26"
         },
         "away": {
-          "foulsCommitted": "0",
-          "yellowCards": "0",
+          "foulsCommitted": "11",
+          "yellowCards": "2",
           "redCards": "0",
           "offsides": "1",
-          "wonCorners": "0",
-          "saves": "0",
-          "possessionPct": "67",
-          "totalShots": "2",
-          "shotsOnTarget": "1",
-          "shotPct": "0.5",
+          "wonCorners": "2",
+          "saves": "2",
+          "possessionPct": "61.9",
+          "totalShots": "11",
+          "shotsOnTarget": "4",
+          "shotPct": "0.4",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "58",
-          "totalPasses": "65",
+          "accuratePasses": "502",
+          "totalPasses": "582",
           "passPct": "0.9",
-          "accurateCrosses": "2",
-          "totalCrosses": "2",
-          "crossPct": "1.0",
-          "totalLongBalls": "8",
-          "accurateLongBalls": "4",
+          "accurateCrosses": "4",
+          "totalCrosses": "21",
+          "crossPct": "0.2",
+          "totalLongBalls": "73",
+          "accurateLongBalls": "37",
           "longballPct": "0.5",
-          "blockedShots": "1",
-          "effectiveTackles": "1",
-          "totalTackles": "2",
-          "tacklePct": "0.5",
-          "interceptions": "0",
-          "effectiveClearance": "1",
-          "totalClearance": "1"
+          "blockedShots": "2",
+          "effectiveTackles": "11",
+          "totalTackles": "29",
+          "tacklePct": "0.4",
+          "interceptions": "5",
+          "effectiveClearance": "18",
+          "totalClearance": "18"
         }
       },
-      "events": [],
+      "events": [
+        {
+          "kind": "Yellow Card",
+          "min": "16'",
+          "side": "home",
+          "player": "Caleb Yirenkyi"
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "home",
+          "player": "Substitution, Ghana. Benjamin Asare replaces Lawrence Ati Zigi because of an injury."
+        },
+        {
+          "kind": "Substitution",
+          "min": "58'",
+          "side": "home",
+          "player": "Substitution, Ghana. Brandon Thomas-Asante replaces Kamaldeen Sulemana."
+        },
+        {
+          "kind": "Substitution",
+          "min": "58'",
+          "side": "home",
+          "player": "Substitution, Ghana. Abdul Fatawu replaces Ernest Nuamah."
+        },
+        {
+          "kind": "Substitution",
+          "min": "63'",
+          "side": "away",
+          "player": "Substitution, Panama. José Fajardo replaces Cecilio Waterman."
+        },
+        {
+          "kind": "Substitution",
+          "min": "63'",
+          "side": "away",
+          "player": "Substitution, Panama. Azarías Londoño replaces Cristian Martínez."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "72'",
+          "side": "away",
+          "player": "César Blackman"
+        },
+        {
+          "kind": "Substitution",
+          "min": "74'",
+          "side": "away",
+          "player": "Substitution, Panama. Ismael Díaz replaces José Luis Rodríguez."
+        },
+        {
+          "kind": "Substitution",
+          "min": "78'",
+          "side": "home",
+          "player": "Substitution, Ghana. Kwasi Sibo replaces Elisha Owusu."
+        },
+        {
+          "kind": "Substitution",
+          "min": "87'",
+          "side": "home",
+          "player": "Substitution, Ghana. Prince Adu replaces Jordan Ayew."
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'",
+          "side": "away",
+          "player": "Substitution, Panama. Aníbal Godoy replaces César Blackman."
+        },
+        {
+          "kind": "Goal",
+          "min": "90'+5'",
+          "side": "home",
+          "player": "Goal! Ghana 1, Panama 0. Caleb Yirenkyi"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "90'+9'",
+          "side": "away",
+          "player": "Carlos Harvey"
+        }
+      ],
       "lineups": {
         "home": [
           {
@@ -18546,88 +18625,376 @@
       },
       "commentary": [
         {
-          "min": "8'",
-          "text": "Offside, Panama. César Blackman is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "5'",
-          "text": "Attempt blocked. César Blackman (Panama) right footed shot from the left side of the box is blocked. Assisted by Amir Murillo.",
-          "goal": false
-        },
-        {
-          "min": "2'",
-          "text": "Attempt saved. Cecilio Waterman (Panama) right footed shot from the centre of the box is saved in the top left corner by Lawrence Ati Zigi (Ghana). Assisted by Amir Murillo with a cross.",
-          "goal": false
-        },
-        {
-          "min": "1'",
-          "text": "Offside, Ghana. Jordan Ayew is caught offside.",
-          "goal": false
-        },
-        {
           "min": "",
-          "text": "First Half begins.",
+          "text": "Match ends, Ghana 1, Panama 0.",
           "goal": false
         },
         {
-          "min": "",
-          "text": "Lineups are announced and players are warming up.",
+          "min": "90'+12'",
+          "text": "Second Half ends, Ghana 1, Panama 0.",
+          "goal": false
+        },
+        {
+          "min": "90'+11'",
+          "text": "Aníbal Godoy (Panama) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+11'",
+          "text": "Foul by Prince Adu (Ghana).",
+          "goal": false
+        },
+        {
+          "min": "90'+11'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "90'+10'",
+          "text": "Delay in match because of an injury Benjamin Asare (Ghana).",
+          "goal": false
+        },
+        {
+          "min": "90'+9'",
+          "text": "Carlos Harvey (Panama) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "90'+9'",
+          "text": "Foul by Carlos Harvey (Panama).",
+          "goal": false
+        },
+        {
+          "min": "90'+9'",
+          "text": "Benjamin Asare (Ghana) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+9'",
+          "text": "Attempt saved. Ismael Díaz (Panama) header from the centre of the box is saved in the bottom left corner by Benjamin Asare (Ghana). Assisted by Orlando Mosquera with a headed pass.",
+          "goal": false
+        },
+        {
+          "min": "90'+8'",
+          "text": "José Córdoba (Panama) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "90'+8'",
+          "text": "Foul by Prince Adu (Ghana).",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Goal! Ghana 1, Panama 0. Caleb Yirenkyi (Ghana) right footed shot from very close range to the top right corner following a fast break.",
+          "goal": true
+        },
+        {
+          "min": "90'+5'",
+          "text": "Attempt blocked. Brandon Thomas-Asante (Ghana) right footed shot from a difficult angle on the left is blocked. Assisted by Antoine Semenyo.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Corner, Panama. Conceded by Marvin Senaya.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Fourth official has announced 6 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Substitution, Panama. Aníbal Godoy replaces César Blackman.",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Offside, Ghana. Brandon Thomas-Asante is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Substitution, Ghana. Prince Adu replaces Jordan Ayew.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Attempt missed. Yoel Bárcenas (Panama) right footed shot from outside the box is too high. Assisted by Amir Murillo.",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Attempt saved. Ismael Díaz (Panama) right footed shot from outside the box is saved in the centre of the goal by Benjamin Asare (Ghana). Assisted by Azarías Londoño.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Foul by Andrés Andrade (Panama).",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Abdul Fatawu (Ghana) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Jiovany Ramos (Panama) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Foul by Jordan Ayew (Ghana).",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Substitution, Ghana. Kwasi Sibo replaces Elisha Owusu.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Amir Murillo (Panama) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Foul by Antoine Semenyo (Ghana).",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Amir Murillo (Panama) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Foul by Jordan Ayew (Ghana).",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Substitution, Panama. Ismael Díaz replaces José Luis Rodríguez.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Attempt missed. Jonas Adjetey (Ghana) header from the centre of the box is close, but misses to the left. Assisted by Jordan Ayew with a cross following a set piece situation.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "César Blackman (Panama) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Abdul Fatawu (Ghana) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Foul by César Blackman (Panama).",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Attempt missed. Jiovany Ramos (Panama) left footed shot from outside the box is close, but misses to the left.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Attempt blocked. Antoine Semenyo (Ghana) left footed shot from the centre of the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Attempt missed. Antoine Semenyo (Ghana) header from the centre of the box misses to the right. Assisted by Abdul Fatawu with a cross following a corner.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Corner, Ghana. Conceded by Jiovany Ramos.",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Attempt saved. César Blackman (Panama) right footed shot from the left side of the box is saved in the top right corner by Benjamin Asare (Ghana). Assisted by Azarías Londoño.",
+          "goal": false
+        },
+        {
+          "min": "63'",
+          "text": "Substitution, Panama. Azarías Londoño replaces Cristian Martínez.",
+          "goal": false
+        },
+        {
+          "min": "63'",
+          "text": "Substitution, Panama. José Fajardo replaces Cecilio Waterman.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Corner, Ghana. Conceded by Andrés Andrade.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Attempt missed. Cristian Martínez (Panama) right footed shot from the centre of the box is close, but misses to the right. Assisted by Carlos Harvey.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Attempt missed. Carlos Harvey (Panama) left footed shot from outside the box misses to the right.",
+          "goal": false
+        },
+        {
+          "min": "59'",
+          "text": "Attempt missed. Abdul Fatawu (Ghana) left footed shot from more than 35 yards misses to the right.",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Substitution, Ghana. Abdul Fatawu replaces Ernest Nuamah.",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Substitution, Ghana. Brandon Thomas-Asante replaces Kamaldeen Sulemana.",
+          "goal": false
+        },
+        {
+          "min": "53'",
+          "text": "Corner, Panama. Conceded by Jonas Adjetey.",
+          "goal": false
+        },
+        {
+          "min": "52'",
+          "text": "Attempt blocked. Yoel Bárcenas (Panama) left footed shot from outside the box is blocked. Assisted by Carlos Harvey.",
+          "goal": false
+        },
+        {
+          "min": "51'",
+          "text": "Amir Murillo (Panama) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "51'",
+          "text": "Foul by Kamaldeen Sulemana (Ghana).",
+          "goal": false
+        },
+        {
+          "min": "50'",
+          "text": "Attempt missed. Caleb Yirenkyi (Ghana) right footed shot from the right side of the box is high and wide to the right. Assisted by Jerome Opoku.",
+          "goal": false
+        },
+        {
+          "min": "49'",
+          "text": "Foul by Cristian Martínez (Panama).",
+          "goal": false
+        },
+        {
+          "min": "49'",
+          "text": "Gideon Mensah (Ghana) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "48'",
+          "text": "Attempt saved. Jonas Adjetey (Ghana) header from the centre of the box is saved in the centre of the goal by Orlando Mosquera (Panama). Assisted by Kamaldeen Sulemana with a cross.",
+          "goal": false
+        },
+        {
+          "min": "47'",
+          "text": "Foul by Carlos Harvey (Panama).",
+          "goal": false
+        },
+        {
+          "min": "47'",
+          "text": "Jordan Ayew (Ghana) wins a free kick in the attacking half.",
           "goal": false
         }
       ],
       "leaders": [
         {
-          "label": "Accurate Passes",
+          "label": "Total Shots",
           "home": {
-            "name": "J. Opoku",
-            "num": "18",
-            "pos": "D",
-            "value": "6"
+            "name": "C. Yirenkyi",
+            "num": "3",
+            "pos": "M",
+            "value": "2"
           },
           "away": {
             "name": "J. Ramos",
             "num": "13",
             "pos": "D",
-            "value": "14"
+            "value": "2"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "J. Adjetey",
+            "num": "4",
+            "pos": "D",
+            "value": "47"
+          },
+          "away": {
+            "name": "J. Córdoba",
+            "num": "3",
+            "pos": "D",
+            "value": "91"
           }
         },
         {
           "label": "Defensive Interventions",
           "home": {
-            "name": "M. Senaya",
-            "num": "26",
+            "name": "J. Adjetey",
+            "num": "4",
             "pos": "D",
-            "value": "2"
+            "value": "15"
           },
           "away": {
-            "name": "C. Harvey",
-            "num": "14",
-            "pos": "M",
-            "value": "1"
+            "name": "A. Andrade",
+            "num": "16",
+            "pos": "D",
+            "value": "12"
           }
         },
         {
           "label": "Saves",
           "home": {
-            "name": "L. Zigi",
-            "num": "1",
+            "name": "B. Asare",
+            "num": "16",
             "pos": "G",
-            "value": "1"
-          }
-        },
-        {
-          "label": "Total Shots",
+            "value": "3"
+          },
           "away": {
-            "name": "C. Blackman",
-            "num": "2",
-            "pos": "D",
-            "value": "1"
+            "name": "O. Mosquera",
+            "num": "22",
+            "pos": "G",
+            "value": "2"
           }
         }
       ],
-      "highlight": null,
-      "final": false,
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0617/dm_260617_COM_SOC_Analysis_Was_Ghana_lucky_to_beat_Panama_20260617_GLOBAL_FIFA_WORLD_CUP/dm_260617_COM_SOC_Analysis_Was_Ghana_lucky_to_beat_Panama_20260617_GLOBAL_FIFA_WORLD_CUP.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49102686/was-ghana-lucky-beat-panama",
+        "headline": "Was Ghana lucky to beat Panama?",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0617/dm_260617_COM_SOC_Analysis_Was_Ghana_lucky_to_beat_Panama_20260617_GLOBAL_FIFA_WORLD_CUP/dm_260617_COM_SOC_Analysis_Was_Ghana_lucky_to_beat_Panama_20260617_GLOBAL_FIFA_WORLD_CUP_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0617/dm_260617_COM_SOC_Analysis_Was_Ghana_lucky_to_beat_Panama_20260617_GLOBAL_FIFA_WORLD_CUP/dm_260617_COM_SOC_Analysis_Was_Ghana_lucky_to_beat_Panama_20260617_GLOBAL_FIFA_WORLD_CUP/playlist.m3u8"
+      },
+      "final": true,
       "dv": 5
     },
     "760435": {

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-17T23:12:09.199Z",
+  "lastUpdated": "2026-06-18T01:45:00.003Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -248,16 +248,12 @@
       "stage": "group",
       "home": "Ghana",
       "away": "Panama",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
-      "status": "live",
+      "status": "finished",
       "id": "760434",
       "date": "2026-06-17T23:00Z",
-      "venue": "BMO Field",
-      "clock": 600,
-      "displayClock": "10'",
-      "detail": "10'",
-      "period": 1
+      "venue": "BMO Field"
     },
     {
       "stage": "group",

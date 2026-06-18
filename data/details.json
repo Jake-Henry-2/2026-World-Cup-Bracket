@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-18T19:53:41.643Z",
+  "lastUpdated": "2026-06-18T22:03:41.506Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -22607,67 +22607,182 @@
       "venue": "SoFi Stadium",
       "stats": {
         "home": {
-          "foulsCommitted": "3",
-          "yellowCards": "0",
+          "foulsCommitted": "7",
+          "yellowCards": "1",
           "redCards": "0",
-          "offsides": "2",
-          "wonCorners": "4",
-          "saves": "1",
-          "possessionPct": "69",
-          "totalShots": "4",
-          "shotsOnTarget": "1",
-          "shotPct": "0.3",
+          "offsides": "3",
+          "wonCorners": "7",
+          "saves": "2",
+          "possessionPct": "62.3",
+          "totalShots": "13",
+          "shotsOnTarget": "7",
+          "shotPct": "0.5",
           "penaltyKickGoals": "0",
-          "penaltyKickShots": "0",
-          "accuratePasses": "307",
-          "totalPasses": "344",
+          "penaltyKickShots": "1",
+          "accuratePasses": "517",
+          "totalPasses": "587",
           "passPct": "0.9",
           "accurateCrosses": "1",
-          "totalCrosses": "14",
-          "crossPct": "0.1",
-          "totalLongBalls": "31",
-          "accurateLongBalls": "15",
+          "totalCrosses": "22",
+          "crossPct": "0.0",
+          "totalLongBalls": "49",
+          "accurateLongBalls": "23",
           "longballPct": "0.5",
-          "blockedShots": "1",
-          "effectiveTackles": "6",
-          "totalTackles": "8",
-          "tacklePct": "0.8",
-          "interceptions": "2",
-          "effectiveClearance": "7",
-          "totalClearance": "7"
+          "blockedShots": "3",
+          "effectiveTackles": "14",
+          "totalTackles": "19",
+          "tacklePct": "0.7",
+          "interceptions": "4",
+          "effectiveClearance": "19",
+          "totalClearance": "19"
         },
         "away": {
-          "foulsCommitted": "9",
-          "yellowCards": "0",
-          "redCards": "0",
+          "foulsCommitted": "18",
+          "yellowCards": "2",
+          "redCards": "1",
           "offsides": "1",
-          "wonCorners": "2",
-          "saves": "1",
-          "possessionPct": "31",
-          "totalShots": "3",
-          "shotsOnTarget": "1",
-          "shotPct": "0.3",
+          "wonCorners": "3",
+          "saves": "3",
+          "possessionPct": "37.7",
+          "totalShots": "5",
+          "shotsOnTarget": "3",
+          "shotPct": "0.6",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "117",
-          "totalPasses": "153",
+          "accuratePasses": "285",
+          "totalPasses": "353",
           "passPct": "0.8",
           "accurateCrosses": "1",
-          "totalCrosses": "7",
+          "totalCrosses": "12",
           "crossPct": "0.0",
-          "totalLongBalls": "25",
-          "accurateLongBalls": "5",
-          "longballPct": "0.2",
+          "totalLongBalls": "48",
+          "accurateLongBalls": "12",
+          "longballPct": "0.3",
           "blockedShots": "1",
-          "effectiveTackles": "0",
-          "totalTackles": "5",
-          "tacklePct": "0.0",
-          "interceptions": "5",
-          "effectiveClearance": "22",
-          "totalClearance": "22"
+          "effectiveTackles": "3",
+          "totalTackles": "13",
+          "tacklePct": "0.2",
+          "interceptions": "12",
+          "effectiveClearance": "35",
+          "totalClearance": "35"
         }
       },
-      "events": [],
+      "events": [
+        {
+          "kind": "Yellow Card",
+          "min": "59'",
+          "side": "away",
+          "player": "Amar Dedic"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "61'",
+          "side": "away",
+          "player": "Edin Dzeko"
+        },
+        {
+          "kind": "Substitution",
+          "min": "63'",
+          "side": "away",
+          "player": "Substitution, Bosnia and Herzegovina. Ivan Basic replaces Benjamin Tahirovic."
+        },
+        {
+          "kind": "Substitution",
+          "min": "64'",
+          "side": "away",
+          "player": "Substitution, Bosnia and Herzegovina. Esmir Bajraktarevic replaces Edin Dzeko."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "65'",
+          "side": "home",
+          "player": "Nico Elvedi"
+        },
+        {
+          "kind": "Substitution",
+          "min": "71'",
+          "side": "home",
+          "player": "Substitution, Switzerland. Djibril Sow replaces Michel Aebischer."
+        },
+        {
+          "kind": "Substitution",
+          "min": "71'",
+          "side": "home",
+          "player": "Substitution, Switzerland. Johan Manzambi replaces Dan Ndoye."
+        },
+        {
+          "kind": "Substitution",
+          "min": "71'",
+          "side": "home",
+          "player": "Substitution, Switzerland. Rubén Vargas replaces Fabian Rieder."
+        },
+        {
+          "kind": "Goal",
+          "min": "74'",
+          "side": "home",
+          "player": "Goal! Switzerland 1, Bosnia and Herzegovina 0. Johan Manzambi"
+        },
+        {
+          "kind": "Red Card",
+          "min": "80'",
+          "side": "away",
+          "player": "Tarik Muharemovic"
+        },
+        {
+          "kind": "Goal",
+          "min": "84'",
+          "side": "home",
+          "player": "Goal! Switzerland 2, Bosnia and Herzegovina 0. Rubén Vargas"
+        },
+        {
+          "kind": "Substitution",
+          "min": "86'",
+          "side": "away",
+          "player": "Substitution, Bosnia and Herzegovina. Jovo Lukic replaces Ermedin Demirovic."
+        },
+        {
+          "kind": "Substitution",
+          "min": "86'",
+          "side": "away",
+          "player": "Substitution, Bosnia and Herzegovina. Amir Hadziahmetovic replaces Ivan Sunjic."
+        },
+        {
+          "kind": "Substitution",
+          "min": "86'",
+          "side": "home",
+          "player": "Substitution, Switzerland. Luca Jaquez replaces Silvan Widmer."
+        },
+        {
+          "kind": "Substitution",
+          "min": "89'",
+          "side": "home",
+          "player": "Substitution, Switzerland. Cedric Itten replaces Breel Embolo."
+        },
+        {
+          "kind": "Goal",
+          "min": "90'",
+          "side": "home",
+          "player": "Goal! Switzerland 3, Bosnia and Herzegovina 0. Johan Manzambi"
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'+1'",
+          "side": "away",
+          "player": "Substitution, Bosnia and Herzegovina. Ermin Mahmic replaces Kerim Alajbegovic."
+        },
+        {
+          "kind": "Goal",
+          "min": "90'+3'",
+          "side": "away",
+          "player": "Goal! Switzerland 3, Bosnia and Herzegovina 1. Ermin Mahmic"
+        },
+        {
+          "kind": "Penalty - Scored",
+          "min": "90'+7'",
+          "side": "home",
+          "player": "Goal! Switzerland 4, Bosnia and Herzegovina 1. Granit Xhaka"
+        }
+      ],
       "lineups": {
         "home": [
           {
@@ -23043,223 +23158,820 @@
       },
       "commentary": [
         {
-          "min": "45'+4'",
-          "text": "First Half ends, Switzerland 0, Bosnia and Herzegovina 0.",
+          "min": "",
+          "text": "Match ends, Switzerland 4, Bosnia and Herzegovina 1.",
           "goal": false
         },
         {
-          "min": "45'+3'",
-          "text": "Handball by Ermedin Demirovic (Bosnia and Herzegovina).",
+          "min": "90'+8'",
+          "text": "Second Half ends, Switzerland 4, Bosnia and Herzegovina 1.",
           "goal": false
         },
         {
-          "min": "45'+2'",
-          "text": "Offside, Bosnia and Herzegovina. Ermedin Demirovic is caught offside.",
+          "min": "90'+7'",
+          "text": "Goal! Switzerland 4, Bosnia and Herzegovina 1. Granit Xhaka (Switzerland) converts the penalty with a left footed shot to the bottom right corner.",
           "goal": false
         },
         {
-          "min": "45'",
-          "text": "Fourth official has announced 3 minutes of added time.",
+          "min": "90'+6'",
+          "text": "Penalty Switzerland. Djibril Sow draws a foul in the penalty area.",
           "goal": false
         },
         {
-          "min": "45'",
-          "text": "Michel Aebischer (Switzerland) wins a free kick in the defensive half.",
+          "min": "90'+6'",
+          "text": "Penalty conceded by Amar Memic (Bosnia and Herzegovina) after a foul in the penalty area.",
           "goal": false
         },
         {
-          "min": "45'",
-          "text": "Foul by Benjamin Tahirovic (Bosnia and Herzegovina).",
+          "min": "90'+5'",
+          "text": "Cedric Itten (Switzerland) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "44'",
-          "text": "Corner, Bosnia and Herzegovina. Conceded by Silvan Widmer.",
-          "goal": false
-        },
-        {
-          "min": "41'",
-          "text": "Attempt blocked. Edin Dzeko (Bosnia and Herzegovina) left footed shot from the centre of the box is blocked. Assisted by Kerim Alajbegovic.",
-          "goal": false
-        },
-        {
-          "min": "39'",
-          "text": "Delay over. They are ready to continue.",
-          "goal": false
-        },
-        {
-          "min": "39'",
-          "text": "Delay in match (Switzerland).",
-          "goal": false
-        },
-        {
-          "min": "38'",
-          "text": "Attempt saved. Amar Memic (Bosnia and Herzegovina) right footed shot from outside the box is saved in the bottom left corner by Gregor Kobel (Switzerland). Assisted by Kerim Alajbegovic.",
-          "goal": false
-        },
-        {
-          "min": "36'",
-          "text": "Corner, Switzerland. Conceded by Nikola Katic.",
-          "goal": false
-        },
-        {
-          "min": "30'",
-          "text": "Foul by Silvan Widmer (Switzerland).",
-          "goal": false
-        },
-        {
-          "min": "30'",
-          "text": "Amar Memic (Bosnia and Herzegovina) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "30'",
-          "text": "Fabian Rieder (Switzerland) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "30'",
-          "text": "Foul by Benjamin Tahirovic (Bosnia and Herzegovina).",
-          "goal": false
-        },
-        {
-          "min": "28'",
-          "text": "Breel Embolo (Switzerland) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "28'",
+          "min": "90'+5'",
           "text": "Foul by Sead Kolasinac (Bosnia and Herzegovina).",
           "goal": false
         },
         {
-          "min": "25'",
-          "text": "Delay over. They are ready to continue.",
+          "min": "90'+3'",
+          "text": "Goal! Switzerland 3, Bosnia and Herzegovina 1. Ermin Mahmic (Bosnia and Herzegovina) right footed shot from the centre of the box to the high centre of the goal following a corner.",
+          "goal": true
+        },
+        {
+          "min": "90'+2'",
+          "text": "Corner, Bosnia and Herzegovina. Conceded by Luca Jaquez.",
           "goal": false
         },
         {
-          "min": "23'",
-          "text": "Delay in match for a drinks break.",
+          "min": "91'+1'",
+          "text": "Fourth official has announced 6 minutes of added time.",
           "goal": false
         },
         {
-          "min": "23'",
-          "text": "Attempt missed. Remo Freuler (Switzerland) right footed shot from outside the box is close, but misses to the left. Assisted by Dan Ndoye.",
+          "min": "90'+1'",
+          "text": "Substitution, Bosnia and Herzegovina. Ermin Mahmic replaces Kerim Alajbegovic.",
           "goal": false
         },
         {
-          "min": "20'",
-          "text": "Attempt saved. Dan Ndoye (Switzerland) right footed shot from outside the box is saved in the centre of the goal by Nikola Vasilj (Bosnia and Herzegovina). Assisted by Breel Embolo.",
+          "min": "90'",
+          "text": "Goal! Switzerland 3, Bosnia and Herzegovina 0. Johan Manzambi (Switzerland) right footed shot from the centre of the box to the centre of the goal. Assisted by Rubén Vargas.",
+          "goal": true
+        },
+        {
+          "min": "89'",
+          "text": "Substitution, Switzerland. Cedric Itten replaces Breel Embolo.",
           "goal": false
         },
         {
-          "min": "17'",
-          "text": "Granit Xhaka (Switzerland) wins a free kick in the defensive half.",
+          "min": "86'",
+          "text": "Substitution, Switzerland. Luca Jaquez replaces Silvan Widmer.",
           "goal": false
         },
         {
-          "min": "17'",
-          "text": "Foul by Amar Memic (Bosnia and Herzegovina).",
+          "min": "86'",
+          "text": "Substitution, Bosnia and Herzegovina. Amir Hadziahmetovic replaces Ivan Sunjic.",
           "goal": false
         },
         {
-          "min": "16'",
-          "text": "Foul by Dan Ndoye (Switzerland).",
+          "min": "86'",
+          "text": "Substitution, Bosnia and Herzegovina. Jovo Lukic replaces Ermedin Demirovic.",
           "goal": false
         },
         {
-          "min": "16'",
-          "text": "Amar Dedic (Bosnia and Herzegovina) wins a free kick in the defensive half.",
-          "goal": false
+          "min": "84'",
+          "text": "Goal! Switzerland 2, Bosnia and Herzegovina 0. Rubén Vargas (Switzerland) right footed shot from the centre of the box to the bottom right corner. Assisted by Breel Embolo.",
+          "goal": true
         },
         {
-          "min": "14'",
-          "text": "Breel Embolo (Switzerland) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "14'",
-          "text": "Foul by Tarik Muharemovic (Bosnia and Herzegovina).",
-          "goal": false
-        },
-        {
-          "min": "11'",
-          "text": "Offside, Switzerland. Breel Embolo is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "10'",
-          "text": "Attempt missed. Dan Ndoye (Switzerland) left footed shot from the left side of the box is close, but misses to the left. Assisted by Granit Xhaka.",
-          "goal": false
-        },
-        {
-          "min": "9'",
-          "text": "Handball by Amar Dedic (Bosnia and Herzegovina).",
-          "goal": false
-        },
-        {
-          "min": "8'",
+          "min": "82'",
           "text": "Corner, Switzerland. Conceded by Nikola Katic.",
           "goal": false
         },
         {
-          "min": "8'",
-          "text": "Attempt blocked. Granit Xhaka (Switzerland) left footed shot from outside the box is blocked. Assisted by Nico Elvedi.",
+          "min": "81'",
+          "text": "Attempt saved. Rubén Vargas (Switzerland) right footed shot from outside the box is saved in the top right corner by Nikola Vasilj (Bosnia and Herzegovina).",
           "goal": false
         },
         {
-          "min": "7'",
+          "min": "80'",
+          "text": "Tarik Muharemovic (Bosnia and Herzegovina) is shown the red card.",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Breel Embolo (Switzerland) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Foul by Tarik Muharemovic (Bosnia and Herzegovina).",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Foul by Ricardo Rodríguez (Switzerland).",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Amar Dedic (Bosnia and Herzegovina) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Goal! Switzerland 1, Bosnia and Herzegovina 0. Johan Manzambi (Switzerland) right footed shot from the centre of the box to the top right corner.",
+          "goal": true
+        },
+        {
+          "min": "73'",
+          "text": "Manuel Akanji (Switzerland) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Foul by Amar Dedic (Bosnia and Herzegovina).",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Substitution, Switzerland. Rubén Vargas replaces Fabian Rieder.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Substitution, Switzerland. Johan Manzambi replaces Dan Ndoye.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Substitution, Switzerland. Djibril Sow replaces Michel Aebischer.",
+          "goal": false
+        },
+        {
+          "min": "69'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Attempt saved. Amar Dedic (Bosnia and Herzegovina) right footed shot from outside the box is saved in the bottom left corner by Gregor Kobel (Switzerland). Assisted by Ivan Basic.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Nico Elvedi (Switzerland) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Foul by Nico Elvedi (Switzerland).",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Sead Kolasinac (Bosnia and Herzegovina) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Substitution, Bosnia and Herzegovina. Esmir Bajraktarevic replaces Edin Dzeko.",
+          "goal": false
+        },
+        {
+          "min": "63'",
+          "text": "Substitution, Bosnia and Herzegovina. Ivan Basic replaces Benjamin Tahirovic.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Foul by Breel Embolo (Switzerland).",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Edin Dzeko (Bosnia and Herzegovina) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Attempt blocked. Breel Embolo (Switzerland) header from the left side of the six yard box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Corner, Switzerland. Conceded by Amar Dedic.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Breel Embolo (Switzerland) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Foul by Tarik Muharemovic (Bosnia and Herzegovina).",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Edin Dzeko (Bosnia and Herzegovina) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Manuel Akanji (Switzerland) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Foul by Edin Dzeko (Bosnia and Herzegovina).",
+          "goal": false
+        },
+        {
+          "min": "59'",
+          "text": "Amar Dedic (Bosnia and Herzegovina) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "59'",
+          "text": "Dan Ndoye (Switzerland) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "59'",
+          "text": "Foul by Amar Dedic (Bosnia and Herzegovina).",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "VAR Decision: Other Decision Cancelled.",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Offside, Switzerland. Dan Ndoye is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "55'",
+          "text": "Corner, Switzerland. Conceded by Nikola Katic.",
+          "goal": false
+        },
+        {
+          "min": "55'",
+          "text": "Attempt blocked. Dan Ndoye (Switzerland) right footed shot from the left side of the box is blocked. Assisted by Michel Aebischer.",
+          "goal": false
+        },
+        {
+          "min": "53'",
+          "text": "Attempt missed. Michel Aebischer (Switzerland) header from the centre of the box misses to the right. Assisted by Remo Freuler.",
+          "goal": false
+        },
+        {
+          "min": "52'",
           "text": "Nico Elvedi (Switzerland) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "7'",
-          "text": "Foul by Benjamin Tahirovic (Bosnia and Herzegovina).",
+          "min": "52'",
+          "text": "Foul by Kerim Alajbegovic (Bosnia and Herzegovina).",
           "goal": false
         },
         {
-          "min": "7'",
-          "text": "Corner, Switzerland. Conceded by Edin Dzeko.",
+          "min": "51'",
+          "text": "Attempt saved. Dan Ndoye (Switzerland) right footed shot from the left side of the box is saved in the bottom left corner by Nikola Vasilj (Bosnia and Herzegovina). Assisted by Manuel Akanji.",
           "goal": false
         },
         {
-          "min": "6'",
-          "text": "Corner, Switzerland. Conceded by Tarik Muharemovic.",
+          "min": "51'",
+          "text": "Fabian Rieder (Switzerland) wins a free kick in the attacking half.",
           "goal": false
         },
         {
-          "min": "5'",
-          "text": "Offside, Switzerland. Breel Embolo is caught offside.",
+          "min": "51'",
+          "text": "Foul by Ivan Sunjic (Bosnia and Herzegovina).",
           "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "D. Ndoye",
+            "num": "11",
+            "pos": "F",
+            "value": "4"
+          },
+          "away": {
+            "name": "E. Dzeko",
+            "num": "11",
+            "pos": "F",
+            "value": "2"
+          }
         },
         {
-          "min": "2'",
-          "text": "Foul by Nikola Katic (Bosnia and Herzegovina).",
-          "goal": false
+          "label": "Accurate Passes",
+          "home": {
+            "name": "G. Xhaka",
+            "num": "10",
+            "pos": "M",
+            "value": "95"
+          },
+          "away": {
+            "name": "S. Kolasinac",
+            "num": "5",
+            "pos": "D",
+            "value": "40"
+          }
         },
         {
-          "min": "2'",
-          "text": "Dan Ndoye (Switzerland) wins a free kick in the defensive half.",
-          "goal": false
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "M. Akanji",
+            "num": "5",
+            "pos": "D",
+            "value": "12"
+          },
+          "away": {
+            "name": "A. Dedic",
+            "num": "7",
+            "pos": "D",
+            "value": "14"
+          }
         },
         {
-          "min": "2'",
-          "text": "Attempt missed. Edin Dzeko (Bosnia and Herzegovina) left footed shot from the centre of the box misses to the left following a corner.",
-          "goal": false
+          "label": "Saves",
+          "home": {
+            "name": "G. Kobel",
+            "num": "1",
+            "pos": "G",
+            "value": "2"
+          },
+          "away": {
+            "name": "N. Vasilj",
+            "num": "1",
+            "pos": "G",
+            "value": "3"
+          }
+        }
+      ],
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0618/dm_260618_COM_SOC_ANALYSIS_Robson_The_subs_changed_the_game_for_Switzerland_2026_6_18/dm_260618_COM_SOC_ANALYSIS_Robson_The_subs_changed_the_game_for_Switzerland_2026_6_18.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49111433/subs-changed-game-switzerland",
+        "headline": "Robson: The subs changed the game for Switzerland",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0618/dm_260618_COM_SOC_ANALYSIS_Robson_The_subs_changed_the_game_for_Switzerland_2026_6_18/dm_260618_COM_SOC_ANALYSIS_Robson_The_subs_changed_the_game_for_Switzerland_2026_6_18_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0618/dm_260618_COM_SOC_ANALYSIS_Robson_The_subs_changed_the_game_for_Switzerland_2026_6_18/dm_260618_COM_SOC_ANALYSIS_Robson_The_subs_changed_the_game_for_Switzerland_2026_6_18/playlist.m3u8"
+      },
+      "final": true,
+      "dv": 5
+    },
+    "760440": {
+      "venue": "BC Place",
+      "stats": {
+        "home": {
+          "foulsCommitted": "0",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "0",
+          "saves": "0",
+          "possessionPct": "66.7",
+          "totalShots": "0",
+          "shotsOnTarget": "0",
+          "shotPct": "0.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "14",
+          "totalPasses": "14",
+          "passPct": "1.0",
+          "accurateCrosses": "0",
+          "totalCrosses": "0",
+          "crossPct": "0.0",
+          "totalLongBalls": "0",
+          "accurateLongBalls": "0",
+          "longballPct": "0.0",
+          "blockedShots": "0",
+          "effectiveTackles": "0",
+          "totalTackles": "0",
+          "tacklePct": "0.0",
+          "interceptions": "0",
+          "effectiveClearance": "0",
+          "totalClearance": "0"
         },
-        {
-          "min": "2'",
-          "text": "Corner, Bosnia and Herzegovina. Conceded by Silvan Widmer.",
-          "goal": false
-        },
+        "away": {
+          "foulsCommitted": "0",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "0",
+          "saves": "0",
+          "possessionPct": "33.3",
+          "totalShots": "1",
+          "shotsOnTarget": "0",
+          "shotPct": "0.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "3",
+          "totalPasses": "6",
+          "passPct": "0.5",
+          "accurateCrosses": "1",
+          "totalCrosses": "1",
+          "crossPct": "1.0",
+          "totalLongBalls": "2",
+          "accurateLongBalls": "0",
+          "longballPct": "0.0",
+          "blockedShots": "0",
+          "effectiveTackles": "0",
+          "totalTackles": "1",
+          "tacklePct": "0.0",
+          "interceptions": "0",
+          "effectiveClearance": "0",
+          "totalClearance": "0"
+        }
+      },
+      "events": [],
+      "lineups": {
+        "home": [
+          {
+            "name": "Maxime Crépeau",
+            "short": "M. Crépeau",
+            "num": "16",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Derek Cornelius",
+            "short": "D. Cornelius",
+            "num": "13",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Luc de Fougerolles",
+            "short": "L. de Fougerolles",
+            "num": "4",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Richie Laryea",
+            "short": "R. Laryea",
+            "num": "22",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Alistair Johnston",
+            "short": "A. Johnston",
+            "num": "2",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Ismaël Koné",
+            "short": "I. Koné",
+            "num": "8",
+            "pos": "CM-L",
+            "place": "8"
+          },
+          {
+            "name": "Stephen Eustáquio",
+            "short": "S. Eustáquio",
+            "num": "7",
+            "pos": "CM-R",
+            "place": "4"
+          },
+          {
+            "name": "Ali Ahmed",
+            "short": "A. Ahmed",
+            "num": "20",
+            "pos": "LM",
+            "place": "11"
+          },
+          {
+            "name": "Tajon Buchanan",
+            "short": "T. Buchanan",
+            "num": "17",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Cyle Larin",
+            "short": "C. Larin",
+            "num": "9",
+            "pos": "CF-L",
+            "place": "9"
+          },
+          {
+            "name": "Jonathan David",
+            "short": "J. David",
+            "num": "10",
+            "pos": "CF-R",
+            "place": "10"
+          }
+        ],
+        "away": [
+          {
+            "name": "Mahmoud Abunada",
+            "short": "M. Abunada",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Boualem Khoukhi",
+            "short": "B. Khoukhi",
+            "num": "16",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Pedro Miguel",
+            "short": "P. Miguel",
+            "num": "2",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Homam Ahmed",
+            "short": "H. Ahmed",
+            "num": "14",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Ayoub Al-Oui",
+            "short": "A. Al-Oui",
+            "num": "13",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Assim Madibo",
+            "short": "A. Madibo",
+            "num": "23",
+            "pos": "CM",
+            "place": "4"
+          },
+          {
+            "name": "Issa Laye",
+            "short": "I. Laye",
+            "num": "4",
+            "pos": "LM",
+            "place": "8"
+          },
+          {
+            "name": "Jassem Gaber",
+            "short": "J. Gaber",
+            "num": "5",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Yusuf Abdurisag",
+            "short": "Y. Abdurisag",
+            "num": "15",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Akram Afif",
+            "short": "A. Afif",
+            "num": "11",
+            "pos": "LF",
+            "place": "11"
+          },
+          {
+            "name": "Edmílson Junior",
+            "short": "Edmílson Junior",
+            "num": "8",
+            "pos": "RF",
+            "place": "10"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Jonathan Osorio",
+            "short": "J. Osorio",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Tani Oluwaseyi",
+            "short": "T. Oluwaseyi",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jayden Nelson",
+            "short": "J. Nelson",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Dayne St. Clair",
+            "short": "D. St. Clair",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Promise David",
+            "short": "P. David",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mathieu Choinière",
+            "short": "M. Choinière",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Joel Waterman",
+            "short": "J. Waterman",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Niko Sigur",
+            "short": "N. Sigur",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Moïse Bombito",
+            "short": "M. Bombito",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Liam Millar",
+            "short": "L. Millar",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Alphonso Davies",
+            "short": "A. Davies",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Owen Goodman",
+            "short": "O. Goodman",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jacob Shaffelburg",
+            "short": "J. Shaffelburg",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nathan Saliba",
+            "short": "N. Saliba",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Hassan Al-Haydos",
+            "short": "H. Al-Haydos",
+            "num": "10",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Tahsin Jamshid",
+            "short": "T. Jamshid",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mohamed Manai",
+            "short": "M. Manai",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Almoez Ali",
+            "short": "A. Ali",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mohammed Muntari",
+            "short": "M. Muntari",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Lucas Mendes",
+            "short": "L. Mendes",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Meshaal Barsham",
+            "short": "M. Barsham",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Sultan Al-Brake",
+            "short": "S. Al-Brake",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Al-Hashmi Al-Hussain",
+            "short": "A. Al-Hussain",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ahmed Fathy",
+            "short": "A. Fathy",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ahmed Al-Ganehi",
+            "short": "A. Al-Ganehi",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Salah Zakaria",
+            "short": "S. Zakaria",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ahmed Alaaeldin",
+            "short": "A. Alaaeldin",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Karim Boudiaf",
+            "short": "K. Boudiaf",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Abdulaziz Hatem",
+            "short": "A. Hatem",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-4-2",
+        "away": "4-3-3"
+      },
+      "commentary": [
         {
           "min": "1'",
-          "text": "Kerim Alajbegovic (Bosnia and Herzegovina) wins a free kick on the left wing.",
-          "goal": false
-        },
-        {
-          "min": "1'",
-          "text": "Foul by Michel Aebischer (Switzerland).",
+          "text": "Attempt missed. Edmílson Junior (Qatar) right footed shot from the right side of the box misses to the right. Assisted by Homam El Amin with a cross.",
           "goal": false
         },
         {
@@ -23275,62 +23987,26 @@
       ],
       "leaders": [
         {
-          "label": "Total Shots",
-          "home": {
-            "name": "D. Ndoye",
-            "num": "11",
-            "pos": "F",
-            "value": "2"
-          },
-          "away": {
-            "name": "E. Dzeko",
-            "num": "11",
-            "pos": "F",
-            "value": "2"
-          }
-        },
-        {
           "label": "Accurate Passes",
           "home": {
-            "name": "G. Xhaka",
-            "num": "10",
+            "name": "L. de Fougerolles",
+            "num": "4",
+            "pos": "D",
+            "value": "3"
+          },
+          "away": {
+            "name": "A. Madibo",
+            "num": "23",
             "pos": "M",
-            "value": "59"
-          },
-          "away": {
-            "name": "T. Muharemovic",
-            "num": "4",
-            "pos": "D",
-            "value": "17"
-          }
-        },
-        {
-          "label": "Defensive Interventions",
-          "home": {
-            "name": "G. Kobel",
-            "num": "1",
-            "pos": "G",
-            "value": "4"
-          },
-          "away": {
-            "name": "T. Muharemovic",
-            "num": "4",
-            "pos": "D",
-            "value": "8"
-          }
-        },
-        {
-          "label": "Saves",
-          "home": {
-            "name": "G. Kobel",
-            "num": "1",
-            "pos": "G",
             "value": "1"
-          },
+          }
+        },
+        {
+          "label": "Total Shots",
           "away": {
-            "name": "N. Vasilj",
-            "num": "1",
-            "pos": "G",
+            "name": "Edmílson Junior",
+            "num": "8",
+            "pos": "F",
             "value": "1"
           }
         }

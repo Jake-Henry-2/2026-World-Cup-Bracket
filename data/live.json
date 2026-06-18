@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-18T19:53:41.417Z",
+  "lastUpdated": "2026-06-18T22:03:41.358Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -281,16 +281,12 @@
       "stage": "group",
       "home": "Switzerland",
       "away": "Bosnia and Herzegovina",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "live",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "finished",
       "id": "760439",
       "date": "2026-06-18T19:00Z",
-      "venue": "SoFi Stadium",
-      "clock": 2700,
-      "displayClock": "45'+3'",
-      "detail": "HT",
-      "period": 1
+      "venue": "SoFi Stadium"
     },
     {
       "stage": "group",
@@ -298,10 +294,14 @@
       "away": "Qatar",
       "homeScore": 0,
       "awayScore": 0,
-      "status": "scheduled",
+      "status": "live",
       "id": "760440",
       "date": "2026-06-18T22:00Z",
-      "venue": "BC Place"
+      "venue": "BC Place",
+      "clock": 120,
+      "displayClock": "2'",
+      "detail": "2'",
+      "period": 1
     },
     {
       "stage": "group",

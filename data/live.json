@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-18T22:03:41.358Z",
+  "lastUpdated": "2026-06-18T23:58:00.642Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -292,16 +292,16 @@
       "stage": "group",
       "home": "Canada",
       "away": "Qatar",
-      "homeScore": 0,
+      "homeScore": 6,
       "awayScore": 0,
       "status": "live",
       "id": "760440",
       "date": "2026-06-18T22:00Z",
       "venue": "BC Place",
-      "clock": 120,
-      "displayClock": "2'",
-      "detail": "2'",
-      "period": 1
+      "clock": 5400,
+      "displayClock": "90'+6'",
+      "detail": "90'+6'",
+      "period": 2
     },
     {
       "stage": "group",

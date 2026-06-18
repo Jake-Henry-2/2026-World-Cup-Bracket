@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-18T22:03:41.506Z",
+  "lastUpdated": "2026-06-18T23:58:00.697Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -23534,67 +23534,188 @@
       "venue": "BC Place",
       "stats": {
         "home": {
-          "foulsCommitted": "0",
-          "yellowCards": "0",
+          "foulsCommitted": "7",
+          "yellowCards": "1",
           "redCards": "0",
-          "offsides": "0",
-          "wonCorners": "0",
+          "offsides": "1",
+          "wonCorners": "16",
           "saves": "0",
-          "possessionPct": "66.7",
-          "totalShots": "0",
-          "shotsOnTarget": "0",
-          "shotPct": "0.0",
+          "possessionPct": "78",
+          "totalShots": "29",
+          "shotsOnTarget": "10",
+          "shotPct": "0.3",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "14",
-          "totalPasses": "14",
-          "passPct": "1.0",
-          "accurateCrosses": "0",
-          "totalCrosses": "0",
-          "crossPct": "0.0",
-          "totalLongBalls": "0",
-          "accurateLongBalls": "0",
-          "longballPct": "0.0",
-          "blockedShots": "0",
-          "effectiveTackles": "0",
-          "totalTackles": "0",
-          "tacklePct": "0.0",
-          "interceptions": "0",
-          "effectiveClearance": "0",
-          "totalClearance": "0"
+          "accuratePasses": "482",
+          "totalPasses": "533",
+          "passPct": "0.9",
+          "accurateCrosses": "11",
+          "totalCrosses": "51",
+          "crossPct": "0.2",
+          "totalLongBalls": "16",
+          "accurateLongBalls": "10",
+          "longballPct": "0.6",
+          "blockedShots": "13",
+          "effectiveTackles": "5",
+          "totalTackles": "9",
+          "tacklePct": "0.6",
+          "interceptions": "6",
+          "effectiveClearance": "3",
+          "totalClearance": "3"
         },
         "away": {
-          "foulsCommitted": "0",
-          "yellowCards": "0",
-          "redCards": "0",
+          "foulsCommitted": "10",
+          "yellowCards": "1",
+          "redCards": "2",
           "offsides": "0",
-          "wonCorners": "0",
-          "saves": "0",
-          "possessionPct": "33.3",
-          "totalShots": "1",
+          "wonCorners": "1",
+          "saves": "4",
+          "possessionPct": "22",
+          "totalShots": "2",
           "shotsOnTarget": "0",
           "shotPct": "0.0",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "3",
-          "totalPasses": "6",
-          "passPct": "0.5",
+          "accuratePasses": "103",
+          "totalPasses": "161",
+          "passPct": "0.6",
           "accurateCrosses": "1",
-          "totalCrosses": "1",
-          "crossPct": "1.0",
-          "totalLongBalls": "2",
-          "accurateLongBalls": "0",
-          "longballPct": "0.0",
-          "blockedShots": "0",
-          "effectiveTackles": "0",
-          "totalTackles": "1",
-          "tacklePct": "0.0",
-          "interceptions": "0",
-          "effectiveClearance": "0",
-          "totalClearance": "0"
+          "totalCrosses": "3",
+          "crossPct": "0.3",
+          "totalLongBalls": "51",
+          "accurateLongBalls": "16",
+          "longballPct": "0.3",
+          "blockedShots": "1",
+          "effectiveTackles": "8",
+          "totalTackles": "13",
+          "tacklePct": "0.6",
+          "interceptions": "11",
+          "effectiveClearance": "53",
+          "totalClearance": "53"
         }
       },
-      "events": [],
+      "events": [
+        {
+          "kind": "Yellow Card",
+          "min": "9'",
+          "side": "home",
+          "player": "Derek Cornelius"
+        },
+        {
+          "kind": "Goal",
+          "min": "16'",
+          "side": "home",
+          "player": "Goal! Canada 1, Qatar 0. Cyle Larin"
+        },
+        {
+          "kind": "Goal",
+          "min": "29'",
+          "side": "home",
+          "player": "Goal! Canada 2, Qatar 0. Jonathan David"
+        },
+        {
+          "kind": "Red Card",
+          "min": "33'",
+          "side": "away",
+          "player": "Homam El Amin"
+        },
+        {
+          "kind": "Substitution",
+          "min": "40'",
+          "side": "away",
+          "player": "Substitution, Qatar. Sultan Al Brake replaces Yusuf Abdurisag."
+        },
+        {
+          "kind": "Goal",
+          "min": "45'+3'",
+          "side": "home",
+          "player": "Goal! Canada 3, Qatar 0. Jonathan David"
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "away",
+          "player": "Substitution, Qatar. Ahmed Fathy replaces Edmílson Junior."
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "away",
+          "player": "Substitution, Qatar. Mohammad Al Manai replaces Jassem Gaber."
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "home",
+          "player": "Substitution, Canada. Moïse Bombito replaces Derek Cornelius."
+        },
+        {
+          "kind": "Red Card",
+          "min": "53'",
+          "side": "away",
+          "player": "Assim Madibo"
+        },
+        {
+          "kind": "Substitution",
+          "min": "57'",
+          "side": "home",
+          "player": "Substitution, Canada. Nathan Saliba replaces Ismaël Koné because of an injury."
+        },
+        {
+          "kind": "Substitution",
+          "min": "59'",
+          "side": "away",
+          "player": "Substitution, Qatar. Al Hashmi Al Hussain replaces Akram Afif."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "62'",
+          "side": "away",
+          "player": "Ahmed Fathy"
+        },
+        {
+          "kind": "Goal - Free-kick",
+          "min": "64'",
+          "side": "home",
+          "player": "Goal! Canada 4, Qatar 0. Nathan Saliba"
+        },
+        {
+          "kind": "Substitution",
+          "min": "71'",
+          "side": "home",
+          "player": "Substitution, Canada. Jacob Shaffelburg replaces Luc De Fougerolles."
+        },
+        {
+          "kind": "Substitution",
+          "min": "71'",
+          "side": "home",
+          "player": "Substitution, Canada. Tani Oluwaseyi replaces Ali Ahmed."
+        },
+        {
+          "kind": "Own Goal",
+          "min": "75'",
+          "side": "home",
+          "player": "Own Goal by Mohammad Al Manai, Qatar. Canada 5, Qatar 0."
+        },
+        {
+          "kind": "Substitution",
+          "min": "83'",
+          "side": "home",
+          "player": "Substitution, Canada. Niko Sigur replaces Tajon Buchanan."
+        },
+        {
+          "kind": "Substitution",
+          "min": "87'",
+          "side": "away",
+          "player": "Substitution, Qatar. Lucas Mendes replaces Ahmed Fathy."
+        },
+        {
+          "kind": "Goal",
+          "min": "90'+2'",
+          "side": "home",
+          "player": "Goal! Canada 6, Qatar 0. Jonathan David"
+        }
+      ],
       "lineups": {
         "home": [
           {
@@ -23633,16 +23754,16 @@
             "place": "2"
           },
           {
-            "name": "Ismaël Koné",
-            "short": "I. Koné",
-            "num": "8",
+            "name": "Stephen Eustáquio",
+            "short": "S. Eustáquio",
+            "num": "7",
             "pos": "CM-L",
             "place": "8"
           },
           {
-            "name": "Stephen Eustáquio",
-            "short": "S. Eustáquio",
-            "num": "7",
+            "name": "Ismaël Koné",
+            "short": "I. Koné",
+            "num": "8",
             "pos": "CM-R",
             "place": "4"
           },
@@ -23970,48 +24091,369 @@
       },
       "commentary": [
         {
-          "min": "1'",
-          "text": "Attempt missed. Edmílson Junior (Qatar) right footed shot from the right side of the box misses to the right. Assisted by Homam El Amin with a cross.",
+          "min": "90'+6'",
+          "text": "Foul by Cyle Larin (Canada).",
           "goal": false
         },
         {
-          "min": "",
-          "text": "First Half begins.",
+          "min": "90'+6'",
+          "text": "Pedro Miguel (Qatar) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "",
-          "text": "Lineups are announced and players are warming up.",
+          "min": "90'+5'",
+          "text": "Corner, Canada. Conceded by Sultan Al Brake.",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Corner, Canada. Conceded by Boualem Khoukhi.",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Attempt blocked. Cyle Larin (Canada) header from very close range is blocked. Assisted by Alistair Johnston with a cross.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Richie Laryea (Canada) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Foul by Al Hashmi Al Hussain (Qatar).",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Goal! Canada 6, Qatar 0. Jonathan David (Canada) left footed shot from the centre of the box to the top left corner. Assisted by Nathan Saliba.",
+          "goal": true
+        },
+        {
+          "min": "90'+2'",
+          "text": "Attempt blocked. Nathan Saliba (Canada) right footed shot from outside the box is blocked. Assisted by Jacob Shaffelburg.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Foul by Tani Oluwaseyi (Canada).",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Issa Laye (Qatar) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Fourth official has announced 9 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Foul by Cyle Larin (Canada).",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Boualem Khoukhi (Qatar) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Attempt blocked. Niko Sigur (Canada) right footed shot from outside the box is blocked. Assisted by Richie Laryea.",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Corner, Canada. Conceded by Pedro Miguel.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Foul by Moïse Bombito (Canada).",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Al Hashmi Al Hussain (Qatar) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Substitution, Qatar. Lucas Mendes replaces Ahmed Fathy.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Corner, Canada. Conceded by Ayoub Al Oui.",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Attempt blocked. Jonathan David (Canada) left footed shot from outside the box is blocked. Assisted by Stephen Eustaquio.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Attempt blocked. Tani Oluwaseyi (Canada) left footed shot from the left side of the six yard box is blocked. Assisted by Cyle Larin.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Attempt blocked. Jonathan David (Canada) left footed shot from outside the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Substitution, Canada. Niko Sigur replaces Tajon Buchanan.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Delay in match because of an injury Mahmoud Abunada (Qatar).",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Attempt missed. Jacob Shaffelburg (Canada) left footed shot from a difficult angle on the left is high and wide to the left.",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Attempt missed. Jacob Shaffelburg (Canada) left footed shot from outside the box misses to the right following a corner.",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Corner, Canada. Conceded by Ayoub Al Oui.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Corner, Canada. Conceded by Mahmoud Abunada.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Corner, Canada. Conceded by Ayoub Al Oui.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Corner, Canada. Conceded by Ahmed Fathy.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Attempt blocked. Richie Laryea (Canada) right footed shot from outside the box is blocked. Assisted by Nathan Saliba.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Attempt missed. Tajon Buchanan (Canada) right footed shot from outside the box is too high. Assisted by Alistair Johnston.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Own Goal by Mohammad Al Manai, Qatar. Canada 5, Qatar 0.",
+          "goal": true
+        },
+        {
+          "min": "75'",
+          "text": "Attempt missed. Jacob Shaffelburg (Canada) left footed shot from the centre of the box is close, but misses to the right.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Attempt blocked. Tajon Buchanan (Canada) left footed shot from the right side of the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Corner, Canada. Conceded by Al Hashmi Al Hussain.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Stephen Eustaquio (Canada) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Foul by Mohammad Al Manai (Qatar).",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Substitution, Canada. Tani Oluwaseyi replaces Ali Ahmed.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Substitution, Canada. Jacob Shaffelburg replaces Luc De Fougerolles.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Corner, Canada. Conceded by Ayoub Al Oui.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Delay in match because of an injury Mahmoud Abunada (Qatar).",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Goal! Canada 4, Qatar 0. Nathan Saliba (Canada) from a free kick with a right footed shot to the bottom right corner.",
+          "goal": true
+        },
+        {
+          "min": "62'",
+          "text": "Ahmed Fathy (Qatar) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Ali Ahmed (Canada) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Foul by Ahmed Fathy (Qatar).",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Corner, Canada. Conceded by Sultan Al Brake.",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Corner, Canada. Conceded by Ayoub Al Oui.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Richie Laryea (Canada) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Foul by Al Hashmi Al Hussain (Qatar).",
+          "goal": false
+        },
+        {
+          "min": "59'",
+          "text": "Substitution, Qatar. Al Hashmi Al Hussain replaces Akram Afif.",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Foul by Tajon Buchanan (Canada).",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Ahmed Fathy (Qatar) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Substitution, Canada. Nathan Saliba replaces Ismaël Koné because of an injury.",
+          "goal": false
+        },
+        {
+          "min": "53'",
+          "text": "Assim Madibo (Qatar) is shown the red card.",
           "goal": false
         }
       ],
       "leaders": [
         {
-          "label": "Accurate Passes",
+          "label": "Total Shots",
           "home": {
-            "name": "L. de Fougerolles",
-            "num": "4",
-            "pos": "D",
-            "value": "3"
+            "name": "J. David",
+            "num": "10",
+            "pos": "F",
+            "value": "8"
           },
           "away": {
-            "name": "A. Madibo",
-            "num": "23",
-            "pos": "M",
+            "name": "B. Khoukhi",
+            "num": "16",
+            "pos": "D",
             "value": "1"
           }
         },
         {
-          "label": "Total Shots",
+          "label": "Accurate Passes",
+          "home": {
+            "name": "S. Eustáquio",
+            "num": "7",
+            "pos": "M",
+            "value": "83"
+          },
           "away": {
-            "name": "Edmílson Junior",
-            "num": "8",
-            "pos": "F",
-            "value": "1"
+            "name": "B. Khoukhi",
+            "num": "16",
+            "pos": "D",
+            "value": "18"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "M. Crépeau",
+            "num": "16",
+            "pos": "G",
+            "value": "4"
+          },
+          "away": {
+            "name": "B. Khoukhi",
+            "num": "16",
+            "pos": "D",
+            "value": "19"
+          }
+        },
+        {
+          "label": "Saves",
+          "away": {
+            "name": "M. Abunada",
+            "num": "1",
+            "pos": "G",
+            "value": "4"
           }
         }
       ],
-      "highlight": null,
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0618/dm_260618_COM_SOC_News_Canada_fans_at_Niagara_Falls_celebrate_1st_goal_vs_Qatar__20260618_GLOBAL/dm_260618_COM_SOC_News_Canada_fans_at_Niagara_Falls_celebrate_1st_goal_vs_Qatar__20260618_GLOBAL.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49112043/canada-fans-niagara-falls-celebrate-1st-goal-vs-qatar",
+        "headline": "Canada fans at Niagara Falls celebrate 1st goal vs. Qatar",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0618/dm_260618_COM_SOC_News_Canada_fans_at_Niagara_Falls_celebrate_1st_goal_vs_Qatar__20260618_GLOBAL/dm_260618_COM_SOC_News_Canada_fans_at_Niagara_Falls_celebrate_1st_goal_vs_Qatar__20260618_GLOBAL_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0618/dm_260618_COM_SOC_News_Canada_fans_at_Niagara_Falls_celebrate_1st_goal_vs_Qatar__20260618_GLOBAL/dm_260618_COM_SOC_News_Canada_fans_at_Niagara_Falls_celebrate_1st_goal_vs_Qatar__20260618_GLOBAL/playlist.m3u8"
+      },
       "final": false,
       "dv": 5
     }

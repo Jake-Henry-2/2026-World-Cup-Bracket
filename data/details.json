@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-19T18:12:24.541Z",
+  "lastUpdated": "2026-06-19T20:04:38.350Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -25346,6 +25346,833 @@
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0618/dm_260618_Mex_goal/dm_260618_Mex_goal/playlist.m3u8"
       },
       "final": true,
+      "dv": 5
+    },
+    "760442": {
+      "venue": "Lumen Field",
+      "stats": {
+        "home": {
+          "foulsCommitted": "8",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "1",
+          "wonCorners": "3",
+          "saves": "1",
+          "possessionPct": "70",
+          "totalShots": "9",
+          "shotsOnTarget": "2",
+          "shotPct": "0.2",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "259",
+          "totalPasses": "293",
+          "passPct": "0.9",
+          "accurateCrosses": "5",
+          "totalCrosses": "10",
+          "crossPct": "0.5",
+          "totalLongBalls": "22",
+          "accurateLongBalls": "10",
+          "longballPct": "0.5",
+          "blockedShots": "5",
+          "effectiveTackles": "4",
+          "totalTackles": "8",
+          "tacklePct": "0.5",
+          "interceptions": "12",
+          "effectiveClearance": "7",
+          "totalClearance": "7"
+        },
+        "away": {
+          "foulsCommitted": "8",
+          "yellowCards": "2",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "2",
+          "saves": "1",
+          "possessionPct": "30",
+          "totalShots": "2",
+          "shotsOnTarget": "1",
+          "shotPct": "0.5",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "78",
+          "totalPasses": "125",
+          "passPct": "0.6",
+          "accurateCrosses": "1",
+          "totalCrosses": "3",
+          "crossPct": "0.3",
+          "totalLongBalls": "24",
+          "accurateLongBalls": "9",
+          "longballPct": "0.4",
+          "blockedShots": "0",
+          "effectiveTackles": "6",
+          "totalTackles": "7",
+          "tacklePct": "0.9",
+          "interceptions": "3",
+          "effectiveClearance": "10",
+          "totalClearance": "10"
+        }
+      },
+      "events": [
+        {
+          "kind": "Own Goal",
+          "min": "11'",
+          "side": "home",
+          "player": "Own Goal by Cameron Burgess, Australia. USA 1, Australia 0."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "16'",
+          "side": "away",
+          "player": "Jordan Bos"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "32'",
+          "side": "away",
+          "player": "Alessandro Circati"
+        },
+        {
+          "kind": "Goal - Header",
+          "min": "43'",
+          "side": "home",
+          "player": "Goal! USA 2, Australia 0. Alex Freeman"
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Matt Freese",
+            "short": "M. Freese",
+            "num": "24",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Tim Ream",
+            "short": "T. Ream",
+            "num": "13",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Chris Richards",
+            "short": "C. Richards",
+            "num": "3",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Antonee Robinson",
+            "short": "A. Robinson",
+            "num": "5",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Alex Freeman",
+            "short": "A. Freeman",
+            "num": "16",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Tyler Adams",
+            "short": "T. Adams",
+            "num": "4",
+            "pos": "CM",
+            "place": "4"
+          },
+          {
+            "name": "Malik Tillman",
+            "short": "M. Tillman",
+            "num": "17",
+            "pos": "LM",
+            "place": "8"
+          },
+          {
+            "name": "Weston McKennie",
+            "short": "W. McKennie",
+            "num": "8",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Folarin Balogun",
+            "short": "F. Balogun",
+            "num": "20",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Ricardo Pepi",
+            "short": "R. Pepi",
+            "num": "9",
+            "pos": "LF",
+            "place": "11"
+          },
+          {
+            "name": "Sergiño Dest",
+            "short": "S. Dest",
+            "num": "2",
+            "pos": "RF",
+            "place": "10"
+          }
+        ],
+        "away": [
+          {
+            "name": "Patrick Beach",
+            "short": "P. Beach",
+            "num": "18",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Harry Souttar",
+            "short": "H. Souttar",
+            "num": "19",
+            "pos": "CD",
+            "place": "5"
+          },
+          {
+            "name": "Cameron Burgess",
+            "short": "C. Burgess",
+            "num": "21",
+            "pos": "CD-L",
+            "place": "4"
+          },
+          {
+            "name": "Alessandro Circati",
+            "short": "A. Circati",
+            "num": "3",
+            "pos": "CD-R",
+            "place": "6"
+          },
+          {
+            "name": "Jordan Bos",
+            "short": "J. Bos",
+            "num": "5",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Jacob Italiano",
+            "short": "J. Italiano",
+            "num": "4",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Paul Okon-Engstler",
+            "short": "P. Okon-Engstler",
+            "num": "24",
+            "pos": "CM-L",
+            "place": "10"
+          },
+          {
+            "name": "Aiden O'Neill",
+            "short": "A. O'Neill",
+            "num": "13",
+            "pos": "CM-R",
+            "place": "8"
+          },
+          {
+            "name": "Nishan Velupillay",
+            "short": "N. Velupillay",
+            "num": "23",
+            "pos": "LM",
+            "place": "11"
+          },
+          {
+            "name": "Mathew Leckie",
+            "short": "M. Leckie",
+            "num": "7",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Mohamed Toure",
+            "short": "M. Toure",
+            "num": "9",
+            "pos": "F",
+            "place": "9"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Giovanni Reyna",
+            "short": "G. Reyna",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Timothy Weah",
+            "short": "T. Weah",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Miles Robinson",
+            "short": "M. Robinson",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mark McKenzie",
+            "short": "M. McKenzie",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Joe Scally",
+            "short": "J. Scally",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Max Arfsten",
+            "short": "M. Arfsten",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Cristian Roldan",
+            "short": "C. Roldan",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Sebastian Berhalter",
+            "short": "S. Berhalter",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Matt Turner",
+            "short": "M. Turner",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Chris Brady",
+            "short": "C. Brady",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Auston Trusty",
+            "short": "A. Trusty",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Haji Wright",
+            "short": "H. Wright",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Alejandro Zendejas",
+            "short": "A. Zendejas",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Brenden Aaronson",
+            "short": "B. Aaronson",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Aziz Behich",
+            "short": "A. Behich",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kai Trewin",
+            "short": "K. Trewin",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Connor Metcalfe",
+            "short": "C. Metcalfe",
+            "num": "8",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Awer Mabil",
+            "short": "A. Mabil",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Lucas Herrington",
+            "short": "L. Herrington",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ajdin Hrustic",
+            "short": "A. Hrustic",
+            "num": "10",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Milos Degenek",
+            "short": "M. Degenek",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jason Geria",
+            "short": "J. Geria",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nestory Irankunda",
+            "short": "N. Irankunda",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Tete Yengi",
+            "short": "T. Yengi",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mathew Ryan",
+            "short": "M. Ryan",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Cameron Devlin",
+            "short": "C. Devlin",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jackson Irvine",
+            "short": "J. Irvine",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Paul Izzo",
+            "short": "P. Izzo",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Cristian Volpato",
+            "short": "C. Volpato",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-3-3",
+        "away": "5-4-1"
+      },
+      "commentary": [
+        {
+          "min": "45'+8'",
+          "text": "First Half ends, USA 2, Australia 0.",
+          "goal": false
+        },
+        {
+          "min": "45'+7'",
+          "text": "Attempt saved. Sergiño Dest (USA) left footed shot from outside the box is saved in the bottom left corner by Patrick Beach (Australia). Assisted by Alex Freeman.",
+          "goal": false
+        },
+        {
+          "min": "45'+4'",
+          "text": "Handball by Jordan Bos (Australia).",
+          "goal": false
+        },
+        {
+          "min": "45'+4'",
+          "text": "Foul by Weston McKennie (USA).",
+          "goal": false
+        },
+        {
+          "min": "45'+4'",
+          "text": "Paul Okon-Engstler (Australia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "45'+3'",
+          "text": "Foul by Chris Richards (USA).",
+          "goal": false
+        },
+        {
+          "min": "45'+3'",
+          "text": "Paul Okon-Engstler (Australia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "45'+2'",
+          "text": "Corner, USA. Conceded by Alessandro Circati.",
+          "goal": false
+        },
+        {
+          "min": "47'",
+          "text": "Fourth official has announced 7 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "45'+2'",
+          "text": "Foul by Ricardo Pepi (USA).",
+          "goal": false
+        },
+        {
+          "min": "45'+2'",
+          "text": "Alessandro Circati (Australia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "VAR Decision: Goal USA 2-0 Australia (Alex Freeman).",
+          "goal": false
+        },
+        {
+          "min": "43'",
+          "text": "Goal! USA 2, Australia 0. Alex Freeman (USA) header from very close range to the bottom right corner following a set piece situation.Goal awarded following VAR Review.",
+          "goal": true
+        },
+        {
+          "min": "43'",
+          "text": "Attempt blocked. Sergiño Dest (USA) right footed shot from outside the box is blocked. Assisted by Antonee Robinson.",
+          "goal": false
+        },
+        {
+          "min": "43'",
+          "text": "Malik Tillman (USA) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "43'",
+          "text": "Foul by Paul Okon-Engstler (Australia).",
+          "goal": false
+        },
+        {
+          "min": "41'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "38'",
+          "text": "Delay in match because of an injury Paul Okon-Engstler (Australia).",
+          "goal": false
+        },
+        {
+          "min": "38'",
+          "text": "Attempt missed. Ricardo Pepi (USA) header from the centre of the box misses to the left. Assisted by Sergiño Dest with a cross.",
+          "goal": false
+        },
+        {
+          "min": "34'",
+          "text": "Sergiño Dest (USA) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "34'",
+          "text": "Foul by Paul Okon-Engstler (Australia).",
+          "goal": false
+        },
+        {
+          "min": "33'",
+          "text": "Foul by Chris Richards (USA).",
+          "goal": false
+        },
+        {
+          "min": "33'",
+          "text": "Aiden O'Neill (Australia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "32'",
+          "text": "Alessandro Circati (Australia) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "32'",
+          "text": "Malik Tillman (USA) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "32'",
+          "text": "Foul by Alessandro Circati (Australia).",
+          "goal": false
+        },
+        {
+          "min": "31'",
+          "text": "Corner, USA. Conceded by Jacob Italiano.",
+          "goal": false
+        },
+        {
+          "min": "27'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "25'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "24'",
+          "text": "Matt Freese (USA) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "24'",
+          "text": "Foul by Mohamed Touré (Australia).",
+          "goal": false
+        },
+        {
+          "min": "24'",
+          "text": "Corner, Australia. Conceded by Weston McKennie.",
+          "goal": false
+        },
+        {
+          "min": "23'",
+          "text": "Corner, Australia. Conceded by Alex Freeman.",
+          "goal": false
+        },
+        {
+          "min": "22'",
+          "text": "Attempt blocked. Folarin Balogun (USA) left footed shot from the centre of the box is blocked. Assisted by Weston McKennie.",
+          "goal": false
+        },
+        {
+          "min": "18'",
+          "text": "Foul by Weston McKennie (USA).",
+          "goal": false
+        },
+        {
+          "min": "18'",
+          "text": "Aiden O'Neill (Australia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "17'",
+          "text": "Attempt missed. Weston McKennie (USA) right footed shot from the centre of the box is too high. Assisted by Malik Tillman with a cross following a set piece situation.",
+          "goal": false
+        },
+        {
+          "min": "16'",
+          "text": "Jordan Bos (Australia) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "16'",
+          "text": "Weston McKennie (USA) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "16'",
+          "text": "Foul by Jordan Bos (Australia).",
+          "goal": false
+        },
+        {
+          "min": "16'",
+          "text": "Tyler Adams (USA) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "16'",
+          "text": "Foul by Nishan Velupillay (Australia).",
+          "goal": false
+        },
+        {
+          "min": "15'",
+          "text": "Handball by Weston McKennie (USA).",
+          "goal": false
+        },
+        {
+          "min": "15'",
+          "text": "Attempt blocked. Weston McKennie (USA) header from very close range is blocked. Assisted by Malik Tillman with a cross.",
+          "goal": false
+        },
+        {
+          "min": "13'",
+          "text": "Corner, USA. Conceded by Cameron Burgess.",
+          "goal": false
+        },
+        {
+          "min": "12'",
+          "text": "Attempt missed. Mathew Leckie (Australia) right footed shot from the centre of the box is close, but misses the top left corner. Assisted by Nishan Velupillay.",
+          "goal": false
+        },
+        {
+          "min": "11'",
+          "text": "Own Goal by Cameron Burgess, Australia. USA 1, Australia 0.",
+          "goal": true
+        },
+        {
+          "min": "9'",
+          "text": "Attempt blocked. Sergiño Dest (USA) left footed shot from the right side of the box is blocked. Assisted by Weston McKennie.",
+          "goal": false
+        },
+        {
+          "min": "8'",
+          "text": "Tyler Adams (USA) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "8'",
+          "text": "Foul by Mathew Leckie (Australia).",
+          "goal": false
+        },
+        {
+          "min": "6'",
+          "text": "Foul by Folarin Balogun (USA).",
+          "goal": false
+        },
+        {
+          "min": "6'",
+          "text": "Aiden O'Neill (Australia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "5'",
+          "text": "Attempt blocked. Ricardo Pepi (USA) header from the centre of the box is blocked. Assisted by Weston McKennie with a cross.",
+          "goal": false
+        },
+        {
+          "min": "4'",
+          "text": "Foul by Weston McKennie (USA).",
+          "goal": false
+        },
+        {
+          "min": "4'",
+          "text": "Aiden O'Neill (Australia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "1'",
+          "text": "Attempt saved. Mohamed Touré (Australia) right footed shot from the right side of the box is saved in the bottom right corner by Matt Freese (USA).",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "First Half begins.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "Lineups are announced and players are warming up.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "S. Dest",
+            "num": "2",
+            "pos": "D",
+            "value": "3"
+          },
+          "away": {
+            "name": "M. Toure",
+            "num": "9",
+            "pos": "F",
+            "value": "1"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "C. Richards",
+            "num": "3",
+            "pos": "D",
+            "value": "53"
+          },
+          "away": {
+            "name": "P. Okon-Engstler",
+            "num": "24",
+            "pos": "M",
+            "value": "15"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "C. Richards",
+            "num": "3",
+            "pos": "D",
+            "value": "4"
+          },
+          "away": {
+            "name": "A. Circati",
+            "num": "3",
+            "pos": "D",
+            "value": "8"
+          }
+        },
+        {
+          "label": "Saves",
+          "home": {
+            "name": "M. Freese",
+            "num": "24",
+            "pos": "G",
+            "value": "1"
+          },
+          "away": {
+            "name": "P. Beach",
+            "num": "18",
+            "pos": "G",
+            "value": "1"
+          }
+        }
+      ],
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0619/dm_260619_Fans_go_wild_in_Dallas_after_USMNT_opens_the_scoring_vs_Australia/dm_260619_Fans_go_wild_in_Dallas_after_USMNT_opens_the_scoring_vs_Australia.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49118803/fans-go-wild-dallas-usmnt-opens-scoring-vs-australia",
+        "headline": "Fans go wild in Dallas after USMNT opens the scoring vs. Australia",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0619/dm_260619_Fans_go_wild_in_Dallas_after_USMNT_opens_the_scoring_vs_Australia/dm_260619_Fans_go_wild_in_Dallas_after_USMNT_opens_the_scoring_vs_Australia_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0619/dm_260619_Fans_go_wild_in_Dallas_after_USMNT_opens_the_scoring_vs_Australia/dm_260619_Fans_go_wild_in_Dallas_after_USMNT_opens_the_scoring_vs_Australia/playlist.m3u8"
+      },
+      "final": false,
       "dv": 5
     }
   }

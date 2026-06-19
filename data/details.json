@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-19T20:04:38.350Z",
+  "lastUpdated": "2026-06-19T21:19:11.235Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -25352,64 +25352,64 @@
       "venue": "Lumen Field",
       "stats": {
         "home": {
-          "foulsCommitted": "8",
-          "yellowCards": "0",
+          "foulsCommitted": "12",
+          "yellowCards": "3",
           "redCards": "0",
           "offsides": "1",
-          "wonCorners": "3",
-          "saves": "1",
-          "possessionPct": "70",
-          "totalShots": "9",
+          "wonCorners": "7",
+          "saves": "2",
+          "possessionPct": "62",
+          "totalShots": "10",
           "shotsOnTarget": "2",
           "shotPct": "0.2",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "259",
-          "totalPasses": "293",
-          "passPct": "0.9",
+          "accuratePasses": "445",
+          "totalPasses": "524",
+          "passPct": "0.8",
           "accurateCrosses": "5",
-          "totalCrosses": "10",
-          "crossPct": "0.5",
-          "totalLongBalls": "22",
-          "accurateLongBalls": "10",
-          "longballPct": "0.5",
-          "blockedShots": "5",
-          "effectiveTackles": "4",
-          "totalTackles": "8",
+          "totalCrosses": "14",
+          "crossPct": "0.4",
+          "totalLongBalls": "58",
+          "accurateLongBalls": "26",
+          "longballPct": "0.4",
+          "blockedShots": "6",
+          "effectiveTackles": "9",
+          "totalTackles": "20",
           "tacklePct": "0.5",
-          "interceptions": "12",
-          "effectiveClearance": "7",
-          "totalClearance": "7"
+          "interceptions": "21",
+          "effectiveClearance": "31",
+          "totalClearance": "31"
         },
         "away": {
-          "foulsCommitted": "8",
-          "yellowCards": "2",
+          "foulsCommitted": "16",
+          "yellowCards": "4",
           "redCards": "0",
           "offsides": "0",
-          "wonCorners": "2",
+          "wonCorners": "4",
           "saves": "1",
-          "possessionPct": "30",
-          "totalShots": "2",
-          "shotsOnTarget": "1",
-          "shotPct": "0.5",
+          "possessionPct": "38",
+          "totalShots": "5",
+          "shotsOnTarget": "2",
+          "shotPct": "0.4",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "78",
-          "totalPasses": "125",
-          "passPct": "0.6",
-          "accurateCrosses": "1",
-          "totalCrosses": "3",
-          "crossPct": "0.3",
-          "totalLongBalls": "24",
-          "accurateLongBalls": "9",
+          "accuratePasses": "220",
+          "totalPasses": "308",
+          "passPct": "0.7",
+          "accurateCrosses": "3",
+          "totalCrosses": "19",
+          "crossPct": "0.2",
+          "totalLongBalls": "45",
+          "accurateLongBalls": "19",
           "longballPct": "0.4",
           "blockedShots": "0",
-          "effectiveTackles": "6",
-          "totalTackles": "7",
-          "tacklePct": "0.9",
-          "interceptions": "3",
-          "effectiveClearance": "10",
-          "totalClearance": "10"
+          "effectiveTackles": "10",
+          "totalTackles": "12",
+          "tacklePct": "0.8",
+          "interceptions": "7",
+          "effectiveClearance": "23",
+          "totalClearance": "23"
         }
       },
       "events": [
@@ -25436,6 +25436,96 @@
           "min": "43'",
           "side": "home",
           "player": "Goal! USA 2, Australia 0. Alex Freeman"
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "away",
+          "player": "Substitution, Australia. Jason Geria replaces Cameron Burgess."
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "away",
+          "player": "Substitution, Australia. Connor Metcalfe replaces Nishan Velupillay."
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "away",
+          "player": "Substitution, Australia. Nestory Irankunda replaces Mohamed Touré."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "56'",
+          "side": "home",
+          "player": "Antonee Robinson"
+        },
+        {
+          "kind": "Substitution",
+          "min": "61'",
+          "side": "away",
+          "player": "Substitution, Australia. Cristian Volpato replaces Mathew Leckie because of an injury."
+        },
+        {
+          "kind": "Substitution",
+          "min": "74'",
+          "side": "home",
+          "player": "Substitution, USA. Sebastian Berhalter replaces Ricardo Pepi."
+        },
+        {
+          "kind": "Substitution",
+          "min": "78'",
+          "side": "away",
+          "player": "Substitution, Australia. Jackson Irvine replaces Paul Okon-Engstler."
+        },
+        {
+          "kind": "Substitution",
+          "min": "80'",
+          "side": "home",
+          "player": "Substitution, USA. Joe Scally replaces Sergiño Dest."
+        },
+        {
+          "kind": "Substitution",
+          "min": "80'",
+          "side": "home",
+          "player": "Substitution, USA. Auston Trusty replaces Antonee Robinson."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "88'",
+          "side": "away",
+          "player": "Harry Souttar"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "89'",
+          "side": "home",
+          "player": "Folarin Balogun"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "89'",
+          "side": "away",
+          "player": "Jacob Italiano"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "90'+3'",
+          "side": "home",
+          "player": "Chris Richards"
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'+6'",
+          "side": "home",
+          "player": "Substitution, USA. Haji Wright replaces Folarin Balogun."
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'+6'",
+          "side": "home",
+          "player": "Substitution, USA. Giovanni Reyna replaces Weston McKennie."
         }
       ],
       "lineups": {
@@ -25448,73 +25538,73 @@
             "place": "1"
           },
           {
+            "name": "Chris Richards",
+            "short": "C. Richards",
+            "num": "3",
+            "pos": "CD",
+            "place": "5"
+          },
+          {
             "name": "Tim Ream",
             "short": "T. Ream",
             "num": "13",
             "pos": "CD-L",
-            "place": "6"
-          },
-          {
-            "name": "Chris Richards",
-            "short": "C. Richards",
-            "num": "3",
-            "pos": "CD-R",
-            "place": "5"
-          },
-          {
-            "name": "Antonee Robinson",
-            "short": "A. Robinson",
-            "num": "5",
-            "pos": "LB",
-            "place": "3"
+            "place": "4"
           },
           {
             "name": "Alex Freeman",
             "short": "A. Freeman",
             "num": "16",
-            "pos": "RB",
-            "place": "2"
-          },
-          {
-            "name": "Tyler Adams",
-            "short": "T. Adams",
-            "num": "4",
-            "pos": "CM",
-            "place": "4"
+            "pos": "CD-R",
+            "place": "6"
           },
           {
             "name": "Malik Tillman",
             "short": "M. Tillman",
             "num": "17",
-            "pos": "LM",
+            "pos": "CM-L",
             "place": "8"
           },
           {
             "name": "Weston McKennie",
             "short": "W. McKennie",
             "num": "8",
-            "pos": "RM",
+            "pos": "CM-R",
             "place": "7"
           },
           {
-            "name": "Folarin Balogun",
-            "short": "F. Balogun",
-            "num": "20",
-            "pos": "F",
-            "place": "9"
+            "name": "Tyler Adams",
+            "short": "T. Adams",
+            "num": "4",
+            "pos": "AM",
+            "place": "11"
           },
           {
-            "name": "Ricardo Pepi",
-            "short": "R. Pepi",
-            "num": "9",
-            "pos": "LF",
-            "place": "11"
+            "name": "Antonee Robinson",
+            "short": "A. Robinson",
+            "num": "5",
+            "pos": "LM",
+            "place": "3"
           },
           {
             "name": "Sergiño Dest",
             "short": "S. Dest",
             "num": "2",
-            "pos": "RF",
+            "pos": "RM",
+            "place": "2"
+          },
+          {
+            "name": "Ricardo Pepi",
+            "short": "R. Pepi",
+            "num": "9",
+            "pos": "CF-L",
+            "place": "9"
+          },
+          {
+            "name": "Folarin Balogun",
+            "short": "F. Balogun",
+            "num": "20",
+            "pos": "CF-R",
             "place": "10"
           }
         ],
@@ -25808,298 +25898,308 @@
         ]
       },
       "formation": {
-        "home": "4-3-3",
+        "home": "3-5-2",
         "away": "5-4-1"
       },
       "commentary": [
         {
-          "min": "45'+8'",
-          "text": "First Half ends, USA 2, Australia 0.",
+          "min": "",
+          "text": "Match ends, USA 2, Australia 0.",
           "goal": false
         },
         {
-          "min": "45'+7'",
-          "text": "Attempt saved. Sergiño Dest (USA) left footed shot from outside the box is saved in the bottom left corner by Patrick Beach (Australia). Assisted by Alex Freeman.",
+          "min": "99'",
+          "text": "Second Half ends, USA 2, Australia 0.",
           "goal": false
         },
         {
-          "min": "45'+4'",
-          "text": "Handball by Jordan Bos (Australia).",
+          "min": "90'+7'",
+          "text": "Offside, USA. Haji Wright is caught offside.",
           "goal": false
         },
         {
-          "min": "45'+4'",
-          "text": "Foul by Weston McKennie (USA).",
+          "min": "90'+6'",
+          "text": "Substitution, USA. Giovanni Reyna replaces Weston McKennie.",
           "goal": false
         },
         {
-          "min": "45'+4'",
-          "text": "Paul Okon-Engstler (Australia) wins a free kick in the defensive half.",
+          "min": "90'+6'",
+          "text": "Substitution, USA. Haji Wright replaces Folarin Balogun.",
           "goal": false
         },
         {
-          "min": "45'+3'",
-          "text": "Foul by Chris Richards (USA).",
-          "goal": false
-        },
-        {
-          "min": "45'+3'",
-          "text": "Paul Okon-Engstler (Australia) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "45'+2'",
-          "text": "Corner, USA. Conceded by Alessandro Circati.",
-          "goal": false
-        },
-        {
-          "min": "47'",
-          "text": "Fourth official has announced 7 minutes of added time.",
-          "goal": false
-        },
-        {
-          "min": "45'+2'",
-          "text": "Foul by Ricardo Pepi (USA).",
-          "goal": false
-        },
-        {
-          "min": "45'+2'",
-          "text": "Alessandro Circati (Australia) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "VAR Decision: Goal USA 2-0 Australia (Alex Freeman).",
-          "goal": false
-        },
-        {
-          "min": "43'",
-          "text": "Goal! USA 2, Australia 0. Alex Freeman (USA) header from very close range to the bottom right corner following a set piece situation.Goal awarded following VAR Review.",
-          "goal": true
-        },
-        {
-          "min": "43'",
-          "text": "Attempt blocked. Sergiño Dest (USA) right footed shot from outside the box is blocked. Assisted by Antonee Robinson.",
-          "goal": false
-        },
-        {
-          "min": "43'",
-          "text": "Malik Tillman (USA) wins a free kick on the right wing.",
-          "goal": false
-        },
-        {
-          "min": "43'",
-          "text": "Foul by Paul Okon-Engstler (Australia).",
-          "goal": false
-        },
-        {
-          "min": "41'",
+          "min": "90'+5'",
           "text": "Delay over. They are ready to continue.",
           "goal": false
         },
         {
-          "min": "38'",
-          "text": "Delay in match because of an injury Paul Okon-Engstler (Australia).",
+          "min": "90'+4'",
+          "text": "Delay in match (USA).",
           "goal": false
         },
         {
-          "min": "38'",
-          "text": "Attempt missed. Ricardo Pepi (USA) header from the centre of the box misses to the left. Assisted by Sergiño Dest with a cross.",
+          "min": "90'+3'",
+          "text": "Chris Richards (USA) is shown the yellow card for a bad foul.",
           "goal": false
         },
         {
-          "min": "34'",
-          "text": "Sergiño Dest (USA) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "34'",
-          "text": "Foul by Paul Okon-Engstler (Australia).",
-          "goal": false
-        },
-        {
-          "min": "33'",
+          "min": "90'+3'",
           "text": "Foul by Chris Richards (USA).",
           "goal": false
         },
         {
-          "min": "33'",
-          "text": "Aiden O'Neill (Australia) wins a free kick in the defensive half.",
+          "min": "90'+3'",
+          "text": "Nestory Irankunda (Australia) wins a free kick on the left wing.",
           "goal": false
         },
         {
-          "min": "32'",
-          "text": "Alessandro Circati (Australia) is shown the yellow card for a bad foul.",
+          "min": "90'",
+          "text": "Fourth official has announced 6 minutes of added time.",
           "goal": false
         },
         {
-          "min": "32'",
-          "text": "Malik Tillman (USA) wins a free kick in the attacking half.",
+          "min": "90'",
+          "text": "Corner, USA. Conceded by Jason Geria.",
           "goal": false
         },
         {
-          "min": "32'",
-          "text": "Foul by Alessandro Circati (Australia).",
+          "min": "89'",
+          "text": "Joe Scally (USA) wins a free kick in the attacking half.",
           "goal": false
         },
         {
-          "min": "31'",
-          "text": "Corner, USA. Conceded by Jacob Italiano.",
+          "min": "89'",
+          "text": "Foul by Nestory Irankunda (Australia).",
           "goal": false
         },
         {
-          "min": "27'",
-          "text": "Delay over. They are ready to continue.",
+          "min": "89'",
+          "text": "Jacob Italiano (Australia) is shown the yellow card.",
           "goal": false
         },
         {
-          "min": "25'",
-          "text": "Delay in match for a drinks break.",
+          "min": "89'",
+          "text": "Folarin Balogun (USA) is shown the yellow card.",
           "goal": false
         },
         {
-          "min": "24'",
-          "text": "Matt Freese (USA) wins a free kick in the defensive half.",
+          "min": "88'",
+          "text": "Harry Souttar (Australia) is shown the yellow card.",
           "goal": false
         },
         {
-          "min": "24'",
-          "text": "Foul by Mohamed Touré (Australia).",
+          "min": "88'",
+          "text": "Malik Tillman (USA) wins a free kick on the left wing.",
           "goal": false
         },
         {
-          "min": "24'",
-          "text": "Corner, Australia. Conceded by Weston McKennie.",
+          "min": "88'",
+          "text": "Foul by Jason Geria (Australia).",
           "goal": false
         },
         {
-          "min": "23'",
-          "text": "Corner, Australia. Conceded by Alex Freeman.",
+          "min": "87'",
+          "text": "Attempt missed. Alessandro Circati (Australia) left footed shot from outside the box is too high.",
           "goal": false
         },
         {
-          "min": "22'",
-          "text": "Attempt blocked. Folarin Balogun (USA) left footed shot from the centre of the box is blocked. Assisted by Weston McKennie.",
-          "goal": false
-        },
-        {
-          "min": "18'",
-          "text": "Foul by Weston McKennie (USA).",
-          "goal": false
-        },
-        {
-          "min": "18'",
-          "text": "Aiden O'Neill (Australia) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "17'",
-          "text": "Attempt missed. Weston McKennie (USA) right footed shot from the centre of the box is too high. Assisted by Malik Tillman with a cross following a set piece situation.",
-          "goal": false
-        },
-        {
-          "min": "16'",
-          "text": "Jordan Bos (Australia) is shown the yellow card for a bad foul.",
-          "goal": false
-        },
-        {
-          "min": "16'",
-          "text": "Weston McKennie (USA) wins a free kick on the right wing.",
-          "goal": false
-        },
-        {
-          "min": "16'",
-          "text": "Foul by Jordan Bos (Australia).",
-          "goal": false
-        },
-        {
-          "min": "16'",
-          "text": "Tyler Adams (USA) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "16'",
-          "text": "Foul by Nishan Velupillay (Australia).",
-          "goal": false
-        },
-        {
-          "min": "15'",
-          "text": "Handball by Weston McKennie (USA).",
-          "goal": false
-        },
-        {
-          "min": "15'",
-          "text": "Attempt blocked. Weston McKennie (USA) header from very close range is blocked. Assisted by Malik Tillman with a cross.",
-          "goal": false
-        },
-        {
-          "min": "13'",
-          "text": "Corner, USA. Conceded by Cameron Burgess.",
-          "goal": false
-        },
-        {
-          "min": "12'",
-          "text": "Attempt missed. Mathew Leckie (Australia) right footed shot from the centre of the box is close, but misses the top left corner. Assisted by Nishan Velupillay.",
-          "goal": false
-        },
-        {
-          "min": "11'",
-          "text": "Own Goal by Cameron Burgess, Australia. USA 1, Australia 0.",
-          "goal": true
-        },
-        {
-          "min": "9'",
-          "text": "Attempt blocked. Sergiño Dest (USA) left footed shot from the right side of the box is blocked. Assisted by Weston McKennie.",
-          "goal": false
-        },
-        {
-          "min": "8'",
-          "text": "Tyler Adams (USA) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "8'",
-          "text": "Foul by Mathew Leckie (Australia).",
-          "goal": false
-        },
-        {
-          "min": "6'",
+          "min": "86'",
           "text": "Foul by Folarin Balogun (USA).",
           "goal": false
         },
         {
-          "min": "6'",
-          "text": "Aiden O'Neill (Australia) wins a free kick in the defensive half.",
+          "min": "86'",
+          "text": "Harry Souttar (Australia) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "5'",
-          "text": "Attempt blocked. Ricardo Pepi (USA) header from the centre of the box is blocked. Assisted by Weston McKennie with a cross.",
+          "min": "85'",
+          "text": "Chris Richards (USA) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "4'",
-          "text": "Foul by Weston McKennie (USA).",
+          "min": "85'",
+          "text": "Foul by Harry Souttar (Australia).",
           "goal": false
         },
         {
-          "min": "4'",
-          "text": "Aiden O'Neill (Australia) wins a free kick in the defensive half.",
+          "min": "84'",
+          "text": "Corner, Australia. Conceded by Chris Richards.",
           "goal": false
         },
         {
-          "min": "1'",
-          "text": "Attempt saved. Mohamed Touré (Australia) right footed shot from the right side of the box is saved in the bottom right corner by Matt Freese (USA).",
+          "min": "80'",
+          "text": "Substitution, USA. Auston Trusty replaces Antonee Robinson.",
           "goal": false
         },
         {
-          "min": "",
-          "text": "First Half begins.",
+          "min": "80'",
+          "text": "Substitution, USA. Joe Scally replaces Sergiño Dest.",
           "goal": false
         },
         {
-          "min": "",
-          "text": "Lineups are announced and players are warming up.",
+          "min": "80'",
+          "text": "Alex Freeman (USA) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Foul by Harry Souttar (Australia).",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Corner, Australia. Conceded by Folarin Balogun.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Substitution, Australia. Jackson Irvine replaces Paul Okon-Engstler.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Folarin Balogun (USA) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Foul by Jason Geria (Australia).",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Substitution, USA. Sebastian Berhalter replaces Ricardo Pepi.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Tim Ream (USA) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Foul by Nestory Irankunda (Australia).",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Foul by Tyler Adams (USA).",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Cristian Volpato (Australia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Attempt saved. Connor Metcalfe (Australia) left footed shot from outside the box is saved in the centre of the goal by Matt Freese (USA). Assisted by Cristian Volpato.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Attempt missed. Cristian Volpato (Australia) right footed shot from the centre of the box is too high. Assisted by Nestory Irankunda following a fast break.",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Substitution, Australia. Cristian Volpato replaces Mathew Leckie because of an injury.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Delay in match because of an injury Mathew Leckie (Australia).",
+          "goal": false
+        },
+        {
+          "min": "59'",
+          "text": "VAR Decision: Other Decision Cancelled.",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Antonee Robinson (USA) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Foul by Ricardo Pepi (USA).",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Mathew Leckie (Australia) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "54'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "54'",
+          "text": "Delay in match because of an injury Folarin Balogun (USA).",
+          "goal": false
+        },
+        {
+          "min": "54'",
+          "text": "Delay in match because of an injury Alessandro Circati (Australia).",
+          "goal": false
+        },
+        {
+          "min": "53'",
+          "text": "Corner, USA. Conceded by Connor Metcalfe.",
+          "goal": false
+        },
+        {
+          "min": "53'",
+          "text": "Corner, USA. Conceded by Alessandro Circati.",
+          "goal": false
+        },
+        {
+          "min": "51'",
+          "text": "Corner, USA. Conceded by Alessandro Circati.",
+          "goal": false
+        },
+        {
+          "min": "51'",
+          "text": "Attempt blocked. Folarin Balogun (USA) right footed shot from the centre of the box is blocked. Assisted by Tyler Adams.",
+          "goal": false
+        },
+        {
+          "min": "49'",
+          "text": "Sergiño Dest (USA) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "49'",
+          "text": "Foul by Alessandro Circati (Australia).",
+          "goal": false
+        },
+        {
+          "min": "48'",
+          "text": "Folarin Balogun (USA) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "48'",
+          "text": "Foul by Harry Souttar (Australia).",
           "goal": false
         }
       ],
@@ -26113,9 +26213,9 @@
             "value": "3"
           },
           "away": {
-            "name": "M. Toure",
-            "num": "9",
-            "pos": "F",
+            "name": "A. Circati",
+            "num": "3",
+            "pos": "D",
             "value": "1"
           }
         },
@@ -26125,13 +26225,13 @@
             "name": "C. Richards",
             "num": "3",
             "pos": "D",
-            "value": "53"
+            "value": "91"
           },
           "away": {
             "name": "P. Okon-Engstler",
             "num": "24",
             "pos": "M",
-            "value": "15"
+            "value": "31"
           }
         },
         {
@@ -26140,13 +26240,13 @@
             "name": "C. Richards",
             "num": "3",
             "pos": "D",
-            "value": "4"
+            "value": "12"
           },
           "away": {
             "name": "A. Circati",
             "num": "3",
             "pos": "D",
-            "value": "8"
+            "value": "13"
           }
         },
         {
@@ -26155,7 +26255,7 @@
             "name": "M. Freese",
             "num": "24",
             "pos": "G",
-            "value": "1"
+            "value": "2"
           },
           "away": {
             "name": "P. Beach",
@@ -26172,7 +26272,7 @@
         "mp4": "https://media.video-cdn.espn.com/motion/2026/0619/dm_260619_Fans_go_wild_in_Dallas_after_USMNT_opens_the_scoring_vs_Australia/dm_260619_Fans_go_wild_in_Dallas_after_USMNT_opens_the_scoring_vs_Australia_360p30_1464k.mp4",
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0619/dm_260619_Fans_go_wild_in_Dallas_after_USMNT_opens_the_scoring_vs_Australia/dm_260619_Fans_go_wild_in_Dallas_after_USMNT_opens_the_scoring_vs_Australia/playlist.m3u8"
       },
-      "final": false,
+      "final": true,
       "dv": 5
     }
   }

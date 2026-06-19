@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-19T20:04:38.287Z",
+  "lastUpdated": "2026-06-19T21:19:11.159Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -316,14 +316,10 @@
       "away": "Australia",
       "homeScore": 2,
       "awayScore": 0,
-      "status": "live",
+      "status": "finished",
       "id": "760442",
       "date": "2026-06-19T19:00Z",
-      "venue": "Lumen Field",
-      "clock": 2700,
-      "displayClock": "45'+8'",
-      "detail": "HT",
-      "period": 1
+      "venue": "Lumen Field"
     },
     {
       "stage": "group",

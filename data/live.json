@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-19T22:16:33.399Z",
+  "lastUpdated": "2026-06-19T23:32:23.556Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -331,10 +331,10 @@
       "id": "760445",
       "date": "2026-06-19T22:00Z",
       "venue": "Gillette Stadium",
-      "clock": 960,
-      "displayClock": "16'",
-      "detail": "16'",
-      "period": 1
+      "clock": 4140,
+      "displayClock": "69'",
+      "detail": "69'",
+      "period": 2
     },
     {
       "stage": "group",

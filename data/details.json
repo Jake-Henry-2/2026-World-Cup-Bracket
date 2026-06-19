@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-19T22:16:33.452Z",
+  "lastUpdated": "2026-06-19T23:32:23.630Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -26279,64 +26279,64 @@
       "venue": "Gillette Stadium",
       "stats": {
         "home": {
-          "foulsCommitted": "2",
-          "yellowCards": "0",
+          "foulsCommitted": "8",
+          "yellowCards": "1",
           "redCards": "0",
-          "offsides": "0",
+          "offsides": "1",
           "wonCorners": "0",
-          "saves": "0",
-          "possessionPct": "25.7",
-          "totalShots": "0",
+          "saves": "1",
+          "possessionPct": "36.8",
+          "totalShots": "3",
           "shotsOnTarget": "0",
           "shotPct": "0.0",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "46",
-          "totalPasses": "56",
-          "passPct": "0.8",
-          "accurateCrosses": "0",
-          "totalCrosses": "0",
-          "crossPct": "0.0",
-          "totalLongBalls": "10",
-          "accurateLongBalls": "7",
-          "longballPct": "0.7",
-          "blockedShots": "0",
-          "effectiveTackles": "2",
-          "totalTackles": "4",
+          "accuratePasses": "270",
+          "totalPasses": "312",
+          "passPct": "0.9",
+          "accurateCrosses": "2",
+          "totalCrosses": "6",
+          "crossPct": "0.3",
+          "totalLongBalls": "34",
+          "accurateLongBalls": "14",
+          "longballPct": "0.4",
+          "blockedShots": "1",
+          "effectiveTackles": "7",
+          "totalTackles": "13",
           "tacklePct": "0.5",
-          "interceptions": "1",
-          "effectiveClearance": "3",
-          "totalClearance": "3"
+          "interceptions": "7",
+          "effectiveClearance": "17",
+          "totalClearance": "17"
         },
         "away": {
-          "foulsCommitted": "0",
-          "yellowCards": "0",
+          "foulsCommitted": "5",
+          "yellowCards": "1",
           "redCards": "0",
           "offsides": "0",
-          "wonCorners": "1",
+          "wonCorners": "5",
           "saves": "0",
-          "possessionPct": "74.3",
-          "totalShots": "1",
-          "shotsOnTarget": "1",
-          "shotPct": "1.0",
+          "possessionPct": "63.2",
+          "totalShots": "9",
+          "shotsOnTarget": "2",
+          "shotPct": "0.2",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "154",
-          "totalPasses": "164",
+          "accuratePasses": "496",
+          "totalPasses": "542",
           "passPct": "0.9",
-          "accurateCrosses": "0",
-          "totalCrosses": "0",
-          "crossPct": "0.0",
-          "totalLongBalls": "8",
-          "accurateLongBalls": "4",
-          "longballPct": "0.5",
-          "blockedShots": "0",
-          "effectiveTackles": "2",
-          "totalTackles": "2",
-          "tacklePct": "1.0",
-          "interceptions": "0",
-          "effectiveClearance": "3",
-          "totalClearance": "3"
+          "accurateCrosses": "2",
+          "totalCrosses": "8",
+          "crossPct": "0.3",
+          "totalLongBalls": "26",
+          "accurateLongBalls": "9",
+          "longballPct": "0.3",
+          "blockedShots": "3",
+          "effectiveTackles": "5",
+          "totalTackles": "7",
+          "tacklePct": "0.7",
+          "interceptions": "4",
+          "effectiveClearance": "10",
+          "totalClearance": "10"
         }
       },
       "events": [
@@ -26345,6 +26345,24 @@
           "min": "2'",
           "side": "away",
           "player": "Goal! Scotland 0, Morocco 1. Ismael Saibari"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "23'",
+          "side": "away",
+          "player": "Issa Diop"
+        },
+        {
+          "kind": "Substitution",
+          "min": "60'",
+          "side": "home",
+          "player": "Substitution, Scotland. Ben Gannon-Doak replaces Kieran Tierney because of an injury."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "65'",
+          "side": "home",
+          "player": "Andy Robertson"
         }
       ],
       "lineups": {
@@ -26385,25 +26403,32 @@
             "place": "2"
           },
           {
-            "name": "Scott McTominay",
-            "short": "S. McTominay",
-            "num": "4",
-            "pos": "AM",
-            "place": "10"
-          },
-          {
             "name": "Lewis Ferguson",
             "short": "L. Ferguson",
             "num": "19",
-            "pos": "LM",
-            "place": "4"
+            "pos": "CM-L",
+            "place": "8"
           },
           {
             "name": "Ryan Christie",
             "short": "R. Christie",
             "num": "11",
+            "pos": "CM-R",
+            "place": "4"
+          },
+          {
+            "name": "Kieran Tierney",
+            "short": "K. Tierney",
+            "num": "6",
+            "pos": "LM",
+            "place": "11"
+          },
+          {
+            "name": "John McGinn",
+            "short": "J. McGinn",
+            "num": "7",
             "pos": "RM",
-            "place": "8"
+            "place": "7"
           },
           {
             "name": "Ché Adams",
@@ -26413,18 +26438,11 @@
             "place": "9"
           },
           {
-            "name": "Kieran Tierney",
-            "short": "K. Tierney",
-            "num": "6",
-            "pos": "AM-L",
-            "place": "11"
-          },
-          {
-            "name": "John McGinn",
-            "short": "J. McGinn",
-            "num": "7",
-            "pos": "AM-R",
-            "place": "7"
+            "name": "Scott McTominay",
+            "short": "S. McTominay",
+            "num": "4",
+            "pos": "RCF",
+            "place": "10"
           }
         ],
         "away": [
@@ -26724,10 +26742,250 @@
         ]
       },
       "formation": {
-        "home": "4-2-3-1",
+        "home": "4-4-1-1",
         "away": "4-2-3-1"
       },
       "commentary": [
+        {
+          "min": "65'",
+          "text": "Andy Robertson (Scotland) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Achraf Hakimi (Morocco) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Foul by Andy Robertson (Scotland).",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Attempt missed. Ryan Christie (Scotland) right footed shot from outside the box is high and wide to the left. Assisted by Scott McTominay.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Attempt missed. Achraf Hakimi (Morocco) right footed shot from outside the box misses to the right. Assisted by Neil El Aynaoui.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Noussair Mazraoui (Morocco) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Foul by Ben Gannon-Doak (Scotland).",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Substitution, Scotland. Ben Gannon-Doak replaces Kieran Tierney because of an injury.",
+          "goal": false
+        },
+        {
+          "min": "59'",
+          "text": "Delay in match because of an injury Kieran Tierney (Scotland).",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Attempt blocked. Brahim Díaz (Morocco) right footed shot from the right side of the box is blocked. Assisted by Azzedine Ounahi.",
+          "goal": false
+        },
+        {
+          "min": "55'",
+          "text": "Azzedine Ounahi (Morocco) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "55'",
+          "text": "Foul by Lewis Ferguson (Scotland).",
+          "goal": false
+        },
+        {
+          "min": "52'",
+          "text": "Attempt saved. Bilal El Khannouss (Morocco) header from a difficult angle on the right is saved in the top right corner by Angus Gunn (Scotland). Assisted by Achraf Hakimi with a cross.",
+          "goal": false
+        },
+        {
+          "min": "51'",
+          "text": "Corner, Morocco. Conceded by Grant Hanley.",
+          "goal": false
+        },
+        {
+          "min": "50'",
+          "text": "Corner, Morocco. Conceded by Jack Hendry.",
+          "goal": false
+        },
+        {
+          "min": "50'",
+          "text": "Attempt blocked. Ismael Saibari (Morocco) left footed shot from the centre of the box is blocked. Assisted by Bilal El Khannouss.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Second Half begins Scotland 0, Morocco 1.",
+          "goal": false
+        },
+        {
+          "min": "51'",
+          "text": "First Half ends, Scotland 0, Morocco 1.",
+          "goal": false
+        },
+        {
+          "min": "45'+2'",
+          "text": "Attempt blocked. Kieran Tierney (Scotland) left footed shot from the left side of the box is blocked. Assisted by Ché Adams.",
+          "goal": false
+        },
+        {
+          "min": "45'+1'",
+          "text": "Attempt missed. John McGinn (Scotland) right footed shot from the right side of the six yard box is high and wide to the right. Assisted by Andy Robertson with a cross.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Fourth official has announced 5 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "44'",
+          "text": "Noussair Mazraoui (Morocco) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "44'",
+          "text": "Foul by John McGinn (Scotland).",
+          "goal": false
+        },
+        {
+          "min": "43'",
+          "text": "Foul by Noussair Mazraoui (Morocco).",
+          "goal": false
+        },
+        {
+          "min": "43'",
+          "text": "John McGinn (Scotland) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "42'",
+          "text": "Handball by Ayyoub Bouaddi (Morocco).",
+          "goal": false
+        },
+        {
+          "min": "39'",
+          "text": "Offside, Scotland. Grant Hanley is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "38'",
+          "text": "Foul by Neil El Aynaoui (Morocco).",
+          "goal": false
+        },
+        {
+          "min": "38'",
+          "text": "Kieran Tierney (Scotland) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "38'",
+          "text": "Attempt missed. Achraf Hakimi (Morocco) right footed shot from the centre of the box misses to the right. Assisted by Brahim Díaz with a cross.",
+          "goal": false
+        },
+        {
+          "min": "37'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "36'",
+          "text": "Delay in match because of an injury Neil El Aynaoui (Morocco).",
+          "goal": false
+        },
+        {
+          "min": "36'",
+          "text": "Attempt missed. Bilal El Khannouss (Morocco) right footed shot from the left side of the box is too high. Assisted by Ismael Saibari.",
+          "goal": false
+        },
+        {
+          "min": "32'",
+          "text": "Foul by Neil El Aynaoui (Morocco).",
+          "goal": false
+        },
+        {
+          "min": "32'",
+          "text": "Lewis Ferguson (Scotland) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "30'",
+          "text": "Attempt missed. Neil El Aynaoui (Morocco) right footed shot from the right side of the box is too high. Assisted by Brahim Díaz.",
+          "goal": false
+        },
+        {
+          "min": "27'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "24'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "24'",
+          "text": "Achraf Hakimi (Morocco) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "24'",
+          "text": "Foul by Kieran Tierney (Scotland).",
+          "goal": false
+        },
+        {
+          "min": "23'",
+          "text": "Issa Diop (Morocco) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "23'",
+          "text": "Foul by Issa Diop (Morocco).",
+          "goal": false
+        },
+        {
+          "min": "23'",
+          "text": "Ché Adams (Scotland) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "20'",
+          "text": "Attempt blocked. Ayyoub Bouaddi (Morocco) right footed shot from outside the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "20'",
+          "text": "Corner, Morocco. Conceded by Grant Hanley.",
+          "goal": false
+        },
+        {
+          "min": "20'",
+          "text": "Corner, Morocco. Conceded by Kieran Tierney.",
+          "goal": false
+        },
+        {
+          "min": "18'",
+          "text": "Handball by John McGinn (Scotland).",
+          "goal": false
+        },
         {
           "min": "16'",
           "text": "Bilal El Khannouss (Morocco) wins a free kick in the defensive half.",
@@ -26771,41 +27029,56 @@
       ],
       "leaders": [
         {
-          "label": "Accurate Passes",
+          "label": "Total Shots",
           "home": {
-            "name": "L. Ferguson",
-            "num": "19",
-            "pos": "M",
-            "value": "6"
+            "name": "K. Tierney",
+            "num": "6",
+            "pos": "D",
+            "value": "1"
           },
           "away": {
-            "name": "N. El Aynaoui",
-            "num": "24",
+            "name": "B. El Khannouss",
+            "num": "23",
             "pos": "M",
-            "value": "26"
+            "value": "2"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "J. Hendry",
+            "num": "13",
+            "pos": "D",
+            "value": "47"
+          },
+          "away": {
+            "name": "I. Diop",
+            "num": "14",
+            "pos": "D",
+            "value": "65"
           }
         },
         {
           "label": "Defensive Interventions",
           "home": {
-            "name": "N. Patterson",
-            "num": "22",
-            "pos": "D",
-            "value": "2"
+            "name": "R. Christie",
+            "num": "11",
+            "pos": "M",
+            "value": "8"
           },
           "away": {
             "name": "N. Mazraoui",
             "num": "3",
             "pos": "D",
-            "value": "3"
+            "value": "6"
           }
         },
         {
-          "label": "Total Shots",
-          "away": {
-            "name": "I. Saibari",
-            "num": "11",
-            "pos": "M",
+          "label": "Saves",
+          "home": {
+            "name": "A. Gunn",
+            "num": "1",
+            "pos": "G",
             "value": "1"
           }
         }

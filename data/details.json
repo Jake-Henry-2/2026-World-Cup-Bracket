@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-19T21:19:11.235Z",
+  "lastUpdated": "2026-06-19T22:16:33.452Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -26273,6 +26273,545 @@
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0619/dm_260619_Fans_go_wild_in_Dallas_after_USMNT_opens_the_scoring_vs_Australia/dm_260619_Fans_go_wild_in_Dallas_after_USMNT_opens_the_scoring_vs_Australia/playlist.m3u8"
       },
       "final": true,
+      "dv": 5
+    },
+    "760445": {
+      "venue": "Gillette Stadium",
+      "stats": {
+        "home": {
+          "foulsCommitted": "2",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "0",
+          "saves": "0",
+          "possessionPct": "25.7",
+          "totalShots": "0",
+          "shotsOnTarget": "0",
+          "shotPct": "0.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "46",
+          "totalPasses": "56",
+          "passPct": "0.8",
+          "accurateCrosses": "0",
+          "totalCrosses": "0",
+          "crossPct": "0.0",
+          "totalLongBalls": "10",
+          "accurateLongBalls": "7",
+          "longballPct": "0.7",
+          "blockedShots": "0",
+          "effectiveTackles": "2",
+          "totalTackles": "4",
+          "tacklePct": "0.5",
+          "interceptions": "1",
+          "effectiveClearance": "3",
+          "totalClearance": "3"
+        },
+        "away": {
+          "foulsCommitted": "0",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "1",
+          "saves": "0",
+          "possessionPct": "74.3",
+          "totalShots": "1",
+          "shotsOnTarget": "1",
+          "shotPct": "1.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "154",
+          "totalPasses": "164",
+          "passPct": "0.9",
+          "accurateCrosses": "0",
+          "totalCrosses": "0",
+          "crossPct": "0.0",
+          "totalLongBalls": "8",
+          "accurateLongBalls": "4",
+          "longballPct": "0.5",
+          "blockedShots": "0",
+          "effectiveTackles": "2",
+          "totalTackles": "2",
+          "tacklePct": "1.0",
+          "interceptions": "0",
+          "effectiveClearance": "3",
+          "totalClearance": "3"
+        }
+      },
+      "events": [
+        {
+          "kind": "Goal",
+          "min": "2'",
+          "side": "away",
+          "player": "Goal! Scotland 0, Morocco 1. Ismael Saibari"
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Angus Gunn",
+            "short": "A. Gunn",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Jack Hendry",
+            "short": "J. Hendry",
+            "num": "13",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Grant Hanley",
+            "short": "G. Hanley",
+            "num": "5",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Andy Robertson",
+            "short": "A. Robertson",
+            "num": "3",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Nathan Patterson",
+            "short": "N. Patterson",
+            "num": "22",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Scott McTominay",
+            "short": "S. McTominay",
+            "num": "4",
+            "pos": "AM",
+            "place": "10"
+          },
+          {
+            "name": "Lewis Ferguson",
+            "short": "L. Ferguson",
+            "num": "19",
+            "pos": "LM",
+            "place": "4"
+          },
+          {
+            "name": "Ryan Christie",
+            "short": "R. Christie",
+            "num": "11",
+            "pos": "RM",
+            "place": "8"
+          },
+          {
+            "name": "Ché Adams",
+            "short": "C. Adams",
+            "num": "10",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Kieran Tierney",
+            "short": "K. Tierney",
+            "num": "6",
+            "pos": "AM-L",
+            "place": "11"
+          },
+          {
+            "name": "John McGinn",
+            "short": "J. McGinn",
+            "num": "7",
+            "pos": "AM-R",
+            "place": "7"
+          }
+        ],
+        "away": [
+          {
+            "name": "Yassine Bounou",
+            "short": "Y. Bounou",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Chadi Riad",
+            "short": "C. Riad",
+            "num": "18",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Issa Diop",
+            "short": "I. Diop",
+            "num": "14",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Noussair Mazraoui",
+            "short": "N. Mazraoui",
+            "num": "3",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Achraf Hakimi",
+            "short": "A. Hakimi",
+            "num": "2",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Azzedine Ounahi",
+            "short": "A. Ounahi",
+            "num": "8",
+            "pos": "AM",
+            "place": "10"
+          },
+          {
+            "name": "Neil El Aynaoui",
+            "short": "N. El Aynaoui",
+            "num": "24",
+            "pos": "LM",
+            "place": "4"
+          },
+          {
+            "name": "Ayyoub Bouaddi",
+            "short": "A. Bouaddi",
+            "num": "6",
+            "pos": "RM",
+            "place": "8"
+          },
+          {
+            "name": "Ismael Saibari",
+            "short": "I. Saibari",
+            "num": "11",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Bilal El Khannouss",
+            "short": "B. El Khannouss",
+            "num": "23",
+            "pos": "AM-L",
+            "place": "11"
+          },
+          {
+            "name": "Brahim Díaz",
+            "short": "B. Díaz",
+            "num": "10",
+            "pos": "AM-R",
+            "place": "7"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Aaron Hickey",
+            "short": "A. Hickey",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Anthony Ralston",
+            "short": "A. Ralston",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "John Souttar",
+            "short": "J. Souttar",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Craig Gordon",
+            "short": "C. Gordon",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Tyler Fletcher",
+            "short": "T. Fletcher",
+            "num": "8",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kenny McLean",
+            "short": "K. McLean",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Scott McKenna",
+            "short": "S. McKenna",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Liam Kelly",
+            "short": "L. Kelly",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ben Gannon-Doak",
+            "short": "B. Gannon-Doak",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "George Hirst",
+            "short": "G. Hirst",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ross Stewart",
+            "short": "R. Stewart",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Lyndon Dykes",
+            "short": "L. Dykes",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Dominic Hyam",
+            "short": "D. Hyam",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Lawrence Shankland",
+            "short": "L. Shankland",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Findlay Curtis",
+            "short": "F. Curtis",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Ahmed Reda Tagnaouti",
+            "short": "A. Tagnaouti",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ayoube Amaimouni",
+            "short": "A. Amaimouni",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Amine Sbaï",
+            "short": "A. Sbaï",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ayoub El Kaabi",
+            "short": "A. El Kaabi",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Anass Salah-Eddine",
+            "short": "A. Salah-Eddine",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Munir El Kajoui",
+            "short": "M. El Kajoui",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Chemsdine Talbi",
+            "short": "C. Talbi",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Zakaria El Ouahdi",
+            "short": "Z. El Ouahdi",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Marwane Saadane",
+            "short": "M. Saadane",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Samir El Mourabet",
+            "short": "S. El Mourabet",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Sofyan Amrabat",
+            "short": "S. Amrabat",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gessime Yassine",
+            "short": "G. Yassine",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Redouane Halhal",
+            "short": "R. Halhal",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Youssef Belammari",
+            "short": "Y. Belammari",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Soufiane Rahimi",
+            "short": "S. Rahimi",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-2-3-1",
+        "away": "4-2-3-1"
+      },
+      "commentary": [
+        {
+          "min": "16'",
+          "text": "Bilal El Khannouss (Morocco) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "16'",
+          "text": "Foul by Lewis Ferguson (Scotland).",
+          "goal": false
+        },
+        {
+          "min": "11'",
+          "text": "Corner, Morocco. Conceded by Ché Adams.",
+          "goal": false
+        },
+        {
+          "min": "3'",
+          "text": "Brahim Díaz (Morocco) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "3'",
+          "text": "Foul by Kieran Tierney (Scotland).",
+          "goal": false
+        },
+        {
+          "min": "2'",
+          "text": "Goal! Scotland 0, Morocco 1. Ismael Saibari (Morocco) right footed shot from the right side of the box to the high centre of the goal. Assisted by Brahim Díaz with a through ball.",
+          "goal": true
+        },
+        {
+          "min": "",
+          "text": "First Half begins.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "Lineups are announced and players are warming up.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "L. Ferguson",
+            "num": "19",
+            "pos": "M",
+            "value": "6"
+          },
+          "away": {
+            "name": "N. El Aynaoui",
+            "num": "24",
+            "pos": "M",
+            "value": "26"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "N. Patterson",
+            "num": "22",
+            "pos": "D",
+            "value": "2"
+          },
+          "away": {
+            "name": "N. Mazraoui",
+            "num": "3",
+            "pos": "D",
+            "value": "3"
+          }
+        },
+        {
+          "label": "Total Shots",
+          "away": {
+            "name": "I. Saibari",
+            "num": "11",
+            "pos": "M",
+            "value": "1"
+          }
+        }
+      ],
+      "highlight": null,
+      "final": false,
       "dv": 5
     }
   }

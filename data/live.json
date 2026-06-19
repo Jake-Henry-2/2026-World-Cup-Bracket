@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-19T21:19:11.159Z",
+  "lastUpdated": "2026-06-19T22:16:33.399Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -326,11 +326,15 @@
       "home": "Scotland",
       "away": "Morocco",
       "homeScore": 0,
-      "awayScore": 0,
-      "status": "scheduled",
+      "awayScore": 1,
+      "status": "live",
       "id": "760445",
       "date": "2026-06-19T22:00Z",
-      "venue": "Gillette Stadium"
+      "venue": "Gillette Stadium",
+      "clock": 960,
+      "displayClock": "16'",
+      "detail": "16'",
+      "period": 1
     },
     {
       "stage": "group",

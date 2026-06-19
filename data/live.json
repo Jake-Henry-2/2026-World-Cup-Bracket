@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-18T23:58:00.642Z",
+  "lastUpdated": "2026-06-19T05:12:19.691Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -294,22 +294,18 @@
       "away": "Qatar",
       "homeScore": 6,
       "awayScore": 0,
-      "status": "live",
+      "status": "finished",
       "id": "760440",
       "date": "2026-06-18T22:00Z",
-      "venue": "BC Place",
-      "clock": 5400,
-      "displayClock": "90'+6'",
-      "detail": "90'+6'",
-      "period": 2
+      "venue": "BC Place"
     },
     {
       "stage": "group",
       "home": "Mexico",
       "away": "South Korea",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
-      "status": "scheduled",
+      "status": "finished",
       "id": "760441",
       "date": "2026-06-19T01:00Z",
       "venue": "Estadio Akron"
@@ -866,7 +862,7 @@
     },
     {
       "stage": "r32",
-      "home": "Group A Winner",
+      "home": "Mexico",
       "away": "Third Place Group C/E/F/H/I",
       "homeScore": 0,
       "awayScore": 0,

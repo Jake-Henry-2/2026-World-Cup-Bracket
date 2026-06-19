@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-18T23:58:00.697Z",
+  "lastUpdated": "2026-06-19T05:12:19.784Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -23534,28 +23534,28 @@
       "venue": "BC Place",
       "stats": {
         "home": {
-          "foulsCommitted": "7",
+          "foulsCommitted": "9",
           "yellowCards": "1",
           "redCards": "0",
           "offsides": "1",
-          "wonCorners": "16",
+          "wonCorners": "19",
           "saves": "0",
-          "possessionPct": "78",
-          "totalShots": "29",
+          "possessionPct": "79",
+          "totalShots": "32",
           "shotsOnTarget": "10",
           "shotPct": "0.3",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "482",
-          "totalPasses": "533",
+          "accuratePasses": "515",
+          "totalPasses": "567",
           "passPct": "0.9",
-          "accurateCrosses": "11",
-          "totalCrosses": "51",
+          "accurateCrosses": "13",
+          "totalCrosses": "55",
           "crossPct": "0.2",
           "totalLongBalls": "16",
           "accurateLongBalls": "10",
           "longballPct": "0.6",
-          "blockedShots": "13",
+          "blockedShots": "14",
           "effectiveTackles": "5",
           "totalTackles": "9",
           "tacklePct": "0.6",
@@ -23567,31 +23567,31 @@
           "foulsCommitted": "10",
           "yellowCards": "1",
           "redCards": "2",
-          "offsides": "0",
+          "offsides": "1",
           "wonCorners": "1",
           "saves": "4",
-          "possessionPct": "22",
+          "possessionPct": "21",
           "totalShots": "2",
           "shotsOnTarget": "0",
           "shotPct": "0.0",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "103",
-          "totalPasses": "161",
+          "accuratePasses": "104",
+          "totalPasses": "162",
           "passPct": "0.6",
           "accurateCrosses": "1",
           "totalCrosses": "3",
           "crossPct": "0.3",
-          "totalLongBalls": "51",
-          "accurateLongBalls": "16",
+          "totalLongBalls": "54",
+          "accurateLongBalls": "17",
           "longballPct": "0.3",
           "blockedShots": "1",
-          "effectiveTackles": "8",
-          "totalTackles": "13",
+          "effectiveTackles": "10",
+          "totalTackles": "16",
           "tacklePct": "0.6",
-          "interceptions": "11",
-          "effectiveClearance": "53",
-          "totalClearance": "53"
+          "interceptions": "10",
+          "effectiveClearance": "61",
+          "totalClearance": "61"
         }
       },
       "events": [
@@ -23608,7 +23608,7 @@
           "player": "Goal! Canada 1, Qatar 0. Cyle Larin"
         },
         {
-          "kind": "Goal",
+          "kind": "Goal - Volley",
           "min": "29'",
           "side": "home",
           "player": "Goal! Canada 2, Qatar 0. Jonathan David"
@@ -23626,7 +23626,7 @@
           "player": "Substitution, Qatar. Sultan Al Brake replaces Yusuf Abdurisag."
         },
         {
-          "kind": "Goal",
+          "kind": "Goal - Volley",
           "min": "45'+3'",
           "side": "home",
           "player": "Goal! Canada 3, Qatar 0. Jonathan David"
@@ -24091,6 +24091,46 @@
       },
       "commentary": [
         {
+          "min": "",
+          "text": "Match ends, Canada 6, Qatar 0.",
+          "goal": false
+        },
+        {
+          "min": "100'",
+          "text": "Second Half ends, Canada 6, Qatar 0.",
+          "goal": false
+        },
+        {
+          "min": "90'+10'",
+          "text": "Attempt missed. Nathan Saliba (Canada) header from the centre of the box misses to the left. Assisted by Alistair Johnston following a corner.",
+          "goal": false
+        },
+        {
+          "min": "90'+9'",
+          "text": "Corner, Canada. Conceded by Sultan Al Brake.",
+          "goal": false
+        },
+        {
+          "min": "90'+8'",
+          "text": "Foul by Tani Oluwaseyi (Canada).",
+          "goal": false
+        },
+        {
+          "min": "90'+8'",
+          "text": "Al Hashmi Al Hussain (Qatar) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+8'",
+          "text": "Attempt missed. Cyle Larin (Canada) header from very close range misses to the left. Assisted by Alistair Johnston with a cross.",
+          "goal": false
+        },
+        {
+          "min": "90'+7'",
+          "text": "Offside, Qatar. Lucas Mendes is caught offside.",
+          "goal": false
+        },
+        {
           "min": "90'+6'",
           "text": "Foul by Cyle Larin (Canada).",
           "goal": false
@@ -24349,46 +24389,6 @@
           "min": "62'",
           "text": "Corner, Canada. Conceded by Sultan Al Brake.",
           "goal": false
-        },
-        {
-          "min": "61'",
-          "text": "Corner, Canada. Conceded by Ayoub Al Oui.",
-          "goal": false
-        },
-        {
-          "min": "60'",
-          "text": "Richie Laryea (Canada) wins a free kick on the left wing.",
-          "goal": false
-        },
-        {
-          "min": "60'",
-          "text": "Foul by Al Hashmi Al Hussain (Qatar).",
-          "goal": false
-        },
-        {
-          "min": "59'",
-          "text": "Substitution, Qatar. Al Hashmi Al Hussain replaces Akram Afif.",
-          "goal": false
-        },
-        {
-          "min": "58'",
-          "text": "Foul by Tajon Buchanan (Canada).",
-          "goal": false
-        },
-        {
-          "min": "58'",
-          "text": "Ahmed Fathy (Qatar) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "57'",
-          "text": "Substitution, Canada. Nathan Saliba replaces Ismaël Koné because of an injury.",
-          "goal": false
-        },
-        {
-          "min": "53'",
-          "text": "Assim Madibo (Qatar) is shown the red card.",
-          "goal": false
         }
       ],
       "leaders": [
@@ -24413,7 +24413,7 @@
             "name": "S. Eustáquio",
             "num": "7",
             "pos": "M",
-            "value": "83"
+            "value": "87"
           },
           "away": {
             "name": "B. Khoukhi",
@@ -24434,7 +24434,7 @@
             "name": "B. Khoukhi",
             "num": "16",
             "pos": "D",
-            "value": "19"
+            "value": "21"
           }
         },
         {
@@ -24454,7 +24454,898 @@
         "mp4": "https://media.video-cdn.espn.com/motion/2026/0618/dm_260618_COM_SOC_News_Canada_fans_at_Niagara_Falls_celebrate_1st_goal_vs_Qatar__20260618_GLOBAL/dm_260618_COM_SOC_News_Canada_fans_at_Niagara_Falls_celebrate_1st_goal_vs_Qatar__20260618_GLOBAL_360p30_1464k.mp4",
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0618/dm_260618_COM_SOC_News_Canada_fans_at_Niagara_Falls_celebrate_1st_goal_vs_Qatar__20260618_GLOBAL/dm_260618_COM_SOC_News_Canada_fans_at_Niagara_Falls_celebrate_1st_goal_vs_Qatar__20260618_GLOBAL/playlist.m3u8"
       },
-      "final": false,
+      "final": true,
+      "dv": 5
+    },
+    "760441": {
+      "venue": "Estadio Akron",
+      "stats": {
+        "home": {
+          "foulsCommitted": "9",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "3",
+          "wonCorners": "1",
+          "saves": "2",
+          "possessionPct": "42.4",
+          "totalShots": "8",
+          "shotsOnTarget": "4",
+          "shotPct": "0.5",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "349",
+          "totalPasses": "427",
+          "passPct": "0.8",
+          "accurateCrosses": "4",
+          "totalCrosses": "6",
+          "crossPct": "0.7",
+          "totalLongBalls": "56",
+          "accurateLongBalls": "16",
+          "longballPct": "0.3",
+          "blockedShots": "1",
+          "effectiveTackles": "7",
+          "totalTackles": "14",
+          "tacklePct": "0.5",
+          "interceptions": "6",
+          "effectiveClearance": "20",
+          "totalClearance": "20"
+        },
+        "away": {
+          "foulsCommitted": "7",
+          "yellowCards": "2",
+          "redCards": "0",
+          "offsides": "6",
+          "wonCorners": "2",
+          "saves": "3",
+          "possessionPct": "57.6",
+          "totalShots": "9",
+          "shotsOnTarget": "2",
+          "shotPct": "0.2",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "488",
+          "totalPasses": "578",
+          "passPct": "0.8",
+          "accurateCrosses": "5",
+          "totalCrosses": "9",
+          "crossPct": "0.6",
+          "totalLongBalls": "65",
+          "accurateLongBalls": "23",
+          "longballPct": "0.4",
+          "blockedShots": "3",
+          "effectiveTackles": "10",
+          "totalTackles": "17",
+          "tacklePct": "0.6",
+          "interceptions": "5",
+          "effectiveClearance": "12",
+          "totalClearance": "12"
+        }
+      },
+      "events": [
+        {
+          "kind": "Yellow Card",
+          "min": "4'",
+          "side": "away",
+          "player": "Lee Kang-In"
+        },
+        {
+          "kind": "Goal - Volley",
+          "min": "50'",
+          "side": "home",
+          "player": "Goal! Mexico 1, Korea Republic 0. Luis Romo"
+        },
+        {
+          "kind": "Substitution",
+          "min": "57'",
+          "side": "away",
+          "player": "Substitution, Korea Republic. Hwang Hee-Chan replaces Lee Jae-Sung."
+        },
+        {
+          "kind": "Substitution",
+          "min": "57'",
+          "side": "away",
+          "player": "Substitution, Korea Republic. Oh Hyeon-Gyu replaces Son Heung-Min."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "58'",
+          "side": "away",
+          "player": "Paik Seung-Ho"
+        },
+        {
+          "kind": "Substitution",
+          "min": "71'",
+          "side": "home",
+          "player": "Substitution, Mexico. Orbelín Pineda replaces Brian Gutiérrez."
+        },
+        {
+          "kind": "Substitution",
+          "min": "71'",
+          "side": "home",
+          "player": "Substitution, Mexico. Obed Vargas replaces Luis Romo."
+        },
+        {
+          "kind": "Substitution",
+          "min": "71'",
+          "side": "away",
+          "player": "Substitution, Korea Republic. Eom Ji-Sung replaces Kim Moon-Hwan."
+        },
+        {
+          "kind": "Substitution",
+          "min": "71'",
+          "side": "away",
+          "player": "Substitution, Korea Republic. Yang Hyun-Jun replaces Seol Young-Woo."
+        },
+        {
+          "kind": "Substitution",
+          "min": "77'",
+          "side": "away",
+          "player": "Substitution, Korea Republic. Cho Gue-Sung replaces Paik Seung-Ho."
+        },
+        {
+          "kind": "Substitution",
+          "min": "80'",
+          "side": "home",
+          "player": "Substitution, Mexico. Israel Reyes replaces Roberto Alvarado."
+        },
+        {
+          "kind": "Substitution",
+          "min": "80'",
+          "side": "home",
+          "player": "Substitution, Mexico. Santiago Giménez replaces Raúl Jiménez."
+        },
+        {
+          "kind": "Substitution",
+          "min": "84'",
+          "side": "home",
+          "player": "Substitution, Mexico. César Huerta replaces Julián Quiñones."
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Raúl Rangel",
+            "short": "R. Rangel",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Johan Vásquez",
+            "short": "J. Vásquez",
+            "num": "5",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Edson Álvarez",
+            "short": "E. Álvarez",
+            "num": "4",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Jesús Gallardo",
+            "short": "J. Gallardo",
+            "num": "23",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Jorge Sánchez",
+            "short": "J. Sánchez",
+            "num": "2",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Érik Lira",
+            "short": "É. Lira",
+            "num": "6",
+            "pos": "CM",
+            "place": "4"
+          },
+          {
+            "name": "Luis Romo",
+            "short": "L. Romo",
+            "num": "7",
+            "pos": "LM",
+            "place": "8"
+          },
+          {
+            "name": "Brian Gutiérrez",
+            "short": "B. Gutiérrez",
+            "num": "26",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Raúl Jiménez",
+            "short": "R. Jiménez",
+            "num": "9",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Julián Quiñones",
+            "short": "J. Quiñones",
+            "num": "16",
+            "pos": "LF",
+            "place": "11"
+          },
+          {
+            "name": "Roberto Alvarado",
+            "short": "R. Alvarado",
+            "num": "25",
+            "pos": "RF",
+            "place": "10"
+          }
+        ],
+        "away": [
+          {
+            "name": "Kim Seung-Gyu",
+            "short": "K. Seung-Gyu",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Kim Min-Jae",
+            "short": "K. Min-Jae",
+            "num": "4",
+            "pos": "CD",
+            "place": "5"
+          },
+          {
+            "name": "Lee Gi-Hyuk",
+            "short": "L. Gi-Hyuk",
+            "num": "3",
+            "pos": "CD-L",
+            "place": "4"
+          },
+          {
+            "name": "Lee Han-Beom",
+            "short": "L. Han-Beom",
+            "num": "2",
+            "pos": "CD-R",
+            "place": "6"
+          },
+          {
+            "name": "Paik Seung-Ho",
+            "short": "P. Seung-Ho",
+            "num": "8",
+            "pos": "CM-L",
+            "place": "8"
+          },
+          {
+            "name": "Hwang In-Beom",
+            "short": "H. In-Beom",
+            "num": "6",
+            "pos": "CM-R",
+            "place": "7"
+          },
+          {
+            "name": "Seol Young-Woo",
+            "short": "S. Young-Woo",
+            "num": "22",
+            "pos": "LM",
+            "place": "3"
+          },
+          {
+            "name": "Kim Moon-Hwan",
+            "short": "K. Moon-Hwan",
+            "num": "15",
+            "pos": "RM",
+            "place": "2"
+          },
+          {
+            "name": "Son Heung-Min",
+            "short": "S. Heung-Min",
+            "num": "7",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Lee Jae-Sung",
+            "short": "L. Jae-Sung",
+            "num": "10",
+            "pos": "CF-L",
+            "place": "11"
+          },
+          {
+            "name": "Lee Kang-In",
+            "short": "L. Kang-In",
+            "num": "19",
+            "pos": "CF-R",
+            "place": "10"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Mateo Chávez",
+            "short": "M. Chávez",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Obed Vargas",
+            "short": "O. Vargas",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Álvaro Fidalgo",
+            "short": "Á. Fidalgo",
+            "num": "8",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gilberto Mora",
+            "short": "G. Mora",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Santiago Gimenez",
+            "short": "S. Gimenez",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Carlos Acevedo",
+            "short": "C. Acevedo",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Israel Reyes",
+            "short": "I. Reyes",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "César Huerta",
+            "short": "C. Huerta",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Orbelín Pineda",
+            "short": "O. Pineda",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Guillermo Martínez",
+            "short": "G. Martínez",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Luis Chávez",
+            "short": "L. Chávez",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Armando González",
+            "short": "A. González",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Guillermo Ochoa",
+            "short": "G. Ochoa",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Alexis Vega",
+            "short": "A. Vega",
+            "num": "10",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Jo Hyeon-Woo",
+            "short": "J. Hyeon-Woo",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Cho Wi-Je",
+            "short": "C. Wi-Je",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jens Castrop",
+            "short": "J. Castrop",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Oh Hyeon-Gyu",
+            "short": "O. Hyeon-Gyu",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Lee Tae-Seok",
+            "short": "L. Tae-Seok",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kim Tae-Hyeon",
+            "short": "K. Tae-Hyeon",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Eom Ji-Sung",
+            "short": "E. Ji-Sung",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Hwang Hee-Chan",
+            "short": "H. Hee-Chan",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Cho Gue-Sung",
+            "short": "C. Gue-Sung",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Bae Jun-Ho",
+            "short": "B. Jun-Ho",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Lee Dong-Gyeong",
+            "short": "L. Dong-Gyeong",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Song Bum-Keun",
+            "short": "S. Bum-Keun",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Yang Hyun-Jun",
+            "short": "Y. Hyun-Jun",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Park Jin-Seop",
+            "short": "P. Jin-Seop",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kim Jin-Gyu",
+            "short": "K. Jin-Gyu",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-3-3",
+        "away": "3-4-2-1"
+      },
+      "commentary": [
+        {
+          "min": "",
+          "text": "Match ends, Mexico 1, Korea Republic 0.",
+          "goal": false
+        },
+        {
+          "min": "90'+7'",
+          "text": "Second Half ends, Mexico 1, Korea Republic 0.",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Corner, Mexico. Conceded by Lee Gi-Hyuk.",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Attempt missed. Oh Hyeon-Gyu (Korea Republic) header from the centre of the box misses to the right. Assisted by Lee Kang-In with a cross following a corner.",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Corner, Korea Republic. Conceded by Johan Vásquez.",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Attempt blocked. Cho Gue-Sung (Korea Republic) header from the centre of the box is blocked. Assisted by Lee Kang-In with a cross.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Attempt missed. Lee Han-Beom (Korea Republic) header from the centre of the box misses to the right. Assisted by Lee Kang-In with a cross following a corner.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Corner, Korea Republic. Conceded by Israel Reyes.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Fourth official has announced 6 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Delay in match because of an injury Raúl Rangel (Mexico).",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Attempt saved. Yang Hyun-Jun (Korea Republic) left footed shot from very close range is saved in the bottom right corner by Raúl Rangel (Mexico).",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Attempt saved. Cho Gue-Sung (Korea Republic) header from very close range is saved in the centre of the goal by Raúl Rangel (Mexico). Assisted by Eom Ji-Sung with a cross.",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Attempt saved. Obed Vargas (Mexico) right footed shot from outside the box is saved in the bottom right corner by Kim Seung-Gyu (Korea Republic). Assisted by Orbelín Pineda.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Substitution, Mexico. César Huerta replaces Julián Quiñones.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Hwang Hee-Chan (Korea Republic) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Foul by Israel Reyes (Mexico).",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Substitution, Mexico. Santiago Giménez replaces Raúl Jiménez.",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Substitution, Mexico. Israel Reyes replaces Roberto Alvarado.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Attempt missed. Lee Kang-In (Korea Republic) left footed shot from outside the box is too high. Assisted by Hwang Hee-Chan.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Substitution, Korea Republic. Cho Gue-Sung replaces Paik Seung-Ho.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Offside, Korea Republic. Yang Hyun-Jun is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Eom Ji-Sung (Korea Republic) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Foul by Raúl Jiménez (Mexico).",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Attempt saved. Raúl Jiménez (Mexico) right footed shot from the right side of the six yard box is saved in the centre of the goal by Kim Seung-Gyu (Korea Republic). Assisted by Julián Quiñones with a cross.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Foul by Yang Hyun-Jun (Korea Republic).",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Jesús Gallardo (Mexico) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Substitution, Korea Republic. Yang Hyun-Jun replaces Seol Young-Woo.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Substitution, Korea Republic. Eom Ji-Sung replaces Kim Moon-Hwan.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Substitution, Mexico. Obed Vargas replaces Luis Romo.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Substitution, Mexico. Orbelín Pineda replaces Brian Gutiérrez.",
+          "goal": false
+        },
+        {
+          "min": "70'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Foul by Lee Han-Beom (Korea Republic).",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Raúl Jiménez (Mexico) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Lee Han-Beom (Korea Republic) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Foul by Raúl Jiménez (Mexico).",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Offside, Korea Republic. Seol Young-Woo is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Paik Seung-Ho (Korea Republic) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Foul by Paik Seung-Ho (Korea Republic).",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Brian Gutiérrez (Mexico) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Attempt blocked. Hwang In-Beom (Korea Republic) left footed shot from outside the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Substitution, Korea Republic. Oh Hyeon-Gyu replaces Son Heung-Min.",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Substitution, Korea Republic. Hwang Hee-Chan replaces Lee Jae-Sung.",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Son Heung-Min (Korea Republic) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Foul by Julián Quiñones (Mexico).",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Offside, Mexico. Julián Quiñones is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "53'",
+          "text": "Handball by Brian Gutiérrez (Mexico).",
+          "goal": false
+        },
+        {
+          "min": "50'",
+          "text": "Goal! Mexico 1, Korea Republic 0. Luis Romo (Mexico) right footed shot from the centre of the box to the centre of the goal.",
+          "goal": true
+        },
+        {
+          "min": "50'",
+          "text": "Attempt blocked. Raúl Jiménez (Mexico) header from the centre of the box is blocked. Assisted by Julián Quiñones with a cross.",
+          "goal": false
+        },
+        {
+          "min": "49'",
+          "text": "Attempt missed. Jesús Gallardo (Mexico) left footed shot from the left side of the box is close, but misses to the left. Assisted by Brian Gutiérrez.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Second Half begins Mexico 0, Korea Republic 0.",
+          "goal": false
+        },
+        {
+          "min": "45'+5'",
+          "text": "First Half ends, Mexico 0, Korea Republic 0.",
+          "goal": false
+        },
+        {
+          "min": "45'+2'",
+          "text": "Lee Kang-In (Korea Republic) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "45'+2'",
+          "text": "Foul by Érik Lira (Mexico).",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Fourth official has announced 4 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Lee Jae-Sung (Korea Republic) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Foul by Jorge Sánchez (Mexico).",
+          "goal": false
+        },
+        {
+          "min": "44'",
+          "text": "Attempt blocked. Lee Kang-In (Korea Republic) right footed shot from outside the box is blocked. Assisted by Son Heung-Min.",
+          "goal": false
+        },
+        {
+          "min": "41'",
+          "text": "Attempt missed. Seol Young-Woo (Korea Republic) left footed shot from a difficult angle on the left is high and wide to the left.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "R. Jiménez",
+            "num": "9",
+            "pos": "F",
+            "value": "2"
+          },
+          "away": {
+            "name": "L. Kang-In",
+            "num": "19",
+            "pos": "M",
+            "value": "2"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "E. Álvarez",
+            "num": "4",
+            "pos": "M",
+            "value": "71"
+          },
+          "away": {
+            "name": "K. Min-Jae",
+            "num": "4",
+            "pos": "D",
+            "value": "91"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "E. Álvarez",
+            "num": "4",
+            "pos": "M",
+            "value": "12"
+          },
+          "away": {
+            "name": "L. Gi-Hyuk",
+            "num": "3",
+            "pos": "D",
+            "value": "8"
+          }
+        },
+        {
+          "label": "Saves",
+          "home": {
+            "name": "R. Rangel",
+            "num": "1",
+            "pos": "G",
+            "value": "2"
+          },
+          "away": {
+            "name": "K. Seung-Gyu",
+            "num": "1",
+            "pos": "G",
+            "value": "3"
+          }
+        }
+      ],
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0618/dm_260618_Mex_goal/dm_260618_Mex_goal.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49113666/mexico-fans-go-wild-rain-taking-lead-vs-south-korea",
+        "headline": "Mexico fans go wild in the rain after taking lead vs. South Korea",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0618/dm_260618_Mex_goal/dm_260618_Mex_goal_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0618/dm_260618_Mex_goal/dm_260618_Mex_goal/playlist.m3u8"
+      },
+      "final": true,
       "dv": 5
     }
   }

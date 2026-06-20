@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-20T18:09:15.314Z",
+  "lastUpdated": "2026-06-20T19:57:01.490Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -28978,64 +28978,64 @@
       "venue": "NRG Stadium",
       "stats": {
         "home": {
-          "foulsCommitted": "5",
-          "yellowCards": "0",
-          "redCards": "0",
-          "offsides": "1",
-          "wonCorners": "1",
-          "saves": "4",
-          "possessionPct": "58.1",
-          "totalShots": "5",
-          "shotsOnTarget": "4",
-          "shotPct": "0.8",
-          "penaltyKickGoals": "0",
-          "penaltyKickShots": "0",
-          "accuratePasses": "224",
-          "totalPasses": "251",
-          "passPct": "0.9",
-          "accurateCrosses": "2",
-          "totalCrosses": "11",
-          "crossPct": "0.2",
-          "totalLongBalls": "18",
-          "accurateLongBalls": "11",
-          "longballPct": "0.6",
-          "blockedShots": "0",
-          "effectiveTackles": "8",
-          "totalTackles": "9",
-          "tacklePct": "0.9",
-          "interceptions": "5",
-          "effectiveClearance": "5",
-          "totalClearance": "5"
-        },
-        "away": {
-          "foulsCommitted": "5",
+          "foulsCommitted": "9",
           "yellowCards": "0",
           "redCards": "0",
           "offsides": "3",
           "wonCorners": "2",
-          "saves": "2",
-          "possessionPct": "41.9",
-          "totalShots": "9",
-          "shotsOnTarget": "4",
-          "shotPct": "0.4",
+          "saves": "7",
+          "possessionPct": "50.9",
+          "totalShots": "10",
+          "shotsOnTarget": "7",
+          "shotPct": "0.7",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "153",
-          "totalPasses": "182",
-          "passPct": "0.8",
-          "accurateCrosses": "1",
-          "totalCrosses": "6",
+          "accuratePasses": "397",
+          "totalPasses": "450",
+          "passPct": "0.9",
+          "accurateCrosses": "3",
+          "totalCrosses": "15",
           "crossPct": "0.2",
-          "totalLongBalls": "20",
-          "accurateLongBalls": "6",
-          "longballPct": "0.3",
+          "totalLongBalls": "35",
+          "accurateLongBalls": "18",
+          "longballPct": "0.5",
           "blockedShots": "1",
-          "effectiveTackles": "6",
-          "totalTackles": "11",
+          "effectiveTackles": "9",
+          "totalTackles": "15",
+          "tacklePct": "0.6",
+          "interceptions": "8",
+          "effectiveClearance": "24",
+          "totalClearance": "24"
+        },
+        "away": {
+          "foulsCommitted": "12",
+          "yellowCards": "3",
+          "redCards": "0",
+          "offsides": "3",
+          "wonCorners": "5",
+          "saves": "2",
+          "possessionPct": "49.1",
+          "totalShots": "16",
+          "shotsOnTarget": "8",
+          "shotPct": "0.5",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "361",
+          "totalPasses": "424",
+          "passPct": "0.9",
+          "accurateCrosses": "3",
+          "totalCrosses": "21",
+          "crossPct": "0.1",
+          "totalLongBalls": "31",
+          "accurateLongBalls": "7",
+          "longballPct": "0.2",
+          "blockedShots": "3",
+          "effectiveTackles": "9",
+          "totalTackles": "18",
           "tacklePct": "0.5",
-          "interceptions": "1",
-          "effectiveClearance": "10",
-          "totalClearance": "10"
+          "interceptions": "7",
+          "effectiveClearance": "14",
+          "totalClearance": "14"
         }
       },
       "events": [
@@ -29062,6 +29062,96 @@
           "min": "47'",
           "side": "home",
           "player": "Goal! Netherlands 3, Sweden 0. Cody Gakpo"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "53'",
+          "side": "away",
+          "player": "Gabriel Gudmundsson"
+        },
+        {
+          "kind": "Goal",
+          "min": "54'",
+          "side": "home",
+          "player": "Goal! Netherlands 4, Sweden 0. Cody Gakpo"
+        },
+        {
+          "kind": "Substitution",
+          "min": "55'",
+          "side": "away",
+          "player": "Substitution, Sweden. Anthony Elanga replaces Alexander Bernhardsson."
+        },
+        {
+          "kind": "Substitution",
+          "min": "56'",
+          "side": "away",
+          "player": "Substitution, Sweden. Besfort Zeneli replaces Jesper Karlström."
+        },
+        {
+          "kind": "Substitution",
+          "min": "56'",
+          "side": "away",
+          "player": "Substitution, Sweden. Lucas Bergvall replaces Benjamin Nygren."
+        },
+        {
+          "kind": "Goal",
+          "min": "59'",
+          "side": "away",
+          "player": "Goal! Netherlands 4, Sweden 1. Anthony Elanga"
+        },
+        {
+          "kind": "Substitution",
+          "min": "59'",
+          "side": "home",
+          "player": "Substitution, Netherlands. Teun Koopmeiners replaces Frenkie de Jong."
+        },
+        {
+          "kind": "Substitution",
+          "min": "59'",
+          "side": "home",
+          "player": "Substitution, Netherlands. Guus Til replaces Tijjani Reijnders."
+        },
+        {
+          "kind": "Substitution",
+          "min": "72'",
+          "side": "home",
+          "player": "Substitution, Netherlands. Memphis Depay replaces Brian Brobbey."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "75'",
+          "side": "away",
+          "player": "Yasin Ayari"
+        },
+        {
+          "kind": "Substitution",
+          "min": "79'",
+          "side": "away",
+          "player": "Substitution, Sweden. Taha Ali replaces Yasin Ayari."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "80'",
+          "side": "away",
+          "player": "Lucas Bergvall"
+        },
+        {
+          "kind": "Goal",
+          "min": "89'",
+          "side": "home",
+          "player": "Goal! Netherlands 5, Sweden 1. Crysencio Summerville"
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'",
+          "side": "home",
+          "player": "Substitution, Netherlands. Noa Lang replaces Cody Gakpo."
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'+3'",
+          "side": "away",
+          "player": "Substitution, Sweden. Elliot Stroud replaces Gabriel Gudmundsson."
         }
       ],
       "lineups": {
@@ -29439,8 +29529,293 @@
       },
       "commentary": [
         {
+          "min": "",
+          "text": "Match ends, Netherlands 5, Sweden 1.",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Second Half ends, Netherlands 5, Sweden 1.",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Attempt saved. Gustaf Lagerbielke (Sweden) header from the centre of the box is saved in the centre of the goal by Bart Verbruggen (Netherlands). Assisted by Elliot Stroud with a cross.",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Corner, Sweden. Conceded by Virgil van Dijk.",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Delay in match because of an injury Crysencio Summerville (Netherlands).",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Substitution, Sweden. Elliot Stroud replaces Gabriel Gudmundsson.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Noa Lang (Netherlands) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Foul by Isak Hien (Sweden).",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Attempt blocked. Viktor Gyökeres (Sweden) right footed shot from outside the box is blocked. Assisted by Taha Ali.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Foul by Ryan Gravenberch (Netherlands).",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Lucas Bergvall (Sweden) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Fourth official has announced 5 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Substitution, Netherlands. Noa Lang replaces Cody Gakpo.",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Goal! Netherlands 5, Sweden 1. Crysencio Summerville (Netherlands) right footed shot from outside the box to the bottom left corner. Assisted by Memphis Depay.",
+          "goal": true
+        },
+        {
+          "min": "86'",
+          "text": "Handball by Viktor Gyökeres (Sweden).",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Attempt saved. Besfort Zeneli (Sweden) left footed shot from outside the box is saved in the top right corner by Bart Verbruggen (Netherlands). Assisted by Gabriel Gudmundsson.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Corner, Sweden. Conceded by Bart Verbruggen.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Attempt saved. Alexander Isak (Sweden) right footed shot from outside the box is saved in the top right corner by Bart Verbruggen (Netherlands). Assisted by Taha Ali.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Foul by Micky van de Ven (Netherlands).",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Anthony Elanga (Sweden) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Offside, Netherlands. Cody Gakpo is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Lucas Bergvall (Sweden) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Cody Gakpo (Netherlands) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Foul by Lucas Bergvall (Sweden).",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Substitution, Sweden. Taha Ali replaces Yasin Ayari.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Memphis Depay (Netherlands) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Foul by Victor Lindelöf (Sweden).",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Yasin Ayari (Sweden) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Ryan Gravenberch (Netherlands) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Foul by Yasin Ayari (Sweden).",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Micky van de Ven (Netherlands) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Foul by Viktor Gyökeres (Sweden).",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Foul by Cody Gakpo (Netherlands).",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Yasin Ayari (Sweden) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Substitution, Netherlands. Memphis Depay replaces Brian Brobbey.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "69'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Offside, Netherlands. Brian Brobbey is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Foul by Brian Brobbey (Netherlands).",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Isak Hien (Sweden) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "63'",
+          "text": "Corner, Netherlands. Conceded by Victor Lindelöf.",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Corner, Sweden. Conceded by Jan Paul van Hecke.",
+          "goal": false
+        },
+        {
+          "min": "59'",
+          "text": "Substitution, Netherlands. Guus Til replaces Tijjani Reijnders.",
+          "goal": false
+        },
+        {
+          "min": "59'",
+          "text": "Substitution, Netherlands. Teun Koopmeiners replaces Frenkie de Jong.",
+          "goal": false
+        },
+        {
+          "min": "59'",
+          "text": "Goal! Netherlands 4, Sweden 1. Anthony Elanga (Sweden) left footed shot from the centre of the box to the bottom left corner. Assisted by Alexander Isak with a through ball following a fast break.",
+          "goal": true
+        },
+        {
+          "min": "57'",
+          "text": "Attempt missed. Ryan Gravenberch (Netherlands) right footed shot from outside the box is too high. Assisted by Brian Brobbey.",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Attempt missed. Yasin Ayari (Sweden) right footed shot from outside the box is too high. Assisted by Lucas Bergvall.",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Substitution, Sweden. Lucas Bergvall replaces Benjamin Nygren.",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Substitution, Sweden. Besfort Zeneli replaces Jesper Karlström.",
+          "goal": false
+        },
+        {
+          "min": "55'",
+          "text": "Substitution, Sweden. Anthony Elanga replaces Alexander Bernhardsson.",
+          "goal": false
+        },
+        {
+          "min": "54'",
+          "text": "Goal! Netherlands 4, Sweden 0. Cody Gakpo (Netherlands) right footed shot from the left side of the box to the bottom left corner. Assisted by Crysencio Summerville following a fast break.",
+          "goal": true
+        },
+        {
+          "min": "53'",
+          "text": "Gabriel Gudmundsson (Sweden) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "53'",
+          "text": "Crysencio Summerville (Netherlands) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "53'",
+          "text": "Foul by Gabriel Gudmundsson (Sweden).",
+          "goal": false
+        },
+        {
+          "min": "52'",
+          "text": "Attempt blocked. Yasin Ayari (Sweden) right footed shot from outside the box is blocked. Assisted by Jesper Karlström.",
+          "goal": false
+        },
+        {
+          "min": "50'",
+          "text": "Attempt blocked. Cody Gakpo (Netherlands) right footed shot from outside the box is blocked. Assisted by Brian Brobbey.",
+          "goal": false
+        },
+        {
           "min": "47'",
-          "text": "Goal! Netherlands 3, Sweden 0. Cody Gakpo (Netherlands) left footed shot from very close range.",
+          "text": "Goal! Netherlands 3, Sweden 0. Cody Gakpo (Netherlands) left footed shot from very close range to the centre of the goal. Assisted by Denzel Dumfries with a cross.",
           "goal": true
         },
         {
@@ -29452,287 +29827,52 @@
           "min": "46'",
           "text": "Foul by Jesper Karlström (Sweden).",
           "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Substitution, Netherlands. Crysencio Summerville replaces Donyell Malen.",
-          "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Second Half begins Netherlands 2, Sweden 0.",
-          "goal": false
-        },
-        {
-          "min": "50'",
-          "text": "First Half ends, Netherlands 2, Sweden 0.",
-          "goal": false
-        },
-        {
-          "min": "45'+5'",
-          "text": "Corner, Sweden. Conceded by Bart Verbruggen.",
-          "goal": false
-        },
-        {
-          "min": "45'+5'",
-          "text": "Attempt saved. Yasin Ayari (Sweden) right footed shot from outside the box is saved in the bottom left corner by Bart Verbruggen (Netherlands). Assisted by Viktor Gyökeres.",
-          "goal": false
-        },
-        {
-          "min": "45'+4'",
-          "text": "Foul by Virgil van Dijk (Netherlands).",
-          "goal": false
-        },
-        {
-          "min": "45'+4'",
-          "text": "Viktor Gyökeres (Sweden) wins a free kick on the right wing.",
-          "goal": false
-        },
-        {
-          "min": "45'+4'",
-          "text": "Attempt missed. Benjamin Nygren (Sweden) left footed shot from outside the box misses to the right.",
-          "goal": false
-        },
-        {
-          "min": "45'+3'",
-          "text": "Attempt saved. Viktor Gyökeres (Sweden) right footed shot from outside the box is saved in the bottom right corner by Bart Verbruggen (Netherlands).",
-          "goal": false
-        },
-        {
-          "min": "45'+2'",
-          "text": "Foul by Denzel Dumfries (Netherlands).",
-          "goal": false
-        },
-        {
-          "min": "45'+2'",
-          "text": "Yasin Ayari (Sweden) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Fourth official has announced 4 minutes of added time.",
-          "goal": false
-        },
-        {
-          "min": "44'",
-          "text": "Offside, Sweden. Gustaf Lagerbielke is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "44'",
-          "text": "Foul by Ryan Gravenberch (Netherlands).",
-          "goal": false
-        },
-        {
-          "min": "44'",
-          "text": "Gabriel Gudmundsson (Sweden) wins a free kick on the left wing.",
-          "goal": false
-        },
-        {
-          "min": "41'",
-          "text": "Attempt missed. Yasin Ayari (Sweden) right footed shot from outside the box is too high. Assisted by Alexander Isak.",
-          "goal": false
-        },
-        {
-          "min": "38'",
-          "text": "Attempt saved. Cody Gakpo (Netherlands) right footed shot from outside the box is saved in the centre of the goal by Kristoffer Nordfeldt (Sweden). Assisted by Micky van de Ven.",
-          "goal": false
-        },
-        {
-          "min": "37'",
-          "text": "Attempt saved. Viktor Gyökeres (Sweden) right footed shot from the left side of the box is saved in the bottom right corner by Bart Verbruggen (Netherlands). Assisted by Alexander Isak.",
-          "goal": false
-        },
-        {
-          "min": "33'",
-          "text": "Attempt missed. Viktor Gyökeres (Sweden) right footed shot from the centre of the box is close, but misses to the right. Assisted by Alexander Isak.",
-          "goal": false
-        },
-        {
-          "min": "31'",
-          "text": "Attempt missed. Yasin Ayari (Sweden) right footed shot from the left side of the box misses to the right. Assisted by Viktor Gyökeres.",
-          "goal": false
-        },
-        {
-          "min": "27'",
-          "text": "Attempt blocked. Jesper Karlström (Sweden) right footed shot from the centre of the box is blocked. Assisted by Isak Hien with a headed pass.",
-          "goal": false
-        },
-        {
-          "min": "26'",
-          "text": "Delay over. They are ready to continue.",
-          "goal": false
-        },
-        {
-          "min": "23'",
-          "text": "Delay in match for a drinks break.",
-          "goal": false
-        },
-        {
-          "min": "22'",
-          "text": "Foul by Denzel Dumfries (Netherlands).",
-          "goal": false
-        },
-        {
-          "min": "22'",
-          "text": "Alexander Bernhardsson (Sweden) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "22'",
-          "text": "Brian Brobbey (Netherlands) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "22'",
-          "text": "Foul by Gustaf Lagerbielke (Sweden).",
-          "goal": false
-        },
-        {
-          "min": "21'",
-          "text": "Denzel Dumfries (Netherlands) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "21'",
-          "text": "Foul by Benjamin Nygren (Sweden).",
-          "goal": false
-        },
-        {
-          "min": "19'",
-          "text": "Frenkie de Jong (Netherlands) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "19'",
-          "text": "Foul by Benjamin Nygren (Sweden).",
-          "goal": false
-        },
-        {
-          "min": "17'",
-          "text": "Goal! Netherlands 2, Sweden 0. Brian Brobbey (Netherlands) right footed shot from very close range to the bottom left corner. Assisted by Denzel Dumfries with a cross.",
-          "goal": true
-        },
-        {
-          "min": "15'",
-          "text": "Attempt missed. Tijjani Reijnders (Netherlands) left footed shot from the left side of the box misses to the left.",
-          "goal": false
-        },
-        {
-          "min": "14'",
-          "text": "Offside, Netherlands. Tijjani Reijnders is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "12'",
-          "text": "Corner, Netherlands. Conceded by Alexander Bernhardsson.",
-          "goal": false
-        },
-        {
-          "min": "11'",
-          "text": "Attempt saved. Cody Gakpo (Netherlands) header from the centre of the box is saved in the centre of the goal by Kristoffer Nordfeldt (Sweden). Assisted by Donyell Malen with a cross.",
-          "goal": false
-        },
-        {
-          "min": "9'",
-          "text": "Tijjani Reijnders (Netherlands) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "9'",
-          "text": "Foul by Jesper Karlström (Sweden).",
-          "goal": false
-        },
-        {
-          "min": "8'",
-          "text": "Offside, Sweden. Alexander Isak is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "7'",
-          "text": "Corner, Sweden. Conceded by Bart Verbruggen.",
-          "goal": false
-        },
-        {
-          "min": "7'",
-          "text": "Attempt saved. Viktor Gyökeres (Sweden) right footed shot from the right side of the box is saved in the bottom right corner by Bart Verbruggen (Netherlands). Assisted by Alexander Bernhardsson.",
-          "goal": false
-        },
-        {
-          "min": "5'",
-          "text": "Goal! Netherlands 1, Sweden 0. Brian Brobbey (Netherlands) right footed shot from very close range to the centre of the goal. Assisted by Cody Gakpo with a cross.",
-          "goal": true
-        },
-        {
-          "min": "3'",
-          "text": "Offside, Sweden. Viktor Gyökeres is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "2'",
-          "text": "Alexander Isak (Sweden) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "2'",
-          "text": "Foul by Jan Paul van Hecke (Netherlands).",
-          "goal": false
-        },
-        {
-          "min": "",
-          "text": "First Half begins.",
-          "goal": false
-        },
-        {
-          "min": "",
-          "text": "Lineups are announced and players are warming up.",
-          "goal": false
         }
       ],
       "leaders": [
         {
           "label": "Total Shots",
           "home": {
-            "name": "B. Brobbey",
-            "num": "19",
+            "name": "C. Gakpo",
+            "num": "11",
             "pos": "F",
-            "value": "2"
+            "value": "5"
           },
           "away": {
             "name": "V. Gyökeres",
             "num": "17",
             "pos": "F",
-            "value": "4"
+            "value": "5"
           }
         },
         {
           "label": "Accurate Passes",
           "home": {
-            "name": "F. de Jong",
-            "num": "21",
-            "pos": "M",
-            "value": "47"
+            "name": "V. van Dijk",
+            "num": "4",
+            "pos": "D",
+            "value": "75"
           },
           "away": {
             "name": "I. Hien",
             "num": "4",
             "pos": "D",
-            "value": "24"
+            "value": "55"
           }
         },
         {
           "label": "Defensive Interventions",
           "home": {
-            "name": "F. de Jong",
-            "num": "21",
-            "pos": "M",
-            "value": "6"
-          },
-          "away": {
-            "name": "I. Hien",
+            "name": "V. van Dijk",
             "num": "4",
             "pos": "D",
-            "value": "6"
+            "value": "9"
+          },
+          "away": {
+            "name": "G. Lagerbielke",
+            "num": "2",
+            "pos": "D",
+            "value": "9"
           }
         },
         {
@@ -29741,7 +29881,7 @@
             "name": "B. Verbruggen",
             "num": "1",
             "pos": "G",
-            "value": "4"
+            "value": "7"
           },
           "away": {
             "name": "K. Nordfeldt",
@@ -29758,7 +29898,7 @@
         "mp4": "https://media.video-cdn.espn.com/motion/2026/0620/dm_260620_Dutch_fans_celebrate_Brobbeys_opening_goal_vs_Sweden/dm_260620_Dutch_fans_celebrate_Brobbeys_opening_goal_vs_Sweden_360p30_1464k.mp4",
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0620/dm_260620_Dutch_fans_celebrate_Brobbeys_opening_goal_vs_Sweden/dm_260620_Dutch_fans_celebrate_Brobbeys_opening_goal_vs_Sweden/playlist.m3u8"
       },
-      "final": false,
+      "final": true,
       "dv": 5
     }
   }

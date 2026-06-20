@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-19T23:32:23.556Z",
+  "lastUpdated": "2026-06-20T01:37:30.259Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -327,25 +327,25 @@
       "away": "Morocco",
       "homeScore": 0,
       "awayScore": 1,
-      "status": "live",
+      "status": "finished",
       "id": "760445",
       "date": "2026-06-19T22:00Z",
-      "venue": "Gillette Stadium",
-      "clock": 4140,
-      "displayClock": "69'",
-      "detail": "69'",
-      "period": 2
+      "venue": "Gillette Stadium"
     },
     {
       "stage": "group",
       "home": "Brazil",
       "away": "Haiti",
-      "homeScore": 0,
+      "homeScore": 3,
       "awayScore": 0,
-      "status": "scheduled",
+      "status": "live",
       "id": "760444",
       "date": "2026-06-20T00:30Z",
-      "venue": "Lincoln Financial Field"
+      "venue": "Lincoln Financial Field",
+      "clock": 2700,
+      "displayClock": "45'+6'",
+      "detail": "HT",
+      "period": 1
     },
     {
       "stage": "group",

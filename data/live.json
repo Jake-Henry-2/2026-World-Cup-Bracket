@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-20T21:22:42.222Z",
+  "lastUpdated": "2026-06-20T22:39:38.309Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -369,16 +369,12 @@
       "stage": "group",
       "home": "Germany",
       "away": "Ivory Coast",
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 1,
-      "status": "live",
+      "status": "finished",
       "id": "760448",
       "date": "2026-06-20T20:00Z",
-      "venue": "BMO Field",
-      "clock": 3600,
-      "displayClock": "60'",
-      "detail": "60'",
-      "period": 2
+      "venue": "BMO Field"
     },
     {
       "stage": "group",

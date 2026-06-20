@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-20T21:22:42.319Z",
+  "lastUpdated": "2026-06-20T22:39:38.365Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -29905,64 +29905,64 @@
       "venue": "BMO Field",
       "stats": {
         "home": {
-          "foulsCommitted": "2",
+          "foulsCommitted": "5",
           "yellowCards": "0",
           "redCards": "0",
           "offsides": "0",
-          "wonCorners": "5",
+          "wonCorners": "8",
           "saves": "1",
-          "possessionPct": "60.8",
+          "possessionPct": "59.4",
+          "totalShots": "16",
+          "shotsOnTarget": "7",
+          "shotPct": "0.4",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "554",
+          "totalPasses": "622",
+          "passPct": "0.9",
+          "accurateCrosses": "5",
+          "totalCrosses": "21",
+          "crossPct": "0.2",
+          "totalLongBalls": "30",
+          "accurateLongBalls": "17",
+          "longballPct": "0.6",
+          "blockedShots": "4",
+          "effectiveTackles": "17",
+          "totalTackles": "26",
+          "tacklePct": "0.7",
+          "interceptions": "7",
+          "effectiveClearance": "16",
+          "totalClearance": "16"
+        },
+        "away": {
+          "foulsCommitted": "7",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "1",
+          "wonCorners": "3",
+          "saves": "5",
+          "possessionPct": "40.6",
           "totalShots": "9",
           "shotsOnTarget": "2",
           "shotPct": "0.2",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "390",
-          "totalPasses": "437",
+          "accuratePasses": "367",
+          "totalPasses": "431",
           "passPct": "0.9",
-          "accurateCrosses": "3",
-          "totalCrosses": "11",
-          "crossPct": "0.3",
-          "totalLongBalls": "22",
-          "accurateLongBalls": "13",
-          "longballPct": "0.6",
-          "blockedShots": "4",
-          "effectiveTackles": "11",
-          "totalTackles": "16",
-          "tacklePct": "0.7",
-          "interceptions": "3",
-          "effectiveClearance": "10",
-          "totalClearance": "10"
-        },
-        "away": {
-          "foulsCommitted": "5",
-          "yellowCards": "0",
-          "redCards": "0",
-          "offsides": "1",
-          "wonCorners": "2",
-          "saves": "2",
-          "possessionPct": "39.2",
-          "totalShots": "8",
-          "shotsOnTarget": "2",
-          "shotPct": "0.3",
-          "penaltyKickGoals": "0",
-          "penaltyKickShots": "0",
-          "accuratePasses": "250",
-          "totalPasses": "284",
-          "passPct": "0.9",
-          "accurateCrosses": "4",
-          "totalCrosses": "7",
+          "accurateCrosses": "5",
+          "totalCrosses": "9",
           "crossPct": "0.6",
-          "totalLongBalls": "37",
-          "accurateLongBalls": "20",
+          "totalLongBalls": "58",
+          "accurateLongBalls": "29",
           "longballPct": "0.5",
-          "blockedShots": "4",
-          "effectiveTackles": "10",
-          "totalTackles": "18",
+          "blockedShots": "5",
+          "effectiveTackles": "11",
+          "totalTackles": "20",
           "tacklePct": "0.6",
-          "interceptions": "11",
-          "effectiveClearance": "16",
-          "totalClearance": "16"
+          "interceptions": "13",
+          "effectiveClearance": "26",
+          "totalClearance": "26"
         }
       },
       "events": [
@@ -29977,6 +29977,72 @@
           "min": "45'",
           "side": "home",
           "player": "Substitution, Germany. Antonio Rüdiger replaces Nico Schlotterbeck because of an injury."
+        },
+        {
+          "kind": "Substitution",
+          "min": "60'",
+          "side": "home",
+          "player": "Substitution, Germany. Jamie Leweling replaces Leroy Sané."
+        },
+        {
+          "kind": "Substitution",
+          "min": "60'",
+          "side": "home",
+          "player": "Substitution, Germany. Deniz Undav replaces Jamal Musiala."
+        },
+        {
+          "kind": "Substitution",
+          "min": "60'",
+          "side": "home",
+          "player": "Substitution, Germany. Nadiem Amiri replaces Aleksandar Pavlovic."
+        },
+        {
+          "kind": "Goal",
+          "min": "68'",
+          "side": "home",
+          "player": "Goal! Germany 1, Côte d'Ivoire 1. Deniz Undav"
+        },
+        {
+          "kind": "Substitution",
+          "min": "75'",
+          "side": "away",
+          "player": "Substitution, Côte d'Ivoire. Evann Guessand replaces Ange-Yoan Bonny."
+        },
+        {
+          "kind": "Substitution",
+          "min": "75'",
+          "side": "away",
+          "player": "Substitution, Côte d'Ivoire. Seko Fofana replaces Ibrahim Sangaré."
+        },
+        {
+          "kind": "Substitution",
+          "min": "75'",
+          "side": "away",
+          "player": "Substitution, Côte d'Ivoire. Simon Adingra replaces Amad Diallo."
+        },
+        {
+          "kind": "Substitution",
+          "min": "82'",
+          "side": "away",
+          "player": "Substitution, Côte d'Ivoire. Guéla Doué replaces Wilfried Singo because of an injury."
+        },
+        {
+          "kind": "Substitution",
+          "min": "85'",
+          "side": "away",
+          "player": "Substitution, Côte d'Ivoire. Nicolas Pépé replaces Yan Diomande."
+        },
+        {
+          "kind": "Substitution",
+          "min": "85'",
+          "side": "home",
+          "player": "Substitution, Germany. Leon Goretzka replaces Kai Havertz."
+        },
+        {
+          "kind": "Goal",
+          "min": "90'+4'",
+          "side": "home",
+          "player": "Goal! Germany 2, Côte d'Ivoire 1. Deniz Undav"
         }
       ],
       "lineups": {
@@ -30361,6 +30427,206 @@
       },
       "commentary": [
         {
+          "min": "",
+          "text": "Match ends, Germany 2, Côte d'Ivoire 1.",
+          "goal": false
+        },
+        {
+          "min": "98'",
+          "text": "Second Half ends, Germany 2, Côte d'Ivoire 1.",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Goal! Germany 2, Côte d'Ivoire 1. Deniz Undav (Germany) left footed shot from the centre of the box to the bottom left corner. Assisted by Felix Nmecha with a through ball.",
+          "goal": true
+        },
+        {
+          "min": "90'+3'",
+          "text": "Florian Wirtz (Germany) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Foul by Guéla Doué (Côte d'Ivoire).",
+          "goal": false
+        },
+        {
+          "min": "91'+1'",
+          "text": "Fourth official has announced 6 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Attempt saved. Nadiem Amiri (Germany) right footed shot from the centre of the box is saved in the bottom right corner by Yahia Fofana (Côte d'Ivoire). Assisted by Deniz Undav.",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Attempt saved. Nathaniel Brown (Germany) left footed shot from the left side of the box is saved in the centre of the goal by Yahia Fofana (Côte d'Ivoire). Assisted by Florian Wirtz.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Felix Nmecha (Germany) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Foul by Evann Guessand (Côte d'Ivoire).",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Attempt saved. Deniz Undav (Germany) right footed shot from outside the box is saved in the top right corner by Yahia Fofana (Côte d'Ivoire). Assisted by Joshua Kimmich with a headed pass.",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Substitution, Germany. Leon Goretzka replaces Kai Havertz.",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Substitution, Côte d'Ivoire. Nicolas Pépé replaces Yan Diomande.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Attempt blocked. Seko Fofana (Côte d'Ivoire) right footed shot from outside the box is blocked. Assisted by Simon Adingra.",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Corner, Côte d'Ivoire. Conceded by Jonathan Tah.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Substitution, Côte d'Ivoire. Guéla Doué replaces Wilfried Singo because of an injury.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Foul by Florian Wirtz (Germany).",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Yan Diomande (Côte d'Ivoire) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Delay in match (Germany).",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Delay in match because of an injury Wilfried Singo (Côte d'Ivoire).",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Foul by Felix Nmecha (Germany).",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Christ Inao Oulaï (Côte d'Ivoire) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Substitution, Côte d'Ivoire. Simon Adingra replaces Amad Diallo.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Substitution, Côte d'Ivoire. Seko Fofana replaces Ibrahim Sangaré.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Substitution, Côte d'Ivoire. Evann Guessand replaces Ange-Yoan Bonny.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Goal! Germany 1, Côte d'Ivoire 1. Deniz Undav (Germany) left footed shot from very close range to the high centre of the goal. Assisted by Nadiem Amiri with a cross.",
+          "goal": true
+        },
+        {
+          "min": "67'",
+          "text": "Foul by Deniz Undav (Germany).",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Yahia Fofana (Côte d'Ivoire) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Corner, Germany. Conceded by Ibrahim Sangaré.",
+          "goal": false
+        },
+        {
+          "min": "63'",
+          "text": "Attempt missed. Kai Havertz (Germany) header from the right side of the six yard box is close, but misses to the right. Assisted by Joshua Kimmich with a cross following a corner.",
+          "goal": false
+        },
+        {
+          "min": "63'",
+          "text": "Corner, Germany. Conceded by Wilfried Singo.",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Attempt missed. Jamie Leweling (Germany) left footed shot from outside the box is high and wide to the left. Assisted by Deniz Undav.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Substitution, Germany. Nadiem Amiri replaces Aleksandar Pavlovic.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Substitution, Germany. Deniz Undav replaces Jamal Musiala.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Substitution, Germany. Jamie Leweling replaces Leroy Sané.",
+          "goal": false
+        },
+        {
+          "min": "59'",
+          "text": "Corner, Germany. Conceded by Amad Diallo.",
+          "goal": false
+        },
+        {
           "min": "59'",
           "text": "Corner, Germany. Conceded by Amad Diallo.",
           "goal": false
@@ -30459,166 +30725,16 @@
           "min": "45'",
           "text": "Fourth official has announced 7 minutes of added time.",
           "goal": false
-        },
-        {
-          "min": "42'",
-          "text": "Attempt blocked. Jamal Musiala (Germany) left footed shot from outside the box is blocked.",
-          "goal": false
-        },
-        {
-          "min": "41'",
-          "text": "Corner, Germany. Conceded by Ghislain Konan.",
-          "goal": false
-        },
-        {
-          "min": "41'",
-          "text": "Attempt blocked. Florian Wirtz (Germany) right footed shot from the centre of the box is blocked. Assisted by Jamal Musiala.",
-          "goal": false
-        },
-        {
-          "min": "40'",
-          "text": "Jamal Musiala (Germany) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "40'",
-          "text": "Foul by Franck Kessie (Côte d'Ivoire).",
-          "goal": false
-        },
-        {
-          "min": "39'",
-          "text": "Foul by Jamal Musiala (Germany).",
-          "goal": false
-        },
-        {
-          "min": "39'",
-          "text": "Odilon Kossounou (Côte d'Ivoire) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "38'",
-          "text": "Attempt saved. Ange-Yoan Bonny (Côte d'Ivoire) right footed shot from outside the box is saved in the top right corner by Manuel Neuer (Germany). Assisted by Yan Diomande.",
-          "goal": false
-        },
-        {
-          "min": "37'",
-          "text": "Handball by Christ Inao Oulaï (Côte d'Ivoire).",
-          "goal": false
-        },
-        {
-          "min": "30'",
-          "text": "Goal! Germany 0, Côte d'Ivoire 1. Franck Kessie (Côte d'Ivoire) right footed shot from the centre of the box to the bottom left corner.",
-          "goal": true
-        },
-        {
-          "min": "30'",
-          "text": "Attempt blocked. Amad Diallo (Côte d'Ivoire) left footed shot from very close range is blocked. Assisted by Yan Diomande with a cross.",
-          "goal": false
-        },
-        {
-          "min": "28'",
-          "text": "Delay over. They are ready to continue.",
-          "goal": false
-        },
-        {
-          "min": "25'",
-          "text": "Delay in match for a drinks break.",
-          "goal": false
-        },
-        {
-          "min": "23'",
-          "text": "Delay over. They are ready to continue.",
-          "goal": false
-        },
-        {
-          "min": "22'",
-          "text": "Delay in match because of an injury Yahia Fofana (Côte d'Ivoire).",
-          "goal": false
-        },
-        {
-          "min": "21'",
-          "text": "Foul by Aleksandar Pavlovic (Germany).",
-          "goal": false
-        },
-        {
-          "min": "21'",
-          "text": "Yahia Fofana (Côte d'Ivoire) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "21'",
-          "text": "Corner, Germany. Conceded by Ibrahim Sangaré.",
-          "goal": false
-        },
-        {
-          "min": "21'",
-          "text": "Attempt blocked. Felix Nmecha (Germany) right footed shot from outside the box is blocked. Assisted by Nico Schlotterbeck.",
-          "goal": false
-        },
-        {
-          "min": "18'",
-          "text": "Attempt missed. Jamal Musiala (Germany) right footed shot from outside the box misses to the right. Assisted by Aleksandar Pavlovic.",
-          "goal": false
-        },
-        {
-          "min": "15'",
-          "text": "Delay over. They are ready to continue.",
-          "goal": false
-        },
-        {
-          "min": "14'",
-          "text": "Delay in match because of an injury Nico Schlotterbeck (Germany).",
-          "goal": false
-        },
-        {
-          "min": "12'",
-          "text": "Attempt blocked. Wilfried Singo (Côte d'Ivoire) left footed shot from the centre of the box is blocked.",
-          "goal": false
-        },
-        {
-          "min": "11'",
-          "text": "Jamal Musiala (Germany) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "11'",
-          "text": "Foul by Wilfried Singo (Côte d'Ivoire).",
-          "goal": false
-        },
-        {
-          "min": "10'",
-          "text": "Attempt saved. Kai Havertz (Germany) header from the centre of the box is saved in the bottom left corner by Yahia Fofana (Côte d'Ivoire). Assisted by Joshua Kimmich with a cross.",
-          "goal": false
-        },
-        {
-          "min": "4'",
-          "text": "Offside, Côte d'Ivoire. Franck Kessie is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "1'",
-          "text": "Attempt missed. Kai Havertz (Germany) left footed shot from the centre of the box is too high. Assisted by Florian Wirtz.",
-          "goal": false
-        },
-        {
-          "min": "",
-          "text": "First Half begins.",
-          "goal": false
-        },
-        {
-          "min": "",
-          "text": "Lineups are announced and players are warming up.",
-          "goal": false
         }
       ],
       "leaders": [
         {
           "label": "Total Shots",
           "home": {
-            "name": "J. Musiala",
-            "num": "10",
-            "pos": "M",
-            "value": "2"
+            "name": "K. Havertz",
+            "num": "7",
+            "pos": "F",
+            "value": "3"
           },
           "away": {
             "name": "F. Kessié",
@@ -30630,31 +30746,31 @@
         {
           "label": "Accurate Passes",
           "home": {
-            "name": "A. Pavlovic",
-            "num": "5",
-            "pos": "M",
-            "value": "64"
+            "name": "J. Tah",
+            "num": "4",
+            "pos": "D",
+            "value": "89"
           },
           "away": {
-            "name": "O. Kossounou",
-            "num": "7",
+            "name": "E. Agbadou",
+            "num": "20",
             "pos": "D",
-            "value": "33"
+            "value": "50"
           }
         },
         {
           "label": "Defensive Interventions",
           "home": {
-            "name": "F. Nmecha",
-            "num": "23",
-            "pos": "M",
-            "value": "7"
+            "name": "J. Tah",
+            "num": "4",
+            "pos": "D",
+            "value": "12"
           },
           "away": {
-            "name": "O. Kossounou",
-            "num": "7",
+            "name": "E. Agbadou",
+            "num": "20",
             "pos": "D",
-            "value": "10"
+            "value": "13"
           }
         },
         {
@@ -30669,12 +30785,18 @@
             "name": "Y. Fofana",
             "num": "1",
             "pos": "G",
-            "value": "2"
+            "value": "5"
           }
         }
       ],
-      "highlight": null,
-      "final": false,
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0620/ss_20260620_182138801_35705281106/ss_20260620_182138801_35705281106.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49129653/germany-really-struggled-late-win-vs-ivory-coast",
+        "headline": "Klinsmann: Germany 'really struggled' despite late win vs. Ivory Coast",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0620/ss_20260620_182138801_3570528/ss_20260620_182138801_3570528_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0620/ss_20260620_182138801_3570528/ss_20260620_182138801_3570528/playlist.m3u8"
+      },
+      "final": true,
       "dv": 5
     }
   }

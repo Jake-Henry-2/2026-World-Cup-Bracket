@@ -1,13 +1,41 @@
 {
-  "lastUpdated": "2026-06-20T19:57:01.424Z",
+  "lastUpdated": "2026-06-20T21:22:42.289Z",
   "source": "ESPN",
   "articles": [
     {
+      "headline": "Brazil confirm Raphinha hamstring injury; World Cup return uncertain",
+      "description": "Brazil forward Raphinha will undergo treatment on a hamstring injury with the hope of him returning to the World Cup.",
+      "published": "2026-06-20T21:19:21Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49129032/brazil-confirm-raphinha-hamstring-injury-world-cup-2026-return-uncertain-group-c",
+      "image": "https://a.espncdn.com/photo/2026/0620/r1676772_1296x729_16-9.jpg"
+    },
+    {
       "headline": "World Cup Daily: Germany vs. Ivory Coast LIVE; Dutch win big; Norway fans in NYC",
       "description": "It's yet another weekend of 2026 FIFA World Cup action, with four games slated for Saturday and a Norway fan takeover in New York City.",
-      "published": "2026-06-20T19:54:43Z",
+      "published": "2026-06-20T21:16:17Z",
       "link": "https://www.espn.com/soccer/story/_/id/49122322/world-cup-daily-norway-fans-take-s-square-viking-row-germany-netherlands-action",
       "image": "https://a.espncdn.com/photo/2026/0620/r1676709_2_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "2026 World Cup: How teams can advance to the knockout rounds",
+      "description": "Who can secure qualification before the group stage ends, and whose World Cup dreams could be shattered? Here's what you need to know.",
+      "published": "2026-06-20T20:52:34Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49031236/2026-world-cup-group-stage-clinching-scenarios-knockout-rounds-elimination",
+      "image": "https://a.espncdn.com/photo/2026/0617/r1674586_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Gary Lineker makes ITV appearance at World Cup after BBC exit",
+      "description": "Gary Lineker appeared on ITV's World Cup coverage on Saturday, having left their rival broadcaster, the BBC.",
+      "published": "2026-06-20T20:17:03Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49125917/gary-lineker-makes-itv-appearance-world-cup-bbc-exit",
+      "image": "https://a.espncdn.com/photo/2025/0422/r1482221_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Australia captain Maty Ryan puts team first despite bench spot",
+      "description": "Australia captain Maty Ryan has said he is hurting to be sat behind Patrick Beach in the Socceroo goal after a \"gut feeling\" informed coach Tony Popovic's move to go with the youngster.",
+      "published": "2026-06-20T19:59:55Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49127750/australia-captain-maty-ryan-puts-team-first-bench-spot",
+      "image": "https://a.espncdn.com/photo/2026/0620/r1676689_1296x729_16-9.jpg"
     },
     {
       "headline": "England's Dan Burn on how the team will mark Father's Day",
@@ -15,34 +43,6 @@
       "published": "2026-06-20T19:52:10Z",
       "link": "https://www.espn.com/video/clip/_/id/49128401/england-dan-burn-how-team-mark-father-day",
       "image": "https://a.espncdn.com/media/motion/2026/0620/dm_260620_Englands_Dan_Burn_on_how_the_team_will_mark_Fathers_Day/dm_260620_Englands_Dan_Burn_on_how_the_team_will_mark_Fathers_Day.jpg"
-    },
-    {
-      "headline": "Re-ranking Africa's World Cup teams after their opening matches",
-      "description": "With everyone having played once, how have their performances stacked up against our original list, and what does a revised ranking look like now?",
-      "published": "2026-06-20T19:46:23Z",
-      "link": "https://www.espn.com/espn/story/_/id/49106350/re-ranking-africa-world-cup-teams-their-opening-matches",
-      "image": "https://a.espncdn.com/photo/2026/0615/r1673689_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "From Ayyoub Bouaddi to Yan Diomande - Which players are raising their transfer profiles at the FIFA World Cup?",
-      "description": "Nothing can change the trajectory of a player's career quite like a strong showing at the FIFA World Cup, and a number of players have already raised their profiles in the opening salvos.",
-      "published": "2026-06-20T19:45:40Z",
-      "link": "https://www.espn.com/espn/story/_/id/49120469/from-ayyoub-bouaddi-yan-diomande-which-players-raising-their-transfer-profiles-fifa-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0615/r1673413_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Jérémy Doku out of Belgium's World Cup game against Iran",
-      "description": "Belgium's Jérémy Doku will not play in his team's World Cup match against Iran on Sunday due to illness.",
-      "published": "2026-06-20T19:55:26Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49128265/jeremy-doku-belgium-world-cup-game-iran",
-      "image": "https://a.espncdn.com/photo/2026/0610/r1671010_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Ogden: Summerville is great option for Manchester United's transfer plans",
-      "description": "Ogden: Summerville is great option for Manchester United's transfer plans.",
-      "published": "2026-06-20T19:27:59Z",
-      "link": "https://www.espn.com/video/clip/_/id/49128147/summerville-great-option-manchester-united-transfer-plans",
-      "image": "https://a.espncdn.com/media/motion/2026/0620/dm_260620_Ogden_Summerville_is_great_option_for_Manchester_Uniteds_transfer_plans/dm_260620_Ogden_Summerville_is_great_option_for_Manchester_Uniteds_transfer_plans.jpg"
     }
   ]
 }

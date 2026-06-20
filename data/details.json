@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-20T19:57:01.490Z",
+  "lastUpdated": "2026-06-20T21:22:42.319Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -29899,6 +29899,782 @@
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0620/dm_260620_Dutch_fans_celebrate_Brobbeys_opening_goal_vs_Sweden/dm_260620_Dutch_fans_celebrate_Brobbeys_opening_goal_vs_Sweden/playlist.m3u8"
       },
       "final": true,
+      "dv": 5
+    },
+    "760448": {
+      "venue": "BMO Field",
+      "stats": {
+        "home": {
+          "foulsCommitted": "2",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "5",
+          "saves": "1",
+          "possessionPct": "60.8",
+          "totalShots": "9",
+          "shotsOnTarget": "2",
+          "shotPct": "0.2",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "390",
+          "totalPasses": "437",
+          "passPct": "0.9",
+          "accurateCrosses": "3",
+          "totalCrosses": "11",
+          "crossPct": "0.3",
+          "totalLongBalls": "22",
+          "accurateLongBalls": "13",
+          "longballPct": "0.6",
+          "blockedShots": "4",
+          "effectiveTackles": "11",
+          "totalTackles": "16",
+          "tacklePct": "0.7",
+          "interceptions": "3",
+          "effectiveClearance": "10",
+          "totalClearance": "10"
+        },
+        "away": {
+          "foulsCommitted": "5",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "1",
+          "wonCorners": "2",
+          "saves": "2",
+          "possessionPct": "39.2",
+          "totalShots": "8",
+          "shotsOnTarget": "2",
+          "shotPct": "0.3",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "250",
+          "totalPasses": "284",
+          "passPct": "0.9",
+          "accurateCrosses": "4",
+          "totalCrosses": "7",
+          "crossPct": "0.6",
+          "totalLongBalls": "37",
+          "accurateLongBalls": "20",
+          "longballPct": "0.5",
+          "blockedShots": "4",
+          "effectiveTackles": "10",
+          "totalTackles": "18",
+          "tacklePct": "0.6",
+          "interceptions": "11",
+          "effectiveClearance": "16",
+          "totalClearance": "16"
+        }
+      },
+      "events": [
+        {
+          "kind": "Goal",
+          "min": "30'",
+          "side": "away",
+          "player": "Goal! Germany 0, Côte d'Ivoire 1. Franck Kessie"
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "home",
+          "player": "Substitution, Germany. Antonio Rüdiger replaces Nico Schlotterbeck because of an injury."
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Manuel Neuer",
+            "short": "M. Neuer",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Nico Schlotterbeck",
+            "short": "N. Schlotterbeck",
+            "num": "15",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Jonathan Tah",
+            "short": "J. Tah",
+            "num": "4",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Nathaniel Brown",
+            "short": "N. Brown",
+            "num": "18",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Joshua Kimmich",
+            "short": "J. Kimmich",
+            "num": "6",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Jamal Musiala",
+            "short": "J. Musiala",
+            "num": "10",
+            "pos": "AM",
+            "place": "10"
+          },
+          {
+            "name": "Aleksandar Pavlovic",
+            "short": "A. Pavlovic",
+            "num": "5",
+            "pos": "LM",
+            "place": "4"
+          },
+          {
+            "name": "Felix Nmecha",
+            "short": "F. Nmecha",
+            "num": "23",
+            "pos": "RM",
+            "place": "8"
+          },
+          {
+            "name": "Kai Havertz",
+            "short": "K. Havertz",
+            "num": "7",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Florian Wirtz",
+            "short": "F. Wirtz",
+            "num": "17",
+            "pos": "AM-L",
+            "place": "11"
+          },
+          {
+            "name": "Leroy Sané",
+            "short": "L. Sané",
+            "num": "19",
+            "pos": "AM-R",
+            "place": "7"
+          }
+        ],
+        "away": [
+          {
+            "name": "Yahia Fofana",
+            "short": "Y. Fofana",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Emmanuel Agbadou",
+            "short": "E. Agbadou",
+            "num": "20",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Odilon Kossounou",
+            "short": "O. Kossounou",
+            "num": "7",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Ibrahim Sangaré",
+            "short": "I. Sangaré",
+            "num": "18",
+            "pos": "DM",
+            "place": "4"
+          },
+          {
+            "name": "Ghislain Konan",
+            "short": "G. Konan",
+            "num": "3",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Wilfried Singo",
+            "short": "W. Singo",
+            "num": "5",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Christ Inao Oulaï",
+            "short": "C. Oulaï",
+            "num": "26",
+            "pos": "CM-L",
+            "place": "10"
+          },
+          {
+            "name": "Franck Kessié",
+            "short": "F. Kessié",
+            "num": "8",
+            "pos": "CM-R",
+            "place": "8"
+          },
+          {
+            "name": "Yan Diomande",
+            "short": "Y. Diomande",
+            "num": "11",
+            "pos": "LM",
+            "place": "11"
+          },
+          {
+            "name": "Amad Diallo",
+            "short": "A. Diallo",
+            "num": "15",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Ange-Yoan Bonny",
+            "short": "A. Bonny",
+            "num": "9",
+            "pos": "F",
+            "place": "9"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "David Raum",
+            "short": "D. Raum",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Deniz Undav",
+            "short": "D. Undav",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Angelo Stiller",
+            "short": "A. Stiller",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nadiem Amiri",
+            "short": "N. Amiri",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Oliver Baumann",
+            "short": "O. Baumann",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jamie Leweling",
+            "short": "J. Leweling",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Maximilian Beier",
+            "short": "M. Beier",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Alexander Nübel",
+            "short": "A. Nübel",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Leon Goretzka",
+            "short": "L. Goretzka",
+            "num": "8",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Antonio Rüdiger",
+            "short": "A. Rüdiger",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Assan Ouédraogo",
+            "short": "A. Ouédraogo",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Waldemar Anton",
+            "short": "W. Anton",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Pascal Gross",
+            "short": "P. Gross",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Malick Thiaw",
+            "short": "M. Thiaw",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nick Woltemade",
+            "short": "N. Woltemade",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Evan Ndicka",
+            "short": "E. Ndicka",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nicolas Pépé",
+            "short": "N. Pépé",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Guela Doué",
+            "short": "G. Doué",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Elye Wahi",
+            "short": "E. Wahi",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ousmane Diomande",
+            "short": "O. Diomande",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Oumar Diakité",
+            "short": "O. Diakité",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Christopher Operi",
+            "short": "C. Operi",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Simon Adingra",
+            "short": "S. Adingra",
+            "num": "10",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Parfait Guiagon",
+            "short": "P. Guiagon",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Seko Fofana",
+            "short": "S. Fofana",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jean Michaël Seri",
+            "short": "J. Seri",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mohamed Koné",
+            "short": "M. Koné",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Alban Lafont",
+            "short": "A. Lafont",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Bazoumana Touré",
+            "short": "B. Touré",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Evann Guessand",
+            "short": "E. Guessand",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-2-3-1",
+        "away": "4-1-4-1"
+      },
+      "commentary": [
+        {
+          "min": "59'",
+          "text": "Corner, Germany. Conceded by Amad Diallo.",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Jonathan Tah (Germany) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Foul by Ange-Yoan Bonny (Côte d'Ivoire).",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Attempt missed. Antonio Rüdiger (Germany) right footed shot from more than 35 yards is high and wide to the left. Assisted by Jonathan Tah.",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Attempt missed. Yan Diomande (Côte d'Ivoire) right footed shot from the centre of the box misses to the left.",
+          "goal": false
+        },
+        {
+          "min": "55'",
+          "text": "Aleksandar Pavlovic (Germany) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "55'",
+          "text": "Foul by Yan Diomande (Côte d'Ivoire).",
+          "goal": false
+        },
+        {
+          "min": "54'",
+          "text": "Corner, Côte d'Ivoire. Conceded by Felix Nmecha.",
+          "goal": false
+        },
+        {
+          "min": "51'",
+          "text": "Attempt missed. Christ Inao Oulaï (Côte d'Ivoire) right footed shot from the centre of the box is too high. Assisted by Amad Diallo following a fast break.",
+          "goal": false
+        },
+        {
+          "min": "50'",
+          "text": "Attempt blocked. Franck Kessie (Côte d'Ivoire) right footed shot from the centre of the box is blocked. Assisted by Amad Diallo.",
+          "goal": false
+        },
+        {
+          "min": "48'",
+          "text": "Corner, Germany. Conceded by Ibrahim Sangaré.",
+          "goal": false
+        },
+        {
+          "min": "46'",
+          "text": "Attempt blocked. Ghislain Konan (Côte d'Ivoire) left footed shot from outside the box is blocked. Assisted by Christ Inao Oulaï.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Substitution, Germany. Antonio Rüdiger replaces Nico Schlotterbeck because of an injury.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Second Half begins Germany 0, Côte d'Ivoire 1.",
+          "goal": false
+        },
+        {
+          "min": "53'",
+          "text": "First Half ends, Germany 0, Côte d'Ivoire 1.",
+          "goal": false
+        },
+        {
+          "min": "45'+7'",
+          "text": "Attempt saved. Florian Wirtz (Germany) right footed shot from the centre of the box is saved in the centre of the goal by Yahia Fofana (Côte d'Ivoire). Assisted by Felix Nmecha.",
+          "goal": false
+        },
+        {
+          "min": "45'+4'",
+          "text": "Corner, Côte d'Ivoire. Conceded by Nico Schlotterbeck.",
+          "goal": false
+        },
+        {
+          "min": "45'+2'",
+          "text": "Attempt blocked. Felix Nmecha (Germany) right footed shot from outside the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "45'+1'",
+          "text": "Corner, Germany. Conceded by Emmanuel Agbadou.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Fourth official has announced 7 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "42'",
+          "text": "Attempt blocked. Jamal Musiala (Germany) left footed shot from outside the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "41'",
+          "text": "Corner, Germany. Conceded by Ghislain Konan.",
+          "goal": false
+        },
+        {
+          "min": "41'",
+          "text": "Attempt blocked. Florian Wirtz (Germany) right footed shot from the centre of the box is blocked. Assisted by Jamal Musiala.",
+          "goal": false
+        },
+        {
+          "min": "40'",
+          "text": "Jamal Musiala (Germany) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "40'",
+          "text": "Foul by Franck Kessie (Côte d'Ivoire).",
+          "goal": false
+        },
+        {
+          "min": "39'",
+          "text": "Foul by Jamal Musiala (Germany).",
+          "goal": false
+        },
+        {
+          "min": "39'",
+          "text": "Odilon Kossounou (Côte d'Ivoire) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "38'",
+          "text": "Attempt saved. Ange-Yoan Bonny (Côte d'Ivoire) right footed shot from outside the box is saved in the top right corner by Manuel Neuer (Germany). Assisted by Yan Diomande.",
+          "goal": false
+        },
+        {
+          "min": "37'",
+          "text": "Handball by Christ Inao Oulaï (Côte d'Ivoire).",
+          "goal": false
+        },
+        {
+          "min": "30'",
+          "text": "Goal! Germany 0, Côte d'Ivoire 1. Franck Kessie (Côte d'Ivoire) right footed shot from the centre of the box to the bottom left corner.",
+          "goal": true
+        },
+        {
+          "min": "30'",
+          "text": "Attempt blocked. Amad Diallo (Côte d'Ivoire) left footed shot from very close range is blocked. Assisted by Yan Diomande with a cross.",
+          "goal": false
+        },
+        {
+          "min": "28'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "25'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "23'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "22'",
+          "text": "Delay in match because of an injury Yahia Fofana (Côte d'Ivoire).",
+          "goal": false
+        },
+        {
+          "min": "21'",
+          "text": "Foul by Aleksandar Pavlovic (Germany).",
+          "goal": false
+        },
+        {
+          "min": "21'",
+          "text": "Yahia Fofana (Côte d'Ivoire) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "21'",
+          "text": "Corner, Germany. Conceded by Ibrahim Sangaré.",
+          "goal": false
+        },
+        {
+          "min": "21'",
+          "text": "Attempt blocked. Felix Nmecha (Germany) right footed shot from outside the box is blocked. Assisted by Nico Schlotterbeck.",
+          "goal": false
+        },
+        {
+          "min": "18'",
+          "text": "Attempt missed. Jamal Musiala (Germany) right footed shot from outside the box misses to the right. Assisted by Aleksandar Pavlovic.",
+          "goal": false
+        },
+        {
+          "min": "15'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "14'",
+          "text": "Delay in match because of an injury Nico Schlotterbeck (Germany).",
+          "goal": false
+        },
+        {
+          "min": "12'",
+          "text": "Attempt blocked. Wilfried Singo (Côte d'Ivoire) left footed shot from the centre of the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "11'",
+          "text": "Jamal Musiala (Germany) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "11'",
+          "text": "Foul by Wilfried Singo (Côte d'Ivoire).",
+          "goal": false
+        },
+        {
+          "min": "10'",
+          "text": "Attempt saved. Kai Havertz (Germany) header from the centre of the box is saved in the bottom left corner by Yahia Fofana (Côte d'Ivoire). Assisted by Joshua Kimmich with a cross.",
+          "goal": false
+        },
+        {
+          "min": "4'",
+          "text": "Offside, Côte d'Ivoire. Franck Kessie is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "1'",
+          "text": "Attempt missed. Kai Havertz (Germany) left footed shot from the centre of the box is too high. Assisted by Florian Wirtz.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "First Half begins.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "Lineups are announced and players are warming up.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "J. Musiala",
+            "num": "10",
+            "pos": "M",
+            "value": "2"
+          },
+          "away": {
+            "name": "F. Kessié",
+            "num": "8",
+            "pos": "M",
+            "value": "2"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "A. Pavlovic",
+            "num": "5",
+            "pos": "M",
+            "value": "64"
+          },
+          "away": {
+            "name": "O. Kossounou",
+            "num": "7",
+            "pos": "D",
+            "value": "33"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "F. Nmecha",
+            "num": "23",
+            "pos": "M",
+            "value": "7"
+          },
+          "away": {
+            "name": "O. Kossounou",
+            "num": "7",
+            "pos": "D",
+            "value": "10"
+          }
+        },
+        {
+          "label": "Saves",
+          "home": {
+            "name": "M. Neuer",
+            "num": "1",
+            "pos": "G",
+            "value": "1"
+          },
+          "away": {
+            "name": "Y. Fofana",
+            "num": "1",
+            "pos": "G",
+            "value": "2"
+          }
+        }
+      ],
+      "highlight": null,
+      "final": false,
       "dv": 5
     }
   }

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-20T16:54:07.938Z",
+  "lastUpdated": "2026-06-20T18:09:15.267Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -358,12 +358,16 @@
       "stage": "group",
       "home": "Netherlands",
       "away": "Sweden",
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
-      "status": "scheduled",
+      "status": "live",
       "id": "760447",
       "date": "2026-06-20T17:00Z",
-      "venue": "NRG Stadium"
+      "venue": "NRG Stadium",
+      "clock": 2880,
+      "displayClock": "48'",
+      "detail": "48'",
+      "period": 2
     },
     {
       "stage": "group",

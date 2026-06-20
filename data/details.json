@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-20T16:54:08.041Z",
+  "lastUpdated": "2026-06-20T18:09:15.314Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -28972,6 +28972,793 @@
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0619/dm_260619_COM_SOC_Analysis_Nicol_Scotland_deserved_to_lose_vs_Morocco__20260619_GLOBAL_FIFA_WORLD_CUP/dm_260619_COM_SOC_Analysis_Nicol_Scotland_deserved_to_lose_vs_Morocco__20260619_GLOBAL_FIFA_WORLD_CUP/playlist.m3u8"
       },
       "final": true,
+      "dv": 5
+    },
+    "760447": {
+      "venue": "NRG Stadium",
+      "stats": {
+        "home": {
+          "foulsCommitted": "5",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "1",
+          "wonCorners": "1",
+          "saves": "4",
+          "possessionPct": "58.1",
+          "totalShots": "5",
+          "shotsOnTarget": "4",
+          "shotPct": "0.8",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "224",
+          "totalPasses": "251",
+          "passPct": "0.9",
+          "accurateCrosses": "2",
+          "totalCrosses": "11",
+          "crossPct": "0.2",
+          "totalLongBalls": "18",
+          "accurateLongBalls": "11",
+          "longballPct": "0.6",
+          "blockedShots": "0",
+          "effectiveTackles": "8",
+          "totalTackles": "9",
+          "tacklePct": "0.9",
+          "interceptions": "5",
+          "effectiveClearance": "5",
+          "totalClearance": "5"
+        },
+        "away": {
+          "foulsCommitted": "5",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "3",
+          "wonCorners": "2",
+          "saves": "2",
+          "possessionPct": "41.9",
+          "totalShots": "9",
+          "shotsOnTarget": "4",
+          "shotPct": "0.4",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "153",
+          "totalPasses": "182",
+          "passPct": "0.8",
+          "accurateCrosses": "1",
+          "totalCrosses": "6",
+          "crossPct": "0.2",
+          "totalLongBalls": "20",
+          "accurateLongBalls": "6",
+          "longballPct": "0.3",
+          "blockedShots": "1",
+          "effectiveTackles": "6",
+          "totalTackles": "11",
+          "tacklePct": "0.5",
+          "interceptions": "1",
+          "effectiveClearance": "10",
+          "totalClearance": "10"
+        }
+      },
+      "events": [
+        {
+          "kind": "Goal",
+          "min": "5'",
+          "side": "home",
+          "player": "Goal! Netherlands 1, Sweden 0. Brian Brobbey"
+        },
+        {
+          "kind": "Goal",
+          "min": "17'",
+          "side": "home",
+          "player": "Goal! Netherlands 2, Sweden 0. Brian Brobbey"
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "home",
+          "player": "Substitution, Netherlands. Crysencio Summerville replaces Donyell Malen."
+        },
+        {
+          "kind": "Goal",
+          "min": "47'",
+          "side": "home",
+          "player": "Goal! Netherlands 3, Sweden 0. Cody Gakpo"
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Bart Verbruggen",
+            "short": "B. Verbruggen",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Virgil van Dijk",
+            "short": "V. van Dijk",
+            "num": "4",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Jan Paul van Hecke",
+            "short": "J. van Hecke",
+            "num": "6",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Micky van de Ven",
+            "short": "M. van de Ven",
+            "num": "15",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Denzel Dumfries",
+            "short": "D. Dumfries",
+            "num": "22",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Frenkie de Jong",
+            "short": "F. de Jong",
+            "num": "21",
+            "pos": "CM",
+            "place": "4"
+          },
+          {
+            "name": "Tijjani Reijnders",
+            "short": "T. Reijnders",
+            "num": "14",
+            "pos": "LM",
+            "place": "8"
+          },
+          {
+            "name": "Ryan Gravenberch",
+            "short": "R. Gravenberch",
+            "num": "8",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Brian Brobbey",
+            "short": "B. Brobbey",
+            "num": "19",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Cody Gakpo",
+            "short": "C. Gakpo",
+            "num": "11",
+            "pos": "LF",
+            "place": "11"
+          },
+          {
+            "name": "Donyell Malen",
+            "short": "D. Malen",
+            "num": "18",
+            "pos": "RF",
+            "place": "10"
+          }
+        ],
+        "away": [
+          {
+            "name": "Kristoffer Nordfeldt",
+            "short": "K. Nordfeldt",
+            "num": "23",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Isak Hien",
+            "short": "I. Hien",
+            "num": "4",
+            "pos": "CD",
+            "place": "4"
+          },
+          {
+            "name": "Victor Lindelöf",
+            "short": "V. Lindelöf",
+            "num": "3",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Gustaf Lagerbielke",
+            "short": "G. Lagerbielke",
+            "num": "2",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Jesper Karlström",
+            "short": "J. Karlström",
+            "num": "16",
+            "pos": "SW",
+            "place": "8"
+          },
+          {
+            "name": "Yasin Ayari",
+            "short": "Y. Ayari",
+            "num": "18",
+            "pos": "CM-L",
+            "place": "11"
+          },
+          {
+            "name": "Benjamin Nygren",
+            "short": "B. Nygren",
+            "num": "10",
+            "pos": "CM-R",
+            "place": "7"
+          },
+          {
+            "name": "Gabriel Gudmundsson",
+            "short": "G. Gudmundsson",
+            "num": "5",
+            "pos": "LM",
+            "place": "3"
+          },
+          {
+            "name": "Alexander Bernhardsson",
+            "short": "A. Bernhardsson",
+            "num": "21",
+            "pos": "RM",
+            "place": "2"
+          },
+          {
+            "name": "Alexander Isak",
+            "short": "A. Isak",
+            "num": "9",
+            "pos": "CF-L",
+            "place": "10"
+          },
+          {
+            "name": "Viktor Gyökeres",
+            "short": "V. Gyökeres",
+            "num": "17",
+            "pos": "CF-R",
+            "place": "9"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Wout Weghorst",
+            "short": "W. Weghorst",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nathan Aké",
+            "short": "N. Aké",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Crysencio Summerville",
+            "short": "C. Summerville",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Lutsharel Geertruida",
+            "short": "L. Geertruida",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Marten de Roon",
+            "short": "M. de Roon",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Robin Roefs",
+            "short": "R. Roefs",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mats Wieffer",
+            "short": "M. Wieffer",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Guus Til",
+            "short": "G. Til",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Teun Koopmeiners",
+            "short": "T. Koopmeiners",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Noa Lang",
+            "short": "N. Lang",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mark Flekken",
+            "short": "M. Flekken",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Memphis Depay",
+            "short": "M. Depay",
+            "num": "10",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jorrel Hato",
+            "short": "J. Hato",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Justin Kluivert",
+            "short": "J. Kluivert",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Hjalmar Ekdal",
+            "short": "H. Ekdal",
+            "num": "14",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Herman Johansson",
+            "short": "H. Johansson",
+            "num": "6",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Ken Sema",
+            "short": "K. Sema",
+            "num": "13",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Taha Ali",
+            "short": "T. Ali",
+            "num": "26",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Anthony Elanga",
+            "short": "A. Elanga",
+            "num": "11",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Gustaf Nilsson",
+            "short": "G. Nilsson",
+            "num": "25",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Elliot Stroud",
+            "short": "E. Stroud",
+            "num": "24",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Eric Smith",
+            "short": "E. Smith",
+            "num": "20",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Carl Starfelt",
+            "short": "C. Starfelt",
+            "num": "15",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Jacob Widell Zetterström",
+            "short": "J. Widell Zetterström",
+            "num": "1",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Viktor Johansson",
+            "short": "V. Johansson",
+            "num": "12",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Mattias Svanberg",
+            "short": "M. Svanberg",
+            "num": "19",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Lucas Bergvall",
+            "short": "L. Bergvall",
+            "num": "7",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Besfort Zeneli",
+            "short": "B. Zeneli",
+            "num": "22",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Daniel Svensson",
+            "short": "D. Svensson",
+            "num": "8",
+            "pos": "",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-3-3",
+        "away": "3-1-4-2"
+      },
+      "commentary": [
+        {
+          "min": "47'",
+          "text": "Goal! Netherlands 3, Sweden 0. Cody Gakpo (Netherlands) left footed shot from very close range.",
+          "goal": true
+        },
+        {
+          "min": "46'",
+          "text": "Tijjani Reijnders (Netherlands) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "46'",
+          "text": "Foul by Jesper Karlström (Sweden).",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Substitution, Netherlands. Crysencio Summerville replaces Donyell Malen.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Second Half begins Netherlands 2, Sweden 0.",
+          "goal": false
+        },
+        {
+          "min": "50'",
+          "text": "First Half ends, Netherlands 2, Sweden 0.",
+          "goal": false
+        },
+        {
+          "min": "45'+5'",
+          "text": "Corner, Sweden. Conceded by Bart Verbruggen.",
+          "goal": false
+        },
+        {
+          "min": "45'+5'",
+          "text": "Attempt saved. Yasin Ayari (Sweden) right footed shot from outside the box is saved in the bottom left corner by Bart Verbruggen (Netherlands). Assisted by Viktor Gyökeres.",
+          "goal": false
+        },
+        {
+          "min": "45'+4'",
+          "text": "Foul by Virgil van Dijk (Netherlands).",
+          "goal": false
+        },
+        {
+          "min": "45'+4'",
+          "text": "Viktor Gyökeres (Sweden) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "45'+4'",
+          "text": "Attempt missed. Benjamin Nygren (Sweden) left footed shot from outside the box misses to the right.",
+          "goal": false
+        },
+        {
+          "min": "45'+3'",
+          "text": "Attempt saved. Viktor Gyökeres (Sweden) right footed shot from outside the box is saved in the bottom right corner by Bart Verbruggen (Netherlands).",
+          "goal": false
+        },
+        {
+          "min": "45'+2'",
+          "text": "Foul by Denzel Dumfries (Netherlands).",
+          "goal": false
+        },
+        {
+          "min": "45'+2'",
+          "text": "Yasin Ayari (Sweden) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Fourth official has announced 4 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "44'",
+          "text": "Offside, Sweden. Gustaf Lagerbielke is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "44'",
+          "text": "Foul by Ryan Gravenberch (Netherlands).",
+          "goal": false
+        },
+        {
+          "min": "44'",
+          "text": "Gabriel Gudmundsson (Sweden) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "41'",
+          "text": "Attempt missed. Yasin Ayari (Sweden) right footed shot from outside the box is too high. Assisted by Alexander Isak.",
+          "goal": false
+        },
+        {
+          "min": "38'",
+          "text": "Attempt saved. Cody Gakpo (Netherlands) right footed shot from outside the box is saved in the centre of the goal by Kristoffer Nordfeldt (Sweden). Assisted by Micky van de Ven.",
+          "goal": false
+        },
+        {
+          "min": "37'",
+          "text": "Attempt saved. Viktor Gyökeres (Sweden) right footed shot from the left side of the box is saved in the bottom right corner by Bart Verbruggen (Netherlands). Assisted by Alexander Isak.",
+          "goal": false
+        },
+        {
+          "min": "33'",
+          "text": "Attempt missed. Viktor Gyökeres (Sweden) right footed shot from the centre of the box is close, but misses to the right. Assisted by Alexander Isak.",
+          "goal": false
+        },
+        {
+          "min": "31'",
+          "text": "Attempt missed. Yasin Ayari (Sweden) right footed shot from the left side of the box misses to the right. Assisted by Viktor Gyökeres.",
+          "goal": false
+        },
+        {
+          "min": "27'",
+          "text": "Attempt blocked. Jesper Karlström (Sweden) right footed shot from the centre of the box is blocked. Assisted by Isak Hien with a headed pass.",
+          "goal": false
+        },
+        {
+          "min": "26'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "23'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "22'",
+          "text": "Foul by Denzel Dumfries (Netherlands).",
+          "goal": false
+        },
+        {
+          "min": "22'",
+          "text": "Alexander Bernhardsson (Sweden) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "22'",
+          "text": "Brian Brobbey (Netherlands) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "22'",
+          "text": "Foul by Gustaf Lagerbielke (Sweden).",
+          "goal": false
+        },
+        {
+          "min": "21'",
+          "text": "Denzel Dumfries (Netherlands) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "21'",
+          "text": "Foul by Benjamin Nygren (Sweden).",
+          "goal": false
+        },
+        {
+          "min": "19'",
+          "text": "Frenkie de Jong (Netherlands) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "19'",
+          "text": "Foul by Benjamin Nygren (Sweden).",
+          "goal": false
+        },
+        {
+          "min": "17'",
+          "text": "Goal! Netherlands 2, Sweden 0. Brian Brobbey (Netherlands) right footed shot from very close range to the bottom left corner. Assisted by Denzel Dumfries with a cross.",
+          "goal": true
+        },
+        {
+          "min": "15'",
+          "text": "Attempt missed. Tijjani Reijnders (Netherlands) left footed shot from the left side of the box misses to the left.",
+          "goal": false
+        },
+        {
+          "min": "14'",
+          "text": "Offside, Netherlands. Tijjani Reijnders is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "12'",
+          "text": "Corner, Netherlands. Conceded by Alexander Bernhardsson.",
+          "goal": false
+        },
+        {
+          "min": "11'",
+          "text": "Attempt saved. Cody Gakpo (Netherlands) header from the centre of the box is saved in the centre of the goal by Kristoffer Nordfeldt (Sweden). Assisted by Donyell Malen with a cross.",
+          "goal": false
+        },
+        {
+          "min": "9'",
+          "text": "Tijjani Reijnders (Netherlands) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "9'",
+          "text": "Foul by Jesper Karlström (Sweden).",
+          "goal": false
+        },
+        {
+          "min": "8'",
+          "text": "Offside, Sweden. Alexander Isak is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "7'",
+          "text": "Corner, Sweden. Conceded by Bart Verbruggen.",
+          "goal": false
+        },
+        {
+          "min": "7'",
+          "text": "Attempt saved. Viktor Gyökeres (Sweden) right footed shot from the right side of the box is saved in the bottom right corner by Bart Verbruggen (Netherlands). Assisted by Alexander Bernhardsson.",
+          "goal": false
+        },
+        {
+          "min": "5'",
+          "text": "Goal! Netherlands 1, Sweden 0. Brian Brobbey (Netherlands) right footed shot from very close range to the centre of the goal. Assisted by Cody Gakpo with a cross.",
+          "goal": true
+        },
+        {
+          "min": "3'",
+          "text": "Offside, Sweden. Viktor Gyökeres is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "2'",
+          "text": "Alexander Isak (Sweden) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "2'",
+          "text": "Foul by Jan Paul van Hecke (Netherlands).",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "First Half begins.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "Lineups are announced and players are warming up.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "B. Brobbey",
+            "num": "19",
+            "pos": "F",
+            "value": "2"
+          },
+          "away": {
+            "name": "V. Gyökeres",
+            "num": "17",
+            "pos": "F",
+            "value": "4"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "F. de Jong",
+            "num": "21",
+            "pos": "M",
+            "value": "47"
+          },
+          "away": {
+            "name": "I. Hien",
+            "num": "4",
+            "pos": "D",
+            "value": "24"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "F. de Jong",
+            "num": "21",
+            "pos": "M",
+            "value": "6"
+          },
+          "away": {
+            "name": "I. Hien",
+            "num": "4",
+            "pos": "D",
+            "value": "6"
+          }
+        },
+        {
+          "label": "Saves",
+          "home": {
+            "name": "B. Verbruggen",
+            "num": "1",
+            "pos": "G",
+            "value": "4"
+          },
+          "away": {
+            "name": "K. Nordfeldt",
+            "num": "23",
+            "pos": "G",
+            "value": "2"
+          }
+        }
+      ],
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0620/dm_260620_Dutch_fans_celebrate_Brobbeys_opening_goal_vs_Sweden/dm_260620_Dutch_fans_celebrate_Brobbeys_opening_goal_vs_Sweden.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49127415/dutch-fans-celebrate-brobbey-opening-goal-vs-sweden",
+        "headline": "Dutch fans celebrate Brobbey's opening goal vs. Sweden",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0620/dm_260620_Dutch_fans_celebrate_Brobbeys_opening_goal_vs_Sweden/dm_260620_Dutch_fans_celebrate_Brobbeys_opening_goal_vs_Sweden_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0620/dm_260620_Dutch_fans_celebrate_Brobbeys_opening_goal_vs_Sweden/dm_260620_Dutch_fans_celebrate_Brobbeys_opening_goal_vs_Sweden/playlist.m3u8"
+      },
+      "final": false,
       "dv": 5
     }
   }

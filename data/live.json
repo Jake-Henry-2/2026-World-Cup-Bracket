@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-20T01:37:30.259Z",
+  "lastUpdated": "2026-06-20T06:02:11.874Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -338,22 +338,18 @@
       "away": "Haiti",
       "homeScore": 3,
       "awayScore": 0,
-      "status": "live",
+      "status": "finished",
       "id": "760444",
       "date": "2026-06-20T00:30Z",
-      "venue": "Lincoln Financial Field",
-      "clock": 2700,
-      "displayClock": "45'+6'",
-      "detail": "HT",
-      "period": 1
+      "venue": "Lincoln Financial Field"
     },
     {
       "stage": "group",
       "home": "Türkiye",
       "away": "Paraguay",
       "homeScore": 0,
-      "awayScore": 0,
-      "status": "scheduled",
+      "awayScore": 1,
+      "status": "finished",
       "id": "760443",
       "date": "2026-06-20T03:00Z",
       "venue": "Levi's Stadium"
@@ -899,7 +895,7 @@
     },
     {
       "stage": "r32",
-      "home": "Group D Winner",
+      "home": "United States",
       "away": "Third Place Group B/E/F/I/J",
       "homeScore": 0,
       "awayScore": 0,

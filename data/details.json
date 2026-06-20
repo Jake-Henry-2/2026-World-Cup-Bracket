@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-20T01:37:30.418Z",
+  "lastUpdated": "2026-06-20T06:02:12.021Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -26275,68 +26275,966 @@
       "final": true,
       "dv": 5
     },
+    "760443": {
+      "venue": "Levi's Stadium",
+      "stats": {
+        "home": {
+          "foulsCommitted": "14",
+          "yellowCards": "1",
+          "redCards": "0",
+          "offsides": "2",
+          "wonCorners": "12",
+          "saves": "1",
+          "possessionPct": "78.5",
+          "totalShots": "32",
+          "shotsOnTarget": "5",
+          "shotPct": "0.2",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "559",
+          "totalPasses": "628",
+          "passPct": "0.9",
+          "accurateCrosses": "8",
+          "totalCrosses": "42",
+          "crossPct": "0.2",
+          "totalLongBalls": "42",
+          "accurateLongBalls": "28",
+          "longballPct": "0.7",
+          "blockedShots": "12",
+          "effectiveTackles": "12",
+          "totalTackles": "17",
+          "tacklePct": "0.7",
+          "interceptions": "6",
+          "effectiveClearance": "28",
+          "totalClearance": "28"
+        },
+        "away": {
+          "foulsCommitted": "15",
+          "yellowCards": "1",
+          "redCards": "1",
+          "offsides": "3",
+          "wonCorners": "0",
+          "saves": "5",
+          "possessionPct": "21.5",
+          "totalShots": "7",
+          "shotsOnTarget": "2",
+          "shotPct": "0.3",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "95",
+          "totalPasses": "178",
+          "passPct": "0.5",
+          "accurateCrosses": "2",
+          "totalCrosses": "6",
+          "crossPct": "0.3",
+          "totalLongBalls": "64",
+          "accurateLongBalls": "22",
+          "longballPct": "0.3",
+          "blockedShots": "2",
+          "effectiveTackles": "15",
+          "totalTackles": "25",
+          "tacklePct": "0.6",
+          "interceptions": "9",
+          "effectiveClearance": "47",
+          "totalClearance": "47"
+        }
+      },
+      "events": [
+        {
+          "kind": "Goal",
+          "min": "2'",
+          "side": "away",
+          "player": "Goal! Türkiye 0, Paraguay 1. Matías Galarza"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "4'",
+          "side": "away",
+          "player": "Matías Galarza"
+        },
+        {
+          "kind": "Red Card",
+          "min": "45'+3'",
+          "side": "away",
+          "player": "Miguel Almirón"
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "away",
+          "player": "Substitution, Paraguay. Damián Bobadilla replaces Isidro Pitta."
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "home",
+          "player": "Substitution, Türkiye. Baris Alper Yilmaz replaces Kerem Aktürkoglu."
+        },
+        {
+          "kind": "Substitution",
+          "min": "60'",
+          "side": "home",
+          "player": "Substitution, Türkiye. Can Uzun replaces Ismail Yüksek."
+        },
+        {
+          "kind": "Substitution",
+          "min": "60'",
+          "side": "home",
+          "player": "Substitution, Türkiye. Deniz Gül replaces Yunus Akgün."
+        },
+        {
+          "kind": "Substitution",
+          "min": "67'",
+          "side": "away",
+          "player": "Substitution, Paraguay. Gustavo Velázquez replaces Diego Gómez because of an injury."
+        },
+        {
+          "kind": "Substitution",
+          "min": "70'",
+          "side": "home",
+          "player": "Substitution, Türkiye. Eren Elmali replaces Ferdi Kadioglu."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "71'",
+          "side": "home",
+          "player": "Eren Elmali"
+        },
+        {
+          "kind": "Substitution",
+          "min": "81'",
+          "side": "away",
+          "player": "Substitution, Paraguay. Alexandro Maidana replaces Juan José Cáceres."
+        },
+        {
+          "kind": "Substitution",
+          "min": "86'",
+          "side": "home",
+          "player": "Substitution, Türkiye. Orkun Kökçü replaces Abdülkerim Bardakci."
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'+2'",
+          "side": "away",
+          "player": "Substitution, Paraguay. Gabriel Ávalos replaces Julio Enciso because of an injury."
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'+2'",
+          "side": "away",
+          "player": "Substitution, Paraguay. José Canale replaces Matías Galarza because of an injury."
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Ugurcan Çakir",
+            "short": "U. Çakir",
+            "num": "23",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Abdülkerim Bardakçi",
+            "short": "A. Bardakçi",
+            "num": "14",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Merih Demiral",
+            "short": "M. Demiral",
+            "num": "3",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Ferdi Kadioglu",
+            "short": "F. Kadioglu",
+            "num": "20",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Mert Müldür",
+            "short": "M. Müldür",
+            "num": "18",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Arda Güler",
+            "short": "A. Güler",
+            "num": "8",
+            "pos": "AM",
+            "place": "10"
+          },
+          {
+            "name": "Hakan Çalhanoglu",
+            "short": "H. Çalhanoglu",
+            "num": "10",
+            "pos": "LM",
+            "place": "4"
+          },
+          {
+            "name": "Ismail Yüksek",
+            "short": "I. Yüksek",
+            "num": "16",
+            "pos": "RM",
+            "place": "8"
+          },
+          {
+            "name": "Kerem Aktürkoglu",
+            "short": "K. Aktürkoglu",
+            "num": "7",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Kenan Yildiz",
+            "short": "K. Yildiz",
+            "num": "11",
+            "pos": "AM-L",
+            "place": "11"
+          },
+          {
+            "name": "Yunus Akgün",
+            "short": "Y. Akgün",
+            "num": "19",
+            "pos": "AM-R",
+            "place": "7"
+          }
+        ],
+        "away": [
+          {
+            "name": "Orlando Gil",
+            "short": "O. Gil",
+            "num": "12",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Omar Alderete",
+            "short": "O. Alderete",
+            "num": "3",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Gustavo Gómez",
+            "short": "G. Gómez",
+            "num": "15",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Júnior Alonso",
+            "short": "J. Alonso",
+            "num": "6",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Juan Jose Cáceres",
+            "short": "J. Cáceres",
+            "num": "4",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Diego Gómez",
+            "short": "D. Gómez",
+            "num": "8",
+            "pos": "CM-L",
+            "place": "8"
+          },
+          {
+            "name": "Andrés Cubas",
+            "short": "A. Cubas",
+            "num": "14",
+            "pos": "CM-R",
+            "place": "4"
+          },
+          {
+            "name": "Matías Galarza",
+            "short": "M. Galarza",
+            "num": "23",
+            "pos": "LM",
+            "place": "11"
+          },
+          {
+            "name": "Miguel Almirón",
+            "short": "M. Almirón",
+            "num": "10",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Julio Enciso",
+            "short": "J. Enciso",
+            "num": "19",
+            "pos": "CF-L",
+            "place": "9"
+          },
+          {
+            "name": "Isidro Pitta",
+            "short": "I. Pitta",
+            "num": "25",
+            "pos": "CF-R",
+            "place": "10"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Zeki Çelik",
+            "short": "Z. Çelik",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Can Uzun",
+            "short": "C. Uzun",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Irfan Can Kahveci",
+            "short": "I. Kahveci",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Deniz Gül",
+            "short": "D. Gül",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Eren Elmali",
+            "short": "E. Elmali",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Baris Alper Yilmaz",
+            "short": "B. Yilmaz",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Salih Özcan",
+            "short": "S. Özcan",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kaan Ayhan",
+            "short": "K. Ayhan",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Oguz Aydin",
+            "short": "O. Aydin",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Altay Bayindir",
+            "short": "A. Bayindir",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ozan Kabak",
+            "short": "O. Kabak",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Çaglar Söyüncü",
+            "short": "Ç. Söyüncü",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mert Günok",
+            "short": "M. Günok",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Samet Akaydin",
+            "short": "S. Akaydin",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Orkun Kökçü",
+            "short": "O. Kökçü",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Alejandro Romero Gamarra",
+            "short": "A. Romero Gamarra",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Damián Bobadilla",
+            "short": "D. Bobadilla",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Alexandro Maidana",
+            "short": "A. Maidana",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Braian Ojeda",
+            "short": "B. Ojeda",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gatito Fernández",
+            "short": "G. Fernández",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ramón Sosa",
+            "short": "R. Sosa",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "José Canale",
+            "short": "J. Canale",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gustavo Caballero",
+            "short": "G. Caballero",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Fabián Balbuena",
+            "short": "F. Balbuena",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Alex Arce",
+            "short": "A. Arce",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Antonio Sanabria",
+            "short": "A. Sanabria",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Maurício",
+            "short": "Maurício",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gastón Olveira",
+            "short": "G. Olveira",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gabriel Ávalos",
+            "short": "G. Ávalos",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gustavo Velázquez",
+            "short": "G. Velázquez",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-2-3-1",
+        "away": "4-4-2"
+      },
+      "commentary": [
+        {
+          "min": "",
+          "text": "Match ends, Türkiye 0, Paraguay 1.",
+          "goal": false
+        },
+        {
+          "min": "90'+9'",
+          "text": "Second Half ends, Türkiye 0, Paraguay 1.",
+          "goal": false
+        },
+        {
+          "min": "90'+9'",
+          "text": "Attempt missed. Hakan Çalhanoglu (Türkiye) right footed shot from outside the box is close, but misses to the left following a set piece situation.",
+          "goal": false
+        },
+        {
+          "min": "90'+9'",
+          "text": "Can Uzun (Türkiye) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "90'+9'",
+          "text": "Foul by Andrés Cubas (Paraguay).",
+          "goal": false
+        },
+        {
+          "min": "90'+8'",
+          "text": "Corner, Türkiye. Conceded by José Canale.",
+          "goal": false
+        },
+        {
+          "min": "90'+7'",
+          "text": "Attempt missed. Merih Demiral (Türkiye) header from the centre of the box misses to the right. Assisted by Arda Güler with a cross.",
+          "goal": false
+        },
+        {
+          "min": "90'+7'",
+          "text": "Attempt blocked. Can Uzun (Türkiye) right footed shot from outside the box is blocked. Assisted by Kenan Yildiz.",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Attempt blocked. Kenan Yildiz (Türkiye) right footed shot from the left side of the box is blocked. Assisted by Can Uzun.",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Arda Güler (Türkiye) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Foul by José Canale (Paraguay).",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Foul by Kenan Yildiz (Türkiye).",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Damián Bobadilla (Paraguay) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Foul by Deniz Gül (Türkiye).",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Gustavo Gómez (Paraguay) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Substitution, Paraguay. José Canale replaces Matías Galarza because of an injury.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Substitution, Paraguay. Gabriel Ávalos replaces Julio Enciso because of an injury.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Delay in match because of an injury Matías Galarza (Paraguay).",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Arda Güler (Türkiye) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Foul by Andrés Cubas (Paraguay).",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Fourth official has announced 7 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Attempt blocked. Matías Galarza (Paraguay) left footed shot from outside the box is blocked. Assisted by Julio Enciso.",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Attempt missed. Deniz Gül (Türkiye) left footed shot from the left side of the six yard box is close, but misses to the left.",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Attempt saved. Can Uzun (Türkiye) right footed shot from the centre of the box is saved in the bottom left corner by Orlando Gill (Paraguay). Assisted by Baris Alper Yilmaz.",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Attempt blocked. Gustavo Gómez (Paraguay) header from the centre of the box is blocked. Assisted by Julio Enciso with a cross.",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Foul by Eren Elmali (Türkiye).",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Matías Galarza (Paraguay) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Foul by Merih Demiral (Türkiye).",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Júnior Alonso (Paraguay) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Corner, Türkiye. Conceded by Júnior Alonso.",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Attempt blocked. Arda Güler (Türkiye) left footed shot from outside the box is blocked. Assisted by Can Uzun.",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Substitution, Türkiye. Orkun Kökçü replaces Abdülkerim Bardakci.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Offside, Paraguay. Júnior Alonso is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Foul by Abdülkerim Bardakci (Türkiye).",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Julio Enciso (Paraguay) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Attempt missed. Can Uzun (Türkiye) right footed shot from outside the box is close, but misses to the left. Assisted by Kenan Yildiz.",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Substitution, Paraguay. Alexandro Maidana replaces Juan José Cáceres.",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Attempt missed. Merih Demiral (Türkiye) right footed shot from the centre of the box is too high. Assisted by Mert Müldür with a cross.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Attempt missed. Mert Müldür (Türkiye) header from the centre of the box misses to the left. Assisted by Abdülkerim Bardakci with a cross.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Handball by Deniz Gül (Türkiye).",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Corner, Türkiye. Conceded by Andrés Cubas.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Attempt blocked. Hakan Çalhanoglu (Türkiye) right footed shot from outside the box is blocked. Assisted by Mert Müldür.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Corner, Türkiye. Conceded by Omar Alderete.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Attempt blocked. Mert Müldür (Türkiye) header from the centre of the box is blocked. Assisted by Arda Güler with a cross.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Corner, Türkiye. Conceded by Júnior Alonso.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Attempt missed. Baris Alper Yilmaz (Türkiye) right footed shot from outside the box is high and wide to the right. Assisted by Eren Elmali following a fast break.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Eren Elmali (Türkiye) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Foul by Eren Elmali (Türkiye).",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Juan José Cáceres (Paraguay) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "70'",
+          "text": "Substitution, Türkiye. Eren Elmali replaces Ferdi Kadioglu.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Foul by Baris Alper Yilmaz (Türkiye).",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Júnior Alonso (Paraguay) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Substitution, Paraguay. Gustavo Velázquez replaces Diego Gómez because of an injury.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Delay in match because of an injury Diego Gómez (Paraguay).",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Attempt missed. Merih Demiral (Türkiye) right footed shot from outside the box is high and wide to the right. Assisted by Can Uzun.",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Offside, Türkiye. Arda Güler is caught offside.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "K. Yildiz",
+            "num": "11",
+            "pos": "F",
+            "value": "6"
+          },
+          "away": {
+            "name": "M. Galarza",
+            "num": "23",
+            "pos": "M",
+            "value": "2"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "A. Bardakçi",
+            "num": "14",
+            "pos": "D",
+            "value": "98"
+          },
+          "away": {
+            "name": "J. Enciso",
+            "num": "19",
+            "pos": "M",
+            "value": "14"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "A. Bardakçi",
+            "num": "14",
+            "pos": "D",
+            "value": "13"
+          },
+          "away": {
+            "name": "A. Cubas",
+            "num": "14",
+            "pos": "M",
+            "value": "18"
+          }
+        },
+        {
+          "label": "Saves",
+          "home": {
+            "name": "U. Çakir",
+            "num": "23",
+            "pos": "G",
+            "value": "1"
+          },
+          "away": {
+            "name": "O. Gil",
+            "num": "12",
+            "pos": "G",
+            "value": "5"
+          }
+        }
+      ],
+      "highlight": null,
+      "final": true,
+      "dv": 5
+    },
     "760444": {
       "venue": "Lincoln Financial Field",
       "stats": {
         "home": {
-          "foulsCommitted": "6",
-          "yellowCards": "0",
+          "foulsCommitted": "13",
+          "yellowCards": "1",
           "redCards": "0",
-          "offsides": "5",
+          "offsides": "8",
           "wonCorners": "4",
-          "saves": "0",
-          "possessionPct": "62",
-          "totalShots": "6",
+          "saves": "3",
+          "possessionPct": "56.7",
+          "totalShots": "8",
           "shotsOnTarget": "5",
-          "shotPct": "0.8",
+          "shotPct": "0.6",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "249",
-          "totalPasses": "279",
+          "accuratePasses": "462",
+          "totalPasses": "525",
           "passPct": "0.9",
           "accurateCrosses": "1",
           "totalCrosses": "9",
           "crossPct": "0.1",
-          "totalLongBalls": "17",
-          "accurateLongBalls": "8",
+          "totalLongBalls": "44",
+          "accurateLongBalls": "20",
           "longballPct": "0.5",
           "blockedShots": "1",
-          "effectiveTackles": "3",
-          "totalTackles": "7",
-          "tacklePct": "0.4",
-          "interceptions": "5",
-          "effectiveClearance": "4",
-          "totalClearance": "4"
+          "effectiveTackles": "10",
+          "totalTackles": "21",
+          "tacklePct": "0.5",
+          "interceptions": "10",
+          "effectiveClearance": "14",
+          "totalClearance": "14"
         },
         "away": {
-          "foulsCommitted": "5",
-          "yellowCards": "2",
+          "foulsCommitted": "14",
+          "yellowCards": "3",
           "redCards": "0",
-          "offsides": "2",
-          "wonCorners": "1",
+          "offsides": "4",
+          "wonCorners": "4",
           "saves": "2",
-          "possessionPct": "38",
-          "totalShots": "0",
-          "shotsOnTarget": "0",
-          "shotPct": "0.0",
+          "possessionPct": "43.3",
+          "totalShots": "7",
+          "shotsOnTarget": "3",
+          "shotPct": "0.4",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "140",
-          "totalPasses": "174",
+          "accuratePasses": "332",
+          "totalPasses": "399",
           "passPct": "0.8",
-          "accurateCrosses": "0",
-          "totalCrosses": "2",
-          "crossPct": "0.0",
-          "totalLongBalls": "26",
-          "accurateLongBalls": "12",
-          "longballPct": "0.5",
-          "blockedShots": "0",
-          "effectiveTackles": "8",
-          "totalTackles": "11",
-          "tacklePct": "0.7",
-          "interceptions": "6",
-          "effectiveClearance": "16",
-          "totalClearance": "16"
+          "accurateCrosses": "3",
+          "totalCrosses": "11",
+          "crossPct": "0.3",
+          "totalLongBalls": "56",
+          "accurateLongBalls": "31",
+          "longballPct": "0.6",
+          "blockedShots": "1",
+          "effectiveTackles": "10",
+          "totalTackles": "16",
+          "tacklePct": "0.6",
+          "interceptions": "9",
+          "effectiveClearance": "22",
+          "totalClearance": "22"
         }
       },
       "events": [
@@ -26375,6 +27273,72 @@
           "min": "45'+4'",
           "side": "away",
           "player": "Frantzdy Pierrot"
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "away",
+          "player": "Substitution, Haiti. Dominique Simon replaces Carlens Arcus."
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "away",
+          "player": "Substitution, Haiti. Wilson Isidor replaces Frantzdy Pierrot."
+        },
+        {
+          "kind": "Substitution",
+          "min": "62'",
+          "side": "away",
+          "player": "Substitution, Haiti. Louicius Deedson replaces Josué Casimir."
+        },
+        {
+          "kind": "Substitution",
+          "min": "64'",
+          "side": "home",
+          "player": "Substitution, Brazil. Gabriel Martinelli replaces Lucas Paquetá."
+        },
+        {
+          "kind": "Substitution",
+          "min": "64'",
+          "side": "home",
+          "player": "Substitution, Brazil. Endrick replaces Matheus Cunha."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "65'",
+          "side": "home",
+          "player": "Douglas Santos"
+        },
+        {
+          "kind": "Substitution",
+          "min": "71'",
+          "side": "away",
+          "player": "Substitution, Haiti. Lenny Joseph replaces Ruben Providence."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "72'",
+          "side": "away",
+          "player": "Danley Jean Jacques"
+        },
+        {
+          "kind": "Substitution",
+          "min": "81'",
+          "side": "home",
+          "player": "Substitution, Brazil. Danilo Santos replaces Vinícius Júnior."
+        },
+        {
+          "kind": "Substitution",
+          "min": "81'",
+          "side": "home",
+          "player": "Substitution, Brazil. Éderson Silva replaces Bruno Guimarães."
+        },
+        {
+          "kind": "Substitution",
+          "min": "81'",
+          "side": "away",
+          "player": "Substitution, Haiti. Derrick Etienne replaces Jean-Ricner Bellegarde."
         }
       ],
       "lineups": {
@@ -26752,273 +27716,303 @@
       },
       "commentary": [
         {
-          "min": "52'",
-          "text": "First Half ends, Brazil 3, Haiti 0.",
+          "min": "",
+          "text": "Match ends, Brazil 3, Haiti 0.",
           "goal": false
         },
         {
-          "min": "52'",
-          "text": "First Half ends, Brazil 3, Haiti 0.",
+          "min": "90'+6'",
+          "text": "Second Half ends, Brazil 3, Haiti 0.",
           "goal": false
         },
         {
-          "min": "45'+7'",
-          "text": "Casemiro (Brazil) wins a free kick in the defensive half.",
+          "min": "90'+5'",
+          "text": "Foul by Rayan (Brazil).",
           "goal": false
         },
         {
-          "min": "45'+7'",
+          "min": "90'+5'",
+          "text": "Martin Expérience (Haiti) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Offside, Haiti. Jean-Kévin Duverne is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Corner, Haiti. Conceded by Alisson Becker.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Attempt saved. Dominique Simon (Haiti) right footed shot from outside the box is saved in the bottom left corner by Alisson Becker (Brazil). Assisted by Derrick Etienne.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Rayan (Brazil) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Foul by Ricardo Adé (Haiti).",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Attempt missed. Éderson Silva (Brazil) right footed shot from the right side of the six yard box misses to the left. Assisted by Gabriel Martinelli.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Fourth official has announced 5 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Offside, Haiti. Louicius Deedson is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Attempt missed. Ricardo Adé (Haiti) right footed shot from more than 35 yards misses to the left. Assisted by Wilson Isidor.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Corner, Haiti. Conceded by Alisson Becker.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Attempt saved. Wilson Isidor (Haiti) left footed shot from a difficult angle on the left is saved in the bottom left corner by Alisson Becker (Brazil). Assisted by Louicius Deedson.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Rayan (Brazil) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "87'",
           "text": "Foul by Martin Expérience (Haiti).",
           "goal": false
         },
         {
-          "min": "45'+4'",
-          "text": "Frantzdy Pierrot (Haiti) is shown the yellow card for a bad foul.",
+          "min": "86'",
+          "text": "Gabriel Martinelli (Brazil) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "45'+4'",
-          "text": "Gabriel Magalhães (Brazil) wins a free kick in the defensive half.",
+          "min": "86'",
+          "text": "Foul by Jean-Kévin Duverne (Haiti).",
           "goal": false
         },
         {
-          "min": "45'+4'",
-          "text": "Foul by Frantzdy Pierrot (Haiti).",
+          "min": "84'",
+          "text": "Casemiro (Brazil) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "45'+3'",
-          "text": "Goal! Brazil 3, Haiti 0. Vinícius Júnior (Brazil) right footed shot from the left side of the box to the centre of the goal. Assisted by Lucas Paquetá with a through ball.",
-          "goal": true
-        },
-        {
-          "min": "45'+2'",
-          "text": "Foul by Casemiro (Brazil).",
+          "min": "84'",
+          "text": "Foul by Martin Expérience (Haiti).",
           "goal": false
         },
         {
-          "min": "45'+2'",
-          "text": "Carlens Arcus (Haiti) wins a free kick in the defensive half.",
+          "min": "82'",
+          "text": "Foul by Éderson Silva (Brazil).",
           "goal": false
         },
         {
-          "min": "45'",
-          "text": "Fourth official has announced 6 minutes of added time.",
+          "min": "82'",
+          "text": "Ricardo Adé (Haiti) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "43'",
+          "min": "81'",
+          "text": "Substitution, Haiti. Derrick Etienne replaces Jean-Ricner Bellegarde.",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Substitution, Brazil. Éderson Silva replaces Bruno Guimarães.",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Substitution, Brazil. Danilo Santos replaces Vinícius Júnior.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Vinícius Júnior (Brazil) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Foul by Ricardo Adé (Haiti).",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Offside, Brazil. Endrick is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Casemiro (Brazil) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Foul by Martin Expérience (Haiti).",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Attempt missed. Douglas Santos (Brazil) left footed shot from the left side of the box is too high. Assisted by Rayan.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Bruno Guimarães (Brazil) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Foul by Lenny Joseph (Haiti).",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Foul by Rayan (Brazil).",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Jean-Ricner Bellegarde (Haiti) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Foul by Endrick (Brazil).",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Hannes Delcroix (Haiti) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Danley Jean Jacques (Haiti) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Gabriel Martinelli (Brazil) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Foul by Danley Jean Jacques (Haiti).",
+          "goal": false
+        },
+        {
+          "min": "72'",
           "text": "Delay over. They are ready to continue.",
           "goal": false
         },
         {
-          "min": "42'",
-          "text": "Delay in match because of an injury Josué Casimir (Haiti).",
+          "min": "71'",
+          "text": "Substitution, Haiti. Lenny Joseph replaces Ruben Providence.",
           "goal": false
         },
         {
-          "min": "41'",
-          "text": "Foul by Casemiro (Brazil).",
-          "goal": false
-        },
-        {
-          "min": "41'",
-          "text": "Frantzdy Pierrot (Haiti) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "40'",
-          "text": "Substitution, Brazil. Rayan replaces Raphinha because of an injury.",
-          "goal": false
-        },
-        {
-          "min": "40'",
-          "text": "Delay over. They are ready to continue.",
-          "goal": false
-        },
-        {
-          "min": "39'",
-          "text": "Delay in match because of an injury Raphinha (Brazil).",
-          "goal": false
-        },
-        {
-          "min": "39'",
-          "text": "Matheus Cunha (Brazil) wins a free kick on the left wing.",
-          "goal": false
-        },
-        {
-          "min": "39'",
-          "text": "Foul by Carlens Arcus (Haiti).",
-          "goal": false
-        },
-        {
-          "min": "38'",
-          "text": "Offside, Haiti. Carlens Arcus is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "36'",
-          "text": "Goal! Brazil 2, Haiti 0. Matheus Cunha (Brazil) left footed shot from the left side of the box to the top left corner. Assisted by Vinícius Júnior with a through ball following a fast break.",
-          "goal": true
-        },
-        {
-          "min": "34'",
-          "text": "Corner, Haiti. Conceded by Bruno Guimarães.",
-          "goal": false
-        },
-        {
-          "min": "31'",
-          "text": "Foul by Raphinha (Brazil).",
-          "goal": false
-        },
-        {
-          "min": "31'",
-          "text": "Martin Expérience (Haiti) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "31'",
-          "text": "Offside, Brazil. Vinícius Júnior is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "29'",
-          "text": "Attempt saved. Raphinha (Brazil) left footed shot from the centre of the box is saved in the bottom left corner by Johny Placide (Haiti). Assisted by Lucas Paquetá with a through ball.",
-          "goal": false
-        },
-        {
-          "min": "29'",
-          "text": "Delay over. They are ready to continue.",
-          "goal": false
-        },
-        {
-          "min": "26'",
+          "min": "69'",
           "text": "Delay in match for a drinks break.",
           "goal": false
         },
         {
-          "min": "23'",
-          "text": "Goal! Brazil 1, Haiti 0. Matheus Cunha (Brazil) left footed shot from the centre of the box to the bottom left corner following a fast break.",
-          "goal": true
-        },
-        {
-          "min": "23'",
-          "text": "Attempt saved. Vinícius Júnior (Brazil) right footed shot from the left side of the box is saved in the centre of the goal by Johny Placide (Haiti). Assisted by Bruno Guimarães.",
+          "min": "68'",
+          "text": "Offside, Brazil. Vinícius Júnior is caught offside.",
           "goal": false
         },
         {
-          "min": "22'",
-          "text": "Offside, Brazil. Raphinha is caught offside.",
+          "min": "67'",
+          "text": "Handball by Ricardo Adé (Haiti).",
           "goal": false
         },
         {
-          "min": "21'",
-          "text": "Corner, Brazil. Conceded by Carlens Arcus.",
+          "min": "66'",
+          "text": "Attempt missed. Jean-Kévin Duverne (Haiti) right footed shot from the left side of the box misses to the left. Assisted by Ruben Providence following a set piece situation.",
           "goal": false
         },
         {
-          "min": "19'",
-          "text": "Offside, Haiti. Carlens Arcus is caught offside.",
+          "min": "66'",
+          "text": "Attempt missed. Ruben Providence (Haiti) right footed shot from the left side of the box misses to the left following a set piece situation.",
           "goal": false
         },
         {
-          "min": "17'",
-          "text": "Corner, Brazil. Conceded by Josué Casimir.",
+          "min": "65'",
+          "text": "Douglas Santos (Brazil) is shown the yellow card for a bad foul.",
           "goal": false
         },
         {
-          "min": "17'",
-          "text": "Attempt blocked. Vinícius Júnior (Brazil) right footed shot from the left side of the box is blocked.",
+          "min": "65'",
+          "text": "Foul by Douglas Santos (Brazil).",
           "goal": false
         },
         {
-          "min": "17'",
-          "text": "Corner, Brazil. Conceded by Ricardo Adé.",
+          "min": "65'",
+          "text": "Wilson Isidor (Haiti) wins a free kick on the right wing.",
           "goal": false
         },
         {
-          "min": "14'",
+          "min": "64'",
+          "text": "Substitution, Brazil. Endrick replaces Matheus Cunha.",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Substitution, Brazil. Gabriel Martinelli replaces Lucas Paquetá.",
+          "goal": false
+        },
+        {
+          "min": "63'",
+          "text": "Attempt saved. Ricardo Adé (Haiti) header from the left side of the six yard box is saved in the top left corner by Alisson Becker (Brazil). Assisted by Jean-Ricner Bellegarde with a cross.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Substitution, Haiti. Louicius Deedson replaces Josué Casimir.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Corner, Haiti. Conceded by Danilo.",
+          "goal": false
+        },
+        {
+          "min": "61'",
           "text": "Foul by Danilo (Brazil).",
           "goal": false
         },
         {
-          "min": "14'",
+          "min": "61'",
           "text": "Ruben Providence (Haiti) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "13'",
-          "text": "Offside, Brazil. Danilo is caught offside.",
+          "min": "59'",
+          "text": "Offside, Brazil. Douglas Santos is caught offside.",
           "goal": false
         },
         {
-          "min": "12'",
-          "text": "Offside, Brazil. Raphinha is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "11'",
-          "text": "Gabriel Magalhães (Brazil) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "11'",
-          "text": "Foul by Josué Casimir (Haiti).",
-          "goal": false
-        },
-        {
-          "min": "9'",
-          "text": "Foul by Lucas Paquetá (Brazil).",
-          "goal": false
-        },
-        {
-          "min": "9'",
-          "text": "Frantzdy Pierrot (Haiti) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "6'",
-          "text": "Corner, Brazil. Conceded by Johny Placide.",
-          "goal": false
-        },
-        {
-          "min": "4'",
-          "text": "Offside, Brazil. Matheus Cunha is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "4'",
-          "text": "Carlens Arcus (Haiti) is shown the yellow card for a bad foul.",
-          "goal": false
-        },
-        {
-          "min": "4'",
-          "text": "Douglas Santos (Brazil) wins a free kick on the left wing.",
-          "goal": false
-        },
-        {
-          "min": "4'",
-          "text": "Foul by Carlens Arcus (Haiti).",
-          "goal": false
-        },
-        {
-          "min": "2'",
-          "text": "Foul by Bruno Guimarães (Brazil).",
-          "goal": false
-        },
-        {
-          "min": "2'",
-          "text": "Martin Expérience (Haiti) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "",
-          "text": "First Half begins.",
-          "goal": false
-        },
-        {
-          "min": "",
-          "text": "Lineups are announced and players are warming up.",
+          "min": "53'",
+          "text": "Foul by Douglas Santos (Brazil).",
           "goal": false
         }
       ],
@@ -27030,40 +28024,52 @@
             "num": "7",
             "pos": "F",
             "value": "3"
+          },
+          "away": {
+            "name": "R. Adé",
+            "num": "4",
+            "pos": "D",
+            "value": "2"
           }
         },
         {
           "label": "Accurate Passes",
           "home": {
-            "name": "G. Magalhães",
-            "num": "3",
+            "name": "Marquinhos",
+            "num": "4",
             "pos": "D",
-            "value": "44"
+            "value": "81"
           },
           "away": {
-            "name": "J. Bellegarde",
-            "num": "10",
-            "pos": "M",
-            "value": "25"
+            "name": "H. Delcroix",
+            "num": "5",
+            "pos": "D",
+            "value": "47"
           }
         },
         {
           "label": "Defensive Interventions",
           "home": {
-            "name": "L. Paquetá",
-            "num": "20",
-            "pos": "M",
-            "value": "4"
+            "name": "Marquinhos",
+            "num": "4",
+            "pos": "D",
+            "value": "8"
           },
           "away": {
-            "name": "M. Expérience",
-            "num": "8",
+            "name": "H. Delcroix",
+            "num": "5",
             "pos": "D",
-            "value": "7"
+            "value": "11"
           }
         },
         {
           "label": "Saves",
+          "home": {
+            "name": "A. Becker",
+            "num": "1",
+            "pos": "G",
+            "value": "3"
+          },
           "away": {
             "name": "J. Placide",
             "num": "1",
@@ -27079,7 +28085,7 @@
         "mp4": "https://media.video-cdn.espn.com/motion/2026/0619/dm_260619_COM_SOC_News_Fans_in_Rio_de_Janeiro_celebrate_Brazils_opener_vs_Haiti__20260619_GLOBAL_FIFA_W/dm_260619_COM_SOC_News_Fans_in_Rio_de_Janeiro_celebrate_Brazils_opener_vs_Haiti__20260619_GLOBAL_FIFA_W_360p30_1464k.mp4",
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0619/dm_260619_COM_SOC_News_Fans_in_Rio_de_Janeiro_celebrate_Brazils_opener_vs_Haiti__20260619_GLOBAL_FIFA_W/dm_260619_COM_SOC_News_Fans_in_Rio_de_Janeiro_celebrate_Brazils_opener_vs_Haiti__20260619_GLOBAL_FIFA_W/playlist.m3u8"
       },
-      "final": false,
+      "final": true,
       "dv": 5
     },
     "760445": {

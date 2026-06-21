@@ -77,7 +77,7 @@
      ====================================================================== */
   const SG = L.scoring.group;
   const SK = L.scoring.knockout;
-  const KO_BONUS = { r32: 0, r16: SK.r16, qf: SK.qf, sf: SK.sf, final: SK.final, third: SK.final, champion: SK.champion };
+  const KO_BONUS = { r32: SK.r32, r16: SK.r16, qf: SK.qf, sf: SK.sf, final: SK.final, third: SK.final, champion: SK.champion };
   const KO_ORDER = ["r32", "r16", "qf", "sf", "final", "third", "champion"];
 
   function blankTeam() {
@@ -510,7 +510,7 @@
           ${r("Win", g.win)}${r("Draw", g.draw)}${r("Goal (each)", g.goalEach)}${r("Shutout", g.shutout)}
           ${r("Wins group", g.groupWinner, true)}${r("Group runner-up", g.groupRunnerUp, true)}</div>
         <div class="rules-col"><div class="rules-h">Round of 32 → Final</div>
-          ${r("Goal (each)", k.goalEach)}${r("Shutout", k.shutout)}${r("Reach R16", k.r16, true)}
+          ${r("Goal (each)", k.goalEach)}${r("Shutout", k.shutout)}${r("Reach R32", k.r32, true)}${r("Reach R16", k.r16, true)}
           ${r("Quarterfinal", k.qf, true)}${r("Semifinal", k.sf, true)}${r("Final", k.final, true)}${r("Champion", k.champion, true)}</div>
       </div>`;
   }

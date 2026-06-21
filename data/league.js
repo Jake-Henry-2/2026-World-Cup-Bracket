@@ -85,6 +85,9 @@ window.LEAGUE = {
     knockout: {
       goalEach: 1,
       shutout: 1,
+      r32: 2,             // reached Round of 32 — i.e. made the knockout bracket. The champion &
+                          //   runner-up advance past R32, so they earn their bigger Final/Champion
+                          //   bonus instead of this (the "furthest round reached" rule excludes them).
       r16: 1,             // reached Round of 16
       qf: 2,              // reached Quarterfinal
       sf: 4,              // reached Semifinal

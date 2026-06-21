@@ -86,8 +86,10 @@ Played** panel marked 🔴 live, but it does not move the standings until it end
 The Games Played panel is the running log of every completed match.
 
 **Knockout, Round of 32 → Final (Jun 28 – Jul 19):** each Goal **1** ·
-Shutout **1** · reach R16 **+1** · QF **+2** · SF **+4** · Final **+6** ·
-Champion **+8**. (Appearance bonus = the furthest round a team reaches.)
+Shutout **1** · reach R32 **+2** · reach R16 **+1** · QF **+2** · SF **+4** ·
+Final **+6** · Champion **+8**. (Appearance bonus = the furthest round a team
+reaches — so the champion and runner-up earn their bigger Final/Champion bonus
+rather than the R32 bonus.)
 
 **Side pool ($50):** the 8 undrafted teams (Haiti, Curaçao, Tunisia, Cabo Verde,
 Saudi Arabia, DR Congo, Uzbekistan, Jordan). Managers called the top points

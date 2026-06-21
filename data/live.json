@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-21T20:07:05.037Z",
+  "lastUpdated": "2026-06-21T21:40:57.386Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -491,14 +491,10 @@
       "awayScore": 0,
       "homeWinner": false,
       "awayWinner": false,
-      "status": "live",
+      "status": "finished",
       "id": "760451",
       "date": "2026-06-21T19:00Z",
-      "venue": "SoFi Stadium",
-      "clock": 2700,
-      "displayClock": "45'+8'",
-      "detail": "HT",
-      "period": 1
+      "venue": "SoFi Stadium"
     },
     {
       "stage": "group",

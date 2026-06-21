@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-21T14:59:29.848Z",
+  "lastUpdated": "2026-06-21T15:28:46.502Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -1147,7 +1147,7 @@
       "venue": "GEHA Field at Arrowhead Stadium"
     },
     {
-      "stage": "r32",
+      "stage": "r16",
       "home": "Round of 32 1 Winner",
       "away": "Round of 32 3 Winner",
       "homeScore": 0,
@@ -1160,7 +1160,7 @@
       "venue": "NRG Stadium"
     },
     {
-      "stage": "r32",
+      "stage": "r16",
       "home": "Round of 32 2 Winner",
       "away": "Round of 32 5 Winner",
       "homeScore": 0,
@@ -1173,7 +1173,7 @@
       "venue": "Lincoln Financial Field"
     },
     {
-      "stage": "r32",
+      "stage": "r16",
       "home": "Round of 32 4 Winner",
       "away": "Round of 32 6 Winner",
       "homeScore": 0,
@@ -1186,7 +1186,7 @@
       "venue": "MetLife Stadium"
     },
     {
-      "stage": "r32",
+      "stage": "r16",
       "home": "Round of 32 7 Winner",
       "away": "Round of 32 8 Winner",
       "homeScore": 0,
@@ -1199,7 +1199,7 @@
       "venue": "Estadio Banorte"
     },
     {
-      "stage": "r32",
+      "stage": "r16",
       "home": "Round of 32 11 Winner",
       "away": "Round of 32 12 Winner",
       "homeScore": 0,
@@ -1212,7 +1212,7 @@
       "venue": "AT&T Stadium"
     },
     {
-      "stage": "r32",
+      "stage": "r16",
       "home": "Round of 32 9 Winner",
       "away": "Round of 32 10 Winner",
       "homeScore": 0,
@@ -1225,7 +1225,7 @@
       "venue": "Lumen Field"
     },
     {
-      "stage": "r32",
+      "stage": "r16",
       "home": "Round of 32 14 Winner",
       "away": "Round of 32 16 Winner",
       "homeScore": 0,
@@ -1238,7 +1238,7 @@
       "venue": "Mercedes-Benz Stadium"
     },
     {
-      "stage": "r32",
+      "stage": "r16",
       "home": "Round of 32 13 Winner",
       "away": "Round of 32 15 Winner",
       "homeScore": 0,
@@ -1251,7 +1251,7 @@
       "venue": "BC Place"
     },
     {
-      "stage": "r16",
+      "stage": "qf",
       "home": "Round of 16 1 Winner",
       "away": "Round of 16 2 Winner",
       "homeScore": 0,
@@ -1264,7 +1264,7 @@
       "venue": "Gillette Stadium"
     },
     {
-      "stage": "r16",
+      "stage": "qf",
       "home": "Round of 16 5 Winner",
       "away": "Round of 16 6 Winner",
       "homeScore": 0,
@@ -1277,7 +1277,7 @@
       "venue": "SoFi Stadium"
     },
     {
-      "stage": "r16",
+      "stage": "qf",
       "home": "Round of 16 3 Winner",
       "away": "Round of 16 4 Winner",
       "homeScore": 0,
@@ -1290,7 +1290,7 @@
       "venue": "Hard Rock Stadium"
     },
     {
-      "stage": "r16",
+      "stage": "qf",
       "home": "Round of 16 7 Winner",
       "away": "Round of 16 8 Winner",
       "homeScore": 0,

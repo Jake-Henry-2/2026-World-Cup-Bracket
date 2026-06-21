@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-21T16:51:44.630Z",
+  "lastUpdated": "2026-06-21T18:15:12.358Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -32591,64 +32591,64 @@
       "venue": "Mercedes-Benz Stadium",
       "stats": {
         "home": {
-          "foulsCommitted": "3",
+          "foulsCommitted": "10",
           "yellowCards": "0",
           "redCards": "0",
-          "offsides": "0",
-          "wonCorners": "4",
-          "saves": "0",
-          "possessionPct": "71.6",
-          "totalShots": "17",
-          "shotsOnTarget": "5",
+          "offsides": "2",
+          "wonCorners": "6",
+          "saves": "1",
+          "possessionPct": "67.1",
+          "totalShots": "22",
+          "shotsOnTarget": "8",
+          "shotPct": "0.4",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "668",
+          "totalPasses": "725",
+          "passPct": "0.9",
+          "accurateCrosses": "7",
+          "totalCrosses": "25",
+          "crossPct": "0.3",
+          "totalLongBalls": "37",
+          "accurateLongBalls": "27",
+          "longballPct": "0.7",
+          "blockedShots": "2",
+          "effectiveTackles": "8",
+          "totalTackles": "9",
+          "tacklePct": "0.9",
+          "interceptions": "16",
+          "effectiveClearance": "15",
+          "totalClearance": "15"
+        },
+        "away": {
+          "foulsCommitted": "2",
+          "yellowCards": "2",
+          "redCards": "0",
+          "offsides": "3",
+          "wonCorners": "1",
+          "saves": "5",
+          "possessionPct": "32.9",
+          "totalShots": "3",
+          "shotsOnTarget": "1",
           "shotPct": "0.3",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "343",
-          "totalPasses": "375",
-          "passPct": "0.9",
-          "accurateCrosses": "6",
-          "totalCrosses": "17",
-          "crossPct": "0.4",
-          "totalLongBalls": "15",
-          "accurateLongBalls": "11",
-          "longballPct": "0.7",
-          "blockedShots": "1",
-          "effectiveTackles": "6",
-          "totalTackles": "7",
-          "tacklePct": "0.9",
-          "interceptions": "10",
-          "effectiveClearance": "10",
-          "totalClearance": "10"
-        },
-        "away": {
-          "foulsCommitted": "1",
-          "yellowCards": "1",
-          "redCards": "0",
-          "offsides": "2",
-          "wonCorners": "1",
-          "saves": "2",
-          "possessionPct": "28.4",
-          "totalShots": "2",
-          "shotsOnTarget": "0",
-          "shotPct": "0.0",
-          "penaltyKickGoals": "0",
-          "penaltyKickShots": "0",
-          "accuratePasses": "110",
-          "totalPasses": "154",
-          "passPct": "0.7",
+          "accuratePasses": "292",
+          "totalPasses": "364",
+          "passPct": "0.8",
           "accurateCrosses": "0",
-          "totalCrosses": "1",
+          "totalCrosses": "5",
           "crossPct": "0.0",
-          "totalLongBalls": "21",
-          "accurateLongBalls": "5",
-          "longballPct": "0.2",
+          "totalLongBalls": "35",
+          "accurateLongBalls": "14",
+          "longballPct": "0.4",
           "blockedShots": "1",
-          "effectiveTackles": "5",
-          "totalTackles": "6",
+          "effectiveTackles": "12",
+          "totalTackles": "15",
           "tacklePct": "0.8",
-          "interceptions": "5",
-          "effectiveClearance": "25",
-          "totalClearance": "25"
+          "interceptions": "12",
+          "effectiveClearance": "36",
+          "totalClearance": "36"
         }
       },
       "events": [
@@ -32665,7 +32665,7 @@
           "player": "Goal! Spain 2, Saudi Arabia 0. Mikel Oyarzabal"
         },
         {
-          "kind": "Goal - Volley",
+          "kind": "Goal",
           "min": "24'",
           "side": "home",
           "player": "Goal! Spain 3, Saudi Arabia 0. Mikel Oyarzabal"
@@ -32675,6 +32675,78 @@
           "min": "30'",
           "side": "away",
           "player": "Salem Al Dawsari"
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "home",
+          "player": "Substitution, Spain. Yéremy Pino replaces Lamine Yamal."
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "home",
+          "player": "Substitution, Spain. Ferran Torres replaces Mikel Oyarzabal."
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "away",
+          "player": "Substitution, Saudi Arabia. Mohamed Kanno replaces Abdullah Al Khaibari."
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "away",
+          "player": "Substitution, Saudi Arabia. Abdullah Al Hamddan replaces Musab Al Juwayr."
+        },
+        {
+          "kind": "Own Goal",
+          "min": "49'",
+          "side": "home",
+          "player": "Own Goal by Hassan Al Tambakti, Saudi Arabia. Spain 4, Saudi Arabia 0."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "60'",
+          "side": "away",
+          "player": "Mohamed Kanno"
+        },
+        {
+          "kind": "Substitution",
+          "min": "60'",
+          "side": "away",
+          "player": "Substitution, Saudi Arabia. Mohammed Abu Al Shamat replaces Feras Al Brikan."
+        },
+        {
+          "kind": "Substitution",
+          "min": "60'",
+          "side": "away",
+          "player": "Substitution, Saudi Arabia. Alaa Al Hejji replaces Abdulelah Al Amri."
+        },
+        {
+          "kind": "Substitution",
+          "min": "61'",
+          "side": "home",
+          "player": "Substitution, Spain. Mikel Merino replaces Dani Olmo."
+        },
+        {
+          "kind": "Substitution",
+          "min": "61'",
+          "side": "home",
+          "player": "Substitution, Spain. Nico Williams replaces Álex Baena."
+        },
+        {
+          "kind": "Substitution",
+          "min": "70'",
+          "side": "home",
+          "player": "Substitution, Spain. Fabián Ruiz replaces Pedri."
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'",
+          "side": "away",
+          "player": "Substitution, Saudi Arabia. Khalid Al Ghannam replaces Nasser Al Dawsari."
         }
       ],
       "lineups": {
@@ -33059,6 +33131,261 @@
       },
       "commentary": [
         {
+          "min": "",
+          "text": "Match ends, Spain 4, Saudi Arabia 0.",
+          "goal": false
+        },
+        {
+          "min": "90'+9'",
+          "text": "Second Half ends, Spain 4, Saudi Arabia 0.",
+          "goal": false
+        },
+        {
+          "min": "90'+8'",
+          "text": "Attempt blocked. Mikel Merino (Spain) left footed shot from the right side of the box is blocked. Assisted by Fabián Ruiz.",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "VAR Decision: No Goal Spain 4-0 Saudi Arabia.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "GOAL OVERTURNED BY VAR: Ferran Torres (Spain) scores but the goal is ruled out after a VAR review.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Offside, Spain. Ferran Torres is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "91'+1'",
+          "text": "Fourth official has announced 6 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Substitution, Saudi Arabia. Khalid Al Ghannam replaces Nasser Al Dawsari.",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Delay in match because of an injury Mohamed Kanno (Saudi Arabia).",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Foul by Aymeric Laporte (Spain).",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Salem Al Dawsari (Saudi Arabia) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Foul by Marc Cucurella (Spain).",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Mohammed Abu Al Shamat (Saudi Arabia) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Foul by Yéremy Pino (Spain).",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Hassan Al Tambakti (Saudi Arabia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Attempt saved. Abdullah Al Hamddan (Saudi Arabia) left footed shot from outside the box is saved in the bottom right corner by Unai Simón (Spain).",
+          "goal": false
+        },
+        {
+          "min": "70'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "70'",
+          "text": "Substitution, Spain. Fabián Ruiz replaces Pedri.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Offside, Spain. Rodri is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Corner, Spain. Conceded by Ali Lajami.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Attempt missed. Ferran Torres (Spain) right footed shot from the left side of the box is close, but misses to the right. Assisted by Mikel Merino with a through ball.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Foul by Ferran Torres (Spain).",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Ali Lajami (Saudi Arabia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Foul by Yéremy Pino (Spain).",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Moteb Al Harbi (Saudi Arabia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Substitution, Spain. Nico Williams replaces Álex Baena.",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Substitution, Spain. Mikel Merino replaces Dani Olmo.",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Substitution, Saudi Arabia. Alaa Al Hejji replaces Abdulelah Al Amri.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Substitution, Saudi Arabia. Mohammed Abu Al Shamat replaces Feras Al Brikan.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Delay in match because of an injury Rodri (Spain).",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Mohamed Kanno (Saudi Arabia) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Rodri (Spain) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Foul by Mohamed Kanno (Saudi Arabia).",
+          "goal": false
+        },
+        {
+          "min": "54'",
+          "text": "Foul by Pedro Porro (Spain).",
+          "goal": false
+        },
+        {
+          "min": "54'",
+          "text": "Salem Al Dawsari (Saudi Arabia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "53'",
+          "text": "Foul by Marc Cucurella (Spain).",
+          "goal": false
+        },
+        {
+          "min": "53'",
+          "text": "Feras Al Brikan (Saudi Arabia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "53'",
+          "text": "Attempt saved. Ferran Torres (Spain) header from the centre of the box is saved in the bottom left corner by Mohammed Al Owais (Saudi Arabia).",
+          "goal": false
+        },
+        {
+          "min": "53'",
+          "text": "Attempt saved. Pedro Porro (Spain) right footed shot from the right side of the box is saved in the centre of the goal by Mohammed Al Owais (Saudi Arabia). Assisted by Pau Cubarsí with a through ball.",
+          "goal": false
+        },
+        {
+          "min": "49'",
+          "text": "Own Goal by Hassan Al Tambakti, Saudi Arabia. Spain 4, Saudi Arabia 0.",
+          "goal": true
+        },
+        {
+          "min": "49'",
+          "text": "Attempt saved. Marc Cucurella (Spain) left footed shot from very close range is saved in the centre of the goal by Mohammed Al Owais (Saudi Arabia).",
+          "goal": false
+        },
+        {
+          "min": "48'",
+          "text": "Corner, Spain. Conceded by Saud Abdulhamid.",
+          "goal": false
+        },
+        {
+          "min": "46'",
+          "text": "Offside, Saudi Arabia. Salem Al Dawsari is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Substitution, Spain. Ferran Torres replaces Mikel Oyarzabal.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Substitution, Spain. Yéremy Pino replaces Lamine Yamal.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Second Half begins Spain 3, Saudi Arabia 0.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Substitution, Saudi Arabia. Abdullah Al Hamddan replaces Musab Al Juwayr.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Substitution, Saudi Arabia. Mohamed Kanno replaces Abdullah Al Khaibari.",
+          "goal": false
+        },
+        {
           "min": "45'+6'",
           "text": "First Half ends, Spain 3, Saudi Arabia 0.",
           "goal": false
@@ -33102,161 +33429,6 @@
           "min": "44'",
           "text": "Corner, Saudi Arabia. Conceded by Pau Cubarsí.",
           "goal": false
-        },
-        {
-          "min": "42'",
-          "text": "Attempt missed. Mikel Oyarzabal (Spain) left footed shot from the left side of the box misses to the right.",
-          "goal": false
-        },
-        {
-          "min": "41'",
-          "text": "Foul by Dani Olmo (Spain).",
-          "goal": false
-        },
-        {
-          "min": "41'",
-          "text": "Nasser Al Dawsari (Saudi Arabia) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "37'",
-          "text": "Offside, Saudi Arabia. Musab Al Juwayr is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "37'",
-          "text": "Attempt missed. Lamine Yamal (Spain) left footed shot from the right side of the box is high and wide to the left. Assisted by Pedro Porro.",
-          "goal": false
-        },
-        {
-          "min": "36'",
-          "text": "Attempt saved. Lamine Yamal (Spain) left footed shot from outside the box is saved in the bottom left corner by Mohammed Al Owais (Saudi Arabia). Assisted by Rodri.",
-          "goal": false
-        },
-        {
-          "min": "36'",
-          "text": "Mikel Oyarzabal (Spain) hits the bar with a left footed shot from a difficult angle and long range on the left.",
-          "goal": false
-        },
-        {
-          "min": "35'",
-          "text": "Attempt missed. Abdulelah Al Amri (Saudi Arabia) right footed shot from more than 35 yards misses to the left. Assisted by Musab Al Juwayr following a fast break.",
-          "goal": false
-        },
-        {
-          "min": "30'",
-          "text": "Salem Al Dawsari (Saudi Arabia) is shown the yellow card for a bad foul.",
-          "goal": false
-        },
-        {
-          "min": "30'",
-          "text": "Attempt missed. Lamine Yamal (Spain) left footed shot from outside the box is high and wide to the left. Assisted by Pedro Porro.",
-          "goal": false
-        },
-        {
-          "min": "28'",
-          "text": "Delay over. They are ready to continue.",
-          "goal": false
-        },
-        {
-          "min": "25'",
-          "text": "Delay in match for a drinks break.",
-          "goal": false
-        },
-        {
-          "min": "24'",
-          "text": "Goal! Spain 3, Saudi Arabia 0. Mikel Oyarzabal (Spain) left footed shot from very close range to the top right corner. Assisted by Dani Olmo with a headed pass.",
-          "goal": true
-        },
-        {
-          "min": "21'",
-          "text": "Goal! Spain 2, Saudi Arabia 0. Mikel Oyarzabal (Spain) left footed shot from the left side of the six yard box to the bottom right corner. Assisted by Aymeric Laporte with a headed pass following a corner.",
-          "goal": true
-        },
-        {
-          "min": "21'",
-          "text": "Attempt missed. Dani Olmo (Spain) right footed shot from the right side of the box misses to the left following a corner.",
-          "goal": false
-        },
-        {
-          "min": "20'",
-          "text": "Corner, Spain. Conceded by Ali Lajami.",
-          "goal": false
-        },
-        {
-          "min": "17'",
-          "text": "Attempt saved. Mikel Oyarzabal (Spain) right footed shot from outside the box is saved in the bottom left corner by Mohammed Al Owais (Saudi Arabia).",
-          "goal": false
-        },
-        {
-          "min": "16'",
-          "text": "Foul by Álex Baena (Spain).",
-          "goal": false
-        },
-        {
-          "min": "16'",
-          "text": "Musab Al Juwayr (Saudi Arabia) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "15'",
-          "text": "Attempt missed. Álex Baena (Spain) right footed shot from outside the box is high and wide to the right. Assisted by Aymeric Laporte.",
-          "goal": false
-        },
-        {
-          "min": "13'",
-          "text": "Attempt missed. Pedri (Spain) left footed shot from the left side of the box is too high.",
-          "goal": false
-        },
-        {
-          "min": "10'",
-          "text": "Goal! Spain 1, Saudi Arabia 0. Lamine Yamal (Spain) right footed shot from the right side of the six yard box to the bottom right corner. Assisted by Mikel Oyarzabal with a cross following a fast break.",
-          "goal": true
-        },
-        {
-          "min": "10'",
-          "text": "Attempt missed. Pedro Porro (Spain) right footed shot from outside the box is too high. Assisted by Lamine Yamal.",
-          "goal": false
-        },
-        {
-          "min": "9'",
-          "text": "Handball by Feras Al Brikan (Saudi Arabia).",
-          "goal": false
-        },
-        {
-          "min": "8'",
-          "text": "Attempt missed. Dani Olmo (Spain) right footed shot from outside the box is high and wide to the right. Assisted by Álex Baena following a corner.",
-          "goal": false
-        },
-        {
-          "min": "8'",
-          "text": "Corner, Spain. Conceded by Abdullah Al Khaibari.",
-          "goal": false
-        },
-        {
-          "min": "4'",
-          "text": "Attempt missed. Lamine Yamal (Spain) left footed shot from outside the box is high and wide to the left. Assisted by Pau Cubarsí.",
-          "goal": false
-        },
-        {
-          "min": "2'",
-          "text": "Corner, Spain. Conceded by Saud Abdulhamid.",
-          "goal": false
-        },
-        {
-          "min": "2'",
-          "text": "Attempt blocked. Álex Baena (Spain) right footed shot from the left side of the box is blocked. Assisted by Pedro Porro.",
-          "goal": false
-        },
-        {
-          "min": "",
-          "text": "First Half begins.",
-          "goal": false
-        },
-        {
-          "min": "",
-          "text": "Lineups are announced and players are warming up.",
-          "goal": false
         }
       ],
       "leaders": [
@@ -33269,9 +33441,9 @@
             "value": "5"
           },
           "away": {
-            "name": "A. Al-Amri",
-            "num": "4",
-            "pos": "D",
+            "name": "S. Al-Dawsari",
+            "num": "10",
+            "pos": "M",
             "value": "1"
           }
         },
@@ -33281,13 +33453,13 @@
             "name": "Rodri ",
             "num": "16",
             "pos": "M",
-            "value": "55"
+            "value": "113"
           },
           "away": {
             "name": "S. Abdulhamid",
             "num": "12",
             "pos": "D",
-            "value": "18"
+            "value": "41"
           }
         },
         {
@@ -33296,27 +33468,33 @@
             "name": "P. Porro",
             "num": "12",
             "pos": "D",
-            "value": "6"
+            "value": "11"
           },
           "away": {
-            "name": "A. Al-Amri",
-            "num": "4",
+            "name": "A. Lajami",
+            "num": "3",
             "pos": "D",
-            "value": "8"
+            "value": "16"
           }
         },
         {
           "label": "Saves",
+          "home": {
+            "name": "U. Simón",
+            "num": "23",
+            "pos": "G",
+            "value": "1"
+          },
           "away": {
             "name": "M. Al-Owais",
             "num": "21",
             "pos": "G",
-            "value": "2"
+            "value": "5"
           }
         }
       ],
       "highlight": null,
-      "final": false,
+      "final": true,
       "dv": 5
     }
   }

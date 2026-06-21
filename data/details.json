@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-21T02:08:35.488Z",
+  "lastUpdated": "2026-06-21T07:06:28.304Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -31699,6 +31699,890 @@
         "headline": "Klinsmann: Germany 'really struggled' despite late win vs. Ivory Coast",
         "mp4": "https://media.video-cdn.espn.com/motion/2026/0620/ss_20260620_182138801_3570528/ss_20260620_182138801_3570528_360p30_1464k.mp4",
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0620/ss_20260620_182138801_3570528/ss_20260620_182138801_3570528/playlist.m3u8"
+      },
+      "final": true,
+      "dv": 5
+    },
+    "760449": {
+      "venue": "Estadio BBVA",
+      "stats": {
+        "home": {
+          "foulsCommitted": "8",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "1",
+          "wonCorners": "3",
+          "saves": "1",
+          "possessionPct": "37.9",
+          "totalShots": "2",
+          "shotsOnTarget": "0",
+          "shotPct": "0.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "284",
+          "totalPasses": "353",
+          "passPct": "0.8",
+          "accurateCrosses": "2",
+          "totalCrosses": "10",
+          "crossPct": "0.2",
+          "totalLongBalls": "56",
+          "accurateLongBalls": "16",
+          "longballPct": "0.3",
+          "blockedShots": "1",
+          "effectiveTackles": "16",
+          "totalTackles": "18",
+          "tacklePct": "0.9",
+          "interceptions": "14",
+          "effectiveClearance": "23",
+          "totalClearance": "23"
+        },
+        "away": {
+          "foulsCommitted": "15",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "1",
+          "wonCorners": "5",
+          "saves": "0",
+          "possessionPct": "62.1",
+          "totalShots": "11",
+          "shotsOnTarget": "5",
+          "shotPct": "0.5",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "521",
+          "totalPasses": "582",
+          "passPct": "0.9",
+          "accurateCrosses": "2",
+          "totalCrosses": "11",
+          "crossPct": "0.2",
+          "totalLongBalls": "32",
+          "accurateLongBalls": "19",
+          "longballPct": "0.6",
+          "blockedShots": "3",
+          "effectiveTackles": "11",
+          "totalTackles": "18",
+          "tacklePct": "0.6",
+          "interceptions": "6",
+          "effectiveClearance": "25",
+          "totalClearance": "25"
+        }
+      },
+      "events": [
+        {
+          "kind": "Goal",
+          "min": "4'",
+          "side": "away",
+          "player": "Goal! Tunisia 0, Japan 1. Daichi Kamada"
+        },
+        {
+          "kind": "Goal",
+          "min": "31'",
+          "side": "away",
+          "player": "Goal! Tunisia 0, Japan 2. Ayase Ueda"
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "home",
+          "player": "Substitution, Tunisia. Ismaël Gharbi replaces Elias Saad."
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "home",
+          "player": "Substitution, Tunisia. Mohamed Amine Ben Hmida replaces Dylan Bronn."
+        },
+        {
+          "kind": "Substitution",
+          "min": "64'",
+          "side": "home",
+          "player": "Substitution, Tunisia. Firas Chaouat replaces Sebastian Tounekti."
+        },
+        {
+          "kind": "Goal",
+          "min": "69'",
+          "side": "away",
+          "player": "Goal! Tunisia 0, Japan 3. Junya Ito"
+        },
+        {
+          "kind": "Substitution",
+          "min": "73'",
+          "side": "away",
+          "player": "Substitution, Japan. Junnosuke Suzuki replaces Daichi Kamada."
+        },
+        {
+          "kind": "Substitution",
+          "min": "74'",
+          "side": "away",
+          "player": "Substitution, Japan. Yukinari Sugawara replaces Ritsu Doan."
+        },
+        {
+          "kind": "Substitution",
+          "min": "79'",
+          "side": "away",
+          "player": "Substitution, Japan. Yuito Suzuki replaces Keito Nakamura."
+        },
+        {
+          "kind": "Substitution",
+          "min": "79'",
+          "side": "away",
+          "player": "Substitution, Japan. Ayumu Seko replaces Takehiro Tomiyasu."
+        },
+        {
+          "kind": "Goal - Header",
+          "min": "83'",
+          "side": "away",
+          "player": "Goal! Tunisia 0, Japan 4. Ayase Ueda"
+        },
+        {
+          "kind": "Substitution",
+          "min": "84'",
+          "side": "away",
+          "player": "Substitution, Japan. Keisuke Goto replaces Ayase Ueda."
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'+1'",
+          "side": "home",
+          "player": "Substitution, Tunisia. Rani Khedira replaces Ellyes Skhiri."
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'+1'",
+          "side": "home",
+          "player": "Substitution, Tunisia. Elias Achouri replaces Ali Abdi."
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Aymen Dahmen",
+            "short": "A. Dahmen",
+            "num": "16",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Montassar Talbi",
+            "short": "M. Talbi",
+            "num": "3",
+            "pos": "CD",
+            "place": "5"
+          },
+          {
+            "name": "Omar Rekik",
+            "short": "O. Rekik",
+            "num": "4",
+            "pos": "CD-L",
+            "place": "4"
+          },
+          {
+            "name": "Dylan Bronn",
+            "short": "D. Bronn",
+            "num": "6",
+            "pos": "CD-R",
+            "place": "6"
+          },
+          {
+            "name": "Ellyes Skhiri",
+            "short": "E. Skhiri",
+            "num": "17",
+            "pos": "CM-L",
+            "place": "8"
+          },
+          {
+            "name": "Anis Slimane",
+            "short": "A. Slimane",
+            "num": "25",
+            "pos": "CM-R",
+            "place": "7"
+          },
+          {
+            "name": "Ali Abdi",
+            "short": "A. Abdi",
+            "num": "2",
+            "pos": "LM",
+            "place": "3"
+          },
+          {
+            "name": "Yan Valery",
+            "short": "Y. Valery",
+            "num": "20",
+            "pos": "RM",
+            "place": "2"
+          },
+          {
+            "name": "Sebastian Tounekti",
+            "short": "S. Tounekti",
+            "num": "26",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Hannibal Mejbri",
+            "short": "H. Mejbri",
+            "num": "10",
+            "pos": "CF-L",
+            "place": "11"
+          },
+          {
+            "name": "Elias Saad",
+            "short": "E. Saad",
+            "num": "8",
+            "pos": "CF-R",
+            "place": "10"
+          }
+        ],
+        "away": [
+          {
+            "name": "Zion Suzuki",
+            "short": "Z. Suzuki",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Kou Itakura",
+            "short": "K. Itakura",
+            "num": "4",
+            "pos": "CD",
+            "place": "5"
+          },
+          {
+            "name": "Hiroki Ito",
+            "short": "H. Ito",
+            "num": "21",
+            "pos": "CD-L",
+            "place": "4"
+          },
+          {
+            "name": "Takehiro Tomiyasu",
+            "short": "T. Tomiyasu",
+            "num": "22",
+            "pos": "CD-R",
+            "place": "6"
+          },
+          {
+            "name": "Ao Tanaka",
+            "short": "A. Tanaka",
+            "num": "7",
+            "pos": "CM-L",
+            "place": "8"
+          },
+          {
+            "name": "Kaishu Sano",
+            "short": "K. Sano",
+            "num": "24",
+            "pos": "CM-R",
+            "place": "7"
+          },
+          {
+            "name": "Keito Nakamura",
+            "short": "K. Nakamura",
+            "num": "13",
+            "pos": "LM",
+            "place": "3"
+          },
+          {
+            "name": "Ritsu Doan",
+            "short": "R. Doan",
+            "num": "10",
+            "pos": "RM",
+            "place": "2"
+          },
+          {
+            "name": "Ayase Ueda",
+            "short": "A. Ueda",
+            "num": "18",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Daichi Kamada",
+            "short": "D. Kamada",
+            "num": "15",
+            "pos": "CF-L",
+            "place": "11"
+          },
+          {
+            "name": "Junya Ito",
+            "short": "J. Ito",
+            "num": "14",
+            "pos": "CF-R",
+            "place": "10"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Adem Arous",
+            "short": "A. Arous",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ismaël Gharbi",
+            "short": "I. Gharbi",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Firas Chaouat",
+            "short": "F. Chaouat",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Raed Chikhaoui",
+            "short": "R. Chikhaoui",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Rayan Elloumi",
+            "short": "R. Elloumi",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Sabri Ben Hessen",
+            "short": "S. Ben Hessen",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Rani Khedira",
+            "short": "R. Khedira",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Khalil Ayari",
+            "short": "K. Ayari",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Moutaz Neffati",
+            "short": "M. Neffati",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Elias Achouri",
+            "short": "E. Achouri",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Hazem Mastouri",
+            "short": "H. Mastouri",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mohamed Amine Ben Hamida",
+            "short": "M. Ben Hamida",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mouhib Chamakh",
+            "short": "M. Chamakh",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mohamed Hadj Mahmoud",
+            "short": "M. Hadj Mahmoud",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mortadha Ben Ouanes",
+            "short": "M. Ben Ouanes",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Ayumu Seko",
+            "short": "A. Seko",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Yuito Suzuki",
+            "short": "Y. Suzuki",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Junnosuke Suzuki",
+            "short": "J. Suzuki",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Tsuyoshi Watanabe",
+            "short": "T. Watanabe",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Yuto Nagatomo",
+            "short": "Y. Nagatomo",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Keisuke Osako",
+            "short": "K. Osako",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Koki Ogawa",
+            "short": "K. Ogawa",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Shogo Taniguchi",
+            "short": "S. Taniguchi",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Keisuke Goto",
+            "short": "K. Goto",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Tomoki Hayakawa",
+            "short": "T. Hayakawa",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Daizen Maeda",
+            "short": "D. Maeda",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Yukinari Sugawara",
+            "short": "Y. Sugawara",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kento Shiogai",
+            "short": "K. Shiogai",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "3-4-2-1",
+        "away": "3-4-2-1"
+      },
+      "commentary": [
+        {
+          "min": "",
+          "text": "Match ends, Tunisia 0, Japan 4.",
+          "goal": false
+        },
+        {
+          "min": "96'",
+          "text": "Second Half ends, Tunisia 0, Japan 4.",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Keisuke Goto (Japan) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Foul by Yan Valery (Tunisia).",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Foul by Kaishu Sano (Japan).",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Hannibal Mejbri (Tunisia) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Foul by Ayumu Seko (Japan).",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Firas Chaouat (Tunisia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Substitution, Tunisia. Elias Achouri replaces Ali Abdi.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Substitution, Tunisia. Rani Khedira replaces Ellyes Skhiri.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Fourth official has announced 6 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Delay in match because of an injury Omar Rekik (Tunisia).",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Attempt blocked. Junya Ito (Japan) right footed shot from the left side of the box is blocked. Assisted by Ayumu Seko.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Substitution, Japan. Keisuke Goto replaces Ayase Ueda.",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Goal! Tunisia 0, Japan 4. Ayase Ueda (Japan) header from the centre of the box to the bottom right corner. Assisted by Kaishu Sano with a cross.",
+          "goal": true
+        },
+        {
+          "min": "80'",
+          "text": "Foul by Hiroki Ito (Japan).",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Hannibal Mejbri (Tunisia) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Foul by Ao Tanaka (Japan).",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Hannibal Mejbri (Tunisia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Substitution, Japan. Ayumu Seko replaces Takehiro Tomiyasu.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Substitution, Japan. Yuito Suzuki replaces Keito Nakamura.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Corner, Japan. Conceded by Mohamed Amine Ben Hmida.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Offside, Japan. Keito Nakamura is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Offside, Tunisia. Omar Rekik is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Attempt blocked. Ismaël Gharbi (Tunisia) left footed shot from the left side of the box is blocked. Assisted by Omar Rekik.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Corner, Tunisia. Conceded by Junya Ito.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Corner, Tunisia. Conceded by Junnosuke Suzuki.",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Substitution, Japan. Yukinari Sugawara replaces Ritsu Doan.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Substitution, Japan. Junnosuke Suzuki replaces Daichi Kamada.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "70'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "69'",
+          "text": "Goal! Tunisia 0, Japan 3. Junya Ito (Japan) right footed shot from the centre of the box to the bottom right corner. Assisted by Ayase Ueda with a through ball.",
+          "goal": true
+        },
+        {
+          "min": "66'",
+          "text": "Foul by Keito Nakamura (Japan).",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Firas Chaouat (Tunisia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Attempt blocked. Keito Nakamura (Japan) right footed shot from outside the box is blocked. Assisted by Daichi Kamada.",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Substitution, Tunisia. Firas Chaouat replaces Sebastian Tounekti.",
+          "goal": false
+        },
+        {
+          "min": "63'",
+          "text": "Corner, Japan. Conceded by Montassar Talbi.",
+          "goal": false
+        },
+        {
+          "min": "63'",
+          "text": "Attempt blocked. Ayase Ueda (Japan) right footed shot from outside the box is blocked. Assisted by Hiroki Ito.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Kaishu Sano (Japan) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Foul by Hannibal Mejbri (Tunisia).",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Ritsu Doan (Japan) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Foul by Ali Abdi (Tunisia).",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Corner, Japan. Conceded by Mohamed Amine Ben Hmida.",
+          "goal": false
+        },
+        {
+          "min": "55'",
+          "text": "Foul by Hiroki Ito (Japan).",
+          "goal": false
+        },
+        {
+          "min": "55'",
+          "text": "Ismaël Gharbi (Tunisia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "49'",
+          "text": "Foul by Hiroki Ito (Japan).",
+          "goal": false
+        },
+        {
+          "min": "49'",
+          "text": "Ismaël Gharbi (Tunisia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "48'",
+          "text": "Attempt missed. Ao Tanaka (Japan) right footed shot from outside the box is close, but misses to the left. Assisted by Ayase Ueda.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Second Half begins Tunisia 0, Japan 2.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Substitution, Tunisia. Mohamed Amine Ben Hmida replaces Dylan Bronn.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Substitution, Tunisia. Ismaël Gharbi replaces Elias Saad.",
+          "goal": false
+        },
+        {
+          "min": "50'",
+          "text": "First Half ends, Tunisia 0, Japan 2.",
+          "goal": false
+        },
+        {
+          "min": "45'+4'",
+          "text": "Foul by Ko Itakura (Japan).",
+          "goal": false
+        },
+        {
+          "min": "45'+4'",
+          "text": "Elias Saad (Tunisia) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "45'+2'",
+          "text": "Zion Suzuki (Japan) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "45'+2'",
+          "text": "Foul by Hannibal Mejbri (Tunisia).",
+          "goal": false
+        },
+        {
+          "min": "46'+1'",
+          "text": "Fourth official has announced 4 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "43'",
+          "text": "Daichi Kamada (Japan) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "43'",
+          "text": "Foul by Dylan Bronn (Tunisia).",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "H. Mejbri",
+            "num": "10",
+            "pos": "M",
+            "value": "1"
+          },
+          "away": {
+            "name": "A. Ueda",
+            "num": "18",
+            "pos": "F",
+            "value": "5"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "M. Talbi",
+            "num": "3",
+            "pos": "D",
+            "value": "47"
+          },
+          "away": {
+            "name": "K. Itakura",
+            "num": "4",
+            "pos": "D",
+            "value": "85"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "O. Rekik",
+            "num": "4",
+            "pos": "D",
+            "value": "11"
+          },
+          "away": {
+            "name": "K. Itakura",
+            "num": "4",
+            "pos": "D",
+            "value": "12"
+          }
+        },
+        {
+          "label": "Saves",
+          "home": {
+            "name": "A. Dahmen",
+            "num": "16",
+            "pos": "G",
+            "value": "1"
+          }
+        }
+      ],
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0621/dm_260621_Japan_goal/dm_260621_Japan_goal.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49132176/japan-fans-celebrate-early-goal-vs-tunisia",
+        "headline": "Japan fans celebrate early goal vs. Tunisia",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0621/dm_260621_Japan_goal/dm_260621_Japan_goal_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0621/dm_260621_Japan_goal/dm_260621_Japan_goal/playlist.m3u8"
       },
       "final": true,
       "dv": 5

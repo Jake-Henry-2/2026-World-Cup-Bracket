@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-21T02:08:35.368Z",
+  "lastUpdated": "2026-06-21T07:06:28.263Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -392,8 +392,8 @@
       "home": "Tunisia",
       "away": "Japan",
       "homeScore": 0,
-      "awayScore": 0,
-      "status": "scheduled",
+      "awayScore": 4,
+      "status": "finished",
       "id": "760449",
       "date": "2026-06-21T04:00Z",
       "venue": "Estadio BBVA"

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-20T23:49:55.035Z",
+  "lastUpdated": "2026-06-21T02:08:35.368Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -382,7 +382,7 @@
       "away": "Curaçao",
       "homeScore": 0,
       "awayScore": 0,
-      "status": "scheduled",
+      "status": "finished",
       "id": "760446",
       "date": "2026-06-21T00:00Z",
       "venue": "GEHA Field at Arrowhead Stadium"
@@ -818,7 +818,7 @@
     },
     {
       "stage": "r32",
-      "home": "Group E Winner",
+      "home": "Germany",
       "away": "Third Place Group A/B/C/D/F",
       "homeScore": 0,
       "awayScore": 0,

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-20T23:49:55.349Z",
+  "lastUpdated": "2026-06-21T02:08:35.488Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -28971,6 +28971,910 @@
         "mp4": "https://media.video-cdn.espn.com/motion/2026/0619/dm_260619_COM_SOC_Analysis_Nicol_Scotland_deserved_to_lose_vs_Morocco__20260619_GLOBAL_FIFA_WORLD_CUP/dm_260619_COM_SOC_Analysis_Nicol_Scotland_deserved_to_lose_vs_Morocco__20260619_GLOBAL_FIFA_WORLD_CUP_360p30_1464k.mp4",
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0619/dm_260619_COM_SOC_Analysis_Nicol_Scotland_deserved_to_lose_vs_Morocco__20260619_GLOBAL_FIFA_WORLD_CUP/dm_260619_COM_SOC_Analysis_Nicol_Scotland_deserved_to_lose_vs_Morocco__20260619_GLOBAL_FIFA_WORLD_CUP/playlist.m3u8"
       },
+      "final": true,
+      "dv": 5
+    },
+    "760446": {
+      "venue": "GEHA Field at Arrowhead Stadium",
+      "stats": {
+        "home": {
+          "foulsCommitted": "7",
+          "yellowCards": "1",
+          "redCards": "0",
+          "offsides": "1",
+          "wonCorners": "9",
+          "saves": "3",
+          "possessionPct": "74.8",
+          "totalShots": "27",
+          "shotsOnTarget": "15",
+          "shotPct": "0.6",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "578",
+          "totalPasses": "642",
+          "passPct": "0.9",
+          "accurateCrosses": "12",
+          "totalCrosses": "32",
+          "crossPct": "0.4",
+          "totalLongBalls": "32",
+          "accurateLongBalls": "12",
+          "longballPct": "0.4",
+          "blockedShots": "2",
+          "effectiveTackles": "11",
+          "totalTackles": "19",
+          "tacklePct": "0.6",
+          "interceptions": "7",
+          "effectiveClearance": "17",
+          "totalClearance": "17"
+        },
+        "away": {
+          "foulsCommitted": "10",
+          "yellowCards": "5",
+          "redCards": "0",
+          "offsides": "2",
+          "wonCorners": "0",
+          "saves": "15",
+          "possessionPct": "25.2",
+          "totalShots": "10",
+          "shotsOnTarget": "3",
+          "shotPct": "0.3",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "156",
+          "totalPasses": "224",
+          "passPct": "0.7",
+          "accurateCrosses": "1",
+          "totalCrosses": "1",
+          "crossPct": "1.0",
+          "totalLongBalls": "50",
+          "accurateLongBalls": "14",
+          "longballPct": "0.3",
+          "blockedShots": "3",
+          "effectiveTackles": "7",
+          "totalTackles": "17",
+          "tacklePct": "0.4",
+          "interceptions": "8",
+          "effectiveClearance": "32",
+          "totalClearance": "32"
+        }
+      },
+      "events": [
+        {
+          "kind": "Yellow Card",
+          "min": "38'",
+          "side": "home",
+          "player": "Jordy Alcívar"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "39'",
+          "side": "away",
+          "player": "Leandro Bacuna"
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "home",
+          "player": "Substitution, Ecuador. Kevin Rodríguez replaces Jordy Alcívar."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "53'",
+          "side": "away",
+          "player": "Juninho Bacuna"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "56'",
+          "side": "away",
+          "player": "Livano Comenencia"
+        },
+        {
+          "kind": "Substitution",
+          "min": "70'",
+          "side": "home",
+          "player": "Substitution, Ecuador. Nilson Angulo replaces Pervis Estupiñán."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "75'",
+          "side": "away",
+          "player": "Juriën Gaari"
+        },
+        {
+          "kind": "Substitution",
+          "min": "75'",
+          "side": "away",
+          "player": "Substitution, Curaçao. Kenji Gorré replaces Juninho Bacuna."
+        },
+        {
+          "kind": "Substitution",
+          "min": "76'",
+          "side": "away",
+          "player": "Substitution, Curaçao. Roshon van Eijma replaces Deveron Fonville."
+        },
+        {
+          "kind": "Substitution",
+          "min": "76'",
+          "side": "away",
+          "player": "Substitution, Curaçao. Jearl Margaritha replaces Tahith Chong."
+        },
+        {
+          "kind": "Substitution",
+          "min": "83'",
+          "side": "home",
+          "player": "Substitution, Ecuador. Ángelo Preciado replaces Alan Franco."
+        },
+        {
+          "kind": "Substitution",
+          "min": "83'",
+          "side": "away",
+          "player": "Substitution, Curaçao. Gervane Kastaneer replaces Jürgen Locadia because of an injury."
+        },
+        {
+          "kind": "Substitution",
+          "min": "84'",
+          "side": "away",
+          "player": "Substitution, Curaçao. Godfried Roemeratoe replaces Livano Comenencia."
+        },
+        {
+          "kind": "Substitution",
+          "min": "89'",
+          "side": "home",
+          "player": "Substitution, Ecuador. Jordy Caicedo replaces John Yeboah."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "90'+1'",
+          "side": "away",
+          "player": "Gervane Kastaneer"
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Hernán Galíndez",
+            "short": "H. Galíndez",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Willian Pacho",
+            "short": "W. Pacho",
+            "num": "6",
+            "pos": "CD",
+            "place": "4"
+          },
+          {
+            "name": "Piero Hincapié",
+            "short": "P. Hincapié",
+            "num": "3",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Alan Franco",
+            "short": "A. Franco",
+            "num": "21",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Jordy Alcívar",
+            "short": "J. Alcívar",
+            "num": "5",
+            "pos": "SW",
+            "place": "8"
+          },
+          {
+            "name": "Pedro Vite",
+            "short": "P. Vite",
+            "num": "15",
+            "pos": "CM-L",
+            "place": "11"
+          },
+          {
+            "name": "Moisés Caicedo",
+            "short": "M. Caicedo",
+            "num": "23",
+            "pos": "CM-R",
+            "place": "7"
+          },
+          {
+            "name": "Pervis Estupiñán",
+            "short": "P. Estupiñán",
+            "num": "7",
+            "pos": "LM",
+            "place": "3"
+          },
+          {
+            "name": "John Yeboah",
+            "short": "J. Yeboah",
+            "num": "9",
+            "pos": "RM",
+            "place": "2"
+          },
+          {
+            "name": "Enner Valencia",
+            "short": "E. Valencia",
+            "num": "13",
+            "pos": "CF-L",
+            "place": "10"
+          },
+          {
+            "name": "Gonzalo Plata",
+            "short": "G. Plata",
+            "num": "19",
+            "pos": "CF-R",
+            "place": "9"
+          }
+        ],
+        "away": [
+          {
+            "name": "Eloy Room",
+            "short": "E. Room",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Armando Obispo",
+            "short": "A. Obispo",
+            "num": "18",
+            "pos": "CD",
+            "place": "5"
+          },
+          {
+            "name": "Sherel Floranus",
+            "short": "S. Floranus",
+            "num": "5",
+            "pos": "CD-L",
+            "place": "4"
+          },
+          {
+            "name": "Juriën Gaari",
+            "short": "J. Gaari",
+            "num": "3",
+            "pos": "CD-R",
+            "place": "6"
+          },
+          {
+            "name": "Deveron Fonville",
+            "short": "D. Fonville",
+            "num": "24",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Joshua Brenet",
+            "short": "J. Brenet",
+            "num": "20",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Leandro Bacuna",
+            "short": "L. Bacuna",
+            "num": "10",
+            "pos": "CM-L",
+            "place": "10"
+          },
+          {
+            "name": "Livano Comenencia",
+            "short": "L. Comenencia",
+            "num": "8",
+            "pos": "CM-R",
+            "place": "8"
+          },
+          {
+            "name": "Juninho Bacuna",
+            "short": "J. Bacuna",
+            "num": "7",
+            "pos": "LM",
+            "place": "11"
+          },
+          {
+            "name": "Tahith Chong",
+            "short": "T. Chong",
+            "num": "21",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Jürgen Locadia",
+            "short": "J. Locadia",
+            "num": "9",
+            "pos": "F",
+            "place": "9"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Jeremy Arévalo",
+            "short": "J. Arévalo",
+            "num": "24",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Anthony Valencia",
+            "short": "A. Valencia",
+            "num": "8",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Jackson Porozo",
+            "short": "J. Porozo",
+            "num": "25",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Kevin Rodríguez",
+            "short": "K. Rodríguez",
+            "num": "11",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Yaimar Medina",
+            "short": "Y. Medina",
+            "num": "26",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Jordy Caicedo",
+            "short": "J. Caicedo",
+            "num": "16",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Alan Minda",
+            "short": "A. Minda",
+            "num": "14",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Félix Torres",
+            "short": "F. Torres",
+            "num": "2",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Joel Ordóñez",
+            "short": "J. Ordóñez",
+            "num": "4",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Nilson Angulo",
+            "short": "N. Angulo",
+            "num": "20",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Gonzalo Valle",
+            "short": "G. Valle",
+            "num": "22",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Ángelo Preciado",
+            "short": "Á. Preciado",
+            "num": "17",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Denil Castillo",
+            "short": "D. Castillo",
+            "num": "18",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Moisés Ramírez",
+            "short": "M. Ramírez",
+            "num": "12",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Kendry Páez",
+            "short": "K. Páez",
+            "num": "10",
+            "pos": "",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Trevor Doornbusch",
+            "short": "T. Doornbusch",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Shurandy Sambo",
+            "short": "S. Sambo",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kenji Gorré",
+            "short": "K. Gorré",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Riechedly Bazoer",
+            "short": "R. Bazoer",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jeremy Antonisse",
+            "short": "J. Antonisse",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ar'jany Martha",
+            "short": "A. Martha",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jearl Margaritha",
+            "short": "J. Margaritha",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kevin Felida",
+            "short": "K. Felida",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Tyrese Noslin",
+            "short": "T. Noslin",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Brandley Kuwas",
+            "short": "B. Kuwas",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Godfried Roemeratoe",
+            "short": "G. Roemeratoe",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Roshon van Eijma",
+            "short": "R. van Eijma",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gervane Kastaneer",
+            "short": "G. Kastaneer",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Tyrick Bodak",
+            "short": "T. Bodak",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Sontje Hansen",
+            "short": "S. Hansen",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "3-1-4-2",
+        "away": "5-4-1"
+      },
+      "commentary": [
+        {
+          "min": "",
+          "text": "Match ends, Ecuador 0, Curaçao 0.",
+          "goal": false
+        },
+        {
+          "min": "96'",
+          "text": "Second Half ends, Ecuador 0, Curaçao 0.",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Corner, Ecuador. Conceded by Godfried Roemeratoe.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Gervane Kastaneer (Curaçao) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Ángelo Preciado (Ecuador) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Foul by Gervane Kastaneer (Curaçao).",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Fourth official has announced 5 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Corner, Ecuador. Conceded by Armando Obispo.",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Substitution, Ecuador. Jordy Caicedo replaces John Yeboah.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Attempt missed. Enner Valencia (Ecuador) right footed shot from the left side of the box misses to the left.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Substitution, Curaçao. Godfried Roemeratoe replaces Livano Comenencia.",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Substitution, Curaçao. Gervane Kastaneer replaces Jürgen Locadia because of an injury.",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Substitution, Ecuador. Ángelo Preciado replaces Alan Franco.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Delay in match because of an injury Jürgen Locadia (Curaçao).",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "VAR Decision: Other Decision Cancelled.",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Corner, Ecuador. Conceded by Juriën Gaari.",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Corner, Ecuador. Conceded by Livano Comenencia.",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Attempt saved. Pedro Vite (Ecuador) left footed shot from outside the box is saved in the top left corner by Eloy Room (Curaçao). Assisted by Kevin Rodríguez.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Attempt saved. Enner Valencia (Ecuador) header from the centre of the box is saved in the top centre of the goal by Eloy Room (Curaçao). Assisted by Pedro Vite with a cross.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Substitution, Curaçao. Jearl Margaritha replaces Tahith Chong.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Substitution, Curaçao. Roshon van Eijma replaces Deveron Fonville.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Substitution, Curaçao. Kenji Gorré replaces Juninho Bacuna.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Juriën Gaari (Curaçao) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Kevin Rodríguez (Ecuador) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Foul by Juriën Gaari (Curaçao).",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Attempt saved. Juninho Bacuna (Curaçao) left footed shot from outside the box is saved in the top centre of the goal by Hernán Galíndez (Ecuador). Assisted by Leandro Bacuna.",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Attempt missed. Piero Hincapié (Ecuador) header from very close range is too high. Assisted by John Yeboah with a cross following a corner.",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Delay in match because of an injury Sherel Floranus (Curaçao).",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Corner, Ecuador. Conceded by Sherel Floranus.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Attempt blocked. John Yeboah (Ecuador) right footed shot from the right side of the box is blocked. Assisted by Pedro Vite.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Attempt saved. Nilson Angulo (Ecuador) right footed shot from outside the box is saved in the bottom left corner by Eloy Room (Curaçao). Assisted by Kevin Rodríguez.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "70'",
+          "text": "Substitution, Ecuador. Nilson Angulo replaces Pervis Estupiñán.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Foul by Pedro Vite (Ecuador).",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Tahith Chong (Curaçao) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Attempt missed. Kevin Rodríguez (Ecuador) right footed shot from the centre of the box misses to the right. Assisted by Pedro Vite with a cross.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Attempt saved. Willian Pacho (Ecuador) header from the centre of the box is saved in the centre of the goal by Eloy Room (Curaçao).",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Attempt blocked. Enner Valencia (Ecuador) right footed shot from very close range is blocked.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Attempt saved. Kevin Rodríguez (Ecuador) header from very close range is saved in the centre of the goal by Eloy Room (Curaçao). Assisted by Moisés Caicedo with a cross.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Corner, Ecuador. Conceded by Eloy Room.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Attempt saved. Enner Valencia (Ecuador) header from the left side of the six yard box is saved in the bottom left corner by Eloy Room (Curaçao). Assisted by John Yeboah with a cross.",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Attempt missed. Kevin Rodríguez (Ecuador) header from the centre of the box misses to the left. Assisted by Gonzalo Plata with a cross following a corner.",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Corner, Ecuador. Conceded by Juninho Bacuna.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Attempt missed. Kevin Rodríguez (Ecuador) left footed shot from the left side of the box is close, but misses to the left. Assisted by Gonzalo Plata following a fast break.",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Attempt saved. Enner Valencia (Ecuador) right footed shot from the left side of the box is saved in the bottom left corner by Eloy Room (Curaçao). Assisted by Pedro Vite.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Attempt blocked. Jürgen Locadia (Curaçao) right footed shot from the right side of the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Attempt saved. Livano Comenencia (Curaçao) right footed shot from the centre of the box is saved in the bottom right corner by Hernán Galíndez (Ecuador). Assisted by Juninho Bacuna.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Attempt saved. Leandro Bacuna (Curaçao) right footed shot from outside the box is saved in the bottom left corner by Hernán Galíndez (Ecuador). Assisted by Juninho Bacuna.",
+          "goal": false
+        },
+        {
+          "min": "59'",
+          "text": "Attempt saved. Gonzalo Plata (Ecuador) header from very close range is saved in the bottom right corner by Eloy Room (Curaçao). Assisted by Piero Hincapié.",
+          "goal": false
+        },
+        {
+          "min": "59'",
+          "text": "Attempt missed. Piero Hincapié (Ecuador) header from the right side of the six yard box misses to the left. Assisted by Moisés Caicedo with a cross following a corner.",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Corner, Ecuador. Conceded by Joshua Brenet.",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Attempt missed. Leandro Bacuna (Curaçao) right footed shot from outside the box misses to the right. Assisted by Tahith Chong following a fast break.",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Livano Comenencia (Curaçao) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Pedro Vite (Ecuador) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Foul by Livano Comenencia (Curaçao).",
+          "goal": false
+        },
+        {
+          "min": "55'",
+          "text": "VAR Decision: Other Decision Cancelled.",
+          "goal": false
+        },
+        {
+          "min": "54'",
+          "text": "Attempt missed. Gonzalo Plata (Ecuador) right footed shot from a difficult angle on the right is too high. Assisted by Kevin Rodríguez following a set piece situation.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "E. Valencia",
+            "num": "13",
+            "pos": "F",
+            "value": "7"
+          },
+          "away": {
+            "name": "L. Comenencia",
+            "num": "8",
+            "pos": "D",
+            "value": "3"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "M. Caicedo",
+            "num": "23",
+            "pos": "M",
+            "value": "99"
+          },
+          "away": {
+            "name": "J. Brenet",
+            "num": "20",
+            "pos": "D",
+            "value": "19"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "W. Pacho",
+            "num": "6",
+            "pos": "D",
+            "value": "11"
+          },
+          "away": {
+            "name": "S. Floranus",
+            "num": "5",
+            "pos": "D",
+            "value": "13"
+          }
+        },
+        {
+          "label": "Saves",
+          "home": {
+            "name": "H. Galíndez",
+            "num": "1",
+            "pos": "G",
+            "value": "3"
+          },
+          "away": {
+            "name": "E. Room",
+            "num": "1",
+            "pos": "G",
+            "value": "15"
+          }
+        }
+      ],
+      "highlight": null,
       "final": true,
       "dv": 5
     },

@@ -165,6 +165,18 @@
         if (!cur || KO_ORDER.indexOf(m.stage) > KO_ORDER.indexOf(cur)) koMap[t] = m.stage;
       });
     });
+    // ----- champion: the winner of the FINISHED Final earns the champion bonus;
+    //       the loser (runner-up) keeps the "final" bonus. Trust ESPN's winner
+    //       flag — correct even when the final goes to penalties — and fall back
+    //       to the scoreline. A tie with no flag stays at "final" (no false crown).
+    const fin = matches.find((m) => m && m.stage === "final" && m.status === "finished"
+      && team[canon(m.home)] && team[canon(m.away)]);
+    if (fin) {
+      const fh = canon(fin.home), fa = canon(fin.away);
+      const hs = Number(fin.homeScore) || 0, as = Number(fin.awayScore) || 0;
+      const champ = fin.homeWinner ? fh : fin.awayWinner ? fa : (hs > as ? fh : as > hs ? fa : null);
+      if (champ) koMap[champ] = "champion";
+    }
     Object.entries(koMap).forEach(([raw, round]) => {
       const t = canon(raw);
       if (team[t] && KO_BONUS[round]) { team[t].koBonus = KO_BONUS[round]; team[t].fpts += KO_BONUS[round]; }
@@ -621,6 +633,8 @@
         away: canon((a.team && a.team.displayName) || ""),
         homeScore: parseInt(h.score, 10) || 0,
         awayScore: parseInt(a.score, 10) || 0,
+        homeWinner: h.winner === true,     // ESPN's authoritative result — true even when the match is decided on penalties
+        awayWinner: a.winner === true,
         status, id: ev.id || null, date: ev.date || null,
         venue: (comp.venue && comp.venue.fullName) || ""
       };
@@ -686,6 +700,7 @@
   function normalizeCustom(m) {
     return { stage: m.stage || "group", group: m.group, home: m.home, away: m.away,
              homeScore: m.homeScore, awayScore: m.awayScore, status: m.status || "finished",
+             homeWinner: m.homeWinner === true, awayWinner: m.awayWinner === true,
              id: m.id || null, venue: m.venue || "",
              date: m.date || null, clock: m.clock, displayClock: m.displayClock, detail: m.detail, period: m.period };
   }

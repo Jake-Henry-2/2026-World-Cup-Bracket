@@ -112,6 +112,8 @@ for (const ev of events) {
       away: aName,
       homeScore: parseInt(home.score, 10) || 0,
       awayScore: parseInt(away.score, 10) || 0,
+      homeWinner: home.winner === true,            // ESPN result flag — correct even on penalties (drives champion detection)
+      awayWinner: away.winner === true,
       status,
       id: ev.id || null,                           // ESPN event id — for the match-detail view
       date: ev.date || null,                       // kickoff (ISO) — used for past times + upcoming

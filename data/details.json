@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-21T21:40:57.442Z",
+  "lastUpdated": "2026-06-21T22:49:43.701Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -32585,6 +32585,735 @@
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0621/dm_260621_Japan_goal/dm_260621_Japan_goal/playlist.m3u8"
       },
       "final": true,
+      "dv": 5
+    },
+    "760450": {
+      "venue": "Hard Rock Stadium",
+      "stats": {
+        "home": {
+          "foulsCommitted": "6",
+          "yellowCards": "1",
+          "redCards": "0",
+          "offsides": "2",
+          "wonCorners": "4",
+          "saves": "0",
+          "possessionPct": "66.1",
+          "totalShots": "10",
+          "shotsOnTarget": "1",
+          "shotPct": "0.1",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "192",
+          "totalPasses": "229",
+          "passPct": "0.8",
+          "accurateCrosses": "3",
+          "totalCrosses": "11",
+          "crossPct": "0.3",
+          "totalLongBalls": "22",
+          "accurateLongBalls": "11",
+          "longballPct": "0.5",
+          "blockedShots": "4",
+          "effectiveTackles": "0",
+          "totalTackles": "5",
+          "tacklePct": "0.0",
+          "interceptions": "4",
+          "effectiveClearance": "5",
+          "totalClearance": "5"
+        },
+        "away": {
+          "foulsCommitted": "2",
+          "yellowCards": "1",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "1",
+          "saves": "0",
+          "possessionPct": "33.9",
+          "totalShots": "2",
+          "shotsOnTarget": "1",
+          "shotPct": "0.5",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "86",
+          "totalPasses": "119",
+          "passPct": "0.7",
+          "accurateCrosses": "1",
+          "totalCrosses": "3",
+          "crossPct": "0.3",
+          "totalLongBalls": "29",
+          "accurateLongBalls": "7",
+          "longballPct": "0.2",
+          "blockedShots": "0",
+          "effectiveTackles": "5",
+          "totalTackles": "6",
+          "tacklePct": "0.8",
+          "interceptions": "2",
+          "effectiveClearance": "20",
+          "totalClearance": "20"
+        }
+      },
+      "events": [
+        {
+          "kind": "Yellow Card",
+          "min": "5'",
+          "side": "away",
+          "player": "Sidny Cabral"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "20'",
+          "side": "home",
+          "player": "Rodrigo Bentancur"
+        },
+        {
+          "kind": "Goal - Free-kick",
+          "min": "21'",
+          "side": "away",
+          "player": "Goal! Uruguay 0, Cabo Verde 1. Kevin Pina"
+        },
+        {
+          "kind": "Goal - Header",
+          "min": "44'",
+          "side": "home",
+          "player": "Goal! Uruguay 1, Cabo Verde 1. Maxi Araújo"
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Fernando Muslera",
+            "short": "F. Muslera",
+            "num": "23",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Mathías Olivera",
+            "short": "M. Olivera",
+            "num": "16",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Sebastián Cáceres",
+            "short": "S. Cáceres",
+            "num": "3",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Manuel Ugarte",
+            "short": "M. Ugarte",
+            "num": "5",
+            "pos": "DM",
+            "place": "4"
+          },
+          {
+            "name": "Juan Manuel Sanabria",
+            "short": "J. Sanabria",
+            "num": "25",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Guillermo Varela",
+            "short": "G. Varela",
+            "num": "13",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Federico Valverde",
+            "short": "F. Valverde",
+            "num": "8",
+            "pos": "CM-L",
+            "place": "10"
+          },
+          {
+            "name": "Rodrigo Bentancur",
+            "short": "R. Bentancur",
+            "num": "6",
+            "pos": "CM-R",
+            "place": "8"
+          },
+          {
+            "name": "Maxi Araújo",
+            "short": "M. Araújo",
+            "num": "20",
+            "pos": "LM",
+            "place": "11"
+          },
+          {
+            "name": "Agustín Cano",
+            "short": "A. Cano",
+            "num": "14",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Federico Viñas",
+            "short": "F. Viñas",
+            "num": "21",
+            "pos": "F",
+            "place": "9"
+          }
+        ],
+        "away": [
+          {
+            "name": "Vozinha",
+            "short": "Vozinha",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Diney Borges",
+            "short": "D. Borges",
+            "num": "3",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Pico Lopes",
+            "short": "P. Lopes",
+            "num": "4",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Kevin Pina",
+            "short": "K. Pina",
+            "num": "6",
+            "pos": "DM",
+            "place": "4"
+          },
+          {
+            "name": "Sidny Lopes Cabral",
+            "short": "S. Lopes Cabral",
+            "num": "13",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Steven Moreira",
+            "short": "S. Moreira",
+            "num": "22",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Jamiro Monteiro",
+            "short": "J. Monteiro",
+            "num": "10",
+            "pos": "CM-L",
+            "place": "10"
+          },
+          {
+            "name": "Telmo Arcanjo",
+            "short": "T. Arcanjo",
+            "num": "18",
+            "pos": "CM-R",
+            "place": "8"
+          },
+          {
+            "name": "Garry Rodrigues",
+            "short": "G. Rodrigues",
+            "num": "11",
+            "pos": "LM",
+            "place": "11"
+          },
+          {
+            "name": "Ryan Mendes",
+            "short": "R. Mendes",
+            "num": "20",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Gilson Benchimol",
+            "short": "G. Benchimol",
+            "num": "9",
+            "pos": "F",
+            "place": "9"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Rodrigo Zalazar",
+            "short": "R. Zalazar",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nicolás de la Cruz",
+            "short": "N. de la Cruz",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Rodrigo Aguirre",
+            "short": "R. Aguirre",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "José María Giménez",
+            "short": "J. Giménez",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Brian Rodríguez",
+            "short": "B. Rodríguez",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Facundo Pellistri",
+            "short": "F. Pellistri",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Matías Viña",
+            "short": "M. Viña",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Joaquín Piquerez",
+            "short": "J. Piquerez",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Emiliano Martínez",
+            "short": "E. Martínez",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Santiago Bueno",
+            "short": "S. Bueno",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Santiago Mele",
+            "short": "S. Mele",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Darwin Núñez",
+            "short": "D. Núñez",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Sergio Rochet",
+            "short": "S. Rochet",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "João Paulo",
+            "short": "J. Paulo",
+            "num": "8",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Willy Semedo",
+            "short": "W. Semedo",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jovane Cabral",
+            "short": "J. Cabral",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Deroy Duarte",
+            "short": "D. Duarte",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Yannick Semedo",
+            "short": "Y. Semedo",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kelvin Pires",
+            "short": "K. Pires",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Márcio Rosa",
+            "short": "M. Rosa",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nuno da Costa",
+            "short": "N. da Costa",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Laros Duarte",
+            "short": "L. Duarte",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Dailon Livramento",
+            "short": "D. Livramento",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Logan Costa",
+            "short": "L. Costa",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "CJ dos Santos",
+            "short": "C. dos Santos",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Stopira",
+            "short": "Stopira",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Wagner Pina",
+            "short": "W. Pina",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Hélio Varela",
+            "short": "H. Varela",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-1-4-1",
+        "away": "4-1-4-1"
+      },
+      "commentary": [
+        {
+          "min": "46'+1'",
+          "text": "Fourth official has announced 5 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "45'+1'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "44'",
+          "text": "Delay in match because of an injury Telmo Arcanjo (Cabo Verde).",
+          "goal": false
+        },
+        {
+          "min": "44'",
+          "text": "Goal! Uruguay 1, Cabo Verde 1. Maxi Araújo (Uruguay) header from very close range to the centre of the goal.",
+          "goal": true
+        },
+        {
+          "min": "43'",
+          "text": "Attempt missed. Diney Borges (Cabo Verde) right footed shot from more than 35 yards misses to the right following a fast break.",
+          "goal": false
+        },
+        {
+          "min": "42'",
+          "text": "Attempt blocked. Sebastián Cáceres (Uruguay) right footed shot from outside the box is blocked. Assisted by Mathías Olivera.",
+          "goal": false
+        },
+        {
+          "min": "40'",
+          "text": "Attempt missed. Maxi Araújo (Uruguay) header from the left side of the box is too high. Assisted by Agustín Canobbio with a cross.",
+          "goal": false
+        },
+        {
+          "min": "38'",
+          "text": "Corner, Cabo Verde. Conceded by Fernando Muslera.",
+          "goal": false
+        },
+        {
+          "min": "36'",
+          "text": "Foul by Agustín Canobbio (Uruguay).",
+          "goal": false
+        },
+        {
+          "min": "36'",
+          "text": "Sidny Cabral (Cabo Verde) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "34'",
+          "text": "Attempt missed. Federico Valverde (Uruguay) right footed shot from outside the box misses to the left. Assisted by Manuel Ugarte.",
+          "goal": false
+        },
+        {
+          "min": "33'",
+          "text": "Attempt missed. Manuel Ugarte (Uruguay) right footed shot from outside the box misses to the left.",
+          "goal": false
+        },
+        {
+          "min": "31'",
+          "text": "Foul by Manuel Ugarte (Uruguay).",
+          "goal": false
+        },
+        {
+          "min": "31'",
+          "text": "Jamiro Monteiro (Cabo Verde) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "28'",
+          "text": "Attempt missed. Federico Valverde (Uruguay) right footed shot from the left side of the box is just a bit too high.",
+          "goal": false
+        },
+        {
+          "min": "27'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "25'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "24'",
+          "text": "Attempt blocked. Federico Valverde (Uruguay) right footed shot from outside the box is blocked. Assisted by Maxi Araújo.",
+          "goal": false
+        },
+        {
+          "min": "24'",
+          "text": "Corner, Uruguay. Conceded by Telmo Arcanjo.",
+          "goal": false
+        },
+        {
+          "min": "24'",
+          "text": "Attempt blocked. Federico Valverde (Uruguay) right footed shot from outside the box is blocked. Assisted by Juan Manuel Sanabria.",
+          "goal": false
+        },
+        {
+          "min": "21'",
+          "text": "Goal! Uruguay 0, Cabo Verde 1. Kevin Pina (Cabo Verde) from a free kick with a right footed shot to the bottom right corner.",
+          "goal": true
+        },
+        {
+          "min": "20'",
+          "text": "Rodrigo Bentancur (Uruguay) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "20'",
+          "text": "Foul by Rodrigo Bentancur (Uruguay).",
+          "goal": false
+        },
+        {
+          "min": "20'",
+          "text": "Telmo Arcanjo (Cabo Verde) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "18'",
+          "text": "Foul by Agustín Canobbio (Uruguay).",
+          "goal": false
+        },
+        {
+          "min": "18'",
+          "text": "Sidny Cabral (Cabo Verde) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "16'",
+          "text": "Corner, Uruguay. Conceded by Diney Borges.",
+          "goal": false
+        },
+        {
+          "min": "14'",
+          "text": "Attempt missed. Federico Valverde (Uruguay) left footed shot from the left side of the box misses to the right. Assisted by Agustín Canobbio following a fast break.",
+          "goal": false
+        },
+        {
+          "min": "13'",
+          "text": "Maxi Araújo (Uruguay) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "13'",
+          "text": "Foul by Kevin Pina (Cabo Verde).",
+          "goal": false
+        },
+        {
+          "min": "11'",
+          "text": "Corner, Uruguay. Conceded by Pico Lopes.",
+          "goal": false
+        },
+        {
+          "min": "10'",
+          "text": "Offside, Uruguay. Maxi Araújo is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "8'",
+          "text": "Offside, Uruguay. Federico Viñas is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "7'",
+          "text": "Attempt blocked. Rodrigo Bentancur (Uruguay) header from the left side of the six yard box is blocked. Assisted by Maxi Araújo with a cross.",
+          "goal": false
+        },
+        {
+          "min": "6'",
+          "text": "Corner, Uruguay. Conceded by Pico Lopes.",
+          "goal": false
+        },
+        {
+          "min": "5'",
+          "text": "Sidny Cabral (Cabo Verde) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "5'",
+          "text": "Rodrigo Bentancur (Uruguay) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "5'",
+          "text": "Foul by Sidny Cabral (Cabo Verde).",
+          "goal": false
+        },
+        {
+          "min": "3'",
+          "text": "Foul by Rodrigo Bentancur (Uruguay).",
+          "goal": false
+        },
+        {
+          "min": "3'",
+          "text": "Sidny Cabral (Cabo Verde) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "2'",
+          "text": "Foul by Agustín Canobbio (Uruguay).",
+          "goal": false
+        },
+        {
+          "min": "2'",
+          "text": "Sidny Cabral (Cabo Verde) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "First Half begins.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "Lineups are announced and players are warming up.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "F. Valverde",
+            "num": "8",
+            "pos": "M",
+            "value": "5"
+          },
+          "away": {
+            "name": "K. Pina",
+            "num": "6",
+            "pos": "M",
+            "value": "1"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "M. Olivera",
+            "num": "16",
+            "pos": "D",
+            "value": "30"
+          },
+          "away": {
+            "name": "P. Lopes",
+            "num": "4",
+            "pos": "D",
+            "value": "14"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "R. Bentancur",
+            "num": "6",
+            "pos": "M",
+            "value": "6"
+          },
+          "away": {
+            "name": "D. Borges",
+            "num": "3",
+            "pos": "D",
+            "value": "11"
+          }
+        }
+      ],
+      "highlight": null,
+      "final": false,
       "dv": 5
     },
     "760451": {

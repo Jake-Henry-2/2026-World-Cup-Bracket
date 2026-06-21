@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-21T21:40:57.386Z",
+  "lastUpdated": "2026-06-21T22:49:43.326Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -500,14 +500,18 @@
       "stage": "group",
       "home": "Uruguay",
       "away": "Cabo Verde",
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 1,
+      "awayScore": 1,
       "homeWinner": false,
       "awayWinner": false,
-      "status": "scheduled",
+      "status": "live",
       "id": "760450",
       "date": "2026-06-21T22:00Z",
-      "venue": "Hard Rock Stadium"
+      "venue": "Hard Rock Stadium",
+      "clock": 2700,
+      "displayClock": "45'+4'",
+      "detail": "45'+4'",
+      "period": 1
     },
     {
       "stage": "group",

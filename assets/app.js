@@ -77,8 +77,11 @@
      ====================================================================== */
   const SG = L.scoring.group;
   const SK = L.scoring.knockout;
-  const KO_BONUS = { r32: SK.r32, r16: SK.r16, qf: SK.qf, sf: SK.sf, final: SK.final, third: SK.final, champion: SK.champion };
-  const KO_ORDER = ["r32", "r16", "qf", "sf", "final", "third", "champion"];
+  // "third" = the 3rd-place match, played by the two semifinal losers, so it earns the Semifinal
+  // bonus (a semi exit pays +4, exactly as the rules show — NOT the Final's +6). The finalists never
+  // play it, so they keep final/champion. KO_ORDER ranks it just past "sf" but below the finalists.
+  const KO_BONUS = { r32: SK.r32, r16: SK.r16, qf: SK.qf, sf: SK.sf, final: SK.final, third: SK.sf, champion: SK.champion };
+  const KO_ORDER = ["r32", "r16", "qf", "sf", "third", "final", "champion"];
 
   function blankTeam() {
     return { gp: 0, w: 0, d: 0, l: 0, gf: 0, ga: 0, stand: 0, fpts: 0, fromMatch: false,

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-21T15:59:35.510Z",
+  "lastUpdated": "2026-06-21T16:51:44.582Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -474,14 +474,18 @@
       "stage": "group",
       "home": "Spain",
       "away": "Saudi Arabia",
-      "homeScore": 0,
+      "homeScore": 3,
       "awayScore": 0,
       "homeWinner": false,
       "awayWinner": false,
-      "status": "scheduled",
+      "status": "live",
       "id": "760453",
       "date": "2026-06-21T16:00Z",
-      "venue": "Mercedes-Benz Stadium"
+      "venue": "Mercedes-Benz Stadium",
+      "clock": 2700,
+      "displayClock": "45'+5'",
+      "detail": "HT",
+      "period": 1
     },
     {
       "stage": "group",

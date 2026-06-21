@@ -52,9 +52,14 @@ function* dateRange(startStr, endDate) {
   const d = new Date(startStr + "T00:00:00Z");
   while (d <= endDate) { yield ymd(d); d.setUTCDate(d.getUTCDate() + 1); }
 }
-// Round detection from any ESPN text (slug / event name / notes). Check specific rounds before
-// "final" so semifinal/quarterfinal aren't misread, so knockout scoring stays correct all tournament.
-const stageOf = (s = "") => {
+// ESPN's season slug is the AUTHORITATIVE round of the match itself — unlike the event name, it is
+// NOT polluted by feeder labels ("Round of 32 1 Winner" names an R16 match, not an R32 one). Prefer it.
+const SLUG_STAGE = { "round-of-32": "r32", "round-of-16": "r16", "quarterfinals": "qf",
+                    "semifinals": "sf", "3rd-place-match": "third", "final": "final" };
+// Round detection: exact season slug first, then fall back to any ESPN text. Check specific rounds
+// before "final" so semifinal/quarterfinal aren't misread, so knockout scoring stays correct.
+const stageOf = (s = "", slug = "") => {
+  if (SLUG_STAGE[slug]) return SLUG_STAGE[slug];
   s = String(s).toLowerCase();
   if (/round of 32|round-of-32|\bro32\b/.test(s)) return "r32";
   if (/round of 16|round-of-16|\bro16\b/.test(s)) return "r16";
@@ -107,7 +112,7 @@ for (const ev of events) {
     const status = statusOf(ev.status && ev.status.type && ev.status.type.state);
     const cstat = comp.status || ev.status || {};
     const rec = {
-      stage: stageOf(stageText(ev, comp)),
+      stage: stageOf(stageText(ev, comp), ev.season && ev.season.slug),
       home: hName,
       away: aName,
       homeScore: parseInt(home.score, 10) || 0,

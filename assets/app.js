@@ -527,6 +527,112 @@
       </div>`;
   }
 
+  /* =========================================================================
+     KNOCKOUT BRACKET — a live tree of the Round of 32 → Final.
+     HIDDEN until the group stage is over (every group has played its 6 games),
+     then it reveals itself and fills in as ESPN resolves each matchup.
+
+     ESPN publishes the whole knockout schedule from day one (placeholder teams
+     like "Group A Winner"), so we order each round's fixtures by ESPN id — which
+     equals FIFA's match numbering — to know which slot is which. The 2026 tree
+     is fixed; the per-side, top-to-bottom slot orders below are arranged so each
+     match sits directly between the two feeders that produce it (so equal-height
+     flex slots align the whole tree automatically).
+     ====================================================================== */
+  const KO_STAGES = ["r32", "r16", "qf", "sf", "final", "third"];
+  const TEAM_SET = new Set(ALL_TEAMS);
+  const ROUND_LABEL = { r32: "Round of 32", r16: "Round of 16", qf: "Quarters", sf: "Semis", final: "Final", third: "3rd place" };
+  const BRACKET = {
+    left:  { r32: [1, 3, 2, 5, 11, 12, 9, 10], r16: [1, 2, 5, 6], qf: [1, 2], sf: [1] },
+    right: { r32: [4, 6, 7, 8, 13, 15, 14, 16], r16: [3, 4, 7, 8], qf: [3, 4], sf: [2] }
+  };
+
+  // the group stage is over once all 12 groups are complete (or any knockout game has kicked off)
+  function isGroupStageOver(computed) {
+    const raw = (state.results && state.results.matches) || [];
+    if (raw.some((m) => m && KO_STAGES.includes(m.stage) && (m.status === "live" || m.status === "finished"))) return true;
+    const groups = Object.keys(L.groups);
+    return groups.length > 0 && groups.every((g) => computed.groupTables[g] && computed.groupTables[g].complete);
+  }
+
+  // map the live feed onto the fixed tree: each (round, idx) slot → normalized match
+  function buildBracket() {
+    const raw = Array.isArray(state.results.matches) ? state.results.matches : [];
+    const byRound = {}; KO_STAGES.forEach((st) => (byRound[st] = []));
+    raw.forEach((m) => { if (m && byRound[m.stage]) byRound[m.stage].push(m); });
+    KO_STAGES.forEach((st) => byRound[st].sort((a, b) => (Number(a.id) || 0) - (Number(b.id) || 0)));
+    const slot = (round, idx) => {
+      const m = byRound[round][idx - 1];
+      if (!m) return { round, idx, empty: true };
+      const home = canon(m.home), away = canon(m.away);
+      const hReal = TEAM_SET.has(home), aReal = TEAM_SET.has(away);
+      const hs = Number(m.homeScore) || 0, as = Number(m.awayScore) || 0;
+      const finished = m.status === "finished";
+      const winner = finished ? (m.homeWinner ? "home" : m.awayWinner ? "away" : hs > as ? "home" : as > hs ? "away" : null) : null;
+      return { round, idx, id: m.id || null, status: m.status || "scheduled",
+               home, away, hReal, aReal, hs, as, finished, winner, clickable: hReal && aReal && !!m.id };
+    };
+    const col = (side, round) => BRACKET[side][round].map((idx) => slot(round, idx));
+    return {
+      left:  { r32: col("left", "r32"),  r16: col("left", "r16"),  qf: col("left", "qf"),  sf: col("left", "sf") },
+      right: { r32: col("right", "r32"), r16: col("right", "r16"), qf: col("right", "qf"), sf: col("right", "sf") },
+      final: slot("final", 1), third: slot("third", 1)
+    };
+  }
+
+  function renderBracket(computed) {
+    const box = $("#bracket"); if (!box) return;
+    if (!isGroupStageOver(computed)) { box.hidden = true; box.innerHTML = ""; return; }
+    box.hidden = false;
+    const B = buildBracket();
+
+    const teamRow = (name, real, score, mark, showScore, crown) => {
+      const owner = real ? OWNER_OF[name] : null;
+      const emoji = owner ? MANAGER[owner].emoji : "";
+      return `<div class="bk-row bk-${mark}${real ? "" : " bk-tbd"}">
+        <span class="bk-em">${emoji}</span>
+        <span class="bk-tm">${crown ? "👑 " : ""}${esc(real ? name : "TBD")}</span>
+        <span class="bk-sc">${showScore ? score : ""}</span></div>`;
+    };
+    const card = (m) => {
+      if (!m || m.empty) return `<div class="bk-match bk-empty">
+        <div class="bk-row bk-tbd"><span class="bk-em"></span><span class="bk-tm">TBD</span><span class="bk-sc"></span></div>
+        <div class="bk-row bk-tbd"><span class="bk-em"></span><span class="bk-tm">TBD</span><span class="bk-sc"></span></div></div>`;
+      const show = m.status === "finished" || m.status === "live";
+      const hMark = m.finished ? (m.winner === "home" ? "win" : m.winner === "away" ? "lose" : "n") : "n";
+      const aMark = m.finished ? (m.winner === "away" ? "win" : m.winner === "home" ? "lose" : "n") : "n";
+      const isFinal = m.round === "final";
+      return `<div class="bk-match${m.clickable ? " bk-click" : ""}${m.status === "live" ? " bk-livematch" : ""}"${m.clickable ? ` data-mid="${esc(m.id)}"` : ""}>
+        ${teamRow(m.home, m.hReal, m.hs, hMark, show, isFinal && hMark === "win")}
+        ${teamRow(m.away, m.aReal, m.as, aMark, show, isFinal && aMark === "win")}
+        ${m.status === "live" ? `<span class="bk-livetag">🔴 LIVE</span>` : ""}</div>`;
+    };
+    const colEl = (slots, round) => `<div class="bk-col"><div class="bk-rhead">${ROUND_LABEL[round]}</div>${slots.map((m) => `<div class="bk-slot">${card(m)}</div>`).join("")}</div>`;
+
+    const champ = (B.final && B.final.finished && B.final.winner)
+      ? (B.final.winner === "home" ? B.final.home : B.final.away) : null;
+    const champOwner = champ ? OWNER_OF[champ] : null;
+    const champBanner = champ
+      ? `<div class="bk-champ">🏆 Champion: ${champOwner ? MANAGER[champOwner].emoji + " " : ""}<b>${esc(champ)}</b></div>`
+      : `<div class="bk-champ bk-champ-tbd">🏆 Champion</div>`;
+
+    box.innerHTML = `
+      <div class="panel-h">🏆 Knockout Bracket <span class="dim">winners advance toward the final →</span></div>
+      <div class="bk-scroll"><div class="bk">
+        <div class="bk-side bk-left">
+          ${colEl(B.left.r32, "r32")}${colEl(B.left.r16, "r16")}${colEl(B.left.qf, "qf")}${colEl(B.left.sf, "sf")}
+        </div>
+        <div class="bk-mid">
+          ${champBanner}
+          <div class="bk-mid-final">${card(B.final)}</div>
+          <div class="bk-mid-third"><div class="bk-third-h">3rd-place match</div>${card(B.third)}</div>
+        </div>
+        <div class="bk-side bk-right">
+          ${colEl(B.right.sf, "sf")}${colEl(B.right.qf, "qf")}${colEl(B.right.r16, "r16")}${colEl(B.right.r32, "r32")}
+        </div>
+      </div></div>`;
+  }
+
   // World Cup news — headlines scraped from ESPN (refreshed each cycle), linking out to the source
   function renderNews() {
     const box = $("#news"); if (!box) return;
@@ -563,6 +669,7 @@
     state.computed = computed;
 
     renderTicker(computed.managers);
+    renderBracket(computed);
     renderLeaderboard(computed.managers);
     renderGroups(computed);
     renderSidePool(computed);
@@ -590,8 +697,13 @@
   // build/scheduler. Mirrors scripts/fetch-scores.mjs exactly. A plain GET to site.api.espn.com
   // sends no custom headers (no CORS preflight); on any failure we throw and fall back to the feed.
   const ESPN_SCOREBOARD = "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates=20260611-20260720";
-  // round detection from any ESPN text — specific rounds before "final" so knockout scoring stays correct
+  // ESPN's season slug names the match's OWN round, unpolluted by feeder labels (an R16 game is named
+  // "Round of 32 1 Winner..."). Prefer the exact slug, then fall back to text. Keeps knockout stages right.
+  const SLUG_STAGE = { "round-of-32": "r32", "round-of-16": "r16", "quarterfinals": "qf",
+                      "semifinals": "sf", "3rd-place-match": "third", "final": "final" };
   function espnStage(ev, comp) {
+    const slug = ev && ev.season && ev.season.slug;
+    if (slug && SLUG_STAGE[slug]) return SLUG_STAGE[slug];
     const s = [(ev.season && ev.season.slug) || "", ev.name || "", ev.shortName || "",
       ((comp && comp.notes) || []).map((n) => n.headline || n.text || "").join(" "),
       (comp && comp.type && (comp.type.text || comp.type.abbreviation)) || ""].join(" ").toLowerCase();

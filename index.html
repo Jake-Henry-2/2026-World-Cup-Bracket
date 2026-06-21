@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
   <title>2026 World Cup — Live Fantasy Tracker</title>
-  <link rel="stylesheet" href="assets/styles.css?v=1782053969" />
+  <link rel="stylesheet" href="assets/styles.css?v=1782054960" />
 </head>
 <body>
 
@@ -33,6 +33,9 @@
       <img src="assets/lectra-logo.png" alt="Lectra" class="lectra-logo header-lectra" />
     </div>
   </header>
+
+  <!-- Knockout bracket — stays hidden until the group stage is over, then auto-reveals -->
+  <section id="bracket" class="panel bracket-panel" hidden></section>
 
   <main class="layout">
     <section class="col-main">
@@ -79,9 +82,9 @@
   <div id="modal" class="modal"></div>
 
   <!-- load order matters: config + data define globals, then the app uses them -->
-  <script src="config.js?v=1782053969"></script>
-  <script src="data/league.js?v=1782053969"></script>
-  <script src="data/results.js?v=1782053969"></script>
-  <script src="assets/app.js?v=1782053969"></script>
+  <script src="config.js?v=1782054960"></script>
+  <script src="data/league.js?v=1782054960"></script>
+  <script src="data/results.js?v=1782054960"></script>
+  <script src="assets/app.js?v=1782054960"></script>
 </body>
 </html>

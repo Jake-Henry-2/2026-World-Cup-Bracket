@@ -356,6 +356,57 @@ h1{font-size:20px;margin:0;letter-spacing:.3px}
 .cb-sub{font-size:13px;color:var(--dim);font-weight:600;margin-top:6px}
 @keyframes cb-pop{0%{transform:scale(.6);opacity:0}100%{transform:scale(1);opacity:1}}
 
+/* ---------------- knockout bracket ---------------- */
+.bracket-panel{margin:0 16px 14px}
+.bk-scroll{overflow-x:auto;padding:10px 12px 16px}
+.bk{display:flex;align-items:stretch;min-width:max-content;min-height:440px}
+.bk-side{display:flex;align-items:stretch}
+.bk-col{display:flex;flex-direction:column;width:146px}
+.bk-rhead{height:24px;font-size:11px;font-weight:800;letter-spacing:.04em;text-transform:uppercase;
+  color:var(--dim);text-align:center;display:flex;align-items:center;justify-content:center}
+.bk-slot{flex:1 1 0;display:flex;align-items:center;justify-content:center;position:relative;padding:5px 11px}
+.bk-match{width:100%;background:rgba(255,255,255,.025);border:1px solid var(--line);border-radius:8px;
+  position:relative;z-index:1}
+.bk-click{cursor:pointer;transition:.15s}
+.bk-click:hover{border-color:var(--blue);box-shadow:0 0 0 1px var(--blue)}
+.bk-row{display:flex;align-items:center;gap:5px;padding:5px 8px;font-size:12px;line-height:1.2}
+.bk-row+.bk-row{border-top:1px solid var(--line)}
+.bk-em{font-size:13px;width:16px;text-align:center;flex:none}
+.bk-tm{flex:1;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-weight:700}
+.bk-sc{font-weight:800;min-width:12px;text-align:right;flex:none;color:var(--ink)}
+.bk-win{color:var(--gold)}.bk-win .bk-sc{color:var(--gold)}
+.bk-lose{opacity:.42}
+.bk-tbd .bk-tm{color:var(--dim);font-weight:600;font-style:italic}
+.bk-tbd .bk-em{opacity:.35}
+.bk-empty{border-style:dashed;opacity:.7}
+.bk-livematch{border-color:var(--red);box-shadow:0 0 12px rgba(255,93,108,.18)}
+.bk-livetag{position:absolute;top:-8px;left:50%;transform:translateX(-50%);font-size:8px;font-weight:800;
+  color:var(--red);background:var(--panel);padding:0 5px;border-radius:5px;white-space:nowrap}
+/* center column: champion + final + 3rd place */
+.bk-mid{display:flex;flex-direction:column;justify-content:center;align-items:center;gap:12px;
+  width:176px;padding:24px 8px 0}
+.bk-champ{font-size:13px;font-weight:800;text-align:center;color:var(--gold);width:100%;
+  background:linear-gradient(180deg,rgba(255,210,63,.16),rgba(255,210,63,.03));
+  border:1px solid rgba(255,210,63,.4);border-radius:9px;padding:8px 10px}
+.bk-champ b{color:var(--gold2)}
+.bk-champ-tbd{color:var(--dim);background:rgba(255,255,255,.02);border-color:var(--line)}
+.bk-mid-final{width:100%}
+.bk-mid-final .bk-match{border-color:rgba(255,210,63,.55);box-shadow:0 0 20px rgba(255,210,63,.13)}
+.bk-mid-third{width:100%;opacity:.85}
+.bk-third-h{font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:.03em;
+  color:var(--dim);text-align:center;margin-bottom:4px}
+/* connectors: equal-height flex slots put every match between its two feeders, so a vertical
+   line spanning 25%-75% of a receiving slot meets both feeder lines. Left half flows right; right mirrors. */
+.bk-left .bk-col .bk-match::after,.bk-right .bk-col .bk-match::before{
+  content:"";position:absolute;top:50%;width:11px;height:2px;background:var(--line)}
+.bk-left .bk-col .bk-match::after{right:-11px}
+.bk-right .bk-col .bk-match::before{left:-11px}
+.bk-left .bk-col:first-child .bk-slot::before,.bk-right .bk-col:last-child .bk-slot::after{display:none}
+.bk-left .bk-col:not(:first-child) .bk-slot::before,.bk-right .bk-col:not(:last-child) .bk-slot::after{
+  content:"";position:absolute;top:25%;height:50%;width:2px;background:var(--line)}
+.bk-left .bk-col:not(:first-child) .bk-slot::before{left:0}
+.bk-right .bk-col:not(:last-child) .bk-slot::after{right:0}
+
 /* ---------------- responsive ---------------- */
 @media(max-width:920px){.layout{grid-template-columns:1fr}.pot-grid{grid-template-columns:1fr 1fr}.extra-grid{grid-template-columns:1fr}.sch-grid{grid-template-columns:1fr}}
-@media(max-width:560px){.status{gap:12px}.lb-total-pts{font-size:22px}}
+@media(max-width:560px){.status{gap:12px}.lb-total-pts{font-size:22px}.bracket-panel{margin:0 8px 12px}}

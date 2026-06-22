@@ -430,6 +430,26 @@ h1{font-size:20px;margin:0;letter-spacing:.3px}
 .proj-note{padding:9px 12px 12px;font-size:11px;color:var(--dim);line-height:1.5;border-top:1px solid var(--line)}
 .proj-note b{color:var(--ink);font-weight:700}
 
+/* ---------------- DraftKings odds (game rows + match modal) ---------------- */
+.lg-up{flex-wrap:wrap}
+.lg-odds{flex-basis:100%;display:flex;flex-wrap:wrap;align-items:center;gap:6px;margin:5px 0 1px 33px;
+  font-size:11px;font-variant-numeric:tabular-nums}
+.lg-odbk{font-size:9px;font-weight:800;letter-spacing:.04em;color:#53d337;background:rgba(83,211,55,.12);
+  border:1px solid rgba(83,211,55,.35);border-radius:4px;padding:1px 5px}
+.lg-od{color:var(--dim);background:rgba(255,255,255,.04);border:1px solid var(--line);border-radius:5px;padding:1px 7px;font-weight:700}
+.lg-odfav{color:var(--gold);border-color:rgba(255,210,63,.4);background:rgba(255,210,63,.08)}
+.lg-odou{color:var(--blue)}
+/* modal odds block */
+.md-odds{margin:2px 0 4px;padding:11px 14px;background:rgba(83,211,55,.05);border:1px solid rgba(83,211,55,.2);border-radius:10px}
+.md-odds-h{font-size:11px;font-weight:800;color:#53d337;margin-bottom:9px;letter-spacing:.02em}
+.md-odds-grid{display:flex;gap:8px}
+.md-od{flex:1;text-align:center;background:rgba(255,255,255,.03);border:1px solid var(--line);border-radius:8px;padding:8px 6px}
+.md-od-t{font-size:11px;color:var(--dim);font-weight:700;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.md-od-ml{font-size:17px;font-weight:800;margin-top:2px}
+.md-od-pc{font-size:10px;color:var(--dim);margin-top:1px}
+.md-odfav{border-color:rgba(255,210,63,.5);background:rgba(255,210,63,.08)}
+.md-odfav .md-od-ml{color:var(--gold)}
+
 /* ---------------- responsive ---------------- */
 @media(max-width:920px){.layout{grid-template-columns:1fr}.pot-grid{grid-template-columns:1fr 1fr}.extra-grid{grid-template-columns:1fr}.sch-grid{grid-template-columns:1fr}}
-@media(max-width:560px){.status{gap:12px}.lb-total-pts{font-size:22px}.bracket-panel{margin:0 8px 12px}.proj-win{min-width:78px}}
+@media(max-width:560px){.status{gap:12px}.lb-total-pts{font-size:22px}.bracket-panel{margin:0 8px 12px}.proj-win{min-width:78px}.lg-odds{margin-left:0}}

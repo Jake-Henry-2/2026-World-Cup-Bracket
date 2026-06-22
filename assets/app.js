@@ -231,6 +231,7 @@
       hs: Number(m.homeScore) || 0, as: Number(m.awayScore) || 0,
       group: GROUP_OF[canon(m.home)] || null, stage: m.stage || "group",
       status: m.status || "scheduled", id: m.id || null, venue: m.venue || "",
+      odds: m.odds || null,
       date: m.date || null, clock: m.clock, displayClock: m.displayClock, detail: m.detail, period: m.period
     });
     const nowMs = Date.now();
@@ -435,6 +436,35 @@
     return m + ":" + String(s).padStart(2, "0");
   }
 
+  /* ---------- DraftKings odds display (from the captured m.odds) ----------- */
+  const fmtAm = (n) => (n == null ? "—" : (n > 0 ? "+" + n : "" + n));   // American odds, e.g. -225 / +700
+  const teamCode = (name) => esc(String(name || "").replace(/[^A-Za-z]/g, "").slice(0, 3).toUpperCase());
+  function impliedPct(o) {                                  // de-vigged win/draw/away %
+    if (!o) return null;
+    const pH = amToProb(o.home), pA = amToProb(o.away), pD = (o.draw != null ? amToProb(o.draw) : null);
+    if (pH == null || pA == null) return null;
+    const dd = pD == null ? 0 : pD, s = pH + dd + pA; if (s <= 0) return null;
+    return { h: Math.round(pH / s * 100), d: pD == null ? null : Math.round(dd / s * 100), a: Math.round(pA / s * 100) };
+  }
+  // compact one-line odds for a game row: HOME ml · X ml · AWAY ml · O/U · DK (favorite highlighted)
+  function oddsInline(g) {
+    const o = g && g.odds; if (!o || o.home == null || o.away == null) return "";
+    const favH = o.home <= o.away;
+    const cell = (code, ml, fav) => `<span class="lg-od${fav ? " lg-odfav" : ""}">${code} ${fmtAm(ml)}</span>`;
+    return `<span class="lg-odds"><span class="lg-odbk">DK</span>${cell(teamCode(g.home), o.home, favH)}` +
+      `${o.draw != null ? `<span class="lg-od">X ${fmtAm(o.draw)}</span>` : ""}${cell(teamCode(g.away), o.away, !favH)}` +
+      `${o.total != null ? `<span class="lg-od lg-odou">O/U ${o.total}</span>` : ""}</span>`;
+  }
+  // fuller odds block for the match modal: each outcome's moneyline + implied %, favorite highlighted
+  function dkBlock(g) {
+    const o = g && g.odds; if (!o || o.home == null || o.away == null) return "";
+    const ip = impliedPct(o), favH = o.home <= o.away;
+    const c = (name, ml, pct, fav) => `<div class="md-od${fav ? " md-odfav" : ""}">
+      <div class="md-od-t">${esc(name)}</div><div class="md-od-ml">${fmtAm(ml)}</div>${pct != null ? `<div class="md-od-pc">${pct}%</div>` : ""}</div>`;
+    return `<div class="md-odds"><div class="md-odds-h">💰 DraftKings line${o.total != null ? ` · Total O/U ${o.total} goals` : ""}</div>
+      <div class="md-odds-grid">${c(g.home, o.home, ip && ip.h, favH)}${o.draw != null ? c("Draw", o.draw, ip && ip.d, false) : ""}${c(g.away, o.away, ip && ip.a, !favH)}</div></div>`;
+  }
+
   function renderGames(computed) {
     const box = $("#games");
     if (!box) return;
@@ -462,7 +492,7 @@
     const upRows = computed.upcoming.map((m) => `<div class="lg-row lg-up lg-click"${mid(m)}>
       <span class="lg-g">${m.group || m.stage}</span>
       <span class="lg-m">${esc(m.home)} ${ownerTag(m.home)} <span class="lg-vs">vs</span> ${ownerTag(m.away)} ${esc(m.away)}</span>
-      <span class="lg-when">${upStr(m.date)}</span></div>`).join("");
+      <span class="lg-when">${upStr(m.date)}</span>${oddsInline(m)}</div>`).join("");
 
     const finished = computed.log.slice().sort((a, b) => (Date.parse(b.date) || 0) - (Date.parse(a.date) || 0));
     const doneRows = finished.length ? finished.map((m) => `<div class="lg-row lg-click"${mid(m)}>
@@ -1218,7 +1248,7 @@
       ? `<div class="md-empty">Kicks off ${g.date ? new Date(g.date).toLocaleString() : "soon"}.</div>`
       : det ? matchDetailHtml(det, g)
       : `<div class="md-empty">Detailed data lands within ~5 minutes of kickoff — check back shortly, or open the full match on ESPN below.</div>`;
-    showModal(`${matchHeaderHtml(g)}${motmHtml}<div id="md-body">${body}</div>
+    showModal(`${matchHeaderHtml(g)}${dkBlock(g)}${motmHtml}<div id="md-body">${body}</div>
       <div class="md-foot">
         <a href="${RADIO_MAIN}" target="_blank" rel="noopener" class="foot-link md-radio">📻 Live radio · BBC 5 Live (free) ↗</a>
         <a href="${RADIO_EXTRA}" target="_blank" rel="noopener" class="foot-link md-radio2">📻 5 Sports Extra ↗</a>

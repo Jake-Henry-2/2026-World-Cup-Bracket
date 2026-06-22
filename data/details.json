@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-22T00:00:42.102Z",
+  "lastUpdated": "2026-06-22T05:23:47.635Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -32591,64 +32591,64 @@
       "venue": "Hard Rock Stadium",
       "stats": {
         "home": {
-          "foulsCommitted": "8",
+          "foulsCommitted": "11",
           "yellowCards": "2",
           "redCards": "0",
           "offsides": "3",
-          "wonCorners": "12",
-          "saves": "0",
-          "possessionPct": "66.5",
+          "wonCorners": "11",
+          "saves": "2",
+          "possessionPct": "65.2",
           "totalShots": "17",
           "shotsOnTarget": "2",
           "shotPct": "0.1",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "413",
-          "totalPasses": "499",
+          "accuratePasses": "420",
+          "totalPasses": "511",
           "passPct": "0.8",
           "accurateCrosses": "4",
-          "totalCrosses": "28",
+          "totalCrosses": "29",
           "crossPct": "0.1",
-          "totalLongBalls": "42",
-          "accurateLongBalls": "21",
+          "totalLongBalls": "48",
+          "accurateLongBalls": "23",
           "longballPct": "0.5",
-          "blockedShots": "8",
-          "effectiveTackles": "7",
-          "totalTackles": "15",
+          "blockedShots": "7",
+          "effectiveTackles": "8",
+          "totalTackles": "16",
           "tacklePct": "0.5",
           "interceptions": "7",
-          "effectiveClearance": "9",
-          "totalClearance": "9"
+          "effectiveClearance": "11",
+          "totalClearance": "11"
         },
         "away": {
           "foulsCommitted": "4",
           "yellowCards": "2",
           "redCards": "0",
           "offsides": "0",
-          "wonCorners": "3",
+          "wonCorners": "4",
           "saves": "0",
-          "possessionPct": "33.5",
-          "totalShots": "9",
-          "shotsOnTarget": "2",
-          "shotPct": "0.2",
+          "possessionPct": "34.8",
+          "totalShots": "12",
+          "shotsOnTarget": "4",
+          "shotPct": "0.3",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "190",
-          "totalPasses": "256",
+          "accuratePasses": "205",
+          "totalPasses": "278",
           "passPct": "0.7",
           "accurateCrosses": "2",
-          "totalCrosses": "6",
+          "totalCrosses": "7",
           "crossPct": "0.3",
-          "totalLongBalls": "54",
-          "accurateLongBalls": "14",
+          "totalLongBalls": "61",
+          "accurateLongBalls": "18",
           "longballPct": "0.3",
-          "blockedShots": "3",
-          "effectiveTackles": "14",
-          "totalTackles": "15",
+          "blockedShots": "4",
+          "effectiveTackles": "15",
+          "totalTackles": "16",
           "tacklePct": "0.9",
-          "interceptions": "12",
-          "effectiveClearance": "45",
-          "totalClearance": "45"
+          "interceptions": "13",
+          "effectiveClearance": "48",
+          "totalClearance": "48"
         }
       },
       "events": [
@@ -32744,7 +32744,7 @@
         },
         {
           "kind": "Yellow Card",
-          "min": "90'+4'",
+          "min": "90'+3'",
           "side": "away",
           "player": "Diney Borges"
         }
@@ -32815,8 +32815,8 @@
             "place": "11"
           },
           {
-            "name": "Agustín Cano",
-            "short": "A. Cano",
+            "name": "Agustín Canobbio",
+            "short": "A. Canobbio",
             "num": "14",
             "pos": "RM",
             "place": "7"
@@ -33117,18 +33117,78 @@
       },
       "commentary": [
         {
+          "min": "",
+          "text": "Match ends, Uruguay 2, Cabo Verde 2.",
+          "goal": false
+        },
+        {
+          "min": "99'",
+          "text": "Second Half ends, Uruguay 2, Cabo Verde 2.",
+          "goal": false
+        },
+        {
+          "min": "90'+9'",
+          "text": "Foul by Sebastián Cáceres (Uruguay).",
+          "goal": false
+        },
+        {
+          "min": "90'+9'",
+          "text": "Nuno da Costa (Cabo Verde) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "90'+7'",
+          "text": "Attempt saved. Laros Duarte (Cabo Verde) right footed shot from outside the box is saved in the centre of the goal by Fernando Muslera (Uruguay).",
+          "goal": false
+        },
+        {
+          "min": "90'+7'",
+          "text": "Foul by Rodrigo Bentancur (Uruguay).",
+          "goal": false
+        },
+        {
+          "min": "90'+7'",
+          "text": "Laros Duarte (Cabo Verde) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Attempt blocked. Ryan Mendes (Cabo Verde) right footed shot from the right side of the box is blocked. Assisted by Laros Duarte.",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Corner, Cabo Verde. Conceded by Rodrigo Bentancur.",
+          "goal": false
+        },
+        {
           "min": "90'+4'",
+          "text": "Attempt saved. Laros Duarte (Cabo Verde) left footed shot from outside the box is saved in the centre of the goal by Fernando Muslera (Uruguay). Assisted by Ryan Mendes.",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Foul by Agustín Canobbio (Uruguay).",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Yannick Semedo (Cabo Verde) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "VAR Decision: Other Decision Cancelled.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
           "text": "Diney Borges (Cabo Verde) is shown the yellow card for a bad foul.",
           "goal": false
         },
         {
           "min": "90'+3'",
-          "text": "Corner, Uruguay. Conceded by Pico Lopes.",
-          "goal": false
-        },
-        {
-          "min": "90'+3'",
-          "text": "Attempt blocked. Agustín Canobbio (Uruguay) right footed shot from the right side of the box is blocked. Assisted by Darwin Núñez.",
+          "text": "Attempt missed. Agustín Canobbio (Uruguay) right footed shot from the right side of the box is close, but misses to the right. Assisted by Darwin Núñez following a fast break.",
           "goal": false
         },
         {
@@ -33193,7 +33253,7 @@
         },
         {
           "min": "84'",
-          "text": "Corner, Uruguay. Conceded by Deroy Duarte.",
+          "text": "Corner, Uruguay. Conceded by Steven Moreira.",
           "goal": false
         },
         {
@@ -33355,66 +33415,6 @@
           "min": "49'",
           "text": "Corner, Uruguay. Conceded by Sidny Cabral.",
           "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Second Half begins Uruguay 2, Cabo Verde 1.",
-          "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Substitution, Cabo Verde. Deroy Duarte replaces Telmo Arcanjo because of an injury.",
-          "goal": false
-        },
-        {
-          "min": "45'+9'",
-          "text": "First Half ends, Uruguay 2, Cabo Verde 1.",
-          "goal": false
-        },
-        {
-          "min": "45'+6'",
-          "text": "Goal! Uruguay 2, Cabo Verde 1. Agustín Canobbio (Uruguay) right footed shot from the centre of the box to the centre of the goal. Assisted by Maxi Araújo with a headed pass.",
-          "goal": true
-        },
-        {
-          "min": "45'+1'",
-          "text": "Delay over. They are ready to continue.",
-          "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Fourth official has announced 5 minutes of added time.",
-          "goal": false
-        },
-        {
-          "min": "44'",
-          "text": "Delay in match because of an injury Telmo Arcanjo (Cabo Verde).",
-          "goal": false
-        },
-        {
-          "min": "44'",
-          "text": "Goal! Uruguay 1, Cabo Verde 1. Maxi Araújo (Uruguay) header from very close range to the centre of the goal.",
-          "goal": true
-        },
-        {
-          "min": "43'",
-          "text": "Attempt missed. Diney Borges (Cabo Verde) right footed shot from more than 35 yards misses to the right following a fast break.",
-          "goal": false
-        },
-        {
-          "min": "42'",
-          "text": "Attempt blocked. Sebastián Cáceres (Uruguay) right footed shot from outside the box is blocked. Assisted by Mathías Olivera.",
-          "goal": false
-        },
-        {
-          "min": "40'",
-          "text": "Attempt missed. Maxi Araújo (Uruguay) header from the left side of the box is too high. Assisted by Agustín Canobbio with a cross.",
-          "goal": false
-        },
-        {
-          "min": "38'",
-          "text": "Corner, Cabo Verde. Conceded by Fernando Muslera.",
-          "goal": false
         }
       ],
       "leaders": [
@@ -33439,13 +33439,13 @@
             "name": "M. Olivera",
             "num": "16",
             "pos": "D",
-            "value": "73"
+            "value": "74"
           },
           "away": {
             "name": "P. Lopes",
             "num": "4",
             "pos": "D",
-            "value": "25"
+            "value": "27"
           }
         },
         {
@@ -33454,7 +33454,7 @@
             "name": "R. Bentancur",
             "num": "6",
             "pos": "M",
-            "value": "8"
+            "value": "10"
           },
           "away": {
             "name": "D. Borges",
@@ -33469,12 +33469,18 @@
             "name": "F. Muslera",
             "num": "23",
             "pos": "G",
-            "value": "1"
+            "value": "2"
           }
         }
       ],
-      "highlight": null,
-      "final": false,
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0621/Int_260621_Soccer_HIGHLIGHT_Cape_Verde_score_first_World_Cup_goals_to_share_points_with_Uruguay_2026622_AUS/Int_260621_Soccer_HIGHLIGHT_Cape_Verde_score_first_World_Cup_goals_to_share_points_with_Uruguay_2026622_AUS.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49139607/cape-verde-score-first-world-cup-goals-share-points-uruguay",
+        "headline": "Cape Verde score first World Cup goals to share points with Uruguay",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0621/Int_260621_Soccer_HIGHLIGHT_Cape_Verde_score_first_World_Cup_goals_to_share_points_with_Uruguay_2026622_AUS/Int_260621_Soccer_HIGHLIGHT_Cape_Verde_score_first_World_Cup_goals_to_share_points_with_Uruguay_2026622_AUS_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0621/Int_260621_Soccer_HIGHLIGHT_Cape_Verde_score_first_World_Cup_goals_to_share_points_with_Uruguay_2026622_AUS/Int_260621_Soccer_HIGHLIGHT_Cape_Verde_score_first_World_Cup_goals_to_share_points_with_Uruguay_2026622_AUS/playlist.m3u8"
+      },
+      "final": true,
       "dv": 5
     },
     "760451": {
@@ -34357,6 +34363,934 @@
         "headline": "Robson: Lukaku looked 'totally out of sorts' against Iran",
         "mp4": "https://media.video-cdn.espn.com/motion/2026/0621/dm_260621_Robson_Lukaku_looked_totally_out_of_sorts_against_Iran/dm_260621_Robson_Lukaku_looked_totally_out_of_sorts_against_Iran_360p30_1464k.mp4",
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0621/dm_260621_Robson_Lukaku_looked_totally_out_of_sorts_against_Iran/dm_260621_Robson_Lukaku_looked_totally_out_of_sorts_against_Iran/playlist.m3u8"
+      },
+      "final": true,
+      "dv": 5
+    },
+    "760452": {
+      "venue": "BC Place",
+      "stats": {
+        "home": {
+          "foulsCommitted": "14",
+          "yellowCards": "2",
+          "redCards": "0",
+          "offsides": "3",
+          "wonCorners": "4",
+          "saves": "4",
+          "possessionPct": "44.4",
+          "totalShots": "11",
+          "shotsOnTarget": "5",
+          "shotPct": "0.5",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "337",
+          "totalPasses": "421",
+          "passPct": "0.8",
+          "accurateCrosses": "3",
+          "totalCrosses": "15",
+          "crossPct": "0.2",
+          "totalLongBalls": "50",
+          "accurateLongBalls": "20",
+          "longballPct": "0.4",
+          "blockedShots": "3",
+          "effectiveTackles": "6",
+          "totalTackles": "12",
+          "tacklePct": "0.5",
+          "interceptions": "4",
+          "effectiveClearance": "22",
+          "totalClearance": "22"
+        },
+        "away": {
+          "foulsCommitted": "8",
+          "yellowCards": "1",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "4",
+          "saves": "4",
+          "possessionPct": "55.6",
+          "totalShots": "19",
+          "shotsOnTarget": "7",
+          "shotPct": "0.4",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "460",
+          "totalPasses": "526",
+          "passPct": "0.9",
+          "accurateCrosses": "7",
+          "totalCrosses": "22",
+          "crossPct": "0.3",
+          "totalLongBalls": "48",
+          "accurateLongBalls": "22",
+          "longballPct": "0.5",
+          "blockedShots": "6",
+          "effectiveTackles": "13",
+          "totalTackles": "16",
+          "tacklePct": "0.8",
+          "interceptions": "6",
+          "effectiveClearance": "37",
+          "totalClearance": "37"
+        }
+      },
+      "events": [
+        {
+          "kind": "Goal - Header",
+          "min": "15'",
+          "side": "home",
+          "player": "Goal! New Zealand 1, Egypt 0. Finn Surman"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "17'",
+          "side": "away",
+          "player": "Mohanad Lasheen"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "20'",
+          "side": "home",
+          "player": "Sarpreet Singh"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "34'",
+          "side": "home",
+          "player": "Callum McCowatt"
+        },
+        {
+          "kind": "Substitution",
+          "min": "41'",
+          "side": "away",
+          "player": "Substitution, Egypt. Ramy Rabia replaces Hamdi Fathy because of an injury."
+        },
+        {
+          "kind": "Goal - Header",
+          "min": "58'",
+          "side": "away",
+          "player": "Goal! New Zealand 1, Egypt 1. Mostafa Zico"
+        },
+        {
+          "kind": "Substitution",
+          "min": "66'",
+          "side": "home",
+          "player": "Substitution, New Zealand. Ben Old replaces Callum McCowatt."
+        },
+        {
+          "kind": "Goal",
+          "min": "67'",
+          "side": "away",
+          "player": "Goal! New Zealand 1, Egypt 2. Mohamed Salah"
+        },
+        {
+          "kind": "Substitution",
+          "min": "76'",
+          "side": "home",
+          "player": "Substitution, New Zealand. Jesse Randall replaces Liberato Cacace."
+        },
+        {
+          "kind": "Substitution",
+          "min": "76'",
+          "side": "home",
+          "player": "Substitution, New Zealand. Ryan Thomas replaces Sarpreet Singh."
+        },
+        {
+          "kind": "Substitution",
+          "min": "76'",
+          "side": "away",
+          "player": "Substitution, Egypt. Trezeguet replaces Omar Marmoush."
+        },
+        {
+          "kind": "Substitution",
+          "min": "76'",
+          "side": "away",
+          "player": "Substitution, Egypt. Hamza Abdelkarim replaces Mostafa Zico."
+        },
+        {
+          "kind": "Goal - Header",
+          "min": "82'",
+          "side": "away",
+          "player": "Goal! New Zealand 1, Egypt 3. Trezeguet"
+        },
+        {
+          "kind": "Substitution",
+          "min": "85'",
+          "side": "away",
+          "player": "Substitution, Egypt. Zizo replaces Emam Ashour."
+        },
+        {
+          "kind": "Substitution",
+          "min": "85'",
+          "side": "away",
+          "player": "Substitution, Egypt. Hossam Abdelmaguid replaces Mohamed Salah."
+        },
+        {
+          "kind": "Substitution",
+          "min": "85'",
+          "side": "home",
+          "player": "Substitution, New Zealand. Tyler Bindon replaces Tim Payne."
+        },
+        {
+          "kind": "Substitution",
+          "min": "85'",
+          "side": "home",
+          "player": "Substitution, New Zealand. Francis de Vries replaces Elijah Just."
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'+9'",
+          "side": "away",
+          "player": "Substitution, Egypt. Mohamed Abdelmonem replaces Hossam Abdelmaguid because of an injury."
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Max Crocombe",
+            "short": "M. Crocombe",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Michael Boxall",
+            "short": "M. Boxall",
+            "num": "5",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Finn Surman",
+            "short": "F. Surman",
+            "num": "16",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Liberato Cacace",
+            "short": "L. Cacace",
+            "num": "13",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Tim Payne",
+            "short": "T. Payne",
+            "num": "2",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Sarpreet Singh",
+            "short": "S. Singh",
+            "num": "10",
+            "pos": "AM",
+            "place": "10"
+          },
+          {
+            "name": "Marko Stamenic",
+            "short": "M. Stamenic",
+            "num": "8",
+            "pos": "LM",
+            "place": "4"
+          },
+          {
+            "name": "Joe Bell",
+            "short": "J. Bell",
+            "num": "6",
+            "pos": "RM",
+            "place": "8"
+          },
+          {
+            "name": "Chris Wood",
+            "short": "C. Wood",
+            "num": "9",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Elijah Just",
+            "short": "E. Just",
+            "num": "11",
+            "pos": "AM-L",
+            "place": "11"
+          },
+          {
+            "name": "Callum McCowatt",
+            "short": "C. McCowatt",
+            "num": "20",
+            "pos": "AM-R",
+            "place": "7"
+          }
+        ],
+        "away": [
+          {
+            "name": "Mostafa Shoubir",
+            "short": "M. Shoubir",
+            "num": "23",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Hamdy Fathy",
+            "short": "H. Fathy",
+            "num": "14",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Yasser Ibrahim",
+            "short": "Y. Ibrahim",
+            "num": "2",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Ahmed Fatouh",
+            "short": "A. Fatouh",
+            "num": "13",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Mohamed Hany",
+            "short": "M. Hany",
+            "num": "3",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Mohamed Salah",
+            "short": "M. Salah",
+            "num": "10",
+            "pos": "AM",
+            "place": "10"
+          },
+          {
+            "name": "Mohanad Lashin",
+            "short": "M. Lashin",
+            "num": "17",
+            "pos": "LM",
+            "place": "4"
+          },
+          {
+            "name": "Marawan Attia",
+            "short": "M. Attia",
+            "num": "19",
+            "pos": "RM",
+            "place": "8"
+          },
+          {
+            "name": "Omar Marmoush",
+            "short": "O. Marmoush",
+            "num": "22",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Emam Ashour",
+            "short": "E. Ashour",
+            "num": "8",
+            "pos": "AM-L",
+            "place": "11"
+          },
+          {
+            "name": "Mostafa Zico",
+            "short": "M. Zico",
+            "num": "11",
+            "pos": "AM-R",
+            "place": "7"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Francis de Vries",
+            "short": "F. de Vries",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ryan Thomas",
+            "short": "R. Thomas",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Alex Paulsen",
+            "short": "A. Paulsen",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Lachlan Bayliss",
+            "short": "L. Bayliss",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ben Old",
+            "short": "B. Old",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ben Waine",
+            "short": "B. Waine",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Tyler Bindon",
+            "short": "T. Bindon",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Callan Elliot",
+            "short": "C. Elliot",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Logan Rogerson",
+            "short": "L. Rogerson",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Alex Rufer",
+            "short": "A. Rufer",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Tommy Smith",
+            "short": "T. Smith",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nando Pijnaker",
+            "short": "N. Pijnaker",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Michael Woud",
+            "short": "M. Woud",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kosta Barbarouses",
+            "short": "K. Barbarouses",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jesse Randall",
+            "short": "J. Randall",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Mohamed Alaa",
+            "short": "M. Alaa",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mohamed Abdelmoneim",
+            "short": "M. Abdelmoneim",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Haissem Hassan",
+            "short": "H. Hassan",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Tarek Alaa",
+            "short": "T. Alaa",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Hossam Abdelmaguid",
+            "short": "H. Abdelmaguid",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mohamed El Shenawy",
+            "short": "M. El Shenawy",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ibrahim Adel",
+            "short": "I. Adel",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Zizo",
+            "short": "Zizo",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ramy Rabia",
+            "short": "R. Rabia",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nabil Donga",
+            "short": "N. Donga",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Trézéguet",
+            "short": "Trézéguet",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mahdy Soliman",
+            "short": "M. Soliman",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Hamza Abdelkarim",
+            "short": "H. Abdelkarim",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mahmoud Saber",
+            "short": "M. Saber",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Karim Hafez",
+            "short": "K. Hafez",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-2-3-1",
+        "away": "4-2-3-1"
+      },
+      "commentary": [
+        {
+          "min": "",
+          "text": "Match ends, New Zealand 1, Egypt 3.",
+          "goal": false
+        },
+        {
+          "min": "101'",
+          "text": "Second Half ends, New Zealand 1, Egypt 3.",
+          "goal": false
+        },
+        {
+          "min": "90'+10'",
+          "text": "Corner, Egypt. Conceded by Michael Boxall.",
+          "goal": false
+        },
+        {
+          "min": "90'+9'",
+          "text": "Substitution, Egypt. Mohamed Abdelmonem replaces Hossam Abdelmaguid because of an injury.",
+          "goal": false
+        },
+        {
+          "min": "90'+8'",
+          "text": "Attempt saved. Tyler Bindon (New Zealand) left footed shot from very close range is saved in the centre of the goal by Mostafa Shobeir (Egypt). Assisted by Marko Stamenic.",
+          "goal": false
+        },
+        {
+          "min": "90'+8'",
+          "text": "Attempt missed. Marko Stamenic (New Zealand) right footed shot from outside the box misses to the left.",
+          "goal": false
+        },
+        {
+          "min": "90'+7'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Delay in match because of an injury Hossam Abdelmaguid (Egypt).",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Corner, New Zealand. Conceded by Ramy Rabia.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Attempt saved. Zizo (Egypt) right footed shot from the left side of the six yard box is saved in the centre of the goal by Max Crocombe (New Zealand).",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Mostafa Shobeir (Egypt) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Foul by Tyler Bindon (New Zealand).",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Fourth official has announced 7 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Offside, New Zealand. Chris Wood is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Corner, New Zealand. Conceded by Mohanad Lasheen.",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Substitution, New Zealand. Francis de Vries replaces Elijah Just.",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Substitution, New Zealand. Tyler Bindon replaces Tim Payne.",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Substitution, Egypt. Hossam Abdelmaguid replaces Mohamed Salah.",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Substitution, Egypt. Zizo replaces Emam Ashour.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Foul by Hamza Abdelkarim (Egypt).",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Michael Boxall (New Zealand) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Goal! New Zealand 1, Egypt 3. Trezeguet (Egypt) header from the centre of the box to the bottom left corner. Assisted by Mohamed Salah with a cross following a corner.",
+          "goal": true
+        },
+        {
+          "min": "81'",
+          "text": "Corner, Egypt. Conceded by Joe Bell.",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Attempt blocked. Mohamed Salah (Egypt) left footed shot from the right side of the box is blocked. Assisted by Emam Ashour.",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Attempt saved. Ahmed Fatouh (Egypt) right footed shot from the left side of the box is saved in the centre of the goal by Max Crocombe (New Zealand).",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Yasser Ibrahim (Egypt) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Foul by Chris Wood (New Zealand).",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Foul by Trezeguet (Egypt).",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Ryan Thomas (New Zealand) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Foul by Emam Ashour (Egypt).",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Ben Old (New Zealand) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Substitution, Egypt. Hamza Abdelkarim replaces Mostafa Zico.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Substitution, Egypt. Trezeguet replaces Omar Marmoush.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Substitution, New Zealand. Ryan Thomas replaces Sarpreet Singh.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Substitution, New Zealand. Jesse Randall replaces Liberato Cacace.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Goal! New Zealand 1, Egypt 2. Mohamed Salah (Egypt) left footed shot from the centre of the box to the bottom left corner. Assisted by Mostafa Zico.",
+          "goal": true
+        },
+        {
+          "min": "66'",
+          "text": "Substitution, New Zealand. Ben Old replaces Callum McCowatt.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Foul by Ramy Rabia (Egypt).",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Sarpreet Singh (New Zealand) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Attempt blocked. Marko Stamenic (New Zealand) right footed shot from outside the box is blocked. Assisted by Joe Bell.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Foul by Ramy Rabia (Egypt).",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Liberato Cacace (New Zealand) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Emam Ashour (Egypt) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Foul by Liberato Cacace (New Zealand).",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Goal! New Zealand 1, Egypt 1. Mostafa Zico (Egypt) header from the centre of the box to the high centre of the goal. Assisted by Mohamed Hany with a cross.",
+          "goal": true
+        },
+        {
+          "min": "57'",
+          "text": "Corner, Egypt. Conceded by Liberato Cacace.",
+          "goal": false
+        },
+        {
+          "min": "55'",
+          "text": "Attempt missed. Emam Ashour (Egypt) right footed shot from the centre of the box misses to the right.",
+          "goal": false
+        },
+        {
+          "min": "55'",
+          "text": "Attempt blocked. Mostafa Zico (Egypt) left footed shot from the centre of the box is blocked. Assisted by Ahmed Fatouh with a cross.",
+          "goal": false
+        },
+        {
+          "min": "53'",
+          "text": "Mostafa Shobeir (Egypt) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "53'",
+          "text": "Foul by Finn Surman (New Zealand).",
+          "goal": false
+        },
+        {
+          "min": "52'",
+          "text": "Corner, New Zealand. Conceded by Mostafa Shobeir.",
+          "goal": false
+        },
+        {
+          "min": "52'",
+          "text": "Attempt saved. Callum McCowatt (New Zealand) header from the centre of the box is saved in the top centre of the goal by Mostafa Shobeir (Egypt). Assisted by Marko Stamenic.",
+          "goal": false
+        },
+        {
+          "min": "50'",
+          "text": "Attempt blocked. Omar Marmoush (Egypt) right footed shot from outside the box is blocked. Assisted by Mohamed Salah.",
+          "goal": false
+        },
+        {
+          "min": "50'",
+          "text": "Attempt missed. Emam Ashour (Egypt) left footed shot from outside the box misses to the right. Assisted by Marwan Attia.",
+          "goal": false
+        },
+        {
+          "min": "49'",
+          "text": "Attempt blocked. Mostafa Zico (Egypt) right footed shot from outside the box is blocked. Assisted by Mohamed Salah.",
+          "goal": false
+        },
+        {
+          "min": "49'",
+          "text": "Foul by Mostafa Zico (Egypt).",
+          "goal": false
+        },
+        {
+          "min": "49'",
+          "text": "Liberato Cacace (New Zealand) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "47'",
+          "text": "Attempt missed. Omar Marmoush (Egypt) right footed shot from outside the box is close, but misses to the left. Assisted by Mohamed Salah following a set piece situation.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "M. Stamenic",
+            "num": "8",
+            "pos": "M",
+            "value": "2"
+          },
+          "away": {
+            "name": "M. Salah",
+            "num": "10",
+            "pos": "F",
+            "value": "5"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "J. Bell",
+            "num": "6",
+            "pos": "M",
+            "value": "50"
+          },
+          "away": {
+            "name": "M. Attia",
+            "num": "19",
+            "pos": "M",
+            "value": "82"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "F. Surman",
+            "num": "16",
+            "pos": "D",
+            "value": "12"
+          },
+          "away": {
+            "name": "Y. Ibrahim",
+            "num": "2",
+            "pos": "D",
+            "value": "13"
+          }
+        },
+        {
+          "label": "Saves",
+          "home": {
+            "name": "M. Crocombe",
+            "num": "1",
+            "pos": "G",
+            "value": "4"
+          },
+          "away": {
+            "name": "M. Shoubir",
+            "num": "23",
+            "pos": "G",
+            "value": "4"
+          }
+        }
+      ],
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0622/dm_260622_World_Cup_Highlight_Salah_sinks_Kiwi_hearts_in_Egypts_31_win__20260622_AUS_ONLY/dm_260622_World_Cup_Highlight_Salah_sinks_Kiwi_hearts_in_Egypts_31_win__20260622_AUS_ONLY.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49141182/salah-sinks-kiwi-hearts-egypt-3-1-win",
+        "headline": "Salah sinks Kiwi hearts in Egypt's 3-1 win",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0622/dm_260622_World_Cup_Highlight_Salah_sinks_Kiwi_hearts_in_Egypts_31_win__20260622_AUS_ONLY/dm_260622_World_Cup_Highlight_Salah_sinks_Kiwi_hearts_in_Egypts_31_win__20260622_AUS_ONLY_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0622/dm_260622_World_Cup_Highlight_Salah_sinks_Kiwi_hearts_in_Egypts_31_win__20260622_AUS_ONLY/dm_260622_World_Cup_Highlight_Salah_sinks_Kiwi_hearts_in_Egypts_31_win__20260622_AUS_ONLY/playlist.m3u8"
       },
       "final": true,
       "dv": 5

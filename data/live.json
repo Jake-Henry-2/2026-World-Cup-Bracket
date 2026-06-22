@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-22T00:00:42.056Z",
+  "lastUpdated": "2026-06-22T05:23:47.564Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -504,24 +504,20 @@
       "awayScore": 2,
       "homeWinner": false,
       "awayWinner": false,
-      "status": "live",
+      "status": "finished",
       "id": "760450",
       "date": "2026-06-21T22:00Z",
-      "venue": "Hard Rock Stadium",
-      "clock": 5400,
-      "displayClock": "90'+4'",
-      "detail": "90'+4'",
-      "period": 2
+      "venue": "Hard Rock Stadium"
     },
     {
       "stage": "group",
       "home": "New Zealand",
       "away": "Egypt",
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 1,
+      "awayScore": 3,
       "homeWinner": false,
-      "awayWinner": false,
-      "status": "scheduled",
+      "awayWinner": true,
+      "status": "finished",
       "id": "760452",
       "date": "2026-06-22T01:00Z",
       "venue": "BC Place"

@@ -74,6 +74,17 @@ const stageText = (ev, comp) => [(ev.season && ev.season.slug) || "", ev.name ||
   ((comp && comp.notes) || []).map((n) => n.headline || n.text || "").join(" "),
   (comp && comp.type && (comp.type.text || comp.type.abbreviation)) || ""].join(" ");
 const statusOf = (state) => state === "post" ? "finished" : state === "in" ? "live" : "scheduled";
+// DraftKings odds from the ESPN feed: home/draw/away moneyline (American) + goal total. Closing price,
+// fallback to opening. Captured into live.json so the projections work on the fallback feed too.
+const parseOdds = (comp) => {
+  const o = comp && comp.odds && comp.odds[0]; if (!o) return null;
+  const ml = o.moneyline || {};
+  const pick = (s) => { const x = ml[s]; const v = x && ((x.close && x.close.odds) || (x.open && x.open.odds)); return v != null ? parseInt(v, 10) : null; };
+  const home = pick("home"), away = pick("away");
+  if (home == null || away == null) return null;
+  const draw = ml.draw ? pick("draw") : (o.drawOdds && o.drawOdds.moneyLine != null ? Number(o.drawOdds.moneyLine) : null);
+  return { home, away, draw, total: (typeof o.overUnder === "number") ? o.overUnder : null, book: (o.provider && o.provider.name) || null };
+};
 
 /* --- fetch + aggregate ----------------------------------------------------- */
 const end = new Date("2026-07-20T00:00:00Z");   // through the final — full schedule for every team
@@ -119,6 +130,7 @@ for (const ev of events) {
       awayScore: parseInt(away.score, 10) || 0,
       homeWinner: home.winner === true,            // ESPN result flag — correct even on penalties (drives champion detection)
       awayWinner: away.winner === true,
+      odds: parseOdds(comp),                       // DraftKings moneyline + total (powers the projections)
       status,
       id: ev.id || null,                           // ESPN event id — for the match-detail view
       date: ev.date || null,                       // kickoff (ISO) — used for past times + upcoming

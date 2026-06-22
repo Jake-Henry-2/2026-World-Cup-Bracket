@@ -636,6 +636,154 @@
       </div></div>`;
   }
 
+  /* =========================================================================
+     PROJECTIONS (#1-3) — Monte Carlo from live DraftKings odds.
+     Per manager: Banked (locked in) → Projected (avg finish) → Ceiling (top 10%),
+     plus their chance of finishing 1st for the $250 main pot.
+     Remaining GROUP games are simulated from DK win/draw/total prices; the
+     knockout is a strength-seeded bracket (an estimate until the real bracket is
+     set, when it switches to actual matchups + per-game odds). One fixed RNG seed
+     → every visitor sees the same numbers; recomputed only when scores change.
+     ====================================================================== */
+  const SIM_N = 4000, WC_MEAN = 1.3;
+  const KO_PTS = { r32: SK.r32, r16: SK.r16, qf: SK.qf, sf: SK.sf, third: SK.sf, final: SK.final, champion: SK.champion };
+  const amToProb = (am) => (am == null ? null : (am > 0 ? 100 / (am + 100) : -am / (-am + 100)));
+  // de-vigged win/draw/away probabilities + expected goals (split the total by supremacy) from DK odds
+  function oddsModel(o) {
+    if (!o) return null;
+    let pH = amToProb(o.home), pA = amToProb(o.away), pD = (o.draw != null ? amToProb(o.draw) : 0.26);
+    if (pH == null || pA == null) return null;
+    const s = pH + pD + pA; if (s <= 0) return null; pH /= s; pD /= s; pA /= s;
+    const tot = (typeof o.total === "number" && o.total > 0) ? o.total : 2.6;
+    const share = Math.min(0.85, Math.max(0.15, 0.5 + 0.45 * (pH - pA)));
+    return { pH, pD, pA, lH: tot * share, lA: tot * (1 - share) };
+  }
+  function mulberry32(a) { return function () { a |= 0; a = a + 0x6D2B79F5 | 0; let t = Math.imul(a ^ a >>> 15, 1 | a); t = t + Math.imul(t ^ t >>> 7, 61 | t) ^ t; return ((t ^ t >>> 14) >>> 0) / 4294967296; }; }
+  function rpois(rng, l) { if (l <= 0) return 0; const L0 = Math.exp(-l); let k = 0, p = 1; do { k++; p *= rng(); } while (p > L0); return k - 1; }
+  const clampn = (x, a, b) => Math.min(b, Math.max(a, x));
+  const lamFromStrength = (A, B, S) => ({ lH: clampn(WC_MEAN * S.atk[A] * S.def[B], 0.15, 4.5), lA: clampn(WC_MEAN * S.atk[B] * S.def[A], 0.15, 4.5) });
+
+  // attack/defense ratings (vs WC mean), shrunk toward the mean, from every match that carries DK odds
+  function buildStrengths(matches) {
+    const sc = {}, co = {}; ALL_TEAMS.forEach((t) => { sc[t] = []; co[t] = []; });
+    matches.forEach((m) => {
+      const md = oddsModel(m && m.odds); if (!md) return;
+      const h = canon(m.home), a = canon(m.away); if (!sc[h] || !sc[a]) return;
+      sc[h].push(md.lH); co[h].push(md.lA); sc[a].push(md.lA); co[a].push(md.lH);
+    });
+    const K = 2, atk = {}, def = {}, avg = (arr) => (arr.reduce((x, y) => x + y, 0) + WC_MEAN * K) / (arr.length + K);
+    ALL_TEAMS.forEach((t) => { atk[t] = avg(sc[t]) / WC_MEAN; def[t] = avg(co[t]) / WC_MEAN; });
+    return { atk, def };
+  }
+
+  // strength-seeded single-elimination knockout: adds goals/shutout per game + one appearance bonus
+  function simKnockout(qual, tp, rng, S) {
+    const rate = (t) => S.atk[t] / Math.max(0.4, S.def[t]);
+    const field = qual.slice(0, 32).sort((a, b) => rate(b) - rate(a));
+    let alive = field.slice();
+    const furth = {}; field.forEach((t) => (furth[t] = "r32"));
+    const game = (A, B) => {
+      const lA = clampn(WC_MEAN * S.atk[A] * S.def[B], 0.15, 4.5), lB = clampn(WC_MEAN * S.atk[B] * S.def[A], 0.15, 4.5);
+      const ga = rpois(rng, lA), gb = rpois(rng, lB);
+      tp[A] += ga * SK.goalEach + (gb === 0 ? SK.shutout : 0);
+      tp[B] += gb * SK.goalEach + (ga === 0 ? SK.shutout : 0);
+      return ga === gb ? (rng() < 0.5 ? A : B) : (ga > gb ? A : B);
+    };
+    const nextName = ["r16", "qf", "sf", "final"], sfL = [];
+    for (let r = 0; r < 4; r++) {
+      const nx = [];
+      for (let i = 0; i < alive.length; i += 2) {
+        const A = alive[i], B = alive[i + 1];
+        if (B == null) { nx.push(A); continue; }
+        const w = game(A, B); nx.push(w); furth[w] = nextName[r];
+        if (r === 3) sfL.push(w === A ? B : A);
+      }
+      alive = nx;
+    }
+    if (alive.length >= 2) { const champ = game(alive[0], alive[1]); furth[champ] = "champion"; }
+    if (sfL.length >= 2) { game(sfL[0], sfL[1]); furth[sfL[0]] = "third"; furth[sfL[1]] = "third"; }
+    field.forEach((t) => { tp[t] += KO_PTS[furth[t]] || 0; });
+  }
+
+  function runProjection(computed) {
+    const matches = Array.isArray(state.results.matches) ? state.results.matches : [];
+    const koStarted = matches.some((m) => m && KO_STAGES.includes(m.stage) && m.status === "finished");
+    const S = buildStrengths(matches);
+    const base = {};
+    ALL_TEAMS.forEach((t) => { const ts = computed.team[t]; base[t] = { fpts: ts.fpts, pts: ts.stand, gf: ts.gf, ga: ts.ga }; });
+    const remGroup = matches.filter((m) => m && m.stage === "group" && m.status !== "finished" && computed.team[canon(m.home)] && computed.team[canon(m.away)])
+      .map((m) => { const home = canon(m.home), away = canon(m.away); const md = oddsModel(m.odds); const lam = md || lamFromStrength(home, away, S); return { home, away, lH: lam.lH, lA: lam.lA }; });
+    const complete = {}; Object.keys(L.groups).forEach((g) => (complete[g] = !!(computed.groupTables[g] && computed.groupTables[g].complete)));
+    const groupEntries = Object.entries(L.groups);
+
+    function oneSim(rng) {
+      const tp = {}, st = {};
+      ALL_TEAMS.forEach((t) => { tp[t] = base[t].fpts; st[t] = { pts: base[t].pts, gf: base[t].gf, ga: base[t].ga }; });
+      for (const g of remGroup) {
+        const gh = rpois(rng, g.lH), ga = rpois(rng, g.lA);
+        for (const [t, f, a] of [[g.home, gh, ga], [g.away, ga, gh]]) {
+          tp[t] += f > a ? SG.win : f === a ? SG.draw : 0; tp[t] += f * SG.goalEach; if (a === 0) tp[t] += SG.shutout;
+          st[t].pts += f > a ? 3 : f === a ? 1 : 0; st[t].gf += f; st[t].ga += a;
+        }
+      }
+      const qual = [], thirds = [];
+      for (const [g, ts] of groupEntries) {
+        const ord = ts.slice().sort((a, b) => st[b].pts - st[a].pts || (st[b].gf - st[b].ga) - (st[a].gf - st[a].ga) || st[b].gf - st[a].gf || (rng() - 0.5));
+        if (!complete[g]) { tp[ord[0]] += SG.groupWinner; tp[ord[1]] += SG.groupRunnerUp; }
+        qual.push(ord[0], ord[1]); thirds.push({ t: ord[2], pts: st[ord[2]].pts, gd: st[ord[2]].gf - st[ord[2]].ga, gf: st[ord[2]].gf });
+      }
+      thirds.sort((a, b) => b.pts - a.pts || b.gd - a.gd || b.gf - a.gf || (rng() - 0.5));
+      for (let i = 0; i < 8 && i < thirds.length; i++) qual.push(thirds[i].t);
+      if (!koStarted) simKnockout(qual, tp, rng, S);
+      const out = {};
+      for (const mgr of L.managers) out[mgr.name] = mgr.teams.reduce((s, t) => s + (tp[canon(t)] || 0), 0);
+      return out;
+    }
+
+    const rng = mulberry32(20260611);     // fixed seed → reproducible for every visitor
+    const totals = {}, wins = {}; L.managers.forEach((m) => { totals[m.name] = new Float64Array(SIM_N); wins[m.name] = 0; });
+    for (let s = 0; s < SIM_N; s++) {
+      const mt = oneSim(rng);
+      let best = -Infinity, leaders = [];
+      for (const m of L.managers) { const v = mt[m.name]; totals[m.name][s] = v; if (v > best) { best = v; leaders = [m.name]; } else if (v === best) leaders.push(m.name); }
+      leaders.forEach((n) => (wins[n] += 1 / leaders.length));
+    }
+    const mean = (a) => { let s = 0; for (let i = 0; i < a.length; i++) s += a[i]; return s / a.length; };
+    const pctl = (a, p) => { const b = Array.from(a).sort((x, y) => x - y); return b[Math.min(b.length - 1, Math.floor(p * b.length))]; };
+    const rows = L.managers.map((m) => ({
+      name: m.name, emoji: m.emoji,
+      banked: Math.round(m.teams.reduce((s, t) => s + computed.team[canon(t)].fpts, 0)),
+      proj: Math.round(mean(totals[m.name])), ceil: Math.round(pctl(totals[m.name], 0.9)), win: wins[m.name] / SIM_N
+    }));
+    rows.sort((a, b) => b.proj - a.proj || b.win - a.win);
+    return { rows, n: SIM_N, oddsCount: matches.filter((m) => m && m.odds).length, koStarted };
+  }
+
+  function renderProjections(computed) {
+    const box = $("#projections"); if (!box) return;
+    const matches = (state.results && state.results.matches) || [];
+    const sig = computed.managers.reduce((s, m) => s + m.total, 0) + "|" +
+      matches.filter((m) => m && m.status === "finished").length + "|" + matches.filter((m) => m && m.odds).length;
+    if (!state.projCache || state.projCache.sig !== sig) state.projCache = { sig, data: runProjection(computed) };
+    const P = state.projCache.data;
+    const maxWin = Math.max(0.01, ...P.rows.map((r) => r.win));
+    const rows = P.rows.map((r, i) => `<tr class="${i === 0 ? "proj-lead" : ""}">
+        <td class="proj-mgr">${r.emoji} ${esc(r.name)}</td>
+        <td class="proj-n">${r.banked}</td>
+        <td class="proj-n proj-pj"><b>${r.proj}</b></td>
+        <td class="proj-n proj-cl">${r.ceil}</td>
+        <td class="proj-win"><span class="proj-bar" style="width:${(r.win / maxWin * 100).toFixed(0)}%"></span><span class="proj-wn">${(r.win * 100).toFixed(1)}%</span></td>
+      </tr>`).join("");
+    const note = P.koStarted
+      ? `Knockouts are underway — these projections are group-stage-based; a bracket-aware version (real matchups + per-game odds) is the next step.`
+      : `Monte Carlo over the rest of the tournament from live <b>DraftKings</b> odds (${P.oddsCount} games priced). Group games use DK win/draw/total prices; the knockout run is a strength-seeded estimate. <b>Now</b> = banked · <b>Proj</b> = average finish · <b>Ceiling</b> = top-10% outcome · <b>Win $${L.pots.main}</b> = chance of finishing 1st. Updates as results land.`;
+    box.innerHTML = `<div class="panel-h">📈 Projections <span class="dim">odds-powered · ${P.n.toLocaleString()} sims · DraftKings</span></div>
+      <div class="proj-tablewrap"><table class="proj-t">
+        <thead><tr><th>Manager</th><th title="points banked so far">Now</th><th title="average simulated finish">Proj</th><th title="top-10% outcome">Ceiling</th><th title="chance of finishing 1st for the $${L.pots.main} pot">Win $${L.pots.main}</th></tr></thead>
+        <tbody>${rows}</tbody></table></div>
+      <div class="proj-note">${note}</div>`;
+  }
+
   // World Cup news — headlines scraped from ESPN (refreshed each cycle), linking out to the source
   function renderNews() {
     const box = $("#news"); if (!box) return;
@@ -674,6 +822,7 @@
     renderTicker(computed.managers);
     renderBracket(computed);
     renderLeaderboard(computed.managers);
+    renderProjections(computed);
     renderGroups(computed);
     renderSidePool(computed);
     renderPots(computed);
@@ -700,6 +849,18 @@
   // build/scheduler. Mirrors scripts/fetch-scores.mjs exactly. A plain GET to site.api.espn.com
   // sends no custom headers (no CORS preflight); on any failure we throw and fall back to the feed.
   const ESPN_SCOREBOARD = "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates=20260611-20260720";
+  // DraftKings odds, straight out of the ESPN feed: home/draw/away moneyline (American) + goal total.
+  // We capture the closing price (fallback to opening). These power the projections (probabilities + xG).
+  function parseOdds(comp) {
+    const o = comp && comp.odds && comp.odds[0]; if (!o) return null;
+    const ml = o.moneyline || {};
+    const pick = (side) => { const x = ml[side]; const v = x && ((x.close && x.close.odds) || (x.open && x.open.odds)); return v != null ? parseInt(v, 10) : null; };
+    const home = pick("home"), away = pick("away");
+    if (home == null || away == null) return null;
+    const draw = ml.draw ? pick("draw") : (o.drawOdds && o.drawOdds.moneyLine != null ? Number(o.drawOdds.moneyLine) : null);
+    return { home, away, draw, total: (typeof o.overUnder === "number") ? o.overUnder : null, book: (o.provider && o.provider.name) || null };
+  }
+
   // ESPN's season slug names the match's OWN round, unpolluted by feeder labels (an R16 game is named
   // "Round of 32 1 Winner..."). Prefer the exact slug, then fall back to text. Keeps knockout stages right.
   const SLUG_STAGE = { "round-of-32": "r32", "round-of-16": "r16", "quarterfinals": "qf",
@@ -750,6 +911,7 @@
         awayScore: parseInt(a.score, 10) || 0,
         homeWinner: h.winner === true,     // ESPN's authoritative result — true even when the match is decided on penalties
         awayWinner: a.winner === true,
+        odds: parseOdds(comp),             // DraftKings moneyline + total (powers the projections)
         status, id: ev.id || null, date: ev.date || null,
         venue: (comp.venue && comp.venue.fullName) || ""
       };
@@ -816,6 +978,7 @@
     return { stage: m.stage || "group", group: m.group, home: m.home, away: m.away,
              homeScore: m.homeScore, awayScore: m.awayScore, status: m.status || "finished",
              homeWinner: m.homeWinner === true, awayWinner: m.awayWinner === true,
+             odds: m.odds || null,
              id: m.id || null, venue: m.venue || "",
              date: m.date || null, clock: m.clock, displayClock: m.displayClock, detail: m.detail, period: m.period };
   }

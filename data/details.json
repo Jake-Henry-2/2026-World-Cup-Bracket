@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-21T22:49:43.701Z",
+  "lastUpdated": "2026-06-22T00:00:42.102Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -32591,64 +32591,64 @@
       "venue": "Hard Rock Stadium",
       "stats": {
         "home": {
-          "foulsCommitted": "6",
-          "yellowCards": "1",
+          "foulsCommitted": "8",
+          "yellowCards": "2",
           "redCards": "0",
-          "offsides": "2",
-          "wonCorners": "4",
+          "offsides": "3",
+          "wonCorners": "12",
           "saves": "0",
-          "possessionPct": "66.1",
-          "totalShots": "10",
-          "shotsOnTarget": "1",
+          "possessionPct": "66.5",
+          "totalShots": "17",
+          "shotsOnTarget": "2",
           "shotPct": "0.1",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "192",
-          "totalPasses": "229",
+          "accuratePasses": "413",
+          "totalPasses": "499",
           "passPct": "0.8",
-          "accurateCrosses": "3",
-          "totalCrosses": "11",
-          "crossPct": "0.3",
-          "totalLongBalls": "22",
-          "accurateLongBalls": "11",
+          "accurateCrosses": "4",
+          "totalCrosses": "28",
+          "crossPct": "0.1",
+          "totalLongBalls": "42",
+          "accurateLongBalls": "21",
           "longballPct": "0.5",
-          "blockedShots": "4",
-          "effectiveTackles": "0",
-          "totalTackles": "5",
-          "tacklePct": "0.0",
-          "interceptions": "4",
-          "effectiveClearance": "5",
-          "totalClearance": "5"
+          "blockedShots": "8",
+          "effectiveTackles": "7",
+          "totalTackles": "15",
+          "tacklePct": "0.5",
+          "interceptions": "7",
+          "effectiveClearance": "9",
+          "totalClearance": "9"
         },
         "away": {
-          "foulsCommitted": "2",
-          "yellowCards": "1",
+          "foulsCommitted": "4",
+          "yellowCards": "2",
           "redCards": "0",
           "offsides": "0",
-          "wonCorners": "1",
+          "wonCorners": "3",
           "saves": "0",
-          "possessionPct": "33.9",
-          "totalShots": "2",
-          "shotsOnTarget": "1",
-          "shotPct": "0.5",
+          "possessionPct": "33.5",
+          "totalShots": "9",
+          "shotsOnTarget": "2",
+          "shotPct": "0.2",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "86",
-          "totalPasses": "119",
+          "accuratePasses": "190",
+          "totalPasses": "256",
           "passPct": "0.7",
-          "accurateCrosses": "1",
-          "totalCrosses": "3",
+          "accurateCrosses": "2",
+          "totalCrosses": "6",
           "crossPct": "0.3",
-          "totalLongBalls": "29",
-          "accurateLongBalls": "7",
-          "longballPct": "0.2",
-          "blockedShots": "0",
-          "effectiveTackles": "5",
-          "totalTackles": "6",
-          "tacklePct": "0.8",
-          "interceptions": "2",
-          "effectiveClearance": "20",
-          "totalClearance": "20"
+          "totalLongBalls": "54",
+          "accurateLongBalls": "14",
+          "longballPct": "0.3",
+          "blockedShots": "3",
+          "effectiveTackles": "14",
+          "totalTackles": "15",
+          "tacklePct": "0.9",
+          "interceptions": "12",
+          "effectiveClearance": "45",
+          "totalClearance": "45"
         }
       },
       "events": [
@@ -32675,6 +32675,78 @@
           "min": "44'",
           "side": "home",
           "player": "Goal! Uruguay 1, Cabo Verde 1. Maxi Araújo"
+        },
+        {
+          "kind": "Goal",
+          "min": "45'+6'",
+          "side": "home",
+          "player": "Goal! Uruguay 2, Cabo Verde 1. Agustín Canobbio"
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "away",
+          "player": "Substitution, Cabo Verde. Deroy Duarte replaces Telmo Arcanjo because of an injury."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "58'",
+          "side": "home",
+          "player": "Mathías Olivera"
+        },
+        {
+          "kind": "Substitution",
+          "min": "58'",
+          "side": "away",
+          "player": "Substitution, Cabo Verde. Nuno da Costa replaces Gilson Benchimol."
+        },
+        {
+          "kind": "Substitution",
+          "min": "58'",
+          "side": "away",
+          "player": "Substitution, Cabo Verde. Hélio Varela replaces Garry Rodrigues."
+        },
+        {
+          "kind": "Goal - Volley",
+          "min": "61'",
+          "side": "away",
+          "player": "Goal! Uruguay 2, Cabo Verde 2. Hélio Varela"
+        },
+        {
+          "kind": "Substitution",
+          "min": "70'",
+          "side": "home",
+          "player": "Substitution, Uruguay. Darwin Núñez replaces Federico Viñas."
+        },
+        {
+          "kind": "Substitution",
+          "min": "70'",
+          "side": "home",
+          "player": "Substitution, Uruguay. Nicolás de la Cruz replaces Manuel Ugarte."
+        },
+        {
+          "kind": "Substitution",
+          "min": "71'",
+          "side": "away",
+          "player": "Substitution, Cabo Verde. Laros Duarte replaces Kevin Pina because of an injury."
+        },
+        {
+          "kind": "Substitution",
+          "min": "80'",
+          "side": "away",
+          "player": "Substitution, Cabo Verde. Yannick Semedo replaces Jamiro Monteiro because of an injury."
+        },
+        {
+          "kind": "Substitution",
+          "min": "81'",
+          "side": "home",
+          "player": "Substitution, Uruguay. Brian Rodríguez replaces Maxi Araújo."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "90'+4'",
+          "side": "away",
+          "player": "Diney Borges"
         }
       ],
       "lineups": {
@@ -33045,13 +33117,273 @@
       },
       "commentary": [
         {
-          "min": "46'+1'",
-          "text": "Fourth official has announced 5 minutes of added time.",
+          "min": "90'+4'",
+          "text": "Diney Borges (Cabo Verde) is shown the yellow card for a bad foul.",
           "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Corner, Uruguay. Conceded by Pico Lopes.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Attempt blocked. Agustín Canobbio (Uruguay) right footed shot from the right side of the box is blocked. Assisted by Darwin Núñez.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Attempt blocked. Ryan Mendes (Cabo Verde) right footed shot from outside the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Attempt blocked. Sidny Cabral (Cabo Verde) left footed shot from outside the box is blocked. Assisted by Laros Duarte.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Fourth official has announced 8 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Attempt missed. Federico Valverde (Uruguay) right footed shot from outside the box is just a bit too high from a direct free kick.",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Nicolás de la Cruz (Uruguay) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Foul by Yannick Semedo (Cabo Verde).",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Corner, Uruguay. Conceded by Steven Moreira.",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Corner, Uruguay. Conceded by Laros Duarte.",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Corner, Uruguay. Conceded by Steven Moreira.",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Attempt blocked. Rodrigo Bentancur (Uruguay) header from the left side of the six yard box is blocked. Assisted by Brian Rodríguez with a cross.",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Corner, Uruguay. Conceded by Steven Moreira.",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Attempt blocked. Brian Rodríguez (Uruguay) right footed shot from the centre of the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Corner, Uruguay. Conceded by Deroy Duarte.",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Substitution, Uruguay. Brian Rodríguez replaces Maxi Araújo.",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Substitution, Cabo Verde. Yannick Semedo replaces Jamiro Monteiro because of an injury.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Attempt missed. Nicolás de la Cruz (Uruguay) right footed shot from outside the box is too high. Assisted by Mathías Olivera.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Corner, Cabo Verde. Conceded by Rodrigo Bentancur.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Attempt missed. Pico Lopes (Cabo Verde) header from the right side of the six yard box misses to the left. Assisted by Jamiro Monteiro with a cross following a corner.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Corner, Cabo Verde. Conceded by Juan Manuel Sanabria.",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Substitution, Cabo Verde. Laros Duarte replaces Kevin Pina because of an injury.",
+          "goal": false
+        },
+        {
+          "min": "70'",
+          "text": "Substitution, Uruguay. Nicolás de la Cruz replaces Manuel Ugarte.",
+          "goal": false
+        },
+        {
+          "min": "70'",
+          "text": "Substitution, Uruguay. Darwin Núñez replaces Federico Viñas.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Offside, Uruguay. Maxi Araújo is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Corner, Uruguay. Conceded by Sidny Cabral.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Attempt blocked. Federico Valverde (Uruguay) right footed shot from outside the box is blocked. Assisted by Mathías Olivera.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Delay in match because of an injury Kevin Pina (Cabo Verde).",
+          "goal": false
+        },
+        {
+          "min": "63'",
+          "text": "Attempt missed. Jamiro Monteiro (Cabo Verde) right footed shot from outside the box is just a bit too high. Assisted by Kevin Pina following a fast break.",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Goal! Uruguay 2, Cabo Verde 2. Hélio Varela (Cabo Verde) right footed shot from outside the box to the centre of the goal.",
+          "goal": true
+        },
+        {
+          "min": "60'",
+          "text": "Federico Viñas (Uruguay) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Foul by Deroy Duarte (Cabo Verde).",
+          "goal": false
+        },
+        {
+          "min": "59'",
+          "text": "Attempt blocked. Jamiro Monteiro (Cabo Verde) right footed shot from outside the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Substitution, Cabo Verde. Hélio Varela replaces Garry Rodrigues.",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Substitution, Cabo Verde. Nuno da Costa replaces Gilson Benchimol.",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Mathías Olivera (Uruguay) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Foul by Mathías Olivera (Uruguay).",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Gilson Benchimol (Cabo Verde) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "52'",
+          "text": "Attempt missed. Sidny Cabral (Cabo Verde) right footed shot from outside the box misses to the left. Assisted by Kevin Pina.",
+          "goal": false
+        },
+        {
+          "min": "51'",
+          "text": "Foul by Maxi Araújo (Uruguay).",
+          "goal": false
+        },
+        {
+          "min": "51'",
+          "text": "Sidny Cabral (Cabo Verde) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "50'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "50'",
+          "text": "Delay in match (Uruguay).",
+          "goal": false
+        },
+        {
+          "min": "49'",
+          "text": "Corner, Uruguay. Conceded by Sidny Cabral.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Second Half begins Uruguay 2, Cabo Verde 1.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Substitution, Cabo Verde. Deroy Duarte replaces Telmo Arcanjo because of an injury.",
+          "goal": false
+        },
+        {
+          "min": "45'+9'",
+          "text": "First Half ends, Uruguay 2, Cabo Verde 1.",
+          "goal": false
+        },
+        {
+          "min": "45'+6'",
+          "text": "Goal! Uruguay 2, Cabo Verde 1. Agustín Canobbio (Uruguay) right footed shot from the centre of the box to the centre of the goal. Assisted by Maxi Araújo with a headed pass.",
+          "goal": true
         },
         {
           "min": "45'+1'",
           "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Fourth official has announced 5 minutes of added time.",
           "goal": false
         },
         {
@@ -33083,186 +33415,6 @@
           "min": "38'",
           "text": "Corner, Cabo Verde. Conceded by Fernando Muslera.",
           "goal": false
-        },
-        {
-          "min": "36'",
-          "text": "Foul by Agustín Canobbio (Uruguay).",
-          "goal": false
-        },
-        {
-          "min": "36'",
-          "text": "Sidny Cabral (Cabo Verde) wins a free kick on the left wing.",
-          "goal": false
-        },
-        {
-          "min": "34'",
-          "text": "Attempt missed. Federico Valverde (Uruguay) right footed shot from outside the box misses to the left. Assisted by Manuel Ugarte.",
-          "goal": false
-        },
-        {
-          "min": "33'",
-          "text": "Attempt missed. Manuel Ugarte (Uruguay) right footed shot from outside the box misses to the left.",
-          "goal": false
-        },
-        {
-          "min": "31'",
-          "text": "Foul by Manuel Ugarte (Uruguay).",
-          "goal": false
-        },
-        {
-          "min": "31'",
-          "text": "Jamiro Monteiro (Cabo Verde) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "28'",
-          "text": "Attempt missed. Federico Valverde (Uruguay) right footed shot from the left side of the box is just a bit too high.",
-          "goal": false
-        },
-        {
-          "min": "27'",
-          "text": "Delay over. They are ready to continue.",
-          "goal": false
-        },
-        {
-          "min": "25'",
-          "text": "Delay in match for a drinks break.",
-          "goal": false
-        },
-        {
-          "min": "24'",
-          "text": "Attempt blocked. Federico Valverde (Uruguay) right footed shot from outside the box is blocked. Assisted by Maxi Araújo.",
-          "goal": false
-        },
-        {
-          "min": "24'",
-          "text": "Corner, Uruguay. Conceded by Telmo Arcanjo.",
-          "goal": false
-        },
-        {
-          "min": "24'",
-          "text": "Attempt blocked. Federico Valverde (Uruguay) right footed shot from outside the box is blocked. Assisted by Juan Manuel Sanabria.",
-          "goal": false
-        },
-        {
-          "min": "21'",
-          "text": "Goal! Uruguay 0, Cabo Verde 1. Kevin Pina (Cabo Verde) from a free kick with a right footed shot to the bottom right corner.",
-          "goal": true
-        },
-        {
-          "min": "20'",
-          "text": "Rodrigo Bentancur (Uruguay) is shown the yellow card for a bad foul.",
-          "goal": false
-        },
-        {
-          "min": "20'",
-          "text": "Foul by Rodrigo Bentancur (Uruguay).",
-          "goal": false
-        },
-        {
-          "min": "20'",
-          "text": "Telmo Arcanjo (Cabo Verde) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "18'",
-          "text": "Foul by Agustín Canobbio (Uruguay).",
-          "goal": false
-        },
-        {
-          "min": "18'",
-          "text": "Sidny Cabral (Cabo Verde) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "16'",
-          "text": "Corner, Uruguay. Conceded by Diney Borges.",
-          "goal": false
-        },
-        {
-          "min": "14'",
-          "text": "Attempt missed. Federico Valverde (Uruguay) left footed shot from the left side of the box misses to the right. Assisted by Agustín Canobbio following a fast break.",
-          "goal": false
-        },
-        {
-          "min": "13'",
-          "text": "Maxi Araújo (Uruguay) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "13'",
-          "text": "Foul by Kevin Pina (Cabo Verde).",
-          "goal": false
-        },
-        {
-          "min": "11'",
-          "text": "Corner, Uruguay. Conceded by Pico Lopes.",
-          "goal": false
-        },
-        {
-          "min": "10'",
-          "text": "Offside, Uruguay. Maxi Araújo is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "8'",
-          "text": "Offside, Uruguay. Federico Viñas is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "7'",
-          "text": "Attempt blocked. Rodrigo Bentancur (Uruguay) header from the left side of the six yard box is blocked. Assisted by Maxi Araújo with a cross.",
-          "goal": false
-        },
-        {
-          "min": "6'",
-          "text": "Corner, Uruguay. Conceded by Pico Lopes.",
-          "goal": false
-        },
-        {
-          "min": "5'",
-          "text": "Sidny Cabral (Cabo Verde) is shown the yellow card for a bad foul.",
-          "goal": false
-        },
-        {
-          "min": "5'",
-          "text": "Rodrigo Bentancur (Uruguay) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "5'",
-          "text": "Foul by Sidny Cabral (Cabo Verde).",
-          "goal": false
-        },
-        {
-          "min": "3'",
-          "text": "Foul by Rodrigo Bentancur (Uruguay).",
-          "goal": false
-        },
-        {
-          "min": "3'",
-          "text": "Sidny Cabral (Cabo Verde) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "2'",
-          "text": "Foul by Agustín Canobbio (Uruguay).",
-          "goal": false
-        },
-        {
-          "min": "2'",
-          "text": "Sidny Cabral (Cabo Verde) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "",
-          "text": "First Half begins.",
-          "goal": false
-        },
-        {
-          "min": "",
-          "text": "Lineups are announced and players are warming up.",
-          "goal": false
         }
       ],
       "leaders": [
@@ -33272,13 +33424,13 @@
             "name": "F. Valverde",
             "num": "8",
             "pos": "M",
-            "value": "5"
+            "value": "7"
           },
           "away": {
-            "name": "K. Pina",
-            "num": "6",
-            "pos": "M",
-            "value": "1"
+            "name": "S. Lopes Cabral",
+            "num": "13",
+            "pos": "D",
+            "value": "2"
           }
         },
         {
@@ -33287,13 +33439,13 @@
             "name": "M. Olivera",
             "num": "16",
             "pos": "D",
-            "value": "30"
+            "value": "73"
           },
           "away": {
             "name": "P. Lopes",
             "num": "4",
             "pos": "D",
-            "value": "14"
+            "value": "25"
           }
         },
         {
@@ -33302,13 +33454,22 @@
             "name": "R. Bentancur",
             "num": "6",
             "pos": "M",
-            "value": "6"
+            "value": "8"
           },
           "away": {
             "name": "D. Borges",
             "num": "3",
             "pos": "D",
-            "value": "11"
+            "value": "22"
+          }
+        },
+        {
+          "label": "Saves",
+          "home": {
+            "name": "F. Muslera",
+            "num": "23",
+            "pos": "G",
+            "value": "1"
           }
         }
       ],

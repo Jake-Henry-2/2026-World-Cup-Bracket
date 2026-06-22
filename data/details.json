@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-22T16:47:56.905Z",
+  "lastUpdated": "2026-06-22T17:13:25.304Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -36203,6 +36203,564 @@
       ],
       "highlight": null,
       "final": true,
+      "dv": 5
+    },
+    "760456": {
+      "venue": "AT&T Stadium",
+      "stats": {
+        "home": {
+          "foulsCommitted": "1",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "1",
+          "wonCorners": "0",
+          "saves": "0",
+          "possessionPct": "60",
+          "totalShots": "1",
+          "shotsOnTarget": "0",
+          "shotPct": "0.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "1",
+          "accuratePasses": "38",
+          "totalPasses": "42",
+          "passPct": "0.9",
+          "accurateCrosses": "0",
+          "totalCrosses": "0",
+          "crossPct": "0.0",
+          "totalLongBalls": "1",
+          "accurateLongBalls": "0",
+          "longballPct": "0.0",
+          "blockedShots": "0",
+          "effectiveTackles": "0",
+          "totalTackles": "1",
+          "tacklePct": "0.0",
+          "interceptions": "1",
+          "effectiveClearance": "0",
+          "totalClearance": "0"
+        },
+        "away": {
+          "foulsCommitted": "2",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "0",
+          "saves": "0",
+          "possessionPct": "40",
+          "totalShots": "0",
+          "shotsOnTarget": "0",
+          "shotPct": "0.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "23",
+          "totalPasses": "28",
+          "passPct": "0.8",
+          "accurateCrosses": "0",
+          "totalCrosses": "0",
+          "crossPct": "0.0",
+          "totalLongBalls": "2",
+          "accurateLongBalls": "1",
+          "longballPct": "0.5",
+          "blockedShots": "0",
+          "effectiveTackles": "1",
+          "totalTackles": "2",
+          "tacklePct": "0.0",
+          "interceptions": "0",
+          "effectiveClearance": "0",
+          "totalClearance": "0"
+        }
+      },
+      "events": [
+        {
+          "kind": "Penalty - Missed",
+          "min": "9'",
+          "side": "home",
+          "player": "Penalty missed. Lionel Messi"
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Emiliano Martínez",
+            "short": "E. Martínez",
+            "num": "23",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Lisandro Martínez",
+            "short": "L. Martínez",
+            "num": "6",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Cristian Romero",
+            "short": "C. Romero",
+            "num": "13",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Facundo Medina",
+            "short": "F. Medina",
+            "num": "25",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Nahuel Molina",
+            "short": "N. Molina",
+            "num": "26",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Enzo Fernández",
+            "short": "E. Fernández",
+            "num": "24",
+            "pos": "CM-L",
+            "place": "8"
+          },
+          {
+            "name": "Alexis Mac Allister",
+            "short": "A. Mac Allister",
+            "num": "20",
+            "pos": "CM-R",
+            "place": "4"
+          },
+          {
+            "name": "Thiago Almada",
+            "short": "T. Almada",
+            "num": "16",
+            "pos": "LM",
+            "place": "11"
+          },
+          {
+            "name": "Rodrigo De Paul",
+            "short": "R. De Paul",
+            "num": "7",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Lautaro Martínez",
+            "short": "L. Martínez",
+            "num": "22",
+            "pos": "CF-L",
+            "place": "9"
+          },
+          {
+            "name": "Lionel Messi",
+            "short": "L. Messi",
+            "num": "10",
+            "pos": "CF-R",
+            "place": "10"
+          }
+        ],
+        "away": [
+          {
+            "name": "Alexander Schlager",
+            "short": "A. Schlager",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "David Alaba",
+            "short": "D. Alaba",
+            "num": "8",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Kevin Danso",
+            "short": "K. Danso",
+            "num": "3",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Konrad Laimer",
+            "short": "K. Laimer",
+            "num": "20",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Stefan Posch",
+            "short": "S. Posch",
+            "num": "5",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Paul Wanner",
+            "short": "P. Wanner",
+            "num": "24",
+            "pos": "AM",
+            "place": "10"
+          },
+          {
+            "name": "Xaver Schlager",
+            "short": "X. Schlager",
+            "num": "4",
+            "pos": "LM",
+            "place": "4"
+          },
+          {
+            "name": "Nicolas Seiwald",
+            "short": "N. Seiwald",
+            "num": "6",
+            "pos": "RM",
+            "place": "8"
+          },
+          {
+            "name": "Michael Gregoritsch",
+            "short": "M. Gregoritsch",
+            "num": "11",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Marcel Sabitzer",
+            "short": "M. Sabitzer",
+            "num": "9",
+            "pos": "AM-L",
+            "place": "11"
+          },
+          {
+            "name": "Romano Schmid",
+            "short": "R. Schmid",
+            "num": "18",
+            "pos": "AM-R",
+            "place": "7"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Gerónimo Rulli",
+            "short": "G. Rulli",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Valentín Barco",
+            "short": "V. Barco",
+            "num": "8",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nico Paz",
+            "short": "N. Paz",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Julián Álvarez",
+            "short": "J. Álvarez",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Marcos Senesi",
+            "short": "M. Senesi",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gonzalo Montiel",
+            "short": "G. Montiel",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Leandro Paredes",
+            "short": "L. Paredes",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Giuliano Simeone",
+            "short": "G. Simeone",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nico González",
+            "short": "N. González",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nicolás Otamendi",
+            "short": "N. Otamendi",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nicolás Tagliafico",
+            "short": "N. Tagliafico",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Exequiel Palacios",
+            "short": "E. Palacios",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "José Manuel López",
+            "short": "J. López",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Giovani Lo Celso",
+            "short": "G. Lo Celso",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Juan Musso",
+            "short": "J. Musso",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Carney Chukwuemeka",
+            "short": "C. Chukwuemeka",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Michael Svoboda",
+            "short": "M. Svoboda",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Marco Friedl",
+            "short": "M. Friedl",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Florian Wiegele",
+            "short": "F. Wiegele",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Phillipp Mwene",
+            "short": "P. Mwene",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Alessandro Schöpf",
+            "short": "A. Schöpf",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "David Affengruber",
+            "short": "D. Affengruber",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Dejan Ljubicic",
+            "short": "D. Ljubicic",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Patrick Pentz",
+            "short": "P. Pentz",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Philipp Lienhart",
+            "short": "P. Lienhart",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Florian Grillitsch",
+            "short": "F. Grillitsch",
+            "num": "10",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Alexander Prass",
+            "short": "A. Prass",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Patrick Wimmer",
+            "short": "P. Wimmer",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Sasa Kalajdzic",
+            "short": "S. Kalajdzic",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Marko Arnautovic",
+            "short": "M. Arnautovic",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-4-2",
+        "away": "4-2-3-1"
+      },
+      "commentary": [
+        {
+          "min": "11'",
+          "text": "Foul by Lisandro Martínez (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "11'",
+          "text": "Michael Gregoritsch (Austria) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "10'",
+          "text": "Facundo Medina (Argentina) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "10'",
+          "text": "Foul by Romano Schmid (Austria).",
+          "goal": false
+        },
+        {
+          "min": "9'",
+          "text": "Penalty missed. Lionel Messi (Argentina) left footed shot is close, but misses to the right.",
+          "goal": false
+        },
+        {
+          "min": "7'",
+          "text": "VAR Decision: Penalty Argentina.",
+          "goal": false
+        },
+        {
+          "min": "7'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "4'",
+          "text": "Delay in match because of an injury Lautaro Martínez (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "4'",
+          "text": "Penalty Argentina. Lautaro Martínez draws a foul in the penalty area.",
+          "goal": false
+        },
+        {
+          "min": "4'",
+          "text": "Penalty conceded by Stefan Posch (Austria) after a foul in the penalty area.",
+          "goal": false
+        },
+        {
+          "min": "2'",
+          "text": "Offside, Argentina. Thiago Almada is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "First Half begins.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "Lineups are announced and players are warming up.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "L. Messi",
+            "num": "10",
+            "pos": "F",
+            "value": "1"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "L. Martínez",
+            "num": "6",
+            "pos": "D",
+            "value": "7"
+          },
+          "away": {
+            "name": "K. Danso",
+            "num": "3",
+            "pos": "D",
+            "value": "6"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "C. Romero",
+            "num": "13",
+            "pos": "D",
+            "value": "2"
+          }
+        }
+      ],
+      "highlight": null,
+      "final": false,
       "dv": 5
     }
   }

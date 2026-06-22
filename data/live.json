@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-22T16:47:56.872Z",
+  "lastUpdated": "2026-06-22T17:13:25.259Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -577,10 +577,14 @@
         "total": 2.5,
         "book": "DraftKings"
       },
-      "status": "scheduled",
+      "status": "live",
       "id": "760456",
       "date": "2026-06-22T17:00Z",
-      "venue": "AT&T Stadium"
+      "venue": "AT&T Stadium",
+      "clock": 720,
+      "displayClock": "12'",
+      "detail": "12'",
+      "period": 1
     },
     {
       "stage": "group",
@@ -611,9 +615,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 125,
-        "away": 225,
-        "draw": 245,
+        "home": 120,
+        "away": 235,
+        "draw": 240,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -711,9 +715,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -195,
-        "away": 600,
-        "draw": 320,
+        "home": -185,
+        "away": 550,
+        "draw": 310,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -1171,9 +1175,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 205,
-        "away": 155,
-        "draw": 210,
+        "home": 220,
+        "away": 160,
+        "draw": 195,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -1193,7 +1197,7 @@
       "odds": {
         "home": 1500,
         "away": -525,
-        "draw": 600,
+        "draw": 650,
         "total": 2.5,
         "book": "DraftKings"
       },

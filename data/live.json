@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-22T17:13:25.259Z",
+  "lastUpdated": "2026-06-22T17:32:17.806Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -581,9 +581,9 @@
       "id": "760456",
       "date": "2026-06-22T17:00Z",
       "venue": "AT&T Stadium",
-      "clock": 720,
-      "displayClock": "12'",
-      "detail": "12'",
+      "clock": 1860,
+      "displayClock": "31'",
+      "detail": "31'",
       "period": 1
     },
     {
@@ -615,8 +615,8 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 120,
-        "away": 235,
+        "home": 125,
+        "away": 225,
         "draw": 240,
         "total": 2.5,
         "book": "DraftKings"

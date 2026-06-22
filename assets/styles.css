@@ -450,6 +450,24 @@ h1{font-size:20px;margin:0;letter-spacing:.3px}
 .md-odfav{border-color:rgba(255,210,63,.5);background:rgba(255,210,63,.08)}
 .md-odfav .md-od-ml{color:var(--gold)}
 
+/* ---------------- side-pool projection bits ---------------- */
+.sp-win{text-align:right;font-weight:800;color:var(--gold);font-variant-numeric:tabular-nums;white-space:nowrap}
+.sp-t th:last-child{text-align:right}
+.sp-ptop{font-size:10px;font-weight:800;color:var(--blue);background:rgba(78,168,255,.12);border-radius:4px;padding:0 4px;margin-left:3px}
+
+/* ---------------- points-over-time chart ---------------- */
+.timeline-panel{margin:14px 0}
+.tl-wrap{padding:10px 12px 2px}
+.tl-svg{width:100%;height:auto;display:block}
+.tl-grid{stroke:var(--line);stroke-width:1;opacity:.5}
+.tl-yl{fill:var(--dim);font-size:10px;text-anchor:end}
+.tl-xl{fill:var(--dim);font-size:11px}
+.tl-empty{padding:24px 16px;color:var(--dim);font-size:13px;text-align:center}
+.tl-legend{display:flex;flex-wrap:wrap;gap:6px 14px;padding:8px 14px 14px}
+.tl-leg{font-size:12px;font-weight:700;display:inline-flex;align-items:center;gap:5px;white-space:nowrap}
+.tl-leg b{color:var(--ink)}
+.tl-sw{width:11px;height:11px;border-radius:3px;display:inline-block}
+
 /* ---------------- responsive ---------------- */
 @media(max-width:920px){.layout{grid-template-columns:1fr}.pot-grid{grid-template-columns:1fr 1fr}.extra-grid{grid-template-columns:1fr}.sch-grid{grid-template-columns:1fr}}
 @media(max-width:560px){.status{gap:12px}.lb-total-pts{font-size:22px}.bracket-panel{margin:0 8px 12px}.proj-win{min-width:78px}.lg-odds{margin-left:0}}

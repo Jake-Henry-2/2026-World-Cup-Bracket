@@ -365,15 +365,22 @@
   function renderSidePool(computed) {
     const box = $("#sidepool");
     const ap = computed.anyPlayed;
+    // odds-powered projection (computed in renderProjections, which runs earlier in the cycle)
+    const sp = state.projCache && state.projCache.data && state.projCache.data.sidePool;
+    const winOf = {}, pTopOf = {};
+    if (sp) { sp.bettors.forEach((b) => (winOf[b.manager] = b.win)); sp.teams.forEach((t) => (pTopOf[t.team] = t.pTop)); }
+    const pct0 = (x) => (x * 100).toFixed(0) + "%";
     const eight = computed.eight.map((e, i) => {
       const mark = ap && i === 0 ? "🏆 " : ap && i === 1 ? "🥈 " : "";
       const cls = ap && i === 0 ? " sp-top" : ap && i === 1 ? " sp-ru" : "";
-      return `<span class="sp-team${cls}">${mark}${esc(e.team)} <b>${e.pts}</b>${e.live ? ' <span class="ct-live">●</span>' : ""}</span>`;
+      const pt = pTopOf[e.team];
+      return `<span class="sp-team${cls}">${mark}${esc(e.team)} <b>${e.pts}</b>${(sp && pt != null) ? ` <span class="sp-ptop" title="projected chance of finishing top scorer">${pct0(pt)}</span>` : ""}${e.live ? ' <span class="ct-live">●</span>' : ""}</span>`;
     }).join("");
     const picks = computed.sidePool.map((p) =>
       `<tr><td>${esc(p.manager)}</td>
         <td class="${p.topHit ? "hit" : ""}">${esc(p.top)} <span class="sp-pp">${p.topPts}</span>${p.topHit ? " ✓" : ""}</td>
-        <td class="${p.ruHit ? "hit" : ""}">${esc(p.runnerUp)} <span class="sp-pp">${p.ruPts}</span>${p.ruHit ? " ✓" : ""}</td></tr>`
+        <td class="${p.ruHit ? "hit" : ""}">${esc(p.runnerUp)} <span class="sp-pp">${p.ruPts}</span>${p.ruHit ? " ✓" : ""}</td>
+        <td class="sp-win">${(sp && winOf[p.manager] != null) ? pct0(winOf[p.manager]) : "—"}</td></tr>`
     ).join("");
     let note;
     if (!ap) {
@@ -384,10 +391,13 @@
         ? `Leading the $${L.pots.sidePool}: <b>${esc(w.manager)}</b> — called <b>${esc(computed.actualTop.team)}</b> as Top Point Winner${w.ruHit ? " + Runner-Up ✓" : ""}.`
         : `Top Point Winner so far: <b>${esc(computed.actualTop.team)}</b> (${computed.actualTop.pts} pts) — no one bet it. Closest: <b>${esc(computed.sidePool[0].manager)}</b>.`;
     }
+    if (sp && sp.bettors.length && sp.bettors[0].win > 0) {
+      note += ` · <b>Projected:</b> ${esc(sp.bettors[0].manager)} ${pct0(sp.bettors[0].win)} to take the $${L.pots.sidePool} (odds-based).`;
+    }
     box.innerHTML = `
       <div class="panel-h">💰 Remaining 8 — $${L.pots.sidePool} Side Pool <span class="dim">predict the top scorer · $ to the correct Top pick</span></div>
       <div class="sp-standings">${eight}</div>
-      <table class="sp-t"><thead><tr><th>Manager</th><th>Top Point Winner</th><th>Runner-Up</th></tr></thead>
+      <table class="sp-t"><thead><tr><th>Manager</th><th>Top Point Winner</th><th>Runner-Up</th><th title="projected chance of winning the $${L.pots.sidePool}">Win $${L.pots.sidePool}</th></tr></thead>
         <tbody>${picks}</tbody></table>
       <div class="sp-note">${note}</div>`;
   }
@@ -745,6 +755,8 @@
       .map((m) => { const home = canon(m.home), away = canon(m.away); const md = oddsModel(m.odds); const lam = md || lamFromStrength(home, away, S); return { home, away, lH: lam.lH, lA: lam.lA }; });
     const complete = {}; Object.keys(L.groups).forEach((g) => (complete[g] = !!(computed.groupTables[g] && computed.groupTables[g].complete)));
     const groupEntries = Object.entries(L.groups);
+    const REMAIN8 = (L.remainingEight || []).map(canon);
+    const SIDEBETS = (L.sidePool || []).map((p) => ({ manager: p.manager, top: canon(p.top), runnerUp: canon(p.runnerUp) }));
 
     function oneSim(rng) {
       const tp = {}, st = {};
@@ -767,16 +779,26 @@
       if (!koStarted) simKnockout(qual, tp, rng, S);
       const out = {};
       for (const mgr of L.managers) out[mgr.name] = mgr.teams.reduce((s, t) => s + (tp[canon(t)] || 0), 0);
-      return out;
+      // ----- $50 side pool: rank the 8 undrafted teams, decide whose bet wins (mirrors renderSidePool) -----
+      const eight = REMAIN8.map((t) => ({ t, p: tp[t] || 0 })).sort((a, b) => b.p - a.p || (rng() - 0.5));
+      const top = eight[0].t, ru = eight[1] ? eight[1].t : null;
+      const ptsOf = (name) => { const e = eight.find((x) => x.t === name); return e ? e.p : 0; };
+      const bet = SIDEBETS.map((p) => ({ mgr: p.manager, hit: (p.top === top ? 1 : 0) + (ru && p.runnerUp === ru ? 1 : 0), pts: ptsOf(p.top) + ptsOf(p.runnerUp) }))
+        .sort((a, b) => b.hit - a.hit || b.pts - a.pts || (rng() - 0.5));
+      return { totals: out, top, ru, spWinner: bet.length ? bet[0].mgr : null, eight };
     }
 
     const rng = mulberry32(20260611);     // fixed seed → reproducible for every visitor
     const totals = {}, wins = {}; L.managers.forEach((m) => { totals[m.name] = new Float64Array(SIM_N); wins[m.name] = 0; });
+    const eSum = {}, eTop = {}, eRu = {}; REMAIN8.forEach((t) => { eSum[t] = 0; eTop[t] = 0; eRu[t] = 0; });
+    const spWin = {}; SIDEBETS.forEach((b) => (spWin[b.manager] = 0));
     for (let s = 0; s < SIM_N; s++) {
-      const mt = oneSim(rng);
+      const r = oneSim(rng), mt = r.totals;
       let best = -Infinity, leaders = [];
       for (const m of L.managers) { const v = mt[m.name]; totals[m.name][s] = v; if (v > best) { best = v; leaders = [m.name]; } else if (v === best) leaders.push(m.name); }
       leaders.forEach((n) => (wins[n] += 1 / leaders.length));
+      r.eight.forEach((e) => (eSum[e.t] += e.p)); if (eTop[r.top] != null) eTop[r.top]++; if (r.ru && eRu[r.ru] != null) eRu[r.ru]++;
+      if (r.spWinner) spWin[r.spWinner]++;
     }
     const mean = (a) => { let s = 0; for (let i = 0; i < a.length; i++) s += a[i]; return s / a.length; };
     const pctl = (a, p) => { const b = Array.from(a).sort((x, y) => x - y); return b[Math.min(b.length - 1, Math.floor(p * b.length))]; };
@@ -786,7 +808,12 @@
       proj: Math.round(mean(totals[m.name])), ceil: Math.round(pctl(totals[m.name], 0.9)), win: wins[m.name] / SIM_N
     }));
     rows.sort((a, b) => b.proj - a.proj || b.win - a.win);
-    return { rows, n: SIM_N, oddsCount: matches.filter((m) => m && m.odds).length, koStarted };
+    const sidePool = {
+      teams: REMAIN8.map((t) => ({ team: t, proj: Math.round(eSum[t] / SIM_N), pTop: eTop[t] / SIM_N, pRu: eRu[t] / SIM_N }))
+        .sort((a, b) => b.pTop - a.pTop || b.proj - a.proj),
+      bettors: SIDEBETS.map((b) => ({ manager: b.manager, win: spWin[b.manager] / SIM_N })).sort((a, b) => b.win - a.win)
+    };
+    return { rows, n: SIM_N, oddsCount: matches.filter((m) => m && m.odds).length, koStarted, sidePool };
   }
 
   function renderProjections(computed) {
@@ -812,6 +839,61 @@
         <thead><tr><th>Manager</th><th title="points banked so far">Now</th><th title="average simulated finish">Proj</th><th title="top-10% outcome">Ceiling</th><th title="chance of finishing 1st for the $${L.pots.main} pot">Win $${L.pots.main}</th></tr></thead>
         <tbody>${rows}</tbody></table></div>
       <div class="proj-note">${note}</div>`;
+  }
+
+  /* =========================================================================
+     POINTS OVER TIME — cumulative fantasy points per manager, by match day.
+     Reconstructed by re-running the exact scoring engine on the finished games
+     up to each day (so the last point always equals the live standings).
+     ====================================================================== */
+  function managerTotalsAsOf(sub) {
+    const saved = state.results.matches;
+    state.results.matches = sub;
+    const totals = {};
+    try { computeState().managers.forEach((m) => (totals[m.name] = m.total)); }
+    finally { state.results.matches = saved; }
+    return totals;
+  }
+  function pointsTimeline(computed) {
+    const all = (state.results.matches || []).filter((m) => m && m.status === "finished" && m.date
+      && computed.team[canon(m.home)] && computed.team[canon(m.away)]);
+    const dayOf = (m) => String(m.date).slice(0, 10);
+    const days = [...new Set(all.map(dayOf))].sort();
+    if (days.length < 2) return { days: [], series: {} };
+    const series = {}; L.managers.forEach((m) => (series[m.name] = []));
+    for (const d of days) {
+      const tot = managerTotalsAsOf(all.filter((m) => dayOf(m) <= d));
+      L.managers.forEach((m) => series[m.name].push(tot[m.name] || 0));
+    }
+    return { days, series };
+  }
+  const TL_COLORS = ["#ffd23f", "#4ea8ff", "#2bd576", "#ff5d6c", "#b07cff", "#ff9f1c", "#19d3da", "#ff6fb5", "#9acd32", "#c0c8d8"];
+  function renderTimeline(computed) {
+    const box = $("#timeline"); if (!box) return;
+    const matches = state.results.matches || [];
+    const sig = computed.managers.reduce((s, m) => s + m.total, 0) + "|" + matches.filter((m) => m && m.status === "finished").length;
+    if (!state.tlCache || state.tlCache.sig !== sig) state.tlCache = { sig, data: pointsTimeline(computed) };
+    const T = state.tlCache.data, n = T.days.length;
+    if (!n) { box.innerHTML = `<div class="panel-h">📈 Points Over Time</div><div class="tl-empty">A trend line appears once a few match days are in the books.</div>`; return; }
+    const W = 920, H = 360, padL = 32, padR = 16, padT = 14, padB = 26;
+    const maxV = Math.max(1, ...L.managers.map((m) => T.series[m.name][n - 1]));
+    const x = (i) => padL + (n === 1 ? 0 : i / (n - 1) * (W - padL - padR));
+    const y = (v) => H - padB - (v / maxV) * (H - padT - padB);
+    const order = L.managers.map((m) => ({ m, fin: T.series[m.name][n - 1] })).sort((a, b) => b.fin - a.fin);
+    const colorOf = {}; order.forEach((o, i) => (colorOf[o.m.name] = TL_COLORS[i % TL_COLORS.length]));
+    let grid = "";
+    for (let g = 0; g <= 4; g++) { const v = maxV * g / 4, yy = y(v).toFixed(1); grid += `<line x1="${padL}" y1="${yy}" x2="${W - padR}" y2="${yy}" class="tl-grid"/><text x="${padL - 5}" y="${(+yy + 3).toFixed(1)}" class="tl-yl">${Math.round(v)}</text>`; }
+    const lines = order.map((o) => {
+      const pts = T.series[o.m.name].map((v, i) => `${x(i).toFixed(1)},${y(v).toFixed(1)}`).join(" ");
+      const lead = o === order[0], col = colorOf[o.m.name];
+      return `<polyline points="${pts}" fill="none" stroke="${col}" stroke-width="${lead ? 3 : 1.8}" opacity="${lead ? 1 : 0.82}" stroke-linejoin="round" stroke-linecap="round"/><circle cx="${x(n - 1).toFixed(1)}" cy="${y(o.fin).toFixed(1)}" r="${lead ? 3.6 : 2.4}" fill="${col}"/>`;
+    }).join("");
+    const dl = (d) => new Date(d + "T00:00:00").toLocaleDateString(undefined, { month: "short", day: "numeric" });
+    const xl = `<text x="${padL}" y="${H - 7}" class="tl-xl">${esc(dl(T.days[0]))}</text><text x="${W - padR}" y="${H - 7}" class="tl-xl" text-anchor="end">${esc(dl(T.days[n - 1]))}</text>`;
+    const legend = order.map((o) => `<span class="tl-leg"><span class="tl-sw" style="background:${colorOf[o.m.name]}"></span>${o.m.emoji} ${esc(o.m.name)} <b>${o.fin}</b></span>`).join("");
+    box.innerHTML = `<div class="panel-h">📈 Points Over Time <span class="dim">cumulative fantasy points · by match day</span></div>
+      <div class="tl-wrap"><svg viewBox="0 0 ${W} ${H}" class="tl-svg" preserveAspectRatio="xMidYMid meet">${grid}${lines}${xl}</svg></div>
+      <div class="tl-legend">${legend}</div>`;
   }
 
   // World Cup news — headlines scraped from ESPN (refreshed each cycle), linking out to the source
@@ -858,6 +940,7 @@
     renderPots(computed);
     renderGames(computed);
     renderClubs(computed);
+    renderTimeline(computed);
     renderPreseason(computed);
     renderRules();
     renderNews();

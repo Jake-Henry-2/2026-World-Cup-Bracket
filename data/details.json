@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-22T17:32:17.907Z",
+  "lastUpdated": "2026-06-22T19:39:48.102Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -36209,64 +36209,64 @@
       "venue": "AT&T Stadium",
       "stats": {
         "home": {
-          "foulsCommitted": "3",
-          "yellowCards": "0",
+          "foulsCommitted": "13",
+          "yellowCards": "2",
           "redCards": "0",
-          "offsides": "1",
-          "wonCorners": "0",
-          "saves": "0",
-          "possessionPct": "46",
-          "totalShots": "1",
-          "shotsOnTarget": "0",
-          "shotPct": "0.0",
+          "offsides": "2",
+          "wonCorners": "1",
+          "saves": "1",
+          "possessionPct": "53.6",
+          "totalShots": "12",
+          "shotsOnTarget": "5",
+          "shotPct": "0.4",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "1",
-          "accuratePasses": "92",
-          "totalPasses": "108",
+          "accuratePasses": "493",
+          "totalPasses": "553",
           "passPct": "0.9",
-          "accurateCrosses": "0",
-          "totalCrosses": "0",
-          "crossPct": "0.0",
-          "totalLongBalls": "2",
-          "accurateLongBalls": "0",
-          "longballPct": "0.0",
-          "blockedShots": "0",
-          "effectiveTackles": "3",
-          "totalTackles": "9",
-          "tacklePct": "0.3",
-          "interceptions": "2",
-          "effectiveClearance": "12",
-          "totalClearance": "12"
+          "accurateCrosses": "1",
+          "totalCrosses": "4",
+          "crossPct": "0.3",
+          "totalLongBalls": "28",
+          "accurateLongBalls": "13",
+          "longballPct": "0.5",
+          "blockedShots": "3",
+          "effectiveTackles": "11",
+          "totalTackles": "21",
+          "tacklePct": "0.5",
+          "interceptions": "8",
+          "effectiveClearance": "35",
+          "totalClearance": "35"
         },
         "away": {
-          "foulsCommitted": "4",
-          "yellowCards": "0",
+          "foulsCommitted": "13",
+          "yellowCards": "2",
           "redCards": "0",
           "offsides": "0",
-          "wonCorners": "2",
-          "saves": "1",
-          "possessionPct": "54",
-          "totalShots": "2",
-          "shotsOnTarget": "0",
-          "shotPct": "0.0",
+          "wonCorners": "3",
+          "saves": "2",
+          "possessionPct": "46.4",
+          "totalShots": "6",
+          "shotsOnTarget": "1",
+          "shotPct": "0.2",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "98",
-          "totalPasses": "122",
-          "passPct": "0.8",
-          "accurateCrosses": "1",
-          "totalCrosses": "5",
-          "crossPct": "0.2",
-          "totalLongBalls": "8",
-          "accurateLongBalls": "5",
+          "accuratePasses": "402",
+          "totalPasses": "468",
+          "passPct": "0.9",
+          "accurateCrosses": "2",
+          "totalCrosses": "16",
+          "crossPct": "0.1",
+          "totalLongBalls": "23",
+          "accurateLongBalls": "13",
           "longballPct": "0.6",
           "blockedShots": "0",
-          "effectiveTackles": "3",
-          "totalTackles": "4",
-          "tacklePct": "0.8",
-          "interceptions": "2",
-          "effectiveClearance": "0",
-          "totalClearance": "0"
+          "effectiveTackles": "9",
+          "totalTackles": "14",
+          "tacklePct": "0.6",
+          "interceptions": "9",
+          "effectiveClearance": "14",
+          "totalClearance": "14"
         }
       },
       "events": [
@@ -36275,6 +36275,102 @@
           "min": "9'",
           "side": "home",
           "player": "Penalty missed. Lionel Messi"
+        },
+        {
+          "kind": "Goal",
+          "min": "38'",
+          "side": "home",
+          "player": "Goal! Argentina 1, Austria 0. Lionel Messi"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "40'",
+          "side": "away",
+          "player": "Stefan Posch"
+        },
+        {
+          "kind": "Substitution",
+          "min": "57'",
+          "side": "home",
+          "player": "Substitution, Argentina. Nicolás Otamendi replaces Cristian Romero."
+        },
+        {
+          "kind": "Substitution",
+          "min": "64'",
+          "side": "home",
+          "player": "Substitution, Argentina. Julián Alvarez replaces Thiago Almada."
+        },
+        {
+          "kind": "Substitution",
+          "min": "65'",
+          "side": "home",
+          "player": "Substitution, Argentina. Nico González replaces Lautaro Martínez."
+        },
+        {
+          "kind": "Substitution",
+          "min": "67'",
+          "side": "away",
+          "player": "Substitution, Austria. Marco Friedl replaces David Alaba."
+        },
+        {
+          "kind": "Substitution",
+          "min": "68'",
+          "side": "away",
+          "player": "Substitution, Austria. Alexander Prass replaces Stefan Posch."
+        },
+        {
+          "kind": "Substitution",
+          "min": "68'",
+          "side": "away",
+          "player": "Substitution, Austria. Marko Arnautovic replaces Paul Wanner."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "76'",
+          "side": "home",
+          "player": "Facundo Medina"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "76'",
+          "side": "away",
+          "player": "Konrad Laimer"
+        },
+        {
+          "kind": "Substitution",
+          "min": "78'",
+          "side": "away",
+          "player": "Substitution, Austria. Patrick Wimmer replaces Romano Schmid."
+        },
+        {
+          "kind": "Substitution",
+          "min": "82'",
+          "side": "home",
+          "player": "Substitution, Argentina. Leandro Paredes replaces Rodrigo De Paul."
+        },
+        {
+          "kind": "Substitution",
+          "min": "82'",
+          "side": "home",
+          "player": "Substitution, Argentina. Nicolás Tagliafico replaces Facundo Medina."
+        },
+        {
+          "kind": "Substitution",
+          "min": "85'",
+          "side": "away",
+          "player": "Substitution, Austria. Carney Chukwuemeka replaces Michael Gregoritsch."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "90'+2'",
+          "side": "home",
+          "player": "Leandro Paredes"
+        },
+        {
+          "kind": "Goal",
+          "min": "90'+5'",
+          "side": "home",
+          "player": "Goal! Argentina 2, Austria 0. Lionel Messi"
         }
       ],
       "lineups": {
@@ -36659,143 +36755,303 @@
       },
       "commentary": [
         {
-          "min": "29'",
-          "text": "Corner, Austria. Conceded by Nahuel Molina.",
+          "min": "",
+          "text": "Match ends, Argentina 2, Austria 0.",
           "goal": false
         },
         {
-          "min": "26'",
+          "min": "98'",
+          "text": "Second Half ends, Argentina 2, Austria 0.",
+          "goal": false
+        },
+        {
+          "min": "90'+8'",
+          "text": "Attempt missed. Lionel Messi (Argentina) left footed shot from outside the box misses to the left from a direct free kick.",
+          "goal": false
+        },
+        {
+          "min": "90'+7'",
+          "text": "Lionel Messi (Argentina) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "90'+7'",
+          "text": "Foul by Patrick Wimmer (Austria).",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Goal! Argentina 2, Austria 0. Lionel Messi (Argentina) left footed shot from the left side of the six yard box to the centre of the goal following a fast break.",
+          "goal": true
+        },
+        {
+          "min": "90'+5'",
+          "text": "Attempt blocked. Lionel Messi (Argentina) left footed shot from the centre of the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Attempt saved. Julián Alvarez (Argentina) left footed shot from the centre of the box is saved in the centre of the goal by Alexander Schlager (Austria). Assisted by Lionel Messi with a through ball.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Attempt missed. Patrick Wimmer (Austria) header from the centre of the box misses to the left. Assisted by Kevin Danso with a headed pass following a set piece situation.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Handball by Nicolás Otamendi (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Leandro Paredes (Argentina) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Foul by Leandro Paredes (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Carney Chukwuemeka (Austria) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "91'+1'",
+          "text": "Fourth official has announced 5 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Nico González (Argentina) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Foul by Patrick Wimmer (Austria).",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Foul by Nicolás Otamendi (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Patrick Wimmer (Austria) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Nicolás Tagliafico (Argentina) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Foul by Patrick Wimmer (Austria).",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Attempt blocked. Enzo Fernández (Argentina) right footed shot from the centre of the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Attempt blocked. Nico González (Argentina) right footed shot from the centre of the box is blocked. Assisted by Lisandro Martínez with a through ball.",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Substitution, Austria. Carney Chukwuemeka replaces Michael Gregoritsch.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Substitution, Argentina. Nicolás Tagliafico replaces Facundo Medina.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Substitution, Argentina. Leandro Paredes replaces Rodrigo De Paul.",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Corner, Austria. Conceded by Facundo Medina.",
+          "goal": false
+        },
+        {
+          "min": "80'",
           "text": "Delay over. They are ready to continue.",
           "goal": false
         },
         {
-          "min": "23'",
+          "min": "79'",
+          "text": "Delay in match because of an injury Emiliano Martínez (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Substitution, Austria. Patrick Wimmer replaces Romano Schmid.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Konrad Laimer (Austria) is shown the yellow card.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Facundo Medina (Argentina) is shown the yellow card.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Nico González (Argentina) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Foul by Konrad Laimer (Austria).",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Enzo Fernández (Argentina) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Foul by Xaver Schlager (Austria).",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Attempt missed. Nico González (Argentina) header from the centre of the box is close, but misses to the right. Assisted by Lionel Messi with a cross following a corner.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Corner, Argentina. Conceded by Romano Schmid.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "69'",
           "text": "Delay in match for a drinks break.",
           "goal": false
         },
         {
-          "min": "23'",
-          "text": "Corner, Austria. Conceded by Cristian Romero.",
+          "min": "68'",
+          "text": "Substitution, Austria. Marko Arnautovic replaces Paul Wanner.",
           "goal": false
         },
         {
-          "min": "23'",
-          "text": "Attempt missed. Marcel Sabitzer (Austria) left footed shot from the centre of the box is close, but misses to the right. Assisted by Paul Wanner.",
+          "min": "68'",
+          "text": "Substitution, Austria. Alexander Prass replaces Stefan Posch.",
           "goal": false
         },
         {
-          "min": "23'",
-          "text": "Attempt missed. Paul Wanner (Austria) header from the centre of the box misses to the left. Assisted by Stefan Posch with a cross.",
+          "min": "67'",
+          "text": "Substitution, Austria. Marco Friedl replaces David Alaba.",
           "goal": false
         },
         {
-          "min": "22'",
+          "min": "67'",
+          "text": "Attempt missed. Michael Gregoritsch (Austria) header from the centre of the box is too high. Assisted by Marcel Sabitzer with a cross.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Attempt missed. Lionel Messi (Argentina) left footed shot from the left side of the box misses to the right. Assisted by Enzo Fernández.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Substitution, Argentina. Nico González replaces Lautaro Martínez.",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Substitution, Argentina. Julián Alvarez replaces Thiago Almada.",
+          "goal": false
+        },
+        {
+          "min": "62'",
           "text": "Delay over. They are ready to continue.",
           "goal": false
         },
         {
-          "min": "21'",
-          "text": "Delay in match because of an injury Rodrigo De Paul (Argentina).",
+          "min": "62'",
+          "text": "Delay in match because of an injury Kevin Danso (Austria).",
           "goal": false
         },
         {
-          "min": "21'",
-          "text": "Foul by Lautaro Martínez (Argentina).",
+          "min": "61'",
+          "text": "Attempt blocked. Enzo Fernández (Argentina) right footed shot from outside the box is blocked. Assisted by Thiago Almada.",
           "goal": false
         },
         {
-          "min": "21'",
-          "text": "Konrad Laimer (Austria) wins a free kick in the defensive half.",
+          "min": "57'",
+          "text": "Substitution, Argentina. Nicolás Otamendi replaces Cristian Romero.",
           "goal": false
         },
         {
-          "min": "18'",
-          "text": "Alexis Mac Allister (Argentina) wins a free kick in the defensive half.",
+          "min": "57'",
+          "text": "Lautaro Martínez (Argentina) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "18'",
+          "min": "57'",
           "text": "Foul by Paul Wanner (Austria).",
           "goal": false
         },
         {
-          "min": "16'",
-          "text": "Handball by Romano Schmid (Austria).",
+          "min": "55'",
+          "text": "Attempt saved. Marcel Sabitzer (Austria) right footed shot from outside the box is saved in the top centre of the goal by Emiliano Martínez (Argentina).",
           "goal": false
         },
         {
-          "min": "14'",
-          "text": "Paul Wanner (Austria) wins a free kick on the left wing.",
+          "min": "54'",
+          "text": "Foul by Cristian Romero (Argentina).",
           "goal": false
         },
         {
-          "min": "14'",
-          "text": "Foul by Alexis Mac Allister (Argentina).",
+          "min": "54'",
+          "text": "Konrad Laimer (Austria) wins a free kick in the attacking half.",
           "goal": false
         },
         {
-          "min": "11'",
-          "text": "Foul by Lisandro Martínez (Argentina).",
+          "min": "53'",
+          "text": "Foul by Enzo Fernández (Argentina).",
           "goal": false
         },
         {
-          "min": "11'",
-          "text": "Michael Gregoritsch (Austria) wins a free kick in the attacking half.",
+          "min": "53'",
+          "text": "Romano Schmid (Austria) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "10'",
-          "text": "Facundo Medina (Argentina) wins a free kick in the defensive half.",
+          "min": "52'",
+          "text": "Lionel Messi (Argentina) wins a free kick in the attacking half.",
           "goal": false
         },
         {
-          "min": "10'",
-          "text": "Foul by Romano Schmid (Austria).",
+          "min": "52'",
+          "text": "Foul by Xaver Schlager (Austria).",
           "goal": false
         },
         {
-          "min": "9'",
-          "text": "Penalty missed. Lionel Messi (Argentina) left footed shot is close, but misses to the right.",
-          "goal": false
-        },
-        {
-          "min": "7'",
-          "text": "VAR Decision: Penalty Argentina.",
-          "goal": false
-        },
-        {
-          "min": "7'",
-          "text": "Delay over. They are ready to continue.",
-          "goal": false
-        },
-        {
-          "min": "4'",
-          "text": "Delay in match because of an injury Lautaro Martínez (Argentina).",
-          "goal": false
-        },
-        {
-          "min": "4'",
-          "text": "Penalty Argentina. Lautaro Martínez draws a foul in the penalty area.",
-          "goal": false
-        },
-        {
-          "min": "4'",
-          "text": "Penalty conceded by Stefan Posch (Austria) after a foul in the penalty area.",
-          "goal": false
-        },
-        {
-          "min": "2'",
-          "text": "Offside, Argentina. Thiago Almada is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "",
-          "text": "First Half begins.",
-          "goal": false
-        },
-        {
-          "min": "",
-          "text": "Lineups are announced and players are warming up.",
+          "min": "50'",
+          "text": "Offside, Argentina. Lionel Messi is caught offside.",
           "goal": false
         }
       ],
@@ -36806,28 +37062,28 @@
             "name": "L. Messi",
             "num": "10",
             "pos": "F",
-            "value": "1"
+            "value": "7"
           },
           "away": {
-            "name": "P. Wanner",
-            "num": "24",
+            "name": "M. Sabitzer",
+            "num": "9",
             "pos": "M",
-            "value": "1"
+            "value": "3"
           }
         },
         {
           "label": "Accurate Passes",
           "home": {
-            "name": "C. Romero",
-            "num": "13",
+            "name": "L. Martínez",
+            "num": "6",
             "pos": "D",
-            "value": "17"
+            "value": "68"
           },
           "away": {
             "name": "K. Danso",
             "num": "3",
             "pos": "D",
-            "value": "20"
+            "value": "70"
           }
         },
         {
@@ -36836,27 +37092,39 @@
             "name": "E. Fernández",
             "num": "24",
             "pos": "M",
-            "value": "4"
+            "value": "10"
           },
           "away": {
-            "name": "S. Posch",
-            "num": "5",
-            "pos": "D",
-            "value": "2"
+            "name": "N. Seiwald",
+            "num": "6",
+            "pos": "M",
+            "value": "9"
           }
         },
         {
           "label": "Saves",
+          "home": {
+            "name": "E. Martínez",
+            "num": "23",
+            "pos": "G",
+            "value": "1"
+          },
           "away": {
             "name": "A. Schlager",
             "num": "1",
             "pos": "G",
-            "value": "1"
+            "value": "2"
           }
         }
       ],
-      "highlight": null,
-      "final": false,
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0622/dm_260622_Fans_in_Buenos_Aires_celebrate_as_Messi_breaks_the_mens_all_time_goalscorer_record/dm_260622_Fans_in_Buenos_Aires_celebrate_as_Messi_breaks_the_mens_all_time_goalscorer_record.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49145450/fans-buenos-aires-celebrate-messi-breaks-men-all-goalscorer-record",
+        "headline": "Fans in Buenos Aires celebrate as Messi breaks the men's all-time goalscorer record",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0622/dm_260622_Fans_in_Buenos_Aires_celebrate_as_Messi_breaks_the_mens_all_time_goalscorer_record/dm_260622_Fans_in_Buenos_Aires_celebrate_as_Messi_breaks_the_mens_all_time_goalscorer_record_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0622/dm_260622_Fans_in_Buenos_Aires_celebrate_as_Messi_breaks_the_mens_all_time_goalscorer_record/dm_260622_Fans_in_Buenos_Aires_celebrate_as_Messi_breaks_the_mens_all_time_goalscorer_record/playlist.m3u8"
+      },
+      "final": true,
       "dv": 5
     }
   }

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-22T19:39:48.102Z",
+  "lastUpdated": "2026-06-22T21:49:07.400Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -37125,6 +37125,683 @@
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0622/dm_260622_Fans_in_Buenos_Aires_celebrate_as_Messi_breaks_the_mens_all_time_goalscorer_record/dm_260622_Fans_in_Buenos_Aires_celebrate_as_Messi_breaks_the_mens_all_time_goalscorer_record/playlist.m3u8"
       },
       "final": true,
+      "dv": 5
+    },
+    "760457": {
+      "venue": "Lincoln Financial Field",
+      "stats": {
+        "home": {
+          "foulsCommitted": "5",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "1",
+          "saves": "0",
+          "possessionPct": "58.3",
+          "totalShots": "7",
+          "shotsOnTarget": "1",
+          "shotPct": "0.1",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "260",
+          "totalPasses": "291",
+          "passPct": "0.9",
+          "accurateCrosses": "1",
+          "totalCrosses": "10",
+          "crossPct": "0.0",
+          "totalLongBalls": "18",
+          "accurateLongBalls": "11",
+          "longballPct": "0.6",
+          "blockedShots": "3",
+          "effectiveTackles": "3",
+          "totalTackles": "5",
+          "tacklePct": "0.6",
+          "interceptions": "4",
+          "effectiveClearance": "5",
+          "totalClearance": "5"
+        },
+        "away": {
+          "foulsCommitted": "2",
+          "yellowCards": "1",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "1",
+          "saves": "0",
+          "possessionPct": "41.7",
+          "totalShots": "2",
+          "shotsOnTarget": "0",
+          "shotPct": "0.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "171",
+          "totalPasses": "213",
+          "passPct": "0.8",
+          "accurateCrosses": "2",
+          "totalCrosses": "4",
+          "crossPct": "0.5",
+          "totalLongBalls": "32",
+          "accurateLongBalls": "13",
+          "longballPct": "0.4",
+          "blockedShots": "1",
+          "effectiveTackles": "6",
+          "totalTackles": "11",
+          "tacklePct": "0.5",
+          "interceptions": "8",
+          "effectiveClearance": "19",
+          "totalClearance": "19"
+        }
+      },
+      "events": [
+        {
+          "kind": "Yellow Card",
+          "min": "6'",
+          "side": "away",
+          "player": "Amir Al Ammari"
+        },
+        {
+          "kind": "Goal",
+          "min": "14'",
+          "side": "home",
+          "player": "Goal! France 1, Iraq 0. Kylian Mbappé"
+        },
+        {
+          "kind": "Substitution",
+          "min": "26'",
+          "side": "away",
+          "player": "Substitution, Iraq. Ali Al Hamadi replaces Aymen Hussein because of an injury."
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Mike Maignan",
+            "short": "M. Maignan",
+            "num": "16",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "William Saliba",
+            "short": "W. Saliba",
+            "num": "17",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Dayot Upamecano",
+            "short": "D. Upamecano",
+            "num": "4",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Lucas Digne",
+            "short": "L. Digne",
+            "num": "3",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Jules Koundé",
+            "short": "J. Koundé",
+            "num": "5",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Michael Olise",
+            "short": "M. Olise",
+            "num": "11",
+            "pos": "AM",
+            "place": "10"
+          },
+          {
+            "name": "Adrien Rabiot",
+            "short": "A. Rabiot",
+            "num": "14",
+            "pos": "LM",
+            "place": "4"
+          },
+          {
+            "name": "Manu Koné",
+            "short": "M. Koné",
+            "num": "6",
+            "pos": "RM",
+            "place": "8"
+          },
+          {
+            "name": "Kylian Mbappé",
+            "short": "K. Mbappé",
+            "num": "10",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Bradley Barcola",
+            "short": "B. Barcola",
+            "num": "12",
+            "pos": "AM-L",
+            "place": "11"
+          },
+          {
+            "name": "Ousmane Dembélé",
+            "short": "O. Dembélé",
+            "num": "7",
+            "pos": "AM-R",
+            "place": "7"
+          }
+        ],
+        "away": [
+          {
+            "name": "Ahmed Basil",
+            "short": "A. Basil",
+            "num": "22",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Akam Hashim",
+            "short": "A. Hashim",
+            "num": "5",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Zaid Tahseen",
+            "short": "Z. Tahseen",
+            "num": "4",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Amir Al-Ammari",
+            "short": "A. Al-Ammari",
+            "num": "16",
+            "pos": "DM",
+            "place": "4"
+          },
+          {
+            "name": "Merchas Doski",
+            "short": "M. Doski",
+            "num": "23",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Hussein Ali",
+            "short": "H. Ali",
+            "num": "3",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Zidane Iqbal",
+            "short": "Z. Iqbal",
+            "num": "14",
+            "pos": "CM-L",
+            "place": "10"
+          },
+          {
+            "name": "Zaid Ismael",
+            "short": "Z. Ismael",
+            "num": "24",
+            "pos": "CM-R",
+            "place": "8"
+          },
+          {
+            "name": "Ibrahim Bayesh",
+            "short": "I. Bayesh",
+            "num": "8",
+            "pos": "LM",
+            "place": "11"
+          },
+          {
+            "name": "Ahmed Qasim",
+            "short": "A. Qasim",
+            "num": "11",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Aymen Hussein",
+            "short": "A. Hussein",
+            "num": "18",
+            "pos": "F",
+            "place": "9"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Warren Zaïre-Emery",
+            "short": "W. Zaïre-Emery",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Malo Gusto",
+            "short": "M. Gusto",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Maxence Lacroix",
+            "short": "M. Lacroix",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Rayan Cherki",
+            "short": "R. Cherki",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Désiré Doué",
+            "short": "D. Doué",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ibrahima Konaté",
+            "short": "I. Konaté",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jean-Philippe Mateta",
+            "short": "J. Mateta",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Brice Samba",
+            "short": "B. Samba",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "N'Golo Kanté",
+            "short": "N. Kanté",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Aurélien Tchouaméni",
+            "short": "A. Tchouaméni",
+            "num": "8",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Lucas Hernández",
+            "short": "L. Hernández",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Robin Risser",
+            "short": "R. Risser",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Marcus Thuram",
+            "short": "M. Thuram",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Maghnes Akliouche",
+            "short": "M. Akliouche",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Theo Hernández",
+            "short": "T. Hernández",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Kevin Yakob",
+            "short": "K. Yakob",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ali Al-Hamadi",
+            "short": "A. Al-Hamadi",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Marko Farji",
+            "short": "M. Farji",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Munaf Younus",
+            "short": "M. Younus",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ali Yousif",
+            "short": "A. Yousif",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jalal Hassan",
+            "short": "J. Hassan",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Rebin Sulaka",
+            "short": "R. Sulaka",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ahmed Maknazi",
+            "short": "A. Maknazi",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Youssef Amyn",
+            "short": "Y. Amyn",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Aimar Sher",
+            "short": "A. Sher",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mustafa Saadoon",
+            "short": "M. Saadoon",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ali Jasim",
+            "short": "A. Jasim",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mohanad Ali",
+            "short": "M. Ali",
+            "num": "10",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Frans Putros",
+            "short": "F. Putros",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Fahad Talib",
+            "short": "F. Talib",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-2-3-1",
+        "away": "4-1-4-1"
+      },
+      "commentary": [
+        {
+          "min": "45'",
+          "text": "Foul by Manu Koné (France).",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Ali Al Hamadi (Iraq) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "42'",
+          "text": "Foul by Adrien Rabiot (France).",
+          "goal": false
+        },
+        {
+          "min": "42'",
+          "text": "Ali Al Hamadi (Iraq) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "42'",
+          "text": "Foul by Lucas Digne (France).",
+          "goal": false
+        },
+        {
+          "min": "42'",
+          "text": "Ahmed Qasem (Iraq) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "41'",
+          "text": "Manu Koné (France) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "41'",
+          "text": "Foul by Zidane Iqbal (Iraq).",
+          "goal": false
+        },
+        {
+          "min": "40'",
+          "text": "Attempt missed. Kylian Mbappé (France) right footed shot from more than 35 yards is high and wide to the right.",
+          "goal": false
+        },
+        {
+          "min": "32'",
+          "text": "Attempt blocked. Kylian Mbappé (France) right footed shot from outside the box is blocked. Assisted by Ousmane Dembélé.",
+          "goal": false
+        },
+        {
+          "min": "30'",
+          "text": "Corner, Iraq. Conceded by Lucas Digne.",
+          "goal": false
+        },
+        {
+          "min": "28'",
+          "text": "VAR Decision: Other Decision Cancelled.",
+          "goal": false
+        },
+        {
+          "min": "27'",
+          "text": "Attempt missed. Ali Al Hamadi (Iraq) header from the right side of the six yard box misses to the right. Assisted by Merchas Doski with a cross.",
+          "goal": false
+        },
+        {
+          "min": "27'",
+          "text": "Attempt blocked. Ali Al Hamadi (Iraq) left footed shot from outside the box is blocked. Assisted by Ahmed Qasem.",
+          "goal": false
+        },
+        {
+          "min": "26'",
+          "text": "Substitution, Iraq. Ali Al Hamadi replaces Aymen Hussein because of an injury.",
+          "goal": false
+        },
+        {
+          "min": "25'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "23'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "18'",
+          "text": "Foul by Adrien Rabiot (France).",
+          "goal": false
+        },
+        {
+          "min": "18'",
+          "text": "Merchas Doski (Iraq) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "14'",
+          "text": "Goal! France 1, Iraq 0. Kylian Mbappé (France) left footed shot from outside the box to the top left corner. Assisted by Michael Olise.",
+          "goal": true
+        },
+        {
+          "min": "14'",
+          "text": "Attempt blocked. Michael Olise (France) left footed shot from outside the box is blocked. Assisted by Kylian Mbappé.",
+          "goal": false
+        },
+        {
+          "min": "8'",
+          "text": "Attempt missed. Kylian Mbappé (France) right footed shot from the right side of the box misses to the right.",
+          "goal": false
+        },
+        {
+          "min": "8'",
+          "text": "Attempt blocked. Michael Olise (France) left footed shot from outside the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "7'",
+          "text": "Corner, France. Conceded by Zaid Tahseen.",
+          "goal": false
+        },
+        {
+          "min": "6'",
+          "text": "Amir Al Ammari (Iraq) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "6'",
+          "text": "Kylian Mbappé (France) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "6'",
+          "text": "Foul by Amir Al Ammari (Iraq).",
+          "goal": false
+        },
+        {
+          "min": "3'",
+          "text": "Foul by Manu Koné (France).",
+          "goal": false
+        },
+        {
+          "min": "3'",
+          "text": "Merchas Doski (Iraq) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "1'",
+          "text": "Attempt missed. Manu Koné (France) left footed shot from outside the box misses to the right.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "First Half begins.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "Lineups are announced and players are warming up.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "K. Mbappé",
+            "num": "10",
+            "pos": "F",
+            "value": "4"
+          },
+          "away": {
+            "name": "A. Al-Hamadi",
+            "num": "9",
+            "pos": "F",
+            "value": "2"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "A. Rabiot",
+            "num": "14",
+            "pos": "M",
+            "value": "38"
+          },
+          "away": {
+            "name": "Z. Iqbal",
+            "num": "14",
+            "pos": "M",
+            "value": "27"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "W. Saliba",
+            "num": "17",
+            "pos": "D",
+            "value": "5"
+          },
+          "away": {
+            "name": "A. Hashim",
+            "num": "5",
+            "pos": "D",
+            "value": "11"
+          }
+        }
+      ],
+      "highlight": null,
+      "final": false,
       "dv": 5
     }
   }

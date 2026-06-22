@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-22T21:49:07.297Z",
+  "lastUpdated": "2026-06-22T23:08:49.849Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -597,7 +597,7 @@
       "venue": "Lincoln Financial Field",
       "clock": 2700,
       "displayClock": "45'+3'",
-      "detail": "45'+3'",
+      "detail": "Delay",
       "period": 1
     },
     {
@@ -609,9 +609,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 135,
-        "away": 210,
-        "draw": 240,
+        "home": 130,
+        "away": 220,
+        "draw": 245,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -689,9 +689,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 550,
-        "away": -195,
-        "draw": 330,
+        "home": 600,
+        "away": -205,
+        "draw": 340,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -729,7 +729,7 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -230,
+        "home": -235,
         "away": 600,
         "draw": 400,
         "total": 2.5,

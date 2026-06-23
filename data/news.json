@@ -1,13 +1,27 @@
 {
-  "lastUpdated": "2026-06-23T11:33:58.201Z",
+  "lastUpdated": "2026-06-23T14:03:00.909Z",
   "source": "ESPN",
   "articles": [
     {
-      "headline": "World Cup Daily: Messi's 100-year-old super fan sees him make history; Portugal, England in action",
+      "headline": "World Cup 2026 - updates, news as England prepare to face Ghana",
+      "description": "England will face Ghana on Tuesday in the World Cup after Senegal were left on the brink of elimination with Monday's loss to Norway.",
+      "published": "2026-06-23T13:44:00Z",
+      "link": "https://www.espn.com/espn/story/_/id/49151147/world-cup-2026-updates-news-england-prepare-face-ghana",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678132_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "World Cup Daily: Messi's 100-year-old superfan sees him make history; Portugal, England in action",
       "description": "It's another day of 2026 FIFA World Cup action, and we have some big teams playing today, including Portugal and England.",
-      "published": "2026-06-23T11:08:40Z",
+      "published": "2026-06-23T13:47:34Z",
       "link": "https://www.espn.com/soccer/story/_/id/49150583/messi-100-year-old-super-fan-sees-make-history-portugal-england-action",
       "image": "https://a.espncdn.com/photo/2026/0623/r1678084_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Philipp Lahm: Gianni Infantino has 'sold out' the World Cup",
+      "description": "World Cup winner Philipp Lahm has launched a scathing criticism of FIFA president Gianni Infantino, accusing him of having \"sold out\" the World Cup.",
+      "published": "2026-06-23T11:50:19Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49152273/philipp-lahm-gianni-infantino-sold-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678097_1296x729_16-9.jpg"
     },
     {
       "headline": "Kylian Mbappé not thinking about World Cup Golden Boot race with Lionel Messi",
@@ -29,20 +43,6 @@
       "published": "2026-06-23T09:43:43Z",
       "link": "https://www.espn.com/soccer/story/_/id/49151640/cristiano-ronaldo-neymar-dont-need-prove-anything-anyone-joao-cancelo",
       "image": "https://a.espncdn.com/photo/2026/0617/r1674893_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "World Cup 2026 - updates, news as Erling Haaland brace leaves Senegal on the brink",
-      "description": "England will face Ghana on Tuesday in the World Cup after Senegal were left on the brink of elimination with Monday's loss to Norway.",
-      "published": "2026-06-23T09:23:50Z",
-      "link": "https://www.espn.com/espn/story/_/id/49151147/world-cup-2026-updates-news-erling-haaland-brace-leaves-senegal-brink",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678075_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Luis Suárez: 'It's a pleasure to watch Lionel Messi play' after World Cup goals",
-      "description": "Luis Suárez is enjoying watching his friend and Inter Miami teammate Lionel Messi have a scintillating start at the World Cup.",
-      "published": "2026-06-23T09:40:39Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49151585/luis-suarez-pleasure-watch-lionel-messi-play-world-cup-goals",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678081_1296x729_16-9.jpg"
     }
   ]
 }

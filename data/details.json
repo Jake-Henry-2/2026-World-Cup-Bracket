@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T22:04:47.717Z",
+  "lastUpdated": "2026-06-23T23:19:28.592Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -40704,6 +40704,574 @@
       ],
       "highlight": null,
       "final": true,
+      "dv": 5
+    },
+    "760460": {
+      "venue": "BMO Field",
+      "stats": {
+        "home": {
+          "foulsCommitted": "2",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "0",
+          "saves": "0",
+          "possessionPct": "48.9",
+          "totalShots": "1",
+          "shotsOnTarget": "0",
+          "shotPct": "0.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "57",
+          "totalPasses": "66",
+          "passPct": "0.9",
+          "accurateCrosses": "0",
+          "totalCrosses": "2",
+          "crossPct": "0.0",
+          "totalLongBalls": "11",
+          "accurateLongBalls": "5",
+          "longballPct": "0.5",
+          "blockedShots": "1",
+          "effectiveTackles": "0",
+          "totalTackles": "2",
+          "tacklePct": "0.0",
+          "interceptions": "1",
+          "effectiveClearance": "1",
+          "totalClearance": "1"
+        },
+        "away": {
+          "foulsCommitted": "3",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "0",
+          "saves": "0",
+          "possessionPct": "51.1",
+          "totalShots": "1",
+          "shotsOnTarget": "0",
+          "shotPct": "0.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "63",
+          "totalPasses": "69",
+          "passPct": "0.9",
+          "accurateCrosses": "1",
+          "totalCrosses": "2",
+          "crossPct": "0.5",
+          "totalLongBalls": "3",
+          "accurateLongBalls": "2",
+          "longballPct": "0.7",
+          "blockedShots": "0",
+          "effectiveTackles": "0",
+          "totalTackles": "3",
+          "tacklePct": "0.0",
+          "interceptions": "0",
+          "effectiveClearance": "4",
+          "totalClearance": "4"
+        }
+      },
+      "events": [],
+      "lineups": {
+        "home": [
+          {
+            "name": "Orlando Mosquera",
+            "short": "O. Mosquera",
+            "num": "22",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "José Córdoba",
+            "short": "J. Córdoba",
+            "num": "3",
+            "pos": "CD",
+            "place": "5"
+          },
+          {
+            "name": "Andrés Andrade",
+            "short": "A. Andrade",
+            "num": "16",
+            "pos": "CD-L",
+            "place": "4"
+          },
+          {
+            "name": "Jiovany Ramos",
+            "short": "J. Ramos",
+            "num": "13",
+            "pos": "CD-R",
+            "place": "6"
+          },
+          {
+            "name": "César Blackman",
+            "short": "C. Blackman",
+            "num": "2",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Amir Murillo",
+            "short": "A. Murillo",
+            "num": "23",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Édgar Yoel Bárcenas",
+            "short": "É. Bárcenas",
+            "num": "11",
+            "pos": "CM-L",
+            "place": "10"
+          },
+          {
+            "name": "Carlos Harvey",
+            "short": "C. Harvey",
+            "num": "14",
+            "pos": "CM-R",
+            "place": "8"
+          },
+          {
+            "name": "José Luis Rodríguez",
+            "short": "J. Rodríguez",
+            "num": "7",
+            "pos": "LM",
+            "place": "11"
+          },
+          {
+            "name": "Cristian Martínez",
+            "short": "C. Martínez",
+            "num": "6",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "José Fajardo",
+            "short": "J. Fajardo",
+            "num": "17",
+            "pos": "F",
+            "place": "9"
+          }
+        ],
+        "away": [
+          {
+            "name": "Dominik Livakovic",
+            "short": "D. Livakovic",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Marin Pongracic",
+            "short": "M. Pongracic",
+            "num": "3",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Josip Sutalo",
+            "short": "J. Sutalo",
+            "num": "6",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Josko Gvardiol",
+            "short": "J. Gvardiol",
+            "num": "4",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Josip Stanisic",
+            "short": "J. Stanisic",
+            "num": "2",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Martin Baturina",
+            "short": "M. Baturina",
+            "num": "16",
+            "pos": "AM",
+            "place": "10"
+          },
+          {
+            "name": "Mateo Kovacic",
+            "short": "M. Kovacic",
+            "num": "8",
+            "pos": "LM",
+            "place": "4"
+          },
+          {
+            "name": "Luka Modric",
+            "short": "L. Modric",
+            "num": "10",
+            "pos": "RM",
+            "place": "8"
+          },
+          {
+            "name": "Petar Musa",
+            "short": "P. Musa",
+            "num": "26",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Ivan Perisic",
+            "short": "I. Perisic",
+            "num": "14",
+            "pos": "AM-L",
+            "place": "11"
+          },
+          {
+            "name": "Marco Pasalic",
+            "short": "M. Pasalic",
+            "num": "24",
+            "pos": "AM-R",
+            "place": "7"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "César Yanis",
+            "short": "C. Yanis",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Adalberto Carrasquilla",
+            "short": "A. Carrasquilla",
+            "num": "8",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Fidel Escobar",
+            "short": "F. Escobar",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Aníbal Godoy",
+            "short": "A. Godoy",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Roderick Miller",
+            "short": "R. Miller",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Alberto Quintero",
+            "short": "A. Quintero",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "César Samudio",
+            "short": "C. Samudio",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ismael Díaz",
+            "short": "I. Díaz",
+            "num": "10",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Éric Davis",
+            "short": "É. Davis",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Edgardo Fariña",
+            "short": "E. Fariña",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Luis Mejía",
+            "short": "L. Mejía",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Tomás Rodríguez",
+            "short": "T. Rodríguez",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jorge Gutiérrez",
+            "short": "J. Gutiérrez",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Cecilio Waterman",
+            "short": "C. Waterman",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Azarias Londoño",
+            "short": "A. Londoño",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Ante Budimir",
+            "short": "A. Budimir",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Petar Sucic",
+            "short": "P. Sucic",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nikola Vlasic",
+            "short": "N. Vlasic",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Luka Vuskovic",
+            "short": "L. Vuskovic",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nikola Moro",
+            "short": "N. Moro",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Andrej Kramaric",
+            "short": "A. Kramaric",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Martin Erlic",
+            "short": "M. Erlic",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Igor Matanovic",
+            "short": "I. Matanovic",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Dominik Kotarski",
+            "short": "D. Kotarski",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mario Pasalic",
+            "short": "M. Pasalic",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Duje Caleta-Car",
+            "short": "D. Caleta-Car",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kristijan Jakic",
+            "short": "K. Jakic",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Toni Fruk",
+            "short": "T. Fruk",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Luka Sucic",
+            "short": "L. Sucic",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ivor Pandur",
+            "short": "I. Pandur",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "5-4-1",
+        "away": "4-2-3-1"
+      },
+      "commentary": [
+        {
+          "min": "13'",
+          "text": "Foul by Luka Modric (Croatia).",
+          "goal": false
+        },
+        {
+          "min": "13'",
+          "text": "José Luis Rodríguez (Panama) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "8'",
+          "text": "Foul by Mateo Kovacic (Croatia).",
+          "goal": false
+        },
+        {
+          "min": "8'",
+          "text": "Carlos Harvey (Panama) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "6'",
+          "text": "Martin Baturina (Croatia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "6'",
+          "text": "Foul by Carlos Harvey (Panama).",
+          "goal": false
+        },
+        {
+          "min": "5'",
+          "text": "Martin Baturina (Croatia) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "5'",
+          "text": "Foul by Jiovany Ramos (Panama).",
+          "goal": false
+        },
+        {
+          "min": "4'",
+          "text": "Attempt blocked. Amir Murillo (Panama) right footed shot from the left side of the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "3'",
+          "text": "Foul by Josko Gvardiol (Croatia).",
+          "goal": false
+        },
+        {
+          "min": "3'",
+          "text": "Cristian Martínez (Panama) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "2'",
+          "text": "Attempt missed. Luka Modric (Croatia) header from the centre of the box is high and wide to the right. Assisted by Marco Pasalic with a cross.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "First Half begins.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "Lineups are announced and players are warming up.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "A. Murillo",
+            "num": "23",
+            "pos": "D",
+            "value": "1"
+          },
+          "away": {
+            "name": "L. Modric",
+            "num": "10",
+            "pos": "M",
+            "value": "1"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "A. Andrade",
+            "num": "16",
+            "pos": "D",
+            "value": "10"
+          },
+          "away": {
+            "name": "L. Modric",
+            "num": "10",
+            "pos": "M",
+            "value": "12"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "J. Ramos",
+            "num": "13",
+            "pos": "D",
+            "value": "1"
+          },
+          "away": {
+            "name": "J. Sutalo",
+            "num": "6",
+            "pos": "D",
+            "value": "2"
+          }
+        }
+      ],
+      "highlight": null,
+      "final": false,
       "dv": 5
     },
     "760461": {

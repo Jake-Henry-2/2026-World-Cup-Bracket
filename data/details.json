@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T20:39:32.409Z",
+  "lastUpdated": "2026-06-23T22:04:47.717Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -39836,67 +39836,134 @@
       "venue": "Gillette Stadium",
       "stats": {
         "home": {
-          "foulsCommitted": "7",
-          "yellowCards": "0",
+          "foulsCommitted": "14",
+          "yellowCards": "1",
           "redCards": "0",
-          "offsides": "0",
-          "wonCorners": "1",
+          "offsides": "2",
+          "wonCorners": "9",
           "saves": "0",
-          "possessionPct": "84.2",
-          "totalShots": "5",
-          "shotsOnTarget": "0",
-          "shotPct": "0.0",
+          "possessionPct": "78.8",
+          "totalShots": "19",
+          "shotsOnTarget": "3",
+          "shotPct": "0.2",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "282",
-          "totalPasses": "294",
-          "passPct": "1.0",
-          "accurateCrosses": "1",
-          "totalCrosses": "10",
-          "crossPct": "0.1",
-          "totalLongBalls": "12",
-          "accurateLongBalls": "10",
-          "longballPct": "0.8",
-          "blockedShots": "3",
-          "effectiveTackles": "1",
-          "totalTackles": "1",
-          "tacklePct": "1.0",
+          "accuratePasses": "586",
+          "totalPasses": "633",
+          "passPct": "0.9",
+          "accurateCrosses": "7",
+          "totalCrosses": "30",
+          "crossPct": "0.2",
+          "totalLongBalls": "27",
+          "accurateLongBalls": "14",
+          "longballPct": "0.5",
+          "blockedShots": "6",
+          "effectiveTackles": "7",
+          "totalTackles": "14",
+          "tacklePct": "0.5",
           "interceptions": "1",
-          "effectiveClearance": "1",
-          "totalClearance": "1"
+          "effectiveClearance": "6",
+          "totalClearance": "6"
         },
         "away": {
-          "foulsCommitted": "8",
-          "yellowCards": "0",
+          "foulsCommitted": "24",
+          "yellowCards": "1",
           "redCards": "0",
-          "offsides": "1",
-          "wonCorners": "0",
-          "saves": "0",
-          "possessionPct": "15.8",
-          "totalShots": "0",
-          "shotsOnTarget": "0",
-          "shotPct": "0.0",
+          "offsides": "2",
+          "wonCorners": "2",
+          "saves": "3",
+          "possessionPct": "21.2",
+          "totalShots": "2",
+          "shotsOnTarget": "1",
+          "shotPct": "0.5",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "42",
-          "totalPasses": "57",
+          "accuratePasses": "128",
+          "totalPasses": "173",
           "passPct": "0.7",
           "accurateCrosses": "0",
-          "totalCrosses": "0",
+          "totalCrosses": "5",
           "crossPct": "0.0",
-          "totalLongBalls": "18",
-          "accurateLongBalls": "10",
-          "longballPct": "0.6",
-          "blockedShots": "0",
-          "effectiveTackles": "9",
-          "totalTackles": "10",
-          "tacklePct": "0.9",
-          "interceptions": "5",
-          "effectiveClearance": "15",
-          "totalClearance": "15"
+          "totalLongBalls": "57",
+          "accurateLongBalls": "24",
+          "longballPct": "0.4",
+          "blockedShots": "1",
+          "effectiveTackles": "17",
+          "totalTackles": "22",
+          "tacklePct": "0.8",
+          "interceptions": "8",
+          "effectiveClearance": "39",
+          "totalClearance": "39"
         }
       },
-      "events": [],
+      "events": [
+        {
+          "kind": "Yellow Card",
+          "min": "41'",
+          "side": "home",
+          "player": "Declan Rice"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "60'",
+          "side": "away",
+          "player": "Iñaki Williams"
+        },
+        {
+          "kind": "Substitution",
+          "min": "65'",
+          "side": "home",
+          "player": "Substitution, England. Bukayo Saka replaces Anthony Gordon."
+        },
+        {
+          "kind": "Substitution",
+          "min": "66'",
+          "side": "home",
+          "player": "Substitution, England. Nico O'Reilly replaces Djed Spence."
+        },
+        {
+          "kind": "Substitution",
+          "min": "66'",
+          "side": "away",
+          "player": "Substitution, Ghana. Abdul Fatawu replaces Iñaki Williams."
+        },
+        {
+          "kind": "Substitution",
+          "min": "67'",
+          "side": "away",
+          "player": "Substitution, Ghana. Prince Adu replaces Jordan Ayew."
+        },
+        {
+          "kind": "Substitution",
+          "min": "73'",
+          "side": "home",
+          "player": "Substitution, England. Morgan Rogers replaces Jude Bellingham."
+        },
+        {
+          "kind": "Substitution",
+          "min": "74'",
+          "side": "home",
+          "player": "Substitution, England. Eberechi Eze replaces Elliot Anderson."
+        },
+        {
+          "kind": "Substitution",
+          "min": "83'",
+          "side": "home",
+          "player": "Substitution, England. Marcus Rashford replaces Noni Madueke."
+        },
+        {
+          "kind": "Substitution",
+          "min": "87'",
+          "side": "away",
+          "player": "Substitution, Ghana. Kojo Peprah Oppong replaces Marvin Senaya."
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'+5'",
+          "side": "away",
+          "player": "Substitution, Ghana. Abdul Rahman Baba replaces Prince Adu."
+        }
+      ],
       "lineups": {
         "home": [
           {
@@ -40279,218 +40346,303 @@
       },
       "commentary": [
         {
-          "min": "39'",
-          "text": "Foul by Elliot Anderson (England).",
+          "min": "",
+          "text": "Match ends, England 0, Ghana 0.",
           "goal": false
         },
         {
-          "min": "39'",
-          "text": "Jordan Ayew (Ghana) wins a free kick in the defensive half.",
+          "min": "97'",
+          "text": "Second Half ends, England 0, Ghana 0.",
           "goal": false
         },
         {
-          "min": "38'",
-          "text": "Handball by Marc Guéhi (England).",
+          "min": "90'+6'",
+          "text": "Foul by Morgan Rogers (England).",
           "goal": false
         },
         {
-          "min": "37'",
-          "text": "Attempt missed. Declan Rice (England) header from the centre of the box is just a bit too high. Assisted by Noni Madueke with a cross.",
+          "min": "90'+6'",
+          "text": "Thomas Partey (Ghana) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "34'",
-          "text": "Foul by Elliot Anderson (England).",
+          "min": "90'+5'",
+          "text": "Substitution, Ghana. Abdul Rahman Baba replaces Prince Adu.",
           "goal": false
         },
         {
-          "min": "34'",
-          "text": "Gideon Mensah (Ghana) wins a free kick in the defensive half.",
+          "min": "90'+5'",
+          "text": "Corner, England. Conceded by Thomas Partey.",
           "goal": false
         },
         {
-          "min": "33'",
-          "text": "Attempt blocked. Jude Bellingham (England) right footed shot from the right side of the box is blocked.",
+          "min": "90'+3'",
+          "text": "Corner, England. Conceded by Kojo Peprah Oppong.",
           "goal": false
         },
         {
-          "min": "32'",
-          "text": "Marc Guéhi (England) wins a free kick in the defensive half.",
+          "min": "90'+3'",
+          "text": "Attempt missed. Marc Guéhi (England) header from the centre of the box is close, but misses to the left. Assisted by Eberechi Eze following a corner.",
           "goal": false
         },
         {
-          "min": "32'",
-          "text": "Foul by Jerome Opoku (Ghana).",
+          "min": "90'+3'",
+          "text": "Attempt missed. Nico O'Reilly (England) header from the right side of the six yard box misses to the right. Assisted by Declan Rice with a cross following a corner.",
           "goal": false
         },
         {
-          "min": "31'",
-          "text": "Foul by Ezri Konsa (England).",
+          "min": "90'+3'",
+          "text": "Corner, England. Conceded by Kojo Peprah Oppong.",
           "goal": false
         },
         {
-          "min": "31'",
-          "text": "Jordan Ayew (Ghana) wins a free kick on the left wing.",
+          "min": "90'+1'",
+          "text": "Corner, England. Conceded by Kojo Peprah Oppong.",
           "goal": false
         },
         {
-          "min": "31'",
-          "text": "Foul by Anthony Gordon (England).",
+          "min": "90'",
+          "text": "Fourth official has announced 6 minutes of added time.",
           "goal": false
         },
         {
-          "min": "31'",
-          "text": "Marvin Senaya (Ghana) wins a free kick in the defensive half.",
+          "min": "90'",
+          "text": "Ezri Konsa (England) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "29'",
-          "text": "Delay over. They are ready to continue.",
-          "goal": false
-        },
-        {
-          "min": "26'",
-          "text": "Delay in match for a drinks break.",
-          "goal": false
-        },
-        {
-          "min": "26'",
-          "text": "Elliot Anderson (England) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "26'",
+          "min": "90'",
           "text": "Foul by Antoine Semenyo (Ghana).",
           "goal": false
         },
         {
-          "min": "24'",
-          "text": "Marc Guéhi (England) wins a free kick in the defensive half.",
+          "min": "89'",
+          "text": "Foul by Marcus Rashford (England).",
           "goal": false
         },
         {
-          "min": "24'",
+          "min": "89'",
+          "text": "Caleb Yirenkyi (Ghana) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Substitution, Ghana. Kojo Peprah Oppong replaces Marvin Senaya.",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Attempt missed. Harry Kane (England) left footed shot from the centre of the box is too high.",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Nico O'Reilly (England) hits the bar with a header from the centre of the box. Assisted by Reece James with a cross.",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Attempt saved. Bukayo Saka (England) left footed shot from outside the box is saved in the bottom left corner by Benjamin Asare (Ghana). Assisted by Declan Rice with a headed pass.",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Foul by Marcus Rashford (England).",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Abdul Fatawu (Ghana) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Eberechi Eze (England) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "84'",
           "text": "Foul by Caleb Yirenkyi (Ghana).",
           "goal": false
         },
         {
-          "min": "23'",
-          "text": "Delay over. They are ready to continue.",
+          "min": "83'",
+          "text": "Substitution, England. Marcus Rashford replaces Noni Madueke.",
           "goal": false
         },
         {
-          "min": "20'",
-          "text": "Delay in match because of an injury Reece James (England).",
+          "min": "83'",
+          "text": "Foul by Marc Guéhi (England).",
           "goal": false
         },
         {
-          "min": "20'",
-          "text": "Delay in match because of an injury Jordan Ayew (Ghana).",
+          "min": "83'",
+          "text": "Caleb Yirenkyi (Ghana) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "20'",
-          "text": "Ezri Konsa (England) wins a free kick in the attacking half.",
+          "min": "82'",
+          "text": "Bukayo Saka (England) wins a free kick on the right wing.",
           "goal": false
         },
         {
-          "min": "20'",
-          "text": "Foul by Antoine Semenyo (Ghana).",
+          "min": "82'",
+          "text": "Foul by Gideon Mensah (Ghana).",
           "goal": false
         },
         {
-          "min": "18'",
-          "text": "Marc Guéhi (England) wins a free kick in the defensive half.",
+          "min": "81'",
+          "text": "Offside, England. Bukayo Saka is caught offside.",
           "goal": false
         },
         {
-          "min": "18'",
-          "text": "Foul by Iñaki Williams (Ghana).",
+          "min": "79'",
+          "text": "Offside, Ghana. Antoine Semenyo is caught offside.",
           "goal": false
         },
         {
-          "min": "18'",
-          "text": "Foul by Ezri Konsa (England).",
+          "min": "79'",
+          "text": "Attempt blocked. Prince Adu (Ghana) left footed shot from the centre of the box is blocked.",
           "goal": false
         },
         {
-          "min": "18'",
-          "text": "Jordan Ayew (Ghana) wins a free kick in the defensive half.",
+          "min": "78'",
+          "text": "Bukayo Saka (England) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "16'",
-          "text": "Corner, England. Conceded by Jonas Adjetey.",
+          "min": "78'",
+          "text": "Foul by Gideon Mensah (Ghana).",
           "goal": false
         },
         {
-          "min": "16'",
-          "text": "Attempt blocked. Declan Rice (England) left footed shot from a difficult angle on the left is blocked.",
+          "min": "77'",
+          "text": "Foul by Harry Kane (England).",
           "goal": false
         },
         {
-          "min": "15'",
-          "text": "Attempt blocked. Elliot Anderson (England) right footed shot from the centre of the box is blocked. Assisted by Anthony Gordon.",
+          "min": "77'",
+          "text": "Marvin Senaya (Ghana) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "14'",
-          "text": "Harry Kane (England) wins a free kick in the attacking half.",
+          "min": "75'",
+          "text": "Corner, England. Conceded by Jerome Opoku.",
           "goal": false
         },
         {
-          "min": "14'",
-          "text": "Foul by Jonas Adjetey (Ghana).",
+          "min": "74'",
+          "text": "Bukayo Saka (England) wins a free kick on the right wing.",
           "goal": false
         },
         {
-          "min": "14'",
-          "text": "Attempt missed. Declan Rice (England) right footed shot from outside the box is just a bit too high. Assisted by Reece James from a direct free kick.",
-          "goal": false
-        },
-        {
-          "min": "12'",
-          "text": "Anthony Gordon (England) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "12'",
-          "text": "Foul by Marvin Senaya (Ghana).",
-          "goal": false
-        },
-        {
-          "min": "8'",
-          "text": "Foul by Jude Bellingham (England).",
-          "goal": false
-        },
-        {
-          "min": "8'",
-          "text": "Jerome Opoku (Ghana) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "6'",
-          "text": "Noni Madueke (England) wins a free kick on the right wing.",
-          "goal": false
-        },
-        {
-          "min": "6'",
+          "min": "74'",
           "text": "Foul by Kwasi Sibo (Ghana).",
           "goal": false
         },
         {
-          "min": "5'",
-          "text": "Offside, Ghana. Iñaki Williams is caught offside.",
+          "min": "74'",
+          "text": "Substitution, England. Eberechi Eze replaces Elliot Anderson.",
           "goal": false
         },
         {
-          "min": "",
-          "text": "First Half begins.",
+          "min": "73'",
+          "text": "Substitution, England. Morgan Rogers replaces Jude Bellingham.",
           "goal": false
         },
         {
-          "min": "",
-          "text": "Lineups are announced and players are warming up.",
+          "min": "73'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "70'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "70'",
+          "text": "Attempt missed. Bukayo Saka (England) header from the centre of the box is too high. Assisted by Noni Madueke with a cross.",
+          "goal": false
+        },
+        {
+          "min": "69'",
+          "text": "Attempt saved. Harry Kane (England) left footed shot from outside the box is saved in the bottom right corner by Benjamin Asare (Ghana).",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Jordan Pickford (England) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Foul by Prince Adu (Ghana).",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Substitution, Ghana. Prince Adu replaces Jordan Ayew.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Substitution, Ghana. Abdul Fatawu replaces Iñaki Williams.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Substitution, England. Nico O'Reilly replaces Djed Spence.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Substitution, England. Bukayo Saka replaces Anthony Gordon.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Delay in match because of an injury Caleb Yirenkyi (Ghana).",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Marc Guéhi (England) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Foul by Jordan Ayew (Ghana).",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Attempt missed. Noni Madueke (England) left footed shot from outside the box is high and wide to the left. Assisted by Anthony Gordon following a set piece situation.",
+          "goal": false
+        },
+        {
+          "min": "63'",
+          "text": "Attempt missed. Elliot Anderson (England) right footed shot from outside the box misses to the left following a set piece situation.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Harry Kane (England) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Foul by Thomas Partey (Ghana).",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Attempt missed. Elliot Anderson (England) header from the centre of the box is too high. Assisted by Declan Rice with a cross following a corner.",
           "goal": false
         }
       ],
@@ -40498,10 +40650,16 @@
         {
           "label": "Total Shots",
           "home": {
-            "name": "D. Rice",
-            "num": "4",
+            "name": "E. Anderson",
+            "num": "8",
             "pos": "M",
-            "value": "3"
+            "value": "4"
+          },
+          "away": {
+            "name": "M. Senaya",
+            "num": "26",
+            "pos": "D",
+            "value": "1"
           }
         },
         {
@@ -40510,33 +40668,42 @@
             "name": "M. Guéhi",
             "num": "6",
             "pos": "D",
-            "value": "59"
+            "value": "126"
           },
           "away": {
             "name": "T. Partey",
             "num": "5",
             "pos": "M",
-            "value": "7"
+            "value": "23"
           }
         },
         {
           "label": "Defensive Interventions",
           "home": {
-            "name": "J. Pickford",
-            "num": "1",
-            "pos": "G",
-            "value": "2"
-          },
-          "away": {
-            "name": "M. Senaya",
-            "num": "26",
+            "name": "R. James",
+            "num": "24",
             "pos": "D",
             "value": "8"
+          },
+          "away": {
+            "name": "G. Mensah",
+            "num": "14",
+            "pos": "D",
+            "value": "18"
+          }
+        },
+        {
+          "label": "Saves",
+          "away": {
+            "name": "B. Asare",
+            "num": "16",
+            "pos": "G",
+            "value": "3"
           }
         }
       ],
       "highlight": null,
-      "final": false,
+      "final": true,
       "dv": 5
     },
     "760461": {

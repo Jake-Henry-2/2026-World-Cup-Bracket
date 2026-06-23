@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T20:39:32.336Z",
+  "lastUpdated": "2026-06-23T22:04:47.566Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -640,21 +640,11 @@
       "awayScore": 0,
       "homeWinner": false,
       "awayWinner": false,
-      "odds": {
-        "home": -550,
-        "away": 1500,
-        "draw": 650,
-        "total": 2.5,
-        "book": "DraftKings"
-      },
-      "status": "live",
+      "odds": null,
+      "status": "finished",
       "id": "760458",
       "date": "2026-06-23T20:00Z",
-      "venue": "Gillette Stadium",
-      "clock": 2340,
-      "displayClock": "39'",
-      "detail": "39'",
-      "period": 1
+      "venue": "Gillette Stadium"
     },
     {
       "stage": "group",
@@ -1145,9 +1135,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 290,
+        "home": 300,
         "away": 190,
-        "draw": 125,
+        "draw": 120,
         "total": 1.5,
         "book": "DraftKings"
       },

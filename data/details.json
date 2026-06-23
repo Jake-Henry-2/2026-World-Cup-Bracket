@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T04:36:47.094Z",
+  "lastUpdated": "2026-06-23T08:19:10.979Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -37119,64 +37119,64 @@
       "venue": "Levi's Stadium",
       "stats": {
         "home": {
-          "foulsCommitted": "7",
+          "foulsCommitted": "11",
           "yellowCards": "1",
           "redCards": "0",
           "offsides": "1",
           "wonCorners": "1",
-          "saves": "5",
-          "possessionPct": "25.7",
+          "saves": "6",
+          "possessionPct": "27.9",
           "totalShots": "8",
           "shotsOnTarget": "4",
           "shotPct": "0.5",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "140",
-          "totalPasses": "190",
+          "accuratePasses": "181",
+          "totalPasses": "251",
           "passPct": "0.7",
           "accurateCrosses": "2",
-          "totalCrosses": "4",
-          "crossPct": "0.5",
-          "totalLongBalls": "40",
-          "accurateLongBalls": "19",
-          "longballPct": "0.5",
+          "totalCrosses": "5",
+          "crossPct": "0.4",
+          "totalLongBalls": "53",
+          "accurateLongBalls": "23",
+          "longballPct": "0.4",
           "blockedShots": "0",
-          "effectiveTackles": "9",
-          "totalTackles": "20",
-          "tacklePct": "0.5",
-          "interceptions": "2",
-          "effectiveClearance": "29",
-          "totalClearance": "29"
+          "effectiveTackles": "17",
+          "totalTackles": "30",
+          "tacklePct": "0.6",
+          "interceptions": "3",
+          "effectiveClearance": "36",
+          "totalClearance": "36"
         },
         "away": {
           "foulsCommitted": "6",
           "yellowCards": "1",
           "redCards": "0",
           "offsides": "0",
-          "wonCorners": "6",
+          "wonCorners": "10",
           "saves": "3",
-          "possessionPct": "74.3",
-          "totalShots": "12",
-          "shotsOnTarget": "6",
+          "possessionPct": "72.1",
+          "totalShots": "17",
+          "shotsOnTarget": "8",
           "shotPct": "0.5",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "487",
-          "totalPasses": "547",
+          "accuratePasses": "561",
+          "totalPasses": "641",
           "passPct": "0.9",
-          "accurateCrosses": "3",
-          "totalCrosses": "17",
+          "accurateCrosses": "5",
+          "totalCrosses": "21",
           "crossPct": "0.2",
-          "totalLongBalls": "31",
-          "accurateLongBalls": "16",
-          "longballPct": "0.5",
-          "blockedShots": "3",
-          "effectiveTackles": "16",
-          "totalTackles": "22",
+          "totalLongBalls": "44",
+          "accurateLongBalls": "19",
+          "longballPct": "0.4",
+          "blockedShots": "5",
+          "effectiveTackles": "18",
+          "totalTackles": "25",
           "tacklePct": "0.7",
-          "interceptions": "9",
-          "effectiveClearance": "9",
-          "totalClearance": "9"
+          "interceptions": "11",
+          "effectiveClearance": "15",
+          "totalClearance": "15"
         }
       },
       "events": [
@@ -37215,6 +37215,60 @@
           "min": "69'",
           "side": "away",
           "player": "Goal! Jordan 1, Algeria 1. Nadhir Benbouali"
+        },
+        {
+          "kind": "Substitution",
+          "min": "76'",
+          "side": "away",
+          "player": "Substitution, Algeria. Anis Hadj Moussa replaces Riyad Mahrez."
+        },
+        {
+          "kind": "Substitution",
+          "min": "76'",
+          "side": "home",
+          "player": "Substitution, Jordan. Odeh Fakhoury replaces Mahmoud Al Mardi."
+        },
+        {
+          "kind": "Goal - Volley",
+          "min": "82'",
+          "side": "away",
+          "player": "Goal! Jordan 1, Algeria 2. Amine Gouiri"
+        },
+        {
+          "kind": "Substitution",
+          "min": "84'",
+          "side": "home",
+          "player": "Substitution, Jordan. Ali Azaizeh replaces Mousa Al Tamari."
+        },
+        {
+          "kind": "Substitution",
+          "min": "85'",
+          "side": "home",
+          "player": "Substitution, Jordan. Mohammad Abu Hasheesh replaces Mohannad Abu Taha."
+        },
+        {
+          "kind": "Substitution",
+          "min": "85'",
+          "side": "away",
+          "player": "Substitution, Algeria. Jaouen Hadjam replaces Rayan Aït-Nouri."
+        },
+        {
+          "kind": "Substitution",
+          "min": "86'",
+          "side": "away",
+          "player": "Substitution, Algeria. Zineddine Belaïd replaces Amine Gouiri."
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'+1'",
+          "side": "home",
+          "player": "Substitution, Jordan. Saleem Obaid replaces Husam Abu Dahab."
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'+2'",
+          "side": "home",
+          "player": "Substitution, Jordan. Mohammad Abu Zraiq replaces Ali Olwan."
         }
       ],
       "lineups": {
@@ -37592,6 +37646,156 @@
       },
       "commentary": [
         {
+          "min": "",
+          "text": "Match ends, Jordan 1, Algeria 2.",
+          "goal": false
+        },
+        {
+          "min": "98'",
+          "text": "Second Half ends, Jordan 1, Algeria 2.",
+          "goal": false
+        },
+        {
+          "min": "90'+8'",
+          "text": "Nabil Bentaleb (Algeria) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "90'+8'",
+          "text": "Foul by Yazan Al Arab (Jordan).",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Corner, Algeria. Conceded by Abdallah Nasib.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Substitution, Jordan. Mohammad Abu Zraiq replaces Ali Olwan.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Substitution, Jordan. Saleem Obaid replaces Husam Abu Dahab.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Nabil Bentaleb (Algeria) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Foul by Noor Al Rawabdeh (Jordan).",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Fourth official has announced 7 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Attempt saved. Ibrahim Maza (Algeria) right footed shot from the left side of the six yard box is saved in the bottom left corner by Yazeed Abulaila (Jordan). Assisted by Zineddine Belaïd with a headed pass.",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Corner, Algeria. Conceded by Mohammad Abu Hasheesh.",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Nabil Bentaleb (Algeria) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Foul by Ali Azaizeh (Jordan).",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Substitution, Algeria. Zineddine Belaïd replaces Amine Gouiri.",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Substitution, Algeria. Jaouen Hadjam replaces Rayan Aït-Nouri.",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Substitution, Jordan. Mohammad Abu Hasheesh replaces Mohannad Abu Taha.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Substitution, Jordan. Ali Azaizeh replaces Mousa Al Tamari.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Goal! Jordan 1, Algeria 2. Amine Gouiri (Algeria) right footed shot from very close range to the centre of the goal following a corner.",
+          "goal": true
+        },
+        {
+          "min": "82'",
+          "text": "Attempt blocked. Ramy Bensebaini (Algeria) header from the centre of the box is blocked. Assisted by Anis Hadj Moussa with a cross.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Corner, Algeria. Conceded by Noor Al Rawabdeh.",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Corner, Algeria. Conceded by Yazan Al Arab.",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Attempt blocked. Anis Hadj Moussa (Algeria) right footed shot from the centre of the box is blocked. Assisted by Rafik Belghali.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Attempt blocked. Nabil Bentaleb (Algeria) left footed shot from outside the box is blocked. Assisted by Anis Hadj Moussa.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Rayan Aït-Nouri (Algeria) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Foul by Odeh Fakhoury (Jordan).",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Substitution, Jordan. Odeh Fakhoury replaces Mahmoud Al Mardi.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Substitution, Algeria. Anis Hadj Moussa replaces Riyad Mahrez.",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
           "min": "73'",
           "text": "Attempt saved. Farès Chaïbi (Algeria) right footed shot from outside the box is saved in the centre of the goal by Yazeed Abulaila (Jordan). Assisted by Riyad Mahrez.",
           "goal": false
@@ -37628,7 +37832,7 @@
         },
         {
           "min": "66'",
-          "text": "Attempt blocked. Ibrahim Maza (Algeria) header from very close range is blocked. Assisted by Riyad Mahrez with a cross.",
+          "text": "Attempt missed. Ibrahim Maza (Algeria) header from very close range misses to the left. Assisted by Riyad Mahrez with a cross following a set piece situation.",
           "goal": false
         },
         {
@@ -37653,7 +37857,7 @@
         },
         {
           "min": "62'",
-          "text": "Attempt missed. Noor Al Rawabdeh (Jordan) right footed shot from outside the box is close, but misses the top right corner.",
+          "text": "Attempt missed. Noor Al Rawabdeh (Jordan) right footed shot from outside the box is close, but misses to the right.",
           "goal": false
         },
         {
@@ -37740,156 +37944,6 @@
           "min": "45'+5'",
           "text": "Farès Chaïbi (Algeria) wins a free kick in the defensive half.",
           "goal": false
-        },
-        {
-          "min": "45'+5'",
-          "text": "Foul by Ehsan Haddad (Jordan).",
-          "goal": false
-        },
-        {
-          "min": "45'+1'",
-          "text": "Attempt missed. Ali Olwan (Jordan) right footed shot from outside the box is high and wide to the right. Assisted by Husam Abu Dahab.",
-          "goal": false
-        },
-        {
-          "min": "46'+1'",
-          "text": "Fourth official has announced 5 minutes of added time.",
-          "goal": false
-        },
-        {
-          "min": "44'",
-          "text": "Ramiz Zerrouki (Algeria) is shown the yellow card for a bad foul.",
-          "goal": false
-        },
-        {
-          "min": "44'",
-          "text": "Foul by Ramiz Zerrouki (Algeria).",
-          "goal": false
-        },
-        {
-          "min": "44'",
-          "text": "Nizar Al Rashdan (Jordan) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "43'",
-          "text": "Offside, Jordan. Ali Olwan is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "40'",
-          "text": "Foul by Rafik Belghali (Algeria).",
-          "goal": false
-        },
-        {
-          "min": "40'",
-          "text": "Husam Abu Dahab (Jordan) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "38'",
-          "text": "Ibrahim Maza (Algeria) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "38'",
-          "text": "Foul by Nizar Al Rashdan (Jordan).",
-          "goal": false
-        },
-        {
-          "min": "36'",
-          "text": "Goal! Jordan 1, Algeria 0. Nizar Al Rashdan (Jordan) right footed shot from the centre of the box to the bottom right corner. Assisted by Mousa Al Tamari.",
-          "goal": true
-        },
-        {
-          "min": "36'",
-          "text": "Attempt missed. Mousa Al Tamari (Jordan) left footed shot from the centre of the box misses to the right. Assisted by Mohannad Abu Taha.",
-          "goal": false
-        },
-        {
-          "min": "34'",
-          "text": "Handball by Rayan Aït-Nouri (Algeria).",
-          "goal": false
-        },
-        {
-          "min": "33'",
-          "text": "Corner, Algeria. Conceded by Yazeed Abulaila.",
-          "goal": false
-        },
-        {
-          "min": "33'",
-          "text": "Attempt saved. Riyad Mahrez (Algeria) left footed shot from the centre of the box is saved in the centre of the goal by Yazeed Abulaila (Jordan). Assisted by Hicham Boudaoui with a through ball.",
-          "goal": false
-        },
-        {
-          "min": "31'",
-          "text": "Foul by Ramiz Zerrouki (Algeria).",
-          "goal": false
-        },
-        {
-          "min": "31'",
-          "text": "Mahmoud Al Mardi (Jordan) wins a free kick on the left wing.",
-          "goal": false
-        },
-        {
-          "min": "29'",
-          "text": "Attempt saved. Amine Gouiri (Algeria) right footed shot from outside the box is saved in the centre of the goal by Yazeed Abulaila (Jordan). Assisted by Ibrahim Maza.",
-          "goal": false
-        },
-        {
-          "min": "28'",
-          "text": "Corner, Algeria. Conceded by Noor Al Rawabdeh.",
-          "goal": false
-        },
-        {
-          "min": "27'",
-          "text": "Delay over. They are ready to continue.",
-          "goal": false
-        },
-        {
-          "min": "24'",
-          "text": "Delay in match for a drinks break.",
-          "goal": false
-        },
-        {
-          "min": "23'",
-          "text": "Attempt saved. Ali Olwan (Jordan) right footed shot from a difficult angle and long range on the right is saved in the centre of the goal by Luca Zidane (Algeria).",
-          "goal": false
-        },
-        {
-          "min": "21'",
-          "text": "Attempt blocked. Farès Chaïbi (Algeria) right footed shot from outside the box is blocked. Assisted by Ibrahim Maza.",
-          "goal": false
-        },
-        {
-          "min": "12'",
-          "text": "Attempt saved. Mousa Al Tamari (Jordan) left footed shot from outside the box is saved in the top right corner by Luca Zidane (Algeria). Assisted by Ali Olwan.",
-          "goal": false
-        },
-        {
-          "min": "8'",
-          "text": "Ramy Bensebaini (Algeria) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "8'",
-          "text": "Foul by Mahmoud Al Mardi (Jordan).",
-          "goal": false
-        },
-        {
-          "min": "6'",
-          "text": "Corner, Algeria. Conceded by Mohannad Abu Taha.",
-          "goal": false
-        },
-        {
-          "min": "3'",
-          "text": "Attempt missed. Amine Gouiri (Algeria) right footed shot from the left side of the box is close, but misses to the left. Assisted by Farès Chaïbi.",
-          "goal": false
-        },
-        {
-          "min": "1'",
-          "text": "Attempt missed. Nizar Al Rashdan (Jordan) header from the centre of the box misses to the right. Assisted by Mahmoud Al Mardi with a cross following a set piece situation.",
-          "goal": false
         }
       ],
       "leaders": [
@@ -37905,22 +37959,22 @@
             "name": "I. Maza",
             "num": "22",
             "pos": "M",
-            "value": "3"
+            "value": "4"
           }
         },
         {
           "label": "Accurate Passes",
           "home": {
-            "name": "M. Abu Taha",
-            "num": "20",
-            "pos": "D",
-            "value": "19"
+            "name": "N. Al-Rawabdeh",
+            "num": "8",
+            "pos": "M",
+            "value": "20"
           },
           "away": {
             "name": "A. Mandi",
             "num": "2",
             "pos": "D",
-            "value": "71"
+            "value": "79"
           }
         },
         {
@@ -37935,7 +37989,7 @@
             "name": "R. Bensebaini",
             "num": "21",
             "pos": "D",
-            "value": "14"
+            "value": "15"
           }
         },
         {
@@ -37944,7 +37998,7 @@
             "name": "Y. Abulaila",
             "num": "1",
             "pos": "G",
-            "value": "5"
+            "value": "6"
           },
           "away": {
             "name": "L. Zidane",
@@ -37955,7 +38009,7 @@
         }
       ],
       "highlight": null,
-      "final": false,
+      "final": true,
       "dv": 5
     },
     "760456": {

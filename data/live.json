@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T04:36:46.999Z",
+  "lastUpdated": "2026-06-23T08:19:10.882Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -609,24 +609,14 @@
       "home": "Jordan",
       "away": "Algeria",
       "homeScore": 1,
-      "awayScore": 1,
+      "awayScore": 2,
       "homeWinner": false,
-      "awayWinner": false,
-      "odds": {
-        "home": 600,
-        "away": -210,
-        "draw": 350,
-        "total": 2.5,
-        "book": "DraftKings"
-      },
-      "status": "live",
+      "awayWinner": true,
+      "odds": null,
+      "status": "finished",
       "id": "760455",
       "date": "2026-06-23T03:00Z",
-      "venue": "Levi's Stadium",
-      "clock": 4440,
-      "displayClock": "74'",
-      "detail": "74'",
-      "period": 2
+      "venue": "Levi's Stadium"
     },
     {
       "stage": "group",
@@ -639,7 +629,7 @@
       "odds": {
         "home": -650,
         "away": 1800,
-        "draw": 700,
+        "draw": 750,
         "total": 3.5,
         "book": "DraftKings"
       },
@@ -657,9 +647,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -475,
-        "away": 1300,
-        "draw": 550,
+        "home": -500,
+        "away": 1400,
+        "draw": 600,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -678,7 +668,7 @@
       "awayWinner": false,
       "odds": {
         "home": 600,
-        "away": -205,
+        "away": -200,
         "draw": 340,
         "total": 2.5,
         "book": "DraftKings"
@@ -699,7 +689,7 @@
       "odds": {
         "home": -180,
         "away": 550,
-        "draw": 310,
+        "draw": 300,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -717,8 +707,8 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -245,
-        "away": 650,
+        "home": -240,
+        "away": 600,
         "draw": 400,
         "total": 2.5,
         "book": "DraftKings"
@@ -738,7 +728,7 @@
       "awayWinner": false,
       "odds": {
         "home": 140,
-        "away": 240,
+        "away": 235,
         "draw": 205,
         "total": 2.5,
         "book": "DraftKings"
@@ -757,7 +747,7 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -550,
+        "home": -575,
         "away": 1600,
         "draw": 650,
         "total": 2.5,
@@ -777,8 +767,8 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 650,
-        "away": -255,
+        "home": 600,
+        "away": -250,
         "draw": 425,
         "total": 2.5,
         "book": "DraftKings"
@@ -797,7 +787,7 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 275,
+        "home": 270,
         "away": -105,
         "draw": 285,
         "total": 2.5,
@@ -817,9 +807,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 425,
-        "away": -150,
-        "draw": 295,
+        "home": 450,
+        "away": -155,
+        "draw": 300,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -858,8 +848,8 @@
       "awayWinner": false,
       "odds": {
         "home": 265,
-        "away": -105,
-        "draw": 300,
+        "away": -110,
+        "draw": 310,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -917,9 +907,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 190,
+        "home": 195,
         "away": 295,
-        "draw": 125,
+        "draw": 120,
         "total": 1.5,
         "book": "DraftKings"
       },
@@ -937,7 +927,7 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 260,
+        "home": 255,
         "away": -105,
         "draw": 300,
         "total": 2.5,
@@ -957,9 +947,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 350,
-        "away": -135,
-        "draw": 300,
+        "home": 390,
+        "away": -150,
+        "draw": 330,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -977,7 +967,7 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -400,
+        "home": -425,
         "away": 1100,
         "draw": 550,
         "total": 2.5,
@@ -1018,8 +1008,8 @@
       "awayWinner": false,
       "odds": {
         "home": 650,
-        "away": -210,
-        "draw": 340,
+        "away": -205,
+        "draw": 330,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -1038,7 +1028,7 @@
       "awayWinner": false,
       "odds": {
         "home": 145,
-        "away": 270,
+        "away": 275,
         "draw": 175,
         "total": 1.5,
         "book": "DraftKings"
@@ -1058,8 +1048,8 @@
       "awayWinner": false,
       "odds": {
         "home": 1300,
-        "away": -475,
-        "draw": 600,
+        "away": -450,
+        "draw": 550,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -1097,10 +1087,10 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 1000,
-        "away": -450,
+        "home": 1200,
+        "away": -475,
         "draw": 650,
-        "total": 2.5,
+        "total": 3.5,
         "book": "DraftKings"
       },
       "status": "scheduled",
@@ -1157,9 +1147,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 235,
-        "away": 175,
-        "draw": 165,
+        "home": 290,
+        "away": 170,
+        "draw": 140,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -1177,8 +1167,8 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 1100,
-        "away": -450,
+        "home": 1200,
+        "away": -475,
         "draw": 600,
         "total": 2.5,
         "book": "DraftKings"
@@ -1386,7 +1376,7 @@
     },
     {
       "stage": "r32",
-      "home": "Group J Winner",
+      "home": "Argentina",
       "away": "Group H 2nd Place",
       "homeScore": 0,
       "awayScore": 0,

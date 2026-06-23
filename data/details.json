@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T00:20:49.201Z",
+  "lastUpdated": "2026-06-23T04:36:47.094Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -36209,64 +36209,64 @@
       "venue": "MetLife Stadium",
       "stats": {
         "home": {
-          "foulsCommitted": "2",
+          "foulsCommitted": "13",
           "yellowCards": "0",
           "redCards": "0",
           "offsides": "0",
+          "wonCorners": "5",
+          "saves": "2",
+          "possessionPct": "41.7",
+          "totalShots": "13",
+          "shotsOnTarget": "7",
+          "shotPct": "0.5",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "282",
+          "totalPasses": "353",
+          "passPct": "0.8",
+          "accurateCrosses": "3",
+          "totalCrosses": "10",
+          "crossPct": "0.3",
+          "totalLongBalls": "51",
+          "accurateLongBalls": "25",
+          "longballPct": "0.5",
+          "blockedShots": "3",
+          "effectiveTackles": "10",
+          "totalTackles": "11",
+          "tacklePct": "0.9",
+          "interceptions": "8",
+          "effectiveClearance": "26",
+          "totalClearance": "26"
+        },
+        "away": {
+          "foulsCommitted": "5",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "4",
           "wonCorners": "4",
-          "saves": "0",
-          "possessionPct": "43.4",
-          "totalShots": "3",
-          "shotsOnTarget": "1",
+          "saves": "3",
+          "possessionPct": "58.3",
+          "totalShots": "16",
+          "shotsOnTarget": "4",
           "shotPct": "0.3",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "44",
-          "totalPasses": "59",
-          "passPct": "0.7",
-          "accurateCrosses": "1",
-          "totalCrosses": "5",
-          "crossPct": "0.2",
-          "totalLongBalls": "9",
-          "accurateLongBalls": "5",
-          "longballPct": "0.6",
-          "blockedShots": "0",
-          "effectiveTackles": "3",
-          "totalTackles": "4",
-          "tacklePct": "0.8",
-          "interceptions": "2",
-          "effectiveClearance": "7",
-          "totalClearance": "7"
-        },
-        "away": {
-          "foulsCommitted": "1",
-          "yellowCards": "0",
-          "redCards": "0",
-          "offsides": "2",
-          "wonCorners": "1",
-          "saves": "1",
-          "possessionPct": "56.6",
-          "totalShots": "2",
-          "shotsOnTarget": "0",
-          "shotPct": "0.0",
-          "penaltyKickGoals": "0",
-          "penaltyKickShots": "0",
-          "accuratePasses": "72",
-          "totalPasses": "81",
+          "accuratePasses": "430",
+          "totalPasses": "489",
           "passPct": "0.9",
-          "accurateCrosses": "0",
-          "totalCrosses": "4",
-          "crossPct": "0.0",
-          "totalLongBalls": "11",
-          "accurateLongBalls": "8",
-          "longballPct": "0.7",
-          "blockedShots": "2",
-          "effectiveTackles": "3",
-          "totalTackles": "3",
-          "tacklePct": "1.0",
-          "interceptions": "0",
-          "effectiveClearance": "7",
-          "totalClearance": "7"
+          "accurateCrosses": "8",
+          "totalCrosses": "23",
+          "crossPct": "0.3",
+          "totalLongBalls": "58",
+          "accurateLongBalls": "37",
+          "longballPct": "0.6",
+          "blockedShots": "5",
+          "effectiveTackles": "7",
+          "totalTackles": "16",
+          "tacklePct": "0.4",
+          "interceptions": "10",
+          "effectiveClearance": "18",
+          "totalClearance": "18"
         }
       },
       "events": [
@@ -36275,6 +36275,90 @@
           "min": "13'",
           "side": "home",
           "player": "Substitution, Norway. Marcus Pedersen replaces Julian Ryerson because of an injury."
+        },
+        {
+          "kind": "Goal",
+          "min": "43'",
+          "side": "home",
+          "player": "Goal! Norway 1, Senegal 0. Marcus Pedersen"
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "home",
+          "player": "Substitution, Norway. Patrick Berg replaces Fredrik Aursnes."
+        },
+        {
+          "kind": "Goal",
+          "min": "48'",
+          "side": "home",
+          "player": "Goal! Norway 2, Senegal 0. Erling Haaland"
+        },
+        {
+          "kind": "Goal",
+          "min": "53'",
+          "side": "away",
+          "player": "Goal! Norway 2, Senegal 1. Ismaïla Sarr"
+        },
+        {
+          "kind": "Substitution",
+          "min": "54'",
+          "side": "away",
+          "player": "Substitution, Senegal. Ismail Jakobs replaces El Hadji Malick Diouf."
+        },
+        {
+          "kind": "Substitution",
+          "min": "54'",
+          "side": "away",
+          "player": "Substitution, Senegal. Ibrahim Mbaye replaces Pape Gueye."
+        },
+        {
+          "kind": "Goal - Volley",
+          "min": "58'",
+          "side": "home",
+          "player": "Goal! Norway 3, Senegal 1. Erling Haaland"
+        },
+        {
+          "kind": "Substitution",
+          "min": "63'",
+          "side": "away",
+          "player": "Substitution, Senegal. Mory Diaw replaces Édouard Mendy because of an injury."
+        },
+        {
+          "kind": "Substitution",
+          "min": "63'",
+          "side": "away",
+          "player": "Substitution, Senegal. Pathé Ciss replaces Lamine Camara."
+        },
+        {
+          "kind": "Substitution",
+          "min": "71'",
+          "side": "home",
+          "player": "Substitution, Norway. Andreas Schjelderup replaces Antonio Nusa."
+        },
+        {
+          "kind": "Substitution",
+          "min": "72'",
+          "side": "away",
+          "player": "Substitution, Senegal. Pape Matar Sarr replaces Kalidou Koulibaly."
+        },
+        {
+          "kind": "Substitution",
+          "min": "84'",
+          "side": "home",
+          "player": "Substitution, Norway. Oscar Bobb replaces Alexander Sørloth."
+        },
+        {
+          "kind": "Substitution",
+          "min": "84'",
+          "side": "home",
+          "player": "Substitution, Norway. Leo Østigård replaces Torbjørn Heggem because of an injury."
+        },
+        {
+          "kind": "Goal",
+          "min": "90'+3'",
+          "side": "away",
+          "player": "Goal! Norway 3, Senegal 2. Ismaïla Sarr"
         }
       ],
       "lineups": {
@@ -36659,108 +36743,303 @@
       },
       "commentary": [
         {
-          "min": "20'",
-          "text": "Lamine Camara (Senegal) wins a free kick in the defensive half.",
+          "min": "",
+          "text": "Match ends, Norway 3, Senegal 2.",
           "goal": false
         },
         {
-          "min": "20'",
-          "text": "Foul by Fredrik Aursnes (Norway).",
+          "min": "90'+11'",
+          "text": "Second Half ends, Norway 3, Senegal 2.",
           "goal": false
         },
         {
-          "min": "17'",
-          "text": "Attempt blocked. Nicolas Jackson (Senegal) left footed shot from the left side of the box is blocked. Assisted by Idrissa Gueye with a through ball.",
+          "min": "90'+9'",
+          "text": "Attempt missed. Ismaïla Sarr (Senegal) header from very close range is too high. Assisted by Ismail Jakobs with a cross following a corner.",
           "goal": false
         },
         {
-          "min": "16'",
-          "text": "Corner, Senegal. Conceded by Torbjørn Heggem.",
+          "min": "90'+9'",
+          "text": "Corner, Senegal. Conceded by Marcus Pedersen.",
           "goal": false
         },
         {
-          "min": "14'",
-          "text": "Attempt missed. Martin Ødegaard (Norway) left footed shot from the centre of the box is too high. Assisted by Marcus Pedersen.",
+          "min": "90'+9'",
+          "text": "Attempt blocked. Ibrahim Mbaye (Senegal) right footed shot from the left side of the box is blocked. Assisted by Sadio Mané.",
           "goal": false
         },
         {
-          "min": "13'",
-          "text": "Substitution, Norway. Marcus Pedersen replaces Julian Ryerson because of an injury.",
+          "min": "90'+8'",
+          "text": "Ismaïla Sarr (Senegal) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "11'",
-          "text": "Offside, Senegal. Ismaïla Sarr is caught offside.",
+          "min": "90'+8'",
+          "text": "Foul by Patrick Berg (Norway).",
           "goal": false
         },
         {
-          "min": "9'",
-          "text": "Foul by Fredrik Aursnes (Norway).",
+          "min": "90'+7'",
+          "text": "Delay over. They are ready to continue.",
           "goal": false
         },
         {
-          "min": "9'",
-          "text": "Krépin Diatta (Senegal) wins a free kick in the attacking half.",
+          "min": "90'+7'",
+          "text": "Delay in match because of an injury Leo Østigård (Norway).",
           "goal": false
         },
         {
-          "min": "8'",
-          "text": "Attempt blocked. Idrissa Gueye (Senegal) right footed shot from outside the box is blocked.",
+          "min": "90'+7'",
+          "text": "Foul by Pathé Ciss (Senegal).",
           "goal": false
         },
         {
-          "min": "7'",
-          "text": "Alexander Sørloth (Norway) wins a free kick in the defensive half.",
+          "min": "90'+7'",
+          "text": "Leo Østigård (Norway) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "7'",
-          "text": "Foul by El Hadji Malick Diouf (Senegal).",
+          "min": "90'+6'",
+          "text": "Corner, Senegal. Conceded by Marcus Pedersen.",
           "goal": false
         },
         {
-          "min": "4'",
+          "min": "90'+4'",
+          "text": "Moussa Niakhaté (Senegal) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Foul by Erling Haaland (Norway).",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Goal! Norway 3, Senegal 2. Ismaïla Sarr (Senegal) right footed shot from the centre of the box to the top right corner. Assisted by Nicolas Jackson.",
+          "goal": true
+        },
+        {
+          "min": "90'+2'",
+          "text": "Attempt missed. Pape Matar Sarr (Senegal) right footed shot from outside the box is close, but misses to the right.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Mory Diaw (Senegal) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Foul by Sander Berge (Norway).",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Fourth official has announced 9 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Corner, Norway. Conceded by Pathé Ciss.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Attempt blocked. Oscar Bobb (Norway) left footed shot from the centre of the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Idrissa Gueye (Senegal) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Foul by David Møller Wolfe (Norway).",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Attempt blocked. Erling Haaland (Norway) left footed shot from the centre of the box is blocked. Assisted by Andreas Schjelderup with a through ball.",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Ibrahim Mbaye (Senegal) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Foul by Patrick Berg (Norway).",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Foul by Sadio Mané (Senegal).",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Marcus Pedersen (Norway) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Substitution, Norway. Leo Østigård replaces Torbjørn Heggem because of an injury.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Substitution, Norway. Oscar Bobb replaces Alexander Sørloth.",
+          "goal": false
+        },
+        {
+          "min": "83'",
           "text": "Offside, Senegal. Nicolas Jackson is caught offside.",
           "goal": false
         },
         {
-          "min": "3'",
-          "text": "Corner, Norway. Conceded by Kalidou Koulibaly.",
+          "min": "83'",
+          "text": "Attempt blocked. Ismaïla Sarr (Senegal) left footed shot from the centre of the box is blocked. Assisted by Sadio Mané with a cross.",
           "goal": false
         },
         {
-          "min": "3'",
-          "text": "Attempt saved. Kristoffer Ajer (Norway) header from very close range is saved in the centre of the goal by Édouard Mendy (Senegal). Assisted by Julian Ryerson with a cross.",
+          "min": "81'",
+          "text": "Attempt missed. Pape Matar Sarr (Senegal) right footed shot from outside the box is too high.",
           "goal": false
         },
         {
-          "min": "2'",
-          "text": "Corner, Norway. Conceded by El Hadji Malick Diouf.",
+          "min": "79'",
+          "text": "Foul by Pape Matar Sarr (Senegal).",
           "goal": false
         },
         {
-          "min": "2'",
-          "text": "Corner, Norway. Conceded by Kalidou Koulibaly.",
+          "min": "79'",
+          "text": "Martin Ødegaard (Norway) wins a free kick in the attacking half.",
           "goal": false
         },
         {
-          "min": "2'",
-          "text": "Attempt missed. Antonio Nusa (Norway) right footed shot from outside the box misses to the right following a corner.",
+          "min": "76'",
+          "text": "Moussa Niakhaté (Senegal) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "1'",
-          "text": "Corner, Norway. Conceded by Moussa Niakhaté.",
+          "min": "76'",
+          "text": "Foul by Erling Haaland (Norway).",
           "goal": false
         },
         {
-          "min": "",
-          "text": "First Half begins.",
+          "min": "74'",
+          "text": "Attempt blocked. Ismaïla Sarr (Senegal) right footed shot from the centre of the box is blocked. Assisted by Ibrahim Mbaye with a cross.",
           "goal": false
         },
         {
-          "min": "",
-          "text": "Lineups are announced and players are warming up.",
+          "min": "72'",
+          "text": "Substitution, Senegal. Pape Matar Sarr replaces Kalidou Koulibaly.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Substitution, Norway. Andreas Schjelderup replaces Antonio Nusa.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Corner, Senegal. Conceded by Torbjørn Heggem.",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Handball by Sadio Mané (Senegal).",
+          "goal": false
+        },
+        {
+          "min": "63'",
+          "text": "Substitution, Senegal. Pathé Ciss replaces Lamine Camara.",
+          "goal": false
+        },
+        {
+          "min": "63'",
+          "text": "Substitution, Senegal. Mory Diaw replaces Édouard Mendy because of an injury.",
+          "goal": false
+        },
+        {
+          "min": "63'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "59'",
+          "text": "Delay in match because of an injury Édouard Mendy (Senegal).",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Goal! Norway 3, Senegal 1. Erling Haaland (Norway) right footed shot from the centre of the box to the high centre of the goal. Assisted by Patrick Berg.",
+          "goal": true
+        },
+        {
+          "min": "58'",
+          "text": "Attempt blocked. Antonio Nusa (Norway) right footed shot from the centre of the box is blocked. Assisted by Erling Haaland.",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Attempt missed. Lamine Camara (Senegal) right footed shot from outside the box is too high. Assisted by Ibrahim Mbaye.",
+          "goal": false
+        },
+        {
+          "min": "54'",
+          "text": "Substitution, Senegal. Ibrahim Mbaye replaces Pape Gueye.",
+          "goal": false
+        },
+        {
+          "min": "54'",
+          "text": "Substitution, Senegal. Ismail Jakobs replaces El Hadji Malick Diouf.",
+          "goal": false
+        },
+        {
+          "min": "53'",
+          "text": "Goal! Norway 2, Senegal 1. Ismaïla Sarr (Senegal) right footed shot from the centre of the box to the top right corner. Assisted by Sadio Mané.",
+          "goal": true
+        },
+        {
+          "min": "52'",
+          "text": "Attempt saved. Nicolas Jackson (Senegal) header from the centre of the box is saved in the centre of the goal by Ørjan Nyland (Norway). Assisted by Krépin Diatta with a cross.",
+          "goal": false
+        },
+        {
+          "min": "50'",
+          "text": "Offside, Senegal. Sadio Mané is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "48'",
+          "text": "Goal! Norway 2, Senegal 0. Erling Haaland (Norway) left footed shot from the centre of the box to the top right corner. Assisted by Martin Ødegaard with a through ball following a fast break.",
+          "goal": true
+        },
+        {
+          "min": "46'",
+          "text": "Foul by David Møller Wolfe (Norway).",
+          "goal": false
+        },
+        {
+          "min": "46'",
+          "text": "Ismaïla Sarr (Senegal) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Substitution, Norway. Patrick Berg replaces Fredrik Aursnes.",
           "goal": false
         }
       ],
@@ -36768,31 +37047,31 @@
         {
           "label": "Total Shots",
           "home": {
-            "name": "A. Nusa",
-            "num": "20",
-            "pos": "M",
-            "value": "1"
+            "name": "E. Haaland",
+            "num": "9",
+            "pos": "F",
+            "value": "5"
           },
           "away": {
-            "name": "N. Jackson",
-            "num": "11",
+            "name": "I. Sarr",
+            "num": "18",
             "pos": "F",
-            "value": "1"
+            "value": "6"
           }
         },
         {
           "label": "Accurate Passes",
           "home": {
-            "name": "K. Ajer",
-            "num": "3",
-            "pos": "D",
-            "value": "10"
+            "name": "S. Berge",
+            "num": "8",
+            "pos": "M",
+            "value": "40"
           },
           "away": {
-            "name": "P. Gueye",
-            "num": "26",
+            "name": "I. Gueye",
+            "num": "5",
             "pos": "M",
-            "value": "11"
+            "value": "63"
           }
         },
         {
@@ -36801,22 +37080,877 @@
             "name": "K. Ajer",
             "num": "3",
             "pos": "D",
-            "value": "3"
+            "value": "15"
           },
           "away": {
-            "name": "E. Diouf",
-            "num": "25",
+            "name": "M. Niakhaté",
+            "num": "19",
             "pos": "D",
-            "value": "3"
+            "value": "12"
           }
         },
         {
           "label": "Saves",
+          "home": {
+            "name": "Ø. Nyland",
+            "num": "1",
+            "pos": "G",
+            "value": "2"
+          },
           "away": {
             "name": "É. Mendy",
             "num": "16",
             "pos": "G",
-            "value": "1"
+            "value": "3"
+          }
+        }
+      ],
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0622/dm_260622_World_Cup_Highlight_Haalands_brace_lifts_Norway_to_World_Cup_knockouts_20260623_AUS_ONLY/dm_260622_World_Cup_Highlight_Haalands_brace_lifts_Norway_to_World_Cup_knockouts_20260623_AUS_ONLY.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49149526/haaland-brace-lifts-norway-world-cup-knockouts",
+        "headline": "Haaland's brace lifts Norway to World Cup knockouts",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0622/dm_260622_World_Cup_Highlight_Haalands_brace_lifts_Norway_to_World_Cup_knockouts_20260623_AUS_ONLY/dm_260622_World_Cup_Highlight_Haalands_brace_lifts_Norway_to_World_Cup_knockouts_20260623_AUS_ONLY_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0622/dm_260622_World_Cup_Highlight_Haalands_brace_lifts_Norway_to_World_Cup_knockouts_20260623_AUS_ONLY/dm_260622_World_Cup_Highlight_Haalands_brace_lifts_Norway_to_World_Cup_knockouts_20260623_AUS_ONLY/playlist.m3u8"
+      },
+      "final": true,
+      "dv": 5
+    },
+    "760455": {
+      "venue": "Levi's Stadium",
+      "stats": {
+        "home": {
+          "foulsCommitted": "7",
+          "yellowCards": "1",
+          "redCards": "0",
+          "offsides": "1",
+          "wonCorners": "1",
+          "saves": "5",
+          "possessionPct": "25.7",
+          "totalShots": "8",
+          "shotsOnTarget": "4",
+          "shotPct": "0.5",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "140",
+          "totalPasses": "190",
+          "passPct": "0.7",
+          "accurateCrosses": "2",
+          "totalCrosses": "4",
+          "crossPct": "0.5",
+          "totalLongBalls": "40",
+          "accurateLongBalls": "19",
+          "longballPct": "0.5",
+          "blockedShots": "0",
+          "effectiveTackles": "9",
+          "totalTackles": "20",
+          "tacklePct": "0.5",
+          "interceptions": "2",
+          "effectiveClearance": "29",
+          "totalClearance": "29"
+        },
+        "away": {
+          "foulsCommitted": "6",
+          "yellowCards": "1",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "6",
+          "saves": "3",
+          "possessionPct": "74.3",
+          "totalShots": "12",
+          "shotsOnTarget": "6",
+          "shotPct": "0.5",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "487",
+          "totalPasses": "547",
+          "passPct": "0.9",
+          "accurateCrosses": "3",
+          "totalCrosses": "17",
+          "crossPct": "0.2",
+          "totalLongBalls": "31",
+          "accurateLongBalls": "16",
+          "longballPct": "0.5",
+          "blockedShots": "3",
+          "effectiveTackles": "16",
+          "totalTackles": "22",
+          "tacklePct": "0.7",
+          "interceptions": "9",
+          "effectiveClearance": "9",
+          "totalClearance": "9"
+        }
+      },
+      "events": [
+        {
+          "kind": "Goal",
+          "min": "36'",
+          "side": "home",
+          "player": "Goal! Jordan 1, Algeria 0. Nizar Al Rashdan"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "44'",
+          "side": "away",
+          "player": "Ramiz Zerrouki"
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "away",
+          "player": "Substitution, Algeria. Nabil Bentaleb replaces Ramiz Zerrouki."
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "away",
+          "player": "Substitution, Algeria. Nadhir Benbouali replaces Hicham Boudaoui."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "64'",
+          "side": "home",
+          "player": "Husam Abu Dahab"
+        },
+        {
+          "kind": "Goal - Header",
+          "min": "69'",
+          "side": "away",
+          "player": "Goal! Jordan 1, Algeria 1. Nadhir Benbouali"
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Yazeed Abulaila",
+            "short": "Y. Abulaila",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Yazan Al-Arab",
+            "short": "Y. Al-Arab",
+            "num": "5",
+            "pos": "CD",
+            "place": "5"
+          },
+          {
+            "name": "Husam Abu Dahab",
+            "short": "H. Abu Dahab",
+            "num": "4",
+            "pos": "CD-L",
+            "place": "4"
+          },
+          {
+            "name": "Abdallah Nasib",
+            "short": "A. Nasib",
+            "num": "3",
+            "pos": "CD-R",
+            "place": "6"
+          },
+          {
+            "name": "Noor Al-Rawabdeh",
+            "short": "N. Al-Rawabdeh",
+            "num": "8",
+            "pos": "CM-L",
+            "place": "8"
+          },
+          {
+            "name": "Nizar Al-Rashdan",
+            "short": "N. Al-Rashdan",
+            "num": "21",
+            "pos": "CM-R",
+            "place": "7"
+          },
+          {
+            "name": "Mohannad Abu Taha",
+            "short": "M. Abu Taha",
+            "num": "20",
+            "pos": "LM",
+            "place": "3"
+          },
+          {
+            "name": "Ehsan Haddad",
+            "short": "E. Haddad",
+            "num": "23",
+            "pos": "RM",
+            "place": "2"
+          },
+          {
+            "name": "Mousa Al-Tamari",
+            "short": "M. Al-Tamari",
+            "num": "10",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Mahmoud Al-Mardi",
+            "short": "M. Al-Mardi",
+            "num": "13",
+            "pos": "CF-L",
+            "place": "11"
+          },
+          {
+            "name": "Ali Olwan",
+            "short": "A. Olwan",
+            "num": "9",
+            "pos": "CF-R",
+            "place": "10"
+          }
+        ],
+        "away": [
+          {
+            "name": "Luca Zidane",
+            "short": "L. Zidane",
+            "num": "23",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Ramy Bensebaini",
+            "short": "R. Bensebaini",
+            "num": "21",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Aïssa Mandi",
+            "short": "A. Mandi",
+            "num": "2",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Rayan Aït-Nouri",
+            "short": "R. Aït-Nouri",
+            "num": "15",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Rafik Belghali",
+            "short": "R. Belghali",
+            "num": "17",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Ibrahim Maza",
+            "short": "I. Maza",
+            "num": "22",
+            "pos": "AM",
+            "place": "10"
+          },
+          {
+            "name": "Ramiz Zerrouki",
+            "short": "R. Zerrouki",
+            "num": "6",
+            "pos": "LM",
+            "place": "4"
+          },
+          {
+            "name": "Hicham Boudaoui",
+            "short": "H. Boudaoui",
+            "num": "14",
+            "pos": "RM",
+            "place": "8"
+          },
+          {
+            "name": "Amine Gouiri",
+            "short": "A. Gouiri",
+            "num": "9",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Farès Chaïbi",
+            "short": "F. Chaïbi",
+            "num": "10",
+            "pos": "AM-L",
+            "place": "11"
+          },
+          {
+            "name": "Riyad Mahrez",
+            "short": "R. Mahrez",
+            "num": "7",
+            "pos": "AM-R",
+            "place": "7"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Mohammad Abu Hasheesh",
+            "short": "M. Abu Hasheesh",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mohammad Abughoush",
+            "short": "M. Abughoush",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Saed Al-Rosan",
+            "short": "S. Al-Rosan",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Saleem Obaid",
+            "short": "S. Obaid",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ibrahim Sadeh",
+            "short": "I. Sadeh",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Abdallah Al-Fakhouri",
+            "short": "A. Al-Fakhouri",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Rajaei Ayed",
+            "short": "R. Ayed",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mohammed Abu Zraiq",
+            "short": "M. Abu Zraiq",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mohammad Abualnadi",
+            "short": "M. Abualnadi",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ali Azaizeh",
+            "short": "A. Azaizeh",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Odeh Fakhoury",
+            "short": "O. Fakhoury",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Amer Jamous",
+            "short": "A. Jamous",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mohammad Al-Daoud",
+            "short": "M. Al-Daoud",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Anas Badawi",
+            "short": "A. Badawi",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nour Bani Ateyah",
+            "short": "N. Bani Ateyah",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Mohamed Amine Tougai",
+            "short": "M. Tougai",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Zineddine Belaïd",
+            "short": "Z. Belaïd",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Farès Ghedjemis",
+            "short": "F. Ghedjemis",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Anis Hadj Moussa",
+            "short": "A. Hadj Moussa",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Oussama Benbot",
+            "short": "O. Benbot",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Achraf Abada",
+            "short": "A. Abada",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Adil Boulbina",
+            "short": "A. Boulbina",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Houssem Aouar",
+            "short": "H. Aouar",
+            "num": "8",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Yassine Titraoui",
+            "short": "Y. Titraoui",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jaouen Hadjam",
+            "short": "J. Hadjam",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nabil Bentaleb",
+            "short": "N. Bentaleb",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nadhir Benbouali",
+            "short": "N. Benbouali",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Samir Chergui",
+            "short": "S. Chergui",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Melvin Mastil",
+            "short": "M. Mastil",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "3-4-2-1",
+        "away": "4-2-3-1"
+      },
+      "commentary": [
+        {
+          "min": "73'",
+          "text": "Attempt saved. Farès Chaïbi (Algeria) right footed shot from outside the box is saved in the centre of the goal by Yazeed Abulaila (Jordan). Assisted by Riyad Mahrez.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Rayan Aït-Nouri (Algeria) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Foul by Ehsan Haddad (Jordan).",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Attempt saved. Mahmoud Al Mardi (Jordan) left footed shot from the left side of the box is saved in the bottom left corner by Luca Zidane (Algeria). Assisted by Ali Olwan.",
+          "goal": false
+        },
+        {
+          "min": "69'",
+          "text": "Goal! Jordan 1, Algeria 1. Nadhir Benbouali (Algeria) header from the centre of the box to the bottom left corner. Assisted by Riyad Mahrez with a cross following a corner.",
+          "goal": true
+        },
+        {
+          "min": "68'",
+          "text": "Corner, Algeria. Conceded by Yazan Al Arab.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Corner, Algeria. Conceded by Nizar Al Rashdan.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Attempt blocked. Ibrahim Maza (Algeria) header from very close range is blocked. Assisted by Riyad Mahrez with a cross.",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Husam Abu Dahab (Jordan) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Riyad Mahrez (Algeria) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Foul by Husam Abu Dahab (Jordan).",
+          "goal": false
+        },
+        {
+          "min": "63'",
+          "text": "Attempt saved. Nadhir Benbouali (Algeria) header from the centre of the box is saved in the bottom right corner by Yazeed Abulaila (Jordan). Assisted by Nabil Bentaleb with a cross.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Attempt missed. Noor Al Rawabdeh (Jordan) right footed shot from outside the box is close, but misses the top right corner.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Attempt missed. Ibrahim Maza (Algeria) left footed shot from the left side of the box is high and wide to the left. Assisted by Nabil Bentaleb.",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Ramy Bensebaini (Algeria) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Foul by Mousa Al Tamari (Jordan).",
+          "goal": false
+        },
+        {
+          "min": "54'",
+          "text": "Attempt missed. Rayan Aït-Nouri (Algeria) right footed shot from the left side of the box misses to the left.",
+          "goal": false
+        },
+        {
+          "min": "54'",
+          "text": "Attempt saved. Ibrahim Maza (Algeria) right footed shot from outside the box is saved in the bottom left corner by Yazeed Abulaila (Jordan). Assisted by Amine Gouiri.",
+          "goal": false
+        },
+        {
+          "min": "51'",
+          "text": "Foul by Rayan Aït-Nouri (Algeria).",
+          "goal": false
+        },
+        {
+          "min": "51'",
+          "text": "Mousa Al Tamari (Jordan) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "50'",
+          "text": "Riyad Mahrez (Algeria) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "50'",
+          "text": "Foul by Mahmoud Al Mardi (Jordan).",
+          "goal": false
+        },
+        {
+          "min": "48'",
+          "text": "Corner, Jordan. Conceded by Rayan Aït-Nouri.",
+          "goal": false
+        },
+        {
+          "min": "48'",
+          "text": "Attempt blocked. Rafik Belghali (Algeria) left footed shot from outside the box is blocked. Assisted by Aïssa Mandi.",
+          "goal": false
+        },
+        {
+          "min": "47'",
+          "text": "Corner, Algeria. Conceded by Mohannad Abu Taha.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Second Half begins Jordan 1, Algeria 0.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Substitution, Algeria. Nadhir Benbouali replaces Hicham Boudaoui.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Substitution, Algeria. Nabil Bentaleb replaces Ramiz Zerrouki.",
+          "goal": false
+        },
+        {
+          "min": "45'+5'",
+          "text": "First Half ends, Jordan 1, Algeria 0.",
+          "goal": false
+        },
+        {
+          "min": "45'+5'",
+          "text": "Farès Chaïbi (Algeria) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "45'+5'",
+          "text": "Foul by Ehsan Haddad (Jordan).",
+          "goal": false
+        },
+        {
+          "min": "45'+1'",
+          "text": "Attempt missed. Ali Olwan (Jordan) right footed shot from outside the box is high and wide to the right. Assisted by Husam Abu Dahab.",
+          "goal": false
+        },
+        {
+          "min": "46'+1'",
+          "text": "Fourth official has announced 5 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "44'",
+          "text": "Ramiz Zerrouki (Algeria) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "44'",
+          "text": "Foul by Ramiz Zerrouki (Algeria).",
+          "goal": false
+        },
+        {
+          "min": "44'",
+          "text": "Nizar Al Rashdan (Jordan) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "43'",
+          "text": "Offside, Jordan. Ali Olwan is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "40'",
+          "text": "Foul by Rafik Belghali (Algeria).",
+          "goal": false
+        },
+        {
+          "min": "40'",
+          "text": "Husam Abu Dahab (Jordan) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "38'",
+          "text": "Ibrahim Maza (Algeria) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "38'",
+          "text": "Foul by Nizar Al Rashdan (Jordan).",
+          "goal": false
+        },
+        {
+          "min": "36'",
+          "text": "Goal! Jordan 1, Algeria 0. Nizar Al Rashdan (Jordan) right footed shot from the centre of the box to the bottom right corner. Assisted by Mousa Al Tamari.",
+          "goal": true
+        },
+        {
+          "min": "36'",
+          "text": "Attempt missed. Mousa Al Tamari (Jordan) left footed shot from the centre of the box misses to the right. Assisted by Mohannad Abu Taha.",
+          "goal": false
+        },
+        {
+          "min": "34'",
+          "text": "Handball by Rayan Aït-Nouri (Algeria).",
+          "goal": false
+        },
+        {
+          "min": "33'",
+          "text": "Corner, Algeria. Conceded by Yazeed Abulaila.",
+          "goal": false
+        },
+        {
+          "min": "33'",
+          "text": "Attempt saved. Riyad Mahrez (Algeria) left footed shot from the centre of the box is saved in the centre of the goal by Yazeed Abulaila (Jordan). Assisted by Hicham Boudaoui with a through ball.",
+          "goal": false
+        },
+        {
+          "min": "31'",
+          "text": "Foul by Ramiz Zerrouki (Algeria).",
+          "goal": false
+        },
+        {
+          "min": "31'",
+          "text": "Mahmoud Al Mardi (Jordan) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "29'",
+          "text": "Attempt saved. Amine Gouiri (Algeria) right footed shot from outside the box is saved in the centre of the goal by Yazeed Abulaila (Jordan). Assisted by Ibrahim Maza.",
+          "goal": false
+        },
+        {
+          "min": "28'",
+          "text": "Corner, Algeria. Conceded by Noor Al Rawabdeh.",
+          "goal": false
+        },
+        {
+          "min": "27'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "24'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "23'",
+          "text": "Attempt saved. Ali Olwan (Jordan) right footed shot from a difficult angle and long range on the right is saved in the centre of the goal by Luca Zidane (Algeria).",
+          "goal": false
+        },
+        {
+          "min": "21'",
+          "text": "Attempt blocked. Farès Chaïbi (Algeria) right footed shot from outside the box is blocked. Assisted by Ibrahim Maza.",
+          "goal": false
+        },
+        {
+          "min": "12'",
+          "text": "Attempt saved. Mousa Al Tamari (Jordan) left footed shot from outside the box is saved in the top right corner by Luca Zidane (Algeria). Assisted by Ali Olwan.",
+          "goal": false
+        },
+        {
+          "min": "8'",
+          "text": "Ramy Bensebaini (Algeria) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "8'",
+          "text": "Foul by Mahmoud Al Mardi (Jordan).",
+          "goal": false
+        },
+        {
+          "min": "6'",
+          "text": "Corner, Algeria. Conceded by Mohannad Abu Taha.",
+          "goal": false
+        },
+        {
+          "min": "3'",
+          "text": "Attempt missed. Amine Gouiri (Algeria) right footed shot from the left side of the box is close, but misses to the left. Assisted by Farès Chaïbi.",
+          "goal": false
+        },
+        {
+          "min": "1'",
+          "text": "Attempt missed. Nizar Al Rashdan (Jordan) header from the centre of the box misses to the right. Assisted by Mahmoud Al Mardi with a cross following a set piece situation.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "N. Al-Rashdan",
+            "num": "21",
+            "pos": "M",
+            "value": "2"
+          },
+          "away": {
+            "name": "I. Maza",
+            "num": "22",
+            "pos": "M",
+            "value": "3"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "M. Abu Taha",
+            "num": "20",
+            "pos": "D",
+            "value": "19"
+          },
+          "away": {
+            "name": "A. Mandi",
+            "num": "2",
+            "pos": "D",
+            "value": "71"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "M. Abu Taha",
+            "num": "20",
+            "pos": "D",
+            "value": "19"
+          },
+          "away": {
+            "name": "R. Bensebaini",
+            "num": "21",
+            "pos": "D",
+            "value": "14"
+          }
+        },
+        {
+          "label": "Saves",
+          "home": {
+            "name": "Y. Abulaila",
+            "num": "1",
+            "pos": "G",
+            "value": "5"
+          },
+          "away": {
+            "name": "L. Zidane",
+            "num": "23",
+            "pos": "G",
+            "value": "3"
           }
         }
       ],
@@ -37750,32 +38884,32 @@
       "venue": "Lincoln Financial Field",
       "stats": {
         "home": {
-          "foulsCommitted": "7",
+          "foulsCommitted": "8",
           "yellowCards": "0",
           "redCards": "0",
-          "offsides": "0",
-          "wonCorners": "1",
+          "offsides": "1",
+          "wonCorners": "4",
           "saves": "0",
-          "possessionPct": "56.1",
-          "totalShots": "12",
-          "shotsOnTarget": "3",
+          "possessionPct": "55.6",
+          "totalShots": "19",
+          "shotsOnTarget": "5",
           "shotPct": "0.3",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "373",
-          "totalPasses": "416",
+          "accuratePasses": "540",
+          "totalPasses": "603",
           "passPct": "0.9",
-          "accurateCrosses": "1",
-          "totalCrosses": "12",
+          "accurateCrosses": "2",
+          "totalCrosses": "14",
           "crossPct": "0.1",
-          "totalLongBalls": "22",
-          "accurateLongBalls": "12",
-          "longballPct": "0.5",
-          "blockedShots": "3",
-          "effectiveTackles": "5",
-          "totalTackles": "9",
+          "totalLongBalls": "30",
+          "accurateLongBalls": "17",
+          "longballPct": "0.6",
+          "blockedShots": "4",
+          "effectiveTackles": "9",
+          "totalTackles": "14",
           "tacklePct": "0.6",
-          "interceptions": "4",
+          "interceptions": "5",
           "effectiveClearance": "9",
           "totalClearance": "9"
         },
@@ -37784,30 +38918,30 @@
           "yellowCards": "1",
           "redCards": "0",
           "offsides": "0",
-          "wonCorners": "1",
-          "saves": "1",
-          "possessionPct": "43.9",
-          "totalShots": "2",
+          "wonCorners": "2",
+          "saves": "2",
+          "possessionPct": "44.4",
+          "totalShots": "4",
           "shotsOnTarget": "0",
           "shotPct": "0.0",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "276",
-          "totalPasses": "331",
-          "passPct": "0.8",
-          "accurateCrosses": "2",
-          "totalCrosses": "5",
+          "accuratePasses": "413",
+          "totalPasses": "481",
+          "passPct": "0.9",
+          "accurateCrosses": "4",
+          "totalCrosses": "9",
           "crossPct": "0.4",
-          "totalLongBalls": "39",
-          "accurateLongBalls": "14",
+          "totalLongBalls": "51",
+          "accurateLongBalls": "21",
           "longballPct": "0.4",
           "blockedShots": "1",
           "effectiveTackles": "8",
-          "totalTackles": "15",
+          "totalTackles": "16",
           "tacklePct": "0.5",
-          "interceptions": "9",
-          "effectiveClearance": "20",
-          "totalClearance": "20"
+          "interceptions": "10",
+          "effectiveClearance": "28",
+          "totalClearance": "28"
         }
       },
       "events": [
@@ -37846,6 +38980,54 @@
           "min": "60'",
           "side": "away",
           "player": "Substitution, Iraq. Youssef Amyn replaces Zaid Ismael."
+        },
+        {
+          "kind": "Goal",
+          "min": "66'",
+          "side": "home",
+          "player": "Goal! France 3, Iraq 0. Ousmane Dembélé"
+        },
+        {
+          "kind": "Substitution",
+          "min": "68'",
+          "side": "home",
+          "player": "Substitution, France. Désiré Doué replaces Ousmane Dembélé."
+        },
+        {
+          "kind": "Substitution",
+          "min": "68'",
+          "side": "home",
+          "player": "Substitution, France. Rayan Cherki replaces Michael Olise."
+        },
+        {
+          "kind": "Substitution",
+          "min": "68'",
+          "side": "away",
+          "player": "Substitution, Iraq. Aimar Sher replaces Amir Al Ammari."
+        },
+        {
+          "kind": "Substitution",
+          "min": "69'",
+          "side": "away",
+          "player": "Substitution, Iraq. Marko Farji replaces Ibrahim Bayesh."
+        },
+        {
+          "kind": "Substitution",
+          "min": "83'",
+          "side": "home",
+          "player": "Substitution, France. Maghnes Akliouche replaces Bradley Barcola."
+        },
+        {
+          "kind": "Substitution",
+          "min": "83'",
+          "side": "home",
+          "player": "Substitution, France. Malo Gusto replaces Jules Koundé."
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'+1'",
+          "side": "home",
+          "player": "Substitution, France. Marcus Thuram replaces Kylian Mbappé."
         }
       ],
       "lineups": {
@@ -38230,6 +39412,136 @@
       },
       "commentary": [
         {
+          "min": "",
+          "text": "Match ends, France 3, Iraq 0.",
+          "goal": false
+        },
+        {
+          "min": "93'",
+          "text": "Second Half ends, France 3, Iraq 0.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Substitution, France. Marcus Thuram replaces Kylian Mbappé.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Fourth official has announced 2 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Attempt missed. Kylian Mbappé (France) left footed shot from the left side of the box is high and wide to the left.",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Attempt saved. Kylian Mbappé (France) right footed shot from the centre of the box is saved in the centre of the goal by Ahmed Basil (Iraq). Assisted by Dayot Upamecano with a through ball.",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Foul by Malo Gusto (France).",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Marko Farji (Iraq) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Substitution, France. Malo Gusto replaces Jules Koundé.",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Substitution, France. Maghnes Akliouche replaces Bradley Barcola.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Offside, France. Kylian Mbappé is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Corner, France. Conceded by Akam Hashim.",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Attempt missed. Kylian Mbappé (France) right footed shot from the left side of the box misses to the left. Assisted by Rayan Cherki with a through ball.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Attempt missed. Ali Al Hamadi (Iraq) right footed shot from very close range is close, but misses to the right. Assisted by Marko Farji with a cross.",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Attempt missed. Rebin Sulaka (Iraq) right footed shot from the centre of the box is too high. Assisted by Zidane Iqbal with a cross following a corner.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Corner, Iraq. Conceded by Bradley Barcola.",
+          "goal": false
+        },
+        {
+          "min": "69'",
+          "text": "Substitution, Iraq. Marko Farji replaces Ibrahim Bayesh.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Substitution, Iraq. Aimar Sher replaces Amir Al Ammari.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Substitution, France. Rayan Cherki replaces Michael Olise.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Substitution, France. Désiré Doué replaces Ousmane Dembélé.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Goal! France 3, Iraq 0. Ousmane Dembélé (France) right footed shot from the centre of the box to the bottom left corner. Assisted by Michael Olise with a through ball.",
+          "goal": true
+        },
+        {
+          "min": "66'",
+          "text": "Attempt missed. Ousmane Dembélé (France) right footed shot from the centre of the box is close, but misses to the right following a corner.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Corner, France. Conceded by Ibrahim Bayesh.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Attempt missed. William Saliba (France) header from the centre of the box is close, but misses to the right. Assisted by Lucas Digne with a cross following a corner.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Corner, France. Conceded by Amir Al Ammari.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Attempt blocked. Ousmane Dembélé (France) left footed shot from outside the box is blocked. Assisted by Jules Koundé.",
+          "goal": false
+        },
+        {
           "min": "63'",
           "text": "Foul by Dayot Upamecano (France).",
           "goal": false
@@ -38276,7 +39588,7 @@
         },
         {
           "min": "59'",
-          "text": "Attempt saved. Ousmane Dembélé (France) right footed shot from the right side of the box is saved in the top centre of the goal by Ahmed Basil (Iraq). Assisted by Michael Olise.",
+          "text": "Attempt saved. Ousmane Dembélé (France) right footed shot from the right side of the box is saved in the top left corner by Ahmed Basil (Iraq). Assisted by Michael Olise.",
           "goal": false
         },
         {
@@ -38361,7 +39673,7 @@
         },
         {
           "min": "40'",
-          "text": "Attempt missed. Kylian Mbappé (France) right footed shot from more than 35 yards is high and wide to the right.",
+          "text": "Attempt missed. Kylian Mbappé (France) right footed shot from more than 35 yards is too high.",
           "goal": false
         },
         {
@@ -38398,86 +39710,6 @@
           "min": "25'",
           "text": "Delay over. They are ready to continue.",
           "goal": false
-        },
-        {
-          "min": "23'",
-          "text": "Delay in match for a drinks break.",
-          "goal": false
-        },
-        {
-          "min": "18'",
-          "text": "Foul by Adrien Rabiot (France).",
-          "goal": false
-        },
-        {
-          "min": "18'",
-          "text": "Merchas Doski (Iraq) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "14'",
-          "text": "Goal! France 1, Iraq 0. Kylian Mbappé (France) left footed shot from outside the box to the bottom left corner. Assisted by Michael Olise.",
-          "goal": true
-        },
-        {
-          "min": "14'",
-          "text": "Attempt blocked. Michael Olise (France) left footed shot from outside the box is blocked. Assisted by Kylian Mbappé.",
-          "goal": false
-        },
-        {
-          "min": "8'",
-          "text": "Attempt missed. Kylian Mbappé (France) right footed shot from the right side of the box misses to the right.",
-          "goal": false
-        },
-        {
-          "min": "8'",
-          "text": "Attempt blocked. Michael Olise (France) left footed shot from outside the box is blocked.",
-          "goal": false
-        },
-        {
-          "min": "7'",
-          "text": "Corner, France. Conceded by Zaid Tahseen.",
-          "goal": false
-        },
-        {
-          "min": "6'",
-          "text": "Amir Al Ammari (Iraq) is shown the yellow card for a bad foul.",
-          "goal": false
-        },
-        {
-          "min": "6'",
-          "text": "Kylian Mbappé (France) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "6'",
-          "text": "Foul by Amir Al Ammari (Iraq).",
-          "goal": false
-        },
-        {
-          "min": "3'",
-          "text": "Foul by Manu Koné (France).",
-          "goal": false
-        },
-        {
-          "min": "3'",
-          "text": "Merchas Doski (Iraq) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "1'",
-          "text": "Attempt missed. Manu Koné (France) left footed shot from outside the box misses to the right.",
-          "goal": false
-        },
-        {
-          "min": "",
-          "text": "First Half begins.",
-          "goal": false
-        },
-        {
-          "min": "",
-          "text": "Lineups are announced and players are warming up.",
-          "goal": false
         }
       ],
       "leaders": [
@@ -38487,13 +39719,13 @@
             "name": "K. Mbappé",
             "num": "10",
             "pos": "F",
-            "value": "5"
+            "value": "8"
           },
           "away": {
             "name": "A. Al-Hamadi",
             "num": "9",
             "pos": "F",
-            "value": "2"
+            "value": "3"
           }
         },
         {
@@ -38502,13 +39734,13 @@
             "name": "D. Upamecano",
             "num": "4",
             "pos": "D",
-            "value": "52"
+            "value": "75"
           },
           "away": {
-            "name": "Z. Ismael",
-            "num": "24",
-            "pos": "M",
-            "value": "40"
+            "name": "A. Hashim",
+            "num": "5",
+            "pos": "D",
+            "value": "68"
           }
         },
         {
@@ -38517,13 +39749,13 @@
             "name": "D. Upamecano",
             "num": "4",
             "pos": "D",
-            "value": "8"
+            "value": "10"
           },
           "away": {
-            "name": "M. Doski",
-            "num": "23",
-            "pos": "M",
-            "value": "13"
+            "name": "A. Hashim",
+            "num": "5",
+            "pos": "D",
+            "value": "14"
           }
         },
         {
@@ -38532,12 +39764,18 @@
             "name": "A. Basil",
             "num": "22",
             "pos": "G",
-            "value": "1"
+            "value": "2"
           }
         }
       ],
-      "highlight": null,
-      "final": false,
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0622/dm_260622_COM_SOC_Analysis_Hislop_France_are_yet_to_be_tested_at_the_World_Cup_20260622_GLOBAL_FIFA_WORLD/dm_260622_COM_SOC_Analysis_Hislop_France_are_yet_to_be_tested_at_the_World_Cup_20260622_GLOBAL_FIFA_WORLD.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49149686/france-yet-tested-world-cup",
+        "headline": "Hislop: France are yet to be tested at the World Cup",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0622/dm_260622_COM_SOC_Analysis_Hislop_France_are_yet_to_be_tested_at_the_World_Cup_20260622_GLOBAL_FIFA_WORLD/dm_260622_COM_SOC_Analysis_Hislop_France_are_yet_to_be_tested_at_the_World_Cup_20260622_GLOBAL_FIFA_WORLD_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0622/dm_260622_COM_SOC_Analysis_Hislop_France_are_yet_to_be_tested_at_the_World_Cup_20260622_GLOBAL_FIFA_WORLD/dm_260622_COM_SOC_Analysis_Hislop_France_are_yet_to_be_tested_at_the_World_Cup_20260622_GLOBAL_FIFA_WORLD/playlist.m3u8"
+      },
+      "final": true,
       "dv": 5
     }
   }

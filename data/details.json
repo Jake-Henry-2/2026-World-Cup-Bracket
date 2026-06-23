@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-22T23:08:50.178Z",
+  "lastUpdated": "2026-06-23T00:20:49.201Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -36205,6 +36205,625 @@
       "final": true,
       "dv": 5
     },
+    "760454": {
+      "venue": "MetLife Stadium",
+      "stats": {
+        "home": {
+          "foulsCommitted": "2",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "4",
+          "saves": "0",
+          "possessionPct": "43.4",
+          "totalShots": "3",
+          "shotsOnTarget": "1",
+          "shotPct": "0.3",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "44",
+          "totalPasses": "59",
+          "passPct": "0.7",
+          "accurateCrosses": "1",
+          "totalCrosses": "5",
+          "crossPct": "0.2",
+          "totalLongBalls": "9",
+          "accurateLongBalls": "5",
+          "longballPct": "0.6",
+          "blockedShots": "0",
+          "effectiveTackles": "3",
+          "totalTackles": "4",
+          "tacklePct": "0.8",
+          "interceptions": "2",
+          "effectiveClearance": "7",
+          "totalClearance": "7"
+        },
+        "away": {
+          "foulsCommitted": "1",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "2",
+          "wonCorners": "1",
+          "saves": "1",
+          "possessionPct": "56.6",
+          "totalShots": "2",
+          "shotsOnTarget": "0",
+          "shotPct": "0.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "72",
+          "totalPasses": "81",
+          "passPct": "0.9",
+          "accurateCrosses": "0",
+          "totalCrosses": "4",
+          "crossPct": "0.0",
+          "totalLongBalls": "11",
+          "accurateLongBalls": "8",
+          "longballPct": "0.7",
+          "blockedShots": "2",
+          "effectiveTackles": "3",
+          "totalTackles": "3",
+          "tacklePct": "1.0",
+          "interceptions": "0",
+          "effectiveClearance": "7",
+          "totalClearance": "7"
+        }
+      },
+      "events": [
+        {
+          "kind": "Substitution",
+          "min": "13'",
+          "side": "home",
+          "player": "Substitution, Norway. Marcus Pedersen replaces Julian Ryerson because of an injury."
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Ørjan Nyland",
+            "short": "Ø. Nyland",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Torbjørn Heggem",
+            "short": "T. Heggem",
+            "num": "17",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Kristoffer Ajer",
+            "short": "K. Ajer",
+            "num": "3",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "David Møller Wolfe",
+            "short": "D. Møller Wolfe",
+            "num": "5",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Julian Ryerson",
+            "short": "J. Ryerson",
+            "num": "26",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Sander Berge",
+            "short": "S. Berge",
+            "num": "8",
+            "pos": "CM",
+            "place": "4"
+          },
+          {
+            "name": "Fredrik Aursnes",
+            "short": "F. Aursnes",
+            "num": "14",
+            "pos": "LM",
+            "place": "8"
+          },
+          {
+            "name": "Martin Ødegaard",
+            "short": "M. Ødegaard",
+            "num": "10",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Erling Haaland",
+            "short": "E. Haaland",
+            "num": "9",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Antonio Nusa",
+            "short": "A. Nusa",
+            "num": "20",
+            "pos": "LF",
+            "place": "11"
+          },
+          {
+            "name": "Alexander Sørloth",
+            "short": "A. Sørloth",
+            "num": "7",
+            "pos": "RF",
+            "place": "10"
+          }
+        ],
+        "away": [
+          {
+            "name": "Édouard Mendy",
+            "short": "É. Mendy",
+            "num": "16",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Moussa Niakhaté",
+            "short": "M. Niakhaté",
+            "num": "19",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Kalidou Koulibaly",
+            "short": "K. Koulibaly",
+            "num": "3",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "El Hadji Malick Diouf",
+            "short": "E. Diouf",
+            "num": "25",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Krépin Diatta",
+            "short": "K. Diatta",
+            "num": "15",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Lamine Camara",
+            "short": "L. Camara",
+            "num": "8",
+            "pos": "AM",
+            "place": "10"
+          },
+          {
+            "name": "Pape Gueye",
+            "short": "P. Gueye",
+            "num": "26",
+            "pos": "LM",
+            "place": "4"
+          },
+          {
+            "name": "Idrissa Gueye",
+            "short": "I. Gueye",
+            "num": "5",
+            "pos": "RM",
+            "place": "8"
+          },
+          {
+            "name": "Nicolas Jackson",
+            "short": "N. Jackson",
+            "num": "11",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Sadio Mané",
+            "short": "S. Mané",
+            "num": "10",
+            "pos": "AM-L",
+            "place": "11"
+          },
+          {
+            "name": "Ismaïla Sarr",
+            "short": "I. Sarr",
+            "num": "18",
+            "pos": "AM-R",
+            "place": "7"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Jørgen Strand Larsen",
+            "short": "J. Larsen",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Fredrik André Bjørkan",
+            "short": "F. Bjørkan",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Patrick Berg",
+            "short": "P. Berg",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Henrik Falchener",
+            "short": "H. Falchener",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Sondre Langas",
+            "short": "S. Langas",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Andreas Schjelderup",
+            "short": "A. Schjelderup",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jens Petter Hauge",
+            "short": "J. Hauge",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Morten Thorsby",
+            "short": "M. Thorsby",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Egil Selvik",
+            "short": "E. Selvik",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Marcus Holmgren Pedersen",
+            "short": "M. Holmgren Pedersen",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Sander Tangvik",
+            "short": "S. Tangvik",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kristian Thorstvedt",
+            "short": "K. Thorstvedt",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Leo Østigard",
+            "short": "L. Østigard",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Thelo Aasgaard",
+            "short": "T. Aasgaard",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Oscar Bobb",
+            "short": "O. Bobb",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Habib Diarra",
+            "short": "H. Diarra",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Antoine Mendy",
+            "short": "A. Mendy",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Bamba Dieng",
+            "short": "B. Dieng",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Pape Matar Sarr",
+            "short": "P. Sarr",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Abdoulaye Seck",
+            "short": "A. Seck",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ismail Jakobs",
+            "short": "I. Jakobs",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mamadou Sarr",
+            "short": "M. Sarr",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Pathé Ciss",
+            "short": "P. Ciss",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Iliman Ndiaye",
+            "short": "I. Ndiaye",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Yehvann Diouf",
+            "short": "Y. Diouf",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ibrahim Mbaye",
+            "short": "I. Mbaye",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mory Diaw",
+            "short": "M. Diaw",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Bara Sapoko Ndiaye",
+            "short": "B. Ndiaye",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Assane Diao",
+            "short": "A. Diao",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Cherif Ndiaye",
+            "short": "C. Ndiaye",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-3-3",
+        "away": "4-2-3-1"
+      },
+      "commentary": [
+        {
+          "min": "20'",
+          "text": "Lamine Camara (Senegal) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "20'",
+          "text": "Foul by Fredrik Aursnes (Norway).",
+          "goal": false
+        },
+        {
+          "min": "17'",
+          "text": "Attempt blocked. Nicolas Jackson (Senegal) left footed shot from the left side of the box is blocked. Assisted by Idrissa Gueye with a through ball.",
+          "goal": false
+        },
+        {
+          "min": "16'",
+          "text": "Corner, Senegal. Conceded by Torbjørn Heggem.",
+          "goal": false
+        },
+        {
+          "min": "14'",
+          "text": "Attempt missed. Martin Ødegaard (Norway) left footed shot from the centre of the box is too high. Assisted by Marcus Pedersen.",
+          "goal": false
+        },
+        {
+          "min": "13'",
+          "text": "Substitution, Norway. Marcus Pedersen replaces Julian Ryerson because of an injury.",
+          "goal": false
+        },
+        {
+          "min": "11'",
+          "text": "Offside, Senegal. Ismaïla Sarr is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "9'",
+          "text": "Foul by Fredrik Aursnes (Norway).",
+          "goal": false
+        },
+        {
+          "min": "9'",
+          "text": "Krépin Diatta (Senegal) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "8'",
+          "text": "Attempt blocked. Idrissa Gueye (Senegal) right footed shot from outside the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "7'",
+          "text": "Alexander Sørloth (Norway) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "7'",
+          "text": "Foul by El Hadji Malick Diouf (Senegal).",
+          "goal": false
+        },
+        {
+          "min": "4'",
+          "text": "Offside, Senegal. Nicolas Jackson is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "3'",
+          "text": "Corner, Norway. Conceded by Kalidou Koulibaly.",
+          "goal": false
+        },
+        {
+          "min": "3'",
+          "text": "Attempt saved. Kristoffer Ajer (Norway) header from very close range is saved in the centre of the goal by Édouard Mendy (Senegal). Assisted by Julian Ryerson with a cross.",
+          "goal": false
+        },
+        {
+          "min": "2'",
+          "text": "Corner, Norway. Conceded by El Hadji Malick Diouf.",
+          "goal": false
+        },
+        {
+          "min": "2'",
+          "text": "Corner, Norway. Conceded by Kalidou Koulibaly.",
+          "goal": false
+        },
+        {
+          "min": "2'",
+          "text": "Attempt missed. Antonio Nusa (Norway) right footed shot from outside the box misses to the right following a corner.",
+          "goal": false
+        },
+        {
+          "min": "1'",
+          "text": "Corner, Norway. Conceded by Moussa Niakhaté.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "First Half begins.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "Lineups are announced and players are warming up.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "A. Nusa",
+            "num": "20",
+            "pos": "M",
+            "value": "1"
+          },
+          "away": {
+            "name": "N. Jackson",
+            "num": "11",
+            "pos": "F",
+            "value": "1"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "K. Ajer",
+            "num": "3",
+            "pos": "D",
+            "value": "10"
+          },
+          "away": {
+            "name": "P. Gueye",
+            "num": "26",
+            "pos": "M",
+            "value": "11"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "K. Ajer",
+            "num": "3",
+            "pos": "D",
+            "value": "3"
+          },
+          "away": {
+            "name": "E. Diouf",
+            "num": "25",
+            "pos": "D",
+            "value": "3"
+          }
+        },
+        {
+          "label": "Saves",
+          "away": {
+            "name": "É. Mendy",
+            "num": "16",
+            "pos": "G",
+            "value": "1"
+          }
+        }
+      ],
+      "highlight": null,
+      "final": false,
+      "dv": 5
+    },
     "760456": {
       "venue": "AT&T Stadium",
       "stats": {
@@ -37131,64 +37750,64 @@
       "venue": "Lincoln Financial Field",
       "stats": {
         "home": {
-          "foulsCommitted": "5",
+          "foulsCommitted": "7",
           "yellowCards": "0",
           "redCards": "0",
           "offsides": "0",
           "wonCorners": "1",
           "saves": "0",
-          "possessionPct": "58.1",
-          "totalShots": "7",
-          "shotsOnTarget": "1",
-          "shotPct": "0.1",
+          "possessionPct": "56.1",
+          "totalShots": "12",
+          "shotsOnTarget": "3",
+          "shotPct": "0.3",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "284",
-          "totalPasses": "316",
+          "accuratePasses": "373",
+          "totalPasses": "416",
           "passPct": "0.9",
           "accurateCrosses": "1",
-          "totalCrosses": "10",
-          "crossPct": "0.0",
-          "totalLongBalls": "17",
-          "accurateLongBalls": "11",
-          "longballPct": "0.6",
+          "totalCrosses": "12",
+          "crossPct": "0.1",
+          "totalLongBalls": "22",
+          "accurateLongBalls": "12",
+          "longballPct": "0.5",
           "blockedShots": "3",
-          "effectiveTackles": "3",
-          "totalTackles": "6",
-          "tacklePct": "0.5",
+          "effectiveTackles": "5",
+          "totalTackles": "9",
+          "tacklePct": "0.6",
           "interceptions": "4",
-          "effectiveClearance": "6",
-          "totalClearance": "6"
+          "effectiveClearance": "9",
+          "totalClearance": "9"
         },
         "away": {
-          "foulsCommitted": "2",
+          "foulsCommitted": "4",
           "yellowCards": "1",
           "redCards": "0",
           "offsides": "0",
           "wonCorners": "1",
-          "saves": "0",
-          "possessionPct": "41.9",
+          "saves": "1",
+          "possessionPct": "43.9",
           "totalShots": "2",
           "shotsOnTarget": "0",
           "shotPct": "0.0",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "190",
-          "totalPasses": "233",
+          "accuratePasses": "276",
+          "totalPasses": "331",
           "passPct": "0.8",
           "accurateCrosses": "2",
-          "totalCrosses": "4",
-          "crossPct": "0.5",
-          "totalLongBalls": "33",
+          "totalCrosses": "5",
+          "crossPct": "0.4",
+          "totalLongBalls": "39",
           "accurateLongBalls": "14",
           "longballPct": "0.4",
           "blockedShots": "1",
-          "effectiveTackles": "6",
-          "totalTackles": "11",
+          "effectiveTackles": "8",
+          "totalTackles": "15",
           "tacklePct": "0.5",
-          "interceptions": "8",
-          "effectiveClearance": "19",
-          "totalClearance": "19"
+          "interceptions": "9",
+          "effectiveClearance": "20",
+          "totalClearance": "20"
         }
       },
       "events": [
@@ -37209,6 +37828,24 @@
           "min": "26'",
           "side": "away",
           "player": "Substitution, Iraq. Ali Al Hamadi replaces Aymen Hussein because of an injury."
+        },
+        {
+          "kind": "Goal",
+          "min": "54'",
+          "side": "home",
+          "player": "Goal! France 2, Iraq 0. Kylian Mbappé"
+        },
+        {
+          "kind": "Substitution",
+          "min": "60'",
+          "side": "away",
+          "player": "Substitution, Iraq. Rebin Sulaka replaces Zaid Tahseen."
+        },
+        {
+          "kind": "Substitution",
+          "min": "60'",
+          "side": "away",
+          "player": "Substitution, Iraq. Youssef Amyn replaces Zaid Ismael."
         }
       ],
       "lineups": {
@@ -37593,6 +38230,86 @@
       },
       "commentary": [
         {
+          "min": "63'",
+          "text": "Foul by Dayot Upamecano (France).",
+          "goal": false
+        },
+        {
+          "min": "63'",
+          "text": "Ali Al Hamadi (Iraq) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Michael Olise (France) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Foul by Merchas Doski (Iraq).",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Foul by Kylian Mbappé (France).",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Zidane Iqbal (Iraq) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Substitution, Iraq. Youssef Amyn replaces Zaid Ismael.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Substitution, Iraq. Rebin Sulaka replaces Zaid Tahseen.",
+          "goal": false
+        },
+        {
+          "min": "59'",
+          "text": "Attempt missed. Adrien Rabiot (France) header from the left side of the six yard box is close, but misses to the left.",
+          "goal": false
+        },
+        {
+          "min": "59'",
+          "text": "Attempt saved. Ousmane Dembélé (France) right footed shot from the right side of the box is saved in the top centre of the goal by Ahmed Basil (Iraq). Assisted by Michael Olise.",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Michael Olise (France) hits the bar with a left footed shot from the right side of the box. Assisted by Kylian Mbappé.",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Jules Koundé (France) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Foul by Ibrahim Bayesh (Iraq).",
+          "goal": false
+        },
+        {
+          "min": "54'",
+          "text": "Goal! France 2, Iraq 0. Kylian Mbappé (France) right footed shot from the centre of the box to the bottom right corner. Assisted by Ousmane Dembélé.",
+          "goal": true
+        },
+        {
+          "min": "53'",
+          "text": "Attempt missed. Bradley Barcola (France) header from the centre of the box misses to the left. Assisted by Ousmane Dembélé with a cross.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Second Half begins France 1, Iraq 0.",
+          "goal": false
+        },
+        {
           "min": "49'",
           "text": "First Half ends, France 1, Iraq 0.",
           "goal": false
@@ -37770,7 +38487,7 @@
             "name": "K. Mbappé",
             "num": "10",
             "pos": "F",
-            "value": "4"
+            "value": "5"
           },
           "away": {
             "name": "A. Al-Hamadi",
@@ -37782,31 +38499,40 @@
         {
           "label": "Accurate Passes",
           "home": {
-            "name": "A. Rabiot",
-            "num": "14",
-            "pos": "M",
-            "value": "42"
+            "name": "D. Upamecano",
+            "num": "4",
+            "pos": "D",
+            "value": "52"
           },
           "away": {
-            "name": "Z. Iqbal",
-            "num": "14",
+            "name": "Z. Ismael",
+            "num": "24",
             "pos": "M",
-            "value": "30"
+            "value": "40"
           }
         },
         {
           "label": "Defensive Interventions",
           "home": {
-            "name": "W. Saliba",
-            "num": "17",
+            "name": "D. Upamecano",
+            "num": "4",
             "pos": "D",
-            "value": "5"
+            "value": "8"
           },
           "away": {
-            "name": "A. Hashim",
-            "num": "5",
-            "pos": "D",
-            "value": "11"
+            "name": "M. Doski",
+            "num": "23",
+            "pos": "M",
+            "value": "13"
+          }
+        },
+        {
+          "label": "Saves",
+          "away": {
+            "name": "A. Basil",
+            "num": "22",
+            "pos": "G",
+            "value": "1"
           }
         }
       ],

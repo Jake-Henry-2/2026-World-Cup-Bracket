@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-22T23:08:49.849Z",
+  "lastUpdated": "2026-06-23T00:20:49.113Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -580,7 +580,7 @@
       "stage": "group",
       "home": "France",
       "away": "Iraq",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 0,
       "homeWinner": false,
       "awayWinner": false,
@@ -595,10 +595,10 @@
       "id": "760457",
       "date": "2026-06-22T21:00Z",
       "venue": "Lincoln Financial Field",
-      "clock": 2700,
-      "displayClock": "45'+3'",
-      "detail": "Delay",
-      "period": 1
+      "clock": 3900,
+      "displayClock": "65'",
+      "detail": "65'",
+      "period": 2
     },
     {
       "stage": "group",
@@ -609,16 +609,20 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 130,
-        "away": 220,
-        "draw": 245,
+        "home": 145,
+        "away": 190,
+        "draw": 240,
         "total": 2.5,
         "book": "DraftKings"
       },
-      "status": "scheduled",
+      "status": "live",
       "id": "760454",
       "date": "2026-06-23T00:00Z",
-      "venue": "MetLife Stadium"
+      "venue": "MetLife Stadium",
+      "clock": 1260,
+      "displayClock": "21'",
+      "detail": "21'",
+      "period": 1
     },
     {
       "stage": "group",
@@ -649,7 +653,7 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -550,
+        "home": -575,
         "away": 1600,
         "draw": 650,
         "total": 3.5,
@@ -1109,7 +1113,7 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 950,
+        "home": 1000,
         "away": -450,
         "draw": 650,
         "total": 2.5,

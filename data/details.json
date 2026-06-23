@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T18:29:16.187Z",
+  "lastUpdated": "2026-06-23T20:39:32.409Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -39832,73 +39832,780 @@
       "final": true,
       "dv": 5
     },
+    "760458": {
+      "venue": "Gillette Stadium",
+      "stats": {
+        "home": {
+          "foulsCommitted": "7",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "1",
+          "saves": "0",
+          "possessionPct": "84.2",
+          "totalShots": "5",
+          "shotsOnTarget": "0",
+          "shotPct": "0.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "282",
+          "totalPasses": "294",
+          "passPct": "1.0",
+          "accurateCrosses": "1",
+          "totalCrosses": "10",
+          "crossPct": "0.1",
+          "totalLongBalls": "12",
+          "accurateLongBalls": "10",
+          "longballPct": "0.8",
+          "blockedShots": "3",
+          "effectiveTackles": "1",
+          "totalTackles": "1",
+          "tacklePct": "1.0",
+          "interceptions": "1",
+          "effectiveClearance": "1",
+          "totalClearance": "1"
+        },
+        "away": {
+          "foulsCommitted": "8",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "1",
+          "wonCorners": "0",
+          "saves": "0",
+          "possessionPct": "15.8",
+          "totalShots": "0",
+          "shotsOnTarget": "0",
+          "shotPct": "0.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "42",
+          "totalPasses": "57",
+          "passPct": "0.7",
+          "accurateCrosses": "0",
+          "totalCrosses": "0",
+          "crossPct": "0.0",
+          "totalLongBalls": "18",
+          "accurateLongBalls": "10",
+          "longballPct": "0.6",
+          "blockedShots": "0",
+          "effectiveTackles": "9",
+          "totalTackles": "10",
+          "tacklePct": "0.9",
+          "interceptions": "5",
+          "effectiveClearance": "15",
+          "totalClearance": "15"
+        }
+      },
+      "events": [],
+      "lineups": {
+        "home": [
+          {
+            "name": "Jordan Pickford",
+            "short": "J. Pickford",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Marc Guéhi",
+            "short": "M. Guéhi",
+            "num": "6",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Ezri Konsa",
+            "short": "E. Konsa",
+            "num": "2",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Djed Spence",
+            "short": "D. Spence",
+            "num": "25",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Reece James",
+            "short": "R. James",
+            "num": "24",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Jude Bellingham",
+            "short": "J. Bellingham",
+            "num": "10",
+            "pos": "AM",
+            "place": "10"
+          },
+          {
+            "name": "Declan Rice",
+            "short": "D. Rice",
+            "num": "4",
+            "pos": "LM",
+            "place": "4"
+          },
+          {
+            "name": "Elliot Anderson",
+            "short": "E. Anderson",
+            "num": "8",
+            "pos": "RM",
+            "place": "8"
+          },
+          {
+            "name": "Harry Kane",
+            "short": "H. Kane",
+            "num": "9",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Anthony Gordon",
+            "short": "A. Gordon",
+            "num": "18",
+            "pos": "AM-L",
+            "place": "11"
+          },
+          {
+            "name": "Noni Madueke",
+            "short": "N. Madueke",
+            "num": "20",
+            "pos": "AM-R",
+            "place": "7"
+          }
+        ],
+        "away": [
+          {
+            "name": "Benjamin Asare",
+            "short": "B. Asare",
+            "num": "16",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Jerome Opoku",
+            "short": "J. Opoku",
+            "num": "18",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Jonas Adjetey",
+            "short": "J. Adjetey",
+            "num": "4",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Thomas Partey",
+            "short": "T. Partey",
+            "num": "5",
+            "pos": "DM",
+            "place": "4"
+          },
+          {
+            "name": "Gideon Mensah",
+            "short": "G. Mensah",
+            "num": "14",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Marvin Senaya",
+            "short": "M. Senaya",
+            "num": "26",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Kwasi Sibo",
+            "short": "K. Sibo",
+            "num": "8",
+            "pos": "CM-L",
+            "place": "10"
+          },
+          {
+            "name": "Caleb Yirenkyi",
+            "short": "C. Yirenkyi",
+            "num": "3",
+            "pos": "CM-R",
+            "place": "8"
+          },
+          {
+            "name": "Antoine Semenyo",
+            "short": "A. Semenyo",
+            "num": "11",
+            "pos": "LM",
+            "place": "11"
+          },
+          {
+            "name": "Iñaki Williams",
+            "short": "I. Williams",
+            "num": "19",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Jordan Ayew",
+            "short": "J. Ayew",
+            "num": "9",
+            "pos": "F",
+            "place": "9"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Jordan Henderson",
+            "short": "J. Henderson",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Trevoh Chalobah",
+            "short": "T. Chalobah",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ivan Toney",
+            "short": "I. Toney",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Morgan Rogers",
+            "short": "M. Rogers",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Eberechi Eze",
+            "short": "E. Eze",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jarell Quansah",
+            "short": "J. Quansah",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ollie Watkins",
+            "short": "O. Watkins",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "John Stones",
+            "short": "J. Stones",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Dean Henderson",
+            "short": "D. Henderson",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Marcus Rashford",
+            "short": "M. Rashford",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Dan Burn",
+            "short": "D. Burn",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nico O'Reilly",
+            "short": "N. O'Reilly",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Bukayo Saka",
+            "short": "B. Saka",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kobbie Mainoo",
+            "short": "K. Mainoo",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "James Trafford",
+            "short": "J. Trafford",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Joseph Anang",
+            "short": "J. Anang",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Prince Adu",
+            "short": "P. Adu",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kojo Peprah Oppong",
+            "short": "K. Oppong",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Augustine Boakye",
+            "short": "A. Boakye",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kamaldeen Sulemana",
+            "short": "K. Sulemana",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Alidu Seidu",
+            "short": "A. Seidu",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Elisha Owusu",
+            "short": "E. Owusu",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Abdul Mumin",
+            "short": "A. Mumin",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Derrick Luckassen",
+            "short": "D. Luckassen",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Baba Rahman",
+            "short": "B. Rahman",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Brandon Thomas-Asante",
+            "short": "B. Thomas-Asante",
+            "num": "10",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Christopher Bonsu Baah",
+            "short": "C. Baah",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ernest Nuamah",
+            "short": "E. Nuamah",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Lawrence Ati Zigi",
+            "short": "L. Zigi",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Fatawu Issahaku",
+            "short": "F. Issahaku",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-2-3-1",
+        "away": "4-1-4-1"
+      },
+      "commentary": [
+        {
+          "min": "39'",
+          "text": "Foul by Elliot Anderson (England).",
+          "goal": false
+        },
+        {
+          "min": "39'",
+          "text": "Jordan Ayew (Ghana) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "38'",
+          "text": "Handball by Marc Guéhi (England).",
+          "goal": false
+        },
+        {
+          "min": "37'",
+          "text": "Attempt missed. Declan Rice (England) header from the centre of the box is just a bit too high. Assisted by Noni Madueke with a cross.",
+          "goal": false
+        },
+        {
+          "min": "34'",
+          "text": "Foul by Elliot Anderson (England).",
+          "goal": false
+        },
+        {
+          "min": "34'",
+          "text": "Gideon Mensah (Ghana) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "33'",
+          "text": "Attempt blocked. Jude Bellingham (England) right footed shot from the right side of the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "32'",
+          "text": "Marc Guéhi (England) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "32'",
+          "text": "Foul by Jerome Opoku (Ghana).",
+          "goal": false
+        },
+        {
+          "min": "31'",
+          "text": "Foul by Ezri Konsa (England).",
+          "goal": false
+        },
+        {
+          "min": "31'",
+          "text": "Jordan Ayew (Ghana) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "31'",
+          "text": "Foul by Anthony Gordon (England).",
+          "goal": false
+        },
+        {
+          "min": "31'",
+          "text": "Marvin Senaya (Ghana) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "29'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "26'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "26'",
+          "text": "Elliot Anderson (England) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "26'",
+          "text": "Foul by Antoine Semenyo (Ghana).",
+          "goal": false
+        },
+        {
+          "min": "24'",
+          "text": "Marc Guéhi (England) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "24'",
+          "text": "Foul by Caleb Yirenkyi (Ghana).",
+          "goal": false
+        },
+        {
+          "min": "23'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "20'",
+          "text": "Delay in match because of an injury Reece James (England).",
+          "goal": false
+        },
+        {
+          "min": "20'",
+          "text": "Delay in match because of an injury Jordan Ayew (Ghana).",
+          "goal": false
+        },
+        {
+          "min": "20'",
+          "text": "Ezri Konsa (England) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "20'",
+          "text": "Foul by Antoine Semenyo (Ghana).",
+          "goal": false
+        },
+        {
+          "min": "18'",
+          "text": "Marc Guéhi (England) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "18'",
+          "text": "Foul by Iñaki Williams (Ghana).",
+          "goal": false
+        },
+        {
+          "min": "18'",
+          "text": "Foul by Ezri Konsa (England).",
+          "goal": false
+        },
+        {
+          "min": "18'",
+          "text": "Jordan Ayew (Ghana) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "16'",
+          "text": "Corner, England. Conceded by Jonas Adjetey.",
+          "goal": false
+        },
+        {
+          "min": "16'",
+          "text": "Attempt blocked. Declan Rice (England) left footed shot from a difficult angle on the left is blocked.",
+          "goal": false
+        },
+        {
+          "min": "15'",
+          "text": "Attempt blocked. Elliot Anderson (England) right footed shot from the centre of the box is blocked. Assisted by Anthony Gordon.",
+          "goal": false
+        },
+        {
+          "min": "14'",
+          "text": "Harry Kane (England) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "14'",
+          "text": "Foul by Jonas Adjetey (Ghana).",
+          "goal": false
+        },
+        {
+          "min": "14'",
+          "text": "Attempt missed. Declan Rice (England) right footed shot from outside the box is just a bit too high. Assisted by Reece James from a direct free kick.",
+          "goal": false
+        },
+        {
+          "min": "12'",
+          "text": "Anthony Gordon (England) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "12'",
+          "text": "Foul by Marvin Senaya (Ghana).",
+          "goal": false
+        },
+        {
+          "min": "8'",
+          "text": "Foul by Jude Bellingham (England).",
+          "goal": false
+        },
+        {
+          "min": "8'",
+          "text": "Jerome Opoku (Ghana) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "6'",
+          "text": "Noni Madueke (England) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "6'",
+          "text": "Foul by Kwasi Sibo (Ghana).",
+          "goal": false
+        },
+        {
+          "min": "5'",
+          "text": "Offside, Ghana. Iñaki Williams is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "First Half begins.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "Lineups are announced and players are warming up.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "D. Rice",
+            "num": "4",
+            "pos": "M",
+            "value": "3"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "M. Guéhi",
+            "num": "6",
+            "pos": "D",
+            "value": "59"
+          },
+          "away": {
+            "name": "T. Partey",
+            "num": "5",
+            "pos": "M",
+            "value": "7"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "J. Pickford",
+            "num": "1",
+            "pos": "G",
+            "value": "2"
+          },
+          "away": {
+            "name": "M. Senaya",
+            "num": "26",
+            "pos": "D",
+            "value": "8"
+          }
+        }
+      ],
+      "highlight": null,
+      "final": false,
+      "dv": 5
+    },
     "760461": {
       "venue": "NRG Stadium",
       "stats": {
         "home": {
-          "foulsCommitted": "10",
-          "yellowCards": "0",
-          "redCards": "0",
-          "offsides": "0",
-          "wonCorners": "2",
-          "saves": "2",
-          "possessionPct": "64.2",
-          "totalShots": "12",
-          "shotsOnTarget": "5",
-          "shotPct": "0.4",
-          "penaltyKickGoals": "0",
-          "penaltyKickShots": "0",
-          "accuratePasses": "350",
-          "totalPasses": "395",
-          "passPct": "0.9",
-          "accurateCrosses": "6",
-          "totalCrosses": "16",
-          "crossPct": "0.4",
-          "totalLongBalls": "29",
-          "accurateLongBalls": "12",
-          "longballPct": "0.4",
-          "blockedShots": "2",
-          "effectiveTackles": "7",
-          "totalTackles": "9",
-          "tacklePct": "0.8",
-          "interceptions": "2",
-          "effectiveClearance": "13",
-          "totalClearance": "13"
-        },
-        "away": {
-          "foulsCommitted": "9",
+          "foulsCommitted": "14",
           "yellowCards": "1",
           "redCards": "0",
-          "offsides": "0",
+          "offsides": "2",
+          "wonCorners": "3",
+          "saves": "2",
+          "possessionPct": "66",
+          "totalShots": "17",
+          "shotsOnTarget": "9",
+          "shotPct": "0.5",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "561",
+          "totalPasses": "624",
+          "passPct": "0.9",
+          "accurateCrosses": "5",
+          "totalCrosses": "22",
+          "crossPct": "0.2",
+          "totalLongBalls": "40",
+          "accurateLongBalls": "22",
+          "longballPct": "0.6",
+          "blockedShots": "3",
+          "effectiveTackles": "11",
+          "totalTackles": "14",
+          "tacklePct": "0.8",
+          "interceptions": "5",
+          "effectiveClearance": "16",
+          "totalClearance": "16"
+        },
+        "away": {
+          "foulsCommitted": "15",
+          "yellowCards": "1",
+          "redCards": "0",
+          "offsides": "2",
           "wonCorners": "2",
-          "saves": "1",
-          "possessionPct": "35.8",
-          "totalShots": "6",
+          "saves": "4",
+          "possessionPct": "34",
+          "totalShots": "7",
           "shotsOnTarget": "2",
           "shotPct": "0.3",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "179",
-          "totalPasses": "225",
+          "accuratePasses": "262",
+          "totalPasses": "325",
           "passPct": "0.8",
           "accurateCrosses": "0",
-          "totalCrosses": "5",
+          "totalCrosses": "8",
           "crossPct": "0.0",
-          "totalLongBalls": "19",
-          "accurateLongBalls": "5",
+          "totalLongBalls": "29",
+          "accurateLongBalls": "9",
           "longballPct": "0.3",
           "blockedShots": "3",
-          "effectiveTackles": "10",
-          "totalTackles": "13",
-          "tacklePct": "0.8",
-          "interceptions": "8",
-          "effectiveClearance": "21",
-          "totalClearance": "21"
+          "effectiveTackles": "13",
+          "totalTackles": "18",
+          "tacklePct": "0.7",
+          "interceptions": "14",
+          "effectiveClearance": "30",
+          "totalClearance": "30"
         }
       },
       "events": [
         {
-          "kind": "Goal",
+          "kind": "Goal - Volley",
           "min": "6'",
           "side": "home",
           "player": "Goal! Portugal 1, Uzbekistan 0. Cristiano Ronaldo"
@@ -39925,6 +40632,12 @@
           "kind": "Substitution",
           "min": "45'",
           "side": "away",
+          "player": "Substitution, Uzbekistan. Khojiakbar Alijonov replaces Sherzod Nasrullaev."
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "away",
           "player": "Substitution, Uzbekistan. Akmal Mozgovoy replaces Odiljon Khamrobekov."
         },
         {
@@ -39932,12 +40645,6 @@
           "min": "45'",
           "side": "home",
           "player": "Substitution, Portugal. Nélson Semedo replaces João Cancelo."
-        },
-        {
-          "kind": "Substitution",
-          "min": "45'",
-          "side": "away",
-          "player": "Substitution, Uzbekistan. Khojiakbar Alijonov replaces Sherzod Nasrullaev."
         },
         {
           "kind": "Substitution",
@@ -39953,9 +40660,51 @@
         },
         {
           "kind": "Substitution",
-          "min": "64'",
+          "min": "63'",
           "side": "home",
           "player": "Substitution, Portugal. Trincão replaces João Félix."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "68'",
+          "side": "home",
+          "player": "Renato Veiga"
+        },
+        {
+          "kind": "Substitution",
+          "min": "73'",
+          "side": "away",
+          "player": "Substitution, Uzbekistan. Igor Sergeev replaces Abbosbek Fayzullaev."
+        },
+        {
+          "kind": "Substitution",
+          "min": "76'",
+          "side": "home",
+          "player": "Substitution, Portugal. Bernardo Silva replaces João Neves."
+        },
+        {
+          "kind": "Substitution",
+          "min": "83'",
+          "side": "home",
+          "player": "Substitution, Portugal. Rafael Leão replaces Vitinha."
+        },
+        {
+          "kind": "Goal",
+          "min": "87'",
+          "side": "home",
+          "player": "Goal! Portugal 5, Uzbekistan 0. Rafael Leão"
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'+2'",
+          "side": "away",
+          "player": "Substitution, Uzbekistan. Ruslanbek Jiyanov replaces Bekhruz Karimov."
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'+2'",
+          "side": "away",
+          "player": "Substitution, Uzbekistan. Sherzod Esanov replaces Otabek Shukurov."
         }
       ],
       "lineups": {
@@ -40340,7 +41089,217 @@
       },
       "commentary": [
         {
-          "min": "64'",
+          "min": "",
+          "text": "Match ends, Portugal 5, Uzbekistan 0.",
+          "goal": false
+        },
+        {
+          "min": "96'",
+          "text": "Second Half ends, Portugal 5, Uzbekistan 0.",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Offside, Portugal. Cristiano Ronaldo is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Foul by Cristiano Ronaldo (Portugal).",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Khojiakbar Alijonov (Uzbekistan) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Offside, Uzbekistan. Igor Sergeev is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Attempt missed. Trincão (Portugal) left footed shot from the centre of the box is close, but misses to the right. Assisted by Nuno Mendes following a set piece situation.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Rafael Leão (Portugal) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Foul by Aziz G'aniev (Uzbekistan).",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Substitution, Uzbekistan. Sherzod Esanov replaces Otabek Shukurov.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Substitution, Uzbekistan. Ruslanbek Jiyanov replaces Bekhruz Karimov.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Foul by Rafael Leão (Portugal).",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Bekhruz Karimov (Uzbekistan) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "91'+1'",
+          "text": "Fourth official has announced 5 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Goal! Portugal 5, Uzbekistan 0. Rafael Leão (Portugal) right footed shot from the centre of the box to the top left corner.",
+          "goal": true
+        },
+        {
+          "min": "87'",
+          "text": "Nuno Mendes (Portugal) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Foul by Bekhruz Karimov (Uzbekistan).",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Offside, Portugal. Cristiano Ronaldo is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Attempt saved. Bruno Fernandes (Portugal) right footed shot from outside the box is saved in the bottom left corner by Abduvokhid Nematov (Uzbekistan). Assisted by Francisco Conceição.",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Substitution, Portugal. Rafael Leão replaces Vitinha.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Corner, Portugal. Conceded by Bekhruz Karimov.",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Foul by Nuno Mendes (Portugal).",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Bekhruz Karimov (Uzbekistan) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Francisco Conceição (Portugal) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Foul by Khojiakbar Alijonov (Uzbekistan).",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Attempt missed. Eldor Shomurodov (Uzbekistan) right footed shot from the right side of the box is just a bit too high. Assisted by Bekhruz Karimov.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Substitution, Portugal. Bernardo Silva replaces João Neves.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "João Neves (Portugal) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Foul by Rustam Ashurmatov (Uzbekistan).",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Rúben Dias (Portugal) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Foul by Eldor Shomurodov (Uzbekistan).",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Attempt saved. Cristiano Ronaldo (Portugal) left footed shot from the centre of the box is saved in the bottom left corner by Abduvokhid Nematov (Uzbekistan).",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Substitution, Uzbekistan. Igor Sergeev replaces Abbosbek Fayzullaev.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Attempt blocked. Cristiano Ronaldo (Portugal) left footed shot from the centre of the box is blocked. Assisted by Nuno Mendes.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Offside, Uzbekistan. Eldor Shomurodov is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "69'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Renato Veiga (Portugal) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Foul by Renato Veiga (Portugal).",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Aziz G'aniev (Uzbekistan) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Nuno Mendes (Portugal) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Foul by Bekhruz Karimov (Uzbekistan).",
+          "goal": false
+        },
+        {
+          "min": "63'",
           "text": "Substitution, Portugal. Trincão replaces João Félix.",
           "goal": false
         },
@@ -40371,7 +41330,7 @@
         },
         {
           "min": "60'",
-          "text": "Attempt missed. João Félix (Portugal) right footed shot from the right side of the six yard box misses to the left. Assisted by Bruno Fernandes with a cross following a corner.",
+          "text": "Attempt saved. João Félix (Portugal) right footed shot from the right side of the six yard box is saved in the centre of the goal by Abduvokhid Nematov (Uzbekistan).",
           "goal": false
         },
         {
@@ -40428,216 +41387,6 @@
           "min": "50'",
           "text": "Otabek Shukurov (Uzbekistan) wins a free kick in the defensive half.",
           "goal": false
-        },
-        {
-          "min": "47'",
-          "text": "Attempt missed. João Félix (Portugal) right footed shot from outside the box is just a bit too high.",
-          "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Substitution, Portugal. Francisco Conceição replaces Pedro Neto.",
-          "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Substitution, Portugal. Nélson Semedo replaces João Cancelo.",
-          "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Second Half begins Portugal 3, Uzbekistan 0.",
-          "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Substitution, Uzbekistan. Akmal Mozgovoy replaces Odiljon Khamrobekov.",
-          "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Substitution, Uzbekistan. Khojiakbar Alijonov replaces Sherzod Nasrullaev.",
-          "goal": false
-        },
-        {
-          "min": "45'+7'",
-          "text": "First Half ends, Portugal 3, Uzbekistan 0.",
-          "goal": false
-        },
-        {
-          "min": "45'+6'",
-          "text": "Attempt blocked. Cristiano Ronaldo (Portugal) right footed shot from the centre of the box is blocked. Assisted by João Cancelo with a cross.",
-          "goal": false
-        },
-        {
-          "min": "45'+4'",
-          "text": "Foul by Nuno Mendes (Portugal).",
-          "goal": false
-        },
-        {
-          "min": "45'+4'",
-          "text": "Bekhruz Karimov (Uzbekistan) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "45'+2'",
-          "text": "Delay over. They are ready to continue.",
-          "goal": false
-        },
-        {
-          "min": "45'+2'",
-          "text": "Delay in match (Portugal).",
-          "goal": false
-        },
-        {
-          "min": "45'+2'",
-          "text": "Attempt blocked. Odiljon Khamrobekov (Uzbekistan) right footed shot from the centre of the box is blocked. Assisted by Eldor Shomurodov.",
-          "goal": false
-        },
-        {
-          "min": "45'+2'",
-          "text": "Foul by Rúben Dias (Portugal).",
-          "goal": false
-        },
-        {
-          "min": "45'+2'",
-          "text": "Eldor Shomurodov (Uzbekistan) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Fourth official has announced 6 minutes of added time.",
-          "goal": false
-        },
-        {
-          "min": "43'",
-          "text": "Attempt missed. Otabek Shukurov (Uzbekistan) right footed shot from outside the box is too high. Assisted by Eldor Shomurodov.",
-          "goal": false
-        },
-        {
-          "min": "42'",
-          "text": "Foul by João Cancelo (Portugal).",
-          "goal": false
-        },
-        {
-          "min": "42'",
-          "text": "Abbosbek Fayzullaev (Uzbekistan) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "42'",
-          "text": "Attempt missed. João Félix (Portugal) left footed shot from the left side of the box is high and wide to the right. Assisted by Vitinha with a through ball.",
-          "goal": false
-        },
-        {
-          "min": "39'",
-          "text": "Goal! Portugal 3, Uzbekistan 0. Cristiano Ronaldo (Portugal) right footed shot from the right side of the box to the bottom left corner. Assisted by Bruno Fernandes with a through ball following a fast break.",
-          "goal": true
-        },
-        {
-          "min": "36'",
-          "text": "Nuno Mendes (Portugal) wins a free kick on the left wing.",
-          "goal": false
-        },
-        {
-          "min": "36'",
-          "text": "Foul by Otabek Shukurov (Uzbekistan).",
-          "goal": false
-        },
-        {
-          "min": "34'",
-          "text": "Foul by João Félix (Portugal).",
-          "goal": false
-        },
-        {
-          "min": "34'",
-          "text": "Abdulla Abdullaev (Uzbekistan) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "32'",
-          "text": "Handball by Pedro Neto (Portugal).",
-          "goal": false
-        },
-        {
-          "min": "30'",
-          "text": "VAR Decision: No Goal Portugal 2-0 Uzbekistan.",
-          "goal": false
-        },
-        {
-          "min": "29'",
-          "text": "GOAL OVERTURNED BY VAR: Aziz G'aniev (Uzbekistan) scores but the goal is ruled out after a VAR review.",
-          "goal": false
-        },
-        {
-          "min": "29'",
-          "text": "João Cancelo (Portugal) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "29'",
-          "text": "Foul by Abbosbek Fayzullaev (Uzbekistan).",
-          "goal": false
-        },
-        {
-          "min": "28'",
-          "text": "Foul by Vitinha (Portugal).",
-          "goal": false
-        },
-        {
-          "min": "28'",
-          "text": "Odiljon Khamrobekov (Uzbekistan) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "26'",
-          "text": "Foul by Nuno Mendes (Portugal).",
-          "goal": false
-        },
-        {
-          "min": "26'",
-          "text": "Bekhruz Karimov (Uzbekistan) wins a free kick on the right wing.",
-          "goal": false
-        },
-        {
-          "min": "25'",
-          "text": "Delay over. They are ready to continue.",
-          "goal": false
-        },
-        {
-          "min": "23'",
-          "text": "Delay in match for a drinks break.",
-          "goal": false
-        },
-        {
-          "min": "23'",
-          "text": "Foul by João Cancelo (Portugal).",
-          "goal": false
-        },
-        {
-          "min": "23'",
-          "text": "Eldor Shomurodov (Uzbekistan) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "22'",
-          "text": "Bruno Fernandes (Portugal) wins a free kick on the left wing.",
-          "goal": false
-        },
-        {
-          "min": "22'",
-          "text": "Foul by Abdulla Abdullaev (Uzbekistan).",
-          "goal": false
-        },
-        {
-          "min": "21'",
-          "text": "Attempt missed. Vitinha (Portugal) right footed shot from outside the box is close, but misses to the right.",
-          "goal": false
-        },
-        {
-          "min": "20'",
-          "text": "Nuno Mendes (Portugal) wins a free kick on the left wing.",
-          "goal": false
         }
       ],
       "leaders": [
@@ -40647,7 +41396,7 @@
             "name": "C. Ronaldo",
             "num": "7",
             "pos": "F",
-            "value": "5"
+            "value": "7"
           },
           "away": {
             "name": "O. Shukurov",
@@ -40662,28 +41411,28 @@
             "name": "Vitinha ",
             "num": "23",
             "pos": "M",
-            "value": "67"
-          },
-          "away": {
-            "name": "O. Shukurov",
-            "num": "7",
-            "pos": "M",
-            "value": "27"
-          }
-        },
-        {
-          "label": "Defensive Interventions",
-          "home": {
-            "name": "R. Dias",
-            "num": "3",
-            "pos": "D",
-            "value": "6"
+            "value": "95"
           },
           "away": {
             "name": "R. Ashurmatov",
             "num": "5",
             "pos": "D",
-            "value": "11"
+            "value": "36"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "R. Veiga",
+            "num": "13",
+            "pos": "M",
+            "value": "7"
+          },
+          "away": {
+            "name": "R. Ashurmatov",
+            "num": "5",
+            "pos": "D",
+            "value": "14"
           }
         },
         {
@@ -40698,7 +41447,7 @@
             "name": "A. Nematov",
             "num": "12",
             "pos": "G",
-            "value": "1"
+            "value": "4"
           }
         }
       ],
@@ -40709,7 +41458,7 @@
         "mp4": "https://media.video-cdn.espn.com/motion/2026/0623/dm_260623_COM_SOC_News_Lisbon_goes_wild_as_Ronaldo_scores_for_Portugal_vs_Uzbekistan_20260623_GLOBAL_FIFA/dm_260623_COM_SOC_News_Lisbon_goes_wild_as_Ronaldo_scores_for_Portugal_vs_Uzbekistan_20260623_GLOBAL_FIFA_360p30_1464k.mp4",
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0623/dm_260623_COM_SOC_News_Lisbon_goes_wild_as_Ronaldo_scores_for_Portugal_vs_Uzbekistan_20260623_GLOBAL_FIFA/dm_260623_COM_SOC_News_Lisbon_goes_wild_as_Ronaldo_scores_for_Portugal_vs_Uzbekistan_20260623_GLOBAL_FIFA/playlist.m3u8"
       },
-      "final": false,
+      "final": true,
       "dv": 5
     }
   }

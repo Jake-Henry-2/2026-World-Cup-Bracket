@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T22:51:31.798Z",
+  "lastUpdated": "2026-06-24T23:58:29.570Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -706,7 +706,7 @@
       "stage": "group",
       "home": "Morocco",
       "away": "Haiti",
-      "homeScore": 2,
+      "homeScore": 4,
       "awayScore": 2,
       "homeWinner": false,
       "awayWinner": false,
@@ -721,17 +721,17 @@
       "id": "760464",
       "date": "2026-06-24T22:00Z",
       "venue": "Mercedes-Benz Stadium",
-      "clock": 2700,
-      "displayClock": "45'+5'",
-      "detail": "45'+5'",
-      "period": 1
+      "clock": 5400,
+      "displayClock": "90'+6'",
+      "detail": "90'+6'",
+      "period": 2
     },
     {
       "stage": "group",
       "home": "Scotland",
       "away": "Brazil",
       "homeScore": 0,
-      "awayScore": 2,
+      "awayScore": 3,
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
@@ -745,10 +745,10 @@
       "id": "760465",
       "date": "2026-06-24T22:00Z",
       "venue": "Hard Rock Stadium",
-      "clock": 2700,
-      "displayClock": "45'+5'",
-      "detail": "45'+5'",
-      "period": 1
+      "clock": 5400,
+      "displayClock": "90'+3'",
+      "detail": "90'+3'",
+      "period": 2
     },
     {
       "stage": "group",
@@ -759,9 +759,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 295,
-        "away": -110,
-        "draw": 280,
+        "home": 330,
+        "away": -125,
+        "draw": 295,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -779,9 +779,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 500,
-        "away": -165,
-        "draw": 295,
+        "home": 450,
+        "away": -145,
+        "draw": 275,
         "total": 2.5,
         "book": "DraftKings"
       },

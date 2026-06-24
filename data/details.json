@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T23:19:28.592Z",
+  "lastUpdated": "2026-06-24T00:16:12.665Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -40710,67 +40710,86 @@
       "venue": "BMO Field",
       "stats": {
         "home": {
-          "foulsCommitted": "2",
+          "foulsCommitted": "12",
           "yellowCards": "0",
           "redCards": "0",
           "offsides": "0",
-          "wonCorners": "0",
-          "saves": "0",
-          "possessionPct": "48.9",
+          "wonCorners": "2",
+          "saves": "1",
+          "possessionPct": "37.1",
           "totalShots": "1",
-          "shotsOnTarget": "0",
+          "shotsOnTarget": "1",
           "shotPct": "0.0",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "57",
-          "totalPasses": "66",
-          "passPct": "0.9",
-          "accurateCrosses": "0",
-          "totalCrosses": "2",
-          "crossPct": "0.0",
-          "totalLongBalls": "11",
-          "accurateLongBalls": "5",
-          "longballPct": "0.5",
+          "accuratePasses": "162",
+          "totalPasses": "210",
+          "passPct": "0.8",
+          "accurateCrosses": "2",
+          "totalCrosses": "14",
+          "crossPct": "0.1",
+          "totalLongBalls": "38",
+          "accurateLongBalls": "15",
+          "longballPct": "0.4",
           "blockedShots": "1",
-          "effectiveTackles": "0",
-          "totalTackles": "2",
-          "tacklePct": "0.0",
-          "interceptions": "1",
-          "effectiveClearance": "1",
-          "totalClearance": "1"
+          "effectiveTackles": "2",
+          "totalTackles": "7",
+          "tacklePct": "0.3",
+          "interceptions": "2",
+          "effectiveClearance": "19",
+          "totalClearance": "19"
         },
         "away": {
-          "foulsCommitted": "3",
+          "foulsCommitted": "6",
           "yellowCards": "0",
           "redCards": "0",
-          "offsides": "0",
-          "wonCorners": "0",
+          "offsides": "1",
+          "wonCorners": "1",
           "saves": "0",
-          "possessionPct": "51.1",
-          "totalShots": "1",
-          "shotsOnTarget": "0",
-          "shotPct": "0.0",
+          "possessionPct": "62.9",
+          "totalShots": "3",
+          "shotsOnTarget": "1",
+          "shotPct": "0.3",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "63",
-          "totalPasses": "69",
+          "accuratePasses": "316",
+          "totalPasses": "364",
           "passPct": "0.9",
-          "accurateCrosses": "1",
-          "totalCrosses": "2",
-          "crossPct": "0.5",
-          "totalLongBalls": "3",
-          "accurateLongBalls": "2",
-          "longballPct": "0.7",
+          "accurateCrosses": "3",
+          "totalCrosses": "15",
+          "crossPct": "0.2",
+          "totalLongBalls": "25",
+          "accurateLongBalls": "9",
+          "longballPct": "0.4",
           "blockedShots": "0",
-          "effectiveTackles": "0",
-          "totalTackles": "3",
-          "tacklePct": "0.0",
-          "interceptions": "0",
-          "effectiveClearance": "4",
-          "totalClearance": "4"
+          "effectiveTackles": "4",
+          "totalTackles": "10",
+          "tacklePct": "0.4",
+          "interceptions": "3",
+          "effectiveClearance": "16",
+          "totalClearance": "16"
         }
       },
-      "events": [],
+      "events": [
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "away",
+          "player": "Substitution, Croatia. Ante Budimir replaces Petar Musa."
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "away",
+          "player": "Substitution, Croatia. Andrej Kramaric replaces Josko Gvardiol."
+        },
+        {
+          "kind": "Goal - Volley",
+          "min": "54'",
+          "side": "away",
+          "player": "Goal! Panama 0, Croatia 1. Ante Budimir"
+        }
+      ],
       "lineups": {
         "home": [
           {
@@ -41153,6 +41172,196 @@
       },
       "commentary": [
         {
+          "min": "56'",
+          "text": "Corner, Panama. Conceded by Marin Pongracic.",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Foul by Josip Sutalo (Croatia).",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "José Fajardo (Panama) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "54'",
+          "text": "Goal! Panama 0, Croatia 1. Ante Budimir (Croatia) left footed shot from very close range to the bottom left corner. Assisted by Josip Stanisic with a cross.",
+          "goal": true
+        },
+        {
+          "min": "53'",
+          "text": "Ante Budimir (Croatia) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "53'",
+          "text": "Foul by José Córdoba (Panama).",
+          "goal": false
+        },
+        {
+          "min": "52'",
+          "text": "Corner, Panama. Conceded by Marco Pasalic.",
+          "goal": false
+        },
+        {
+          "min": "50'",
+          "text": "Offside, Croatia. Andrej Kramaric is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "49'",
+          "text": "Josip Stanisic (Croatia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "49'",
+          "text": "Foul by José Luis Rodríguez (Panama).",
+          "goal": false
+        },
+        {
+          "min": "47'",
+          "text": "Luka Modric (Croatia) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "47'",
+          "text": "Foul by José Fajardo (Panama).",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Second Half begins Panama 0, Croatia 0.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Substitution, Croatia. Andrej Kramaric replaces Josko Gvardiol.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Substitution, Croatia. Ante Budimir replaces Petar Musa.",
+          "goal": false
+        },
+        {
+          "min": "49'",
+          "text": "First Half ends, Panama 0, Croatia 0.",
+          "goal": false
+        },
+        {
+          "min": "45'+2'",
+          "text": "Corner, Croatia. Conceded by Orlando Mosquera.",
+          "goal": false
+        },
+        {
+          "min": "45'+1'",
+          "text": "Attempt missed. Martin Baturina (Croatia) right footed shot from outside the box is close, but misses to the left. Assisted by Ivan Perisic.",
+          "goal": false
+        },
+        {
+          "min": "45'+1'",
+          "text": "Martin Baturina (Croatia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "45'+1'",
+          "text": "Foul by Cristian Martínez (Panama).",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Fourth official has announced 3 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "44'",
+          "text": "Foul by Josip Sutalo (Croatia).",
+          "goal": false
+        },
+        {
+          "min": "44'",
+          "text": "José Fajardo (Panama) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "40'",
+          "text": "Josko Gvardiol (Croatia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "40'",
+          "text": "Foul by Amir Murillo (Panama).",
+          "goal": false
+        },
+        {
+          "min": "38'",
+          "text": "Josip Stanisic (Croatia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "38'",
+          "text": "Foul by José Luis Rodríguez (Panama).",
+          "goal": false
+        },
+        {
+          "min": "36'",
+          "text": "Martin Baturina (Croatia) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "36'",
+          "text": "Foul by José Córdoba (Panama).",
+          "goal": false
+        },
+        {
+          "min": "34'",
+          "text": "Handball by Cristian Martínez (Panama).",
+          "goal": false
+        },
+        {
+          "min": "29'",
+          "text": "Martin Baturina (Croatia) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "29'",
+          "text": "Foul by Yoel Bárcenas (Panama).",
+          "goal": false
+        },
+        {
+          "min": "28'",
+          "text": "Josko Gvardiol (Croatia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "28'",
+          "text": "Foul by Cristian Martínez (Panama).",
+          "goal": false
+        },
+        {
+          "min": "26'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "23'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "22'",
+          "text": "Foul by Josko Gvardiol (Croatia).",
+          "goal": false
+        },
+        {
+          "min": "22'",
+          "text": "Cristian Martínez (Panama) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
           "min": "13'",
           "text": "Foul by Luka Modric (Croatia).",
           "goal": false
@@ -41233,8 +41442,8 @@
             "value": "1"
           },
           "away": {
-            "name": "L. Modric",
-            "num": "10",
+            "name": "M. Baturina",
+            "num": "16",
             "pos": "M",
             "value": "1"
           }
@@ -41242,31 +41451,31 @@
         {
           "label": "Accurate Passes",
           "home": {
+            "name": "J. Ramos",
+            "num": "13",
+            "pos": "D",
+            "value": "23"
+          },
+          "away": {
+            "name": "J. Sutalo",
+            "num": "6",
+            "pos": "D",
+            "value": "56"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
             "name": "A. Andrade",
             "num": "16",
             "pos": "D",
             "value": "10"
           },
           "away": {
-            "name": "L. Modric",
-            "num": "10",
-            "pos": "M",
-            "value": "12"
-          }
-        },
-        {
-          "label": "Defensive Interventions",
-          "home": {
-            "name": "J. Ramos",
-            "num": "13",
+            "name": "M. Pongracic",
+            "num": "3",
             "pos": "D",
-            "value": "1"
-          },
-          "away": {
-            "name": "J. Sutalo",
-            "num": "6",
-            "pos": "D",
-            "value": "2"
+            "value": "7"
           }
         }
       ],

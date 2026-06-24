@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T23:19:28.485Z",
+  "lastUpdated": "2026-06-24T00:16:12.571Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -651,7 +651,7 @@
       "home": "Panama",
       "away": "Croatia",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
@@ -665,10 +665,10 @@
       "id": "760460",
       "date": "2026-06-23T23:00Z",
       "venue": "BMO Field",
-      "clock": 1140,
-      "displayClock": "19'",
-      "detail": "19'",
-      "period": 1
+      "clock": 3420,
+      "displayClock": "57'",
+      "detail": "57'",
+      "period": 2
     },
     {
       "stage": "group",
@@ -699,9 +699,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -255,
-        "away": 650,
-        "draw": 425,
+        "home": -235,
+        "away": 600,
+        "draw": 400,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -739,10 +739,10 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -550,
+        "home": -525,
         "away": 1600,
-        "draw": 650,
-        "total": 3.5,
+        "draw": 600,
+        "total": 2.5,
         "book": "DraftKings"
       },
       "status": "scheduled",
@@ -1059,9 +1059,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -140,
+        "home": -135,
         "away": 475,
-        "draw": 255,
+        "draw": 240,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -1079,8 +1079,8 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 1300,
-        "away": -525,
+        "home": 1200,
+        "away": -500,
         "draw": 650,
         "total": 3.5,
         "book": "DraftKings"

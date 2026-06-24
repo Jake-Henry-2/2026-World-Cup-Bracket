@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T00:16:12.665Z",
+  "lastUpdated": "2026-06-24T04:41:55.538Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -40706,68 +40706,960 @@
       "final": true,
       "dv": 5
     },
-    "760460": {
-      "venue": "BMO Field",
+    "760459": {
+      "venue": "Estadio Akron",
       "stats": {
         "home": {
           "foulsCommitted": "12",
-          "yellowCards": "0",
+          "yellowCards": "2",
           "redCards": "0",
-          "offsides": "0",
-          "wonCorners": "2",
+          "offsides": "7",
+          "wonCorners": "5",
           "saves": "1",
-          "possessionPct": "37.1",
-          "totalShots": "1",
-          "shotsOnTarget": "1",
-          "shotPct": "0.0",
+          "possessionPct": "63.5",
+          "totalShots": "20",
+          "shotsOnTarget": "9",
+          "shotPct": "0.5",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "162",
-          "totalPasses": "210",
-          "passPct": "0.8",
-          "accurateCrosses": "2",
-          "totalCrosses": "14",
-          "crossPct": "0.1",
-          "totalLongBalls": "38",
-          "accurateLongBalls": "15",
-          "longballPct": "0.4",
-          "blockedShots": "1",
-          "effectiveTackles": "2",
-          "totalTackles": "7",
-          "tacklePct": "0.3",
-          "interceptions": "2",
+          "accuratePasses": "473",
+          "totalPasses": "540",
+          "passPct": "0.9",
+          "accurateCrosses": "3",
+          "totalCrosses": "12",
+          "crossPct": "0.3",
+          "totalLongBalls": "66",
+          "accurateLongBalls": "40",
+          "longballPct": "0.6",
+          "blockedShots": "6",
+          "effectiveTackles": "6",
+          "totalTackles": "10",
+          "tacklePct": "0.6",
+          "interceptions": "10",
           "effectiveClearance": "19",
           "totalClearance": "19"
         },
         "away": {
-          "foulsCommitted": "6",
-          "yellowCards": "0",
+          "foulsCommitted": "16",
+          "yellowCards": "1",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "4",
+          "saves": "8",
+          "possessionPct": "36.5",
+          "totalShots": "7",
+          "shotsOnTarget": "1",
+          "shotPct": "0.1",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "224",
+          "totalPasses": "299",
+          "passPct": "0.7",
+          "accurateCrosses": "4",
+          "totalCrosses": "14",
+          "crossPct": "0.3",
+          "totalLongBalls": "49",
+          "accurateLongBalls": "14",
+          "longballPct": "0.3",
+          "blockedShots": "2",
+          "effectiveTackles": "10",
+          "totalTackles": "15",
+          "tacklePct": "0.7",
+          "interceptions": "7",
+          "effectiveClearance": "19",
+          "totalClearance": "19"
+        }
+      },
+      "events": [
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "away",
+          "player": "Substitution, Congo DR. Noah Sadiki replaces Ngal'ayel Mukau."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "56'",
+          "side": "home",
+          "player": "Jhon Lucumí"
+        },
+        {
+          "kind": "Substitution",
+          "min": "57'",
+          "side": "away",
+          "player": "Substitution, Congo DR. Simon Banza replaces Cédric Bakambu."
+        },
+        {
+          "kind": "Substitution",
+          "min": "58'",
+          "side": "home",
+          "player": "Substitution, Colombia. Jhon Córdoba replaces Luis Suárez."
+        },
+        {
+          "kind": "Substitution",
+          "min": "58'",
+          "side": "home",
+          "player": "Substitution, Colombia. Juan Fernando Quintero replaces James Rodríguez."
+        },
+        {
+          "kind": "Substitution",
+          "min": "72'",
+          "side": "away",
+          "player": "Substitution, Congo DR. Joris Kayembe replaces Arthur Masuaku."
+        },
+        {
+          "kind": "Substitution",
+          "min": "72'",
+          "side": "away",
+          "player": "Substitution, Congo DR. Charles Pickel replaces Edo Kayembe."
+        },
+        {
+          "kind": "Goal",
+          "min": "76'",
+          "side": "home",
+          "player": "Goal! Colombia 1, Congo DR 0. Daniel Muñoz"
+        },
+        {
+          "kind": "Substitution",
+          "min": "78'",
+          "side": "home",
+          "player": "Substitution, Colombia. Richard Ríos replaces Jhon Arias."
+        },
+        {
+          "kind": "Substitution",
+          "min": "82'",
+          "side": "away",
+          "player": "Substitution, Congo DR. Nathanaël Mbuku replaces Samuel Moutoussamy."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "90'+3'",
+          "side": "away",
+          "player": "Charles Pickel"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "90'+4'",
+          "side": "home",
+          "player": "Jefferson Lerma"
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Camilo Vargas",
+            "short": "C. Vargas",
+            "num": "12",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Jhon Lucumí",
+            "short": "J. Lucumí",
+            "num": "3",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Davinson Sánchez",
+            "short": "D. Sánchez",
+            "num": "23",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Johan Mojica",
+            "short": "J. Mojica",
+            "num": "17",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Daniel Muñoz",
+            "short": "D. Muñoz",
+            "num": "2",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Jefferson Lerma",
+            "short": "J. Lerma",
+            "num": "16",
+            "pos": "CM",
+            "place": "4"
+          },
+          {
+            "name": "Jhon Arias",
+            "short": "J. Arias",
+            "num": "11",
+            "pos": "LM",
+            "place": "8"
+          },
+          {
+            "name": "Gustavo Puerta",
+            "short": "G. Puerta",
+            "num": "14",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Luis Suárez",
+            "short": "L. Suárez",
+            "num": "25",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Luis Díaz",
+            "short": "L. Díaz",
+            "num": "7",
+            "pos": "LF",
+            "place": "11"
+          },
+          {
+            "name": "James Rodríguez",
+            "short": "J. Rodríguez",
+            "num": "10",
+            "pos": "RF",
+            "place": "10"
+          }
+        ],
+        "away": [
+          {
+            "name": "Lionel Mpasi",
+            "short": "L. Mpasi",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Axel Tuanzebe",
+            "short": "A. Tuanzebe",
+            "num": "4",
+            "pos": "CD",
+            "place": "5"
+          },
+          {
+            "name": "Steve Kapuadi",
+            "short": "S. Kapuadi",
+            "num": "3",
+            "pos": "CD-L",
+            "place": "4"
+          },
+          {
+            "name": "Chancel Mbemba",
+            "short": "C. Mbemba",
+            "num": "22",
+            "pos": "CD-R",
+            "place": "6"
+          },
+          {
+            "name": "Arthur Masuaku",
+            "short": "A. Masuaku",
+            "num": "26",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Aaron Wan-Bissaka",
+            "short": "A. Wan-Bissaka",
+            "num": "2",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Samuel Moutoussamy",
+            "short": "S. Moutoussamy",
+            "num": "8",
+            "pos": "CM",
+            "place": "8"
+          },
+          {
+            "name": "Edo Kayembe",
+            "short": "E. Kayembe",
+            "num": "25",
+            "pos": "CM-L",
+            "place": "11"
+          },
+          {
+            "name": "Ngal'ayel Mukau",
+            "short": "N. Mukau",
+            "num": "6",
+            "pos": "CM-R",
+            "place": "7"
+          },
+          {
+            "name": "Yoane Wissa",
+            "short": "Y. Wissa",
+            "num": "20",
+            "pos": "CF-L",
+            "place": "9"
+          },
+          {
+            "name": "Cédric Bakambu",
+            "short": "C. Bakambu",
+            "num": "17",
+            "pos": "CF-R",
+            "place": "10"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Deiver Machado",
+            "short": "D. Machado",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jhon Córdoba",
+            "short": "J. Córdoba",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Yerry Mina",
+            "short": "Y. Mina",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kevin Castaño",
+            "short": "K. Castaño",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Juan Portilla",
+            "short": "J. Portilla",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Willer Ditta",
+            "short": "W. Ditta",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jorge Carrascal",
+            "short": "J. Carrascal",
+            "num": "8",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Juan Fernando Quintero",
+            "short": "J. Quintero",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Santiago Arias",
+            "short": "S. Arias",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jáminton Campaz",
+            "short": "J. Campaz",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Richard Ríos",
+            "short": "R. Ríos",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "David Ospina",
+            "short": "D. Ospina",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Andrés Gómez",
+            "short": "A. Gómez",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Álvaro Montero",
+            "short": "Á. Montero",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Cucho Hernández",
+            "short": "C. Hernández",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Joris Kayembe",
+            "short": "J. Kayembe",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Matthieu Epolo",
+            "short": "M. Epolo",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nathanaël Mbuku",
+            "short": "N. Mbuku",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gédéon Kalulu",
+            "short": "G. Kalulu",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Timothy Fayulu",
+            "short": "T. Fayulu",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Dylan Batubinsika",
+            "short": "D. Batubinsika",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Théo Bongonda",
+            "short": "T. Bongonda",
+            "num": "10",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gaël Kakuta",
+            "short": "G. Kakuta",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Brian Cipenga",
+            "short": "B. Cipenga",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Aaron Tshibola",
+            "short": "A. Tshibola",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Noah Sadiki",
+            "short": "N. Sadiki",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Charles Pickel",
+            "short": "C. Pickel",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Fiston Mayele",
+            "short": "F. Mayele",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Meschack Elia",
+            "short": "M. Elia",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Simon Banza",
+            "short": "S. Banza",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-3-3",
+        "away": "5-3-2"
+      },
+      "commentary": [
+        {
+          "min": "",
+          "text": "Match ends, Colombia 1, Congo DR 0.",
+          "goal": false
+        },
+        {
+          "min": "97'",
+          "text": "Second Half ends, Colombia 1, Congo DR 0.",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Attempt missed. Juan Fernando Quintero (Colombia) left footed shot from more than 35 yards is high and wide to the left from a direct free kick.",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Richard Ríos (Colombia) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Foul by Nathanaël Mbuku (Congo DR).",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Jefferson Lerma (Colombia) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Foul by Jefferson Lerma (Colombia).",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Nathanaël Mbuku (Congo DR) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Charles Pickel (Congo DR) is shown the yellow card.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Davinson Sánchez (Colombia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Foul by Charles Pickel (Congo DR).",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Corner, Congo DR. Conceded by Daniel Muñoz.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Attempt missed. Charles Pickel (Congo DR) right footed shot from the centre of the box misses to the left. Assisted by Nathanaël Mbuku with a cross following a corner.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Corner, Congo DR. Conceded by Camilo Vargas.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Attempt saved. Nathanaël Mbuku (Congo DR) left footed shot from outside the box is saved in the bottom right corner by Camilo Vargas (Colombia). Assisted by Joris Kayembe.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Fourth official has announced 6 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Foul by Richard Ríos (Colombia).",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Nathanaël Mbuku (Congo DR) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Attempt blocked. Joris Kayembe (Congo DR) left footed shot from outside the box is blocked. Assisted by Steve Kapuadi.",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Foul by Luis Díaz (Colombia).",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Charles Pickel (Congo DR) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Handball by Jhon Córdoba (Colombia).",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Attempt saved. Gustavo Puerta (Colombia) right footed shot from outside the box is saved in the top left corner by Lionel Mpasi (Congo DR).",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Corner, Colombia. Conceded by Charles Pickel.",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Attempt blocked. Gustavo Puerta (Colombia) right footed shot from outside the box is blocked. Assisted by Juan Fernando Quintero.",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Gustavo Puerta (Colombia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Foul by Charles Pickel (Congo DR).",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Offside, Colombia. Jhon Córdoba is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Johan Mojica (Colombia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Foul by Simon Banza (Congo DR).",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Substitution, Congo DR. Nathanaël Mbuku replaces Samuel Moutoussamy.",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Offside, Colombia. Luis Díaz is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Foul by Luis Díaz (Colombia).",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Chancel Mbemba (Congo DR) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Substitution, Colombia. Richard Ríos replaces Jhon Arias.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Goal! Colombia 1, Congo DR 0. Daniel Muñoz (Colombia) left footed shot from the right side of the box to the bottom right corner. Assisted by Juan Fernando Quintero.",
+          "goal": true
+        },
+        {
+          "min": "75'",
+          "text": "Offside, Colombia. Luis Díaz is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Attempt blocked. Yoane Wissa (Congo DR) right footed shot from the centre of the box is blocked. Assisted by Simon Banza.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Substitution, Congo DR. Charles Pickel replaces Edo Kayembe.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Substitution, Congo DR. Joris Kayembe replaces Arthur Masuaku.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Jhon Arias (Colombia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Foul by Samuel Moutoussamy (Congo DR).",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Johan Mojica (Colombia) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Foul by Edo Kayembe (Congo DR).",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Corner, Colombia. Conceded by Lionel Mpasi.",
+          "goal": false
+        },
+        {
+          "min": "63'",
+          "text": "Jhon Córdoba (Colombia) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "63'",
+          "text": "Foul by Samuel Moutoussamy (Congo DR).",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Offside, Colombia. Luis Díaz is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Gustavo Puerta (Colombia) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Foul by Steve Kapuadi (Congo DR).",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Jefferson Lerma (Colombia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Foul by Edo Kayembe (Congo DR).",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Substitution, Colombia. Juan Fernando Quintero replaces James Rodríguez.",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Substitution, Colombia. Jhon Córdoba replaces Luis Suárez.",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Substitution, Congo DR. Simon Banza replaces Cédric Bakambu.",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Jhon Lucumí (Colombia) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Foul by Jhon Lucumí (Colombia).",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Yoane Wissa (Congo DR) wins a free kick on the right wing.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "G. Puerta",
+            "num": "14",
+            "pos": "M",
+            "value": "5"
+          },
+          "away": {
+            "name": "Y. Wissa",
+            "num": "20",
+            "pos": "F",
+            "value": "1"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "D. Sánchez",
+            "num": "23",
+            "pos": "D",
+            "value": "63"
+          },
+          "away": {
+            "name": "S. Kapuadi",
+            "num": "3",
+            "pos": "D",
+            "value": "29"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "J. Lucumí",
+            "num": "3",
+            "pos": "D",
+            "value": "12"
+          },
+          "away": {
+            "name": "S. Kapuadi",
+            "num": "3",
+            "pos": "D",
+            "value": "9"
+          }
+        },
+        {
+          "label": "Saves",
+          "home": {
+            "name": "C. Vargas",
+            "num": "12",
+            "pos": "G",
+            "value": "1"
+          },
+          "away": {
+            "name": "L. Mpasi",
+            "num": "1",
+            "pos": "G",
+            "value": "8"
+          }
+        }
+      ],
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0624/dm_260624_col_goal_bogota_fans/dm_260624_col_goal_bogota_fans.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49161734/colombia-fans-bogota-celebrate-late-goal-vs-dr-congo",
+        "headline": "Colombia fans in Bogota celebrate late goal vs. DR Congo",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0624/dm_260624_col_goal_bogota_fans/dm_260624_col_goal_bogota_fans_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0624/dm_260624_col_goal_bogota_fans/dm_260624_col_goal_bogota_fans/playlist.m3u8"
+      },
+      "final": true,
+      "dv": 5
+    },
+    "760460": {
+      "venue": "BMO Field",
+      "stats": {
+        "home": {
+          "foulsCommitted": "19",
+          "yellowCards": "1",
           "redCards": "0",
           "offsides": "1",
-          "wonCorners": "1",
-          "saves": "0",
-          "possessionPct": "62.9",
-          "totalShots": "3",
+          "wonCorners": "7",
+          "saves": "1",
+          "possessionPct": "42",
+          "totalShots": "8",
           "shotsOnTarget": "1",
+          "shotPct": "0.1",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "277",
+          "totalPasses": "352",
+          "passPct": "0.8",
+          "accurateCrosses": "6",
+          "totalCrosses": "31",
+          "crossPct": "0.2",
+          "totalLongBalls": "54",
+          "accurateLongBalls": "25",
+          "longballPct": "0.5",
+          "blockedShots": "2",
+          "effectiveTackles": "5",
+          "totalTackles": "10",
+          "tacklePct": "0.5",
+          "interceptions": "5",
+          "effectiveClearance": "29",
+          "totalClearance": "29"
+        },
+        "away": {
+          "foulsCommitted": "12",
+          "yellowCards": "1",
+          "redCards": "0",
+          "offsides": "2",
+          "wonCorners": "2",
+          "saves": "1",
+          "possessionPct": "58",
+          "totalShots": "6",
+          "shotsOnTarget": "2",
           "shotPct": "0.3",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "316",
-          "totalPasses": "364",
-          "passPct": "0.9",
-          "accurateCrosses": "3",
-          "totalCrosses": "15",
-          "crossPct": "0.2",
-          "totalLongBalls": "25",
-          "accurateLongBalls": "9",
+          "accuratePasses": "432",
+          "totalPasses": "512",
+          "passPct": "0.8",
+          "accurateCrosses": "5",
+          "totalCrosses": "18",
+          "crossPct": "0.3",
+          "totalLongBalls": "51",
+          "accurateLongBalls": "19",
           "longballPct": "0.4",
-          "blockedShots": "0",
-          "effectiveTackles": "4",
-          "totalTackles": "10",
+          "blockedShots": "1",
+          "effectiveTackles": "7",
+          "totalTackles": "19",
           "tacklePct": "0.4",
-          "interceptions": "3",
-          "effectiveClearance": "16",
-          "totalClearance": "16"
+          "interceptions": "5",
+          "effectiveClearance": "38",
+          "totalClearance": "38"
         }
       },
       "events": [
@@ -40788,6 +41680,60 @@
           "min": "54'",
           "side": "away",
           "player": "Goal! Panama 0, Croatia 1. Ante Budimir"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "61'",
+          "side": "home",
+          "player": "Yoel Bárcenas"
+        },
+        {
+          "kind": "Substitution",
+          "min": "72'",
+          "side": "away",
+          "player": "Substitution, Croatia. Luka Sucic replaces Marco Pasalic."
+        },
+        {
+          "kind": "Substitution",
+          "min": "72'",
+          "side": "away",
+          "player": "Substitution, Croatia. Petar Sucic replaces Mateo Kovacic."
+        },
+        {
+          "kind": "Substitution",
+          "min": "77'",
+          "side": "home",
+          "player": "Substitution, Panama. Cecilio Waterman replaces Jiovany Ramos."
+        },
+        {
+          "kind": "Substitution",
+          "min": "81'",
+          "side": "away",
+          "player": "Substitution, Croatia. Mario Pasalic replaces Luka Modric."
+        },
+        {
+          "kind": "Substitution",
+          "min": "83'",
+          "side": "home",
+          "player": "Substitution, Panama. Azarías Londoño replaces José Fajardo."
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'",
+          "side": "home",
+          "player": "Substitution, Panama. Éric Davis replaces César Blackman."
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'",
+          "side": "home",
+          "player": "Substitution, Panama. Tomás Rodríguez replaces Yoel Bárcenas."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "90'+2'",
+          "side": "away",
+          "player": "Petar Sucic"
         }
       ],
       "lineups": {
@@ -41172,6 +42118,296 @@
       },
       "commentary": [
         {
+          "min": "",
+          "text": "Match ends, Panama 0, Croatia 1.",
+          "goal": false
+        },
+        {
+          "min": "96'",
+          "text": "Second Half ends, Panama 0, Croatia 1.",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Ante Budimir (Croatia) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Foul by Andrés Andrade (Panama).",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Attempt missed. Amir Murillo (Panama) right footed shot from outside the box is high and wide to the right from a direct free kick.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Petar Sucic (Croatia) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Foul by Petar Sucic (Croatia).",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Tomás Rodríguez (Panama) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Foul by Ante Budimir (Croatia).",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Cristian Martínez (Panama) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "91'+1'",
+          "text": "Fourth official has announced 5 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Corner, Panama. Conceded by Marin Pongracic.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Substitution, Panama. Tomás Rodríguez replaces Yoel Bárcenas.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Substitution, Panama. Éric Davis replaces César Blackman.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Foul by Ante Budimir (Croatia).",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Yoel Bárcenas (Panama) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Josip Stanisic (Croatia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Foul by Cecilio Waterman (Panama).",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Foul by Mario Pasalic (Croatia).",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "César Blackman (Panama) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Attempt blocked. Cecilio Waterman (Panama) right footed shot from the right side of the box is blocked. Assisted by Yoel Bárcenas.",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Substitution, Panama. Azarías Londoño replaces José Fajardo.",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Foul by Marin Pongracic (Croatia).",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Cecilio Waterman (Panama) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Corner, Croatia. Conceded by Carlos Harvey.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Attempt blocked. Luka Sucic (Croatia) left footed shot from outside the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Substitution, Croatia. Mario Pasalic replaces Luka Modric.",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Martin Baturina (Croatia) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Foul by José Fajardo (Panama).",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Attempt missed. Carlos Harvey (Panama) right footed shot from a difficult angle on the right is close, but misses to the right. Assisted by José Luis Rodríguez with a cross following a corner.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Corner, Panama. Conceded by Josip Sutalo.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Attempt missed. José Luis Rodríguez (Panama) left footed shot from outside the box is too high. Assisted by Cecilio Waterman.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Substitution, Panama. Cecilio Waterman replaces Jiovany Ramos.",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Offside, Panama. Cristian Martínez is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Foul by Petar Sucic (Croatia).",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Carlos Harvey (Panama) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Substitution, Croatia. Petar Sucic replaces Mateo Kovacic.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Substitution, Croatia. Luka Sucic replaces Marco Pasalic.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "69'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Corner, Panama. Conceded by Dominik Livakovic.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Attempt missed. Carlos Harvey (Panama) header from the centre of the box is just a bit too high. Assisted by Yoel Bárcenas with a cross following a corner.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Corner, Panama. Conceded by Dominik Livakovic.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Attempt saved. Amir Murillo (Panama) right footed shot from the right side of the box is saved in the bottom right corner by Dominik Livakovic (Croatia).",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Martin Baturina (Croatia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Foul by José Córdoba (Panama).",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Offside, Croatia. Marco Pasalic is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Corner, Panama. Conceded by Josip Stanisic.",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Yoel Bárcenas (Panama) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Luka Modric (Croatia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Foul by Yoel Bárcenas (Panama).",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Marco Pasalic (Croatia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Foul by José Córdoba (Panama).",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Attempt missed. José Fajardo (Panama) header from the centre of the box misses to the left. Assisted by Amir Murillo with a cross.",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Marco Pasalic (Croatia) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Foul by César Blackman (Panama).",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Attempt missed. Marco Pasalic (Croatia) left footed shot from the left side of the six yard box is close, but misses to the left following a fast break.",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Attempt saved. Marco Pasalic (Croatia) left footed shot from the centre of the box is saved in the centre of the goal by Orlando Mosquera (Panama). Assisted by Luka Modric with a through ball.",
+          "goal": false
+        },
+        {
           "min": "56'",
           "text": "Corner, Panama. Conceded by Marin Pongracic.",
           "goal": false
@@ -41179,256 +42415,6 @@
         {
           "min": "56'",
           "text": "Foul by Josip Sutalo (Croatia).",
-          "goal": false
-        },
-        {
-          "min": "56'",
-          "text": "José Fajardo (Panama) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "54'",
-          "text": "Goal! Panama 0, Croatia 1. Ante Budimir (Croatia) left footed shot from very close range to the bottom left corner. Assisted by Josip Stanisic with a cross.",
-          "goal": true
-        },
-        {
-          "min": "53'",
-          "text": "Ante Budimir (Croatia) wins a free kick on the left wing.",
-          "goal": false
-        },
-        {
-          "min": "53'",
-          "text": "Foul by José Córdoba (Panama).",
-          "goal": false
-        },
-        {
-          "min": "52'",
-          "text": "Corner, Panama. Conceded by Marco Pasalic.",
-          "goal": false
-        },
-        {
-          "min": "50'",
-          "text": "Offside, Croatia. Andrej Kramaric is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "49'",
-          "text": "Josip Stanisic (Croatia) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "49'",
-          "text": "Foul by José Luis Rodríguez (Panama).",
-          "goal": false
-        },
-        {
-          "min": "47'",
-          "text": "Luka Modric (Croatia) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "47'",
-          "text": "Foul by José Fajardo (Panama).",
-          "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Second Half begins Panama 0, Croatia 0.",
-          "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Substitution, Croatia. Andrej Kramaric replaces Josko Gvardiol.",
-          "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Substitution, Croatia. Ante Budimir replaces Petar Musa.",
-          "goal": false
-        },
-        {
-          "min": "49'",
-          "text": "First Half ends, Panama 0, Croatia 0.",
-          "goal": false
-        },
-        {
-          "min": "45'+2'",
-          "text": "Corner, Croatia. Conceded by Orlando Mosquera.",
-          "goal": false
-        },
-        {
-          "min": "45'+1'",
-          "text": "Attempt missed. Martin Baturina (Croatia) right footed shot from outside the box is close, but misses to the left. Assisted by Ivan Perisic.",
-          "goal": false
-        },
-        {
-          "min": "45'+1'",
-          "text": "Martin Baturina (Croatia) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "45'+1'",
-          "text": "Foul by Cristian Martínez (Panama).",
-          "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Fourth official has announced 3 minutes of added time.",
-          "goal": false
-        },
-        {
-          "min": "44'",
-          "text": "Foul by Josip Sutalo (Croatia).",
-          "goal": false
-        },
-        {
-          "min": "44'",
-          "text": "José Fajardo (Panama) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "40'",
-          "text": "Josko Gvardiol (Croatia) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "40'",
-          "text": "Foul by Amir Murillo (Panama).",
-          "goal": false
-        },
-        {
-          "min": "38'",
-          "text": "Josip Stanisic (Croatia) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "38'",
-          "text": "Foul by José Luis Rodríguez (Panama).",
-          "goal": false
-        },
-        {
-          "min": "36'",
-          "text": "Martin Baturina (Croatia) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "36'",
-          "text": "Foul by José Córdoba (Panama).",
-          "goal": false
-        },
-        {
-          "min": "34'",
-          "text": "Handball by Cristian Martínez (Panama).",
-          "goal": false
-        },
-        {
-          "min": "29'",
-          "text": "Martin Baturina (Croatia) wins a free kick on the right wing.",
-          "goal": false
-        },
-        {
-          "min": "29'",
-          "text": "Foul by Yoel Bárcenas (Panama).",
-          "goal": false
-        },
-        {
-          "min": "28'",
-          "text": "Josko Gvardiol (Croatia) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "28'",
-          "text": "Foul by Cristian Martínez (Panama).",
-          "goal": false
-        },
-        {
-          "min": "26'",
-          "text": "Delay over. They are ready to continue.",
-          "goal": false
-        },
-        {
-          "min": "23'",
-          "text": "Delay in match for a drinks break.",
-          "goal": false
-        },
-        {
-          "min": "22'",
-          "text": "Foul by Josko Gvardiol (Croatia).",
-          "goal": false
-        },
-        {
-          "min": "22'",
-          "text": "Cristian Martínez (Panama) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "13'",
-          "text": "Foul by Luka Modric (Croatia).",
-          "goal": false
-        },
-        {
-          "min": "13'",
-          "text": "José Luis Rodríguez (Panama) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "8'",
-          "text": "Foul by Mateo Kovacic (Croatia).",
-          "goal": false
-        },
-        {
-          "min": "8'",
-          "text": "Carlos Harvey (Panama) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "6'",
-          "text": "Martin Baturina (Croatia) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "6'",
-          "text": "Foul by Carlos Harvey (Panama).",
-          "goal": false
-        },
-        {
-          "min": "5'",
-          "text": "Martin Baturina (Croatia) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "5'",
-          "text": "Foul by Jiovany Ramos (Panama).",
-          "goal": false
-        },
-        {
-          "min": "4'",
-          "text": "Attempt blocked. Amir Murillo (Panama) right footed shot from the left side of the box is blocked.",
-          "goal": false
-        },
-        {
-          "min": "3'",
-          "text": "Foul by Josko Gvardiol (Croatia).",
-          "goal": false
-        },
-        {
-          "min": "3'",
-          "text": "Cristian Martínez (Panama) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "2'",
-          "text": "Attempt missed. Luka Modric (Croatia) header from the centre of the box is high and wide to the right. Assisted by Marco Pasalic with a cross.",
-          "goal": false
-        },
-        {
-          "min": "",
-          "text": "First Half begins.",
-          "goal": false
-        },
-        {
-          "min": "",
-          "text": "Lineups are announced and players are warming up.",
           "goal": false
         }
       ],
@@ -41439,48 +42425,69 @@
             "name": "A. Murillo",
             "num": "23",
             "pos": "D",
-            "value": "1"
+            "value": "3"
           },
           "away": {
-            "name": "M. Baturina",
-            "num": "16",
-            "pos": "M",
-            "value": "1"
+            "name": "M. Pasalic",
+            "num": "24",
+            "pos": "F",
+            "value": "2"
           }
         },
         {
           "label": "Accurate Passes",
           "home": {
-            "name": "J. Ramos",
-            "num": "13",
-            "pos": "D",
-            "value": "23"
+            "name": "É. Bárcenas",
+            "num": "11",
+            "pos": "M",
+            "value": "40"
           },
           "away": {
-            "name": "J. Sutalo",
-            "num": "6",
-            "pos": "D",
-            "value": "56"
+            "name": "L. Modric",
+            "num": "10",
+            "pos": "M",
+            "value": "69"
           }
         },
         {
           "label": "Defensive Interventions",
           "home": {
-            "name": "A. Andrade",
-            "num": "16",
+            "name": "J. Córdoba",
+            "num": "3",
             "pos": "D",
-            "value": "10"
+            "value": "14"
           },
           "away": {
             "name": "M. Pongracic",
             "num": "3",
             "pos": "D",
-            "value": "7"
+            "value": "13"
+          }
+        },
+        {
+          "label": "Saves",
+          "home": {
+            "name": "O. Mosquera",
+            "num": "22",
+            "pos": "G",
+            "value": "1"
+          },
+          "away": {
+            "name": "D. Livakovic",
+            "num": "1",
+            "pos": "G",
+            "value": "1"
           }
         }
       ],
-      "highlight": null,
-      "final": false,
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0623/dm_260623_COM_SOC_Analysis_Moreno_Croatia_need_to_improve_at_the_World_Cup_20260623_GLOBAL_FIFA_WORLD_CUP/dm_260623_COM_SOC_Analysis_Moreno_Croatia_need_to_improve_at_the_World_Cup_20260623_GLOBAL_FIFA_WORLD_CUP.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49160115/croatia-need-improve-world-cup",
+        "headline": "Moreno: Croatia need to improve at the World Cup",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0623/dm_260623_COM_SOC_Analysis_Moreno_Croatia_need_to_improve_at_the_World_Cup_20260623_GLOBAL_FIFA_WORLD_CUP/dm_260623_COM_SOC_Analysis_Moreno_Croatia_need_to_improve_at_the_World_Cup_20260623_GLOBAL_FIFA_WORLD_CUP_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0623/dm_260623_COM_SOC_Analysis_Moreno_Croatia_need_to_improve_at_the_World_Cup_20260623_GLOBAL_FIFA_WORLD_CUP/dm_260623_COM_SOC_Analysis_Moreno_Croatia_need_to_improve_at_the_World_Cup_20260623_GLOBAL_FIFA_WORLD_CUP/playlist.m3u8"
+      },
+      "final": true,
       "dv": 5
     },
     "760461": {

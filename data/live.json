@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T00:16:12.571Z",
+  "lastUpdated": "2026-06-24T04:41:55.475Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -653,39 +653,23 @@
       "homeScore": 0,
       "awayScore": 1,
       "homeWinner": false,
-      "awayWinner": false,
-      "odds": {
-        "home": 700,
-        "away": -230,
-        "draw": 360,
-        "total": 2.5,
-        "book": "DraftKings"
-      },
-      "status": "live",
+      "awayWinner": true,
+      "odds": null,
+      "status": "finished",
       "id": "760460",
       "date": "2026-06-23T23:00Z",
-      "venue": "BMO Field",
-      "clock": 3420,
-      "displayClock": "57'",
-      "detail": "57'",
-      "period": 2
+      "venue": "BMO Field"
     },
     {
       "stage": "group",
       "home": "Colombia",
       "away": "DR Congo",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
-      "homeWinner": false,
+      "homeWinner": true,
       "awayWinner": false,
-      "odds": {
-        "home": -180,
-        "away": 600,
-        "draw": 300,
-        "total": 2.5,
-        "book": "DraftKings"
-      },
-      "status": "scheduled",
+      "odds": null,
+      "status": "finished",
       "id": "760459",
       "date": "2026-06-24T02:00Z",
       "venue": "Estadio Akron"
@@ -699,9 +683,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -235,
-        "away": 600,
-        "draw": 400,
+        "home": -245,
+        "away": 650,
+        "draw": 425,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -740,9 +724,9 @@
       "awayWinner": false,
       "odds": {
         "home": -525,
-        "away": 1600,
+        "away": 1500,
         "draw": 600,
-        "total": 2.5,
+        "total": 3.5,
         "book": "DraftKings"
       },
       "status": "scheduled",
@@ -759,9 +743,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 650,
-        "away": -255,
-        "draw": 425,
+        "home": 700,
+        "away": -275,
+        "draw": 450,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -779,9 +763,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 270,
+        "home": 275,
         "away": -105,
-        "draw": 285,
+        "draw": 290,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -939,9 +923,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 425,
-        "away": -160,
-        "draw": 330,
+        "home": 360,
+        "away": -145,
+        "draw": 320,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -1061,7 +1045,7 @@
       "odds": {
         "home": -135,
         "away": 475,
-        "draw": 240,
+        "draw": 245,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -1079,9 +1063,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 1200,
-        "away": -500,
-        "draw": 650,
+        "home": 1300,
+        "away": -550,
+        "draw": 700,
         "total": 3.5,
         "book": "DraftKings"
       },
@@ -1120,8 +1104,8 @@
       "awayWinner": false,
       "odds": {
         "home": -115,
-        "away": 295,
-        "draw": 290,
+        "away": 290,
+        "draw": 310,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -1160,8 +1144,8 @@
       "awayWinner": false,
       "odds": {
         "home": 1300,
-        "away": -500,
-        "draw": 650,
+        "away": -475,
+        "draw": 600,
         "total": 2.5,
         "book": "DraftKings"
       },

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T17:58:30.663Z",
+  "lastUpdated": "2026-06-24T19:59:10.343Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -678,21 +678,25 @@
       "stage": "group",
       "home": "Bosnia and Herzegovina",
       "away": "Qatar",
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 2,
+      "awayScore": 1,
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -265,
-        "away": 700,
-        "draw": 450,
+        "home": -235,
+        "away": 600,
+        "draw": 400,
         "total": 2.5,
         "book": "DraftKings"
       },
-      "status": "scheduled",
+      "status": "live",
       "id": "760462",
       "date": "2026-06-24T19:00Z",
-      "venue": "Lumen Field"
+      "venue": "Lumen Field",
+      "clock": 2700,
+      "displayClock": "45'+6'",
+      "detail": "HT",
+      "period": 1
     },
     {
       "stage": "group",
@@ -703,16 +707,20 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 150,
-        "away": 225,
+        "home": 165,
+        "away": 210,
         "draw": 195,
         "total": 2.5,
         "book": "DraftKings"
       },
-      "status": "scheduled",
+      "status": "live",
       "id": "760463",
       "date": "2026-06-24T19:00Z",
-      "venue": "BC Place"
+      "venue": "BC Place",
+      "clock": 2700,
+      "displayClock": "45'+4'",
+      "detail": "HT",
+      "period": 1
     },
     {
       "stage": "group",
@@ -726,7 +734,7 @@
         "home": -550,
         "away": 1600,
         "draw": 650,
-        "total": 2.5,
+        "total": 3.5,
         "book": "DraftKings"
       },
       "status": "scheduled",
@@ -743,7 +751,7 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 900,
+        "home": 950,
         "away": -320,
         "draw": 450,
         "total": 2.5,
@@ -763,9 +771,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 270,
+        "home": 280,
         "away": -105,
-        "draw": 275,
+        "draw": 280,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -843,8 +851,8 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -115,
-        "away": 340,
+        "home": -110,
+        "away": 330,
         "draw": 255,
         "total": 2.5,
         "book": "DraftKings"

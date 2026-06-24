@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T17:58:30.703Z",
+  "lastUpdated": "2026-06-24T19:59:10.483Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -43410,6 +43410,1567 @@
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0623/dm_260623_COM_SOC_News_Lisbon_goes_wild_as_Ronaldo_scores_for_Portugal_vs_Uzbekistan_20260623_GLOBAL_FIFA/dm_260623_COM_SOC_News_Lisbon_goes_wild_as_Ronaldo_scores_for_Portugal_vs_Uzbekistan_20260623_GLOBAL_FIFA/playlist.m3u8"
       },
       "final": true,
+      "dv": 5
+    },
+    "760462": {
+      "venue": "Lumen Field",
+      "stats": {
+        "home": {
+          "foulsCommitted": "6",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "4",
+          "saves": "0",
+          "possessionPct": "58.7",
+          "totalShots": "9",
+          "shotsOnTarget": "3",
+          "shotPct": "0.3",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "255",
+          "totalPasses": "288",
+          "passPct": "0.9",
+          "accurateCrosses": "2",
+          "totalCrosses": "16",
+          "crossPct": "0.1",
+          "totalLongBalls": "26",
+          "accurateLongBalls": "16",
+          "longballPct": "0.6",
+          "blockedShots": "3",
+          "effectiveTackles": "2",
+          "totalTackles": "3",
+          "tacklePct": "0.7",
+          "interceptions": "1",
+          "effectiveClearance": "8",
+          "totalClearance": "8"
+        },
+        "away": {
+          "foulsCommitted": "6",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "2",
+          "wonCorners": "1",
+          "saves": "2",
+          "possessionPct": "41.3",
+          "totalShots": "4",
+          "shotsOnTarget": "1",
+          "shotPct": "0.3",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "179",
+          "totalPasses": "208",
+          "passPct": "0.9",
+          "accurateCrosses": "3",
+          "totalCrosses": "8",
+          "crossPct": "0.4",
+          "totalLongBalls": "25",
+          "accurateLongBalls": "7",
+          "longballPct": "0.3",
+          "blockedShots": "0",
+          "effectiveTackles": "2",
+          "totalTackles": "6",
+          "tacklePct": "0.3",
+          "interceptions": "1",
+          "effectiveClearance": "17",
+          "totalClearance": "17"
+        }
+      },
+      "events": [
+        {
+          "kind": "Goal",
+          "min": "29'",
+          "side": "home",
+          "player": "Goal! Bosnia and Herzegovina 1, Qatar 0. Kerim Alajbegovic"
+        },
+        {
+          "kind": "Own Goal",
+          "min": "34'",
+          "side": "home",
+          "player": "Own Goal by Sultan Al Brake, Qatar. Bosnia and Herzegovina 2, Qatar 0."
+        },
+        {
+          "kind": "Goal",
+          "min": "42'",
+          "side": "away",
+          "player": "Goal! Bosnia and Herzegovina 2, Qatar 1. Hassan Al Haydos"
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Nikola Vasilj",
+            "short": "N. Vasilj",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Stjepan Radeljic",
+            "short": "S. Radeljic",
+            "num": "21",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Nikola Katic",
+            "short": "N. Katic",
+            "num": "18",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Sead Kolasinac",
+            "short": "S. Kolasinac",
+            "num": "5",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Arjan Malic",
+            "short": "A. Malic",
+            "num": "24",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Ivan Sunjic",
+            "short": "I. Sunjic",
+            "num": "14",
+            "pos": "CM-L",
+            "place": "8"
+          },
+          {
+            "name": "Ivan Basic",
+            "short": "I. Basic",
+            "num": "13",
+            "pos": "CM-R",
+            "place": "4"
+          },
+          {
+            "name": "Kerim Alajbegovic",
+            "short": "K. Alajbegovic",
+            "num": "19",
+            "pos": "LM",
+            "place": "11"
+          },
+          {
+            "name": "Esmir Bajraktarevic",
+            "short": "E. Bajraktarevic",
+            "num": "20",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Edin Dzeko",
+            "short": "E. Dzeko",
+            "num": "11",
+            "pos": "CF-L",
+            "place": "9"
+          },
+          {
+            "name": "Ermedin Demirovic",
+            "short": "E. Demirovic",
+            "num": "10",
+            "pos": "CF-R",
+            "place": "10"
+          }
+        ],
+        "away": [
+          {
+            "name": "Mahmoud Abunada",
+            "short": "M. Abunada",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Issa Laye",
+            "short": "I. Laye",
+            "num": "4",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Boualem Khoukhi",
+            "short": "B. Khoukhi",
+            "num": "16",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Sultan Al-Brake",
+            "short": "S. Al-Brake",
+            "num": "18",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Pedro Miguel",
+            "short": "P. Miguel",
+            "num": "2",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Ahmed Fathy",
+            "short": "A. Fathy",
+            "num": "20",
+            "pos": "CM",
+            "place": "4"
+          },
+          {
+            "name": "Karim Boudiaf",
+            "short": "K. Boudiaf",
+            "num": "12",
+            "pos": "LM",
+            "place": "8"
+          },
+          {
+            "name": "Jassem Gaber",
+            "short": "J. Gaber",
+            "num": "5",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Akram Afif",
+            "short": "A. Afif",
+            "num": "11",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Hassan Al-Haydos",
+            "short": "H. Al-Haydos",
+            "num": "10",
+            "pos": "LF",
+            "place": "11"
+          },
+          {
+            "name": "Edmílson Junior",
+            "short": "Edmílson Junior",
+            "num": "8",
+            "pos": "RF",
+            "place": "10"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Mladen Jurkas",
+            "short": "M. Jurkas",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Benjamin Tahirovic",
+            "short": "B. Tahirovic",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jovo Lukic",
+            "short": "J. Lukic",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Armin Gigovic",
+            "short": "A. Gigovic",
+            "num": "8",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Dennis Hadzikadunic",
+            "short": "D. Hadzikadunic",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Dzenis Burnic",
+            "short": "D. Burnic",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Amir Hadziahmetovic",
+            "short": "A. Hadziahmetovic",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ermin Mahmic",
+            "short": "E. Mahmic",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nihad Mujakic",
+            "short": "N. Mujakic",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Samed Bazdar",
+            "short": "S. Bazdar",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Amar Dedic",
+            "short": "A. Dedic",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Amar Memic",
+            "short": "A. Memic",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Martin Zlomislic",
+            "short": "M. Zlomislic",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Haris Tabakovic",
+            "short": "H. Tabakovic",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Lucas Mendes",
+            "short": "L. Mendes",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Yusuf Abdurisag",
+            "short": "Y. Abdurisag",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mohamed Manai",
+            "short": "M. Manai",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Salah Zakaria",
+            "short": "S. Zakaria",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ahmed Al-Ganehi",
+            "short": "A. Al-Ganehi",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Tahsin Jamshid",
+            "short": "T. Jamshid",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ahmed Alaaeldin",
+            "short": "A. Alaaeldin",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mohammed Muntari",
+            "short": "M. Muntari",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Abdulaziz Hatem",
+            "short": "A. Hatem",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Meshaal Barsham",
+            "short": "M. Barsham",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Almoez Ali",
+            "short": "A. Ali",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Al-Hashmi Al-Hussain",
+            "short": "A. Al-Hussain",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ayoub Al-Oui",
+            "short": "A. Al-Oui",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-4-2",
+        "away": "4-3-3"
+      },
+      "commentary": [
+        {
+          "min": "45'+6'",
+          "text": "First Half ends, Bosnia and Herzegovina 2, Qatar 1.",
+          "goal": false
+        },
+        {
+          "min": "45'+3'",
+          "text": "Attempt missed. Pedro Miguel (Qatar) right footed shot from the right side of the box is high and wide to the right. Assisted by Hassan Al Haydos.",
+          "goal": false
+        },
+        {
+          "min": "45'+3'",
+          "text": "Pedro Miguel (Qatar) hits the left post with a right footed shot from the right side of the box. Assisted by Akram Afif.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Fourth official has announced 5 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Foul by Ermedin Demirovic (Bosnia and Herzegovina).",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Karim Boudiaf (Qatar) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Attempt missed. Boualem Khoukhi (Qatar) right footed shot from outside the box misses to the left. Assisted by Karim Boudiaf.",
+          "goal": false
+        },
+        {
+          "min": "44'",
+          "text": "Corner, Bosnia and Herzegovina. Conceded by Pedro Miguel.",
+          "goal": false
+        },
+        {
+          "min": "42'",
+          "text": "Goal! Bosnia and Herzegovina 2, Qatar 1. Hassan Al Haydos (Qatar) right footed shot from very close range to the centre of the goal. Assisted by Edmílson Junior.",
+          "goal": true
+        },
+        {
+          "min": "40'",
+          "text": "Kerim Alajbegovic (Bosnia and Herzegovina) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "40'",
+          "text": "Foul by Jassem Gaber (Qatar).",
+          "goal": false
+        },
+        {
+          "min": "39'",
+          "text": "Handball by Ermedin Demirovic (Bosnia and Herzegovina).",
+          "goal": false
+        },
+        {
+          "min": "38'",
+          "text": "Edin Dzeko (Bosnia and Herzegovina) hits the right post with a left footed shot from the centre of the box. Assisted by Kerim Alajbegovic with a through ball.",
+          "goal": false
+        },
+        {
+          "min": "36'",
+          "text": "Ivan Basic (Bosnia and Herzegovina) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "36'",
+          "text": "Foul by Hassan Al Haydos (Qatar).",
+          "goal": false
+        },
+        {
+          "min": "34'",
+          "text": "Own Goal by Sultan Al Brake, Qatar. Bosnia and Herzegovina 2, Qatar 0.",
+          "goal": true
+        },
+        {
+          "min": "33'",
+          "text": "Attempt missed. Nikola Katic (Bosnia and Herzegovina) header from the centre of the box is too high. Assisted by Sead Kolasinac with a headed pass following a corner.",
+          "goal": false
+        },
+        {
+          "min": "33'",
+          "text": "Corner, Bosnia and Herzegovina. Conceded by Ahmed Fathy.",
+          "goal": false
+        },
+        {
+          "min": "33'",
+          "text": "Attempt blocked. Ivan Basic (Bosnia and Herzegovina) left footed shot from outside the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "29'",
+          "text": "Goal! Bosnia and Herzegovina 1, Qatar 0. Kerim Alajbegovic (Bosnia and Herzegovina) right footed shot from outside the box to the top right corner. Assisted by Ivan Basic.",
+          "goal": true
+        },
+        {
+          "min": "28'",
+          "text": "VAR Decision: Other Decision Cancelled.",
+          "goal": false
+        },
+        {
+          "min": "27'",
+          "text": "Kerim Alajbegovic (Bosnia and Herzegovina) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "27'",
+          "text": "Foul by Jassem Gaber (Qatar).",
+          "goal": false
+        },
+        {
+          "min": "26'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "23'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "23'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "23'",
+          "text": "Delay in match because of an injury Boualem Khoukhi (Qatar).",
+          "goal": false
+        },
+        {
+          "min": "23'",
+          "text": "Attempt blocked. Kerim Alajbegovic (Bosnia and Herzegovina) right footed shot from outside the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "21'",
+          "text": "Ivan Basic (Bosnia and Herzegovina) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "21'",
+          "text": "Foul by Jassem Gaber (Qatar).",
+          "goal": false
+        },
+        {
+          "min": "20'",
+          "text": "Offside, Qatar. Akram Afif is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "20'",
+          "text": "Foul by Kerim Alajbegovic (Bosnia and Herzegovina).",
+          "goal": false
+        },
+        {
+          "min": "20'",
+          "text": "Pedro Miguel (Qatar) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "18'",
+          "text": "Corner, Bosnia and Herzegovina. Conceded by Karim Boudiaf.",
+          "goal": false
+        },
+        {
+          "min": "18'",
+          "text": "Attempt blocked. Ivan Basic (Bosnia and Herzegovina) left footed shot from outside the box is blocked. Assisted by Esmir Bajraktarevic.",
+          "goal": false
+        },
+        {
+          "min": "17'",
+          "text": "Attempt missed. Ivan Basic (Bosnia and Herzegovina) left footed shot from outside the box is just a bit too high. Assisted by Ivan Sunjic.",
+          "goal": false
+        },
+        {
+          "min": "16'",
+          "text": "Foul by Jassem Gaber (Qatar).",
+          "goal": false
+        },
+        {
+          "min": "16'",
+          "text": "Kerim Alajbegovic (Bosnia and Herzegovina) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "12'",
+          "text": "Arjan Malic (Bosnia and Herzegovina) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "12'",
+          "text": "Foul by Sultan Al Brake (Qatar).",
+          "goal": false
+        },
+        {
+          "min": "11'",
+          "text": "Offside, Qatar. Edmílson Junior is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "10'",
+          "text": "Foul by Ermedin Demirovic (Bosnia and Herzegovina).",
+          "goal": false
+        },
+        {
+          "min": "10'",
+          "text": "Issa Laye (Qatar) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "10'",
+          "text": "Foul by Arjan Malic (Bosnia and Herzegovina).",
+          "goal": false
+        },
+        {
+          "min": "10'",
+          "text": "Hassan Al Haydos (Qatar) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "8'",
+          "text": "Corner, Qatar. Conceded by Nikola Katic.",
+          "goal": false
+        },
+        {
+          "min": "4'",
+          "text": "Foul by Ivan Sunjic (Bosnia and Herzegovina).",
+          "goal": false
+        },
+        {
+          "min": "4'",
+          "text": "Akram Afif (Qatar) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "3'",
+          "text": "Corner, Bosnia and Herzegovina. Conceded by Mahmoud Abunada.",
+          "goal": false
+        },
+        {
+          "min": "3'",
+          "text": "Attempt saved. Ivan Sunjic (Bosnia and Herzegovina) left footed shot from outside the box is saved in the bottom right corner by Mahmoud Abunada (Qatar). Assisted by Kerim Alajbegovic.",
+          "goal": false
+        },
+        {
+          "min": "2'",
+          "text": "Attempt saved. Ermedin Demirovic (Bosnia and Herzegovina) left footed shot from outside the box is saved in the bottom right corner by Mahmoud Abunada (Qatar). Assisted by Ivan Sunjic.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "First Half begins.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "Lineups are announced and players are warming up.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "I. Basic",
+            "num": "13",
+            "pos": "M",
+            "value": "3"
+          },
+          "away": {
+            "name": "P. Miguel",
+            "num": "2",
+            "pos": "D",
+            "value": "2"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "N. Katic",
+            "num": "18",
+            "pos": "D",
+            "value": "46"
+          },
+          "away": {
+            "name": "A. Fathy",
+            "num": "20",
+            "pos": "M",
+            "value": "27"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "N. Katic",
+            "num": "18",
+            "pos": "D",
+            "value": "4"
+          },
+          "away": {
+            "name": "B. Khoukhi",
+            "num": "16",
+            "pos": "D",
+            "value": "7"
+          }
+        },
+        {
+          "label": "Saves",
+          "away": {
+            "name": "M. Abunada",
+            "num": "1",
+            "pos": "G",
+            "value": "2"
+          }
+        }
+      ],
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0624/dm_260624_Bosnia_fan_zone_set_off_flares_as_side_score_opening_goal_vs_Qatar/dm_260624_Bosnia_fan_zone_set_off_flares_as_side_score_opening_goal_vs_Qatar.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49167551/bosnia-fan-zone-set-flares-side-score-opening-goal-vs-qatar",
+        "headline": "Bosnia fan zone set off flares as side score opening goal vs. Qatar",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0624/dm_260624_Bosnia_fan_zone_set_off_flares_as_side_score_opening_goal_vs_Qatar/dm_260624_Bosnia_fan_zone_set_off_flares_as_side_score_opening_goal_vs_Qatar_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0624/dm_260624_Bosnia_fan_zone_set_off_flares_as_side_score_opening_goal_vs_Qatar/dm_260624_Bosnia_fan_zone_set_off_flares_as_side_score_opening_goal_vs_Qatar/playlist.m3u8"
+      },
+      "final": false,
+      "dv": 5
+    },
+    "760463": {
+      "venue": "BC Place",
+      "stats": {
+        "home": {
+          "foulsCommitted": "11",
+          "yellowCards": "1",
+          "redCards": "0",
+          "offsides": "1",
+          "wonCorners": "2",
+          "saves": "3",
+          "possessionPct": "69.8",
+          "totalShots": "4",
+          "shotsOnTarget": "2",
+          "shotPct": "0.5",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "251",
+          "totalPasses": "293",
+          "passPct": "0.9",
+          "accurateCrosses": "0",
+          "totalCrosses": "3",
+          "crossPct": "0.0",
+          "totalLongBalls": "26",
+          "accurateLongBalls": "12",
+          "longballPct": "0.5",
+          "blockedShots": "1",
+          "effectiveTackles": "3",
+          "totalTackles": "7",
+          "tacklePct": "0.4",
+          "interceptions": "2",
+          "effectiveClearance": "12",
+          "totalClearance": "12"
+        },
+        "away": {
+          "foulsCommitted": "5",
+          "yellowCards": "1",
+          "redCards": "0",
+          "offsides": "3",
+          "wonCorners": "1",
+          "saves": "2",
+          "possessionPct": "30.2",
+          "totalShots": "5",
+          "shotsOnTarget": "3",
+          "shotPct": "0.6",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "93",
+          "totalPasses": "123",
+          "passPct": "0.8",
+          "accurateCrosses": "1",
+          "totalCrosses": "4",
+          "crossPct": "0.3",
+          "totalLongBalls": "23",
+          "accurateLongBalls": "11",
+          "longballPct": "0.5",
+          "blockedShots": "0",
+          "effectiveTackles": "3",
+          "totalTackles": "4",
+          "tacklePct": "0.8",
+          "interceptions": "4",
+          "effectiveClearance": "11",
+          "totalClearance": "11"
+        }
+      },
+      "events": [
+        {
+          "kind": "Yellow Card",
+          "min": "32'",
+          "side": "away",
+          "player": "Cyle Larin"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "32'",
+          "side": "home",
+          "player": "Granit Xhaka"
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Gregor Kobel",
+            "short": "G. Kobel",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Manuel Akanji",
+            "short": "M. Akanji",
+            "num": "5",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Nico Elvedi",
+            "short": "N. Elvedi",
+            "num": "4",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Ricardo Rodríguez",
+            "short": "R. Rodríguez",
+            "num": "13",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Luca Jaquez",
+            "short": "L. Jaquez",
+            "num": "25",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Johan Manzambi",
+            "short": "J. Manzambi",
+            "num": "9",
+            "pos": "AM",
+            "place": "10"
+          },
+          {
+            "name": "Granit Xhaka",
+            "short": "G. Xhaka",
+            "num": "10",
+            "pos": "LM",
+            "place": "4"
+          },
+          {
+            "name": "Remo Freuler",
+            "short": "R. Freuler",
+            "num": "8",
+            "pos": "RM",
+            "place": "8"
+          },
+          {
+            "name": "Breel Embolo",
+            "short": "B. Embolo",
+            "num": "7",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Rubén Vargas",
+            "short": "R. Vargas",
+            "num": "17",
+            "pos": "AM-L",
+            "place": "11"
+          },
+          {
+            "name": "Djibril Sow",
+            "short": "D. Sow",
+            "num": "15",
+            "pos": "AM-R",
+            "place": "7"
+          }
+        ],
+        "away": [
+          {
+            "name": "Maxime Crépeau",
+            "short": "M. Crépeau",
+            "num": "16",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Derek Cornelius",
+            "short": "D. Cornelius",
+            "num": "13",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Luc de Fougerolles",
+            "short": "L. de Fougerolles",
+            "num": "4",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Richie Laryea",
+            "short": "R. Laryea",
+            "num": "22",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Alistair Johnston",
+            "short": "A. Johnston",
+            "num": "2",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Mathieu Choinière",
+            "short": "M. Choinière",
+            "num": "6",
+            "pos": "CM-L",
+            "place": "8"
+          },
+          {
+            "name": "Nathan Saliba",
+            "short": "N. Saliba",
+            "num": "25",
+            "pos": "CM-R",
+            "place": "4"
+          },
+          {
+            "name": "Ali Ahmed",
+            "short": "A. Ahmed",
+            "num": "20",
+            "pos": "LM",
+            "place": "11"
+          },
+          {
+            "name": "Tajon Buchanan",
+            "short": "T. Buchanan",
+            "num": "17",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Cyle Larin",
+            "short": "C. Larin",
+            "num": "9",
+            "pos": "CF-L",
+            "place": "9"
+          },
+          {
+            "name": "Jonathan David",
+            "short": "J. David",
+            "num": "10",
+            "pos": "CF-R",
+            "place": "10"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Silvan Widmer",
+            "short": "S. Widmer",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Fabian Rieder",
+            "short": "F. Rieder",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ardon Jashari",
+            "short": "A. Jashari",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Dan Ndoye",
+            "short": "D. Ndoye",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Cedric Itten",
+            "short": "C. Itten",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Eray Cömert",
+            "short": "E. Cömert",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Michel Aebischer",
+            "short": "M. Aebischer",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Christian Fassnacht",
+            "short": "C. Fassnacht",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Aurèle Amenda",
+            "short": "A. Amenda",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Denis Zakaria",
+            "short": "D. Zakaria",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Yvon Mvogo",
+            "short": "Y. Mvogo",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Marvin Keller",
+            "short": "M. Keller",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Zeki Amdouni",
+            "short": "Z. Amdouni",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Noah Okafor",
+            "short": "N. Okafor",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Alphonso Davies",
+            "short": "A. Davies",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Moïse Bombito",
+            "short": "M. Bombito",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Tani Oluwaseyi",
+            "short": "T. Oluwaseyi",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Niko Sigur",
+            "short": "N. Sigur",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Owen Goodman",
+            "short": "O. Goodman",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jacob Shaffelburg",
+            "short": "J. Shaffelburg",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Stephen Eustáquio",
+            "short": "S. Eustáquio",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jonathan Osorio",
+            "short": "J. Osorio",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Liam Millar",
+            "short": "L. Millar",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Dayne St. Clair",
+            "short": "D. St. Clair",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Joel Waterman",
+            "short": "J. Waterman",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Promise David",
+            "short": "P. David",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jayden Nelson",
+            "short": "J. Nelson",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-2-3-1",
+        "away": "4-4-2"
+      },
+      "commentary": [
+        {
+          "min": "45'+4'",
+          "text": "First Half ends, Switzerland 0, Canada 0.",
+          "goal": false
+        },
+        {
+          "min": "45'+4'",
+          "text": "Foul by Breel Embolo (Switzerland).",
+          "goal": false
+        },
+        {
+          "min": "45'+4'",
+          "text": "Jonathan David (Canada) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "45'+1'",
+          "text": "Corner, Switzerland. Conceded by Mathieu Choinière.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Fourth official has announced 4 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "44'",
+          "text": "Attempt missed. Jonathan David (Canada) left footed shot from the left side of the box misses to the left. Assisted by Tajon Buchanan.",
+          "goal": false
+        },
+        {
+          "min": "43'",
+          "text": "Foul by Rubén Vargas (Switzerland).",
+          "goal": false
+        },
+        {
+          "min": "43'",
+          "text": "Luc De Fougerolles (Canada) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "41'",
+          "text": "Corner, Canada. Conceded by Gregor Kobel.",
+          "goal": false
+        },
+        {
+          "min": "41'",
+          "text": "Attempt saved. Ali Ahmed (Canada) right footed shot from the left side of the box is saved in the bottom left corner by Gregor Kobel (Switzerland). Assisted by Jonathan David.",
+          "goal": false
+        },
+        {
+          "min": "40'",
+          "text": "Attempt missed. Alistair Johnston (Canada) right footed shot from outside the box is too high following a set piece situation.",
+          "goal": false
+        },
+        {
+          "min": "39'",
+          "text": "Foul by Remo Freuler (Switzerland).",
+          "goal": false
+        },
+        {
+          "min": "39'",
+          "text": "Ali Ahmed (Canada) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "38'",
+          "text": "Attempt missed. Granit Xhaka (Switzerland) left footed shot from outside the box is too high from a direct free kick.",
+          "goal": false
+        },
+        {
+          "min": "37'",
+          "text": "Breel Embolo (Switzerland) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "37'",
+          "text": "Foul by Richie Laryea (Canada).",
+          "goal": false
+        },
+        {
+          "min": "34'",
+          "text": "Offside, Canada. Cyle Larin is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "33'",
+          "text": "Attempt saved. Cyle Larin (Canada) right footed shot from the left side of the box is saved in the centre of the goal by Gregor Kobel (Switzerland). Assisted by Jonathan David with a through ball.",
+          "goal": false
+        },
+        {
+          "min": "32'",
+          "text": "Granit Xhaka (Switzerland) is shown the yellow card.",
+          "goal": false
+        },
+        {
+          "min": "32'",
+          "text": "Cyle Larin (Canada) is shown the yellow card.",
+          "goal": false
+        },
+        {
+          "min": "30'",
+          "text": "Granit Xhaka (Switzerland) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "30'",
+          "text": "Foul by Mathieu Choinière (Canada).",
+          "goal": false
+        },
+        {
+          "min": "25'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "23'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "22'",
+          "text": "Offside, Switzerland. Johan Manzambi is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "21'",
+          "text": "Foul by Breel Embolo (Switzerland).",
+          "goal": false
+        },
+        {
+          "min": "21'",
+          "text": "Richie Laryea (Canada) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "20'",
+          "text": "Attempt saved. Luc De Fougerolles (Canada) right footed shot from the centre of the box is saved in the centre of the goal by Gregor Kobel (Switzerland). Assisted by Mathieu Choinière with a cross.",
+          "goal": false
+        },
+        {
+          "min": "19'",
+          "text": "Foul by Ricardo Rodríguez (Switzerland).",
+          "goal": false
+        },
+        {
+          "min": "19'",
+          "text": "Tajon Buchanan (Canada) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "18'",
+          "text": "Foul by Rubén Vargas (Switzerland).",
+          "goal": false
+        },
+        {
+          "min": "18'",
+          "text": "Mathieu Choinière (Canada) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "17'",
+          "text": "Attempt saved. Breel Embolo (Switzerland) left footed shot from the left side of the box is saved in the centre of the goal by Maxime Crépeau (Canada). Assisted by Ricardo Rodríguez with a headed pass.",
+          "goal": false
+        },
+        {
+          "min": "16'",
+          "text": "Foul by Luca Jaquez (Switzerland).",
+          "goal": false
+        },
+        {
+          "min": "16'",
+          "text": "Richie Laryea (Canada) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "15'",
+          "text": "Foul by Ricardo Rodríguez (Switzerland).",
+          "goal": false
+        },
+        {
+          "min": "15'",
+          "text": "Tajon Buchanan (Canada) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "13'",
+          "text": "Offside, Canada. Cyle Larin is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "12'",
+          "text": "Offside, Canada. Cyle Larin is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "11'",
+          "text": "Foul by Luca Jaquez (Switzerland).",
+          "goal": false
+        },
+        {
+          "min": "11'",
+          "text": "Richie Laryea (Canada) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "11'",
+          "text": "Attempt blocked. Johan Manzambi (Switzerland) right footed shot from the centre of the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "11'",
+          "text": "Attempt saved. Breel Embolo (Switzerland) right footed shot from the centre of the box is saved in the centre of the goal by Maxime Crépeau (Canada). Assisted by Ricardo Rodríguez with a through ball.",
+          "goal": false
+        },
+        {
+          "min": "10'",
+          "text": "Johan Manzambi (Switzerland) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "10'",
+          "text": "Foul by Luc De Fougerolles (Canada).",
+          "goal": false
+        },
+        {
+          "min": "7'",
+          "text": "Breel Embolo (Switzerland) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "7'",
+          "text": "Foul by Derek Cornelius (Canada).",
+          "goal": false
+        },
+        {
+          "min": "5'",
+          "text": "Corner, Switzerland. Conceded by Alistair Johnston.",
+          "goal": false
+        },
+        {
+          "min": "4'",
+          "text": "Luca Jaquez (Switzerland) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "4'",
+          "text": "Foul by Richie Laryea (Canada).",
+          "goal": false
+        },
+        {
+          "min": "3'",
+          "text": "Foul by Luca Jaquez (Switzerland).",
+          "goal": false
+        },
+        {
+          "min": "3'",
+          "text": "Ali Ahmed (Canada) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "2'",
+          "text": "Foul by Djibril Sow (Switzerland).",
+          "goal": false
+        },
+        {
+          "min": "2'",
+          "text": "Richie Laryea (Canada) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "First Half begins.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "Lineups are announced and players are warming up.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "B. Embolo",
+            "num": "7",
+            "pos": "F",
+            "value": "2"
+          },
+          "away": {
+            "name": "L. de Fougerolles",
+            "num": "4",
+            "pos": "D",
+            "value": "1"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "M. Akanji",
+            "num": "5",
+            "pos": "D",
+            "value": "51"
+          },
+          "away": {
+            "name": "M. Choinière",
+            "num": "6",
+            "pos": "M",
+            "value": "17"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "N. Elvedi",
+            "num": "4",
+            "pos": "D",
+            "value": "4"
+          },
+          "away": {
+            "name": "D. Cornelius",
+            "num": "13",
+            "pos": "D",
+            "value": "5"
+          }
+        },
+        {
+          "label": "Saves",
+          "home": {
+            "name": "G. Kobel",
+            "num": "1",
+            "pos": "G",
+            "value": "3"
+          },
+          "away": {
+            "name": "M. Crépeau",
+            "num": "16",
+            "pos": "G",
+            "value": "2"
+          }
+        }
+      ],
+      "highlight": null,
+      "final": false,
       "dv": 5
     }
   }

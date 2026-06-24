@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T21:39:16.015Z",
+  "lastUpdated": "2026-06-24T22:51:31.951Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -45200,6 +45200,1483 @@
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0624/dm_260624_COM_SOC_Presser_Marsch_People_thought_I_was_crazy_to_believe_Canada_could_top_Group_C_2026/dm_260624_COM_SOC_Presser_Marsch_People_thought_I_was_crazy_to_believe_Canada_could_top_Group_C_2026/playlist.m3u8"
       },
       "final": true,
+      "dv": 5
+    },
+    "760464": {
+      "venue": "Mercedes-Benz Stadium",
+      "stats": {
+        "home": {
+          "foulsCommitted": "3",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "3",
+          "wonCorners": "3",
+          "saves": "0",
+          "possessionPct": "66.7",
+          "totalShots": "12",
+          "shotsOnTarget": "6",
+          "shotPct": "0.5",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "256",
+          "totalPasses": "286",
+          "passPct": "0.9",
+          "accurateCrosses": "3",
+          "totalCrosses": "11",
+          "crossPct": "0.3",
+          "totalLongBalls": "16",
+          "accurateLongBalls": "9",
+          "longballPct": "0.6",
+          "blockedShots": "1",
+          "effectiveTackles": "8",
+          "totalTackles": "14",
+          "tacklePct": "0.6",
+          "interceptions": "4",
+          "effectiveClearance": "7",
+          "totalClearance": "7"
+        },
+        "away": {
+          "foulsCommitted": "8",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "0",
+          "saves": "5",
+          "possessionPct": "33.3",
+          "totalShots": "4",
+          "shotsOnTarget": "1",
+          "shotPct": "0.3",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "123",
+          "totalPasses": "146",
+          "passPct": "0.8",
+          "accurateCrosses": "0",
+          "totalCrosses": "1",
+          "crossPct": "0.0",
+          "totalLongBalls": "24",
+          "accurateLongBalls": "12",
+          "longballPct": "0.5",
+          "blockedShots": "0",
+          "effectiveTackles": "6",
+          "totalTackles": "15",
+          "tacklePct": "0.4",
+          "interceptions": "5",
+          "effectiveClearance": "11",
+          "totalClearance": "11"
+        }
+      },
+      "events": [
+        {
+          "kind": "Own Goal",
+          "min": "10'",
+          "side": "away",
+          "player": "Own Goal by Yassine Bounou, Morocco. Morocco 0, Haiti 1."
+        },
+        {
+          "kind": "Goal",
+          "min": "39'",
+          "side": "home",
+          "player": "Goal! Morocco 1, Haiti 1. Achraf Hakimi"
+        },
+        {
+          "kind": "Goal",
+          "min": "43'",
+          "side": "away",
+          "player": "Goal! Morocco 1, Haiti 2. Wilson Isidor"
+        },
+        {
+          "kind": "Goal",
+          "min": "45'+1'",
+          "side": "home",
+          "player": "Goal! Morocco 2, Haiti 2. Ismael Saibari"
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Yassine Bounou",
+            "short": "Y. Bounou",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Chadi Riad",
+            "short": "C. Riad",
+            "num": "18",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Redouane Halhal",
+            "short": "R. Halhal",
+            "num": "25",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Anass Salah-Eddine",
+            "short": "A. Salah-Eddine",
+            "num": "26",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Achraf Hakimi",
+            "short": "A. Hakimi",
+            "num": "2",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Ismael Saibari",
+            "short": "I. Saibari",
+            "num": "11",
+            "pos": "AM",
+            "place": "10"
+          },
+          {
+            "name": "Neil El Aynaoui",
+            "short": "N. El Aynaoui",
+            "num": "24",
+            "pos": "LM",
+            "place": "4"
+          },
+          {
+            "name": "Sofyan Amrabat",
+            "short": "S. Amrabat",
+            "num": "4",
+            "pos": "RM",
+            "place": "8"
+          },
+          {
+            "name": "Ayoub El Kaabi",
+            "short": "A. El Kaabi",
+            "num": "20",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Bilal El Khannouss",
+            "short": "B. El Khannouss",
+            "num": "23",
+            "pos": "AM-L",
+            "place": "11"
+          },
+          {
+            "name": "Brahim Díaz",
+            "short": "B. Díaz",
+            "num": "10",
+            "pos": "AM-R",
+            "place": "7"
+          }
+        ],
+        "away": [
+          {
+            "name": "Johny Placide",
+            "short": "J. Placide",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Hannes Delcroix",
+            "short": "H. Delcroix",
+            "num": "5",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Ricardo Adé",
+            "short": "R. Adé",
+            "num": "4",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Martin Expérience",
+            "short": "M. Expérience",
+            "num": "8",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Jean-Kévin Duverne",
+            "short": "J. Duverne",
+            "num": "22",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Jean-Ricner Bellegarde",
+            "short": "J. Bellegarde",
+            "num": "10",
+            "pos": "CM-L",
+            "place": "8"
+          },
+          {
+            "name": "Danley Jean Jacques",
+            "short": "D. Jean Jacques",
+            "num": "17",
+            "pos": "CM-R",
+            "place": "4"
+          },
+          {
+            "name": "Ruben Providence",
+            "short": "R. Providence",
+            "num": "15",
+            "pos": "LM",
+            "place": "11"
+          },
+          {
+            "name": "Josué Casimir",
+            "short": "J. Casimir",
+            "num": "21",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Lenny Joseph",
+            "short": "L. Joseph",
+            "num": "16",
+            "pos": "CF-L",
+            "place": "9"
+          },
+          {
+            "name": "Wilson Isidor",
+            "short": "W. Isidor",
+            "num": "18",
+            "pos": "CF-R",
+            "place": "10"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Chemsdine Talbi",
+            "short": "C. Talbi",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gessime Yassine",
+            "short": "G. Yassine",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Noussair Mazraoui",
+            "short": "N. Mazraoui",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ayyoub Bouaddi",
+            "short": "A. Bouaddi",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Samir El Mourabet",
+            "short": "S. El Mourabet",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ahmed Reda Tagnaouti",
+            "short": "A. Tagnaouti",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Munir El Kajoui",
+            "short": "M. El Kajoui",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Youssef Belammari",
+            "short": "Y. Belammari",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Zakaria El Ouahdi",
+            "short": "Z. El Ouahdi",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Soufiane Rahimi",
+            "short": "S. Rahimi",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Issa Diop",
+            "short": "I. Diop",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Marwane Saadane",
+            "short": "M. Saadane",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Amine Sbaï",
+            "short": "A. Sbaï",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Azzedine Ounahi",
+            "short": "A. Ounahi",
+            "num": "8",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ayoube Amaimouni",
+            "short": "A. Amaimouni",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Keeto Thermoncy",
+            "short": "K. Thermoncy",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Woodensky Pierre",
+            "short": "W. Pierre",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Yassin Fortuné",
+            "short": "Y. Fortuné",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Wilguens Paugain",
+            "short": "W. Paugain",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Dominique Simon",
+            "short": "D. Simon",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Duckens Nazon",
+            "short": "D. Nazon",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Derrick Etienne Jr.",
+            "short": "D. Etienne Jr.",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Carlens Arcus",
+            "short": "C. Arcus",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Garven Metusala",
+            "short": "G. Metusala",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Alexandre Pierre",
+            "short": "A. Pierre",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Louicius Deedson",
+            "short": "L. Deedson",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Markhus Lacroix",
+            "short": "M. Lacroix",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Josué Duverger",
+            "short": "J. Duverger",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Carl Sainté",
+            "short": "C. Sainté",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Frantzdy Pierrot",
+            "short": "F. Pierrot",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-2-3-1",
+        "away": "4-4-2"
+      },
+      "commentary": [
+        {
+          "min": "45'+5'",
+          "text": "Achraf Hakimi (Morocco) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "45'+4'",
+          "text": "Attempt saved. Bilal El Khannouss (Morocco) right footed shot from outside the box is saved in the centre of the goal by Johny Placide (Haiti). Assisted by Ismael Saibari.",
+          "goal": false
+        },
+        {
+          "min": "45'+3'",
+          "text": "Attempt missed. Brahim Díaz (Morocco) left footed shot from the centre of the box is high and wide to the right. Assisted by Anass Salah-Eddine.",
+          "goal": false
+        },
+        {
+          "min": "45'+2'",
+          "text": "Bilal El Khannouss (Morocco) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "45'+2'",
+          "text": "Foul by Wilson Isidor (Haiti).",
+          "goal": false
+        },
+        {
+          "min": "46'+1'",
+          "text": "Fourth official has announced 5 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "45'+1'",
+          "text": "Goal! Morocco 2, Haiti 2. Ismael Saibari (Morocco) right footed shot from the centre of the box to the bottom left corner. Assisted by Achraf Hakimi.",
+          "goal": true
+        },
+        {
+          "min": "45'",
+          "text": "Brahim Díaz (Morocco) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Foul by Jean-Ricner Bellegarde (Haiti).",
+          "goal": false
+        },
+        {
+          "min": "43'",
+          "text": "Goal! Morocco 1, Haiti 2. Wilson Isidor (Haiti) right footed shot from outside the box to the top left corner. Assisted by Jean-Kévin Duverne.",
+          "goal": true
+        },
+        {
+          "min": "42'",
+          "text": "Redouane Halhal (Morocco) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "42'",
+          "text": "Foul by Lenny Joseph (Haiti).",
+          "goal": false
+        },
+        {
+          "min": "41'",
+          "text": "Brahim Díaz (Morocco) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "41'",
+          "text": "Foul by Martin Expérience (Haiti).",
+          "goal": false
+        },
+        {
+          "min": "39'",
+          "text": "Goal! Morocco 1, Haiti 1. Achraf Hakimi (Morocco) left footed shot from very close range to the centre of the goal.",
+          "goal": true
+        },
+        {
+          "min": "36'",
+          "text": "Attempt missed. Ismael Saibari (Morocco) header from the centre of the box is too high. Assisted by Brahim Díaz with a cross.",
+          "goal": false
+        },
+        {
+          "min": "35'",
+          "text": "Ismael Saibari (Morocco) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "35'",
+          "text": "Foul by Jean-Kévin Duverne (Haiti).",
+          "goal": false
+        },
+        {
+          "min": "34'",
+          "text": "Attempt missed. Lenny Joseph (Haiti) right footed shot from the right side of the box is too high.",
+          "goal": false
+        },
+        {
+          "min": "33'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "32'",
+          "text": "Delay in match because of an injury Anass Salah-Eddine (Morocco).",
+          "goal": false
+        },
+        {
+          "min": "30'",
+          "text": "Offside, Morocco. Ayoub El Kaabi is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "30'",
+          "text": "Corner, Morocco. Conceded by Johny Placide.",
+          "goal": false
+        },
+        {
+          "min": "30'",
+          "text": "Attempt saved. Ayoub El Kaabi (Morocco) left footed shot from the centre of the box is saved in the bottom right corner by Johny Placide (Haiti).",
+          "goal": false
+        },
+        {
+          "min": "30'",
+          "text": "Attempt saved. Achraf Hakimi (Morocco) left footed shot from the centre of the box is saved in the centre of the goal by Johny Placide (Haiti). Assisted by Bilal El Khannouss.",
+          "goal": false
+        },
+        {
+          "min": "29'",
+          "text": "Foul by Anass Salah-Eddine (Morocco).",
+          "goal": false
+        },
+        {
+          "min": "29'",
+          "text": "Josué Casimir (Haiti) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "28'",
+          "text": "Attempt missed. Ayoub El Kaabi (Morocco) header from the centre of the box misses to the right. Assisted by Achraf Hakimi with a cross.",
+          "goal": false
+        },
+        {
+          "min": "28'",
+          "text": "Redouane Halhal (Morocco) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "28'",
+          "text": "Foul by Lenny Joseph (Haiti).",
+          "goal": false
+        },
+        {
+          "min": "25'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "23'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "23'",
+          "text": "Attempt missed. Ismael Saibari (Morocco) right footed shot from outside the box is close, but misses to the right. Assisted by Achraf Hakimi.",
+          "goal": false
+        },
+        {
+          "min": "20'",
+          "text": "Offside, Morocco. Ayoub El Kaabi is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "19'",
+          "text": "Achraf Hakimi (Morocco) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "19'",
+          "text": "Foul by Martin Expérience (Haiti).",
+          "goal": false
+        },
+        {
+          "min": "17'",
+          "text": "Foul by Bilal El Khannouss (Morocco).",
+          "goal": false
+        },
+        {
+          "min": "17'",
+          "text": "Josué Casimir (Haiti) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "17'",
+          "text": "Offside, Morocco. Ismael Saibari is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "16'",
+          "text": "Neil El Aynaoui (Morocco) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "16'",
+          "text": "Foul by Lenny Joseph (Haiti).",
+          "goal": false
+        },
+        {
+          "min": "14'",
+          "text": "Corner, Morocco. Conceded by Jean-Kévin Duverne.",
+          "goal": false
+        },
+        {
+          "min": "14'",
+          "text": "Attempt blocked. Ismael Saibari (Morocco) left footed shot from the left side of the box is blocked. Assisted by Bilal El Khannouss.",
+          "goal": false
+        },
+        {
+          "min": "13'",
+          "text": "Attempt missed. Ismael Saibari (Morocco) right footed shot from the centre of the box is too high. Assisted by Bilal El Khannouss.",
+          "goal": false
+        },
+        {
+          "min": "12'",
+          "text": "Corner, Morocco. Conceded by Johny Placide.",
+          "goal": false
+        },
+        {
+          "min": "12'",
+          "text": "Attempt saved. Ayoub El Kaabi (Morocco) right footed shot from a difficult angle on the right is saved in the top right corner by Johny Placide (Haiti). Assisted by Achraf Hakimi.",
+          "goal": false
+        },
+        {
+          "min": "10'",
+          "text": "Own Goal by Yassine Bounou, Morocco. Morocco 0, Haiti 1.",
+          "goal": true
+        },
+        {
+          "min": "10'",
+          "text": "Attempt missed. Lenny Joseph (Haiti) right footed shot from very close range is close, but misses to the right. Assisted by Jean-Kévin Duverne.",
+          "goal": false
+        },
+        {
+          "min": "8'",
+          "text": "Attempt missed. Jean-Ricner Bellegarde (Haiti) right footed shot from outside the box is just a bit too high from a direct free kick.",
+          "goal": false
+        },
+        {
+          "min": "7'",
+          "text": "Foul by Sofyan Amrabat (Morocco).",
+          "goal": false
+        },
+        {
+          "min": "7'",
+          "text": "Lenny Joseph (Haiti) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "First Half begins.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "Lineups are announced and players are warming up.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "I. Saibari",
+            "num": "11",
+            "pos": "M",
+            "value": "5"
+          },
+          "away": {
+            "name": "L. Joseph",
+            "num": "16",
+            "pos": "F",
+            "value": "2"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "A. Salah-Eddine",
+            "num": "26",
+            "pos": "D",
+            "value": "35"
+          },
+          "away": {
+            "name": "H. Delcroix",
+            "num": "5",
+            "pos": "D",
+            "value": "19"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "R. Halhal",
+            "num": "25",
+            "pos": "D",
+            "value": "8"
+          },
+          "away": {
+            "name": "H. Delcroix",
+            "num": "5",
+            "pos": "D",
+            "value": "7"
+          }
+        },
+        {
+          "label": "Saves",
+          "away": {
+            "name": "J. Placide",
+            "num": "1",
+            "pos": "G",
+            "value": "5"
+          }
+        }
+      ],
+      "highlight": null,
+      "final": false,
+      "dv": 5
+    },
+    "760465": {
+      "venue": "Hard Rock Stadium",
+      "stats": {
+        "home": {
+          "foulsCommitted": "3",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "3",
+          "saves": "0",
+          "possessionPct": "47.6",
+          "totalShots": "3",
+          "shotsOnTarget": "0",
+          "shotPct": "0.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "227",
+          "totalPasses": "257",
+          "passPct": "0.9",
+          "accurateCrosses": "1",
+          "totalCrosses": "8",
+          "crossPct": "0.1",
+          "totalLongBalls": "20",
+          "accurateLongBalls": "9",
+          "longballPct": "0.5",
+          "blockedShots": "2",
+          "effectiveTackles": "5",
+          "totalTackles": "6",
+          "tacklePct": "0.8",
+          "interceptions": "0",
+          "effectiveClearance": "6",
+          "totalClearance": "6"
+        },
+        "away": {
+          "foulsCommitted": "1",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "2",
+          "saves": "0",
+          "possessionPct": "52.4",
+          "totalShots": "9",
+          "shotsOnTarget": "3",
+          "shotPct": "0.3",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "267",
+          "totalPasses": "287",
+          "passPct": "0.9",
+          "accurateCrosses": "1",
+          "totalCrosses": "7",
+          "crossPct": "0.1",
+          "totalLongBalls": "11",
+          "accurateLongBalls": "4",
+          "longballPct": "0.4",
+          "blockedShots": "2",
+          "effectiveTackles": "5",
+          "totalTackles": "9",
+          "tacklePct": "0.6",
+          "interceptions": "7",
+          "effectiveClearance": "11",
+          "totalClearance": "11"
+        }
+      },
+      "events": [
+        {
+          "kind": "Goal",
+          "min": "7'",
+          "side": "away",
+          "player": "Goal! Scotland 0, Brazil 1. Vinícius Júnior"
+        },
+        {
+          "kind": "Goal - Header",
+          "min": "45'+3'",
+          "side": "away",
+          "player": "Goal! Scotland 0, Brazil 2. Vinícius Júnior"
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Angus Gunn",
+            "short": "A. Gunn",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Scott McKenna",
+            "short": "S. McKenna",
+            "num": "26",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Jack Hendry",
+            "short": "J. Hendry",
+            "num": "13",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Andy Robertson",
+            "short": "A. Robertson",
+            "num": "3",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Nathan Patterson",
+            "short": "N. Patterson",
+            "num": "22",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Scott McTominay",
+            "short": "S. McTominay",
+            "num": "4",
+            "pos": "AM",
+            "place": "10"
+          },
+          {
+            "name": "Kenny McLean",
+            "short": "K. McLean",
+            "num": "23",
+            "pos": "LM",
+            "place": "4"
+          },
+          {
+            "name": "Lewis Ferguson",
+            "short": "L. Ferguson",
+            "num": "19",
+            "pos": "RM",
+            "place": "8"
+          },
+          {
+            "name": "Lawrence Shankland",
+            "short": "L. Shankland",
+            "num": "20",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "John McGinn",
+            "short": "J. McGinn",
+            "num": "7",
+            "pos": "AM-L",
+            "place": "11"
+          },
+          {
+            "name": "Ben Gannon-Doak",
+            "short": "B. Gannon-Doak",
+            "num": "17",
+            "pos": "AM-R",
+            "place": "7"
+          }
+        ],
+        "away": [
+          {
+            "name": "Alisson Becker",
+            "short": "A. Becker",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Gabriel Magalhães",
+            "short": "G. Magalhães",
+            "num": "3",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Marquinhos",
+            "short": "Marquinhos",
+            "num": "4",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Douglas Santos",
+            "short": "D. Santos",
+            "num": "16",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Danilo",
+            "short": "Danilo",
+            "num": "13",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Casemiro",
+            "short": "Casemiro",
+            "num": "5",
+            "pos": "CM",
+            "place": "4"
+          },
+          {
+            "name": "Lucas Paquetá",
+            "short": "L. Paquetá",
+            "num": "20",
+            "pos": "LM",
+            "place": "8"
+          },
+          {
+            "name": "Bruno Guimarães",
+            "short": "B. Guimarães",
+            "num": "8",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Matheus Cunha",
+            "short": "M. Cunha",
+            "num": "9",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Vinícius Júnior",
+            "short": "Vinícius Júnior",
+            "num": "7",
+            "pos": "LF",
+            "place": "11"
+          },
+          {
+            "name": "Rayan",
+            "short": "Rayan",
+            "num": "26",
+            "pos": "RF",
+            "place": "10"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "George Hirst",
+            "short": "G. Hirst",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Dominic Hyam",
+            "short": "D. Hyam",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ché Adams",
+            "short": "C. Adams",
+            "num": "10",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "John Souttar",
+            "short": "J. Souttar",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Liam Kelly",
+            "short": "L. Kelly",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Grant Hanley",
+            "short": "G. Hanley",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ross Stewart",
+            "short": "R. Stewart",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Anthony Ralston",
+            "short": "A. Ralston",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ryan Christie",
+            "short": "R. Christie",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Lyndon Dykes",
+            "short": "L. Dykes",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kieran Tierney",
+            "short": "K. Tierney",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Craig Gordon",
+            "short": "C. Gordon",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Aaron Hickey",
+            "short": "A. Hickey",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Tyler Fletcher",
+            "short": "T. Fletcher",
+            "num": "8",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Findlay Curtis",
+            "short": "F. Curtis",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Fabinho",
+            "short": "Fabinho",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Igor Thiago",
+            "short": "I. Thiago",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Luiz Henrique",
+            "short": "L. Henrique",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ederson ",
+            "short": "Ederson ",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Danilo Santos",
+            "short": "D. Santos",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Roger Ibañez",
+            "short": "R. Ibañez",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Léo Pereira",
+            "short": "L. Pereira",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Weverton",
+            "short": "Weverton",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Neymar",
+            "short": "Neymar",
+            "num": "10",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Endrick",
+            "short": "Endrick",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gabriel Martinelli",
+            "short": "G. Martinelli",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Alex Sandro",
+            "short": "Alex Sandro",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Éderson",
+            "short": "Éderson",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Bremer",
+            "short": "Bremer",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-2-3-1",
+        "away": "4-3-3"
+      },
+      "commentary": [
+        {
+          "min": "45'+3'",
+          "text": "Goal! Scotland 0, Brazil 2. Vinícius Júnior (Brazil) header from very close range to the top left corner. Assisted by Bruno Guimarães with a cross.",
+          "goal": true
+        },
+        {
+          "min": "45'+2'",
+          "text": "Vinícius Júnior (Brazil) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "45'+2'",
+          "text": "Foul by Nathan Patterson (Scotland).",
+          "goal": false
+        },
+        {
+          "min": "45'+2'",
+          "text": "Attempt blocked. Ben Gannon-Doak (Scotland) right footed shot from the left side of the box is blocked. Assisted by Lawrence Shankland.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Fourth official has announced 6 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Corner, Brazil. Conceded by Angus Gunn.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Attempt blocked. Matheus Cunha (Brazil) right footed shot from the right side of the six yard box is blocked. Assisted by Vinícius Júnior.",
+          "goal": false
+        },
+        {
+          "min": "42'",
+          "text": "Attempt missed. Matheus Cunha (Brazil) right footed shot from outside the box misses to the right. Assisted by Lucas Paquetá.",
+          "goal": false
+        },
+        {
+          "min": "38'",
+          "text": "Attempt missed. Rayan (Brazil) left footed shot from outside the box is high and wide to the left. Assisted by Bruno Guimarães following a fast break.",
+          "goal": false
+        },
+        {
+          "min": "36'",
+          "text": "Attempt blocked. Kenny McLean (Scotland) left footed shot from outside the box is blocked. Assisted by Lawrence Shankland.",
+          "goal": false
+        },
+        {
+          "min": "35'",
+          "text": "Foul by Lewis Ferguson (Scotland).",
+          "goal": false
+        },
+        {
+          "min": "35'",
+          "text": "Vinícius Júnior (Brazil) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "33'",
+          "text": "Foul by Jack Hendry (Scotland).",
+          "goal": false
+        },
+        {
+          "min": "33'",
+          "text": "Bruno Guimarães (Brazil) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "33'",
+          "text": "Corner, Scotland. Conceded by Marquinhos.",
+          "goal": false
+        },
+        {
+          "min": "33'",
+          "text": "Attempt missed. Lewis Ferguson (Scotland) right footed shot from outside the box misses to the left.",
+          "goal": false
+        },
+        {
+          "min": "31'",
+          "text": "Corner, Scotland. Conceded by Danilo.",
+          "goal": false
+        },
+        {
+          "min": "29'",
+          "text": "Corner, Scotland. Conceded by Rayan.",
+          "goal": false
+        },
+        {
+          "min": "28'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "25'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "24'",
+          "text": "VAR Decision: No Goal Scotland 0-1 Brazil.",
+          "goal": false
+        },
+        {
+          "min": "22'",
+          "text": "GOAL OVERTURNED BY VAR: Vinícius Júnior (Brazil) scores but the goal is ruled out after a VAR review.",
+          "goal": false
+        },
+        {
+          "min": "22'",
+          "text": "Foul by Vinícius Júnior (Brazil).",
+          "goal": false
+        },
+        {
+          "min": "22'",
+          "text": "Jack Hendry (Scotland) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "20'",
+          "text": "Attempt missed. Vinícius Júnior (Brazil) right footed shot from the right side of the box misses to the left. Assisted by Rayan following a fast break.",
+          "goal": false
+        },
+        {
+          "min": "18'",
+          "text": "Corner, Brazil. Conceded by Nathan Patterson.",
+          "goal": false
+        },
+        {
+          "min": "12'",
+          "text": "Attempt missed. Matheus Cunha (Brazil) right footed shot from outside the box is high and wide to the left. Assisted by Rayan.",
+          "goal": false
+        },
+        {
+          "min": "11'",
+          "text": "Attempt blocked. Bruno Guimarães (Brazil) right footed shot from outside the box is blocked. Assisted by Matheus Cunha.",
+          "goal": false
+        },
+        {
+          "min": "7'",
+          "text": "Goal! Scotland 0, Brazil 1. Vinícius Júnior (Brazil) right footed shot from the centre of the box to the centre of the goal. Assisted by Rayan.",
+          "goal": true
+        },
+        {
+          "min": "7'",
+          "text": "Attempt blocked. Casemiro (Brazil) right footed shot from outside the box is blocked. Assisted by Vinícius Júnior.",
+          "goal": false
+        },
+        {
+          "min": "3'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "2'",
+          "text": "Delay in match because of an injury Lewis Ferguson (Scotland).",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "First Half begins.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "Lineups are announced and players are warming up.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "B. Gannon-Doak",
+            "num": "17",
+            "pos": "F",
+            "value": "1"
+          },
+          "away": {
+            "name": "M. Cunha",
+            "num": "9",
+            "pos": "F",
+            "value": "3"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "L. Ferguson",
+            "num": "19",
+            "pos": "M",
+            "value": "42"
+          },
+          "away": {
+            "name": "G. Magalhães",
+            "num": "3",
+            "pos": "D",
+            "value": "47"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "N. Patterson",
+            "num": "22",
+            "pos": "D",
+            "value": "4"
+          },
+          "away": {
+            "name": "Casemiro",
+            "num": "5",
+            "pos": "M",
+            "value": "7"
+          }
+        }
+      ],
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0624/dm_260624_COM_SOC_News_Fans_in_Rio_celebrate_Vinicius_Jrs_early_goal_vs_Scotland_20260624_GLOBAL_FIFA_W/dm_260624_COM_SOC_News_Fans_in_Rio_celebrate_Vinicius_Jrs_early_goal_vs_Scotland_20260624_GLOBAL_FIFA_W.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49168912/fans-rio-celebrate-vinicius-jr-early-goal-vs-scotland",
+        "headline": "Fans in Rio celebrate Vinícius Jr.'s early goal vs. Scotland",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0624/dm_260624_COM_SOC_News_Fans_in_Rio_celebrate_Vinicius_Jrs_early_goal_vs_Scotland_20260624_GLOBAL_FIFA_W/dm_260624_COM_SOC_News_Fans_in_Rio_celebrate_Vinicius_Jrs_early_goal_vs_Scotland_20260624_GLOBAL_FIFA_W_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0624/dm_260624_COM_SOC_News_Fans_in_Rio_celebrate_Vinicius_Jrs_early_goal_vs_Scotland_20260624_GLOBAL_FIFA_W/dm_260624_COM_SOC_News_Fans_in_Rio_celebrate_Vinicius_Jrs_early_goal_vs_Scotland_20260624_GLOBAL_FIFA_W/playlist.m3u8"
+      },
+      "final": false,
       "dv": 5
     }
   }

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T19:59:10.343Z",
+  "lastUpdated": "2026-06-24T21:39:15.919Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -678,49 +678,29 @@
       "stage": "group",
       "home": "Bosnia and Herzegovina",
       "away": "Qatar",
-      "homeScore": 2,
+      "homeScore": 3,
       "awayScore": 1,
-      "homeWinner": false,
+      "homeWinner": true,
       "awayWinner": false,
-      "odds": {
-        "home": -235,
-        "away": 600,
-        "draw": 400,
-        "total": 2.5,
-        "book": "DraftKings"
-      },
-      "status": "live",
+      "odds": null,
+      "status": "finished",
       "id": "760462",
       "date": "2026-06-24T19:00Z",
-      "venue": "Lumen Field",
-      "clock": 2700,
-      "displayClock": "45'+6'",
-      "detail": "HT",
-      "period": 1
+      "venue": "Lumen Field"
     },
     {
       "stage": "group",
       "home": "Switzerland",
       "away": "Canada",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeWinner": false,
+      "homeScore": 2,
+      "awayScore": 1,
+      "homeWinner": true,
       "awayWinner": false,
-      "odds": {
-        "home": 165,
-        "away": 210,
-        "draw": 195,
-        "total": 2.5,
-        "book": "DraftKings"
-      },
-      "status": "live",
+      "odds": null,
+      "status": "finished",
       "id": "760463",
       "date": "2026-06-24T19:00Z",
-      "venue": "BC Place",
-      "clock": 2700,
-      "displayClock": "45'+4'",
-      "detail": "HT",
-      "period": 1
+      "venue": "BC Place"
     },
     {
       "stage": "group",
@@ -731,10 +711,10 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -550,
-        "away": 1600,
-        "draw": 650,
-        "total": 3.5,
+        "home": -370,
+        "away": 1000,
+        "draw": 500,
+        "total": 2.5,
         "book": "DraftKings"
       },
       "status": "scheduled",
@@ -751,9 +731,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 950,
-        "away": -320,
-        "draw": 450,
+        "home": 900,
+        "away": -310,
+        "draw": 425,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -771,7 +751,7 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 280,
+        "home": 285,
         "away": -105,
         "draw": 280,
         "total": 2.5,
@@ -851,8 +831,8 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -110,
-        "away": 330,
+        "home": -115,
+        "away": 340,
         "draw": 255,
         "total": 2.5,
         "book": "DraftKings"
@@ -872,7 +852,7 @@
       "awayWinner": false,
       "odds": {
         "home": 2000,
-        "away": -900,
+        "away": -1000,
         "draw": 950,
         "total": 3.5,
         "book": "DraftKings"
@@ -1091,8 +1071,8 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 300,
-        "away": -110,
+        "home": 320,
+        "away": -115,
         "draw": 275,
         "total": 2.5,
         "book": "DraftKings"
@@ -1112,7 +1092,7 @@
       "awayWinner": false,
       "odds": {
         "home": -125,
-        "away": 310,
+        "away": 330,
         "draw": 310,
         "total": 2.5,
         "book": "DraftKings"
@@ -1165,7 +1145,7 @@
     {
       "stage": "r32",
       "home": "Group A 2nd Place",
-      "away": "Group B 2nd Place",
+      "away": "Canada",
       "homeScore": 0,
       "awayScore": 0,
       "homeWinner": false,
@@ -1332,7 +1312,7 @@
     },
     {
       "stage": "r32",
-      "home": "Group B Winner",
+      "home": "Switzerland",
       "away": "Third Place Group E/F/G/I/J",
       "homeScore": 0,
       "awayScore": 0,

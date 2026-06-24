@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T19:59:10.483Z",
+  "lastUpdated": "2026-06-24T21:39:16.015Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -43416,64 +43416,64 @@
       "venue": "Lumen Field",
       "stats": {
         "home": {
-          "foulsCommitted": "6",
-          "yellowCards": "0",
+          "foulsCommitted": "9",
+          "yellowCards": "1",
           "redCards": "0",
-          "offsides": "0",
-          "wonCorners": "4",
-          "saves": "0",
-          "possessionPct": "58.7",
+          "offsides": "1",
+          "wonCorners": "5",
+          "saves": "2",
+          "possessionPct": "54.5",
+          "totalShots": "14",
+          "shotsOnTarget": "5",
+          "shotPct": "0.4",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "453",
+          "totalPasses": "517",
+          "passPct": "0.9",
+          "accurateCrosses": "3",
+          "totalCrosses": "22",
+          "crossPct": "0.1",
+          "totalLongBalls": "52",
+          "accurateLongBalls": "31",
+          "longballPct": "0.6",
+          "blockedShots": "5",
+          "effectiveTackles": "9",
+          "totalTackles": "10",
+          "tacklePct": "0.9",
+          "interceptions": "4",
+          "effectiveClearance": "21",
+          "totalClearance": "21"
+        },
+        "away": {
+          "foulsCommitted": "14",
+          "yellowCards": "1",
+          "redCards": "0",
+          "offsides": "3",
+          "wonCorners": "5",
+          "saves": "3",
+          "possessionPct": "45.5",
           "totalShots": "9",
           "shotsOnTarget": "3",
           "shotPct": "0.3",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "255",
-          "totalPasses": "288",
+          "accuratePasses": "370",
+          "totalPasses": "434",
           "passPct": "0.9",
-          "accurateCrosses": "2",
-          "totalCrosses": "16",
-          "crossPct": "0.1",
-          "totalLongBalls": "26",
-          "accurateLongBalls": "16",
-          "longballPct": "0.6",
-          "blockedShots": "3",
-          "effectiveTackles": "2",
-          "totalTackles": "3",
-          "tacklePct": "0.7",
-          "interceptions": "1",
-          "effectiveClearance": "8",
-          "totalClearance": "8"
-        },
-        "away": {
-          "foulsCommitted": "6",
-          "yellowCards": "0",
-          "redCards": "0",
-          "offsides": "2",
-          "wonCorners": "1",
-          "saves": "2",
-          "possessionPct": "41.3",
-          "totalShots": "4",
-          "shotsOnTarget": "1",
-          "shotPct": "0.3",
-          "penaltyKickGoals": "0",
-          "penaltyKickShots": "0",
-          "accuratePasses": "179",
-          "totalPasses": "208",
-          "passPct": "0.9",
-          "accurateCrosses": "3",
-          "totalCrosses": "8",
-          "crossPct": "0.4",
-          "totalLongBalls": "25",
-          "accurateLongBalls": "7",
+          "accurateCrosses": "5",
+          "totalCrosses": "17",
+          "crossPct": "0.3",
+          "totalLongBalls": "53",
+          "accurateLongBalls": "17",
           "longballPct": "0.3",
           "blockedShots": "0",
-          "effectiveTackles": "2",
-          "totalTackles": "6",
-          "tacklePct": "0.3",
-          "interceptions": "1",
-          "effectiveClearance": "17",
-          "totalClearance": "17"
+          "effectiveTackles": "5",
+          "totalTackles": "12",
+          "tacklePct": "0.4",
+          "interceptions": "4",
+          "effectiveClearance": "24",
+          "totalClearance": "24"
         }
       },
       "events": [
@@ -43487,13 +43487,91 @@
           "kind": "Own Goal",
           "min": "34'",
           "side": "home",
-          "player": "Own Goal by Sultan Al Brake, Qatar. Bosnia and Herzegovina 2, Qatar 0."
+          "player": "Own Goal by Mahmoud Abunada, Qatar. Bosnia and Herzegovina 2, Qatar 0."
         },
         {
           "kind": "Goal",
           "min": "42'",
           "side": "away",
           "player": "Goal! Bosnia and Herzegovina 2, Qatar 1. Hassan Al Haydos"
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "home",
+          "player": "Substitution, Bosnia and Herzegovina. Benjamin Tahirovic replaces Ivan Sunjic."
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "home",
+          "player": "Substitution, Bosnia and Herzegovina. Amar Memic replaces Arjan Malic."
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "away",
+          "player": "Substitution, Qatar. Abdulaziz Hatem replaces Jassem Gaber."
+        },
+        {
+          "kind": "Substitution",
+          "min": "56'",
+          "side": "away",
+          "player": "Substitution, Qatar. Ahmed Al Ganehi replaces Hassan Al Haydos because of an injury."
+        },
+        {
+          "kind": "Substitution",
+          "min": "63'",
+          "side": "home",
+          "player": "Substitution, Bosnia and Herzegovina. Dennis Hadzikadunic replaces Nikola Katic."
+        },
+        {
+          "kind": "Substitution",
+          "min": "64'",
+          "side": "home",
+          "player": "Substitution, Bosnia and Herzegovina. Ermin Mahmic replaces Edin Dzeko."
+        },
+        {
+          "kind": "Substitution",
+          "min": "72'",
+          "side": "away",
+          "player": "Substitution, Qatar. Almoez Ali replaces Karim Boudiaf."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "78'",
+          "side": "away",
+          "player": "Ahmed Fathy"
+        },
+        {
+          "kind": "Substitution",
+          "min": "79'",
+          "side": "away",
+          "player": "Substitution, Qatar. Ahmed Alaa replaces Edmílson Junior."
+        },
+        {
+          "kind": "Substitution",
+          "min": "79'",
+          "side": "away",
+          "player": "Substitution, Qatar. Mohammad Al Manai replaces Ahmed Fathy."
+        },
+        {
+          "kind": "Goal",
+          "min": "80'",
+          "side": "home",
+          "player": "Goal! Bosnia and Herzegovina 3, Qatar 1. Ermin Mahmic"
+        },
+        {
+          "kind": "Substitution",
+          "min": "82'",
+          "side": "home",
+          "player": "Substitution, Bosnia and Herzegovina. Dzenis Burnic replaces Kerim Alajbegovic."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "82'",
+          "side": "home",
+          "player": "Ermin Mahmic"
         }
       ],
       "lineups": {
@@ -43857,268 +43935,303 @@
       },
       "commentary": [
         {
-          "min": "45'+6'",
-          "text": "First Half ends, Bosnia and Herzegovina 2, Qatar 1.",
+          "min": "",
+          "text": "Match ends, Bosnia and Herzegovina 3, Qatar 1.",
           "goal": false
         },
         {
-          "min": "45'+3'",
-          "text": "Attempt missed. Pedro Miguel (Qatar) right footed shot from the right side of the box is high and wide to the right. Assisted by Hassan Al Haydos.",
+          "min": "90'+7'",
+          "text": "Second Half ends, Bosnia and Herzegovina 3, Qatar 1.",
           "goal": false
         },
         {
-          "min": "45'+3'",
-          "text": "Pedro Miguel (Qatar) hits the left post with a right footed shot from the right side of the box. Assisted by Akram Afif.",
-          "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Fourth official has announced 5 minutes of added time.",
-          "goal": false
-        },
-        {
-          "min": "45'",
+          "min": "90'+6'",
           "text": "Foul by Ermedin Demirovic (Bosnia and Herzegovina).",
           "goal": false
         },
         {
-          "min": "45'",
-          "text": "Karim Boudiaf (Qatar) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Attempt missed. Boualem Khoukhi (Qatar) right footed shot from outside the box misses to the left. Assisted by Karim Boudiaf.",
-          "goal": false
-        },
-        {
-          "min": "44'",
-          "text": "Corner, Bosnia and Herzegovina. Conceded by Pedro Miguel.",
-          "goal": false
-        },
-        {
-          "min": "42'",
-          "text": "Goal! Bosnia and Herzegovina 2, Qatar 1. Hassan Al Haydos (Qatar) right footed shot from very close range to the centre of the goal. Assisted by Edmílson Junior.",
-          "goal": true
-        },
-        {
-          "min": "40'",
-          "text": "Kerim Alajbegovic (Bosnia and Herzegovina) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "40'",
-          "text": "Foul by Jassem Gaber (Qatar).",
-          "goal": false
-        },
-        {
-          "min": "39'",
-          "text": "Handball by Ermedin Demirovic (Bosnia and Herzegovina).",
-          "goal": false
-        },
-        {
-          "min": "38'",
-          "text": "Edin Dzeko (Bosnia and Herzegovina) hits the right post with a left footed shot from the centre of the box. Assisted by Kerim Alajbegovic with a through ball.",
-          "goal": false
-        },
-        {
-          "min": "36'",
-          "text": "Ivan Basic (Bosnia and Herzegovina) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "36'",
-          "text": "Foul by Hassan Al Haydos (Qatar).",
-          "goal": false
-        },
-        {
-          "min": "34'",
-          "text": "Own Goal by Sultan Al Brake, Qatar. Bosnia and Herzegovina 2, Qatar 0.",
-          "goal": true
-        },
-        {
-          "min": "33'",
-          "text": "Attempt missed. Nikola Katic (Bosnia and Herzegovina) header from the centre of the box is too high. Assisted by Sead Kolasinac with a headed pass following a corner.",
-          "goal": false
-        },
-        {
-          "min": "33'",
-          "text": "Corner, Bosnia and Herzegovina. Conceded by Ahmed Fathy.",
-          "goal": false
-        },
-        {
-          "min": "33'",
-          "text": "Attempt blocked. Ivan Basic (Bosnia and Herzegovina) left footed shot from outside the box is blocked.",
-          "goal": false
-        },
-        {
-          "min": "29'",
-          "text": "Goal! Bosnia and Herzegovina 1, Qatar 0. Kerim Alajbegovic (Bosnia and Herzegovina) right footed shot from outside the box to the top right corner. Assisted by Ivan Basic.",
-          "goal": true
-        },
-        {
-          "min": "28'",
-          "text": "VAR Decision: Other Decision Cancelled.",
-          "goal": false
-        },
-        {
-          "min": "27'",
-          "text": "Kerim Alajbegovic (Bosnia and Herzegovina) wins a free kick on the left wing.",
-          "goal": false
-        },
-        {
-          "min": "27'",
-          "text": "Foul by Jassem Gaber (Qatar).",
-          "goal": false
-        },
-        {
-          "min": "26'",
-          "text": "Delay over. They are ready to continue.",
-          "goal": false
-        },
-        {
-          "min": "23'",
-          "text": "Delay in match for a drinks break.",
-          "goal": false
-        },
-        {
-          "min": "23'",
-          "text": "Delay over. They are ready to continue.",
-          "goal": false
-        },
-        {
-          "min": "23'",
-          "text": "Delay in match because of an injury Boualem Khoukhi (Qatar).",
-          "goal": false
-        },
-        {
-          "min": "23'",
-          "text": "Attempt blocked. Kerim Alajbegovic (Bosnia and Herzegovina) right footed shot from outside the box is blocked.",
-          "goal": false
-        },
-        {
-          "min": "21'",
-          "text": "Ivan Basic (Bosnia and Herzegovina) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "21'",
-          "text": "Foul by Jassem Gaber (Qatar).",
-          "goal": false
-        },
-        {
-          "min": "20'",
-          "text": "Offside, Qatar. Akram Afif is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "20'",
-          "text": "Foul by Kerim Alajbegovic (Bosnia and Herzegovina).",
-          "goal": false
-        },
-        {
-          "min": "20'",
-          "text": "Pedro Miguel (Qatar) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "18'",
-          "text": "Corner, Bosnia and Herzegovina. Conceded by Karim Boudiaf.",
-          "goal": false
-        },
-        {
-          "min": "18'",
-          "text": "Attempt blocked. Ivan Basic (Bosnia and Herzegovina) left footed shot from outside the box is blocked. Assisted by Esmir Bajraktarevic.",
-          "goal": false
-        },
-        {
-          "min": "17'",
-          "text": "Attempt missed. Ivan Basic (Bosnia and Herzegovina) left footed shot from outside the box is just a bit too high. Assisted by Ivan Sunjic.",
-          "goal": false
-        },
-        {
-          "min": "16'",
-          "text": "Foul by Jassem Gaber (Qatar).",
-          "goal": false
-        },
-        {
-          "min": "16'",
-          "text": "Kerim Alajbegovic (Bosnia and Herzegovina) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "12'",
-          "text": "Arjan Malic (Bosnia and Herzegovina) wins a free kick on the right wing.",
-          "goal": false
-        },
-        {
-          "min": "12'",
-          "text": "Foul by Sultan Al Brake (Qatar).",
-          "goal": false
-        },
-        {
-          "min": "11'",
-          "text": "Offside, Qatar. Edmílson Junior is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "10'",
-          "text": "Foul by Ermedin Demirovic (Bosnia and Herzegovina).",
-          "goal": false
-        },
-        {
-          "min": "10'",
+          "min": "90'+6'",
           "text": "Issa Laye (Qatar) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "10'",
-          "text": "Foul by Arjan Malic (Bosnia and Herzegovina).",
+          "min": "90'+4'",
+          "text": "Esmir Bajraktarevic (Bosnia and Herzegovina) wins a free kick on the right wing.",
           "goal": false
         },
         {
-          "min": "10'",
-          "text": "Hassan Al Haydos (Qatar) wins a free kick in the defensive half.",
+          "min": "90'+4'",
+          "text": "Foul by Mohammad Al Manai (Qatar).",
           "goal": false
         },
         {
-          "min": "8'",
-          "text": "Corner, Qatar. Conceded by Nikola Katic.",
+          "min": "90'+4'",
+          "text": "Attempt saved. Almoez Ali (Qatar) header from the centre of the box is saved in the top centre of the goal by Nikola Vasilj (Bosnia and Herzegovina). Assisted by Ahmed Al Ganehi with a cross.",
           "goal": false
         },
         {
-          "min": "4'",
-          "text": "Foul by Ivan Sunjic (Bosnia and Herzegovina).",
+          "min": "90'+4'",
+          "text": "Corner, Qatar. Conceded by Nikola Vasilj.",
           "goal": false
         },
         {
-          "min": "4'",
-          "text": "Akram Afif (Qatar) wins a free kick in the defensive half.",
+          "min": "90'+4'",
+          "text": "Attempt saved. Pedro Miguel (Qatar) right footed shot from outside the box is saved in the top centre of the goal by Nikola Vasilj (Bosnia and Herzegovina). Assisted by Issa Laye.",
           "goal": false
         },
         {
-          "min": "3'",
+          "min": "90'+2'",
+          "text": "Offside, Qatar. Akram Afif is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Corner, Qatar. Conceded by Amar Memic.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Fourth official has announced 6 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Delay in match because of an injury Stjepan Radeljic (Bosnia and Herzegovina).",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Ermedin Demirovic (Bosnia and Herzegovina) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Foul by Mohammad Al Manai (Qatar).",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Attempt missed. Ahmed Al Ganehi (Qatar) right footed shot from outside the box is high and wide to the right. Assisted by Akram Afif following a set piece situation.",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Foul by Dennis Hadzikadunic (Bosnia and Herzegovina).",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Ahmed Alaa (Qatar) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Ivan Basic (Bosnia and Herzegovina) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Foul by Ahmed Alaa (Qatar).",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Ermin Mahmic (Bosnia and Herzegovina) is shown the yellow card for excessive celebration.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Substitution, Bosnia and Herzegovina. Dzenis Burnic replaces Kerim Alajbegovic.",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Goal! Bosnia and Herzegovina 3, Qatar 1. Ermin Mahmic (Bosnia and Herzegovina) right footed shot from the centre of the box to the centre of the goal. Assisted by Dennis Hadzikadunic following a corner.",
+          "goal": true
+        },
+        {
+          "min": "80'",
+          "text": "Attempt blocked. Stjepan Radeljic (Bosnia and Herzegovina) left footed shot from the left side of the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Attempt blocked. Ivan Basic (Bosnia and Herzegovina) right footed shot from outside the box is blocked. Assisted by Esmir Bajraktarevic.",
+          "goal": false
+        },
+        {
+          "min": "79'",
           "text": "Corner, Bosnia and Herzegovina. Conceded by Mahmoud Abunada.",
           "goal": false
         },
         {
-          "min": "3'",
-          "text": "Attempt saved. Ivan Sunjic (Bosnia and Herzegovina) left footed shot from outside the box is saved in the bottom right corner by Mahmoud Abunada (Qatar). Assisted by Kerim Alajbegovic.",
+          "min": "79'",
+          "text": "Attempt saved. Esmir Bajraktarevic (Bosnia and Herzegovina) left footed shot from outside the box is saved in the bottom left corner by Mahmoud Abunada (Qatar). Assisted by Sead Kolasinac.",
           "goal": false
         },
         {
-          "min": "2'",
-          "text": "Attempt saved. Ermedin Demirovic (Bosnia and Herzegovina) left footed shot from outside the box is saved in the bottom right corner by Mahmoud Abunada (Qatar). Assisted by Ivan Sunjic.",
+          "min": "79'",
+          "text": "Substitution, Qatar. Mohammad Al Manai replaces Ahmed Fathy.",
           "goal": false
         },
         {
-          "min": "",
-          "text": "First Half begins.",
+          "min": "79'",
+          "text": "Substitution, Qatar. Ahmed Alaa replaces Edmílson Junior.",
           "goal": false
         },
         {
-          "min": "",
-          "text": "Lineups are announced and players are warming up.",
+          "min": "78'",
+          "text": "Ahmed Fathy (Qatar) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Kerim Alajbegovic (Bosnia and Herzegovina) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Foul by Ahmed Fathy (Qatar).",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Offside, Bosnia and Herzegovina. Kerim Alajbegovic is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Amar Memic (Bosnia and Herzegovina) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Foul by Edmílson Junior (Qatar).",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Attempt missed. Esmir Bajraktarevic (Bosnia and Herzegovina) left footed shot from outside the box is high and wide to the left. Assisted by Ermin Mahmic.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Substitution, Qatar. Almoez Ali replaces Karim Boudiaf.",
+          "goal": false
+        },
+        {
+          "min": "69'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Corner, Qatar. Conceded by Ermedin Demirovic.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Corner, Qatar. Conceded by Dennis Hadzikadunic.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Ermin Mahmic (Bosnia and Herzegovina) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Foul by Sultan Al Brake (Qatar).",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Substitution, Bosnia and Herzegovina. Ermin Mahmic replaces Edin Dzeko.",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "63'",
+          "text": "Substitution, Bosnia and Herzegovina. Dennis Hadzikadunic replaces Nikola Katic.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Delay in match because of an injury Nikola Vasilj (Bosnia and Herzegovina).",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Attempt missed. Akram Afif (Qatar) left footed shot from outside the box is too high. Assisted by Abdulaziz Hatem.",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Attempt missed. Akram Afif (Qatar) left footed shot from the left side of the box is close, but misses to the left. Assisted by Edmílson Junior following a fast break.",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Sead Kolasinac (Bosnia and Herzegovina) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Foul by Ahmed Al Ganehi (Qatar).",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Substitution, Qatar. Ahmed Al Ganehi replaces Hassan Al Haydos because of an injury.",
+          "goal": false
+        },
+        {
+          "min": "55'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "55'",
+          "text": "Delay in match because of an injury Hassan Al Haydos (Qatar).",
+          "goal": false
+        },
+        {
+          "min": "52'",
+          "text": "Benjamin Tahirovic (Bosnia and Herzegovina) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "52'",
+          "text": "Foul by Abdulaziz Hatem (Qatar).",
+          "goal": false
+        },
+        {
+          "min": "47'",
+          "text": "Foul by Kerim Alajbegovic (Bosnia and Herzegovina).",
+          "goal": false
+        },
+        {
+          "min": "47'",
+          "text": "Pedro Miguel (Qatar) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Substitution, Bosnia and Herzegovina. Amar Memic replaces Arjan Malic.",
           "goal": false
         }
       ],
@@ -44129,127 +44242,133 @@
             "name": "I. Basic",
             "num": "13",
             "pos": "M",
-            "value": "3"
+            "value": "4"
           },
           "away": {
             "name": "P. Miguel",
             "num": "2",
             "pos": "D",
-            "value": "2"
+            "value": "3"
           }
         },
         {
           "label": "Accurate Passes",
           "home": {
-            "name": "N. Katic",
-            "num": "18",
+            "name": "S. Radeljic",
+            "num": "21",
             "pos": "D",
-            "value": "46"
-          },
-          "away": {
-            "name": "A. Fathy",
-            "num": "20",
-            "pos": "M",
-            "value": "27"
-          }
-        },
-        {
-          "label": "Defensive Interventions",
-          "home": {
-            "name": "N. Katic",
-            "num": "18",
-            "pos": "D",
-            "value": "4"
+            "value": "81"
           },
           "away": {
             "name": "B. Khoukhi",
             "num": "16",
             "pos": "D",
+            "value": "50"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "S. Kolasinac",
+            "num": "5",
+            "pos": "D",
             "value": "7"
+          },
+          "away": {
+            "name": "B. Khoukhi",
+            "num": "16",
+            "pos": "D",
+            "value": "13"
           }
         },
         {
           "label": "Saves",
+          "home": {
+            "name": "N. Vasilj",
+            "num": "1",
+            "pos": "G",
+            "value": "2"
+          },
           "away": {
             "name": "M. Abunada",
             "num": "1",
             "pos": "G",
-            "value": "2"
+            "value": "3"
           }
         }
       ],
       "highlight": {
-        "thumb": "https://a.espncdn.com/media/motion/2026/0624/dm_260624_Bosnia_fan_zone_set_off_flares_as_side_score_opening_goal_vs_Qatar/dm_260624_Bosnia_fan_zone_set_off_flares_as_side_score_opening_goal_vs_Qatar.jpg",
-        "link": "https://www.espn.com/video/clip/_/id/49167551/bosnia-fan-zone-set-flares-side-score-opening-goal-vs-qatar",
-        "headline": "Bosnia fan zone set off flares as side score opening goal vs. Qatar",
-        "mp4": "https://media.video-cdn.espn.com/motion/2026/0624/dm_260624_Bosnia_fan_zone_set_off_flares_as_side_score_opening_goal_vs_Qatar/dm_260624_Bosnia_fan_zone_set_off_flares_as_side_score_opening_goal_vs_Qatar_360p30_1464k.mp4",
-        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0624/dm_260624_Bosnia_fan_zone_set_off_flares_as_side_score_opening_goal_vs_Qatar/dm_260624_Bosnia_fan_zone_set_off_flares_as_side_score_opening_goal_vs_Qatar/playlist.m3u8"
+        "thumb": "https://a.espncdn.com/media/motion/2026/0624/dm_260624_Burley_FIFA_are_rewarding_failure_with_third_places_in_knockouts/dm_260624_Burley_FIFA_are_rewarding_failure_with_third_places_in_knockouts.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49168473/fifa-rewarding-failure-third-places-knockouts",
+        "headline": "Burley: FIFA are rewarding failure with third places in knockouts",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0624/dm_260624_Burley_FIFA_are_rewarding_failure_with_third_places_in_knockouts/dm_260624_Burley_FIFA_are_rewarding_failure_with_third_places_in_knockouts_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0624/dm_260624_Burley_FIFA_are_rewarding_failure_with_third_places_in_knockouts/dm_260624_Burley_FIFA_are_rewarding_failure_with_third_places_in_knockouts/playlist.m3u8"
       },
-      "final": false,
+      "final": true,
       "dv": 5
     },
     "760463": {
       "venue": "BC Place",
       "stats": {
         "home": {
-          "foulsCommitted": "11",
+          "foulsCommitted": "19",
           "yellowCards": "1",
           "redCards": "0",
           "offsides": "1",
           "wonCorners": "2",
-          "saves": "3",
-          "possessionPct": "69.8",
-          "totalShots": "4",
-          "shotsOnTarget": "2",
+          "saves": "6",
+          "possessionPct": "55.2",
+          "totalShots": "6",
+          "shotsOnTarget": "4",
+          "shotPct": "0.7",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "367",
+          "totalPasses": "441",
+          "passPct": "0.8",
+          "accurateCrosses": "1",
+          "totalCrosses": "6",
+          "crossPct": "0.2",
+          "totalLongBalls": "46",
+          "accurateLongBalls": "18",
+          "longballPct": "0.4",
+          "blockedShots": "1",
+          "effectiveTackles": "7",
+          "totalTackles": "15",
+          "tacklePct": "0.5",
+          "interceptions": "5",
+          "effectiveClearance": "43",
+          "totalClearance": "43"
+        },
+        "away": {
+          "foulsCommitted": "13",
+          "yellowCards": "2",
+          "redCards": "0",
+          "offsides": "3",
+          "wonCorners": "7",
+          "saves": "2",
+          "possessionPct": "44.8",
+          "totalShots": "13",
+          "shotsOnTarget": "7",
           "shotPct": "0.5",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "251",
-          "totalPasses": "293",
-          "passPct": "0.9",
-          "accurateCrosses": "0",
-          "totalCrosses": "3",
-          "crossPct": "0.0",
-          "totalLongBalls": "26",
-          "accurateLongBalls": "12",
-          "longballPct": "0.5",
-          "blockedShots": "1",
-          "effectiveTackles": "3",
-          "totalTackles": "7",
-          "tacklePct": "0.4",
-          "interceptions": "2",
-          "effectiveClearance": "12",
-          "totalClearance": "12"
-        },
-        "away": {
-          "foulsCommitted": "5",
-          "yellowCards": "1",
-          "redCards": "0",
-          "offsides": "3",
-          "wonCorners": "1",
-          "saves": "2",
-          "possessionPct": "30.2",
-          "totalShots": "5",
-          "shotsOnTarget": "3",
-          "shotPct": "0.6",
-          "penaltyKickGoals": "0",
-          "penaltyKickShots": "0",
-          "accuratePasses": "93",
-          "totalPasses": "123",
+          "accuratePasses": "271",
+          "totalPasses": "339",
           "passPct": "0.8",
-          "accurateCrosses": "1",
-          "totalCrosses": "4",
-          "crossPct": "0.3",
-          "totalLongBalls": "23",
-          "accurateLongBalls": "11",
+          "accurateCrosses": "6",
+          "totalCrosses": "26",
+          "crossPct": "0.2",
+          "totalLongBalls": "43",
+          "accurateLongBalls": "20",
           "longballPct": "0.5",
-          "blockedShots": "0",
-          "effectiveTackles": "3",
-          "totalTackles": "4",
-          "tacklePct": "0.8",
-          "interceptions": "4",
-          "effectiveClearance": "11",
-          "totalClearance": "11"
+          "blockedShots": "3",
+          "effectiveTackles": "6",
+          "totalTackles": "9",
+          "tacklePct": "0.7",
+          "interceptions": "13",
+          "effectiveClearance": "19",
+          "totalClearance": "19"
         }
       },
       "events": [
@@ -44264,6 +44383,90 @@
           "min": "32'",
           "side": "home",
           "player": "Granit Xhaka"
+        },
+        {
+          "kind": "Goal",
+          "min": "46'",
+          "side": "home",
+          "player": "Goal! Switzerland 1, Canada 0. Rubén Vargas"
+        },
+        {
+          "kind": "Goal",
+          "min": "57'",
+          "side": "home",
+          "player": "Goal! Switzerland 2, Canada 0. Johan Manzambi"
+        },
+        {
+          "kind": "Substitution",
+          "min": "58'",
+          "side": "away",
+          "player": "Substitution, Canada. Stephen Eustaquio replaces Mathieu Choinière."
+        },
+        {
+          "kind": "Substitution",
+          "min": "58'",
+          "side": "away",
+          "player": "Substitution, Canada. Tani Oluwaseyi replaces Cyle Larin."
+        },
+        {
+          "kind": "Substitution",
+          "min": "58'",
+          "side": "away",
+          "player": "Substitution, Canada. Liam Millar replaces Ali Ahmed."
+        },
+        {
+          "kind": "Substitution",
+          "min": "74'",
+          "side": "home",
+          "player": "Substitution, Switzerland. Michel Aebischer replaces Djibril Sow."
+        },
+        {
+          "kind": "Substitution",
+          "min": "74'",
+          "side": "home",
+          "player": "Substitution, Switzerland. Silvan Widmer replaces Luca Jaquez."
+        },
+        {
+          "kind": "Substitution",
+          "min": "75'",
+          "side": "away",
+          "player": "Substitution, Canada. Promise David replaces Tajon Buchanan."
+        },
+        {
+          "kind": "Goal - Volley",
+          "min": "76'",
+          "side": "away",
+          "player": "Goal! Switzerland 2, Canada 1. Promise David"
+        },
+        {
+          "kind": "Substitution",
+          "min": "80'",
+          "side": "home",
+          "player": "Substitution, Switzerland. Dan Ndoye replaces Rubén Vargas."
+        },
+        {
+          "kind": "Substitution",
+          "min": "83'",
+          "side": "away",
+          "player": "Substitution, Canada. Jacob Shaffelburg replaces Richie Laryea."
+        },
+        {
+          "kind": "Substitution",
+          "min": "85'",
+          "side": "home",
+          "player": "Substitution, Switzerland. Christian Fassnacht replaces Johan Manzambi."
+        },
+        {
+          "kind": "Substitution",
+          "min": "85'",
+          "side": "home",
+          "player": "Substitution, Switzerland. Cedric Itten replaces Breel Embolo."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "87'",
+          "side": "away",
+          "player": "Liam Millar"
         }
       ],
       "lineups": {
@@ -44627,283 +44830,303 @@
       },
       "commentary": [
         {
-          "min": "45'+4'",
-          "text": "First Half ends, Switzerland 0, Canada 0.",
+          "min": "",
+          "text": "Match ends, Switzerland 2, Canada 1.",
           "goal": false
         },
         {
-          "min": "45'+4'",
-          "text": "Foul by Breel Embolo (Switzerland).",
+          "min": "90'+7'",
+          "text": "Second Half ends, Switzerland 2, Canada 1.",
           "goal": false
         },
         {
-          "min": "45'+4'",
-          "text": "Jonathan David (Canada) wins a free kick in the defensive half.",
+          "min": "90'+6'",
+          "text": "Gregor Kobel (Switzerland) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "45'+1'",
-          "text": "Corner, Switzerland. Conceded by Mathieu Choinière.",
-          "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Fourth official has announced 4 minutes of added time.",
-          "goal": false
-        },
-        {
-          "min": "44'",
-          "text": "Attempt missed. Jonathan David (Canada) left footed shot from the left side of the box misses to the left. Assisted by Tajon Buchanan.",
-          "goal": false
-        },
-        {
-          "min": "43'",
-          "text": "Foul by Rubén Vargas (Switzerland).",
-          "goal": false
-        },
-        {
-          "min": "43'",
-          "text": "Luc De Fougerolles (Canada) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "41'",
-          "text": "Corner, Canada. Conceded by Gregor Kobel.",
-          "goal": false
-        },
-        {
-          "min": "41'",
-          "text": "Attempt saved. Ali Ahmed (Canada) right footed shot from the left side of the box is saved in the bottom left corner by Gregor Kobel (Switzerland). Assisted by Jonathan David.",
-          "goal": false
-        },
-        {
-          "min": "40'",
-          "text": "Attempt missed. Alistair Johnston (Canada) right footed shot from outside the box is too high following a set piece situation.",
-          "goal": false
-        },
-        {
-          "min": "39'",
-          "text": "Foul by Remo Freuler (Switzerland).",
-          "goal": false
-        },
-        {
-          "min": "39'",
-          "text": "Ali Ahmed (Canada) wins a free kick on the left wing.",
-          "goal": false
-        },
-        {
-          "min": "38'",
-          "text": "Attempt missed. Granit Xhaka (Switzerland) left footed shot from outside the box is too high from a direct free kick.",
-          "goal": false
-        },
-        {
-          "min": "37'",
-          "text": "Breel Embolo (Switzerland) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "37'",
-          "text": "Foul by Richie Laryea (Canada).",
-          "goal": false
-        },
-        {
-          "min": "34'",
-          "text": "Offside, Canada. Cyle Larin is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "33'",
-          "text": "Attempt saved. Cyle Larin (Canada) right footed shot from the left side of the box is saved in the centre of the goal by Gregor Kobel (Switzerland). Assisted by Jonathan David with a through ball.",
-          "goal": false
-        },
-        {
-          "min": "32'",
-          "text": "Granit Xhaka (Switzerland) is shown the yellow card.",
-          "goal": false
-        },
-        {
-          "min": "32'",
-          "text": "Cyle Larin (Canada) is shown the yellow card.",
-          "goal": false
-        },
-        {
-          "min": "30'",
-          "text": "Granit Xhaka (Switzerland) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "30'",
-          "text": "Foul by Mathieu Choinière (Canada).",
-          "goal": false
-        },
-        {
-          "min": "25'",
-          "text": "Delay over. They are ready to continue.",
-          "goal": false
-        },
-        {
-          "min": "23'",
-          "text": "Delay in match for a drinks break.",
-          "goal": false
-        },
-        {
-          "min": "22'",
-          "text": "Offside, Switzerland. Johan Manzambi is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "21'",
-          "text": "Foul by Breel Embolo (Switzerland).",
-          "goal": false
-        },
-        {
-          "min": "21'",
-          "text": "Richie Laryea (Canada) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "20'",
-          "text": "Attempt saved. Luc De Fougerolles (Canada) right footed shot from the centre of the box is saved in the centre of the goal by Gregor Kobel (Switzerland). Assisted by Mathieu Choinière with a cross.",
-          "goal": false
-        },
-        {
-          "min": "19'",
-          "text": "Foul by Ricardo Rodríguez (Switzerland).",
-          "goal": false
-        },
-        {
-          "min": "19'",
-          "text": "Tajon Buchanan (Canada) wins a free kick on the right wing.",
-          "goal": false
-        },
-        {
-          "min": "18'",
-          "text": "Foul by Rubén Vargas (Switzerland).",
-          "goal": false
-        },
-        {
-          "min": "18'",
-          "text": "Mathieu Choinière (Canada) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "17'",
-          "text": "Attempt saved. Breel Embolo (Switzerland) left footed shot from the left side of the box is saved in the centre of the goal by Maxime Crépeau (Canada). Assisted by Ricardo Rodríguez with a headed pass.",
-          "goal": false
-        },
-        {
-          "min": "16'",
-          "text": "Foul by Luca Jaquez (Switzerland).",
-          "goal": false
-        },
-        {
-          "min": "16'",
-          "text": "Richie Laryea (Canada) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "15'",
-          "text": "Foul by Ricardo Rodríguez (Switzerland).",
-          "goal": false
-        },
-        {
-          "min": "15'",
-          "text": "Tajon Buchanan (Canada) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "13'",
-          "text": "Offside, Canada. Cyle Larin is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "12'",
-          "text": "Offside, Canada. Cyle Larin is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "11'",
-          "text": "Foul by Luca Jaquez (Switzerland).",
-          "goal": false
-        },
-        {
-          "min": "11'",
-          "text": "Richie Laryea (Canada) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "11'",
-          "text": "Attempt blocked. Johan Manzambi (Switzerland) right footed shot from the centre of the box is blocked.",
-          "goal": false
-        },
-        {
-          "min": "11'",
-          "text": "Attempt saved. Breel Embolo (Switzerland) right footed shot from the centre of the box is saved in the centre of the goal by Maxime Crépeau (Canada). Assisted by Ricardo Rodríguez with a through ball.",
-          "goal": false
-        },
-        {
-          "min": "10'",
-          "text": "Johan Manzambi (Switzerland) wins a free kick on the left wing.",
-          "goal": false
-        },
-        {
-          "min": "10'",
-          "text": "Foul by Luc De Fougerolles (Canada).",
-          "goal": false
-        },
-        {
-          "min": "7'",
-          "text": "Breel Embolo (Switzerland) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "7'",
+          "min": "90'+6'",
           "text": "Foul by Derek Cornelius (Canada).",
           "goal": false
         },
         {
-          "min": "5'",
-          "text": "Corner, Switzerland. Conceded by Alistair Johnston.",
+          "min": "90'+6'",
+          "text": "Attempt saved. Promise David (Canada) right footed shot from the centre of the box is saved in the bottom left corner by Gregor Kobel (Switzerland). Assisted by Jacob Shaffelburg.",
           "goal": false
         },
         {
-          "min": "4'",
-          "text": "Luca Jaquez (Switzerland) wins a free kick on the right wing.",
+          "min": "90'+6'",
+          "text": "Attempt saved. Alistair Johnston (Canada) header from the centre of the box is saved in the top centre of the goal by Gregor Kobel (Switzerland). Assisted by Jacob Shaffelburg with a cross.",
           "goal": false
         },
         {
-          "min": "4'",
-          "text": "Foul by Richie Laryea (Canada).",
+          "min": "90'+3'",
+          "text": "Attempt saved. Promise David (Canada) header from very close range is saved in the bottom right corner by Gregor Kobel (Switzerland). Assisted by Alistair Johnston.",
           "goal": false
         },
         {
-          "min": "3'",
-          "text": "Foul by Luca Jaquez (Switzerland).",
+          "min": "90'+1'",
+          "text": "Attempt missed. Derek Cornelius (Canada) header from very close range is close, but misses to the right. Assisted by Alistair Johnston with a cross.",
           "goal": false
         },
         {
-          "min": "3'",
-          "text": "Ali Ahmed (Canada) wins a free kick on the left wing.",
+          "min": "90'",
+          "text": "Fourth official has announced 6 minutes of added time.",
           "goal": false
         },
         {
-          "min": "2'",
-          "text": "Foul by Djibril Sow (Switzerland).",
+          "min": "89'",
+          "text": "Foul by Michel Aebischer (Switzerland).",
           "goal": false
         },
         {
-          "min": "2'",
-          "text": "Richie Laryea (Canada) wins a free kick on the left wing.",
+          "min": "89'",
+          "text": "Jonathan David (Canada) wins a free kick on the right wing.",
           "goal": false
         },
         {
-          "min": "",
-          "text": "First Half begins.",
+          "min": "89'",
+          "text": "Foul by Cedric Itten (Switzerland).",
           "goal": false
         },
         {
-          "min": "",
-          "text": "Lineups are announced and players are warming up.",
+          "min": "89'",
+          "text": "Luc De Fougerolles (Canada) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Foul by Ricardo Rodríguez (Switzerland).",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Liam Millar (Canada) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Liam Millar (Canada) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Dan Ndoye (Switzerland) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Foul by Liam Millar (Canada).",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Corner, Canada. Conceded by Manuel Akanji.",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Substitution, Switzerland. Cedric Itten replaces Breel Embolo.",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Substitution, Switzerland. Christian Fassnacht replaces Johan Manzambi.",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Substitution, Canada. Jacob Shaffelburg replaces Richie Laryea.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Breel Embolo (Switzerland) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Foul by Luc De Fougerolles (Canada).",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Dan Ndoye (Switzerland) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Foul by Nathan Saliba (Canada).",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Substitution, Switzerland. Dan Ndoye replaces Rubén Vargas.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Remo Freuler (Switzerland) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Foul by Alistair Johnston (Canada).",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Foul by Michel Aebischer (Switzerland).",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Jonathan David (Canada) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Corner, Canada. Conceded by Silvan Widmer.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Goal! Switzerland 2, Canada 1. Promise David (Canada) right footed shot from the centre of the box to the bottom left corner. Assisted by Nathan Saliba.",
+          "goal": true
+        },
+        {
+          "min": "75'",
+          "text": "Substitution, Canada. Promise David replaces Tajon Buchanan.",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Substitution, Switzerland. Silvan Widmer replaces Luca Jaquez.",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Substitution, Switzerland. Michel Aebischer replaces Djibril Sow.",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Ricardo Rodríguez (Switzerland) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Foul by Alistair Johnston (Canada).",
+          "goal": false
+        },
+        {
+          "min": "69'",
+          "text": "Corner, Canada. Conceded by Rubén Vargas.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Corner, Canada. Conceded by Nico Elvedi.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Attempt blocked. Jonathan David (Canada) left footed shot from the centre of the box is blocked. Assisted by Liam Millar with a cross.",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Breel Embolo (Switzerland) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Foul by Luc De Fougerolles (Canada).",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Foul by Remo Freuler (Switzerland).",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Richie Laryea (Canada) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "63'",
+          "text": "Granit Xhaka (Switzerland) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "63'",
+          "text": "Foul by Nathan Saliba (Canada).",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Corner, Canada. Conceded by Ricardo Rodríguez.",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Attempt blocked. Derek Cornelius (Canada) left footed shot from the right side of the box is blocked. Assisted by Liam Millar with a cross.",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Corner, Canada. Conceded by Remo Freuler.",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Attempt blocked. Liam Millar (Canada) header from the centre of the box is blocked. Assisted by Nathan Saliba with a headed pass.",
+          "goal": false
+        },
+        {
+          "min": "59'",
+          "text": "Foul by Breel Embolo (Switzerland).",
+          "goal": false
+        },
+        {
+          "min": "59'",
+          "text": "Tajon Buchanan (Canada) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Substitution, Canada. Liam Millar replaces Ali Ahmed.",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Substitution, Canada. Tani Oluwaseyi replaces Cyle Larin.",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Substitution, Canada. Stephen Eustaquio replaces Mathieu Choinière.",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Goal! Switzerland 2, Canada 0. Johan Manzambi (Switzerland) right footed shot from the right side of the box to the centre of the goal. Assisted by Breel Embolo.",
+          "goal": true
+        },
+        {
+          "min": "55'",
+          "text": "Foul by Johan Manzambi (Switzerland).",
           "goal": false
         }
       ],
@@ -44911,16 +45134,16 @@
         {
           "label": "Total Shots",
           "home": {
-            "name": "B. Embolo",
-            "num": "7",
-            "pos": "F",
+            "name": "J. Manzambi",
+            "num": "9",
+            "pos": "M",
             "value": "2"
           },
           "away": {
-            "name": "L. de Fougerolles",
-            "num": "4",
-            "pos": "D",
-            "value": "1"
+            "name": "P. David",
+            "num": "24",
+            "pos": "F",
+            "value": "3"
           }
         },
         {
@@ -44929,13 +45152,13 @@
             "name": "M. Akanji",
             "num": "5",
             "pos": "D",
-            "value": "51"
+            "value": "65"
           },
           "away": {
-            "name": "M. Choinière",
-            "num": "6",
-            "pos": "M",
-            "value": "17"
+            "name": "D. Cornelius",
+            "num": "13",
+            "pos": "D",
+            "value": "37"
           }
         },
         {
@@ -44944,13 +45167,13 @@
             "name": "N. Elvedi",
             "num": "4",
             "pos": "D",
-            "value": "4"
+            "value": "14"
           },
           "away": {
-            "name": "D. Cornelius",
-            "num": "13",
+            "name": "A. Johnston",
+            "num": "2",
             "pos": "D",
-            "value": "5"
+            "value": "10"
           }
         },
         {
@@ -44959,7 +45182,7 @@
             "name": "G. Kobel",
             "num": "1",
             "pos": "G",
-            "value": "3"
+            "value": "6"
           },
           "away": {
             "name": "M. Crépeau",
@@ -44969,8 +45192,14 @@
           }
         }
       ],
-      "highlight": null,
-      "final": false,
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0624/dm_260624_COM_SOC_Presser_Marsch_People_thought_I_was_crazy_to_believe_Canada_could_top_Group_C_2026/dm_260624_COM_SOC_Presser_Marsch_People_thought_I_was_crazy_to_believe_Canada_could_top_Group_C_2026.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49163784/people-thought-was-crazy-believe-canada-top-group-b",
+        "headline": "Marsch: People thought I was crazy to believe Canada could top Group B",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0624/dm_260624_COM_SOC_Presser_Marsch_People_thought_I_was_crazy_to_believe_Canada_could_top_Group_C_2026/dm_260624_COM_SOC_Presser_Marsch_People_thought_I_was_crazy_to_believe_Canada_could_top_Group_C_2026_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0624/dm_260624_COM_SOC_Presser_Marsch_People_thought_I_was_crazy_to_believe_Canada_could_top_Group_C_2026/dm_260624_COM_SOC_Presser_Marsch_People_thought_I_was_crazy_to_believe_Canada_could_top_Group_C_2026/playlist.m3u8"
+      },
+      "final": true,
       "dv": 5
     }
   }

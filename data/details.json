@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-25T21:51:57.225Z",
+  "lastUpdated": "2026-06-25T23:08:51.569Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -48824,55 +48824,55 @@
           "offsides": "1",
           "wonCorners": "3",
           "saves": "2",
-          "possessionPct": "40.5",
+          "possessionPct": "38.9",
           "totalShots": "7",
           "shotsOnTarget": "3",
           "shotPct": "0.4",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "300",
-          "totalPasses": "360",
+          "accuratePasses": "313",
+          "totalPasses": "379",
           "passPct": "0.8",
           "accurateCrosses": "3",
           "totalCrosses": "12",
           "crossPct": "0.3",
-          "totalLongBalls": "44",
-          "accurateLongBalls": "21",
+          "totalLongBalls": "51",
+          "accurateLongBalls": "25",
           "longballPct": "0.5",
           "blockedShots": "2",
-          "effectiveTackles": "14",
-          "totalTackles": "22",
+          "effectiveTackles": "16",
+          "totalTackles": "26",
           "tacklePct": "0.6",
-          "interceptions": "10",
-          "effectiveClearance": "23",
-          "totalClearance": "23"
+          "interceptions": "12",
+          "effectiveClearance": "29",
+          "totalClearance": "29"
         },
         "away": {
-          "foulsCommitted": "9",
+          "foulsCommitted": "10",
           "yellowCards": "1",
           "redCards": "0",
           "offsides": "0",
           "wonCorners": "2",
           "saves": "1",
-          "possessionPct": "59.5",
-          "totalShots": "9",
+          "possessionPct": "61.1",
+          "totalShots": "11",
           "shotsOnTarget": "3",
           "shotPct": "0.3",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "458",
-          "totalPasses": "526",
+          "accuratePasses": "517",
+          "totalPasses": "592",
           "passPct": "0.9",
           "accurateCrosses": "5",
-          "totalCrosses": "13",
-          "crossPct": "0.4",
-          "totalLongBalls": "34",
-          "accurateLongBalls": "15",
-          "longballPct": "0.4",
+          "totalCrosses": "16",
+          "crossPct": "0.3",
+          "totalLongBalls": "37",
+          "accurateLongBalls": "17",
+          "longballPct": "0.5",
           "blockedShots": "5",
-          "effectiveTackles": "10",
-          "totalTackles": "17",
-          "tacklePct": "0.6",
+          "effectiveTackles": "13",
+          "totalTackles": "20",
+          "tacklePct": "0.7",
           "interceptions": "4",
           "effectiveClearance": "15",
           "totalClearance": "15"
@@ -49350,6 +49350,41 @@
       },
       "commentary": [
         {
+          "min": "",
+          "text": "Match ends, Ecuador 2, Germany 1.",
+          "goal": false
+        },
+        {
+          "min": "90'+8'",
+          "text": "Second Half ends, Ecuador 2, Germany 1.",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Foul by Pascal Groß (Germany).",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Gonzalo Plata (Ecuador) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Attempt missed. Pascal Groß (Germany) left footed shot from outside the box is too high.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Attempt missed. Deniz Undav (Germany) left footed shot from a difficult angle on the left is close, but misses to the left. Assisted by Pascal Groß.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Fourth official has announced 7 minutes of added time.",
+          "goal": false
+        },
+        {
           "min": "89'",
           "text": "Gonzalo Plata (Ecuador) is shown the yellow card for a bad foul.",
           "goal": false
@@ -49613,41 +49648,6 @@
           "min": "44'",
           "text": "Aleksandar Pavlovic (Germany) is shown the yellow card for a bad foul.",
           "goal": false
-        },
-        {
-          "min": "44'",
-          "text": "Foul by Aleksandar Pavlovic (Germany).",
-          "goal": false
-        },
-        {
-          "min": "44'",
-          "text": "Enner Valencia (Ecuador) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "43'",
-          "text": "Piero Hincapié (Ecuador) is shown the yellow card for a bad foul.",
-          "goal": false
-        },
-        {
-          "min": "43'",
-          "text": "Leroy Sané (Germany) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "43'",
-          "text": "Foul by Piero Hincapié (Ecuador).",
-          "goal": false
-        },
-        {
-          "min": "38'",
-          "text": "Delay over. They are ready to continue.",
-          "goal": false
-        },
-        {
-          "min": "38'",
-          "text": "Delay in match (Germany).",
-          "goal": false
         }
       ],
       "leaders": [
@@ -49672,13 +49672,13 @@
             "name": "M. Caicedo",
             "num": "23",
             "pos": "M",
-            "value": "54"
+            "value": "56"
           },
           "away": {
             "name": "J. Tah",
             "num": "4",
             "pos": "D",
-            "value": "85"
+            "value": "94"
           }
         },
         {
@@ -49687,7 +49687,7 @@
             "name": "P. Vite",
             "num": "15",
             "pos": "M",
-            "value": "15"
+            "value": "16"
           },
           "away": {
             "name": "J. Tah",
@@ -49713,12 +49713,1088 @@
         }
       ],
       "highlight": {
-        "thumb": "https://a.espncdn.com/media/motion/2026/0625/dm_260625_German_fans_celebrate_in_Berlin_after_Sane_scores_against_Ecuador_in_under_two_minutes/dm_260625_German_fans_celebrate_in_Berlin_after_Sane_scores_against_Ecuador_in_under_two_minutes.jpg",
-        "link": "https://www.espn.com/video/clip/_/id/49179037/german-fans-celebrate-berlin-sane-scores-ecuador-two-minutes",
-        "headline": "German fans celebrate in Berlin after Sané scores against Ecuador in under two minutes",
-        "mp4": "https://media.video-cdn.espn.com/motion/2026/0625/dm_260625_German_fans_celebrate_in_Berlin_after_Sane_scores_against_Ecuador_in_under_two_minutes/dm_260625_German_fans_celebrate_in_Berlin_after_Sane_scores_against_Ecuador_in_under_two_minutes_360p30_1464k.mp4",
-        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0625/dm_260625_German_fans_celebrate_in_Berlin_after_Sane_scores_against_Ecuador_in_under_two_minutes/dm_260625_German_fans_celebrate_in_Berlin_after_Sane_scores_against_Ecuador_in_under_two_minutes/playlist.m3u8"
+        "thumb": "https://a.espncdn.com/media/motion/2026/0625/dm_260625_COM_SOC_ANALYSIS_Nicol_Germany_lack_a_cutting_edge_2026_6_25/dm_260625_COM_SOC_ANALYSIS_Nicol_Germany_lack_a_cutting_edge_2026_6_25.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49180090/germany-lack-cutting-edge",
+        "headline": "Nicol: Germany lack a cutting edge",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0625/dm_260625_COM_SOC_ANALYSIS_Nicol_Germany_lack_a_cutting_edge_2026_6_25/dm_260625_COM_SOC_ANALYSIS_Nicol_Germany_lack_a_cutting_edge_2026_6_25_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0625/dm_260625_COM_SOC_ANALYSIS_Nicol_Germany_lack_a_cutting_edge_2026_6_25/dm_260625_COM_SOC_ANALYSIS_Nicol_Germany_lack_a_cutting_edge_2026_6_25/playlist.m3u8"
       },
+      "final": true,
+      "dv": 5
+    },
+    "760471": {
+      "venue": "AT&T Stadium",
+      "stats": {
+        "home": {
+          "foulsCommitted": "1",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "1",
+          "wonCorners": "0",
+          "saves": "1",
+          "possessionPct": "44.6",
+          "totalShots": "0",
+          "shotsOnTarget": "0",
+          "shotPct": "0.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "29",
+          "totalPasses": "31",
+          "passPct": "0.9",
+          "accurateCrosses": "0",
+          "totalCrosses": "2",
+          "crossPct": "0.0",
+          "totalLongBalls": "5",
+          "accurateLongBalls": "3",
+          "longballPct": "0.6",
+          "blockedShots": "0",
+          "effectiveTackles": "0",
+          "totalTackles": "0",
+          "tacklePct": "0.0",
+          "interceptions": "0",
+          "effectiveClearance": "3",
+          "totalClearance": "3"
+        },
+        "away": {
+          "foulsCommitted": "0",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "2",
+          "saves": "0",
+          "possessionPct": "55.4",
+          "totalShots": "1",
+          "shotsOnTarget": "1",
+          "shotPct": "1.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "28",
+          "totalPasses": "36",
+          "passPct": "0.8",
+          "accurateCrosses": "0",
+          "totalCrosses": "3",
+          "crossPct": "0.0",
+          "totalLongBalls": "6",
+          "accurateLongBalls": "3",
+          "longballPct": "0.5",
+          "blockedShots": "0",
+          "effectiveTackles": "0",
+          "totalTackles": "0",
+          "tacklePct": "0.0",
+          "interceptions": "0",
+          "effectiveClearance": "2",
+          "totalClearance": "2"
+        }
+      },
+      "events": [],
+      "lineups": {
+        "home": [
+          {
+            "name": "Zion Suzuki",
+            "short": "Z. Suzuki",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Kou Itakura",
+            "short": "K. Itakura",
+            "num": "4",
+            "pos": "CD",
+            "place": "5"
+          },
+          {
+            "name": "Hiroki Ito",
+            "short": "H. Ito",
+            "num": "21",
+            "pos": "CD-L",
+            "place": "4"
+          },
+          {
+            "name": "Ayumu Seko",
+            "short": "A. Seko",
+            "num": "20",
+            "pos": "CD-R",
+            "place": "6"
+          },
+          {
+            "name": "Daichi Kamada",
+            "short": "D. Kamada",
+            "num": "15",
+            "pos": "CM-L",
+            "place": "8"
+          },
+          {
+            "name": "Ao Tanaka",
+            "short": "A. Tanaka",
+            "num": "7",
+            "pos": "CM-R",
+            "place": "7"
+          },
+          {
+            "name": "Keito Nakamura",
+            "short": "K. Nakamura",
+            "num": "13",
+            "pos": "LM",
+            "place": "3"
+          },
+          {
+            "name": "Yukinari Sugawara",
+            "short": "Y. Sugawara",
+            "num": "2",
+            "pos": "RM",
+            "place": "2"
+          },
+          {
+            "name": "Ayase Ueda",
+            "short": "A. Ueda",
+            "num": "18",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Daizen Maeda",
+            "short": "D. Maeda",
+            "num": "11",
+            "pos": "CF-L",
+            "place": "11"
+          },
+          {
+            "name": "Ritsu Doan",
+            "short": "R. Doan",
+            "num": "10",
+            "pos": "CF-R",
+            "place": "10"
+          }
+        ],
+        "away": [
+          {
+            "name": "Jacob Widell Zetterström",
+            "short": "J. Widell Zetterström",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Isak Hien",
+            "short": "I. Hien",
+            "num": "4",
+            "pos": "CD",
+            "place": "5"
+          },
+          {
+            "name": "Gabriel Gudmundsson",
+            "short": "G. Gudmundsson",
+            "num": "5",
+            "pos": "CD-L",
+            "place": "4"
+          },
+          {
+            "name": "Gustaf Lagerbielke",
+            "short": "G. Lagerbielke",
+            "num": "2",
+            "pos": "CD-R",
+            "place": "6"
+          },
+          {
+            "name": "Yasin Ayari",
+            "short": "Y. Ayari",
+            "num": "18",
+            "pos": "CM-L",
+            "place": "8"
+          },
+          {
+            "name": "Victor Lindelöf",
+            "short": "V. Lindelöf",
+            "num": "3",
+            "pos": "CM-R",
+            "place": "7"
+          },
+          {
+            "name": "Elliot Stroud",
+            "short": "E. Stroud",
+            "num": "24",
+            "pos": "LM",
+            "place": "3"
+          },
+          {
+            "name": "Alexander Bernhardsson",
+            "short": "A. Bernhardsson",
+            "num": "21",
+            "pos": "RM",
+            "place": "2"
+          },
+          {
+            "name": "Viktor Gyökeres",
+            "short": "V. Gyökeres",
+            "num": "17",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Alexander Isak",
+            "short": "A. Isak",
+            "num": "9",
+            "pos": "CF-L",
+            "place": "11"
+          },
+          {
+            "name": "Anthony Elanga",
+            "short": "A. Elanga",
+            "num": "11",
+            "pos": "CF-R",
+            "place": "10"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Junya Ito",
+            "short": "J. Ito",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Shuto Machino",
+            "short": "S. Machino",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kento Shiogai",
+            "short": "K. Shiogai",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Koki Ogawa",
+            "short": "K. Ogawa",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Takehiro Tomiyasu",
+            "short": "T. Tomiyasu",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Tomoki Hayakawa",
+            "short": "T. Hayakawa",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Yuto Nagatomo",
+            "short": "Y. Nagatomo",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Keisuke Osako",
+            "short": "K. Osako",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Tsuyoshi Watanabe",
+            "short": "T. Watanabe",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kaishu Sano",
+            "short": "K. Sano",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Keisuke Goto",
+            "short": "K. Goto",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Shogo Taniguchi",
+            "short": "S. Taniguchi",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Junnosuke Suzuki",
+            "short": "J. Suzuki",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Yuito Suzuki",
+            "short": "Y. Suzuki",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Lucas Bergvall",
+            "short": "L. Bergvall",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Taha Ali",
+            "short": "T. Ali",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Daniel Svensson",
+            "short": "D. Svensson",
+            "num": "8",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Hjalmar Ekdal",
+            "short": "H. Ekdal",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Eric Smith",
+            "short": "E. Smith",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Herman Johansson",
+            "short": "H. Johansson",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jesper Karlström",
+            "short": "J. Karlström",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gustaf Nilsson",
+            "short": "G. Nilsson",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kristoffer Nordfeldt",
+            "short": "K. Nordfeldt",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Besfort Zeneli",
+            "short": "B. Zeneli",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Benjamin Nygren",
+            "short": "B. Nygren",
+            "num": "10",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Viktor Johansson",
+            "short": "V. Johansson",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ken Sema",
+            "short": "K. Sema",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Carl Starfelt",
+            "short": "C. Starfelt",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mattias Svanberg",
+            "short": "M. Svanberg",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "3-4-2-1",
+        "away": "3-4-3"
+      },
+      "commentary": [
+        {
+          "min": "8'",
+          "text": "Ayase Ueda (Japan) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "8'",
+          "text": "Foul by Gabriel Gudmundsson (Sweden).",
+          "goal": false
+        },
+        {
+          "min": "7'",
+          "text": "Offside, Japan. Ayase Ueda is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "6'",
+          "text": "Attempt saved. Alexander Bernhardsson (Sweden) left footed shot from outside the box is saved in the bottom left corner by Zion Suzuki (Japan). Assisted by Alexander Isak.",
+          "goal": false
+        },
+        {
+          "min": "4'",
+          "text": "Yasin Ayari (Sweden) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "4'",
+          "text": "Foul by Ritsu Doan (Japan).",
+          "goal": false
+        },
+        {
+          "min": "2'",
+          "text": "Corner, Sweden. Conceded by Ritsu Doan.",
+          "goal": false
+        },
+        {
+          "min": "1'",
+          "text": "Corner, Sweden. Conceded by Ao Tanaka.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "First Half begins.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "Lineups are announced and players are warming up.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "K. Itakura",
+            "num": "4",
+            "pos": "D",
+            "value": "7"
+          },
+          "away": {
+            "name": "E. Stroud",
+            "num": "24",
+            "pos": "M",
+            "value": "6"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "D. Maeda",
+            "num": "11",
+            "pos": "F",
+            "value": "1"
+          },
+          "away": {
+            "name": "I. Hien",
+            "num": "4",
+            "pos": "D",
+            "value": "2"
+          }
+        },
+        {
+          "label": "Saves",
+          "home": {
+            "name": "Z. Suzuki",
+            "num": "1",
+            "pos": "G",
+            "value": "1"
+          }
+        },
+        {
+          "label": "Total Shots",
+          "away": {
+            "name": "A. Bernhardsson",
+            "num": "21",
+            "pos": "F",
+            "value": "1"
+          }
+        }
+      ],
+      "highlight": null,
+      "final": false,
+      "dv": 5
+    },
+    "760472": {
+      "venue": "GEHA Field at Arrowhead Stadium",
+      "stats": {
+        "home": {
+          "foulsCommitted": "1",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "0",
+          "saves": "0",
+          "possessionPct": "26.9",
+          "totalShots": "1",
+          "shotsOnTarget": "0",
+          "shotPct": "0.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "14",
+          "totalPasses": "17",
+          "passPct": "0.8",
+          "accurateCrosses": "1",
+          "totalCrosses": "1",
+          "crossPct": "1.0",
+          "totalLongBalls": "4",
+          "accurateLongBalls": "3",
+          "longballPct": "0.8",
+          "blockedShots": "0",
+          "effectiveTackles": "0",
+          "totalTackles": "0",
+          "tacklePct": "0.0",
+          "interceptions": "0",
+          "effectiveClearance": "1",
+          "totalClearance": "1"
+        },
+        "away": {
+          "foulsCommitted": "0",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "0",
+          "saves": "0",
+          "possessionPct": "73.1",
+          "totalShots": "1",
+          "shotsOnTarget": "1",
+          "shotPct": "1.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "44",
+          "totalPasses": "47",
+          "passPct": "0.9",
+          "accurateCrosses": "0",
+          "totalCrosses": "2",
+          "crossPct": "0.0",
+          "totalLongBalls": "1",
+          "accurateLongBalls": "1",
+          "longballPct": "1.0",
+          "blockedShots": "0",
+          "effectiveTackles": "0",
+          "totalTackles": "0",
+          "tacklePct": "0.0",
+          "interceptions": "0",
+          "effectiveClearance": "1",
+          "totalClearance": "1"
+        }
+      },
+      "events": [
+        {
+          "kind": "Own Goal",
+          "min": "3'",
+          "side": "away",
+          "player": "Own Goal by Ellyes Skhiri, Tunisia. Tunisia 0, Netherlands 1."
+        },
+        {
+          "kind": "Goal - Volley",
+          "min": "7'",
+          "side": "away",
+          "player": "Goal! Tunisia 0, Netherlands 2. Brian Brobbey"
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Aymen Dahmen",
+            "short": "A. Dahmen",
+            "num": "16",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Ellyes Skhiri",
+            "short": "E. Skhiri",
+            "num": "17",
+            "pos": "CD",
+            "place": "5"
+          },
+          {
+            "name": "Mohamed Amine Ben Hamida",
+            "short": "M. Ben Hamida",
+            "num": "21",
+            "pos": "CD-L",
+            "place": "4"
+          },
+          {
+            "name": "Montassar Talbi",
+            "short": "M. Talbi",
+            "num": "3",
+            "pos": "CD-R",
+            "place": "6"
+          },
+          {
+            "name": "Ali Abdi",
+            "short": "A. Abdi",
+            "num": "2",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Yan Valery",
+            "short": "Y. Valery",
+            "num": "20",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Rani Khedira",
+            "short": "R. Khedira",
+            "num": "13",
+            "pos": "CM-L",
+            "place": "10"
+          },
+          {
+            "name": "Ismaël Gharbi",
+            "short": "I. Gharbi",
+            "num": "11",
+            "pos": "CM-R",
+            "place": "8"
+          },
+          {
+            "name": "Hannibal Mejbri",
+            "short": "H. Mejbri",
+            "num": "10",
+            "pos": "LM",
+            "place": "11"
+          },
+          {
+            "name": "Anis Slimane",
+            "short": "A. Slimane",
+            "num": "25",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Hazem Mastouri",
+            "short": "H. Mastouri",
+            "num": "9",
+            "pos": "F",
+            "place": "9"
+          }
+        ],
+        "away": [
+          {
+            "name": "Bart Verbruggen",
+            "short": "B. Verbruggen",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Virgil van Dijk",
+            "short": "V. van Dijk",
+            "num": "4",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Jan Paul van Hecke",
+            "short": "J. van Hecke",
+            "num": "6",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Nathan Aké",
+            "short": "N. Aké",
+            "num": "5",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Denzel Dumfries",
+            "short": "D. Dumfries",
+            "num": "22",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Frenkie de Jong",
+            "short": "F. de Jong",
+            "num": "21",
+            "pos": "CM",
+            "place": "4"
+          },
+          {
+            "name": "Tijjani Reijnders",
+            "short": "T. Reijnders",
+            "num": "14",
+            "pos": "LM",
+            "place": "8"
+          },
+          {
+            "name": "Ryan Gravenberch",
+            "short": "R. Gravenberch",
+            "num": "8",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Brian Brobbey",
+            "short": "B. Brobbey",
+            "num": "19",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Cody Gakpo",
+            "short": "C. Gakpo",
+            "num": "11",
+            "pos": "LF",
+            "place": "11"
+          },
+          {
+            "name": "Donyell Malen",
+            "short": "D. Malen",
+            "num": "18",
+            "pos": "RF",
+            "place": "10"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Elias Achouri",
+            "short": "E. Achouri",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Dylan Bronn",
+            "short": "D. Bronn",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Sabri Ben Hessen",
+            "short": "S. Ben Hessen",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Khalil Ayari",
+            "short": "K. Ayari",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Omar Rekik",
+            "short": "O. Rekik",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Sebastian Tounekti",
+            "short": "S. Tounekti",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mohamed Hadj Mahmoud",
+            "short": "M. Hadj Mahmoud",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Raed Chikhaoui",
+            "short": "R. Chikhaoui",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mouhib Chamakh",
+            "short": "M. Chamakh",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Rayan Elloumi",
+            "short": "R. Elloumi",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Firas Chaouat",
+            "short": "F. Chaouat",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Elias Saad",
+            "short": "E. Saad",
+            "num": "8",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mortadha Ben Ouanes",
+            "short": "M. Ben Ouanes",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Micky van de Ven",
+            "short": "M. van de Ven",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Lutsharel Geertruida",
+            "short": "L. Geertruida",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Wout Weghorst",
+            "short": "W. Weghorst",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mark Flekken",
+            "short": "M. Flekken",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Memphis Depay",
+            "short": "M. Depay",
+            "num": "10",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Quinten Timber",
+            "short": "Q. Timber",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Justin Kluivert",
+            "short": "J. Kluivert",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Crysencio Summerville",
+            "short": "C. Summerville",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Teun Koopmeiners",
+            "short": "T. Koopmeiners",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Noa Lang",
+            "short": "N. Lang",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Robin Roefs",
+            "short": "R. Roefs",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mats Wieffer",
+            "short": "M. Wieffer",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Guus Til",
+            "short": "G. Til",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Marten de Roon",
+            "short": "M. de Roon",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jorrel Hato",
+            "short": "J. Hato",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "5-4-1",
+        "away": "4-3-3"
+      },
+      "commentary": [
+        {
+          "min": "7'",
+          "text": "Goal! Tunisia 0, Netherlands 2. Brian Brobbey (Netherlands) right footed shot from the centre of the box to the top right corner. Assisted by Virgil van Dijk with a headed pass following a set piece situation.",
+          "goal": true
+        },
+        {
+          "min": "6'",
+          "text": "Donyell Malen (Netherlands) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "6'",
+          "text": "Foul by Rani Khedira (Tunisia).",
+          "goal": false
+        },
+        {
+          "min": "3'",
+          "text": "Own Goal by Ellyes Skhiri, Tunisia. Tunisia 0, Netherlands 1.",
+          "goal": true
+        },
+        {
+          "min": "2'",
+          "text": "Attempt missed. Ismaël Gharbi (Tunisia) right footed shot from the centre of the box is too high. Assisted by Hazem Mastouri with a cross.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "First Half begins.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "Lineups are announced and players are warming up.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "I. Gharbi",
+            "num": "11",
+            "pos": "F",
+            "value": "1"
+          },
+          "away": {
+            "name": "B. Brobbey",
+            "num": "19",
+            "pos": "F",
+            "value": "1"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "M. Talbi",
+            "num": "3",
+            "pos": "D",
+            "value": "3"
+          },
+          "away": {
+            "name": "V. van Dijk",
+            "num": "4",
+            "pos": "D",
+            "value": "9"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "M. Ben Hamida",
+            "num": "21",
+            "pos": "D",
+            "value": "1"
+          },
+          "away": {
+            "name": "R. Gravenberch",
+            "num": "8",
+            "pos": "M",
+            "value": "1"
+          }
+        }
+      ],
+      "highlight": null,
       "final": false,
       "dv": 5
     },
@@ -49729,61 +50805,61 @@
           "foulsCommitted": "11",
           "yellowCards": "2",
           "redCards": "0",
-          "offsides": "1",
-          "wonCorners": "3",
+          "offsides": "2",
+          "wonCorners": "4",
           "saves": "1",
-          "possessionPct": "36.2",
-          "totalShots": "9",
+          "possessionPct": "36.6",
+          "totalShots": "11",
           "shotsOnTarget": "2",
           "shotPct": "0.2",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "275",
-          "totalPasses": "327",
+          "accuratePasses": "295",
+          "totalPasses": "354",
           "passPct": "0.8",
-          "accurateCrosses": "3",
-          "totalCrosses": "9",
+          "accurateCrosses": "5",
+          "totalCrosses": "15",
           "crossPct": "0.3",
-          "totalLongBalls": "28",
+          "totalLongBalls": "30",
           "accurateLongBalls": "14",
           "longballPct": "0.5",
-          "blockedShots": "1",
-          "effectiveTackles": "11",
-          "totalTackles": "19",
+          "blockedShots": "2",
+          "effectiveTackles": "12",
+          "totalTackles": "20",
           "tacklePct": "0.6",
-          "interceptions": "14",
-          "effectiveClearance": "16",
-          "totalClearance": "16"
+          "interceptions": "15",
+          "effectiveClearance": "17",
+          "totalClearance": "17"
         },
         "away": {
           "foulsCommitted": "6",
           "yellowCards": "1",
           "redCards": "0",
           "offsides": "1",
-          "wonCorners": "5",
+          "wonCorners": "6",
           "saves": "2",
-          "possessionPct": "63.8",
-          "totalShots": "6",
-          "shotsOnTarget": "2",
-          "shotPct": "0.3",
+          "possessionPct": "63.4",
+          "totalShots": "7",
+          "shotsOnTarget": "3",
+          "shotPct": "0.4",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "519",
-          "totalPasses": "577",
+          "accuratePasses": "558",
+          "totalPasses": "623",
           "passPct": "0.9",
           "accurateCrosses": "3",
-          "totalCrosses": "15",
+          "totalCrosses": "16",
           "crossPct": "0.2",
-          "totalLongBalls": "34",
-          "accurateLongBalls": "19",
-          "longballPct": "0.6",
+          "totalLongBalls": "39",
+          "accurateLongBalls": "21",
+          "longballPct": "0.5",
           "blockedShots": "1",
           "effectiveTackles": "10",
-          "totalTackles": "16",
+          "totalTackles": "17",
           "tacklePct": "0.6",
           "interceptions": "12",
-          "effectiveClearance": "13",
-          "totalClearance": "13"
+          "effectiveClearance": "19",
+          "totalClearance": "19"
         }
       },
       "events": [
@@ -49869,13 +50945,13 @@
           "kind": "Substitution",
           "min": "90'",
           "side": "home",
-          "player": "Shurandy Sambo"
+          "player": "Substitution, Curaçao. Shurandy Sambo replaces Joshua Brenet."
         },
         {
           "kind": "Substitution",
           "min": "90'",
           "side": "home",
-          "player": "Brandley Kuwas"
+          "player": "Substitution, Curaçao. Brandley Kuwas replaces Jürgen Locadia."
         }
       ],
       "lineups": {
@@ -50260,6 +51336,61 @@
       },
       "commentary": [
         {
+          "min": "",
+          "text": "Match ends, Curaçao 0, Côte d'Ivoire 2.",
+          "goal": false
+        },
+        {
+          "min": "90'+7'",
+          "text": "Second Half ends, Curaçao 0, Côte d'Ivoire 2.",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Corner, Côte d'Ivoire. Conceded by Shurandy Sambo.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Offside, Curaçao. Sherel Floranus is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Attempt blocked. Jeremy Antonisse (Curaçao) right footed shot from the centre of the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Attempt missed. Gervane Kastaneer (Curaçao) left footed shot from outside the box misses to the left. Assisted by Juninho Bacuna.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Fourth official has announced 6 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Substitution, Curaçao. Brandley Kuwas replaces Jürgen Locadia.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Substitution, Curaçao. Shurandy Sambo replaces Joshua Brenet.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Corner, Curaçao. Conceded by Yahia Fofana.",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Attempt saved. Elye Wahi (Côte d'Ivoire) right footed shot from the right side of the box is saved in the bottom right corner by Eloy Room (Curaçao).",
+          "goal": false
+        },
+        {
           "min": "86'",
           "text": "Corner, Côte d'Ivoire. Conceded by Armando Obispo.",
           "goal": false
@@ -50503,61 +51634,6 @@
           "min": "36'",
           "text": "Amad Diallo (Côte d'Ivoire) wins a free kick in the attacking half.",
           "goal": false
-        },
-        {
-          "min": "36'",
-          "text": "Foul by Sherel Floranus (Curaçao).",
-          "goal": false
-        },
-        {
-          "min": "35'",
-          "text": "Nicolas Pépé (Côte d'Ivoire) is shown the yellow card for a bad foul.",
-          "goal": false
-        },
-        {
-          "min": "35'",
-          "text": "Foul by Nicolas Pépé (Côte d'Ivoire).",
-          "goal": false
-        },
-        {
-          "min": "35'",
-          "text": "Tahith Chong (Curaçao) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "33'",
-          "text": "Amad Diallo (Côte d'Ivoire) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "33'",
-          "text": "Foul by Deveron Fonville (Curaçao).",
-          "goal": false
-        },
-        {
-          "min": "31'",
-          "text": "Yahia Fofana (Côte d'Ivoire) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "31'",
-          "text": "Foul by Livano Comenencia (Curaçao).",
-          "goal": false
-        },
-        {
-          "min": "30'",
-          "text": "Corner, Curaçao. Conceded by Guéla Doué.",
-          "goal": false
-        },
-        {
-          "min": "28'",
-          "text": "Corner, Côte d'Ivoire. Conceded by Joshua Brenet.",
-          "goal": false
-        },
-        {
-          "min": "26'",
-          "text": "Delay over. They are ready to continue.",
-          "goal": false
         }
       ],
       "leaders": [
@@ -50582,13 +51658,13 @@
             "name": "S. Floranus",
             "num": "5",
             "pos": "D",
-            "value": "40"
+            "value": "44"
           },
           "away": {
             "name": "I. Sangaré",
             "num": "18",
             "pos": "M",
-            "value": "78"
+            "value": "82"
           }
         },
         {
@@ -50622,8 +51698,14 @@
           }
         }
       ],
-      "highlight": null,
-      "final": false,
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0625/dm_260625_COM_SOC_Analysis_Will_Ivory_Coast_struggle_to_create_goals_in_knockout_stages_20260625_GLOBAL/dm_260625_COM_SOC_Analysis_Will_Ivory_Coast_struggle_to_create_goals_in_knockout_stages_20260625_GLOBAL.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49179968/will-ivory-coast-struggle-create-goals-knockout-stages",
+        "headline": "Will Ivory Coast struggle to create goals in knockout stages?",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0625/dm_260625_COM_SOC_Analysis_Will_Ivory_Coast_struggle_to_create_goals_in_knockout_stages_20260625_GLOBAL/dm_260625_COM_SOC_Analysis_Will_Ivory_Coast_struggle_to_create_goals_in_knockout_stages_20260625_GLOBAL_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0625/dm_260625_COM_SOC_Analysis_Will_Ivory_Coast_struggle_to_create_goals_in_knockout_stages_20260625_GLOBAL/dm_260625_COM_SOC_Analysis_Will_Ivory_Coast_struggle_to_create_goals_in_knockout_stages_20260625_GLOBAL/playlist.m3u8"
+      },
+      "final": true,
       "dv": 5
     }
   }

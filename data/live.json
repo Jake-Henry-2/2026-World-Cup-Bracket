@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-25T21:51:57.101Z",
+  "lastUpdated": "2026-06-25T23:08:51.417Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -765,22 +765,12 @@
       "homeScore": 0,
       "awayScore": 2,
       "homeWinner": false,
-      "awayWinner": false,
-      "odds": {
-        "home": 1400,
-        "away": -550,
-        "draw": 700,
-        "total": 3.5,
-        "book": "DraftKings"
-      },
-      "status": "live",
+      "awayWinner": true,
+      "odds": null,
+      "status": "finished",
       "id": "760473",
       "date": "2026-06-25T20:00Z",
-      "venue": "Lincoln Financial Field",
-      "clock": 5400,
-      "displayClock": "90'+1'",
-      "detail": "90'+1'",
-      "period": 2
+      "venue": "Lincoln Financial Field"
     },
     {
       "stage": "group",
@@ -788,23 +778,13 @@
       "away": "Germany",
       "homeScore": 2,
       "awayScore": 1,
-      "homeWinner": false,
+      "homeWinner": true,
       "awayWinner": false,
-      "odds": {
-        "home": 330,
-        "away": -130,
-        "draw": 320,
-        "total": 2.5,
-        "book": "DraftKings"
-      },
-      "status": "live",
+      "odds": null,
+      "status": "finished",
       "id": "760468",
       "date": "2026-06-25T20:00Z",
-      "venue": "MetLife Stadium",
-      "clock": 5400,
-      "displayClock": "90'+1'",
-      "detail": "90'+1'",
-      "period": 2
+      "venue": "MetLife Stadium"
     },
     {
       "stage": "group",
@@ -815,36 +795,44 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 115,
-        "away": 260,
+        "home": 140,
+        "away": 205,
         "draw": 240,
         "total": 2.5,
         "book": "DraftKings"
       },
-      "status": "scheduled",
+      "status": "live",
       "id": "760471",
       "date": "2026-06-25T23:00Z",
-      "venue": "AT&T Stadium"
+      "venue": "AT&T Stadium",
+      "clock": 480,
+      "displayClock": "8'",
+      "detail": "8'",
+      "period": 1
     },
     {
       "stage": "group",
       "home": "Tunisia",
       "away": "Netherlands",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 2,
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 2200,
-        "away": -900,
-        "draw": 900,
+        "home": 1800,
+        "away": -700,
+        "draw": 750,
         "total": 3.5,
         "book": "DraftKings"
       },
-      "status": "scheduled",
+      "status": "live",
       "id": "760472",
       "date": "2026-06-25T23:00Z",
-      "venue": "GEHA Field at Arrowhead Stadium"
+      "venue": "GEHA Field at Arrowhead Stadium",
+      "clock": 480,
+      "displayClock": "8'",
+      "detail": "8'",
+      "period": 1
     },
     {
       "stage": "group",
@@ -855,9 +843,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 165,
-        "away": 340,
-        "draw": 130,
+        "home": 160,
+        "away": 360,
+        "draw": 125,
         "total": 1.5,
         "book": "DraftKings"
       },
@@ -875,9 +863,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 300,
+        "home": 310,
         "away": -125,
-        "draw": 310,
+        "draw": 320,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -915,9 +903,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -450,
+        "home": -425,
         "away": 1100,
-        "draw": 600,
+        "draw": 550,
         "total": 3.5,
         "book": "DraftKings"
       },
@@ -995,7 +983,7 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 1600,
+        "home": 1500,
         "away": -600,
         "draw": 750,
         "total": 3.5,
@@ -1076,7 +1064,7 @@
       "awayWinner": false,
       "odds": {
         "home": -135,
-        "away": 330,
+        "away": 340,
         "draw": 320,
         "total": 2.5,
         "book": "DraftKings"
@@ -1190,7 +1178,7 @@
     },
     {
       "stage": "r32",
-      "home": "Group E 2nd Place",
+      "home": "Ivory Coast",
       "away": "Group I 2nd Place",
       "homeScore": 0,
       "awayScore": 0,

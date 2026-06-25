@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T23:58:29.792Z",
+  "lastUpdated": "2026-06-25T04:18:02.248Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -45212,28 +45212,28 @@
           "offsides": "5",
           "wonCorners": "9",
           "saves": "1",
-          "possessionPct": "69.7",
+          "possessionPct": "69.1",
           "totalShots": "22",
           "shotsOnTarget": "11",
           "shotPct": "0.5",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "478",
-          "totalPasses": "540",
+          "accuratePasses": "477",
+          "totalPasses": "541",
           "passPct": "0.9",
           "accurateCrosses": "7",
           "totalCrosses": "22",
           "crossPct": "0.3",
-          "totalLongBalls": "35",
-          "accurateLongBalls": "19",
+          "totalLongBalls": "34",
+          "accurateLongBalls": "17",
           "longballPct": "0.5",
           "blockedShots": "5",
-          "effectiveTackles": "9",
-          "totalTackles": "18",
-          "tacklePct": "0.5",
-          "interceptions": "6",
-          "effectiveClearance": "13",
-          "totalClearance": "13"
+          "effectiveTackles": "8",
+          "totalTackles": "20",
+          "tacklePct": "0.4",
+          "interceptions": "8",
+          "effectiveClearance": "14",
+          "totalClearance": "14"
         },
         "away": {
           "foulsCommitted": "18",
@@ -45242,28 +45242,28 @@
           "offsides": "0",
           "wonCorners": "1",
           "saves": "8",
-          "possessionPct": "30.3",
-          "totalShots": "5",
-          "shotsOnTarget": "1",
+          "possessionPct": "30.9",
+          "totalShots": "9",
+          "shotsOnTarget": "2",
           "shotPct": "0.2",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "193",
-          "totalPasses": "242",
+          "accuratePasses": "198",
+          "totalPasses": "247",
           "passPct": "0.8",
-          "accurateCrosses": "0",
-          "totalCrosses": "1",
-          "crossPct": "0.0",
-          "totalLongBalls": "43",
-          "accurateLongBalls": "20",
+          "accurateCrosses": "2",
+          "totalCrosses": "3",
+          "crossPct": "0.7",
+          "totalLongBalls": "44",
+          "accurateLongBalls": "21",
           "longballPct": "0.5",
-          "blockedShots": "1",
+          "blockedShots": "3",
           "effectiveTackles": "12",
           "totalTackles": "25",
           "tacklePct": "0.5",
-          "interceptions": "14",
-          "effectiveClearance": "25",
-          "totalClearance": "25"
+          "interceptions": "16",
+          "effectiveClearance": "26",
+          "totalClearance": "26"
         }
       },
       "events": [
@@ -45764,8 +45764,53 @@
       },
       "commentary": [
         {
+          "min": "",
+          "text": "Match ends, Morocco 4, Haiti 2.",
+          "goal": false
+        },
+        {
+          "min": "99'",
+          "text": "Second Half ends, Morocco 4, Haiti 2.",
+          "goal": false
+        },
+        {
+          "min": "90'+8'",
+          "text": "Attempt missed. Ricardo Adé (Haiti) right footed shot from outside the box misses to the left. Assisted by Frantzdy Pierrot.",
+          "goal": false
+        },
+        {
+          "min": "90'+8'",
+          "text": "Attempt blocked. Louicius Deedson (Haiti) left footed shot from the right side of the box is blocked. Assisted by Frantzdy Pierrot with a headed pass.",
+          "goal": false
+        },
+        {
+          "min": "90'+8'",
+          "text": "Sofyan Amrabat went off injured after Morocco had used all subs.",
+          "goal": false
+        },
+        {
+          "min": "90'+7'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Delay in match because of an injury Sofyan Amrabat (Morocco).",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Attempt blocked. Jean-Ricner Bellegarde (Haiti) header from the centre of the box is blocked. Assisted by Dominique Simon with a cross.",
+          "goal": false
+        },
+        {
           "min": "90'+5'",
           "text": "Corner, Haiti. Conceded by Yassine Bounou.",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Attempt saved. Duckens Nazon (Haiti) right footed shot from outside the box is saved in the top right corner by Yassine Bounou (Morocco).",
           "goal": false
         },
         {
@@ -45905,12 +45950,12 @@
         },
         {
           "min": "78'",
-          "text": "Attempt blocked. Soufiane Rahimi (Morocco) header from the centre of the box is blocked. Assisted by Achraf Hakimi with a cross.",
+          "text": "Corner, Morocco. Conceded by Martin Expérience.",
           "goal": false
         },
         {
-          "min": "78'",
-          "text": "Corner, Morocco. Conceded by Martin Expérience.",
+          "min": "77'",
+          "text": "Attempt blocked. Soufiane Rahimi (Morocco) header from the centre of the box is blocked. Assisted by Achraf Hakimi with a cross.",
           "goal": false
         },
         {
@@ -46017,67 +46062,22 @@
           "min": "66'",
           "text": "Wilson Isidor (Haiti) wins a free kick in the defensive half.",
           "goal": false
-        },
-        {
-          "min": "65'",
-          "text": "Corner, Morocco. Conceded by Ricardo Adé.",
-          "goal": false
-        },
-        {
-          "min": "64'",
-          "text": "Attempt blocked. Jean-Ricner Bellegarde (Haiti) right footed shot from a difficult angle and long range on the left is blocked.",
-          "goal": false
-        },
-        {
-          "min": "64'",
-          "text": "Foul by Ayoub El Kaabi (Morocco).",
-          "goal": false
-        },
-        {
-          "min": "64'",
-          "text": "Ruben Providence (Haiti) wins a free kick on the left wing.",
-          "goal": false
-        },
-        {
-          "min": "63'",
-          "text": "Redouane Halhal (Morocco) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "63'",
-          "text": "Foul by Jean-Ricner Bellegarde (Haiti).",
-          "goal": false
-        },
-        {
-          "min": "61'",
-          "text": "Foul by Achraf Hakimi (Morocco).",
-          "goal": false
-        },
-        {
-          "min": "61'",
-          "text": "Martin Expérience (Haiti) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "59'",
-          "text": "Attempt saved. Bilal El Khannouss (Morocco) right footed shot from outside the box is saved in the bottom right corner by Johny Placide (Haiti).",
-          "goal": false
         }
       ],
       "leaders": [
         {
           "label": "Total Shots",
           "home": {
-            "name": "I. Saibari",
-            "num": "11",
-            "pos": "M",
+            "name": "A. Hakimi",
+            "num": "2",
+            "pos": "D",
             "value": "5"
           },
           "away": {
-            "name": "L. Joseph",
-            "num": "16",
-            "pos": "F",
-            "value": "2"
+            "name": "J. Bellegarde",
+            "num": "10",
+            "pos": "M",
+            "value": "3"
           }
         },
         {
@@ -46107,7 +46107,7 @@
             "name": "H. Delcroix",
             "num": "5",
             "pos": "D",
-            "value": "13"
+            "value": "14"
           }
         },
         {
@@ -46126,8 +46126,14 @@
           }
         }
       ],
-      "highlight": null,
-      "final": false,
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0624/ss_20260624_212439096_3574668/ss_20260624_212439096_3574668.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49170519/difficult-see-morocco-making-another-deep-run",
+        "headline": "Burley: Difficult to see Morocco making another deep run",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0624/ss_20260624_212439096_3574668/ss_20260624_212439096_3574668_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0624/ss_20260624_212439096_3574668/ss_20260624_212439096_3574668/playlist.m3u8"
+      },
+      "final": true,
       "dv": 5
     },
     "760465": {
@@ -46138,60 +46144,60 @@
           "yellowCards": "1",
           "redCards": "0",
           "offsides": "0",
-          "wonCorners": "6",
+          "wonCorners": "7",
           "saves": "5",
-          "possessionPct": "46.9",
-          "totalShots": "13",
-          "shotsOnTarget": "4",
-          "shotPct": "0.3",
+          "possessionPct": "46",
+          "totalShots": "14",
+          "shotsOnTarget": "5",
+          "shotPct": "0.4",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "445",
-          "totalPasses": "495",
+          "accuratePasses": "450",
+          "totalPasses": "500",
           "passPct": "0.9",
           "accurateCrosses": "9",
-          "totalCrosses": "21",
+          "totalCrosses": "23",
           "crossPct": "0.4",
           "totalLongBalls": "33",
           "accurateLongBalls": "17",
           "longballPct": "0.5",
           "blockedShots": "3",
-          "effectiveTackles": "6",
-          "totalTackles": "10",
-          "tacklePct": "0.6",
+          "effectiveTackles": "8",
+          "totalTackles": "12",
+          "tacklePct": "0.7",
           "interceptions": "2",
           "effectiveClearance": "13",
           "totalClearance": "13"
         },
         "away": {
-          "foulsCommitted": "9",
+          "foulsCommitted": "11",
           "yellowCards": "2",
           "redCards": "0",
           "offsides": "1",
           "wonCorners": "7",
-          "saves": "4",
-          "possessionPct": "53.1",
-          "totalShots": "20",
+          "saves": "5",
+          "possessionPct": "54",
+          "totalShots": "21",
           "shotsOnTarget": "9",
-          "shotPct": "0.5",
+          "shotPct": "0.4",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "533",
-          "totalPasses": "575",
+          "accuratePasses": "564",
+          "totalPasses": "605",
           "passPct": "0.9",
           "accurateCrosses": "2",
           "totalCrosses": "12",
           "crossPct": "0.2",
-          "totalLongBalls": "26",
-          "accurateLongBalls": "10",
+          "totalLongBalls": "27",
+          "accurateLongBalls": "12",
           "longballPct": "0.4",
-          "blockedShots": "4",
+          "blockedShots": "5",
           "effectiveTackles": "6",
-          "totalTackles": "12",
-          "tacklePct": "0.5",
+          "totalTackles": "14",
+          "tacklePct": "0.4",
           "interceptions": "13",
-          "effectiveClearance": "21",
-          "totalClearance": "21"
+          "effectiveClearance": "24",
+          "totalClearance": "24"
         }
       },
       "events": [
@@ -46667,6 +46673,51 @@
       },
       "commentary": [
         {
+          "min": "",
+          "text": "Match ends, Scotland 0, Brazil 3.",
+          "goal": false
+        },
+        {
+          "min": "90'+7'",
+          "text": "Second Half ends, Scotland 0, Brazil 3.",
+          "goal": false
+        },
+        {
+          "min": "90'+7'",
+          "text": "Foul by Alex Sandro (Brazil).",
+          "goal": false
+        },
+        {
+          "min": "90'+7'",
+          "text": "Ryan Christie (Scotland) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Attempt blocked. Vinícius Júnior (Brazil) left footed shot from the centre of the box is blocked. Assisted by Neymar.",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Attempt saved. Scott McTominay (Scotland) left footed shot from very close range is saved in the centre of the goal by Alisson Becker (Brazil). Assisted by Anthony Ralston.",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Corner, Scotland. Conceded by Gabriel Magalhães.",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Foul by Gabriel Martinelli (Brazil).",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Lewis Ferguson (Scotland) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
           "min": "90'+2'",
           "text": "Vinícius Júnior (Brazil) wins a free kick on the left wing.",
           "goal": false
@@ -46723,7 +46774,7 @@
         },
         {
           "min": "89'",
-          "text": "Attempt saved. Anthony Ralston (Scotland) left footed shot from the centre of the box is saved in the top centre of the goal by Alisson Becker (Brazil). Assisted by John McGinn with a cross.",
+          "text": "Attempt saved. Anthony Ralston (Scotland) left footed shot from the centre of the box is saved in the centre of the goal by Alisson Becker (Brazil). Assisted by John McGinn with a cross.",
           "goal": false
         },
         {
@@ -46843,7 +46894,7 @@
         },
         {
           "min": "76'",
-          "text": "Attempt missed. Lawrence Shankland (Scotland) header from the centre of the box is too high. Assisted by Lewis Ferguson with a cross following a corner.",
+          "text": "Attempt missed. Lawrence Shankland (Scotland) header from the centre of the box is just a bit too high. Assisted by Lewis Ferguson with a cross following a corner.",
           "goal": false
         },
         {
@@ -46858,7 +46909,7 @@
         },
         {
           "min": "72'",
-          "text": "Attempt missed. Scott McTominay (Scotland) left footed shot from the centre of the box is too high. Assisted by Lawrence Shankland.",
+          "text": "Attempt missed. Scott McTominay (Scotland) left footed shot from the centre of the box is just a bit too high. Assisted by Lawrence Shankland.",
           "goal": false
         },
         {
@@ -46867,12 +46918,12 @@
           "goal": false
         },
         {
-          "min": "72'",
+          "min": "71'",
           "text": "Foul by Danilo (Brazil).",
           "goal": false
         },
         {
-          "min": "72'",
+          "min": "71'",
           "text": "John McGinn (Scotland) wins a free kick in the defensive half.",
           "goal": false
         },
@@ -46913,57 +46964,12 @@
         },
         {
           "min": "64'",
-          "text": "Attempt saved. Lewis Ferguson (Scotland) right footed shot from a difficult angle and long range on the left is saved in the top centre of the goal by Alisson Becker (Brazil).",
+          "text": "Attempt saved. Lewis Ferguson (Scotland) right footed shot from a difficult angle and long range on the left is saved in the top right corner by Alisson Becker (Brazil).",
           "goal": false
         },
         {
           "min": "62'",
           "text": "Danilo (Brazil) is shown the yellow card for a bad foul.",
-          "goal": false
-        },
-        {
-          "min": "62'",
-          "text": "Foul by Danilo (Brazil).",
-          "goal": false
-        },
-        {
-          "min": "62'",
-          "text": "Kieran Tierney (Scotland) wins a free kick on the left wing.",
-          "goal": false
-        },
-        {
-          "min": "60'",
-          "text": "Goal! Scotland 0, Brazil 3. Matheus Cunha (Brazil) right footed shot from the centre of the box to the bottom right corner. Assisted by Bruno Guimarães.",
-          "goal": true
-        },
-        {
-          "min": "60'",
-          "text": "Casemiro (Brazil) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "60'",
-          "text": "Foul by Lawrence Shankland (Scotland).",
-          "goal": false
-        },
-        {
-          "min": "59'",
-          "text": "Attempt missed. Lucas Paquetá (Brazil) right footed shot from outside the box is high and wide to the right.",
-          "goal": false
-        },
-        {
-          "min": "59'",
-          "text": "Attempt blocked. Matheus Cunha (Brazil) right footed shot from the right side of the box is blocked. Assisted by Rayan.",
-          "goal": false
-        },
-        {
-          "min": "57'",
-          "text": "Lucas Paquetá (Brazil) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "57'",
-          "text": "Foul by Ben Gannon-Doak (Scotland).",
           "goal": false
         }
       ],
@@ -46974,13 +46980,13 @@
             "name": "S. McTominay",
             "num": "4",
             "pos": "M",
-            "value": "3"
+            "value": "4"
           },
           "away": {
             "name": "Vinícius Júnior",
             "num": "7",
             "pos": "F",
-            "value": "7"
+            "value": "8"
           }
         },
         {
@@ -46989,13 +46995,13 @@
             "name": "L. Ferguson",
             "num": "19",
             "pos": "M",
-            "value": "86"
+            "value": "87"
           },
           "away": {
             "name": "G. Magalhães",
             "num": "3",
             "pos": "D",
-            "value": "90"
+            "value": "93"
           }
         },
         {
@@ -47007,9 +47013,9 @@
             "value": "8"
           },
           "away": {
-            "name": "Casemiro",
-            "num": "5",
-            "pos": "M",
+            "name": "G. Magalhães",
+            "num": "3",
+            "pos": "D",
             "value": "8"
           }
         },
@@ -47025,18 +47031,1787 @@
             "name": "A. Becker",
             "num": "1",
             "pos": "G",
-            "value": "4"
+            "value": "5"
           }
         }
       ],
       "highlight": {
-        "thumb": "https://a.espncdn.com/media/motion/2026/0624/dm_260624_COM_SOC_News_Fans_in_Rio_celebrate_Vinicius_Jrs_early_goal_vs_Scotland_20260624_GLOBAL_FIFA_W/dm_260624_COM_SOC_News_Fans_in_Rio_celebrate_Vinicius_Jrs_early_goal_vs_Scotland_20260624_GLOBAL_FIFA_W.jpg",
-        "link": "https://www.espn.com/video/clip/_/id/49168912/fans-rio-celebrate-vinicius-jr-early-goal-vs-scotland",
-        "headline": "Fans in Rio celebrate Vinícius Jr.'s early goal vs. Scotland",
-        "mp4": "https://media.video-cdn.espn.com/motion/2026/0624/dm_260624_COM_SOC_News_Fans_in_Rio_celebrate_Vinicius_Jrs_early_goal_vs_Scotland_20260624_GLOBAL_FIFA_W/dm_260624_COM_SOC_News_Fans_in_Rio_celebrate_Vinicius_Jrs_early_goal_vs_Scotland_20260624_GLOBAL_FIFA_W_360p30_1464k.mp4",
-        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0624/dm_260624_COM_SOC_News_Fans_in_Rio_celebrate_Vinicius_Jrs_early_goal_vs_Scotland_20260624_GLOBAL_FIFA_W/dm_260624_COM_SOC_News_Fans_in_Rio_celebrate_Vinicius_Jrs_early_goal_vs_Scotland_20260624_GLOBAL_FIFA_W/playlist.m3u8"
+        "thumb": "https://a.espncdn.com/media/motion/2026/0624/dm_260624_World_Cup_Highlight_Vinicius_Juniors_brace_sees_Brazil_top_Group_C_20260625_AUS_ONLY/dm_260624_World_Cup_Highlight_Vinicius_Juniors_brace_sees_Brazil_top_Group_C_20260625_AUS_ONLY.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49170195/vinicius-junior-brace-sees-brazil-top-group-c",
+        "headline": "Vinícius Júnior's brace sees Brazil top Group C",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0624/dm_260624_World_Cup_Highlight_Vinicius_Juniors_brace_sees_Brazil_top_Group_C_20260625_AUS_ONLY/dm_260624_World_Cup_Highlight_Vinicius_Juniors_brace_sees_Brazil_top_Group_C_20260625_AUS_ONLY_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0624/dm_260624_World_Cup_Highlight_Vinicius_Juniors_brace_sees_Brazil_top_Group_C_20260625_AUS_ONLY/dm_260624_World_Cup_Highlight_Vinicius_Juniors_brace_sees_Brazil_top_Group_C_20260625_AUS_ONLY/playlist.m3u8"
       },
-      "final": false,
+      "final": true,
+      "dv": 5
+    },
+    "760466": {
+      "venue": "Estadio BBVA",
+      "stats": {
+        "home": {
+          "foulsCommitted": "7",
+          "yellowCards": "1",
+          "redCards": "0",
+          "offsides": "3",
+          "wonCorners": "4",
+          "saves": "2",
+          "possessionPct": "31.5",
+          "totalShots": "13",
+          "shotsOnTarget": "4",
+          "shotPct": "0.3",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "277",
+          "totalPasses": "338",
+          "passPct": "0.8",
+          "accurateCrosses": "1",
+          "totalCrosses": "8",
+          "crossPct": "0.1",
+          "totalLongBalls": "55",
+          "accurateLongBalls": "19",
+          "longballPct": "0.3",
+          "blockedShots": "4",
+          "effectiveTackles": "6",
+          "totalTackles": "11",
+          "tacklePct": "0.5",
+          "interceptions": "15",
+          "effectiveClearance": "42",
+          "totalClearance": "42"
+        },
+        "away": {
+          "foulsCommitted": "9",
+          "yellowCards": "1",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "6",
+          "saves": "3",
+          "possessionPct": "68.5",
+          "totalShots": "8",
+          "shotsOnTarget": "3",
+          "shotPct": "0.4",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "643",
+          "totalPasses": "720",
+          "passPct": "0.9",
+          "accurateCrosses": "7",
+          "totalCrosses": "33",
+          "crossPct": "0.2",
+          "totalLongBalls": "55",
+          "accurateLongBalls": "31",
+          "longballPct": "0.6",
+          "blockedShots": "1",
+          "effectiveTackles": "9",
+          "totalTackles": "12",
+          "tacklePct": "0.8",
+          "interceptions": "4",
+          "effectiveClearance": "15",
+          "totalClearance": "15"
+        }
+      },
+      "events": [
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "away",
+          "player": "Substitution, Korea Republic. Son Heung-Min replaces Hwang Hee-Chan."
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "away",
+          "player": "Substitution, Korea Republic. Kim Jin-Gyu replaces Paik Seung-Ho."
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "away",
+          "player": "Substitution, Korea Republic. Jens Castrop replaces Lee Tae-Seok."
+        },
+        {
+          "kind": "Substitution",
+          "min": "62'",
+          "side": "home",
+          "player": "Substitution, South Africa. Tshepang Moremi replaces Oswin Appollis."
+        },
+        {
+          "kind": "Goal",
+          "min": "63'",
+          "side": "home",
+          "player": "Goal! South Africa 1, Korea Republic 0. Thapelo Maseko"
+        },
+        {
+          "kind": "Substitution",
+          "min": "65'",
+          "side": "away",
+          "player": "Substitution, Korea Republic. Park Jin-Seob replaces Kim Min-Jae."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "73'",
+          "side": "home",
+          "player": "Aubrey Modiba"
+        },
+        {
+          "kind": "Substitution",
+          "min": "74'",
+          "side": "away",
+          "player": "Substitution, Korea Republic. Cho Gue-Sung replaces Oh Hyeon-Gyu."
+        },
+        {
+          "kind": "Substitution",
+          "min": "75'",
+          "side": "home",
+          "player": "Substitution, South Africa. Iqraam Rayners replaces Thapelo Maseko."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "79'",
+          "side": "away",
+          "player": "Cho Gue-Sung"
+        },
+        {
+          "kind": "Substitution",
+          "min": "80'",
+          "side": "home",
+          "player": "Substitution, South Africa. Jayden Adams replaces Relebohile Mofokeng."
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Ronwen Williams",
+            "short": "R. Williams",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Mbekezeli Mbokazi",
+            "short": "M. Mbokazi",
+            "num": "14",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Ime Okon",
+            "short": "I. Okon",
+            "num": "21",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Aubrey Modiba",
+            "short": "A. Modiba",
+            "num": "6",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Khuliso Mudau",
+            "short": "K. Mudau",
+            "num": "20",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Relebohile Mofokeng",
+            "short": "R. Mofokeng",
+            "num": "10",
+            "pos": "AM",
+            "place": "10"
+          },
+          {
+            "name": "Sphephelo Sithole",
+            "short": "S. Sithole",
+            "num": "13",
+            "pos": "LM",
+            "place": "4"
+          },
+          {
+            "name": "Thalente Mbatha",
+            "short": "T. Mbatha",
+            "num": "5",
+            "pos": "RM",
+            "place": "8"
+          },
+          {
+            "name": "Evidence Makgopa",
+            "short": "E. Makgopa",
+            "num": "17",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Oswin Appollis",
+            "short": "O. Appollis",
+            "num": "7",
+            "pos": "AM-L",
+            "place": "11"
+          },
+          {
+            "name": "Thapelo Maseko",
+            "short": "T. Maseko",
+            "num": "12",
+            "pos": "AM-R",
+            "place": "7"
+          }
+        ],
+        "away": [
+          {
+            "name": "Kim Seung-Gyu",
+            "short": "K. Seung-Gyu",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Kim Min-Jae",
+            "short": "K. Min-Jae",
+            "num": "4",
+            "pos": "CD",
+            "place": "5"
+          },
+          {
+            "name": "Lee Gi-Hyuk",
+            "short": "L. Gi-Hyuk",
+            "num": "3",
+            "pos": "CD-L",
+            "place": "4"
+          },
+          {
+            "name": "Lee Han-Beom",
+            "short": "L. Han-Beom",
+            "num": "2",
+            "pos": "CD-R",
+            "place": "6"
+          },
+          {
+            "name": "Hwang In-Beom",
+            "short": "H. In-Beom",
+            "num": "6",
+            "pos": "CM-L",
+            "place": "8"
+          },
+          {
+            "name": "Paik Seung-Ho",
+            "short": "P. Seung-Ho",
+            "num": "8",
+            "pos": "CM-R",
+            "place": "7"
+          },
+          {
+            "name": "Lee Tae-Seok",
+            "short": "L. Tae-Seok",
+            "num": "13",
+            "pos": "LM",
+            "place": "3"
+          },
+          {
+            "name": "Seol Young-Woo",
+            "short": "S. Young-Woo",
+            "num": "22",
+            "pos": "RM",
+            "place": "2"
+          },
+          {
+            "name": "Oh Hyeon-Gyu",
+            "short": "O. Hyeon-Gyu",
+            "num": "18",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Hwang Hee-Chan",
+            "short": "H. Hee-Chan",
+            "num": "11",
+            "pos": "CF-L",
+            "place": "11"
+          },
+          {
+            "name": "Lee Kang-In",
+            "short": "L. Kang-In",
+            "num": "19",
+            "pos": "CF-R",
+            "place": "10"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Lyle Foster",
+            "short": "L. Foster",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Olwethu Makhanya",
+            "short": "O. Makhanya",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Khulumani Ndamane",
+            "short": "K. Ndamane",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Bradley Cross",
+            "short": "B. Cross",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ricardo Goss",
+            "short": "R. Goss",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Thabang Matuludi",
+            "short": "T. Matuludi",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nkosinathi Sibisi",
+            "short": "N. Sibisi",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Samukele Kabini",
+            "short": "S. Kabini",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Sipho Chaine",
+            "short": "S. Chaine",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Tshepang Moremi",
+            "short": "T. Moremi",
+            "num": "8",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kamogelo Sebelebele",
+            "short": "K. Sebelebele",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jayden Adams",
+            "short": "J. Adams",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Iqraam Rayners",
+            "short": "I. Rayners",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Lee Dong-Gyeong",
+            "short": "L. Dong-Gyeong",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kim Jin-Gyu",
+            "short": "K. Jin-Gyu",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jens Castrop",
+            "short": "J. Castrop",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Cho Gue-Sung",
+            "short": "C. Gue-Sung",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jo Hyeon-Woo",
+            "short": "J. Hyeon-Woo",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kim Tae-Hyeon",
+            "short": "K. Tae-Hyeon",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Song Bum-Keun",
+            "short": "S. Bum-Keun",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Park Jin-Seop",
+            "short": "P. Jin-Seop",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Eom Ji-Sung",
+            "short": "E. Ji-Sung",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kim Moon-Hwan",
+            "short": "K. Moon-Hwan",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Bae Jun-Ho",
+            "short": "B. Jun-Ho",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Son Heung-Min",
+            "short": "S. Heung-Min",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Cho Wi-Je",
+            "short": "C. Wi-Je",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Lee Jae-Sung",
+            "short": "L. Jae-Sung",
+            "num": "10",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Yang Hyun-Jun",
+            "short": "Y. Hyun-Jun",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-2-3-1",
+        "away": "3-4-2-1"
+      },
+      "commentary": [
+        {
+          "min": "",
+          "text": "Match ends, South Africa 1, Korea Republic 0.",
+          "goal": false
+        },
+        {
+          "min": "97'",
+          "text": "Second Half ends, South Africa 1, Korea Republic 0.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Attempt saved. Park Jin-Seob (Korea Republic) header from the left side of the six yard box is saved in the top left corner by Ronwen Williams (South Africa). Assisted by Jens Castrop with a cross.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Corner, Korea Republic. Conceded by Yaya Sithole.",
+          "goal": false
+        },
+        {
+          "min": "91'+1'",
+          "text": "Fourth official has announced 6 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Attempt blocked. Son Heung-Min (Korea Republic) left footed shot from outside the box is blocked. Assisted by Kim Jin-Gyu.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Foul by Jens Castrop (Korea Republic).",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Evidence Makgopa (South Africa) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Attempt missed. Seol Young-Woo (Korea Republic) right footed shot from outside the box is too high following a corner.",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Corner, Korea Republic. Conceded by Jayden Adams.",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Corner, Korea Republic. Conceded by Yaya Sithole.",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Park Jin-Seob (Korea Republic) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Foul by Tshepang Moremi (South Africa).",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Substitution, South Africa. Jayden Adams replaces Relebohile Mofokeng.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Cho Gue-Sung (Korea Republic) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Foul by Cho Gue-Sung (Korea Republic).",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Yaya Sithole (South Africa) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Foul by Lee Han-Beom (Korea Republic).",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Tshepang Moremi (South Africa) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Son Heung-Min (Korea Republic) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Foul by Khuliso Mudau (South Africa).",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Corner, Korea Republic. Conceded by Aubrey Modiba.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Substitution, South Africa. Iqraam Rayners replaces Thapelo Maseko.",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Substitution, Korea Republic. Cho Gue-Sung replaces Oh Hyeon-Gyu.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Aubrey Modiba (South Africa) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Lee Kang-In (Korea Republic) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Foul by Aubrey Modiba (South Africa).",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "69'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "69'",
+          "text": "Foul by Jens Castrop (Korea Republic).",
+          "goal": false
+        },
+        {
+          "min": "69'",
+          "text": "Thapelo Maseko (South Africa) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Substitution, Korea Republic. Park Jin-Seob replaces Kim Min-Jae.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Foul by Jens Castrop (Korea Republic).",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Khuliso Mudau (South Africa) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "63'",
+          "text": "Goal! South Africa 1, Korea Republic 0. Thapelo Maseko (South Africa) left footed shot from the centre of the box to the bottom right corner. Assisted by Tshepang Moremi following a fast break.",
+          "goal": true
+        },
+        {
+          "min": "62'",
+          "text": "Substitution, South Africa. Tshepang Moremi replaces Oswin Appollis.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Attempt saved. Oh Hyeon-Gyu (Korea Republic) header from the centre of the box is saved in the bottom left corner by Ronwen Williams (South Africa). Assisted by Seol Young-Woo with a cross.",
+          "goal": false
+        },
+        {
+          "min": "59'",
+          "text": "Hwang In-Beom (Korea Republic) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "59'",
+          "text": "Foul by Evidence Makgopa (South Africa).",
+          "goal": false
+        },
+        {
+          "min": "54'",
+          "text": "Seol Young-Woo (Korea Republic) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "54'",
+          "text": "Foul by Oswin Appollis (South Africa).",
+          "goal": false
+        },
+        {
+          "min": "51'",
+          "text": "Attempt missed. Thalente Mbatha (South Africa) right footed shot from outside the box misses to the right. Assisted by Yaya Sithole.",
+          "goal": false
+        },
+        {
+          "min": "51'",
+          "text": "Attempt blocked. Thapelo Maseko (South Africa) left footed shot from the centre of the box is blocked. Assisted by Relebohile Mofokeng.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Second Half begins South Africa 0, Korea Republic 0.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Substitution, Korea Republic. Jens Castrop replaces Lee Tae-Seok.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Substitution, Korea Republic. Kim Jin-Gyu replaces Paik Seung-Ho.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Substitution, Korea Republic. Son Heung-Min replaces Hwang Hee-Chan.",
+          "goal": false
+        },
+        {
+          "min": "50'",
+          "text": "First Half ends, South Africa 0, Korea Republic 0.",
+          "goal": false
+        },
+        {
+          "min": "45'+5'",
+          "text": "Attempt missed. Aubrey Modiba (South Africa) left footed shot from outside the box misses to the right following a corner.",
+          "goal": false
+        },
+        {
+          "min": "45'+4'",
+          "text": "Corner, South Africa. Conceded by Lee Tae-Seok.",
+          "goal": false
+        },
+        {
+          "min": "45'+2'",
+          "text": "Offside, South Africa. Evidence Makgopa is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "46'+1'",
+          "text": "Fourth official has announced 4 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "44'",
+          "text": "Offside, South Africa. Aubrey Modiba is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "43'",
+          "text": "Attempt blocked. Thapelo Maseko (South Africa) left footed shot from outside the box is blocked. Assisted by Relebohile Mofokeng.",
+          "goal": false
+        },
+        {
+          "min": "42'",
+          "text": "Attempt missed. Relebohile Mofokeng (South Africa) right footed shot from outside the box misses to the right. Assisted by Ime Okon following a set piece situation.",
+          "goal": false
+        },
+        {
+          "min": "41'",
+          "text": "Foul by Lee Gi-Hyuk (Korea Republic).",
+          "goal": false
+        },
+        {
+          "min": "41'",
+          "text": "Thapelo Maseko (South Africa) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "40'",
+          "text": "Foul by Hwang Hee-Chan (Korea Republic).",
+          "goal": false
+        },
+        {
+          "min": "40'",
+          "text": "Khuliso Mudau (South Africa) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "39'",
+          "text": "Attempt missed. Thapelo Maseko (South Africa) left footed shot from outside the box is too high. Assisted by Relebohile Mofokeng following a fast break.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "T. Maseko",
+            "num": "12",
+            "pos": "F",
+            "value": "5"
+          },
+          "away": {
+            "name": "O. Hyeon-Gyu",
+            "num": "18",
+            "pos": "F",
+            "value": "2"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "I. Okon",
+            "num": "21",
+            "pos": "D",
+            "value": "48"
+          },
+          "away": {
+            "name": "L. Gi-Hyuk",
+            "num": "3",
+            "pos": "D",
+            "value": "91"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "K. Mudau",
+            "num": "20",
+            "pos": "D",
+            "value": "19"
+          },
+          "away": {
+            "name": "L. Gi-Hyuk",
+            "num": "3",
+            "pos": "D",
+            "value": "11"
+          }
+        },
+        {
+          "label": "Saves",
+          "home": {
+            "name": "R. Williams",
+            "num": "1",
+            "pos": "G",
+            "value": "2"
+          },
+          "away": {
+            "name": "K. Seung-Gyu",
+            "num": "1",
+            "pos": "G",
+            "value": "3"
+          }
+        }
+      ],
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0624/dm_260624_COM_SOC_Presser_South_Africa_look_ahead_to_mustwin_clash_with_South_Korea_20260624_GLOBAL_FIFA/dm_260624_COM_SOC_Presser_South_Africa_look_ahead_to_mustwin_clash_with_South_Korea_20260624_GLOBAL_FIFA.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49164735/south-africa-look-ahead-win-clash-south-korea",
+        "headline": "South Africa look ahead to must-win clash with South Korea",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0624/dm_260624_COM_SOC_Presser_South_Africa_look_ahead_to_mustwin_clash_with_South_Korea_20260624_GLOBAL_FIFA/dm_260624_COM_SOC_Presser_South_Africa_look_ahead_to_mustwin_clash_with_South_Korea_20260624_GLOBAL_FIFA_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0624/dm_260624_COM_SOC_Presser_South_Africa_look_ahead_to_mustwin_clash_with_South_Korea_20260624_GLOBAL_FIFA/dm_260624_COM_SOC_Presser_South_Africa_look_ahead_to_mustwin_clash_with_South_Korea_20260624_GLOBAL_FIFA/playlist.m3u8"
+      },
+      "final": true,
+      "dv": 5
+    },
+    "760467": {
+      "venue": "Estadio Banorte",
+      "stats": {
+        "home": {
+          "foulsCommitted": "9",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "1",
+          "wonCorners": "5",
+          "saves": "2",
+          "possessionPct": "51.6",
+          "totalShots": "13",
+          "shotsOnTarget": "1",
+          "shotPct": "0.1",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "332",
+          "totalPasses": "398",
+          "passPct": "0.8",
+          "accurateCrosses": "5",
+          "totalCrosses": "26",
+          "crossPct": "0.2",
+          "totalLongBalls": "52",
+          "accurateLongBalls": "20",
+          "longballPct": "0.4",
+          "blockedShots": "4",
+          "effectiveTackles": "8",
+          "totalTackles": "12",
+          "tacklePct": "0.7",
+          "interceptions": "3",
+          "effectiveClearance": "19",
+          "totalClearance": "19"
+        },
+        "away": {
+          "foulsCommitted": "13",
+          "yellowCards": "1",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "1",
+          "saves": "1",
+          "possessionPct": "48.4",
+          "totalShots": "11",
+          "shotsOnTarget": "5",
+          "shotPct": "0.5",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "331",
+          "totalPasses": "388",
+          "passPct": "0.9",
+          "accurateCrosses": "1",
+          "totalCrosses": "13",
+          "crossPct": "0.1",
+          "totalLongBalls": "57",
+          "accurateLongBalls": "36",
+          "longballPct": "0.6",
+          "blockedShots": "2",
+          "effectiveTackles": "8",
+          "totalTackles": "12",
+          "tacklePct": "0.7",
+          "interceptions": "7",
+          "effectiveClearance": "29",
+          "totalClearance": "29"
+        }
+      },
+      "events": [
+        {
+          "kind": "Goal",
+          "min": "55'",
+          "side": "away",
+          "player": "Goal! Czechia 0, Mexico 1. Mateo Chávez"
+        },
+        {
+          "kind": "Substitution",
+          "min": "56'",
+          "side": "home",
+          "player": "Substitution, Czechia. Lukás Provod replaces Denis Visinsky."
+        },
+        {
+          "kind": "Goal",
+          "min": "61'",
+          "side": "away",
+          "player": "Goal! Czechia 0, Mexico 2. Julián Quiñones"
+        },
+        {
+          "kind": "Substitution",
+          "min": "63'",
+          "side": "away",
+          "player": "Substitution, Mexico. Santiago Giménez replaces Guillermo Martínez."
+        },
+        {
+          "kind": "Substitution",
+          "min": "63'",
+          "side": "away",
+          "player": "Substitution, Mexico. Obed Vargas replaces Luis Romo."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "64'",
+          "side": "away",
+          "player": "Edson Álvarez"
+        },
+        {
+          "kind": "Substitution",
+          "min": "64'",
+          "side": "home",
+          "player": "Substitution, Czechia. Patrik Schick replaces Adam Hlozek."
+        },
+        {
+          "kind": "Substitution",
+          "min": "64'",
+          "side": "home",
+          "player": "Substitution, Czechia. Tomás Soucek replaces Tomás Holes."
+        },
+        {
+          "kind": "Substitution",
+          "min": "72'",
+          "side": "away",
+          "player": "Substitution, Mexico. Álvaro Fidalgo replaces Gilberto Mora."
+        },
+        {
+          "kind": "Substitution",
+          "min": "78'",
+          "side": "away",
+          "player": "Substitution, Mexico. Guillermo Ochoa replaces Raúl Rangel."
+        },
+        {
+          "kind": "Substitution",
+          "min": "78'",
+          "side": "away",
+          "player": "Substitution, Mexico. Jesús Gallardo replaces Mateo Chávez."
+        },
+        {
+          "kind": "Substitution",
+          "min": "87'",
+          "side": "home",
+          "player": "Substitution, Czechia. Tomás Chory replaces Lukás Cerv."
+        },
+        {
+          "kind": "Substitution",
+          "min": "87'",
+          "side": "home",
+          "player": "Substitution, Czechia. Alexandr Sojka replaces Tomás Soucek because of an injury."
+        },
+        {
+          "kind": "Goal",
+          "min": "90'+4'",
+          "side": "away",
+          "player": "Goal! Czechia 0, Mexico 3. Álvaro Fidalgo"
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Matej Kovár",
+            "short": "M. Kovár",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Robin Hranác",
+            "short": "R. Hranác",
+            "num": "4",
+            "pos": "CD",
+            "place": "5"
+          },
+          {
+            "name": "Ladislav Krejcí",
+            "short": "L. Krejcí",
+            "num": "7",
+            "pos": "CD-L",
+            "place": "4"
+          },
+          {
+            "name": "Tomás Holes",
+            "short": "T. Holes",
+            "num": "3",
+            "pos": "CD-R",
+            "place": "6"
+          },
+          {
+            "name": "Michal Sadílek",
+            "short": "M. Sadílek",
+            "num": "18",
+            "pos": "CM-L",
+            "place": "8"
+          },
+          {
+            "name": "Lukás Cerv",
+            "short": "L. Cerv",
+            "num": "12",
+            "pos": "CM-R",
+            "place": "7"
+          },
+          {
+            "name": "David Doudera",
+            "short": "D. Doudera",
+            "num": "21",
+            "pos": "LM",
+            "place": "3"
+          },
+          {
+            "name": "Vladimír Coufal",
+            "short": "V. Coufal",
+            "num": "5",
+            "pos": "RM",
+            "place": "2"
+          },
+          {
+            "name": "Adam Hlozek",
+            "short": "A. Hlozek",
+            "num": "9",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Denis Visinský",
+            "short": "D. Visinský",
+            "num": "26",
+            "pos": "CF-L",
+            "place": "11"
+          },
+          {
+            "name": "Pavel Sulc",
+            "short": "P. Sulc",
+            "num": "15",
+            "pos": "CF-R",
+            "place": "10"
+          }
+        ],
+        "away": [
+          {
+            "name": "Raúl Rangel",
+            "short": "R. Rangel",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Israel Reyes",
+            "short": "I. Reyes",
+            "num": "15",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "César Montes",
+            "short": "C. Montes",
+            "num": "3",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Mateo Chávez",
+            "short": "M. Chávez",
+            "num": "20",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Jorge Sánchez",
+            "short": "J. Sánchez",
+            "num": "2",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Edson Álvarez",
+            "short": "E. Álvarez",
+            "num": "4",
+            "pos": "CM",
+            "place": "4"
+          },
+          {
+            "name": "Luis Romo",
+            "short": "L. Romo",
+            "num": "7",
+            "pos": "LM",
+            "place": "8"
+          },
+          {
+            "name": "Gilberto Mora",
+            "short": "G. Mora",
+            "num": "19",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Guillermo Martínez",
+            "short": "G. Martínez",
+            "num": "22",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Julián Quiñones",
+            "short": "J. Quiñones",
+            "num": "16",
+            "pos": "LF",
+            "place": "11"
+          },
+          {
+            "name": "Roberto Alvarado",
+            "short": "R. Alvarado",
+            "num": "25",
+            "pos": "RF",
+            "place": "10"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Lukás Provod",
+            "short": "L. Provod",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "David Zima",
+            "short": "D. Zima",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jaroslav Zelený",
+            "short": "J. Zelený",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Lukás Hornícek",
+            "short": "L. Hornícek",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Hugo Sochurek",
+            "short": "H. Sochurek",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Tomás Chorý",
+            "short": "T. Chorý",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Stepán Chaloupek",
+            "short": "S. Chaloupek",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Patrik Schick",
+            "short": "P. Schick",
+            "num": "10",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jan Kuchta",
+            "short": "J. Kuchta",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mojmír Chytil",
+            "short": "M. Chytil",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Tomás Soucek",
+            "short": "T. Soucek",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Vladimír Darida",
+            "short": "V. Darida",
+            "num": "8",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jindrich Stanek",
+            "short": "J. Stanek",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Alexandr Sojka",
+            "short": "A. Sojka",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Jesús Gallardo",
+            "short": "J. Gallardo",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Johan Vásquez",
+            "short": "J. Vásquez",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Orbelín Pineda",
+            "short": "O. Pineda",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Érik Lira",
+            "short": "É. Lira",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "César Huerta",
+            "short": "C. Huerta",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Raúl Jiménez",
+            "short": "R. Jiménez",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Luis Chávez",
+            "short": "L. Chávez",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Armando González",
+            "short": "A. González",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Alexis Vega",
+            "short": "A. Vega",
+            "num": "10",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Guillermo Ochoa",
+            "short": "G. Ochoa",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Obed Vargas",
+            "short": "O. Vargas",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Brian Gutiérrez",
+            "short": "B. Gutiérrez",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Álvaro Fidalgo",
+            "short": "Á. Fidalgo",
+            "num": "8",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Santiago Gimenez",
+            "short": "S. Gimenez",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Carlos Acevedo",
+            "short": "C. Acevedo",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "3-4-2-1",
+        "away": "4-3-3"
+      },
+      "commentary": [
+        {
+          "min": "",
+          "text": "Match ends, Czechia 0, Mexico 3.",
+          "goal": false
+        },
+        {
+          "min": "97'",
+          "text": "Second Half ends, Czechia 0, Mexico 3.",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Goal! Czechia 0, Mexico 3. Álvaro Fidalgo (Mexico) right footed shot from the centre of the box to the top left corner. Assisted by Roberto Alvarado.",
+          "goal": true
+        },
+        {
+          "min": "90'+4'",
+          "text": "Attempt saved. Santiago Giménez (Mexico) left footed shot from the centre of the box is saved in the centre of the goal by Matej Kovár (Czechia). Assisted by Roberto Alvarado.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Attempt missed. David Doudera (Czechia) right footed shot from a difficult angle on the left is high and wide to the left. Assisted by Alexandr Sojka with a cross.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Michal Sadílek (Czechia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Foul by Obed Vargas (Mexico).",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Attempt missed. Pavel Sulc (Czechia) right footed shot from outside the box is close, but misses to the left.",
+          "goal": false
+        },
+        {
+          "min": "91'+1'",
+          "text": "Fourth official has announced 6 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Substitution, Czechia. Alexandr Sojka replaces Tomás Soucek because of an injury.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Substitution, Czechia. Tomás Chory replaces Lukás Cerv.",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Delay in match because of an injury Tomás Soucek (Czechia).",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Vladimír Coufal (Czechia) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Foul by Jorge Sánchez (Mexico).",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Foul by Patrik Schick (Czechia).",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Edson Álvarez (Mexico) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Attempt missed. David Doudera (Czechia) right footed shot from outside the box misses to the left.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Corner, Mexico. Conceded by Michal Sadílek.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Substitution, Mexico. Jesús Gallardo replaces Mateo Chávez.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Substitution, Mexico. Guillermo Ochoa replaces Raúl Rangel.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Attempt missed. Julián Quiñones (Mexico) header from the centre of the box is too high. Assisted by Jorge Sánchez with a cross.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Foul by Tomás Soucek (Czechia).",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Jorge Sánchez (Mexico) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Corner, Czechia. Conceded by Mateo Chávez.",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Foul by Robin Hranác (Czechia).",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Santiago Giménez (Mexico) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Substitution, Mexico. Álvaro Fidalgo replaces Gilberto Mora.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Attempt missed. David Doudera (Czechia) right footed shot from outside the box is too high following a corner.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Corner, Czechia. Conceded by Obed Vargas.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Corner, Czechia. Conceded by Edson Álvarez.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Corner, Czechia. Conceded by Israel Reyes.",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Substitution, Czechia. Tomás Soucek replaces Tomás Holes.",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Substitution, Czechia. Patrik Schick replaces Adam Hlozek.",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Edson Álvarez (Mexico) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Foul by Edson Álvarez (Mexico).",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Adam Hlozek (Czechia) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "63'",
+          "text": "Substitution, Mexico. Obed Vargas replaces Luis Romo.",
+          "goal": false
+        },
+        {
+          "min": "63'",
+          "text": "Substitution, Mexico. Santiago Giménez replaces Guillermo Martínez.",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Goal! Czechia 0, Mexico 2. Julián Quiñones (Mexico) right footed shot from very close range to the centre of the goal. Assisted by Jorge Sánchez following a fast break.",
+          "goal": true
+        },
+        {
+          "min": "61'",
+          "text": "Attempt blocked. Michal Sadílek (Czechia) left footed shot from outside the box is blocked. Assisted by Vladimír Coufal.",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Foul by Julián Quiñones (Mexico).",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Tomás Holes (Czechia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Gilberto Mora (Mexico) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Foul by Lukás Provod (Czechia).",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Substitution, Czechia. Lukás Provod replaces Denis Visinsky.",
+          "goal": false
+        },
+        {
+          "min": "55'",
+          "text": "Goal! Czechia 0, Mexico 1. Mateo Chávez (Mexico) left footed shot from the centre of the box to the bottom left corner. Assisted by Luis Romo.",
+          "goal": true
+        },
+        {
+          "min": "54'",
+          "text": "Attempt blocked. Lukás Cerv (Czechia) right footed shot from outside the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "54'",
+          "text": "Corner, Czechia. Conceded by Jorge Sánchez.",
+          "goal": false
+        },
+        {
+          "min": "53'",
+          "text": "Foul by Edson Álvarez (Mexico).",
+          "goal": false
+        },
+        {
+          "min": "53'",
+          "text": "David Doudera (Czechia) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "52'",
+          "text": "Foul by Edson Álvarez (Mexico).",
+          "goal": false
+        },
+        {
+          "min": "52'",
+          "text": "Adam Hlozek (Czechia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "51'",
+          "text": "Offside, Czechia. Pavel Sulc is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "50'",
+          "text": "Attempt blocked. Julián Quiñones (Mexico) right footed shot from the centre of the box is blocked. Assisted by Gilberto Mora.",
+          "goal": false
+        },
+        {
+          "min": "47'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "46'",
+          "text": "Delay in match because of an injury Tomás Holes (Czechia).",
+          "goal": false
+        },
+        {
+          "min": "46'",
+          "text": "Attempt saved. Lukás Cerv (Czechia) left footed shot from the centre of the box is saved in the top centre of the goal by Raúl Rangel (Mexico).",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "D. Doudera",
+            "num": "21",
+            "pos": "M",
+            "value": "4"
+          },
+          "away": {
+            "name": "J. Quiñones",
+            "num": "16",
+            "pos": "F",
+            "value": "4"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "L. Krejcí",
+            "num": "7",
+            "pos": "D",
+            "value": "59"
+          },
+          "away": {
+            "name": "R. Alvarado",
+            "num": "25",
+            "pos": "F",
+            "value": "46"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "T. Holes",
+            "num": "3",
+            "pos": "D",
+            "value": "9"
+          },
+          "away": {
+            "name": "C. Montes",
+            "num": "3",
+            "pos": "D",
+            "value": "14"
+          }
+        },
+        {
+          "label": "Saves",
+          "home": {
+            "name": "M. Kovár",
+            "num": "1",
+            "pos": "G",
+            "value": "2"
+          },
+          "away": {
+            "name": "R. Rangel",
+            "num": "1",
+            "pos": "G",
+            "value": "1"
+          }
+        }
+      ],
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0624/dm_260624_COM_SOC_News_Mexico_fans_came_ready_with_umbrellas_to_celebrate_goal_vs_Czechia__20260624_GLOBA/dm_260624_COM_SOC_News_Mexico_fans_came_ready_with_umbrellas_to_celebrate_goal_vs_Czechia__20260624_GLOBA.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49171207/mexico-fans-came-ready-umbrellas-celebrate-goal-vs-czechia",
+        "headline": "Mexico fans came ready with umbrellas to celebrate goal vs. Czechia",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0624/dm_260624_COM_SOC_News_Mexico_fans_came_ready_with_umbrellas_to_celebrate_goal_vs_Czechia__20260624_GLOBA/dm_260624_COM_SOC_News_Mexico_fans_came_ready_with_umbrellas_to_celebrate_goal_vs_Czechia__20260624_GLOBA_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0624/dm_260624_COM_SOC_News_Mexico_fans_came_ready_with_umbrellas_to_celebrate_goal_vs_Czechia__20260624_GLOBA/dm_260624_COM_SOC_News_Mexico_fans_came_ready_with_umbrellas_to_celebrate_goal_vs_Czechia__20260624_GLOBA/playlist.m3u8"
+      },
+      "final": true,
       "dv": 5
     }
   }

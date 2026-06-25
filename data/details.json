@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-25T17:56:20.929Z",
+  "lastUpdated": "2026-06-25T20:05:01.926Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -48812,6 +48812,1016 @@
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0624/dm_260624_COM_SOC_News_Mexico_fans_came_ready_with_umbrellas_to_celebrate_goal_vs_Czechia__20260624_GLOBA/dm_260624_COM_SOC_News_Mexico_fans_came_ready_with_umbrellas_to_celebrate_goal_vs_Czechia__20260624_GLOBA/playlist.m3u8"
       },
       "final": true,
+      "dv": 5
+    },
+    "760468": {
+      "venue": "MetLife Stadium",
+      "stats": {
+        "home": {
+          "foulsCommitted": "0",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "0",
+          "saves": "0",
+          "possessionPct": "9.1",
+          "totalShots": "0",
+          "shotsOnTarget": "0",
+          "shotPct": "0.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "1",
+          "totalPasses": "2",
+          "passPct": "0.5",
+          "accurateCrosses": "0",
+          "totalCrosses": "0",
+          "crossPct": "0.0",
+          "totalLongBalls": "0",
+          "accurateLongBalls": "0",
+          "longballPct": "0.0",
+          "blockedShots": "0",
+          "effectiveTackles": "0",
+          "totalTackles": "0",
+          "tacklePct": "0.0",
+          "interceptions": "0",
+          "effectiveClearance": "2",
+          "totalClearance": "2"
+        },
+        "away": {
+          "foulsCommitted": "0",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "0",
+          "saves": "0",
+          "possessionPct": "90.9",
+          "totalShots": "1",
+          "shotsOnTarget": "1",
+          "shotPct": "1.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "17",
+          "totalPasses": "20",
+          "passPct": "0.9",
+          "accurateCrosses": "0",
+          "totalCrosses": "0",
+          "crossPct": "0.0",
+          "totalLongBalls": "4",
+          "accurateLongBalls": "2",
+          "longballPct": "0.5",
+          "blockedShots": "0",
+          "effectiveTackles": "0",
+          "totalTackles": "0",
+          "tacklePct": "0.0",
+          "interceptions": "0",
+          "effectiveClearance": "0",
+          "totalClearance": "0"
+        }
+      },
+      "events": [
+        {
+          "kind": "Goal",
+          "min": "2'",
+          "side": "away",
+          "player": "Goal! Ecuador 0, Germany 1. Leroy Sané"
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Hernán Galíndez",
+            "short": "H. Galíndez",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Willian Pacho",
+            "short": "W. Pacho",
+            "num": "6",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Joel Ordóñez",
+            "short": "J. Ordóñez",
+            "num": "4",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Piero Hincapié",
+            "short": "P. Hincapié",
+            "num": "3",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Alan Franco",
+            "short": "A. Franco",
+            "num": "21",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Pedro Vite",
+            "short": "P. Vite",
+            "num": "15",
+            "pos": "CM-L",
+            "place": "8"
+          },
+          {
+            "name": "Moisés Caicedo",
+            "short": "M. Caicedo",
+            "num": "23",
+            "pos": "CM-R",
+            "place": "4"
+          },
+          {
+            "name": "Nilson Angulo",
+            "short": "N. Angulo",
+            "num": "20",
+            "pos": "LM",
+            "place": "11"
+          },
+          {
+            "name": "John Yeboah",
+            "short": "J. Yeboah",
+            "num": "9",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Enner Valencia",
+            "short": "E. Valencia",
+            "num": "13",
+            "pos": "CF-L",
+            "place": "9"
+          },
+          {
+            "name": "Gonzalo Plata",
+            "short": "G. Plata",
+            "num": "19",
+            "pos": "CF-R",
+            "place": "10"
+          }
+        ],
+        "away": [
+          {
+            "name": "Manuel Neuer",
+            "short": "M. Neuer",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Jonathan Tah",
+            "short": "J. Tah",
+            "num": "4",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Antonio Rüdiger",
+            "short": "A. Rüdiger",
+            "num": "2",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "David Raum",
+            "short": "D. Raum",
+            "num": "22",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Joshua Kimmich",
+            "short": "J. Kimmich",
+            "num": "6",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Jamal Musiala",
+            "short": "J. Musiala",
+            "num": "10",
+            "pos": "AM",
+            "place": "10"
+          },
+          {
+            "name": "Aleksandar Pavlovic",
+            "short": "A. Pavlovic",
+            "num": "5",
+            "pos": "LM",
+            "place": "4"
+          },
+          {
+            "name": "Felix Nmecha",
+            "short": "F. Nmecha",
+            "num": "23",
+            "pos": "RM",
+            "place": "8"
+          },
+          {
+            "name": "Kai Havertz",
+            "short": "K. Havertz",
+            "num": "7",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Florian Wirtz",
+            "short": "F. Wirtz",
+            "num": "17",
+            "pos": "AM-L",
+            "place": "11"
+          },
+          {
+            "name": "Leroy Sané",
+            "short": "L. Sané",
+            "num": "19",
+            "pos": "AM-R",
+            "place": "7"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Alan Minda",
+            "short": "A. Minda",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ángelo Preciado",
+            "short": "Á. Preciado",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Félix Torres",
+            "short": "F. Torres",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Anthony Valencia",
+            "short": "A. Valencia",
+            "num": "8",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gonzalo Valle",
+            "short": "G. Valle",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Pervis Estupiñán",
+            "short": "P. Estupiñán",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Denil Castillo",
+            "short": "D. Castillo",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jordy Alcívar",
+            "short": "J. Alcívar",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jeremy Arévalo",
+            "short": "J. Arévalo",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kendry Páez",
+            "short": "K. Páez",
+            "num": "10",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Yaimar Medina",
+            "short": "Y. Medina",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jackson Porozo",
+            "short": "J. Porozo",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Moisés Ramírez",
+            "short": "M. Ramírez",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jordy Caicedo",
+            "short": "J. Caicedo",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kevin Rodríguez",
+            "short": "K. Rodríguez",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Assan Ouédraogo",
+            "short": "A. Ouédraogo",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Alexander Nübel",
+            "short": "A. Nübel",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Oliver Baumann",
+            "short": "O. Baumann",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Deniz Undav",
+            "short": "D. Undav",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Malick Thiaw",
+            "short": "M. Thiaw",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Leon Goretzka",
+            "short": "L. Goretzka",
+            "num": "8",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nick Woltemade",
+            "short": "N. Woltemade",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nadiem Amiri",
+            "short": "N. Amiri",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Waldemar Anton",
+            "short": "W. Anton",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Pascal Gross",
+            "short": "P. Gross",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jamie Leweling",
+            "short": "J. Leweling",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Maximilian Beier",
+            "short": "M. Beier",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Angelo Stiller",
+            "short": "A. Stiller",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-4-2",
+        "away": "4-2-3-1"
+      },
+      "commentary": [
+        {
+          "min": "2'",
+          "text": "Goal! Ecuador 0, Germany 1. Leroy Sané (Germany) left footed shot from the centre of the box to the bottom left corner. Assisted by Florian Wirtz.",
+          "goal": true
+        },
+        {
+          "min": "",
+          "text": "First Half begins.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "Lineups are announced and players are warming up.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "J. Ordóñez",
+            "num": "4",
+            "pos": "D",
+            "value": "1"
+          },
+          "away": {
+            "name": "A. Rüdiger",
+            "num": "2",
+            "pos": "D",
+            "value": "4"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "P. Hincapié",
+            "num": "3",
+            "pos": "D",
+            "value": "1"
+          }
+        },
+        {
+          "label": "Total Shots",
+          "away": {
+            "name": "L. Sané",
+            "num": "19",
+            "pos": "F",
+            "value": "1"
+          }
+        }
+      ],
+      "highlight": null,
+      "final": false,
+      "dv": 5
+    },
+    "760473": {
+      "venue": "Lincoln Financial Field",
+      "stats": {
+        "home": {
+          "foulsCommitted": "0",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "0",
+          "saves": "0",
+          "possessionPct": "25.7",
+          "totalShots": "1",
+          "shotsOnTarget": "1",
+          "shotPct": "1.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "5",
+          "totalPasses": "9",
+          "passPct": "0.6",
+          "accurateCrosses": "0",
+          "totalCrosses": "0",
+          "crossPct": "0.0",
+          "totalLongBalls": "3",
+          "accurateLongBalls": "1",
+          "longballPct": "0.3",
+          "blockedShots": "0",
+          "effectiveTackles": "0",
+          "totalTackles": "0",
+          "tacklePct": "0.0",
+          "interceptions": "0",
+          "effectiveClearance": "0",
+          "totalClearance": "0"
+        },
+        "away": {
+          "foulsCommitted": "0",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "0",
+          "saves": "1",
+          "possessionPct": "74.3",
+          "totalShots": "0",
+          "shotsOnTarget": "0",
+          "shotPct": "0.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "21",
+          "totalPasses": "26",
+          "passPct": "0.8",
+          "accurateCrosses": "0",
+          "totalCrosses": "0",
+          "crossPct": "0.0",
+          "totalLongBalls": "2",
+          "accurateLongBalls": "0",
+          "longballPct": "0.0",
+          "blockedShots": "0",
+          "effectiveTackles": "0",
+          "totalTackles": "0",
+          "tacklePct": "0.0",
+          "interceptions": "0",
+          "effectiveClearance": "0",
+          "totalClearance": "0"
+        }
+      },
+      "events": [],
+      "lineups": {
+        "home": [
+          {
+            "name": "Eloy Room",
+            "short": "E. Room",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Armando Obispo",
+            "short": "A. Obispo",
+            "num": "18",
+            "pos": "CD",
+            "place": "5"
+          },
+          {
+            "name": "Deveron Fonville",
+            "short": "D. Fonville",
+            "num": "24",
+            "pos": "CD-L",
+            "place": "4"
+          },
+          {
+            "name": "Juriën Gaari",
+            "short": "J. Gaari",
+            "num": "3",
+            "pos": "CD-R",
+            "place": "6"
+          },
+          {
+            "name": "Sherel Floranus",
+            "short": "S. Floranus",
+            "num": "5",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Joshua Brenet",
+            "short": "J. Brenet",
+            "num": "20",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Leandro Bacuna",
+            "short": "L. Bacuna",
+            "num": "10",
+            "pos": "CM-L",
+            "place": "10"
+          },
+          {
+            "name": "Livano Comenencia",
+            "short": "L. Comenencia",
+            "num": "8",
+            "pos": "CM-R",
+            "place": "8"
+          },
+          {
+            "name": "Juninho Bacuna",
+            "short": "J. Bacuna",
+            "num": "7",
+            "pos": "LM",
+            "place": "11"
+          },
+          {
+            "name": "Tahith Chong",
+            "short": "T. Chong",
+            "num": "21",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Jürgen Locadia",
+            "short": "J. Locadia",
+            "num": "9",
+            "pos": "F",
+            "place": "9"
+          }
+        ],
+        "away": [
+          {
+            "name": "Yahia Fofana",
+            "short": "Y. Fofana",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Ousmane Diomande",
+            "short": "O. Diomande",
+            "num": "2",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Odilon Kossounou",
+            "short": "O. Kossounou",
+            "num": "7",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Christopher Operi",
+            "short": "C. Operi",
+            "num": "13",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Guela Doué",
+            "short": "G. Doué",
+            "num": "17",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Franck Kessié",
+            "short": "F. Kessié",
+            "num": "8",
+            "pos": "CM-L",
+            "place": "8"
+          },
+          {
+            "name": "Ibrahim Sangaré",
+            "short": "I. Sangaré",
+            "num": "18",
+            "pos": "CM-R",
+            "place": "4"
+          },
+          {
+            "name": "Yan Diomande",
+            "short": "Y. Diomande",
+            "num": "11",
+            "pos": "LM",
+            "place": "11"
+          },
+          {
+            "name": "Amad Diallo",
+            "short": "A. Diallo",
+            "num": "15",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Ange-Yoan Bonny",
+            "short": "A. Bonny",
+            "num": "9",
+            "pos": "CF-L",
+            "place": "9"
+          },
+          {
+            "name": "Nicolas Pépé",
+            "short": "N. Pépé",
+            "num": "19",
+            "pos": "CF-R",
+            "place": "10"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Brandley Kuwas",
+            "short": "B. Kuwas",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jeremy Antonisse",
+            "short": "J. Antonisse",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Shurandy Sambo",
+            "short": "S. Sambo",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jearl Margaritha",
+            "short": "J. Margaritha",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kevin Felida",
+            "short": "K. Felida",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gervane Kastaneer",
+            "short": "G. Kastaneer",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Tyrese Noslin",
+            "short": "T. Noslin",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Sontje Hansen",
+            "short": "S. Hansen",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ar'jany Martha",
+            "short": "A. Martha",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Roshon van Eijma",
+            "short": "R. van Eijma",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kenji Gorré",
+            "short": "K. Gorré",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Godfried Roemeratoe",
+            "short": "G. Roemeratoe",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Trevor Doornbusch",
+            "short": "T. Doornbusch",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Tyrick Bodak",
+            "short": "T. Bodak",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Riechedly Bazoer",
+            "short": "R. Bazoer",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Alban Lafont",
+            "short": "A. Lafont",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Parfait Guiagon",
+            "short": "P. Guiagon",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ghislain Konan",
+            "short": "G. Konan",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Seko Fofana",
+            "short": "S. Fofana",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Christ Inao Oulaï",
+            "short": "C. Oulaï",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Evann Guessand",
+            "short": "E. Guessand",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Wilfried Singo",
+            "short": "W. Singo",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Evan Ndicka",
+            "short": "E. Ndicka",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mohamed Koné",
+            "short": "M. Koné",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jean Michaël Seri",
+            "short": "J. Seri",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Bazoumana Touré",
+            "short": "B. Touré",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Oumar Diakité",
+            "short": "O. Diakité",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Emmanuel Agbadou",
+            "short": "E. Agbadou",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Elye Wahi",
+            "short": "E. Wahi",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Simon Adingra",
+            "short": "S. Adingra",
+            "num": "10",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "5-4-1",
+        "away": "4-4-2"
+      },
+      "commentary": [
+        {
+          "min": "2'",
+          "text": "Attempt saved. Tahith Chong (Curaçao) left footed shot from outside the box is saved in the centre of the goal by Yahia Fofana (Côte d'Ivoire). Assisted by Juninho Bacuna.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "First Half begins.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "Lineups are announced and players are warming up.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "T. Chong",
+            "num": "21",
+            "pos": "M",
+            "value": "1"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "J. Gaari",
+            "num": "3",
+            "pos": "D",
+            "value": "1"
+          },
+          "away": {
+            "name": "O. Diomande",
+            "num": "2",
+            "pos": "D",
+            "value": "4"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "J. Gaari",
+            "num": "3",
+            "pos": "D",
+            "value": "1"
+          },
+          "away": {
+            "name": "G. Doué",
+            "num": "17",
+            "pos": "D",
+            "value": "1"
+          }
+        },
+        {
+          "label": "Saves",
+          "away": {
+            "name": "Y. Fofana",
+            "num": "1",
+            "pos": "G",
+            "value": "1"
+          }
+        }
+      ],
+      "highlight": null,
+      "final": false,
       "dv": 5
     }
   }

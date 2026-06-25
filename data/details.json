@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-25T20:05:01.926Z",
+  "lastUpdated": "2026-06-25T21:51:57.225Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -48818,64 +48818,64 @@
       "venue": "MetLife Stadium",
       "stats": {
         "home": {
-          "foulsCommitted": "0",
-          "yellowCards": "0",
+          "foulsCommitted": "15",
+          "yellowCards": "3",
           "redCards": "0",
-          "offsides": "0",
-          "wonCorners": "0",
-          "saves": "0",
-          "possessionPct": "9.1",
-          "totalShots": "0",
-          "shotsOnTarget": "0",
-          "shotPct": "0.0",
+          "offsides": "1",
+          "wonCorners": "3",
+          "saves": "2",
+          "possessionPct": "40.5",
+          "totalShots": "7",
+          "shotsOnTarget": "3",
+          "shotPct": "0.4",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "1",
-          "totalPasses": "2",
-          "passPct": "0.5",
-          "accurateCrosses": "0",
-          "totalCrosses": "0",
-          "crossPct": "0.0",
-          "totalLongBalls": "0",
-          "accurateLongBalls": "0",
-          "longballPct": "0.0",
-          "blockedShots": "0",
-          "effectiveTackles": "0",
-          "totalTackles": "0",
-          "tacklePct": "0.0",
-          "interceptions": "0",
-          "effectiveClearance": "2",
-          "totalClearance": "2"
+          "accuratePasses": "300",
+          "totalPasses": "360",
+          "passPct": "0.8",
+          "accurateCrosses": "3",
+          "totalCrosses": "12",
+          "crossPct": "0.3",
+          "totalLongBalls": "44",
+          "accurateLongBalls": "21",
+          "longballPct": "0.5",
+          "blockedShots": "2",
+          "effectiveTackles": "14",
+          "totalTackles": "22",
+          "tacklePct": "0.6",
+          "interceptions": "10",
+          "effectiveClearance": "23",
+          "totalClearance": "23"
         },
         "away": {
-          "foulsCommitted": "0",
-          "yellowCards": "0",
+          "foulsCommitted": "9",
+          "yellowCards": "1",
           "redCards": "0",
           "offsides": "0",
-          "wonCorners": "0",
-          "saves": "0",
-          "possessionPct": "90.9",
-          "totalShots": "1",
-          "shotsOnTarget": "1",
-          "shotPct": "1.0",
+          "wonCorners": "2",
+          "saves": "1",
+          "possessionPct": "59.5",
+          "totalShots": "9",
+          "shotsOnTarget": "3",
+          "shotPct": "0.3",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "17",
-          "totalPasses": "20",
+          "accuratePasses": "458",
+          "totalPasses": "526",
           "passPct": "0.9",
-          "accurateCrosses": "0",
-          "totalCrosses": "0",
-          "crossPct": "0.0",
-          "totalLongBalls": "4",
-          "accurateLongBalls": "2",
-          "longballPct": "0.5",
-          "blockedShots": "0",
-          "effectiveTackles": "0",
-          "totalTackles": "0",
-          "tacklePct": "0.0",
-          "interceptions": "0",
-          "effectiveClearance": "0",
-          "totalClearance": "0"
+          "accurateCrosses": "5",
+          "totalCrosses": "13",
+          "crossPct": "0.4",
+          "totalLongBalls": "34",
+          "accurateLongBalls": "15",
+          "longballPct": "0.4",
+          "blockedShots": "5",
+          "effectiveTackles": "10",
+          "totalTackles": "17",
+          "tacklePct": "0.6",
+          "interceptions": "4",
+          "effectiveClearance": "15",
+          "totalClearance": "15"
         }
       },
       "events": [
@@ -48884,6 +48884,102 @@
           "min": "2'",
           "side": "away",
           "player": "Goal! Ecuador 0, Germany 1. Leroy Sané"
+        },
+        {
+          "kind": "Goal",
+          "min": "9'",
+          "side": "home",
+          "player": "Goal! Ecuador 1, Germany 1. Nilson Angulo"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "43'",
+          "side": "home",
+          "player": "Piero Hincapié"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "44'",
+          "side": "away",
+          "player": "Aleksandar Pavlovic"
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "away",
+          "player": "Substitution, Germany. Angelo Stiller replaces Aleksandar Pavlovic."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "50'",
+          "side": "home",
+          "player": "Alan Franco"
+        },
+        {
+          "kind": "Substitution",
+          "min": "60'",
+          "side": "away",
+          "player": "Substitution, Germany. Deniz Undav replaces Kai Havertz."
+        },
+        {
+          "kind": "Substitution",
+          "min": "60'",
+          "side": "away",
+          "player": "Substitution, Germany. Malick Thiaw replaces Joshua Kimmich."
+        },
+        {
+          "kind": "Substitution",
+          "min": "64'",
+          "side": "home",
+          "player": "Substitution, Ecuador. Kevin Rodríguez replaces Enner Valencia."
+        },
+        {
+          "kind": "Substitution",
+          "min": "64'",
+          "side": "home",
+          "player": "Substitution, Ecuador. Ángelo Preciado replaces Alan Franco."
+        },
+        {
+          "kind": "Substitution",
+          "min": "64'",
+          "side": "away",
+          "player": "Substitution, Germany. Maximilian Beier replaces Felix Nmecha."
+        },
+        {
+          "kind": "Substitution",
+          "min": "71'",
+          "side": "home",
+          "player": "Substitution, Ecuador. Pervis Estupiñán replaces Piero Hincapié because of an injury."
+        },
+        {
+          "kind": "Substitution",
+          "min": "73'",
+          "side": "away",
+          "player": "Substitution, Germany. Pascal Groß replaces Florian Wirtz."
+        },
+        {
+          "kind": "Goal - Volley",
+          "min": "77'",
+          "side": "home",
+          "player": "Goal! Ecuador 2, Germany 1. Gonzalo Plata"
+        },
+        {
+          "kind": "Substitution",
+          "min": "85'",
+          "side": "home",
+          "player": "Substitution, Ecuador. Félix Torres replaces John Yeboah."
+        },
+        {
+          "kind": "Substitution",
+          "min": "85'",
+          "side": "home",
+          "player": "Substitution, Ecuador. Jordy Caicedo replaces Nilson Angulo because of an injury."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "89'",
+          "side": "home",
+          "player": "Gonzalo Plata"
         }
       ],
       "lineups": {
@@ -48978,50 +49074,50 @@
             "name": "Jonathan Tah",
             "short": "J. Tah",
             "num": "4",
-            "pos": "CD-L",
-            "place": "6"
+            "pos": "CD",
+            "place": "5"
           },
           {
             "name": "Antonio Rüdiger",
             "short": "A. Rüdiger",
             "num": "2",
-            "pos": "CD-R",
-            "place": "5"
-          },
-          {
-            "name": "David Raum",
-            "short": "D. Raum",
-            "num": "22",
-            "pos": "LB",
-            "place": "3"
+            "pos": "CD-L",
+            "place": "4"
           },
           {
             "name": "Joshua Kimmich",
             "short": "J. Kimmich",
             "num": "6",
-            "pos": "RB",
-            "place": "2"
-          },
-          {
-            "name": "Jamal Musiala",
-            "short": "J. Musiala",
-            "num": "10",
-            "pos": "AM",
-            "place": "10"
+            "pos": "CD-R",
+            "place": "6"
           },
           {
             "name": "Aleksandar Pavlovic",
             "short": "A. Pavlovic",
             "num": "5",
-            "pos": "LM",
-            "place": "4"
+            "pos": "CM-L",
+            "place": "8"
           },
           {
             "name": "Felix Nmecha",
             "short": "F. Nmecha",
             "num": "23",
+            "pos": "CM-R",
+            "place": "7"
+          },
+          {
+            "name": "David Raum",
+            "short": "D. Raum",
+            "num": "22",
+            "pos": "LM",
+            "place": "3"
+          },
+          {
+            "name": "Leroy Sané",
+            "short": "L. Sané",
+            "num": "19",
             "pos": "RM",
-            "place": "8"
+            "place": "2"
           },
           {
             "name": "Kai Havertz",
@@ -49034,15 +49130,15 @@
             "name": "Florian Wirtz",
             "short": "F. Wirtz",
             "num": "17",
-            "pos": "AM-L",
+            "pos": "CF-L",
             "place": "11"
           },
           {
-            "name": "Leroy Sané",
-            "short": "L. Sané",
-            "num": "19",
-            "pos": "AM-R",
-            "place": "7"
+            "name": "Jamal Musiala",
+            "short": "J. Musiala",
+            "num": "10",
+            "pos": "CF-R",
+            "place": "10"
           }
         ]
       },
@@ -49250,61 +49346,379 @@
       },
       "formation": {
         "home": "4-4-2",
-        "away": "4-2-3-1"
+        "away": "3-4-2-1"
       },
       "commentary": [
         {
-          "min": "2'",
-          "text": "Goal! Ecuador 0, Germany 1. Leroy Sané (Germany) left footed shot from the centre of the box to the bottom left corner. Assisted by Florian Wirtz.",
-          "goal": true
-        },
-        {
-          "min": "",
-          "text": "First Half begins.",
+          "min": "89'",
+          "text": "Gonzalo Plata (Ecuador) is shown the yellow card for a bad foul.",
           "goal": false
         },
         {
-          "min": "",
-          "text": "Lineups are announced and players are warming up.",
+          "min": "89'",
+          "text": "Jamal Musiala (Germany) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Foul by Gonzalo Plata (Ecuador).",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Corner, Germany. Conceded by Pervis Estupiñán.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Maximilian Beier (Germany) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Foul by Pervis Estupiñán (Ecuador).",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Malick Thiaw (Germany) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Foul by Kevin Rodríguez (Ecuador).",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Handball by Kevin Rodríguez (Ecuador).",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Substitution, Ecuador. Jordy Caicedo replaces Nilson Angulo because of an injury.",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Substitution, Ecuador. Félix Torres replaces John Yeboah.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Foul by Maximilian Beier (Germany).",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Pedro Vite (Ecuador) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Goal! Ecuador 2, Germany 1. Gonzalo Plata (Ecuador) left footed shot from very close range to the top right corner. Assisted by Kevin Rodríguez with a headed pass following a corner.",
+          "goal": true
+        },
+        {
+          "min": "77'",
+          "text": "Corner, Ecuador. Conceded by Angelo Stiller.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Attempt blocked. Kevin Rodríguez (Ecuador) left footed shot from very close range is blocked. Assisted by John Yeboah with a headed pass.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Attempt saved. Leroy Sané (Germany) left footed shot from the centre of the box is saved in the centre of the goal by Hernán Galíndez (Ecuador). Assisted by Deniz Undav.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Jamal Musiala (Germany) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Foul by Gonzalo Plata (Ecuador).",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Substitution, Germany. Pascal Groß replaces Florian Wirtz.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Attempt missed. Gonzalo Plata (Ecuador) left footed shot from very close range is high and wide to the right. Assisted by Moisés Caicedo.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Substitution, Ecuador. Pervis Estupiñán replaces Piero Hincapié because of an injury.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "69'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Foul by Malick Thiaw (Germany).",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Nilson Angulo (Ecuador) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Substitution, Germany. Maximilian Beier replaces Felix Nmecha.",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Substitution, Ecuador. Ángelo Preciado replaces Alan Franco.",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Substitution, Ecuador. Kevin Rodríguez replaces Enner Valencia.",
+          "goal": false
+        },
+        {
+          "min": "63'",
+          "text": "Attempt blocked. Florian Wirtz (Germany) right footed shot from outside the box is blocked. Assisted by Deniz Undav.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Attempt saved. Enner Valencia (Ecuador) right footed shot from outside the box is saved in the bottom left corner by Manuel Neuer (Germany). Assisted by John Yeboah.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Substitution, Germany. Malick Thiaw replaces Joshua Kimmich.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Substitution, Germany. Deniz Undav replaces Kai Havertz.",
+          "goal": false
+        },
+        {
+          "min": "59'",
+          "text": "Foul by Leroy Sané (Germany).",
+          "goal": false
+        },
+        {
+          "min": "59'",
+          "text": "Willian Pacho (Ecuador) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Jamal Musiala (Germany) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Foul by Moisés Caicedo (Ecuador).",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Foul by Jonathan Tah (Germany).",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Nilson Angulo (Ecuador) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "54'",
+          "text": "Attempt missed. Moisés Caicedo (Ecuador) header from a difficult angle on the left is close, but misses to the left. Assisted by John Yeboah with a cross following a corner.",
+          "goal": false
+        },
+        {
+          "min": "54'",
+          "text": "Corner, Ecuador. Conceded by Antonio Rüdiger.",
+          "goal": false
+        },
+        {
+          "min": "50'",
+          "text": "Alan Franco (Ecuador) is shown the yellow card.",
+          "goal": false
+        },
+        {
+          "min": "49'",
+          "text": "Foul by David Raum (Germany).",
+          "goal": false
+        },
+        {
+          "min": "49'",
+          "text": "Joel Ordóñez (Ecuador) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "47'",
+          "text": "VAR Decision: No Penalty Germany.",
+          "goal": false
+        },
+        {
+          "min": "46'",
+          "text": "Foul by Leroy Sané (Germany).",
+          "goal": false
+        },
+        {
+          "min": "46'",
+          "text": "Pedro Vite (Ecuador) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Second Half begins Ecuador 1, Germany 1.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Substitution, Germany. Angelo Stiller replaces Aleksandar Pavlovic.",
+          "goal": false
+        },
+        {
+          "min": "45'+5'",
+          "text": "First Half ends, Ecuador 1, Germany 1.",
+          "goal": false
+        },
+        {
+          "min": "45'+4'",
+          "text": "Attempt blocked. Florian Wirtz (Germany) right footed shot from the centre of the box is blocked. Assisted by David Raum with a cross.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Fourth official has announced 4 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "44'",
+          "text": "Aleksandar Pavlovic (Germany) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "44'",
+          "text": "Foul by Aleksandar Pavlovic (Germany).",
+          "goal": false
+        },
+        {
+          "min": "44'",
+          "text": "Enner Valencia (Ecuador) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "43'",
+          "text": "Piero Hincapié (Ecuador) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "43'",
+          "text": "Leroy Sané (Germany) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "43'",
+          "text": "Foul by Piero Hincapié (Ecuador).",
+          "goal": false
+        },
+        {
+          "min": "38'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "38'",
+          "text": "Delay in match (Germany).",
           "goal": false
         }
       ],
       "leaders": [
         {
-          "label": "Accurate Passes",
+          "label": "Total Shots",
           "home": {
-            "name": "J. Ordóñez",
-            "num": "4",
-            "pos": "D",
-            "value": "1"
+            "name": "G. Plata",
+            "num": "19",
+            "pos": "F",
+            "value": "2"
           },
           "away": {
-            "name": "A. Rüdiger",
-            "num": "2",
+            "name": "F. Wirtz",
+            "num": "17",
+            "pos": "M",
+            "value": "3"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "M. Caicedo",
+            "num": "23",
+            "pos": "M",
+            "value": "54"
+          },
+          "away": {
+            "name": "J. Tah",
+            "num": "4",
             "pos": "D",
-            "value": "4"
+            "value": "85"
           }
         },
         {
           "label": "Defensive Interventions",
           "home": {
-            "name": "P. Hincapié",
-            "num": "3",
+            "name": "P. Vite",
+            "num": "15",
+            "pos": "M",
+            "value": "15"
+          },
+          "away": {
+            "name": "J. Tah",
+            "num": "4",
             "pos": "D",
-            "value": "1"
+            "value": "12"
           }
         },
         {
-          "label": "Total Shots",
+          "label": "Saves",
+          "home": {
+            "name": "H. Galíndez",
+            "num": "1",
+            "pos": "G",
+            "value": "2"
+          },
           "away": {
-            "name": "L. Sané",
-            "num": "19",
-            "pos": "F",
+            "name": "M. Neuer",
+            "num": "1",
+            "pos": "G",
             "value": "1"
           }
         }
       ],
-      "highlight": null,
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0625/dm_260625_German_fans_celebrate_in_Berlin_after_Sane_scores_against_Ecuador_in_under_two_minutes/dm_260625_German_fans_celebrate_in_Berlin_after_Sane_scores_against_Ecuador_in_under_two_minutes.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49179037/german-fans-celebrate-berlin-sane-scores-ecuador-two-minutes",
+        "headline": "German fans celebrate in Berlin after Sané scores against Ecuador in under two minutes",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0625/dm_260625_German_fans_celebrate_in_Berlin_after_Sane_scores_against_Ecuador_in_under_two_minutes/dm_260625_German_fans_celebrate_in_Berlin_after_Sane_scores_against_Ecuador_in_under_two_minutes_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0625/dm_260625_German_fans_celebrate_in_Berlin_after_Sane_scores_against_Ecuador_in_under_two_minutes/dm_260625_German_fans_celebrate_in_Berlin_after_Sane_scores_against_Ecuador_in_under_two_minutes/playlist.m3u8"
+      },
       "final": false,
       "dv": 5
     },
@@ -49312,67 +49726,158 @@
       "venue": "Lincoln Financial Field",
       "stats": {
         "home": {
-          "foulsCommitted": "0",
-          "yellowCards": "0",
+          "foulsCommitted": "11",
+          "yellowCards": "2",
           "redCards": "0",
-          "offsides": "0",
-          "wonCorners": "0",
-          "saves": "0",
-          "possessionPct": "25.7",
-          "totalShots": "1",
-          "shotsOnTarget": "1",
-          "shotPct": "1.0",
+          "offsides": "1",
+          "wonCorners": "3",
+          "saves": "1",
+          "possessionPct": "36.2",
+          "totalShots": "9",
+          "shotsOnTarget": "2",
+          "shotPct": "0.2",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "5",
-          "totalPasses": "9",
-          "passPct": "0.6",
-          "accurateCrosses": "0",
-          "totalCrosses": "0",
-          "crossPct": "0.0",
-          "totalLongBalls": "3",
-          "accurateLongBalls": "1",
-          "longballPct": "0.3",
-          "blockedShots": "0",
-          "effectiveTackles": "0",
-          "totalTackles": "0",
-          "tacklePct": "0.0",
-          "interceptions": "0",
-          "effectiveClearance": "0",
-          "totalClearance": "0"
+          "accuratePasses": "275",
+          "totalPasses": "327",
+          "passPct": "0.8",
+          "accurateCrosses": "3",
+          "totalCrosses": "9",
+          "crossPct": "0.3",
+          "totalLongBalls": "28",
+          "accurateLongBalls": "14",
+          "longballPct": "0.5",
+          "blockedShots": "1",
+          "effectiveTackles": "11",
+          "totalTackles": "19",
+          "tacklePct": "0.6",
+          "interceptions": "14",
+          "effectiveClearance": "16",
+          "totalClearance": "16"
         },
         "away": {
-          "foulsCommitted": "0",
-          "yellowCards": "0",
+          "foulsCommitted": "6",
+          "yellowCards": "1",
           "redCards": "0",
-          "offsides": "0",
-          "wonCorners": "0",
-          "saves": "1",
-          "possessionPct": "74.3",
-          "totalShots": "0",
-          "shotsOnTarget": "0",
-          "shotPct": "0.0",
+          "offsides": "1",
+          "wonCorners": "5",
+          "saves": "2",
+          "possessionPct": "63.8",
+          "totalShots": "6",
+          "shotsOnTarget": "2",
+          "shotPct": "0.3",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "21",
-          "totalPasses": "26",
-          "passPct": "0.8",
-          "accurateCrosses": "0",
-          "totalCrosses": "0",
-          "crossPct": "0.0",
-          "totalLongBalls": "2",
-          "accurateLongBalls": "0",
-          "longballPct": "0.0",
-          "blockedShots": "0",
-          "effectiveTackles": "0",
-          "totalTackles": "0",
-          "tacklePct": "0.0",
-          "interceptions": "0",
-          "effectiveClearance": "0",
-          "totalClearance": "0"
+          "accuratePasses": "519",
+          "totalPasses": "577",
+          "passPct": "0.9",
+          "accurateCrosses": "3",
+          "totalCrosses": "15",
+          "crossPct": "0.2",
+          "totalLongBalls": "34",
+          "accurateLongBalls": "19",
+          "longballPct": "0.6",
+          "blockedShots": "1",
+          "effectiveTackles": "10",
+          "totalTackles": "16",
+          "tacklePct": "0.6",
+          "interceptions": "12",
+          "effectiveClearance": "13",
+          "totalClearance": "13"
         }
       },
-      "events": [],
+      "events": [
+        {
+          "kind": "Goal",
+          "min": "7'",
+          "side": "away",
+          "player": "Goal! Curaçao 0, Côte d'Ivoire 1. Nicolas Pépé"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "35'",
+          "side": "away",
+          "player": "Nicolas Pépé"
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "away",
+          "player": "Substitution, Côte d'Ivoire. Christ Inao Oulaï replaces Amad Diallo."
+        },
+        {
+          "kind": "Substitution",
+          "min": "61'",
+          "side": "home",
+          "player": "Substitution, Curaçao. Jeremy Antonisse replaces Livano Comenencia."
+        },
+        {
+          "kind": "Goal",
+          "min": "64'",
+          "side": "away",
+          "player": "Goal! Curaçao 0, Côte d'Ivoire 2. Nicolas Pépé"
+        },
+        {
+          "kind": "Substitution",
+          "min": "67'",
+          "side": "away",
+          "player": "Substitution, Côte d'Ivoire. Oumar Diakité replaces Ange-Yoan Bonny."
+        },
+        {
+          "kind": "Substitution",
+          "min": "67'",
+          "side": "away",
+          "player": "Substitution, Côte d'Ivoire. Elye Wahi replaces Nicolas Pépé."
+        },
+        {
+          "kind": "Substitution",
+          "min": "67'",
+          "side": "away",
+          "player": "Substitution, Côte d'Ivoire. Bazoumana Touré replaces Yan Diomande."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "75'",
+          "side": "home",
+          "player": "Juninho Bacuna"
+        },
+        {
+          "kind": "Substitution",
+          "min": "77'",
+          "side": "home",
+          "player": "Substitution, Curaçao. Gervane Kastaneer replaces Juriën Gaari."
+        },
+        {
+          "kind": "Substitution",
+          "min": "77'",
+          "side": "home",
+          "player": "Substitution, Curaçao. Tyrese Noslin replaces Deveron Fonville."
+        },
+        {
+          "kind": "Substitution",
+          "min": "77'",
+          "side": "away",
+          "player": "Substitution, Côte d'Ivoire. Jean Michaël Seri replaces Franck Kessie."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "83'",
+          "side": "home",
+          "player": "Gervane Kastaneer"
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'",
+          "side": "home",
+          "player": "Shurandy Sambo"
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'",
+          "side": "home",
+          "player": "Brandley Kuwas"
+        }
+      ],
       "lineups": {
         "home": [
           {
@@ -49490,46 +49995,46 @@
             "place": "2"
           },
           {
+            "name": "Nicolas Pépé",
+            "short": "N. Pépé",
+            "num": "19",
+            "pos": "AM",
+            "place": "10"
+          },
+          {
             "name": "Franck Kessié",
             "short": "F. Kessié",
             "num": "8",
-            "pos": "CM-L",
-            "place": "8"
+            "pos": "LM",
+            "place": "4"
           },
           {
             "name": "Ibrahim Sangaré",
             "short": "I. Sangaré",
             "num": "18",
-            "pos": "CM-R",
-            "place": "4"
+            "pos": "RM",
+            "place": "8"
+          },
+          {
+            "name": "Ange-Yoan Bonny",
+            "short": "A. Bonny",
+            "num": "9",
+            "pos": "F",
+            "place": "9"
           },
           {
             "name": "Yan Diomande",
             "short": "Y. Diomande",
             "num": "11",
-            "pos": "LM",
+            "pos": "AM-L",
             "place": "11"
           },
           {
             "name": "Amad Diallo",
             "short": "A. Diallo",
             "num": "15",
-            "pos": "RM",
+            "pos": "AM-R",
             "place": "7"
-          },
-          {
-            "name": "Ange-Yoan Bonny",
-            "short": "A. Bonny",
-            "num": "9",
-            "pos": "CF-L",
-            "place": "9"
-          },
-          {
-            "name": "Nicolas Pépé",
-            "short": "N. Pépé",
-            "num": "19",
-            "pos": "CF-R",
-            "place": "10"
           }
         ]
       },
@@ -49751,22 +50256,307 @@
       },
       "formation": {
         "home": "5-4-1",
-        "away": "4-4-2"
+        "away": "4-2-3-1"
       },
       "commentary": [
         {
-          "min": "2'",
-          "text": "Attempt saved. Tahith Chong (Curaçao) left footed shot from outside the box is saved in the centre of the goal by Yahia Fofana (Côte d'Ivoire). Assisted by Juninho Bacuna.",
+          "min": "86'",
+          "text": "Corner, Côte d'Ivoire. Conceded by Armando Obispo.",
           "goal": false
         },
         {
-          "min": "",
-          "text": "First Half begins.",
+          "min": "83'",
+          "text": "Gervane Kastaneer (Curaçao) is shown the yellow card for a bad foul.",
           "goal": false
         },
         {
-          "min": "",
-          "text": "Lineups are announced and players are warming up.",
+          "min": "83'",
+          "text": "Foul by Christ Inao Oulaï (Côte d'Ivoire).",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Tyrese Noslin (Curaçao) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Corner, Côte d'Ivoire. Conceded by Sherel Floranus.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Attempt missed. Juninho Bacuna (Curaçao) header from the centre of the box is just a bit too high. Assisted by Leandro Bacuna following a set piece situation.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Attempt missed. Leandro Bacuna (Curaçao) header from the centre of the box misses to the left. Assisted by Jeremy Antonisse with a cross following a set piece situation.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Foul by Christopher Opéri (Côte d'Ivoire).",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Tyrese Noslin (Curaçao) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Substitution, Côte d'Ivoire. Jean Michaël Seri replaces Franck Kessie.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Substitution, Curaçao. Tyrese Noslin replaces Deveron Fonville.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Substitution, Curaçao. Gervane Kastaneer replaces Juriën Gaari.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Juninho Bacuna (Curaçao) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Christ Inao Oulaï (Côte d'Ivoire) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Foul by Juninho Bacuna (Curaçao).",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Attempt saved. Tahith Chong (Curaçao) left footed shot from the right side of the box is saved in the bottom right corner by Yahia Fofana (Côte d'Ivoire). Assisted by Jürgen Locadia.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Offside, Curaçao. Joshua Brenet is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Substitution, Côte d'Ivoire. Bazoumana Touré replaces Yan Diomande.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Substitution, Côte d'Ivoire. Elye Wahi replaces Nicolas Pépé.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Substitution, Côte d'Ivoire. Oumar Diakité replaces Ange-Yoan Bonny.",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Goal! Curaçao 0, Côte d'Ivoire 2. Nicolas Pépé (Côte d'Ivoire) left footed shot from the right side of the box to the top left corner. Assisted by Ibrahim Sangaré.",
+          "goal": true
+        },
+        {
+          "min": "61'",
+          "text": "Substitution, Curaçao. Jeremy Antonisse replaces Livano Comenencia.",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Christ Inao Oulaï (Côte d'Ivoire) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Foul by Juriën Gaari (Curaçao).",
+          "goal": false
+        },
+        {
+          "min": "55'",
+          "text": "Attempt missed. Sherel Floranus (Curaçao) left footed shot from outside the box is too high. Assisted by Juninho Bacuna.",
+          "goal": false
+        },
+        {
+          "min": "53'",
+          "text": "Corner, Côte d'Ivoire. Conceded by Livano Comenencia.",
+          "goal": false
+        },
+        {
+          "min": "53'",
+          "text": "Attempt blocked. Franck Kessie (Côte d'Ivoire) left footed shot from the centre of the box is blocked. Assisted by Yan Diomande.",
+          "goal": false
+        },
+        {
+          "min": "49'",
+          "text": "Ibrahim Sangaré (Côte d'Ivoire) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "49'",
+          "text": "Foul by Jürgen Locadia (Curaçao).",
+          "goal": false
+        },
+        {
+          "min": "48'",
+          "text": "Ibrahim Sangaré (Côte d'Ivoire) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "48'",
+          "text": "Foul by Tahith Chong (Curaçao).",
+          "goal": false
+        },
+        {
+          "min": "46'",
+          "text": "Offside, Côte d'Ivoire. Nicolas Pépé is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Second Half begins Curaçao 0, Côte d'Ivoire 1.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Substitution, Côte d'Ivoire. Christ Inao Oulaï replaces Amad Diallo.",
+          "goal": false
+        },
+        {
+          "min": "45'+5'",
+          "text": "First Half ends, Curaçao 0, Côte d'Ivoire 1.",
+          "goal": false
+        },
+        {
+          "min": "45'+3'",
+          "text": "Corner, Curaçao. Conceded by Ange-Yoan Bonny.",
+          "goal": false
+        },
+        {
+          "min": "45'+3'",
+          "text": "Attempt blocked. Juriën Gaari (Curaçao) header from the left side of the six yard box is blocked. Assisted by Juninho Bacuna with a cross.",
+          "goal": false
+        },
+        {
+          "min": "45'+3'",
+          "text": "Corner, Curaçao. Conceded by Franck Kessie.",
+          "goal": false
+        },
+        {
+          "min": "45'+2'",
+          "text": "Foul by Ibrahim Sangaré (Côte d'Ivoire).",
+          "goal": false
+        },
+        {
+          "min": "45'+2'",
+          "text": "Leandro Bacuna (Curaçao) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Fourth official has announced 4 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "44'",
+          "text": "Attempt missed. Leandro Bacuna (Curaçao) right footed shot from the left side of the box is close, but misses to the left. Assisted by Sherel Floranus.",
+          "goal": false
+        },
+        {
+          "min": "43'",
+          "text": "Foul by Franck Kessie (Côte d'Ivoire).",
+          "goal": false
+        },
+        {
+          "min": "43'",
+          "text": "Tahith Chong (Curaçao) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "42'",
+          "text": "Corner, Côte d'Ivoire. Conceded by Joshua Brenet.",
+          "goal": false
+        },
+        {
+          "min": "39'",
+          "text": "Attempt missed. Tahith Chong (Curaçao) left footed shot from outside the box misses to the left. Assisted by Jürgen Locadia.",
+          "goal": false
+        },
+        {
+          "min": "36'",
+          "text": "Amad Diallo (Côte d'Ivoire) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "36'",
+          "text": "Foul by Sherel Floranus (Curaçao).",
+          "goal": false
+        },
+        {
+          "min": "35'",
+          "text": "Nicolas Pépé (Côte d'Ivoire) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "35'",
+          "text": "Foul by Nicolas Pépé (Côte d'Ivoire).",
+          "goal": false
+        },
+        {
+          "min": "35'",
+          "text": "Tahith Chong (Curaçao) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "33'",
+          "text": "Amad Diallo (Côte d'Ivoire) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "33'",
+          "text": "Foul by Deveron Fonville (Curaçao).",
+          "goal": false
+        },
+        {
+          "min": "31'",
+          "text": "Yahia Fofana (Côte d'Ivoire) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "31'",
+          "text": "Foul by Livano Comenencia (Curaçao).",
+          "goal": false
+        },
+        {
+          "min": "30'",
+          "text": "Corner, Curaçao. Conceded by Guéla Doué.",
+          "goal": false
+        },
+        {
+          "min": "28'",
+          "text": "Corner, Côte d'Ivoire. Conceded by Joshua Brenet.",
+          "goal": false
+        },
+        {
+          "min": "26'",
+          "text": "Delay over. They are ready to continue.",
           "goal": false
         }
       ],
@@ -49777,46 +50567,58 @@
             "name": "T. Chong",
             "num": "21",
             "pos": "M",
-            "value": "1"
+            "value": "3"
+          },
+          "away": {
+            "name": "A. Diallo",
+            "num": "15",
+            "pos": "M",
+            "value": "3"
           }
         },
         {
           "label": "Accurate Passes",
           "home": {
-            "name": "J. Gaari",
-            "num": "3",
+            "name": "S. Floranus",
+            "num": "5",
             "pos": "D",
-            "value": "1"
+            "value": "40"
           },
           "away": {
-            "name": "O. Diomande",
-            "num": "2",
-            "pos": "D",
-            "value": "4"
+            "name": "I. Sangaré",
+            "num": "18",
+            "pos": "M",
+            "value": "78"
           }
         },
         {
           "label": "Defensive Interventions",
           "home": {
-            "name": "J. Gaari",
-            "num": "3",
+            "name": "A. Obispo",
+            "num": "18",
             "pos": "D",
-            "value": "1"
+            "value": "12"
           },
           "away": {
-            "name": "G. Doué",
-            "num": "17",
+            "name": "C. Operi",
+            "num": "13",
             "pos": "D",
-            "value": "1"
+            "value": "10"
           }
         },
         {
           "label": "Saves",
+          "home": {
+            "name": "E. Room",
+            "num": "1",
+            "pos": "G",
+            "value": "1"
+          },
           "away": {
             "name": "Y. Fofana",
             "num": "1",
             "pos": "G",
-            "value": "1"
+            "value": "2"
           }
         }
       ],

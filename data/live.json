@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-25T20:05:01.788Z",
+  "lastUpdated": "2026-06-25T21:51:57.101Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -763,7 +763,7 @@
       "home": "Curaçao",
       "away": "Ivory Coast",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 2,
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
@@ -777,16 +777,16 @@
       "id": "760473",
       "date": "2026-06-25T20:00Z",
       "venue": "Lincoln Financial Field",
-      "clock": 240,
-      "displayClock": "4'",
-      "detail": "4'",
-      "period": 1
+      "clock": 5400,
+      "displayClock": "90'+1'",
+      "detail": "90'+1'",
+      "period": 2
     },
     {
       "stage": "group",
       "home": "Ecuador",
       "away": "Germany",
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 1,
       "homeWinner": false,
       "awayWinner": false,
@@ -801,10 +801,10 @@
       "id": "760468",
       "date": "2026-06-25T20:00Z",
       "venue": "MetLife Stadium",
-      "clock": 300,
-      "displayClock": "5'",
-      "detail": "5'",
-      "period": 1
+      "clock": 5400,
+      "displayClock": "90'+1'",
+      "detail": "90'+1'",
+      "period": 2
     },
     {
       "stage": "group",
@@ -815,8 +815,8 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 100,
-        "away": 300,
+        "home": 115,
+        "away": 260,
         "draw": 240,
         "total": 2.5,
         "book": "DraftKings"
@@ -837,7 +837,7 @@
       "odds": {
         "home": 2200,
         "away": -900,
-        "draw": 950,
+        "draw": 900,
         "total": 3.5,
         "book": "DraftKings"
       },
@@ -956,8 +956,8 @@
       "awayWinner": false,
       "odds": {
         "home": 650,
-        "away": -200,
-        "draw": 310,
+        "away": -205,
+        "draw": 320,
         "total": 2.5,
         "book": "DraftKings"
       },

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T22:48:52.894Z",
+  "lastUpdated": "2026-06-26T23:50:37.806Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -879,9 +879,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 205,
-        "away": 145,
-        "draw": 230,
+        "home": 165,
+        "away": 170,
+        "draw": 245,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -899,9 +899,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 550,
-        "away": -165,
-        "draw": 280,
+        "home": 500,
+        "away": -150,
+        "draw": 265,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -919,8 +919,8 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 160,
-        "away": 255,
+        "home": 165,
+        "away": 245,
         "draw": 165,
         "total": 1.5,
         "book": "DraftKings"
@@ -959,9 +959,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -130,
+        "home": -120,
         "away": 450,
-        "draw": 230,
+        "draw": 220,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -1019,8 +1019,8 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -130,
-        "away": 340,
+        "home": -135,
+        "away": 350,
         "draw": 300,
         "total": 2.5,
         "book": "DraftKings"
@@ -1062,7 +1062,7 @@
         "home": 1400,
         "away": -550,
         "draw": 650,
-        "total": 2.5,
+        "total": 3.5,
         "book": "DraftKings"
       },
       "status": "scheduled",
@@ -1152,7 +1152,13 @@
       "awayScore": 0,
       "homeWinner": false,
       "awayWinner": false,
-      "odds": null,
+      "odds": {
+        "home": 270,
+        "away": 100,
+        "draw": 260,
+        "total": 2.5,
+        "book": "DraftKings"
+      },
       "status": "scheduled",
       "id": "760490",
       "date": "2026-06-30T17:00Z",

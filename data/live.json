@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T20:02:20.623Z",
+  "lastUpdated": "2026-06-26T21:37:34.911Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -847,48 +847,28 @@
       "home": "Norway",
       "away": "France",
       "homeScore": 1,
-      "awayScore": 3,
+      "awayScore": 4,
       "homeWinner": false,
-      "awayWinner": false,
-      "odds": {
-        "home": 700,
-        "away": -290,
-        "draw": 475,
-        "total": 3.5,
-        "book": "DraftKings"
-      },
-      "status": "live",
+      "awayWinner": true,
+      "odds": null,
+      "status": "finished",
       "id": "760475",
       "date": "2026-06-26T19:00Z",
-      "venue": "Gillette Stadium",
-      "clock": 2700,
-      "displayClock": "45'+5'",
-      "detail": "HT",
-      "period": 1
+      "venue": "Gillette Stadium"
     },
     {
       "stage": "group",
       "home": "Senegal",
       "away": "Iraq",
-      "homeScore": 1,
+      "homeScore": 5,
       "awayScore": 0,
-      "homeWinner": false,
+      "homeWinner": true,
       "awayWinner": false,
-      "odds": {
-        "home": -475,
-        "away": 1100,
-        "draw": 600,
-        "total": 3.5,
-        "book": "DraftKings"
-      },
-      "status": "live",
+      "odds": null,
+      "status": "finished",
       "id": "760474",
       "date": "2026-06-26T19:00Z",
-      "venue": "BMO Field",
-      "clock": 2700,
-      "displayClock": "45'+9'",
-      "detail": "HT",
-      "period": 1
+      "venue": "BMO Field"
     },
     {
       "stage": "group",
@@ -899,9 +879,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 165,
-        "away": 175,
-        "draw": 230,
+        "home": 175,
+        "away": 160,
+        "draw": 240,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -919,9 +899,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 475,
-        "away": -140,
-        "draw": 245,
+        "home": 500,
+        "away": -160,
+        "draw": 270,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -940,8 +920,8 @@
       "awayWinner": false,
       "odds": {
         "home": 150,
-        "away": 295,
-        "draw": 155,
+        "away": 275,
+        "draw": 165,
         "total": 1.5,
         "book": "DraftKings"
       },
@@ -981,7 +961,7 @@
       "odds": {
         "home": -130,
         "away": 450,
-        "draw": 240,
+        "draw": 230,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -999,8 +979,8 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 1500,
-        "away": -650,
+        "home": 1400,
+        "away": -575,
         "draw": 750,
         "total": 3.5,
         "book": "DraftKings"
@@ -1019,9 +999,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 310,
-        "away": -115,
-        "draw": 275,
+        "home": 300,
+        "away": -110,
+        "draw": 280,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -1167,7 +1147,7 @@
     {
       "stage": "r32",
       "home": "Ivory Coast",
-      "away": "Group I 2nd Place",
+      "away": "Norway",
       "homeScore": 0,
       "awayScore": 0,
       "homeWinner": false,
@@ -1180,7 +1160,7 @@
     },
     {
       "stage": "r32",
-      "home": "Group I Winner",
+      "home": "France",
       "away": "Third Place Group C/D/F/G/H",
       "homeScore": 0,
       "awayScore": 0,

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T01:29:15.554Z",
+  "lastUpdated": "2026-06-26T05:51:42.304Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -822,14 +822,8 @@
       "awayScore": 0,
       "homeWinner": false,
       "awayWinner": false,
-      "odds": {
-        "home": 160,
-        "away": 320,
-        "draw": 135,
-        "total": 1.5,
-        "book": "DraftKings"
-      },
-      "status": "scheduled",
+      "odds": null,
+      "status": "finished",
       "id": "760469",
       "date": "2026-06-26T02:00Z",
       "venue": "Levi's Stadium"
@@ -838,18 +832,12 @@
       "stage": "group",
       "home": "Türkiye",
       "away": "United States",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeWinner": false,
+      "homeScore": 3,
+      "awayScore": 2,
+      "homeWinner": true,
       "awayWinner": false,
-      "odds": {
-        "home": 255,
-        "away": 100,
-        "draw": 285,
-        "total": 2.5,
-        "book": "DraftKings"
-      },
-      "status": "scheduled",
+      "odds": null,
+      "status": "finished",
       "id": "760470",
       "date": "2026-06-26T02:00Z",
       "venue": "SoFi Stadium"
@@ -863,10 +851,10 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 425,
-        "away": -175,
-        "draw": 370,
-        "total": 2.5,
+        "home": 400,
+        "away": -165,
+        "draw": 360,
+        "total": 3.5,
         "book": "DraftKings"
       },
       "status": "scheduled",
@@ -883,10 +871,10 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -425,
-        "away": 1100,
+        "home": -400,
+        "away": 1000,
         "draw": 550,
-        "total": 2.5,
+        "total": 3.5,
         "book": "DraftKings"
       },
       "status": "scheduled",
@@ -904,8 +892,8 @@
       "awayWinner": false,
       "odds": {
         "home": 165,
-        "away": 170,
-        "draw": 235,
+        "away": 175,
+        "draw": 230,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -923,9 +911,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 700,
-        "away": -210,
-        "draw": 320,
+        "home": 650,
+        "away": -195,
+        "draw": 300,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -943,9 +931,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 145,
-        "away": 285,
-        "draw": 165,
+        "home": 150,
+        "away": 280,
+        "draw": 160,
         "total": 1.5,
         "book": "DraftKings"
       },
@@ -1023,9 +1011,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 320,
-        "away": -120,
-        "draw": 280,
+        "home": 310,
+        "away": -115,
+        "draw": 275,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -1063,9 +1051,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 295,
+        "home": 310,
         "away": 190,
-        "draw": 125,
+        "draw": 120,
         "total": 1.5,
         "book": "DraftKings"
       },
@@ -1084,7 +1072,7 @@
       "awayWinner": false,
       "odds": {
         "home": 1400,
-        "away": -525,
+        "away": -550,
         "draw": 650,
         "total": 2.5,
         "book": "DraftKings"
@@ -1122,7 +1110,13 @@
       "awayScore": 0,
       "homeWinner": false,
       "awayWinner": false,
-      "odds": null,
+      "odds": {
+        "home": -130,
+        "away": 380,
+        "draw": 275,
+        "total": 2.5,
+        "book": "DraftKings"
+      },
       "status": "scheduled",
       "id": "760487",
       "date": "2026-06-29T17:00Z",
@@ -1150,7 +1144,13 @@
       "awayScore": 0,
       "homeWinner": false,
       "awayWinner": false,
-      "odds": null,
+      "odds": {
+        "home": 105,
+        "away": 280,
+        "draw": 235,
+        "total": 2.5,
+        "book": "DraftKings"
+      },
       "status": "scheduled",
       "id": "760488",
       "date": "2026-06-30T01:00Z",
@@ -1234,7 +1234,13 @@
       "awayScore": 0,
       "homeWinner": false,
       "awayWinner": false,
-      "odds": null,
+      "odds": {
+        "home": -195,
+        "away": 550,
+        "draw": 330,
+        "total": 2.5,
+        "book": "DraftKings"
+      },
       "status": "scheduled",
       "id": "760494",
       "date": "2026-07-02T00:00Z",
@@ -1284,7 +1290,7 @@
     },
     {
       "stage": "r32",
-      "home": "Group D 2nd Place",
+      "home": "Australia",
       "away": "Group G 2nd Place",
       "homeScore": 0,
       "awayScore": 0,

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T01:29:15.679Z",
+  "lastUpdated": "2026-06-26T05:51:42.434Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -49718,6 +49718,1768 @@
         "headline": "Nicol: Germany lack a cutting edge",
         "mp4": "https://media.video-cdn.espn.com/motion/2026/0625/dm_260625_COM_SOC_ANALYSIS_Nicol_Germany_lack_a_cutting_edge_2026_6_25/dm_260625_COM_SOC_ANALYSIS_Nicol_Germany_lack_a_cutting_edge_2026_6_25_360p30_1464k.mp4",
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0625/dm_260625_COM_SOC_ANALYSIS_Nicol_Germany_lack_a_cutting_edge_2026_6_25/dm_260625_COM_SOC_ANALYSIS_Nicol_Germany_lack_a_cutting_edge_2026_6_25/playlist.m3u8"
+      },
+      "final": true,
+      "dv": 5
+    },
+    "760469": {
+      "venue": "Levi's Stadium",
+      "stats": {
+        "home": {
+          "foulsCommitted": "9",
+          "yellowCards": "1",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "1",
+          "saves": "5",
+          "possessionPct": "44.1",
+          "totalShots": "7",
+          "shotsOnTarget": "2",
+          "shotPct": "0.3",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "330",
+          "totalPasses": "427",
+          "passPct": "0.8",
+          "accurateCrosses": "0",
+          "totalCrosses": "7",
+          "crossPct": "0.0",
+          "totalLongBalls": "58",
+          "accurateLongBalls": "14",
+          "longballPct": "0.2",
+          "blockedShots": "1",
+          "effectiveTackles": "16",
+          "totalTackles": "24",
+          "tacklePct": "0.7",
+          "interceptions": "8",
+          "effectiveClearance": "24",
+          "totalClearance": "24"
+        },
+        "away": {
+          "foulsCommitted": "6",
+          "yellowCards": "1",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "3",
+          "saves": "2",
+          "possessionPct": "55.9",
+          "totalShots": "12",
+          "shotsOnTarget": "5",
+          "shotPct": "0.4",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "438",
+          "totalPasses": "536",
+          "passPct": "0.8",
+          "accurateCrosses": "4",
+          "totalCrosses": "13",
+          "crossPct": "0.3",
+          "totalLongBalls": "57",
+          "accurateLongBalls": "18",
+          "longballPct": "0.3",
+          "blockedShots": "3",
+          "effectiveTackles": "12",
+          "totalTackles": "19",
+          "tacklePct": "0.6",
+          "interceptions": "7",
+          "effectiveClearance": "10",
+          "totalClearance": "10"
+        }
+      },
+      "events": [
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "home",
+          "player": "Substitution, Paraguay. Mauricio replaces Alexandro Maidana."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "46'",
+          "side": "away",
+          "player": "Jackson Irvine"
+        },
+        {
+          "kind": "Substitution",
+          "min": "58'",
+          "side": "away",
+          "player": "Substitution, Australia. Ajdin Hrustic replaces Cristian Volpato."
+        },
+        {
+          "kind": "Substitution",
+          "min": "67'",
+          "side": "home",
+          "player": "Substitution, Paraguay. Álex Arce replaces Gabriel Ávalos."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "77'",
+          "side": "home",
+          "player": "Diego Gómez"
+        },
+        {
+          "kind": "Substitution",
+          "min": "84'",
+          "side": "home",
+          "player": "Substitution, Paraguay. José Canale replaces Omar Alderete because of an injury."
+        },
+        {
+          "kind": "Substitution",
+          "min": "84'",
+          "side": "away",
+          "player": "Substitution, Australia. Paul Okon-Engstler replaces Jackson Irvine."
+        },
+        {
+          "kind": "Substitution",
+          "min": "84'",
+          "side": "away",
+          "player": "Substitution, Australia. Tete Yengi replaces Nestory Irankunda."
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'+2'",
+          "side": "home",
+          "player": "Substitution, Paraguay. Damián Bobadilla replaces Diego Gómez."
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'+2'",
+          "side": "home",
+          "player": "Substitution, Paraguay. Júnior Alonso replaces Matías Galarza."
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Orlando Gil",
+            "short": "O. Gil",
+            "num": "12",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Gustavo Gómez",
+            "short": "G. Gómez",
+            "num": "15",
+            "pos": "CD",
+            "place": "5"
+          },
+          {
+            "name": "Omar Alderete",
+            "short": "O. Alderete",
+            "num": "3",
+            "pos": "CD-L",
+            "place": "4"
+          },
+          {
+            "name": "Gustavo Velázquez",
+            "short": "G. Velázquez",
+            "num": "2",
+            "pos": "CD-R",
+            "place": "6"
+          },
+          {
+            "name": "Alexandro Maidana",
+            "short": "A. Maidana",
+            "num": "26",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Juan Jose Cáceres",
+            "short": "J. Cáceres",
+            "num": "4",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Andrés Cubas",
+            "short": "A. Cubas",
+            "num": "14",
+            "pos": "CM",
+            "place": "8"
+          },
+          {
+            "name": "Matías Galarza",
+            "short": "M. Galarza",
+            "num": "23",
+            "pos": "CM-L",
+            "place": "11"
+          },
+          {
+            "name": "Diego Gómez",
+            "short": "D. Gómez",
+            "num": "8",
+            "pos": "CM-R",
+            "place": "7"
+          },
+          {
+            "name": "Julio Enciso",
+            "short": "J. Enciso",
+            "num": "19",
+            "pos": "CF-L",
+            "place": "9"
+          },
+          {
+            "name": "Gabriel Ávalos",
+            "short": "G. Ávalos",
+            "num": "21",
+            "pos": "CF-R",
+            "place": "10"
+          }
+        ],
+        "away": [
+          {
+            "name": "Patrick Beach",
+            "short": "P. Beach",
+            "num": "18",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Harry Souttar",
+            "short": "H. Souttar",
+            "num": "19",
+            "pos": "CD",
+            "place": "5"
+          },
+          {
+            "name": "Lucas Herrington",
+            "short": "L. Herrington",
+            "num": "25",
+            "pos": "CD-L",
+            "place": "4"
+          },
+          {
+            "name": "Alessandro Circati",
+            "short": "A. Circati",
+            "num": "3",
+            "pos": "CD-R",
+            "place": "6"
+          },
+          {
+            "name": "Jackson Irvine",
+            "short": "J. Irvine",
+            "num": "22",
+            "pos": "CM-L",
+            "place": "8"
+          },
+          {
+            "name": "Aiden O'Neill",
+            "short": "A. O'Neill",
+            "num": "13",
+            "pos": "CM-R",
+            "place": "7"
+          },
+          {
+            "name": "Aziz Behich",
+            "short": "A. Behich",
+            "num": "16",
+            "pos": "LM",
+            "place": "3"
+          },
+          {
+            "name": "Jordan Bos",
+            "short": "J. Bos",
+            "num": "5",
+            "pos": "RM",
+            "place": "2"
+          },
+          {
+            "name": "Nestory Irankunda",
+            "short": "N. Irankunda",
+            "num": "17",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Connor Metcalfe",
+            "short": "C. Metcalfe",
+            "num": "8",
+            "pos": "CF-L",
+            "place": "11"
+          },
+          {
+            "name": "Cristian Volpato",
+            "short": "C. Volpato",
+            "num": "20",
+            "pos": "CF-R",
+            "place": "10"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Gastón Olveira",
+            "short": "G. Olveira",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gustavo Caballero",
+            "short": "G. Caballero",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ramón Sosa",
+            "short": "R. Sosa",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Damián Bobadilla",
+            "short": "D. Bobadilla",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Braian Ojeda",
+            "short": "B. Ojeda",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Alex Arce",
+            "short": "A. Arce",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Júnior Alonso",
+            "short": "J. Alonso",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Antonio Sanabria",
+            "short": "A. Sanabria",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Isidro Pitta",
+            "short": "I. Pitta",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Alejandro Romero Gamarra",
+            "short": "A. Romero Gamarra",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gatito Fernández",
+            "short": "G. Fernández",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "José Canale",
+            "short": "J. Canale",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Fabián Balbuena",
+            "short": "F. Balbuena",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Maurício",
+            "short": "Maurício",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Paul Izzo",
+            "short": "P. Izzo",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mathew Ryan",
+            "short": "M. Ryan",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Cameron Burgess",
+            "short": "C. Burgess",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nishan Velupillay",
+            "short": "N. Velupillay",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Awer Mabil",
+            "short": "A. Mabil",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Cameron Devlin",
+            "short": "C. Devlin",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Paul Okon-Engstler",
+            "short": "P. Okon-Engstler",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Tete Yengi",
+            "short": "T. Yengi",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mohamed Toure",
+            "short": "M. Toure",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ajdin Hrustic",
+            "short": "A. Hrustic",
+            "num": "10",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kai Trewin",
+            "short": "K. Trewin",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Milos Degenek",
+            "short": "M. Degenek",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jason Geria",
+            "short": "J. Geria",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "5-3-2",
+        "away": "3-4-2-1"
+      },
+      "commentary": [
+        {
+          "min": "",
+          "text": "Match ends, Paraguay 0, Australia 0.",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Second Half ends, Paraguay 0, Australia 0.",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Jordan Bos (Australia) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Foul by Mauricio (Paraguay).",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Attempt saved. Tete Yengi (Australia) right footed shot from the right side of the box is saved in the centre of the goal by Orlando Gill (Paraguay). Assisted by Ajdin Hrustic.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Attempt saved. Mauricio (Paraguay) left footed shot from the centre of the box is saved in the centre of the goal by Patrick Beach (Australia). Assisted by Álex Arce.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Substitution, Paraguay. Júnior Alonso replaces Matías Galarza.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Substitution, Paraguay. Damián Bobadilla replaces Diego Gómez.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Fourth official has announced 5 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Attempt missed. Jordan Bos (Australia) left footed shot from the right side of the box is close, but misses to the left. Assisted by Aiden O'Neill.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Substitution, Australia. Tete Yengi replaces Nestory Irankunda.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Substitution, Australia. Paul Okon-Engstler replaces Jackson Irvine.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Substitution, Paraguay. José Canale replaces Omar Alderete because of an injury.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Delay in match because of an injury Orlando Gill (Paraguay).",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Attempt saved. Jordan Bos (Australia) left footed shot from the centre of the box is saved in the bottom right corner by Orlando Gill (Paraguay). Assisted by Ajdin Hrustic.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Attempt missed. Julio Enciso (Paraguay) right footed shot from the left side of the box misses to the left. Assisted by Diego Gómez.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Attempt blocked. Julio Enciso (Paraguay) right footed shot from outside the box is blocked. Assisted by Matías Galarza.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Diego Gómez (Paraguay) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Jordan Bos (Australia) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Foul by Diego Gómez (Paraguay).",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Jordan Bos (Australia) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Foul by Matías Galarza (Paraguay).",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Substitution, Paraguay. Álex Arce replaces Gabriel Ávalos.",
+          "goal": false
+        },
+        {
+          "min": "63'",
+          "text": "Jackson Irvine (Australia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "63'",
+          "text": "Foul by Mauricio (Paraguay).",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Foul by Nestory Irankunda (Australia).",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Omar Alderete (Paraguay) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Attempt blocked. Ajdin Hrustic (Australia) left footed shot from outside the box is blocked. Assisted by Aiden O'Neill.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Attempt blocked. Nestory Irankunda (Australia) right footed shot from outside the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "59'",
+          "text": "Attempt missed. Nestory Irankunda (Australia) right footed shot from the right side of the box misses to the left. Assisted by Jordan Bos with a headed pass.",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Substitution, Australia. Ajdin Hrustic replaces Cristian Volpato.",
+          "goal": false
+        },
+        {
+          "min": "54'",
+          "text": "Corner, Paraguay. Conceded by Patrick Beach.",
+          "goal": false
+        },
+        {
+          "min": "50'",
+          "text": "Attempt saved. Mauricio (Paraguay) right footed shot from outside the box is saved in the top right corner by Patrick Beach (Australia). Assisted by Andrés Cubas.",
+          "goal": false
+        },
+        {
+          "min": "48'",
+          "text": "Attempt missed. Andrés Cubas (Paraguay) right footed shot from outside the box is high and wide to the right.",
+          "goal": false
+        },
+        {
+          "min": "46'",
+          "text": "Jackson Irvine (Australia) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "46'",
+          "text": "Foul by Jackson Irvine (Australia).",
+          "goal": false
+        },
+        {
+          "min": "46'",
+          "text": "Julio Enciso (Paraguay) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "46'",
+          "text": "Attempt missed. Juan José Cáceres (Paraguay) right footed shot from more than 40 yards on the right wing is high and wide to the right.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Second Half begins Paraguay 0, Australia 0.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Substitution, Paraguay. Mauricio replaces Alexandro Maidana.",
+          "goal": false
+        },
+        {
+          "min": "45'+7'",
+          "text": "First Half ends, Paraguay 0, Australia 0.",
+          "goal": false
+        },
+        {
+          "min": "45'+6'",
+          "text": "Foul by Cristian Volpato (Australia).",
+          "goal": false
+        },
+        {
+          "min": "45'+6'",
+          "text": "Andrés Cubas (Paraguay) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "45'+3'",
+          "text": "Attempt missed. Jackson Irvine (Australia) header from the centre of the box is too high. Assisted by Jordan Bos with a cross.",
+          "goal": false
+        },
+        {
+          "min": "45'+2'",
+          "text": "Attempt saved. Cristian Volpato (Australia) left footed shot from the right side of the box is saved in the top centre of the goal by Orlando Gill (Paraguay). Assisted by Jordan Bos.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Fourth official has announced 6 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "44'",
+          "text": "Aziz Behich (Australia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "44'",
+          "text": "Foul by Diego Gómez (Paraguay).",
+          "goal": false
+        },
+        {
+          "min": "38'",
+          "text": "Attempt missed. Gabriel Ávalos (Paraguay) right footed shot from the centre of the box misses to the left. Assisted by Diego Gómez.",
+          "goal": false
+        },
+        {
+          "min": "36'",
+          "text": "Attempt saved. Jordan Bos (Australia) left footed shot from outside the box is saved in the centre of the goal by Orlando Gill (Paraguay). Assisted by Cristian Volpato.",
+          "goal": false
+        },
+        {
+          "min": "35'",
+          "text": "Alessandro Circati (Australia) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "35'",
+          "text": "Foul by Julio Enciso (Paraguay).",
+          "goal": false
+        },
+        {
+          "min": "33'",
+          "text": "Aziz Behich (Australia) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "33'",
+          "text": "Foul by Juan José Cáceres (Paraguay).",
+          "goal": false
+        },
+        {
+          "min": "30'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "28'",
+          "text": "Delay in match because of an injury Connor Metcalfe (Australia).",
+          "goal": false
+        },
+        {
+          "min": "26'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "J. Enciso",
+            "num": "19",
+            "pos": "M",
+            "value": "2"
+          },
+          "away": {
+            "name": "J. Bos",
+            "num": "5",
+            "pos": "D",
+            "value": "3"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "G. Velázquez",
+            "num": "2",
+            "pos": "D",
+            "value": "46"
+          },
+          "away": {
+            "name": "H. Souttar",
+            "num": "19",
+            "pos": "D",
+            "value": "86"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "O. Alderete",
+            "num": "3",
+            "pos": "D",
+            "value": "12"
+          },
+          "away": {
+            "name": "L. Herrington",
+            "num": "25",
+            "pos": "D",
+            "value": "10"
+          }
+        },
+        {
+          "label": "Saves",
+          "home": {
+            "name": "O. Gil",
+            "num": "12",
+            "pos": "G",
+            "value": "5"
+          },
+          "away": {
+            "name": "P. Beach",
+            "num": "18",
+            "pos": "G",
+            "value": "2"
+          }
+        }
+      ],
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0623/Int_260623_SOC_Analysis_Will_Miguel_Almi_absence_hurt_Paraguay_2026624/Int_260623_SOC_Analysis_Will_Miguel_Almi_absence_hurt_Paraguay_2026624.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49161687/will-miguel-almiron-absence-hurt-paraguay",
+        "headline": "Will Miguel Almirón's absence hurt Paraguay?",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0623/Int_260623_SOC_Analysis_Will_Miguel_Almi_absence_hurt_Paraguay_2026624/Int_260623_SOC_Analysis_Will_Miguel_Almi_absence_hurt_Paraguay_2026624_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0623/Int_260623_SOC_Analysis_Will_Miguel_Almi_absence_hurt_Paraguay_2026624/Int_260623_SOC_Analysis_Will_Miguel_Almi_absence_hurt_Paraguay_2026624/playlist.m3u8"
+      },
+      "final": true,
+      "dv": 5
+    },
+    "760470": {
+      "venue": "SoFi Stadium",
+      "stats": {
+        "home": {
+          "foulsCommitted": "13",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "2",
+          "wonCorners": "2",
+          "saves": "5",
+          "possessionPct": "47.5",
+          "totalShots": "9",
+          "shotsOnTarget": "3",
+          "shotPct": "0.3",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "333",
+          "totalPasses": "435",
+          "passPct": "0.8",
+          "accurateCrosses": "0",
+          "totalCrosses": "11",
+          "crossPct": "0.0",
+          "totalLongBalls": "67",
+          "accurateLongBalls": "24",
+          "longballPct": "0.4",
+          "blockedShots": "2",
+          "effectiveTackles": "20",
+          "totalTackles": "31",
+          "tacklePct": "0.6",
+          "interceptions": "8",
+          "effectiveClearance": "23",
+          "totalClearance": "23"
+        },
+        "away": {
+          "foulsCommitted": "13",
+          "yellowCards": "1",
+          "redCards": "0",
+          "offsides": "5",
+          "wonCorners": "9",
+          "saves": "1",
+          "possessionPct": "52.5",
+          "totalShots": "18",
+          "shotsOnTarget": "7",
+          "shotPct": "0.4",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "397",
+          "totalPasses": "469",
+          "passPct": "0.8",
+          "accurateCrosses": "5",
+          "totalCrosses": "18",
+          "crossPct": "0.3",
+          "totalLongBalls": "43",
+          "accurateLongBalls": "16",
+          "longballPct": "0.4",
+          "blockedShots": "5",
+          "effectiveTackles": "9",
+          "totalTackles": "14",
+          "tacklePct": "0.6",
+          "interceptions": "11",
+          "effectiveClearance": "27",
+          "totalClearance": "27"
+        }
+      },
+      "events": [
+        {
+          "kind": "Goal",
+          "min": "3'",
+          "side": "away",
+          "player": "Goal! Türkiye 0, USA 1. Auston Trusty"
+        },
+        {
+          "kind": "Goal",
+          "min": "10'",
+          "side": "home",
+          "player": "Goal! Türkiye 1, USA 1. Arda Güler"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "19'",
+          "side": "away",
+          "player": "Sebastian Berhalter"
+        },
+        {
+          "kind": "Goal",
+          "min": "31'",
+          "side": "home",
+          "player": "Goal! Türkiye 2, USA 1. Baris Alper Yilmaz"
+        },
+        {
+          "kind": "Goal",
+          "min": "49'",
+          "side": "away",
+          "player": "Goal! Türkiye 2, USA 2. Sebastian Berhalter"
+        },
+        {
+          "kind": "Substitution",
+          "min": "58'",
+          "side": "away",
+          "player": "Substitution, USA. Christian Pulisic replaces Timothy Weah."
+        },
+        {
+          "kind": "Substitution",
+          "min": "76'",
+          "side": "away",
+          "player": "Substitution, USA. Sergiño Dest replaces Giovanni Reyna."
+        },
+        {
+          "kind": "Substitution",
+          "min": "77'",
+          "side": "away",
+          "player": "Substitution, USA. Álex Zendejas replaces Brenden Aaronson."
+        },
+        {
+          "kind": "Substitution",
+          "min": "77'",
+          "side": "away",
+          "player": "Substitution, USA. Alex Freeman replaces Joe Scally."
+        },
+        {
+          "kind": "Substitution",
+          "min": "84'",
+          "side": "home",
+          "player": "Substitution, Türkiye. Çaglar Söyüncü replaces Zeki Çelik."
+        },
+        {
+          "kind": "Substitution",
+          "min": "84'",
+          "side": "home",
+          "player": "Substitution, Türkiye. Can Uzun replaces Kenan Yildiz."
+        },
+        {
+          "kind": "Substitution",
+          "min": "86'",
+          "side": "away",
+          "player": "Substitution, USA. Malik Tillman replaces Weston McKennie."
+        },
+        {
+          "kind": "Substitution",
+          "min": "88'",
+          "side": "home",
+          "player": "Substitution, Türkiye. Kaan Ayhan replaces Orkun Kökçü."
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'+2'",
+          "side": "home",
+          "player": "Substitution, Türkiye. Mert Müldür replaces Oguz Aydin."
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'+2'",
+          "side": "home",
+          "player": "Substitution, Türkiye. Irfan Can Kahveci replaces Baris Alper Yilmaz."
+        },
+        {
+          "kind": "Goal",
+          "min": "90'+8'",
+          "side": "home",
+          "player": "Goal! Türkiye 3, USA 2. Kaan Ayhan"
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Ugurcan Çakir",
+            "short": "U. Çakir",
+            "num": "23",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Ozan Kabak",
+            "short": "O. Kabak",
+            "num": "15",
+            "pos": "CD",
+            "place": "5"
+          },
+          {
+            "name": "Abdülkerim Bardakçi",
+            "short": "A. Bardakçi",
+            "num": "14",
+            "pos": "CD-L",
+            "place": "4"
+          },
+          {
+            "name": "Zeki Çelik",
+            "short": "Z. Çelik",
+            "num": "2",
+            "pos": "CD-R",
+            "place": "6"
+          },
+          {
+            "name": "Orkun Kökçü",
+            "short": "O. Kökçü",
+            "num": "6",
+            "pos": "CM-L",
+            "place": "8"
+          },
+          {
+            "name": "Salih Özcan",
+            "short": "S. Özcan",
+            "num": "5",
+            "pos": "CM-R",
+            "place": "7"
+          },
+          {
+            "name": "Eren Elmali",
+            "short": "E. Elmali",
+            "num": "13",
+            "pos": "LM",
+            "place": "3"
+          },
+          {
+            "name": "Oguz Aydin",
+            "short": "O. Aydin",
+            "num": "24",
+            "pos": "RM",
+            "place": "2"
+          },
+          {
+            "name": "Baris Alper Yilmaz",
+            "short": "B. Yilmaz",
+            "num": "21",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Kenan Yildiz",
+            "short": "K. Yildiz",
+            "num": "11",
+            "pos": "CF-L",
+            "place": "11"
+          },
+          {
+            "name": "Arda Güler",
+            "short": "A. Güler",
+            "num": "8",
+            "pos": "CF-R",
+            "place": "10"
+          }
+        ],
+        "away": [
+          {
+            "name": "Matt Turner",
+            "short": "M. Turner",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Mark McKenzie",
+            "short": "M. McKenzie",
+            "num": "22",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Miles Robinson",
+            "short": "M. Robinson",
+            "num": "12",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Auston Trusty",
+            "short": "A. Trusty",
+            "num": "6",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Joe Scally",
+            "short": "J. Scally",
+            "num": "23",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Sebastian Berhalter",
+            "short": "S. Berhalter",
+            "num": "14",
+            "pos": "CM",
+            "place": "4"
+          },
+          {
+            "name": "Giovanni Reyna",
+            "short": "G. Reyna",
+            "num": "7",
+            "pos": "LM",
+            "place": "8"
+          },
+          {
+            "name": "Weston McKennie",
+            "short": "W. McKennie",
+            "num": "8",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Ricardo Pepi",
+            "short": "R. Pepi",
+            "num": "9",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Timothy Weah",
+            "short": "T. Weah",
+            "num": "21",
+            "pos": "LF",
+            "place": "11"
+          },
+          {
+            "name": "Brenden Aaronson",
+            "short": "B. Aaronson",
+            "num": "11",
+            "pos": "RF",
+            "place": "10"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Kaan Ayhan",
+            "short": "K. Ayhan",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Samet Akaydin",
+            "short": "S. Akaydin",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Irfan Can Kahveci",
+            "short": "I. Kahveci",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mert Günok",
+            "short": "M. Günok",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kerem Aktürkoglu",
+            "short": "K. Aktürkoglu",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ismail Yüksek",
+            "short": "I. Yüksek",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Deniz Gül",
+            "short": "D. Gül",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mert Müldür",
+            "short": "M. Müldür",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Hakan Çalhanoglu",
+            "short": "H. Çalhanoglu",
+            "num": "10",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Yunus Akgün",
+            "short": "Y. Akgün",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Can Uzun",
+            "short": "C. Uzun",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Altay Bayindir",
+            "short": "A. Bayindir",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ferdi Kadioglu",
+            "short": "F. Kadioglu",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Çaglar Söyüncü",
+            "short": "Ç. Söyüncü",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Merih Demiral",
+            "short": "M. Demiral",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Tim Ream",
+            "short": "T. Ream",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Malik Tillman",
+            "short": "M. Tillman",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Folarin Balogun",
+            "short": "F. Balogun",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Tyler Adams",
+            "short": "T. Adams",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Max Arfsten",
+            "short": "M. Arfsten",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Matt Freese",
+            "short": "M. Freese",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Christian Pulisic",
+            "short": "C. Pulisic",
+            "num": "10",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Alejandro Zendejas",
+            "short": "A. Zendejas",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Sergiño Dest",
+            "short": "S. Dest",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Chris Richards",
+            "short": "C. Richards",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Haji Wright",
+            "short": "H. Wright",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Antonee Robinson",
+            "short": "A. Robinson",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Alex Freeman",
+            "short": "A. Freeman",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Chris Brady",
+            "short": "C. Brady",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "3-4-2-1",
+        "away": "4-3-3"
+      },
+      "commentary": [
+        {
+          "min": "",
+          "text": "Match ends, Türkiye 3, USA 2.",
+          "goal": false
+        },
+        {
+          "min": "90'+9'",
+          "text": "Second Half ends, Türkiye 3, USA 2.",
+          "goal": false
+        },
+        {
+          "min": "90'+8'",
+          "text": "Goal! Türkiye 3, USA 2. Kaan Ayhan (Türkiye) right footed shot from very close range to the bottom right corner.",
+          "goal": true
+        },
+        {
+          "min": "90'+8'",
+          "text": "Attempt missed. Can Uzun (Türkiye) right footed shot from the left side of the six yard box is close, but misses to the right.",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Handball by Ricardo Pepi (USA).",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Attempt blocked. Ricardo Pepi (USA) left footed shot from the left side of the box is blocked. Assisted by Christian Pulisic.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Attempt blocked. Álex Zendejas (USA) left footed shot from the right side of the box is blocked. Assisted by Alex Freeman.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Substitution, Türkiye. Irfan Can Kahveci replaces Baris Alper Yilmaz.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Substitution, Türkiye. Mert Müldür replaces Oguz Aydin.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Fourth official has announced 7 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Delay in match because of an injury Auston Trusty (USA).",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Christian Pulisic (USA) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Foul by Ozan Kabak (Türkiye).",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Substitution, Türkiye. Kaan Ayhan replaces Orkun Kökçü.",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Offside, USA. Christian Pulisic is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Substitution, USA. Malik Tillman replaces Weston McKennie.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Foul by Álex Zendejas (USA).",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Oguz Aydin (Türkiye) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Substitution, Türkiye. Can Uzun replaces Kenan Yildiz.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Substitution, Türkiye. Çaglar Söyüncü replaces Zeki Çelik.",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Christian Pulisic (USA) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Foul by Salih Özcan (Türkiye).",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Attempt missed. Orkun Kökçü (Türkiye) right footed shot from outside the box is high and wide to the right. Assisted by Oguz Aydin.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Attempt missed. Christian Pulisic (USA) left footed shot from outside the box is close, but misses to the left. Assisted by Sergiño Dest following a corner.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Substitution, USA. Alex Freeman replaces Joe Scally.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Substitution, USA. Álex Zendejas replaces Brenden Aaronson.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Substitution, USA. Sergiño Dest replaces Giovanni Reyna.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Corner, USA. Conceded by Abdülkerim Bardakci.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Attempt missed. Kenan Yildiz (Türkiye) right footed shot from the left side of the box is close, but misses to the right. Assisted by Orkun Kökçü.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Ricardo Pepi (USA) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Foul by Ozan Kabak (Türkiye).",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Foul by Sebastian Berhalter (USA).",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Orkun Kökçü (Türkiye) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "70'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Christian Pulisic (USA) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Foul by Arda Güler (Türkiye).",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Attempt missed. Weston McKennie (USA) header from the centre of the box misses to the left. Assisted by Sebastian Berhalter with a cross following a corner.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Delay in match because of an injury Ugurcan Çakir (Türkiye).",
+          "goal": false
+        },
+        {
+          "min": "63'",
+          "text": "Corner, USA. Conceded by Zeki Çelik.",
+          "goal": false
+        },
+        {
+          "min": "63'",
+          "text": "Attempt blocked. Weston McKennie (USA) left footed shot from the centre of the box is blocked. Assisted by Brenden Aaronson.",
+          "goal": false
+        },
+        {
+          "min": "63'",
+          "text": "Attempt saved. Christian Pulisic (USA) left footed shot from the centre of the box is saved in the top right corner by Ugurcan Çakir (Türkiye). Assisted by Ricardo Pepi.",
+          "goal": false
+        },
+        {
+          "min": "63'",
+          "text": "Attempt missed. Ricardo Pepi (USA) right footed shot from the centre of the box misses to the left. Assisted by Joe Scally with a cross.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Attempt missed. Brenden Aaronson (USA) right footed shot from the centre of the box misses to the right.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Attempt saved. Christian Pulisic (USA) left footed shot from a difficult angle on the left is saved in the centre of the goal by Ugurcan Çakir (Türkiye). Assisted by Sebastian Berhalter.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Corner, USA. Conceded by Zeki Çelik.",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Substitution, USA. Christian Pulisic replaces Timothy Weah.",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Foul by Mark McKenzie (USA).",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Baris Alper Yilmaz (Türkiye) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Offside, USA. Joe Scally is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Offside, Türkiye. Arda Güler is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "54'",
+          "text": "Sebastian Berhalter (USA) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "54'",
+          "text": "Foul by Arda Güler (Türkiye).",
+          "goal": false
+        },
+        {
+          "min": "53'",
+          "text": "Foul by Miles Robinson (USA).",
+          "goal": false
+        },
+        {
+          "min": "53'",
+          "text": "Kenan Yildiz (Türkiye) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "53'",
+          "text": "Offside, USA. Timothy Weah is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "53'",
+          "text": "Brenden Aaronson (USA) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "53'",
+          "text": "Foul by Orkun Kökçü (Türkiye).",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "O. Kökçü",
+            "num": "6",
+            "pos": "M",
+            "value": "2"
+          },
+          "away": {
+            "name": "A. Trusty",
+            "num": "6",
+            "pos": "D",
+            "value": "3"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "A. Güler",
+            "num": "8",
+            "pos": "M",
+            "value": "40"
+          },
+          "away": {
+            "name": "S. Berhalter",
+            "num": "14",
+            "pos": "M",
+            "value": "55"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "O. Aydin",
+            "num": "24",
+            "pos": "F",
+            "value": "14"
+          },
+          "away": {
+            "name": "M. Robinson",
+            "num": "12",
+            "pos": "D",
+            "value": "16"
+          }
+        },
+        {
+          "label": "Saves",
+          "home": {
+            "name": "U. Çakir",
+            "num": "23",
+            "pos": "G",
+            "value": "5"
+          }
+        }
+      ],
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0625/dm_260625_COM_SOC_News_USMNT_fans_celebrate_early_goal_on_Santa_Cruz_beach_20260625_GLOBAL_FIFA_WOR/dm_260625_COM_SOC_News_USMNT_fans_celebrate_early_goal_on_Santa_Cruz_beach_20260625_GLOBAL_FIFA_WOR.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49182175/usmnt-fans-celebrate-early-goal-santa-cruz-beach",
+        "headline": "USMNT fans celebrate early goal on Santa Cruz beach",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0625/dm_260625_COM_SOC_News_USMNT_fans_celebrate_early_goal_on_Santa_Cruz_beach_20260625_GLOBAL_FIFA_WOR/dm_260625_COM_SOC_News_USMNT_fans_celebrate_early_goal_on_Santa_Cruz_beach_20260625_GLOBAL_FIFA_WOR_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0625/dm_260625_COM_SOC_News_USMNT_fans_celebrate_early_goal_on_Santa_Cruz_beach_20260625_GLOBAL_FIFA_WOR/dm_260625_COM_SOC_News_USMNT_fans_celebrate_early_goal_on_Santa_Cruz_beach_20260625_GLOBAL_FIFA_WOR/playlist.m3u8"
       },
       "final": true,
       "dv": 5

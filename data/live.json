@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T15:58:09.032Z",
+  "lastUpdated": "2026-06-26T17:58:58.977Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -851,9 +851,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 390,
-        "away": -160,
-        "draw": 360,
+        "home": 600,
+        "away": -250,
+        "draw": 425,
         "total": 3.5,
         "book": "DraftKings"
       },
@@ -871,8 +871,8 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -425,
-        "away": 1100,
+        "home": -390,
+        "away": 1000,
         "draw": 550,
         "total": 3.5,
         "book": "DraftKings"
@@ -891,9 +891,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 170,
-        "away": 170,
-        "draw": 235,
+        "home": 165,
+        "away": 175,
+        "draw": 230,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -951,8 +951,8 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 1300,
-        "away": -525,
+        "home": 1200,
+        "away": -500,
         "draw": 650,
         "total": 3.5,
         "book": "DraftKings"
@@ -992,7 +992,7 @@
       "awayWinner": false,
       "odds": {
         "home": 1500,
-        "away": -600,
+        "away": -650,
         "draw": 750,
         "total": 3.5,
         "book": "DraftKings"
@@ -1111,9 +1111,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -135,
-        "away": 390,
-        "draw": 280,
+        "home": -140,
+        "away": 400,
+        "draw": 285,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -1235,9 +1235,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -230,
-        "away": 700,
-        "draw": 360,
+        "home": -250,
+        "away": 750,
+        "draw": 380,
         "total": 2.5,
         "book": "DraftKings"
       },

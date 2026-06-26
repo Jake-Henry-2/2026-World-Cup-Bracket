@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-25T23:08:51.569Z",
+  "lastUpdated": "2026-06-26T01:29:15.679Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -49726,67 +49726,158 @@
       "venue": "AT&T Stadium",
       "stats": {
         "home": {
-          "foulsCommitted": "1",
-          "yellowCards": "0",
+          "foulsCommitted": "20",
+          "yellowCards": "1",
           "redCards": "0",
-          "offsides": "1",
-          "wonCorners": "0",
-          "saves": "1",
-          "possessionPct": "44.6",
-          "totalShots": "0",
-          "shotsOnTarget": "0",
-          "shotPct": "0.0",
+          "offsides": "3",
+          "wonCorners": "2",
+          "saves": "4",
+          "possessionPct": "52.3",
+          "totalShots": "8",
+          "shotsOnTarget": "3",
+          "shotPct": "0.4",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "29",
-          "totalPasses": "31",
+          "accuratePasses": "379",
+          "totalPasses": "446",
           "passPct": "0.9",
-          "accurateCrosses": "0",
-          "totalCrosses": "2",
-          "crossPct": "0.0",
-          "totalLongBalls": "5",
-          "accurateLongBalls": "3",
-          "longballPct": "0.6",
-          "blockedShots": "0",
-          "effectiveTackles": "0",
-          "totalTackles": "0",
-          "tacklePct": "0.0",
-          "interceptions": "0",
-          "effectiveClearance": "3",
-          "totalClearance": "3"
+          "accurateCrosses": "4",
+          "totalCrosses": "13",
+          "crossPct": "0.3",
+          "totalLongBalls": "51",
+          "accurateLongBalls": "20",
+          "longballPct": "0.4",
+          "blockedShots": "2",
+          "effectiveTackles": "7",
+          "totalTackles": "13",
+          "tacklePct": "0.5",
+          "interceptions": "4",
+          "effectiveClearance": "40",
+          "totalClearance": "40"
         },
         "away": {
-          "foulsCommitted": "0",
-          "yellowCards": "0",
+          "foulsCommitted": "11",
+          "yellowCards": "2",
           "redCards": "0",
-          "offsides": "0",
-          "wonCorners": "2",
-          "saves": "0",
-          "possessionPct": "55.4",
-          "totalShots": "1",
-          "shotsOnTarget": "1",
-          "shotPct": "1.0",
+          "offsides": "2",
+          "wonCorners": "8",
+          "saves": "2",
+          "possessionPct": "47.7",
+          "totalShots": "11",
+          "shotsOnTarget": "5",
+          "shotPct": "0.5",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "28",
-          "totalPasses": "36",
+          "accuratePasses": "312",
+          "totalPasses": "395",
           "passPct": "0.8",
-          "accurateCrosses": "0",
-          "totalCrosses": "3",
-          "crossPct": "0.0",
-          "totalLongBalls": "6",
-          "accurateLongBalls": "3",
-          "longballPct": "0.5",
-          "blockedShots": "0",
-          "effectiveTackles": "0",
-          "totalTackles": "0",
-          "tacklePct": "0.0",
-          "interceptions": "0",
-          "effectiveClearance": "2",
-          "totalClearance": "2"
+          "accurateCrosses": "4",
+          "totalCrosses": "16",
+          "crossPct": "0.3",
+          "totalLongBalls": "50",
+          "accurateLongBalls": "18",
+          "longballPct": "0.4",
+          "blockedShots": "3",
+          "effectiveTackles": "3",
+          "totalTackles": "6",
+          "tacklePct": "0.5",
+          "interceptions": "5",
+          "effectiveClearance": "21",
+          "totalClearance": "21"
         }
       },
-      "events": [],
+      "events": [
+        {
+          "kind": "Yellow Card",
+          "min": "32'",
+          "side": "away",
+          "player": "Isak Hien"
+        },
+        {
+          "kind": "Substitution",
+          "min": "37'",
+          "side": "away",
+          "player": "Substitution, Sweden. Lucas Bergvall replaces Isak Hien because of an injury."
+        },
+        {
+          "kind": "Substitution",
+          "min": "39'",
+          "side": "home",
+          "player": "Substitution, Japan. Shogo Taniguchi replaces Ko Itakura."
+        },
+        {
+          "kind": "Goal",
+          "min": "56'",
+          "side": "home",
+          "player": "Goal! Japan 1, Sweden 0. Daizen Maeda"
+        },
+        {
+          "kind": "Goal",
+          "min": "62'",
+          "side": "away",
+          "player": "Goal! Japan 1, Sweden 1. Anthony Elanga"
+        },
+        {
+          "kind": "Substitution",
+          "min": "66'",
+          "side": "home",
+          "player": "Substitution, Japan. Koki Ogawa replaces Ayase Ueda."
+        },
+        {
+          "kind": "Substitution",
+          "min": "67'",
+          "side": "home",
+          "player": "Substitution, Japan. Junya Ito replaces Ritsu Doan."
+        },
+        {
+          "kind": "Substitution",
+          "min": "75'",
+          "side": "away",
+          "player": "Substitution, Sweden. Daniel Svensson replaces Alexander Bernhardsson."
+        },
+        {
+          "kind": "Substitution",
+          "min": "75'",
+          "side": "away",
+          "player": "Substitution, Sweden. Ken Sema replaces Elliot Stroud."
+        },
+        {
+          "kind": "Substitution",
+          "min": "75'",
+          "side": "home",
+          "player": "Substitution, Japan. Yuto Nagatomo replaces Keito Nakamura."
+        },
+        {
+          "kind": "Substitution",
+          "min": "75'",
+          "side": "home",
+          "player": "Substitution, Japan. Tsuyoshi Watanabe replaces Ayumu Seko."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "77'",
+          "side": "home",
+          "player": "Shogo Taniguchi"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "85'",
+          "side": "away",
+          "player": "Viktor Gyökeres"
+        },
+        {
+          "kind": "Substitution",
+          "min": "87'",
+          "side": "away",
+          "player": "Substitution, Sweden. Carl Starfelt replaces Victor Lindelöf because of an injury."
+        },
+        {
+          "kind": "Substitution",
+          "min": "88'",
+          "side": "away",
+          "player": "Substitution, Sweden. Benjamin Nygren replaces Gabriel Gudmundsson."
+        }
+      ],
       "lineups": {
         "home": [
           {
@@ -50162,85 +50253,350 @@
       },
       "commentary": [
         {
-          "min": "8'",
-          "text": "Ayase Ueda (Japan) wins a free kick on the right wing.",
-          "goal": false
-        },
-        {
-          "min": "8'",
-          "text": "Foul by Gabriel Gudmundsson (Sweden).",
-          "goal": false
-        },
-        {
-          "min": "7'",
-          "text": "Offside, Japan. Ayase Ueda is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "6'",
-          "text": "Attempt saved. Alexander Bernhardsson (Sweden) left footed shot from outside the box is saved in the bottom left corner by Zion Suzuki (Japan). Assisted by Alexander Isak.",
-          "goal": false
-        },
-        {
-          "min": "4'",
-          "text": "Yasin Ayari (Sweden) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "4'",
-          "text": "Foul by Ritsu Doan (Japan).",
-          "goal": false
-        },
-        {
-          "min": "2'",
-          "text": "Corner, Sweden. Conceded by Ritsu Doan.",
-          "goal": false
-        },
-        {
-          "min": "1'",
-          "text": "Corner, Sweden. Conceded by Ao Tanaka.",
-          "goal": false
-        },
-        {
           "min": "",
-          "text": "First Half begins.",
+          "text": "Match ends, Japan 1, Sweden 1.",
           "goal": false
         },
         {
-          "min": "",
-          "text": "Lineups are announced and players are warming up.",
+          "min": "90'+7'",
+          "text": "Second Half ends, Japan 1, Sweden 1.",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Attempt saved. Alexander Isak (Sweden) header from the left side of the six yard box is saved in the top centre of the goal by Zion Suzuki (Japan). Assisted by Yasin Ayari with a cross.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Corner, Sweden. Conceded by Yukinari Sugawara.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Attempt saved. Anthony Elanga (Sweden) right footed shot from the right side of the box is saved in the bottom left corner by Zion Suzuki (Japan). Assisted by Benjamin Nygren.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Fourth official has announced 7 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Foul by Yukinari Sugawara (Japan).",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Ken Sema (Sweden) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Substitution, Sweden. Benjamin Nygren replaces Gabriel Gudmundsson.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Substitution, Sweden. Carl Starfelt replaces Victor Lindelöf because of an injury.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Delay in match because of an injury Victor Lindelöf (Sweden).",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Foul by Koki Ogawa (Japan).",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Gustaf Lagerbielke (Sweden) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Viktor Gyökeres (Sweden) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Daichi Kamada (Japan) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Foul by Viktor Gyökeres (Sweden).",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Attempt missed. Koki Ogawa (Japan) left footed shot from the centre of the box is too high. Assisted by Daichi Kamada with a cross.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Corner, Japan. Conceded by Gabriel Gudmundsson.",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Attempt missed. Gustaf Lagerbielke (Sweden) header from the centre of the box misses to the left. Assisted by Yasin Ayari with a cross following a set piece situation.",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Foul by Hiroki Ito (Japan).",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Anthony Elanga (Sweden) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Attempt blocked. Ken Sema (Sweden) left footed shot from the centre of the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Attempt missed. Victor Lindelöf (Sweden) header from very close range misses to the right. Assisted by Yasin Ayari with a cross following a corner.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Corner, Sweden. Conceded by Tsuyoshi Watanabe.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Attempt blocked. Daniel Svensson (Sweden) left footed shot from outside the box is blocked. Assisted by Lucas Bergvall.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Shogo Taniguchi (Japan) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Foul by Shogo Taniguchi (Japan).",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Viktor Gyökeres (Sweden) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Foul by Yukinari Sugawara (Japan).",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Gabriel Gudmundsson (Sweden) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Substitution, Japan. Tsuyoshi Watanabe replaces Ayumu Seko.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Substitution, Japan. Yuto Nagatomo replaces Keito Nakamura.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Substitution, Sweden. Ken Sema replaces Elliot Stroud.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Substitution, Sweden. Daniel Svensson replaces Alexander Bernhardsson.",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Daichi Kamada (Japan) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Foul by Alexander Bernhardsson (Sweden).",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Junya Ito (Japan) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Foul by Elliot Stroud (Sweden).",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Offside, Sweden. Anthony Elanga is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Handball by Daizen Maeda (Japan).",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Substitution, Japan. Junya Ito replaces Ritsu Doan.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Substitution, Japan. Koki Ogawa replaces Ayase Ueda.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Ao Tanaka (Japan) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Foul by Viktor Gyökeres (Sweden).",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Corner, Sweden. Conceded by Zion Suzuki.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Attempt saved. Alexander Isak (Sweden) right footed shot from outside the box is saved in the bottom right corner by Zion Suzuki (Japan).",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Foul by Daizen Maeda (Japan).",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Alexander Bernhardsson (Sweden) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "63'",
+          "text": "Foul by Daichi Kamada (Japan).",
+          "goal": false
+        },
+        {
+          "min": "63'",
+          "text": "Anthony Elanga (Sweden) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Goal! Japan 1, Sweden 1. Anthony Elanga (Sweden) left footed shot from outside the box to the bottom left corner. Assisted by Viktor Gyökeres.",
+          "goal": true
+        },
+        {
+          "min": "60'",
+          "text": "Foul by Hiroki Ito (Japan).",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Viktor Gyökeres (Sweden) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Goal! Japan 1, Sweden 0. Daizen Maeda (Japan) right footed shot from the centre of the box to the bottom left corner. Assisted by Ritsu Doan with a through ball.",
+          "goal": true
+        },
+        {
+          "min": "53'",
+          "text": "Offside, Japan. Daichi Kamada is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "52'",
+          "text": "Attempt blocked. Ayase Ueda (Japan) right footed shot from outside the box is blocked. Assisted by Keito Nakamura.",
+          "goal": false
+        },
+        {
+          "min": "51'",
+          "text": "Offside, Japan. Daizen Maeda is caught offside.",
           "goal": false
         }
       ],
       "leaders": [
         {
-          "label": "Accurate Passes",
+          "label": "Total Shots",
           "home": {
-            "name": "K. Itakura",
-            "num": "4",
-            "pos": "D",
-            "value": "7"
+            "name": "D. Maeda",
+            "num": "11",
+            "pos": "F",
+            "value": "2"
           },
           "away": {
-            "name": "E. Stroud",
-            "num": "24",
+            "name": "G. Lagerbielke",
+            "num": "2",
+            "pos": "D",
+            "value": "2"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "A. Tanaka",
+            "num": "7",
             "pos": "M",
-            "value": "6"
+            "value": "68"
+          },
+          "away": {
+            "name": "G. Lagerbielke",
+            "num": "2",
+            "pos": "D",
+            "value": "46"
           }
         },
         {
           "label": "Defensive Interventions",
           "home": {
-            "name": "D. Maeda",
-            "num": "11",
-            "pos": "F",
-            "value": "1"
+            "name": "Y. Sugawara",
+            "num": "2",
+            "pos": "D",
+            "value": "14"
           },
           "away": {
-            "name": "I. Hien",
-            "num": "4",
+            "name": "G. Gudmundsson",
+            "num": "5",
             "pos": "D",
-            "value": "2"
+            "value": "8"
           }
         },
         {
@@ -50249,85 +50605,88 @@
             "name": "Z. Suzuki",
             "num": "1",
             "pos": "G",
-            "value": "1"
-          }
-        },
-        {
-          "label": "Total Shots",
+            "value": "4"
+          },
           "away": {
-            "name": "A. Bernhardsson",
-            "num": "21",
-            "pos": "F",
-            "value": "1"
+            "name": "J. Widell Zetterström",
+            "num": "1",
+            "pos": "G",
+            "value": "2"
           }
         }
       ],
-      "highlight": null,
-      "final": false,
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0625/dm_260625_COM_SOC_News_Fans_in_Tokyo_celebrate_Japans_goal_vs_Sweden_20260625_GLOBAL_FIFA_WORLD_CUP/dm_260625_COM_SOC_News_Fans_in_Tokyo_celebrate_Japans_goal_vs_Sweden_20260625_GLOBAL_FIFA_WORLD_CUP.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49181537/fans-tokyo-celebrate-japan-goal-vs-sweden",
+        "headline": "Fans in Tokyo celebrate Japan's goal vs. Sweden",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0625/dm_260625_COM_SOC_News_Fans_in_Tokyo_celebrate_Japans_goal_vs_Sweden_20260625_GLOBAL_FIFA_WORLD_CUP/dm_260625_COM_SOC_News_Fans_in_Tokyo_celebrate_Japans_goal_vs_Sweden_20260625_GLOBAL_FIFA_WORLD_CUP_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0625/dm_260625_COM_SOC_News_Fans_in_Tokyo_celebrate_Japans_goal_vs_Sweden_20260625_GLOBAL_FIFA_WORLD_CUP/dm_260625_COM_SOC_News_Fans_in_Tokyo_celebrate_Japans_goal_vs_Sweden_20260625_GLOBAL_FIFA_WORLD_CUP/playlist.m3u8"
+      },
+      "final": true,
       "dv": 5
     },
     "760472": {
       "venue": "GEHA Field at Arrowhead Stadium",
       "stats": {
         "home": {
-          "foulsCommitted": "1",
+          "foulsCommitted": "11",
           "yellowCards": "0",
           "redCards": "0",
-          "offsides": "0",
-          "wonCorners": "0",
-          "saves": "0",
-          "possessionPct": "26.9",
-          "totalShots": "1",
-          "shotsOnTarget": "0",
-          "shotPct": "0.0",
+          "offsides": "2",
+          "wonCorners": "4",
+          "saves": "4",
+          "possessionPct": "28.4",
+          "totalShots": "10",
+          "shotsOnTarget": "4",
+          "shotPct": "0.4",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "14",
-          "totalPasses": "17",
+          "accuratePasses": "200",
+          "totalPasses": "258",
           "passPct": "0.8",
-          "accurateCrosses": "1",
-          "totalCrosses": "1",
-          "crossPct": "1.0",
-          "totalLongBalls": "4",
-          "accurateLongBalls": "3",
-          "longballPct": "0.8",
-          "blockedShots": "0",
-          "effectiveTackles": "0",
-          "totalTackles": "0",
-          "tacklePct": "0.0",
-          "interceptions": "0",
-          "effectiveClearance": "1",
-          "totalClearance": "1"
+          "accurateCrosses": "4",
+          "totalCrosses": "13",
+          "crossPct": "0.3",
+          "totalLongBalls": "48",
+          "accurateLongBalls": "21",
+          "longballPct": "0.4",
+          "blockedShots": "1",
+          "effectiveTackles": "9",
+          "totalTackles": "16",
+          "tacklePct": "0.6",
+          "interceptions": "8",
+          "effectiveClearance": "36",
+          "totalClearance": "36"
         },
         "away": {
-          "foulsCommitted": "0",
+          "foulsCommitted": "10",
           "yellowCards": "0",
           "redCards": "0",
-          "offsides": "0",
-          "wonCorners": "0",
-          "saves": "0",
-          "possessionPct": "73.1",
-          "totalShots": "1",
-          "shotsOnTarget": "1",
-          "shotPct": "1.0",
+          "offsides": "1",
+          "wonCorners": "6",
+          "saves": "3",
+          "possessionPct": "71.6",
+          "totalShots": "20",
+          "shotsOnTarget": "7",
+          "shotPct": "0.4",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "44",
-          "totalPasses": "47",
+          "accuratePasses": "601",
+          "totalPasses": "652",
           "passPct": "0.9",
-          "accurateCrosses": "0",
-          "totalCrosses": "2",
-          "crossPct": "0.0",
-          "totalLongBalls": "1",
-          "accurateLongBalls": "1",
-          "longballPct": "1.0",
-          "blockedShots": "0",
-          "effectiveTackles": "0",
-          "totalTackles": "0",
-          "tacklePct": "0.0",
-          "interceptions": "0",
-          "effectiveClearance": "1",
-          "totalClearance": "1"
+          "accurateCrosses": "7",
+          "totalCrosses": "28",
+          "crossPct": "0.3",
+          "totalLongBalls": "23",
+          "accurateLongBalls": "15",
+          "longballPct": "0.7",
+          "blockedShots": "5",
+          "effectiveTackles": "4",
+          "totalTackles": "8",
+          "tacklePct": "0.5",
+          "interceptions": "10",
+          "effectiveClearance": "10",
+          "totalClearance": "10"
         }
       },
       "events": [
@@ -50338,10 +50697,82 @@
           "player": "Own Goal by Ellyes Skhiri, Tunisia. Tunisia 0, Netherlands 1."
         },
         {
-          "kind": "Goal - Volley",
+          "kind": "Goal",
           "min": "7'",
           "side": "away",
           "player": "Goal! Tunisia 0, Netherlands 2. Brian Brobbey"
+        },
+        {
+          "kind": "Goal - Header",
+          "min": "54'",
+          "side": "home",
+          "player": "Goal! Tunisia 1, Netherlands 2. Hazem Mastouri"
+        },
+        {
+          "kind": "Goal - Header",
+          "min": "62'",
+          "side": "away",
+          "player": "Goal! Tunisia 1, Netherlands 3. Jan Paul van Hecke"
+        },
+        {
+          "kind": "Substitution",
+          "min": "67'",
+          "side": "home",
+          "player": "Substitution, Tunisia. Hadj Mahmoud replaces Rani Khedira."
+        },
+        {
+          "kind": "Substitution",
+          "min": "68'",
+          "side": "home",
+          "player": "Substitution, Tunisia. Elias Achouri replaces Anis Ben Slimane."
+        },
+        {
+          "kind": "Substitution",
+          "min": "68'",
+          "side": "home",
+          "player": "Substitution, Tunisia. Mortadha Ben Ouanes replaces Mohamed Amine Ben Hmida."
+        },
+        {
+          "kind": "Substitution",
+          "min": "72'",
+          "side": "away",
+          "player": "Substitution, Netherlands. Teun Koopmeiners replaces Frenkie de Jong."
+        },
+        {
+          "kind": "Substitution",
+          "min": "72'",
+          "side": "away",
+          "player": "Substitution, Netherlands. Justin Kluivert replaces Tijjani Reijnders."
+        },
+        {
+          "kind": "Substitution",
+          "min": "72'",
+          "side": "away",
+          "player": "Substitution, Netherlands. Crysencio Summerville replaces Donyell Malen."
+        },
+        {
+          "kind": "Substitution",
+          "min": "75'",
+          "side": "home",
+          "player": "Substitution, Tunisia. Firas Chaouat replaces Ismaël Gharbi."
+        },
+        {
+          "kind": "Substitution",
+          "min": "77'",
+          "side": "away",
+          "player": "Substitution, Netherlands. Memphis Depay replaces Brian Brobbey."
+        },
+        {
+          "kind": "Substitution",
+          "min": "84'",
+          "side": "away",
+          "player": "Substitution, Netherlands. Noa Lang replaces Cody Gakpo."
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'",
+          "side": "home",
+          "player": "Substitution, Tunisia. Sebastian Tounekti replaces Hazem Mastouri."
         }
       ],
       "lineups": {
@@ -50712,38 +51143,303 @@
       },
       "commentary": [
         {
-          "min": "7'",
-          "text": "Goal! Tunisia 0, Netherlands 2. Brian Brobbey (Netherlands) right footed shot from the centre of the box to the top right corner. Assisted by Virgil van Dijk with a headed pass following a set piece situation.",
-          "goal": true
-        },
-        {
-          "min": "6'",
-          "text": "Donyell Malen (Netherlands) wins a free kick in the attacking half.",
+          "min": "",
+          "text": "Match ends, Tunisia 1, Netherlands 3.",
           "goal": false
         },
         {
-          "min": "6'",
+          "min": "90'+6'",
+          "text": "Second Half ends, Tunisia 1, Netherlands 3.",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Attempt blocked. Elias Achouri (Tunisia) right footed shot from the centre of the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Corner, Tunisia. Conceded by Nathan Aké.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Fourth official has announced 5 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Substitution, Tunisia. Sebastian Tounekti replaces Hazem Mastouri.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Attempt missed. Hazem Mastouri (Tunisia) right footed shot from more than 35 yards misses to the right following a fast break.",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Corner, Netherlands. Conceded by Ellyes Skhiri.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Nathan Aké (Netherlands) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Foul by Firas Chaouat (Tunisia).",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Substitution, Netherlands. Noa Lang replaces Cody Gakpo.",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Foul by Nathan Aké (Netherlands).",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Hannibal Mejbri (Tunisia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Offside, Tunisia. Firas Chaouat is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Attempt missed. Nathan Aké (Netherlands) header from the centre of the box is just a bit too high. Assisted by Jan Paul van Hecke with a headed pass following a set piece situation.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Justin Kluivert (Netherlands) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Foul by Hadj Mahmoud (Tunisia).",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Nathan Aké (Netherlands) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Foul by Hadj Mahmoud (Tunisia).",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Attempt saved. Virgil van Dijk (Netherlands) header from the centre of the box is saved in the top centre of the goal by Aymen Dahmen (Tunisia). Assisted by Teun Koopmeiners.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Justin Kluivert (Netherlands) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Foul by Hazem Mastouri (Tunisia).",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Substitution, Netherlands. Memphis Depay replaces Brian Brobbey.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Attempt missed. Elias Achouri (Tunisia) right footed shot from outside the box is high and wide to the right following a corner.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Corner, Tunisia. Conceded by Bart Verbruggen.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Attempt saved. Hannibal Mejbri (Tunisia) left footed shot from outside the box is saved in the top right corner by Bart Verbruggen (Netherlands). Assisted by Hazem Mastouri.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Substitution, Tunisia. Firas Chaouat replaces Ismaël Gharbi.",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Foul by Teun Koopmeiners (Netherlands).",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Hannibal Mejbri (Tunisia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Foul by Ryan Gravenberch (Netherlands).",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Mortadha Ben Ouanes (Tunisia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Substitution, Netherlands. Crysencio Summerville replaces Donyell Malen.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Substitution, Netherlands. Justin Kluivert replaces Tijjani Reijnders.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Substitution, Netherlands. Teun Koopmeiners replaces Frenkie de Jong.",
+          "goal": false
+        },
+        {
+          "min": "69'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Attempt saved. Tijjani Reijnders (Netherlands) right footed shot from outside the box is saved in the bottom left corner by Aymen Dahmen (Tunisia). Assisted by Brian Brobbey.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Substitution, Tunisia. Mortadha Ben Ouanes replaces Mohamed Amine Ben Hmida.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Substitution, Tunisia. Elias Achouri replaces Anis Ben Slimane.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Substitution, Tunisia. Hadj Mahmoud replaces Rani Khedira.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Attempt missed. Denzel Dumfries (Netherlands) header from the right side of the box misses to the left.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Tijjani Reijnders (Netherlands) hits the bar with a right footed shot from the left side of the box.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Attempt saved. Hazem Mastouri (Tunisia) right footed shot from outside the box is saved in the centre of the goal by Bart Verbruggen (Netherlands). Assisted by Yan Valery.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Frenkie de Jong (Netherlands) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Foul by Mohamed Amine Ben Hmida (Tunisia).",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Goal! Tunisia 1, Netherlands 3. Jan Paul van Hecke (Netherlands) header from the left side of the six yard box to the top right corner. Assisted by Tijjani Reijnders with a cross following a corner.",
+          "goal": true
+        },
+        {
+          "min": "61'",
+          "text": "Corner, Netherlands. Conceded by Yan Valery.",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Attempt blocked. Cody Gakpo (Netherlands) right footed shot from the centre of the box is blocked. Assisted by Nathan Aké.",
+          "goal": false
+        },
+        {
+          "min": "59'",
+          "text": "Donyell Malen (Netherlands) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "59'",
           "text": "Foul by Rani Khedira (Tunisia).",
           "goal": false
         },
         {
-          "min": "3'",
-          "text": "Own Goal by Ellyes Skhiri, Tunisia. Tunisia 0, Netherlands 1.",
+          "min": "59'",
+          "text": "Foul by Jan Paul van Hecke (Netherlands).",
+          "goal": false
+        },
+        {
+          "min": "59'",
+          "text": "Hannibal Mejbri (Tunisia) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Corner, Netherlands. Conceded by Ali Abdi.",
+          "goal": false
+        },
+        {
+          "min": "54'",
+          "text": "Goal! Tunisia 1, Netherlands 2. Hazem Mastouri (Tunisia) header from the centre of the box to the bottom left corner. Assisted by Hannibal Mejbri with a cross following a corner.",
           "goal": true
         },
         {
-          "min": "2'",
-          "text": "Attempt missed. Ismaël Gharbi (Tunisia) right footed shot from the centre of the box is too high. Assisted by Hazem Mastouri with a cross.",
+          "min": "53'",
+          "text": "Corner, Tunisia. Conceded by Jan Paul van Hecke.",
           "goal": false
         },
         {
-          "min": "",
-          "text": "First Half begins.",
+          "min": "51'",
+          "text": "Foul by Jan Paul van Hecke (Netherlands).",
           "goal": false
         },
         {
-          "min": "",
-          "text": "Lineups are announced and players are warming up.",
+          "min": "51'",
+          "text": "Hazem Mastouri (Tunisia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "51'",
+          "text": "Attempt blocked. Denzel Dumfries (Netherlands) right footed shot from the centre of the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "49'",
+          "text": "Foul by Virgil van Dijk (Netherlands).",
+          "goal": false
+        },
+        {
+          "min": "49'",
+          "text": "Hazem Mastouri (Tunisia) wins a free kick in the defensive half.",
           "goal": false
         }
       ],
@@ -50751,51 +51447,72 @@
         {
           "label": "Total Shots",
           "home": {
-            "name": "I. Gharbi",
-            "num": "11",
+            "name": "H. Mastouri",
+            "num": "9",
             "pos": "F",
-            "value": "1"
+            "value": "3"
           },
           "away": {
-            "name": "B. Brobbey",
-            "num": "19",
-            "pos": "F",
-            "value": "1"
+            "name": "D. Dumfries",
+            "num": "22",
+            "pos": "D",
+            "value": "4"
           }
         },
         {
           "label": "Accurate Passes",
           "home": {
-            "name": "M. Talbi",
-            "num": "3",
-            "pos": "D",
-            "value": "3"
+            "name": "E. Skhiri",
+            "num": "17",
+            "pos": "M",
+            "value": "35"
           },
           "away": {
-            "name": "V. van Dijk",
-            "num": "4",
+            "name": "J. van Hecke",
+            "num": "6",
             "pos": "D",
-            "value": "9"
+            "value": "130"
           }
         },
         {
           "label": "Defensive Interventions",
           "home": {
-            "name": "M. Ben Hamida",
-            "num": "21",
+            "name": "A. Abdi",
+            "num": "2",
             "pos": "D",
-            "value": "1"
+            "value": "16"
           },
           "away": {
-            "name": "R. Gravenberch",
-            "num": "8",
-            "pos": "M",
-            "value": "1"
+            "name": "J. van Hecke",
+            "num": "6",
+            "pos": "D",
+            "value": "9"
+          }
+        },
+        {
+          "label": "Saves",
+          "home": {
+            "name": "A. Dahmen",
+            "num": "16",
+            "pos": "G",
+            "value": "4"
+          },
+          "away": {
+            "name": "B. Verbruggen",
+            "num": "1",
+            "pos": "G",
+            "value": "3"
           }
         }
       ],
-      "highlight": null,
-      "final": false,
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0622/dm_260622_Netherlands_Dumfries_will_absolutely_not_discuss_his_Real_Madrid_links/dm_260622_Netherlands_Dumfries_will_absolutely_not_discuss_his_Real_Madrid_links.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49145799/netherlands-dumfries-absolutely-not-discuss-real-madrid-links",
+        "headline": "Netherlands' Dumfries will absolutely not discuss his Real Madrid links",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0622/dm_260622_Netherlands_Dumfries_will_absolutely_not_discuss_his_Real_Madrid_links/dm_260622_Netherlands_Dumfries_will_absolutely_not_discuss_his_Real_Madrid_links_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0622/dm_260622_Netherlands_Dumfries_will_absolutely_not_discuss_his_Real_Madrid_links/dm_260622_Netherlands_Dumfries_will_absolutely_not_discuss_his_Real_Madrid_links/playlist.m3u8"
+      },
+      "final": true,
       "dv": 5
     },
     "760473": {

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-25T23:08:51.417Z",
+  "lastUpdated": "2026-06-26T01:29:15.554Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -790,49 +790,29 @@
       "stage": "group",
       "home": "Japan",
       "away": "Sweden",
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 1,
+      "awayScore": 1,
       "homeWinner": false,
       "awayWinner": false,
-      "odds": {
-        "home": 140,
-        "away": 205,
-        "draw": 240,
-        "total": 2.5,
-        "book": "DraftKings"
-      },
-      "status": "live",
+      "odds": null,
+      "status": "finished",
       "id": "760471",
       "date": "2026-06-25T23:00Z",
-      "venue": "AT&T Stadium",
-      "clock": 480,
-      "displayClock": "8'",
-      "detail": "8'",
-      "period": 1
+      "venue": "AT&T Stadium"
     },
     {
       "stage": "group",
       "home": "Tunisia",
       "away": "Netherlands",
-      "homeScore": 0,
-      "awayScore": 2,
+      "homeScore": 1,
+      "awayScore": 3,
       "homeWinner": false,
-      "awayWinner": false,
-      "odds": {
-        "home": 1800,
-        "away": -700,
-        "draw": 750,
-        "total": 3.5,
-        "book": "DraftKings"
-      },
-      "status": "live",
+      "awayWinner": true,
+      "odds": null,
+      "status": "finished",
       "id": "760472",
       "date": "2026-06-25T23:00Z",
-      "venue": "GEHA Field at Arrowhead Stadium",
-      "clock": 480,
-      "displayClock": "8'",
-      "detail": "8'",
-      "period": 1
+      "venue": "GEHA Field at Arrowhead Stadium"
     },
     {
       "stage": "group",
@@ -844,8 +824,8 @@
       "awayWinner": false,
       "odds": {
         "home": 160,
-        "away": 360,
-        "draw": 125,
+        "away": 320,
+        "draw": 135,
         "total": 1.5,
         "book": "DraftKings"
       },
@@ -863,9 +843,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 310,
-        "away": -125,
-        "draw": 320,
+        "home": 255,
+        "away": 100,
+        "draw": 285,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -883,9 +863,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 400,
-        "away": -165,
-        "draw": 350,
+        "home": 425,
+        "away": -175,
+        "draw": 370,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -906,7 +886,7 @@
         "home": -425,
         "away": 1100,
         "draw": 550,
-        "total": 3.5,
+        "total": 2.5,
         "book": "DraftKings"
       },
       "status": "scheduled",
@@ -943,8 +923,8 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 650,
-        "away": -205,
+        "home": 700,
+        "away": -210,
         "draw": 320,
         "total": 2.5,
         "book": "DraftKings"
@@ -1137,7 +1117,7 @@
     {
       "stage": "r32",
       "home": "Brazil",
-      "away": "Group F 2nd Place",
+      "away": "Japan",
       "homeScore": 0,
       "awayScore": 0,
       "homeWinner": false,
@@ -1164,7 +1144,7 @@
     },
     {
       "stage": "r32",
-      "home": "Group F Winner",
+      "home": "Netherlands",
       "away": "Morocco",
       "homeScore": 0,
       "awayScore": 0,
@@ -1249,7 +1229,7 @@
     {
       "stage": "r32",
       "home": "United States",
-      "away": "Third Place Group B/E/F/I/J",
+      "away": "Bosnia and Herzegovina",
       "homeScore": 0,
       "awayScore": 0,
       "homeWinner": false,

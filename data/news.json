@@ -1,20 +1,34 @@
 {
-  "lastUpdated": "2026-06-27T21:18:45.749Z",
+  "lastUpdated": "2026-06-27T22:33:10.727Z",
   "source": "ESPN",
   "articles": [
     {
-      "headline": "World Cup Daily LIVE: Panama-England, Croatia-Ghana underway in Group L finale",
+      "headline": "World Cup Daily LIVE: England score twice against Panama, Croatia lead Ghana",
       "description": "It's the final day of World Cup action from the group stages, as Portugal's Cristiano Ronaldo and Argentina's Lionel Messi (maybe) could play on the same day.",
-      "published": "2026-06-27T21:16:15Z",
+      "published": "2026-06-27T22:30:24Z",
       "link": "https://www.espn.com/soccer/story/_/id/49195139/world-cup-daily-live-cristiano-ronaldo-new-golden-boots-argentina-rest-messi-final-groups-decided",
       "image": "https://a.espncdn.com/photo/2026/0627/r1680628_1296x729_16-9.jpg"
     },
     {
-      "headline": "Croatia v Ghana LIVE - Follow along as the Black Stars seek group L dominance",
+      "headline": "Harry Kane becomes England's leading goalscorer at World Cups after scoring vs. Panama",
+      "description": "Harry Kane has become England's all-time leading scorer at the World Cup after scoring in the Three Lions' final group stage game vs. Panama.",
+      "published": "2026-06-27T22:27:51Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49190714/harry-kane-england-leading-goalscorer-world-cup-70-goals-lineker-panama",
+      "image": "https://a.espncdn.com/photo/2026/0617/r1675080_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Spain's Nico Williams on injury: One of worst days of my life",
+      "description": "Spain winger Nico Williams said he had suffered \"one of the worst days of my life\" after an injury against Uruguay on Friday jeopardized his future participation in the World Cup.",
+      "published": "2026-06-27T22:12:05Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49200729/spain-nico-williams-injury-yeremy-pino-2026-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0627/r1680658_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Croatia v Ghana LIVE - Follow along as the Black Stars look to recover",
       "description": "Ghana go into their final group game against Croatia on Saturday knowing that results elsewhere have already secured them their place in the World Cup knockout stages for the first time since 2010.",
-      "published": "2026-06-27T20:56:44Z",
-      "link": "https://www.espn.com/espn/story/_/id/49199423/croatia-v-ghana-live-follow-black-stars-seek-group-l-dominance",
-      "image": "https://a.espncdn.com/photo/2026/0627/r1680423_1296x729_16-9.jpg"
+      "published": "2026-06-27T22:05:23Z",
+      "link": "https://www.espn.com/espn/story/_/id/49199423/croatia-v-ghana-live-follow-black-stars-look-recover",
+      "image": "https://a.espncdn.com/photo/2026/0627/r1680639_1296x729_16-9.jpg"
     },
     {
       "headline": "Netherlands forward Cody Gakpo shares loss of unborn son",
@@ -29,20 +43,6 @@
       "published": "2026-06-27T20:30:20Z",
       "link": "https://www.espn.com/soccer/story/_/id/49031236/2026-world-cup-group-stage-clinching-scenarios-knockout-rounds-elimination",
       "image": "https://a.espncdn.com/photo/2026/0627/r1680216_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "New Zealand coach wants team in Gold Cup after World Cup exit",
-      "description": "New Zealand coach Darren Bazeley wants to see the Kiwis taking part in tournaments such as the Gold Cup, as the All Whites start plotting their next move after their elimination from the FIFA World Cup.",
-      "published": "2026-06-27T20:40:41Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49199843/darren-bazeley-new-zealand-play-gold-cup-world-cup-exit",
-      "image": "https://a.espncdn.com/photo/2026/0627/r1680600_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Mané & Diaw explain how Senegal improved to defeat Iraq",
-      "description": "Mané & Diaw explain how Senegal improved to defeat Iraq",
-      "published": "2026-06-27T19:41:44Z",
-      "link": "https://www.espn.com/video/clip/_/id/49199554/mane-diawexplain-how-senegal-improved-defeat-iraq",
-      "image": "https://a.espncdn.com/media/motion/2026/0627/dm_260627_Mane_Diaw_explain_how_Senegal_improved_to_defeat_Iraq/dm_260627_Mane_Diaw_explain_how_Senegal_improved_to_defeat_Iraq.jpg"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27T21:18:45.694Z",
+  "lastUpdated": "2026-06-27T22:33:10.646Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -930,7 +930,7 @@
       "stage": "group",
       "home": "Croatia",
       "away": "Ghana",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "homeWinner": false,
       "awayWinner": false,
@@ -945,17 +945,17 @@
       "id": "760480",
       "date": "2026-06-27T21:00Z",
       "venue": "Lincoln Financial Field",
-      "clock": 1020,
-      "displayClock": "17'",
-      "detail": "17'",
-      "period": 1
+      "clock": 4320,
+      "displayClock": "72'",
+      "detail": "72'",
+      "period": 2
     },
     {
       "stage": "group",
       "home": "Panama",
       "away": "England",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 2,
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
@@ -969,10 +969,10 @@
       "id": "760485",
       "date": "2026-06-27T21:00Z",
       "venue": "MetLife Stadium",
-      "clock": 1080,
-      "displayClock": "18'",
-      "detail": "18'",
-      "period": 1
+      "clock": 4440,
+      "displayClock": "74'",
+      "detail": "74'",
+      "period": 2
     },
     {
       "stage": "group",
@@ -983,9 +983,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 255,
-        "away": 100,
-        "draw": 280,
+        "home": 295,
+        "away": -120,
+        "draw": 295,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -1063,9 +1063,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 425,
-        "away": -135,
-        "draw": 255,
+        "home": 450,
+        "away": -140,
+        "draw": 265,
         "total": 2.5,
         "book": "DraftKings"
       },

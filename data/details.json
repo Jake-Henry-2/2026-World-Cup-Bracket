@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T23:50:37.874Z",
+  "lastUpdated": "2026-06-27T01:56:02.894Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -56040,6 +56040,1764 @@
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0626/dm_260626_Fans_in_Paris_celebrate_as_Dembele_gives_France_the_lead_against_Norway/dm_260626_Fans_in_Paris_celebrate_as_Dembele_gives_France_the_lead_against_Norway/playlist.m3u8"
       },
       "final": true,
+      "dv": 5
+    },
+    "760478": {
+      "venue": "NRG Stadium",
+      "stats": {
+        "home": {
+          "foulsCommitted": "10",
+          "yellowCards": "1",
+          "redCards": "0",
+          "offsides": "1",
+          "wonCorners": "4",
+          "saves": "2",
+          "possessionPct": "51.3",
+          "totalShots": "15",
+          "shotsOnTarget": "2",
+          "shotPct": "0.1",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "367",
+          "totalPasses": "431",
+          "passPct": "0.9",
+          "accurateCrosses": "2",
+          "totalCrosses": "18",
+          "crossPct": "0.1",
+          "totalLongBalls": "53",
+          "accurateLongBalls": "28",
+          "longballPct": "0.5",
+          "blockedShots": "5",
+          "effectiveTackles": "11",
+          "totalTackles": "15",
+          "tacklePct": "0.7",
+          "interceptions": "12",
+          "effectiveClearance": "25",
+          "totalClearance": "25"
+        },
+        "away": {
+          "foulsCommitted": "15",
+          "yellowCards": "2",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "2",
+          "saves": "2",
+          "possessionPct": "48.7",
+          "totalShots": "6",
+          "shotsOnTarget": "2",
+          "shotPct": "0.3",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "339",
+          "totalPasses": "421",
+          "passPct": "0.8",
+          "accurateCrosses": "2",
+          "totalCrosses": "10",
+          "crossPct": "0.2",
+          "totalLongBalls": "53",
+          "accurateLongBalls": "23",
+          "longballPct": "0.4",
+          "blockedShots": "3",
+          "effectiveTackles": "14",
+          "totalTackles": "27",
+          "tacklePct": "0.5",
+          "interceptions": "10",
+          "effectiveClearance": "23",
+          "totalClearance": "23"
+        }
+      },
+      "events": [
+        {
+          "kind": "Yellow Card",
+          "min": "4'",
+          "side": "away",
+          "player": "Saud Abdulhamid"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "9'",
+          "side": "home",
+          "player": "Wagner Pina"
+        },
+        {
+          "kind": "Substitution",
+          "min": "33'",
+          "side": "away",
+          "player": "Substitution, Saudi Arabia. Ali Lajami replaces Hassan Al Tambakti because of an injury."
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "away",
+          "player": "Substitution, Saudi Arabia. Musab Al Juwayr replaces Abdullah Al Khaibari."
+        },
+        {
+          "kind": "Substitution",
+          "min": "61'",
+          "side": "home",
+          "player": "Substitution, Cabo Verde. Nuno da Costa replaces Dailon Livramento."
+        },
+        {
+          "kind": "Substitution",
+          "min": "61'",
+          "side": "home",
+          "player": "Substitution, Cabo Verde. Hélio Varela replaces Willy Semedo."
+        },
+        {
+          "kind": "Substitution",
+          "min": "66'",
+          "side": "away",
+          "player": "Substitution, Saudi Arabia. Mohammed Abu Al Shamat replaces Salem Al Dawsari."
+        },
+        {
+          "kind": "Substitution",
+          "min": "66'",
+          "side": "away",
+          "player": "Substitution, Saudi Arabia. Abdullah Al Hamddan replaces Sultan Mandash."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "67'",
+          "side": "away",
+          "player": "Nasser Al Dawsari"
+        },
+        {
+          "kind": "Substitution",
+          "min": "71'",
+          "side": "home",
+          "player": "Substitution, Cabo Verde. Laros Duarte replaces Jamiro Monteiro."
+        },
+        {
+          "kind": "Substitution",
+          "min": "71'",
+          "side": "home",
+          "player": "Substitution, Cabo Verde. Garry Rodrigues replaces Ryan Mendes."
+        },
+        {
+          "kind": "Substitution",
+          "min": "82'",
+          "side": "away",
+          "player": "Substitution, Saudi Arabia. Moteb Al Harbi replaces Nawaf Bu Washl."
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Vozinha",
+            "short": "Vozinha",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Diney Borges",
+            "short": "D. Borges",
+            "num": "3",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Pico Lopes",
+            "short": "P. Lopes",
+            "num": "4",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Kevin Pina",
+            "short": "K. Pina",
+            "num": "6",
+            "pos": "DM",
+            "place": "4"
+          },
+          {
+            "name": "João Paulo",
+            "short": "J. Paulo",
+            "num": "8",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Wagner Pina",
+            "short": "W. Pina",
+            "num": "24",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Jamiro Monteiro",
+            "short": "J. Monteiro",
+            "num": "10",
+            "pos": "CM-L",
+            "place": "10"
+          },
+          {
+            "name": "Deroy Duarte",
+            "short": "D. Duarte",
+            "num": "14",
+            "pos": "CM-R",
+            "place": "8"
+          },
+          {
+            "name": "Willy Semedo",
+            "short": "W. Semedo",
+            "num": "17",
+            "pos": "LM",
+            "place": "11"
+          },
+          {
+            "name": "Ryan Mendes",
+            "short": "R. Mendes",
+            "num": "20",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Dailon Livramento",
+            "short": "D. Livramento",
+            "num": "19",
+            "pos": "F",
+            "place": "9"
+          }
+        ],
+        "away": [
+          {
+            "name": "Mohammed Al-Owais",
+            "short": "M. Al-Owais",
+            "num": "21",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Hassan Al-Tambakti",
+            "short": "H. Al-Tambakti",
+            "num": "5",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Abdulelah Al-Amri",
+            "short": "A. Al-Amri",
+            "num": "4",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Nawaf Boushal",
+            "short": "N. Boushal",
+            "num": "13",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Saud Abdulhamid",
+            "short": "S. Abdulhamid",
+            "num": "12",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Nasser Al-Dawsari",
+            "short": "N. Al-Dawsari",
+            "num": "6",
+            "pos": "CM-L",
+            "place": "8"
+          },
+          {
+            "name": "Abdullah Al-Khaibari",
+            "short": "A. Al-Khaibari",
+            "num": "15",
+            "pos": "CM-R",
+            "place": "4"
+          },
+          {
+            "name": "Salem Al-Dawsari",
+            "short": "S. Al-Dawsari",
+            "num": "10",
+            "pos": "LM",
+            "place": "11"
+          },
+          {
+            "name": "Sultan Mandash",
+            "short": "S. Mandash",
+            "num": "20",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Feras Al-Brikan",
+            "short": "F. Al-Brikan",
+            "num": "9",
+            "pos": "CF-L",
+            "place": "9"
+          },
+          {
+            "name": "Mohamed Kanno",
+            "short": "M. Kanno",
+            "num": "23",
+            "pos": "CF-R",
+            "place": "10"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Jovane Cabral",
+            "short": "J. Cabral",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Garry Rodrigues",
+            "short": "G. Rodrigues",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "CJ dos Santos",
+            "short": "C. dos Santos",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nuno da Costa",
+            "short": "N. da Costa",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kelvin Pires",
+            "short": "K. Pires",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Hélio Varela",
+            "short": "H. Varela",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Márcio Rosa",
+            "short": "M. Rosa",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Yannick Semedo",
+            "short": "Y. Semedo",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Laros Duarte",
+            "short": "L. Duarte",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Stopira",
+            "short": "Stopira",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Logan Costa",
+            "short": "L. Costa",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Steven Moreira",
+            "short": "S. Moreira",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gilson Benchimol",
+            "short": "G. Benchimol",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Ziyad Al-Johani",
+            "short": "Z. Al-Johani",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Hassan Kadish",
+            "short": "H. Kadish",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Saleh Al-Shehri",
+            "short": "S. Al-Shehri",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ala Al-Hajji",
+            "short": "A. Al-Hajji",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ali Lajami",
+            "short": "A. Lajami",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jehad Thakri",
+            "short": "J. Thakri",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Moteb Al-Harbi",
+            "short": "M. Al-Harbi",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ahmed Al-Kassar",
+            "short": "A. Al-Kassar",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mohammed Abu Al-Shamat",
+            "short": "M. Abu Al-Shamat",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ali Majrashi",
+            "short": "A. Majrashi",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Musab Al-Juwayr",
+            "short": "M. Al-Juwayr",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nawaf Al-Aqidi",
+            "short": "N. Al-Aqidi",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Abdullah Al-Hamdan",
+            "short": "A. Al-Hamdan",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Khalid Al-Ghannam",
+            "short": "K. Al-Ghannam",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Aiman Yahya",
+            "short": "A. Yahya",
+            "num": "8",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-1-4-1",
+        "away": "4-4-2"
+      },
+      "commentary": [
+        {
+          "min": "90'",
+          "text": "Fourth official has announced 5 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Kevin Pina (Cabo Verde) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Foul by Mohamed Kanno (Saudi Arabia).",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "VAR Decision: Other Decision Cancelled.",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Offside, Cabo Verde. Garry Rodrigues is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Attempt blocked. Wagner Pina (Cabo Verde) right footed shot from the centre of the box is blocked. Assisted by Laros Duarte.",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Attempt missed. Nuno da Costa (Cabo Verde) left footed shot from the right side of the box misses to the left. Assisted by Garry Rodrigues with a headed pass.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Attempt missed. Kevin Pina (Cabo Verde) right footed shot from outside the box is high and wide to the right.",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Attempt blocked. Nasser Al Dawsari (Saudi Arabia) left footed shot from outside the box is blocked. Assisted by Feras Al Brikan.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Substitution, Saudi Arabia. Moteb Al Harbi replaces Nawaf Bu Washl.",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Pico Lopes (Cabo Verde) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Foul by Abdullah Al Hamddan (Saudi Arabia).",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Attempt blocked. Garry Rodrigues (Cabo Verde) left footed shot from outside the box is blocked. Assisted by Laros Duarte.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Foul by Hélio Varela (Cabo Verde).",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Saud Abdulhamid (Saudi Arabia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Attempt blocked. João Paulo (Cabo Verde) right footed shot from outside the box is blocked. Assisted by Hélio Varela.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Wagner Pina (Cabo Verde) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Foul by Abdullah Al Hamddan (Saudi Arabia).",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Corner, Saudi Arabia. Conceded by João Paulo.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Attempt missed. Pico Lopes (Cabo Verde) header from the right side of the six yard box is too high. Assisted by Laros Duarte with a cross following a corner.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Corner, Cabo Verde. Conceded by Mohammed Al Owais.",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Attempt saved. Laros Duarte (Cabo Verde) right footed shot from the centre of the box is saved in the centre of the goal by Mohammed Al Owais (Saudi Arabia). Assisted by Nuno da Costa with a through ball.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Foul by Diney Borges (Cabo Verde).",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Feras Al Brikan (Saudi Arabia) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Substitution, Cabo Verde. Garry Rodrigues replaces Ryan Mendes.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Substitution, Cabo Verde. Laros Duarte replaces Jamiro Monteiro.",
+          "goal": false
+        },
+        {
+          "min": "69'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Nasser Al Dawsari (Saudi Arabia) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Nuno da Costa (Cabo Verde) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Foul by Nasser Al Dawsari (Saudi Arabia).",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Attempt saved. Mohammed Abu Al Shamat (Saudi Arabia) right footed shot from the right side of the box is saved in the top left corner by Vozinha (Cabo Verde). Assisted by Musab Al Juwayr.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Hélio Varela (Cabo Verde) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Foul by Saud Abdulhamid (Saudi Arabia).",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Substitution, Saudi Arabia. Abdullah Al Hamddan replaces Sultan Mandash.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Substitution, Saudi Arabia. Mohammed Abu Al Shamat replaces Salem Al Dawsari.",
+          "goal": false
+        },
+        {
+          "min": "63'",
+          "text": "Foul by Kevin Pina (Cabo Verde).",
+          "goal": false
+        },
+        {
+          "min": "63'",
+          "text": "Sultan Mandash (Saudi Arabia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Substitution, Cabo Verde. Hélio Varela replaces Willy Semedo.",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Substitution, Cabo Verde. Nuno da Costa replaces Dailon Livramento.",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Attempt missed. Deroy Duarte (Cabo Verde) right footed shot from outside the box misses to the right.",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Corner, Cabo Verde. Conceded by Saud Abdulhamid.",
+          "goal": false
+        },
+        {
+          "min": "55'",
+          "text": "Pico Lopes (Cabo Verde) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "55'",
+          "text": "Foul by Salem Al Dawsari (Saudi Arabia).",
+          "goal": false
+        },
+        {
+          "min": "53'",
+          "text": "Attempt blocked. Ryan Mendes (Cabo Verde) left footed shot from the centre of the box is blocked. Assisted by Wagner Pina.",
+          "goal": false
+        },
+        {
+          "min": "53'",
+          "text": "Handball by Mohamed Kanno (Saudi Arabia).",
+          "goal": false
+        },
+        {
+          "min": "50'",
+          "text": "Attempt missed. Kevin Pina (Cabo Verde) left footed shot from outside the box is close, but misses the top left corner. Assisted by Ryan Mendes.",
+          "goal": false
+        },
+        {
+          "min": "48'",
+          "text": "Attempt saved. Jamiro Monteiro (Cabo Verde) right footed shot from the centre of the box is saved in the centre of the goal by Mohammed Al Owais (Saudi Arabia). Assisted by Wagner Pina.",
+          "goal": false
+        },
+        {
+          "min": "48'",
+          "text": "Willy Semedo (Cabo Verde) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "48'",
+          "text": "Foul by Sultan Mandash (Saudi Arabia).",
+          "goal": false
+        },
+        {
+          "min": "47'",
+          "text": "Attempt missed. Abdulelah Al Amri (Saudi Arabia) header from the centre of the box misses to the left following a corner.",
+          "goal": false
+        },
+        {
+          "min": "46'",
+          "text": "Corner, Saudi Arabia. Conceded by João Paulo.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Second Half begins Cabo Verde 0, Saudi Arabia 0.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Substitution, Saudi Arabia. Musab Al Juwayr replaces Abdullah Al Khaibari.",
+          "goal": false
+        },
+        {
+          "min": "45'+7'",
+          "text": "First Half ends, Cabo Verde 0, Saudi Arabia 0.",
+          "goal": false
+        },
+        {
+          "min": "45'+4'",
+          "text": "Attempt blocked. Saud Abdulhamid (Saudi Arabia) right footed shot from outside the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "45'+3'",
+          "text": "Foul by Jamiro Monteiro (Cabo Verde).",
+          "goal": false
+        },
+        {
+          "min": "45'+3'",
+          "text": "Nasser Al Dawsari (Saudi Arabia) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "45'+2'",
+          "text": "Attempt saved. Mohamed Kanno (Saudi Arabia) header from the centre of the box is saved in the top centre of the goal by Vozinha (Cabo Verde). Assisted by Abdulelah Al Amri.",
+          "goal": false
+        },
+        {
+          "min": "45'+1'",
+          "text": "Fourth official has announced 6 minutes of added time.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "K. Pina",
+            "num": "6",
+            "pos": "M",
+            "value": "2"
+          },
+          "away": {
+            "name": "M. Abu Al-Shamat",
+            "num": "26",
+            "pos": "M",
+            "value": "1"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "D. Borges",
+            "num": "3",
+            "pos": "D",
+            "value": "57"
+          },
+          "away": {
+            "name": "N. Al-Dawsari",
+            "num": "6",
+            "pos": "M",
+            "value": "44"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "J. Paulo",
+            "num": "8",
+            "pos": "M",
+            "value": "10"
+          },
+          "away": {
+            "name": "S. Abdulhamid",
+            "num": "12",
+            "pos": "D",
+            "value": "13"
+          }
+        },
+        {
+          "label": "Saves",
+          "home": {
+            "name": "Vozinha",
+            "num": "1",
+            "pos": "G",
+            "value": "2"
+          },
+          "away": {
+            "name": "M. Al-Owais",
+            "num": "21",
+            "pos": "G",
+            "value": "2"
+          }
+        }
+      ],
+      "highlight": null,
+      "final": false,
+      "dv": 5
+    },
+    "760479": {
+      "venue": "Estadio Akron",
+      "stats": {
+        "home": {
+          "foulsCommitted": "12",
+          "yellowCards": "2",
+          "redCards": "0",
+          "offsides": "5",
+          "wonCorners": "1",
+          "saves": "0",
+          "possessionPct": "32.1",
+          "totalShots": "5",
+          "shotsOnTarget": "1",
+          "shotPct": "0.2",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "218",
+          "totalPasses": "283",
+          "passPct": "0.8",
+          "accurateCrosses": "1",
+          "totalCrosses": "16",
+          "crossPct": "0.1",
+          "totalLongBalls": "39",
+          "accurateLongBalls": "14",
+          "longballPct": "0.4",
+          "blockedShots": "1",
+          "effectiveTackles": "15",
+          "totalTackles": "24",
+          "tacklePct": "0.6",
+          "interceptions": "14",
+          "effectiveClearance": "13",
+          "totalClearance": "13"
+        },
+        "away": {
+          "foulsCommitted": "14",
+          "yellowCards": "1",
+          "redCards": "0",
+          "offsides": "1",
+          "wonCorners": "6",
+          "saves": "2",
+          "possessionPct": "67.9",
+          "totalShots": "6",
+          "shotsOnTarget": "1",
+          "shotPct": "0.2",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "545",
+          "totalPasses": "612",
+          "passPct": "0.9",
+          "accurateCrosses": "3",
+          "totalCrosses": "12",
+          "crossPct": "0.3",
+          "totalLongBalls": "31",
+          "accurateLongBalls": "15",
+          "longballPct": "0.5",
+          "blockedShots": "1",
+          "effectiveTackles": "10",
+          "totalTackles": "17",
+          "tacklePct": "0.6",
+          "interceptions": "9",
+          "effectiveClearance": "21",
+          "totalClearance": "21"
+        }
+      },
+      "events": [
+        {
+          "kind": "Goal",
+          "min": "42'",
+          "side": "away",
+          "player": "Goal! Uruguay 0, Spain 1. Álex Baena"
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "home",
+          "player": "Substitution, Uruguay. Nicolás de la Cruz replaces Manuel Ugarte because of an injury."
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "home",
+          "player": "Substitution, Uruguay. Sergio Rochet replaces Fernando Muslera."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "46'",
+          "side": "away",
+          "player": "Álex Baena"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "54'",
+          "side": "home",
+          "player": "Juan Manuel Sanabria"
+        },
+        {
+          "kind": "Substitution",
+          "min": "57'",
+          "side": "home",
+          "player": "Substitution, Uruguay. Federico Viñas replaces Federico Valverde."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "58'",
+          "side": "home",
+          "player": "Guillermo Varela"
+        },
+        {
+          "kind": "Substitution",
+          "min": "60'",
+          "side": "away",
+          "player": "Substitution, Spain. Fabián Ruiz replaces Pedri."
+        },
+        {
+          "kind": "Substitution",
+          "min": "60'",
+          "side": "away",
+          "player": "Substitution, Spain. Dani Olmo replaces Mikel Merino."
+        },
+        {
+          "kind": "Substitution",
+          "min": "66'",
+          "side": "away",
+          "player": "Substitution, Spain. Yéremy Pino replaces Álex Baena."
+        },
+        {
+          "kind": "Substitution",
+          "min": "70'",
+          "side": "home",
+          "player": "Substitution, Uruguay. Brian Rodríguez replaces Juan Manuel Sanabria."
+        },
+        {
+          "kind": "Substitution",
+          "min": "76'",
+          "side": "away",
+          "player": "Substitution, Spain. Nico Williams replaces Lamine Yamal."
+        },
+        {
+          "kind": "Substitution",
+          "min": "76'",
+          "side": "away",
+          "player": "Substitution, Spain. Ferran Torres replaces Mikel Oyarzabal."
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Fernando Muslera",
+            "short": "F. Muslera",
+            "num": "23",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Mathías Olivera",
+            "short": "M. Olivera",
+            "num": "16",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Sebastián Cáceres",
+            "short": "S. Cáceres",
+            "num": "3",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Manuel Ugarte",
+            "short": "M. Ugarte",
+            "num": "5",
+            "pos": "DM",
+            "place": "4"
+          },
+          {
+            "name": "Juan Manuel Sanabria",
+            "short": "J. Sanabria",
+            "num": "25",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Guillermo Varela",
+            "short": "G. Varela",
+            "num": "13",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Federico Valverde",
+            "short": "F. Valverde",
+            "num": "8",
+            "pos": "CM-L",
+            "place": "10"
+          },
+          {
+            "name": "Rodrigo Bentancur",
+            "short": "R. Bentancur",
+            "num": "6",
+            "pos": "CM-R",
+            "place": "8"
+          },
+          {
+            "name": "Maxi Araújo",
+            "short": "M. Araújo",
+            "num": "20",
+            "pos": "LM",
+            "place": "11"
+          },
+          {
+            "name": "Agustín Canobbio",
+            "short": "A. Canobbio",
+            "num": "14",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Darwin Núñez",
+            "short": "D. Núñez",
+            "num": "9",
+            "pos": "F",
+            "place": "9"
+          }
+        ],
+        "away": [
+          {
+            "name": "Unai Simón",
+            "short": "U. Simón",
+            "num": "23",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Aymeric Laporte",
+            "short": "A. Laporte",
+            "num": "14",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Pau Cubarsí",
+            "short": "P. Cubarsí",
+            "num": "22",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Marc Cucurella",
+            "short": "M. Cucurella",
+            "num": "24",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Marcos Llorente",
+            "short": "M. Llorente",
+            "num": "5",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Mikel Merino",
+            "short": "M. Merino",
+            "num": "6",
+            "pos": "AM",
+            "place": "10"
+          },
+          {
+            "name": "Rodri",
+            "short": "Rodri",
+            "num": "16",
+            "pos": "LM",
+            "place": "4"
+          },
+          {
+            "name": "Pedri ",
+            "short": "Pedri ",
+            "num": "20",
+            "pos": "RM",
+            "place": "8"
+          },
+          {
+            "name": "Mikel Oyarzabal",
+            "short": "M. Oyarzabal",
+            "num": "21",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Álex Baena",
+            "short": "Á. Baena",
+            "num": "15",
+            "pos": "AM-L",
+            "place": "11"
+          },
+          {
+            "name": "Lamine Yamal",
+            "short": "L. Yamal",
+            "num": "19",
+            "pos": "AM-R",
+            "place": "7"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Ronald Araújo",
+            "short": "R. Araújo",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Santiago Bueno",
+            "short": "S. Bueno",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Federico Viñas",
+            "short": "F. Viñas",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Santiago Mele",
+            "short": "S. Mele",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Brian Rodríguez",
+            "short": "B. Rodríguez",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nicolás de la Cruz",
+            "short": "N. de la Cruz",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Rodrigo Aguirre",
+            "short": "R. Aguirre",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Giorgian de Arrascaeta",
+            "short": "G. de Arrascaeta",
+            "num": "10",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Matías Viña",
+            "short": "M. Viña",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Sergio Rochet",
+            "short": "S. Rochet",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "José María Giménez",
+            "short": "J. Giménez",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Rodrigo Zalazar",
+            "short": "R. Zalazar",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Facundo Pellistri",
+            "short": "F. Pellistri",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Emiliano Martínez",
+            "short": "E. Martínez",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Joaquín Piquerez",
+            "short": "J. Piquerez",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Yéremy Pino",
+            "short": "Y. Pino",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Eric García",
+            "short": "E. García",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Marc Pubill",
+            "short": "M. Pubill",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nico Williams",
+            "short": "N. Williams",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Dani Olmo",
+            "short": "D. Olmo",
+            "num": "10",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Alejandro Grimaldo",
+            "short": "A. Grimaldo",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Víctor Muñoz",
+            "short": "V. Muñoz",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gavi ",
+            "short": "Gavi ",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Joan García",
+            "short": "J. García",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Martín Zubimendi",
+            "short": "M. Zubimendi",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ferran Torres",
+            "short": "F. Torres",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Borja Iglesias",
+            "short": "B. Iglesias",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "David Raya",
+            "short": "D. Raya",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Pedro Porro",
+            "short": "P. Porro",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Fabián Ruiz",
+            "short": "F. Ruiz",
+            "num": "8",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-1-4-1",
+        "away": "4-2-3-1"
+      },
+      "commentary": [
+        {
+          "min": "90'",
+          "text": "Dani Olmo (Spain) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Foul by Federico Viñas (Uruguay).",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Delay in match because of an injury Yéremy Pino (Spain).",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Ferran Torres (Spain) hits the bar with a right footed shot from the centre of the box. Assisted by Fabián Ruiz.",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Attempt saved. Nicolás de la Cruz (Uruguay) right footed shot from outside the box is saved in the bottom left corner by Unai Simón (Spain). Assisted by Darwin Núñez.",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Offside, Uruguay. Darwin Núñez is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Ferran Torres (Spain) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Foul by Mathías Olivera (Uruguay).",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Corner, Uruguay. Conceded by Unai Simón.",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Marc Cucurella (Spain) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Foul by Agustín Canobbio (Uruguay).",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Foul by Rodri (Spain).",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Federico Viñas (Uruguay) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Offside, Uruguay. Agustín Canobbio is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Foul by Rodri (Spain).",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Rodrigo Bentancur (Uruguay) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Aymeric Laporte (Spain) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Foul by Federico Viñas (Uruguay).",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Substitution, Spain. Ferran Torres replaces Mikel Oyarzabal.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Substitution, Spain. Nico Williams replaces Lamine Yamal.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Dani Olmo (Spain) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Foul by Mathías Olivera (Uruguay).",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Foul by Dani Olmo (Spain).",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Nicolás de la Cruz (Uruguay) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Foul by Rodri (Spain).",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Federico Viñas (Uruguay) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "70'",
+          "text": "Substitution, Uruguay. Brian Rodríguez replaces Juan Manuel Sanabria.",
+          "goal": false
+        },
+        {
+          "min": "70'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Substitution, Spain. Yéremy Pino replaces Álex Baena.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Fabián Ruiz (Spain) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Foul by Nicolás de la Cruz (Uruguay).",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Attempt missed. Federico Viñas (Uruguay) left footed shot from the left side of the six yard box is high and wide to the left. Assisted by Maxi Araújo with a cross.",
+          "goal": false
+        },
+        {
+          "min": "63'",
+          "text": "Attempt missed. Dani Olmo (Spain) right footed shot from the centre of the box is close, but misses the top right corner. Assisted by Lamine Yamal.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Substitution, Spain. Dani Olmo replaces Mikel Merino.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Substitution, Spain. Fabián Ruiz replaces Pedri.",
+          "goal": false
+        },
+        {
+          "min": "59'",
+          "text": "Mikel Merino (Spain) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "59'",
+          "text": "Foul by Rodrigo Bentancur (Uruguay).",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Guillermo Varela (Uruguay) is shown the yellow card.",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Corner, Spain. Conceded by Sebastián Cáceres.",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Handball by Federico Viñas (Uruguay).",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Substitution, Uruguay. Federico Viñas replaces Federico Valverde.",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Foul by Pau Cubarsí (Spain).",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Maxi Araújo (Uruguay) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "54'",
+          "text": "Juan Manuel Sanabria (Uruguay) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "54'",
+          "text": "Lamine Yamal (Spain) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "54'",
+          "text": "Foul by Juan Manuel Sanabria (Uruguay).",
+          "goal": false
+        },
+        {
+          "min": "48'",
+          "text": "Offside, Uruguay. Maxi Araújo is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "46'",
+          "text": "Álex Baena (Spain) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "46'",
+          "text": "Foul by Álex Baena (Spain).",
+          "goal": false
+        },
+        {
+          "min": "46'",
+          "text": "Agustín Canobbio (Uruguay) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "46'",
+          "text": "Foul by Álex Baena (Spain).",
+          "goal": false
+        },
+        {
+          "min": "46'",
+          "text": "Agustín Canobbio (Uruguay) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Second Half begins Uruguay 0, Spain 1.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Substitution, Uruguay. Sergio Rochet replaces Fernando Muslera.",
+          "goal": false
+        },
+        {
+          "min": "45'+9'",
+          "text": "First Half ends, Uruguay 0, Spain 1.",
+          "goal": false
+        },
+        {
+          "min": "45'+8'",
+          "text": "Attempt missed. Mikel Oyarzabal (Spain) left footed shot from outside the box misses to the right. Assisted by Aymeric Laporte.",
+          "goal": false
+        },
+        {
+          "min": "45'+6'",
+          "text": "Foul by Mikel Merino (Spain).",
+          "goal": false
+        },
+        {
+          "min": "45'+6'",
+          "text": "Maxi Araújo (Uruguay) wins a free kick on the left wing.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "F. Viñas",
+            "num": "21",
+            "pos": "F",
+            "value": "1"
+          },
+          "away": {
+            "name": "P. Cubarsí",
+            "num": "22",
+            "pos": "D",
+            "value": "1"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "M. Olivera",
+            "num": "16",
+            "pos": "D",
+            "value": "38"
+          },
+          "away": {
+            "name": "Rodri",
+            "num": "16",
+            "pos": "M",
+            "value": "98"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "R. Bentancur",
+            "num": "6",
+            "pos": "M",
+            "value": "11"
+          },
+          "away": {
+            "name": "A. Laporte",
+            "num": "14",
+            "pos": "D",
+            "value": "11"
+          }
+        },
+        {
+          "label": "Saves",
+          "away": {
+            "name": "U. Simón",
+            "num": "23",
+            "pos": "G",
+            "value": "2"
+          }
+        }
+      ],
+      "highlight": null,
+      "final": false,
       "dv": 5
     }
   }

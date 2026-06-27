@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T23:50:37.806Z",
+  "lastUpdated": "2026-06-27T01:56:02.672Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -879,36 +879,44 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 165,
-        "away": 170,
-        "draw": 245,
+        "home": 150,
+        "away": 180,
+        "draw": 250,
         "total": 2.5,
         "book": "DraftKings"
       },
-      "status": "scheduled",
+      "status": "live",
       "id": "760478",
       "date": "2026-06-27T00:00Z",
-      "venue": "NRG Stadium"
+      "venue": "NRG Stadium",
+      "clock": 5400,
+      "displayClock": "90'+2'",
+      "detail": "90'+2'",
+      "period": 2
     },
     {
       "stage": "group",
       "home": "Uruguay",
       "away": "Spain",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 500,
-        "away": -150,
+        "home": 475,
+        "away": -145,
         "draw": 265,
         "total": 2.5,
         "book": "DraftKings"
       },
-      "status": "scheduled",
+      "status": "live",
       "id": "760479",
       "date": "2026-06-27T00:00Z",
-      "venue": "Estadio Akron"
+      "venue": "Estadio Akron",
+      "clock": 5400,
+      "displayClock": "90'+1'",
+      "detail": "90'+1'",
+      "period": 2
     },
     {
       "stage": "group",
@@ -919,8 +927,8 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 165,
-        "away": 245,
+        "home": 170,
+        "away": 240,
         "draw": 165,
         "total": 1.5,
         "book": "DraftKings"
@@ -979,8 +987,8 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 1300,
-        "away": -525,
+        "home": 1400,
+        "away": -550,
         "draw": 650,
         "total": 3.5,
         "book": "DraftKings"
@@ -1019,9 +1027,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -135,
-        "away": 350,
-        "draw": 300,
+        "home": -140,
+        "away": 360,
+        "draw": 310,
         "total": 2.5,
         "book": "DraftKings"
       },

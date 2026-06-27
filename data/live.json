@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27T20:07:26.931Z",
+  "lastUpdated": "2026-06-27T21:18:45.694Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -935,16 +935,20 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -120,
-        "away": 425,
-        "draw": 225,
+        "home": -125,
+        "away": 450,
+        "draw": 230,
         "total": 2.5,
         "book": "DraftKings"
       },
-      "status": "scheduled",
+      "status": "live",
       "id": "760480",
       "date": "2026-06-27T21:00Z",
-      "venue": "Lincoln Financial Field"
+      "venue": "Lincoln Financial Field",
+      "clock": 1020,
+      "displayClock": "17'",
+      "detail": "17'",
+      "period": 1
     },
     {
       "stage": "group",
@@ -961,10 +965,14 @@
         "total": 3.5,
         "book": "DraftKings"
       },
-      "status": "scheduled",
+      "status": "live",
       "id": "760485",
       "date": "2026-06-27T21:00Z",
-      "venue": "MetLife Stadium"
+      "venue": "MetLife Stadium",
+      "clock": 1080,
+      "displayClock": "18'",
+      "detail": "18'",
+      "period": 1
     },
     {
       "stage": "group",
@@ -975,8 +983,8 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 245,
-        "away": 105,
+        "home": 255,
+        "away": 100,
         "draw": 280,
         "total": 2.5,
         "book": "DraftKings"
@@ -995,8 +1003,8 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -140,
-        "away": 400,
+        "home": -145,
+        "away": 425,
         "draw": 280,
         "total": 2.5,
         "book": "DraftKings"
@@ -1015,9 +1023,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 255,
+        "home": 265,
         "away": 275,
-        "draw": 105,
+        "draw": 100,
         "total": 1.5,
         "book": "DraftKings"
       },
@@ -1076,8 +1084,8 @@
       "awayWinner": false,
       "odds": {
         "home": -140,
-        "away": 400,
-        "draw": 285,
+        "away": 425,
+        "draw": 290,
         "total": 2.5,
         "book": "DraftKings"
       },

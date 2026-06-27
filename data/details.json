@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27T20:07:26.980Z",
+  "lastUpdated": "2026-06-27T21:18:45.793Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -59656,6 +59656,1159 @@
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0626/ss_20260626_222048378_3576830/ss_20260626_222048378_3576830/playlist.m3u8"
       },
       "final": true,
+      "dv": 5
+    },
+    "760480": {
+      "venue": "Lincoln Financial Field",
+      "stats": {
+        "home": {
+          "foulsCommitted": "0",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "0",
+          "saves": "0",
+          "possessionPct": "50.2",
+          "totalShots": "1",
+          "shotsOnTarget": "0",
+          "shotPct": "0.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "111",
+          "totalPasses": "118",
+          "passPct": "0.9",
+          "accurateCrosses": "0",
+          "totalCrosses": "3",
+          "crossPct": "0.0",
+          "totalLongBalls": "6",
+          "accurateLongBalls": "3",
+          "longballPct": "0.5",
+          "blockedShots": "0",
+          "effectiveTackles": "1",
+          "totalTackles": "2",
+          "tacklePct": "0.5",
+          "interceptions": "1",
+          "effectiveClearance": "3",
+          "totalClearance": "3"
+        },
+        "away": {
+          "foulsCommitted": "3",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "0",
+          "saves": "0",
+          "possessionPct": "49.8",
+          "totalShots": "0",
+          "shotsOnTarget": "0",
+          "shotPct": "0.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "108",
+          "totalPasses": "119",
+          "passPct": "0.9",
+          "accurateCrosses": "0",
+          "totalCrosses": "0",
+          "crossPct": "0.0",
+          "totalLongBalls": "6",
+          "accurateLongBalls": "1",
+          "longballPct": "0.2",
+          "blockedShots": "0",
+          "effectiveTackles": "0",
+          "totalTackles": "2",
+          "tacklePct": "0.0",
+          "interceptions": "2",
+          "effectiveClearance": "2",
+          "totalClearance": "2"
+        }
+      },
+      "events": [],
+      "lineups": {
+        "home": [
+          {
+            "name": "Dominik Livakovic",
+            "short": "D. Livakovic",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Marin Pongracic",
+            "short": "M. Pongracic",
+            "num": "3",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Josip Sutalo",
+            "short": "J. Sutalo",
+            "num": "6",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Ivan Perisic",
+            "short": "I. Perisic",
+            "num": "14",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Josip Stanisic",
+            "short": "J. Stanisic",
+            "num": "2",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Nikola Vlasic",
+            "short": "N. Vlasic",
+            "num": "13",
+            "pos": "AM",
+            "place": "10"
+          },
+          {
+            "name": "Mateo Kovacic",
+            "short": "M. Kovacic",
+            "num": "8",
+            "pos": "LM",
+            "place": "4"
+          },
+          {
+            "name": "Luka Modric",
+            "short": "L. Modric",
+            "num": "10",
+            "pos": "RM",
+            "place": "8"
+          },
+          {
+            "name": "Ante Budimir",
+            "short": "A. Budimir",
+            "num": "11",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Martin Baturina",
+            "short": "M. Baturina",
+            "num": "16",
+            "pos": "AM-L",
+            "place": "11"
+          },
+          {
+            "name": "Petar Sucic",
+            "short": "P. Sucic",
+            "num": "17",
+            "pos": "AM-R",
+            "place": "7"
+          }
+        ],
+        "away": [
+          {
+            "name": "Benjamin Asare",
+            "short": "B. Asare",
+            "num": "16",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Derrick Luckassen",
+            "short": "D. Luckassen",
+            "num": "23",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Jonas Adjetey",
+            "short": "J. Adjetey",
+            "num": "4",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Thomas Partey",
+            "short": "T. Partey",
+            "num": "5",
+            "pos": "DM",
+            "place": "4"
+          },
+          {
+            "name": "Gideon Mensah",
+            "short": "G. Mensah",
+            "num": "14",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Marvin Senaya",
+            "short": "M. Senaya",
+            "num": "26",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Kwasi Sibo",
+            "short": "K. Sibo",
+            "num": "8",
+            "pos": "CM-L",
+            "place": "10"
+          },
+          {
+            "name": "Elisha Owusu",
+            "short": "E. Owusu",
+            "num": "15",
+            "pos": "CM-R",
+            "place": "8"
+          },
+          {
+            "name": "Kamaldeen Sulemana",
+            "short": "K. Sulemana",
+            "num": "22",
+            "pos": "LM",
+            "place": "11"
+          },
+          {
+            "name": "Antoine Semenyo",
+            "short": "A. Semenyo",
+            "num": "11",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Jordan Ayew",
+            "short": "J. Ayew",
+            "num": "9",
+            "pos": "F",
+            "place": "9"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Duje Caleta-Car",
+            "short": "D. Caleta-Car",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Martin Erlic",
+            "short": "M. Erlic",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mario Pasalic",
+            "short": "M. Pasalic",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Marco Pasalic",
+            "short": "M. Pasalic",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Igor Matanovic",
+            "short": "I. Matanovic",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kristijan Jakic",
+            "short": "K. Jakic",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nikola Moro",
+            "short": "N. Moro",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Andrej Kramaric",
+            "short": "A. Kramaric",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Luka Sucic",
+            "short": "L. Sucic",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Dominik Kotarski",
+            "short": "D. Kotarski",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Josko Gvardiol",
+            "short": "J. Gvardiol",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ivor Pandur",
+            "short": "I. Pandur",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Luka Vuskovic",
+            "short": "L. Vuskovic",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Petar Musa",
+            "short": "P. Musa",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Toni Fruk",
+            "short": "T. Fruk",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Abdul Mumin",
+            "short": "A. Mumin",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Joseph Anang",
+            "short": "J. Anang",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jerome Opoku",
+            "short": "J. Opoku",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Brandon Thomas-Asante",
+            "short": "B. Thomas-Asante",
+            "num": "10",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Iñaki Williams",
+            "short": "I. Williams",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Caleb Yirenkyi",
+            "short": "C. Yirenkyi",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Fatawu Issahaku",
+            "short": "F. Issahaku",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Alidu Seidu",
+            "short": "A. Seidu",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Augustine Boakye",
+            "short": "A. Boakye",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Christopher Bonsu Baah",
+            "short": "C. Baah",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Lawrence Ati Zigi",
+            "short": "L. Zigi",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kojo Peprah Oppong",
+            "short": "K. Oppong",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ernest Nuamah",
+            "short": "E. Nuamah",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Prince Adu",
+            "short": "P. Adu",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Baba Rahman",
+            "short": "B. Rahman",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-2-3-1",
+        "away": "4-1-4-1"
+      },
+      "commentary": [
+        {
+          "min": "17'",
+          "text": "Nikola Vlasic (Croatia) hits the woodwork with a right footed shot from outside the box following a fast break.",
+          "goal": false
+        },
+        {
+          "min": "8'",
+          "text": "Foul by Elisha Owusu (Ghana).",
+          "goal": false
+        },
+        {
+          "min": "8'",
+          "text": "Martin Baturina (Croatia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "4'",
+          "text": "Petar Sucic (Croatia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "4'",
+          "text": "Foul by Kamaldeen Sulemana (Ghana).",
+          "goal": false
+        },
+        {
+          "min": "1'",
+          "text": "Martin Baturina (Croatia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "1'",
+          "text": "Foul by Marvin Senaya (Ghana).",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "First Half begins.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "Lineups are announced and players are warming up.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "N. Vlasic",
+            "num": "13",
+            "pos": "M",
+            "value": "1"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "J. Sutalo",
+            "num": "6",
+            "pos": "D",
+            "value": "24"
+          },
+          "away": {
+            "name": "T. Partey",
+            "num": "5",
+            "pos": "M",
+            "value": "26"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "J. Sutalo",
+            "num": "6",
+            "pos": "D",
+            "value": "3"
+          },
+          "away": {
+            "name": "G. Mensah",
+            "num": "14",
+            "pos": "D",
+            "value": "2"
+          }
+        }
+      ],
+      "highlight": null,
+      "final": false,
+      "dv": 5
+    },
+    "760485": {
+      "venue": "MetLife Stadium",
+      "stats": {
+        "home": {
+          "foulsCommitted": "4",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "0",
+          "saves": "2",
+          "possessionPct": "29.2",
+          "totalShots": "1",
+          "shotsOnTarget": "1",
+          "shotPct": "1.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "35",
+          "totalPasses": "48",
+          "passPct": "0.7",
+          "accurateCrosses": "0",
+          "totalCrosses": "1",
+          "crossPct": "0.0",
+          "totalLongBalls": "8",
+          "accurateLongBalls": "4",
+          "longballPct": "0.5",
+          "blockedShots": "0",
+          "effectiveTackles": "1",
+          "totalTackles": "3",
+          "tacklePct": "0.3",
+          "interceptions": "0",
+          "effectiveClearance": "8",
+          "totalClearance": "8"
+        },
+        "away": {
+          "foulsCommitted": "2",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "3",
+          "saves": "1",
+          "possessionPct": "70.8",
+          "totalShots": "3",
+          "shotsOnTarget": "2",
+          "shotPct": "0.7",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "110",
+          "totalPasses": "122",
+          "passPct": "0.9",
+          "accurateCrosses": "0",
+          "totalCrosses": "3",
+          "crossPct": "0.0",
+          "totalLongBalls": "6",
+          "accurateLongBalls": "3",
+          "longballPct": "0.5",
+          "blockedShots": "0",
+          "effectiveTackles": "2",
+          "totalTackles": "3",
+          "tacklePct": "0.7",
+          "interceptions": "2",
+          "effectiveClearance": "4",
+          "totalClearance": "4"
+        }
+      },
+      "events": [],
+      "lineups": {
+        "home": [
+          {
+            "name": "Orlando Mosquera",
+            "short": "O. Mosquera",
+            "num": "22",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "José Córdoba",
+            "short": "J. Córdoba",
+            "num": "3",
+            "pos": "CD",
+            "place": "5"
+          },
+          {
+            "name": "Andrés Andrade",
+            "short": "A. Andrade",
+            "num": "16",
+            "pos": "CD-L",
+            "place": "4"
+          },
+          {
+            "name": "Fidel Escobar",
+            "short": "F. Escobar",
+            "num": "4",
+            "pos": "CD-R",
+            "place": "6"
+          },
+          {
+            "name": "Jorge Gutiérrez",
+            "short": "J. Gutiérrez",
+            "num": "26",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Amir Murillo",
+            "short": "A. Murillo",
+            "num": "23",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Carlos Harvey",
+            "short": "C. Harvey",
+            "num": "14",
+            "pos": "CM-L",
+            "place": "10"
+          },
+          {
+            "name": "Édgar Yoel Bárcenas",
+            "short": "É. Bárcenas",
+            "num": "11",
+            "pos": "CM-R",
+            "place": "8"
+          },
+          {
+            "name": "José Luis Rodríguez",
+            "short": "J. Rodríguez",
+            "num": "7",
+            "pos": "LM",
+            "place": "11"
+          },
+          {
+            "name": "Cristian Martínez",
+            "short": "C. Martínez",
+            "num": "6",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Tomás Rodríguez",
+            "short": "T. Rodríguez",
+            "num": "9",
+            "pos": "F",
+            "place": "9"
+          }
+        ],
+        "away": [
+          {
+            "name": "Jordan Pickford",
+            "short": "J. Pickford",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Marc Guéhi",
+            "short": "M. Guéhi",
+            "num": "6",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Ezri Konsa",
+            "short": "E. Konsa",
+            "num": "2",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Nico O'Reilly",
+            "short": "N. O'Reilly",
+            "num": "3",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Jarell Quansah",
+            "short": "J. Quansah",
+            "num": "26",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Morgan Rogers",
+            "short": "M. Rogers",
+            "num": "17",
+            "pos": "AM",
+            "place": "10"
+          },
+          {
+            "name": "Jude Bellingham",
+            "short": "J. Bellingham",
+            "num": "10",
+            "pos": "LM",
+            "place": "4"
+          },
+          {
+            "name": "Elliot Anderson",
+            "short": "E. Anderson",
+            "num": "8",
+            "pos": "RM",
+            "place": "8"
+          },
+          {
+            "name": "Harry Kane",
+            "short": "H. Kane",
+            "num": "9",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Marcus Rashford",
+            "short": "M. Rashford",
+            "num": "11",
+            "pos": "AM-L",
+            "place": "11"
+          },
+          {
+            "name": "Bukayo Saka",
+            "short": "B. Saka",
+            "num": "7",
+            "pos": "AM-R",
+            "place": "7"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Ismael Díaz",
+            "short": "I. Díaz",
+            "num": "10",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Aníbal Godoy",
+            "short": "A. Godoy",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Roderick Miller",
+            "short": "R. Miller",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Alberto Quintero",
+            "short": "A. Quintero",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "César Samudio",
+            "short": "C. Samudio",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jiovany Ramos",
+            "short": "J. Ramos",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Adalberto Carrasquilla",
+            "short": "A. Carrasquilla",
+            "num": "8",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Cecilio Waterman",
+            "short": "C. Waterman",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Luis Mejía",
+            "short": "L. Mejía",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Éric Davis",
+            "short": "É. Davis",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Azarias Londoño",
+            "short": "A. Londoño",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Edgardo Fariña",
+            "short": "E. Fariña",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "José Fajardo",
+            "short": "J. Fajardo",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "César Blackman",
+            "short": "C. Blackman",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "César Yanis",
+            "short": "C. Yanis",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "John Stones",
+            "short": "J. Stones",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kobbie Mainoo",
+            "short": "K. Mainoo",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Dean Henderson",
+            "short": "D. Henderson",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Dan Burn",
+            "short": "D. Burn",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Noni Madueke",
+            "short": "N. Madueke",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Anthony Gordon",
+            "short": "A. Gordon",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Declan Rice",
+            "short": "D. Rice",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Djed Spence",
+            "short": "D. Spence",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "James Trafford",
+            "short": "J. Trafford",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ivan Toney",
+            "short": "I. Toney",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Eberechi Eze",
+            "short": "E. Eze",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Trevoh Chalobah",
+            "short": "T. Chalobah",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ollie Watkins",
+            "short": "O. Watkins",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jordan Henderson",
+            "short": "J. Henderson",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "5-4-1",
+        "away": "4-2-3-1"
+      },
+      "commentary": [
+        {
+          "min": "17'",
+          "text": "Elliot Anderson (England) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "15'",
+          "text": "Marc Guéhi (England) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "15'",
+          "text": "Foul by Tomás Rodríguez (Panama).",
+          "goal": false
+        },
+        {
+          "min": "15'",
+          "text": "Attempt saved. Bukayo Saka (England) left footed shot from the right side of the box is saved in the bottom right corner by Orlando Mosquera (Panama). Assisted by Jude Bellingham.",
+          "goal": false
+        },
+        {
+          "min": "14'",
+          "text": "Foul by Bukayo Saka (England).",
+          "goal": false
+        },
+        {
+          "min": "14'",
+          "text": "Jorge Gutiérrez (Panama) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "11'",
+          "text": "Jude Bellingham (England) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "11'",
+          "text": "Foul by Cristian Martínez (Panama).",
+          "goal": false
+        },
+        {
+          "min": "10'",
+          "text": "Foul by Ezri Konsa (England).",
+          "goal": false
+        },
+        {
+          "min": "10'",
+          "text": "Yoel Bárcenas (Panama) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "10'",
+          "text": "Corner, England. Conceded by Jorge Gutiérrez.",
+          "goal": false
+        },
+        {
+          "min": "8'",
+          "text": "Attempt missed. Bukayo Saka (England) right footed shot from the centre of the box is high and wide to the right following a corner.",
+          "goal": false
+        },
+        {
+          "min": "8'",
+          "text": "Corner, England. Conceded by Orlando Mosquera.",
+          "goal": false
+        },
+        {
+          "min": "8'",
+          "text": "Attempt saved. Marcus Rashford (England) right footed shot from outside the box is saved in the bottom left corner by Orlando Mosquera (Panama). Assisted by Jude Bellingham.",
+          "goal": false
+        },
+        {
+          "min": "7'",
+          "text": "Jude Bellingham (England) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "7'",
+          "text": "Foul by Tomás Rodríguez (Panama).",
+          "goal": false
+        },
+        {
+          "min": "5'",
+          "text": "Corner, England. Conceded by José Córdoba.",
+          "goal": false
+        },
+        {
+          "min": "3'",
+          "text": "Bukayo Saka (England) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "3'",
+          "text": "Foul by Jorge Gutiérrez (Panama).",
+          "goal": false
+        },
+        {
+          "min": "1'",
+          "text": "Attempt saved. Tomás Rodríguez (Panama) right footed shot from outside the box is saved in the centre of the goal by Jordan Pickford (England).",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "First Half begins.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "Lineups are announced and players are warming up.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "T. Rodríguez",
+            "num": "9",
+            "pos": "F",
+            "value": "1"
+          },
+          "away": {
+            "name": "B. Saka",
+            "num": "7",
+            "pos": "F",
+            "value": "2"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "J. Córdoba",
+            "num": "3",
+            "pos": "D",
+            "value": "5"
+          },
+          "away": {
+            "name": "E. Anderson",
+            "num": "8",
+            "pos": "M",
+            "value": "24"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "J. Gutiérrez",
+            "num": "26",
+            "pos": "D",
+            "value": "4"
+          },
+          "away": {
+            "name": "M. Guéhi",
+            "num": "6",
+            "pos": "D",
+            "value": "4"
+          }
+        },
+        {
+          "label": "Saves",
+          "home": {
+            "name": "O. Mosquera",
+            "num": "22",
+            "pos": "G",
+            "value": "2"
+          },
+          "away": {
+            "name": "J. Pickford",
+            "num": "1",
+            "pos": "G",
+            "value": "1"
+          }
+        }
+      ],
+      "highlight": null,
+      "final": false,
       "dv": 5
     }
   }

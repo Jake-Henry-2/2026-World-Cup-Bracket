@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27T22:33:10.836Z",
+  "lastUpdated": "2026-06-27T23:37:52.478Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -59662,64 +59662,64 @@
       "venue": "Lincoln Financial Field",
       "stats": {
         "home": {
-          "foulsCommitted": "5",
+          "foulsCommitted": "9",
           "yellowCards": "1",
           "redCards": "0",
-          "offsides": "0",
-          "wonCorners": "0",
+          "offsides": "1",
+          "wonCorners": "3",
           "saves": "0",
-          "possessionPct": "52.8",
-          "totalShots": "5",
-          "shotsOnTarget": "2",
-          "shotPct": "0.4",
+          "possessionPct": "53.3",
+          "totalShots": "8",
+          "shotsOnTarget": "4",
+          "shotPct": "0.5",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "403",
-          "totalPasses": "436",
+          "accuratePasses": "478",
+          "totalPasses": "523",
           "passPct": "0.9",
-          "accurateCrosses": "2",
-          "totalCrosses": "10",
+          "accurateCrosses": "3",
+          "totalCrosses": "15",
           "crossPct": "0.2",
-          "totalLongBalls": "23",
-          "accurateLongBalls": "10",
+          "totalLongBalls": "37",
+          "accurateLongBalls": "16",
           "longballPct": "0.4",
-          "blockedShots": "1",
-          "effectiveTackles": "5",
-          "totalTackles": "9",
+          "blockedShots": "2",
+          "effectiveTackles": "8",
+          "totalTackles": "14",
           "tacklePct": "0.6",
-          "interceptions": "2",
-          "effectiveClearance": "15",
-          "totalClearance": "15"
+          "interceptions": "4",
+          "effectiveClearance": "23",
+          "totalClearance": "23"
         },
         "away": {
-          "foulsCommitted": "9",
-          "yellowCards": "0",
+          "foulsCommitted": "13",
+          "yellowCards": "1",
           "redCards": "0",
-          "offsides": "1",
+          "offsides": "2",
           "wonCorners": "2",
-          "saves": "1",
-          "possessionPct": "47.2",
-          "totalShots": "3",
-          "shotsOnTarget": "0",
-          "shotPct": "0.0",
+          "saves": "2",
+          "possessionPct": "46.7",
+          "totalShots": "6",
+          "shotsOnTarget": "1",
+          "shotPct": "0.2",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "350",
-          "totalPasses": "384",
+          "accuratePasses": "402",
+          "totalPasses": "455",
           "passPct": "0.9",
-          "accurateCrosses": "2",
-          "totalCrosses": "11",
-          "crossPct": "0.2",
-          "totalLongBalls": "31",
-          "accurateLongBalls": "16",
+          "accurateCrosses": "3",
+          "totalCrosses": "12",
+          "crossPct": "0.3",
+          "totalLongBalls": "40",
+          "accurateLongBalls": "18",
           "longballPct": "0.5",
-          "blockedShots": "1",
-          "effectiveTackles": "6",
-          "totalTackles": "9",
-          "tacklePct": "0.7",
-          "interceptions": "9",
-          "effectiveClearance": "7",
-          "totalClearance": "7"
+          "blockedShots": "2",
+          "effectiveTackles": "7",
+          "totalTackles": "13",
+          "tacklePct": "0.5",
+          "interceptions": "10",
+          "effectiveClearance": "10",
+          "totalClearance": "10"
         }
       },
       "events": [
@@ -59763,7 +59763,49 @@
           "kind": "Substitution",
           "min": "71'",
           "side": "away",
-          "player": "Ernest Nuamah"
+          "player": "Substitution, Ghana. Ernest Nuamah replaces Kamaldeen Sulemana."
+        },
+        {
+          "kind": "Goal",
+          "min": "73'",
+          "side": "away",
+          "player": "Goal! Croatia 1, Ghana 1. Derrick Luckassen"
+        },
+        {
+          "kind": "Substitution",
+          "min": "78'",
+          "side": "home",
+          "player": "Substitution, Croatia. Mario Pasalic replaces Mateo Kovacic."
+        },
+        {
+          "kind": "Goal - Header",
+          "min": "83'",
+          "side": "home",
+          "player": "Goal! Croatia 2, Ghana 1. Nikola Vlasic"
+        },
+        {
+          "kind": "Substitution",
+          "min": "85'",
+          "side": "away",
+          "player": "Substitution, Ghana. Caleb Yirenkyi replaces Kwasi Sibo."
+        },
+        {
+          "kind": "Substitution",
+          "min": "88'",
+          "side": "home",
+          "player": "Substitution, Croatia. Josko Gvardiol replaces Nikola Vlasic."
+        },
+        {
+          "kind": "Substitution",
+          "min": "88'",
+          "side": "home",
+          "player": "Substitution, Croatia. Marco Pasalic replaces Martin Baturina."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "90'+4'",
+          "side": "away",
+          "player": "Kojo Peprah Oppong"
         }
       ],
       "lineups": {
@@ -60148,6 +60190,201 @@
       },
       "commentary": [
         {
+          "min": "",
+          "text": "Match ends, Croatia 2, Ghana 1.",
+          "goal": false
+        },
+        {
+          "min": "90'+8'",
+          "text": "Second Half ends, Croatia 2, Ghana 1.",
+          "goal": false
+        },
+        {
+          "min": "90'+7'",
+          "text": "Attempt missed. Abdul Fatawu (Ghana) left footed shot from the left side of the box is high and wide to the left. Assisted by Gideon Mensah.",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Corner, Croatia. Conceded by Marvin Senaya.",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Kojo Peprah Oppong (Ghana) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Igor Matanovic (Croatia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Foul by Kojo Peprah Oppong (Ghana).",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Attempt blocked. Marvin Senaya (Ghana) right footed shot from outside the box is blocked. Assisted by Ernest Nuamah.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Corner, Croatia. Conceded by Gideon Mensah.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Attempt blocked. Mario Pasalic (Croatia) left footed shot from outside the box is blocked. Assisted by Luka Modric.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Foul by Marin Pongracic (Croatia).",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Brandon Thomas-Asante (Ghana) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Josko Gvardiol (Croatia) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Foul by Marvin Senaya (Ghana).",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Fourth official has announced 7 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Petar Sucic (Croatia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Foul by Caleb Yirenkyi (Ghana).",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Offside, Ghana. Antoine Semenyo is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Offside, Croatia. Igor Matanovic is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Substitution, Croatia. Marco Pasalic replaces Martin Baturina.",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Substitution, Croatia. Josko Gvardiol replaces Nikola Vlasic.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Delay in match because of an injury Antoine Semenyo (Ghana).",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Substitution, Ghana. Caleb Yirenkyi replaces Kwasi Sibo.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Igor Matanovic (Croatia) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Foul by Kwasi Sibo (Ghana).",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Goal! Croatia 2, Ghana 1. Nikola Vlasic (Croatia) header from the centre of the box to the bottom left corner. Assisted by Luka Modric with a cross following a corner.",
+          "goal": true
+        },
+        {
+          "min": "82'",
+          "text": "Corner, Croatia. Conceded by Benjamin Asare.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Attempt saved. Mario Pasalic (Croatia) left footed shot from outside the box is saved in the top centre of the goal by Benjamin Asare (Ghana). Assisted by Martin Baturina.",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Foul by Martin Baturina (Croatia).",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Marvin Senaya (Ghana) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Foul by Nikola Vlasic (Croatia).",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Abdul Fatawu (Ghana) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Substitution, Croatia. Mario Pasalic replaces Mateo Kovacic.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "VAR Decision: Goal Croatia 1-1 Ghana (Derrick Luckassen).",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Goal! Croatia 1, Ghana 1. Derrick Luckassen (Ghana) left footed shot from very close range to the bottom right corner. Assisted by Ernest Nuamah with a cross following a set piece situation.Goal awarded following VAR Review.",
+          "goal": true
+        },
+        {
+          "min": "72'",
+          "text": "Foul by Marin Pongracic (Croatia).",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Thomas Partey (Ghana) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Substitution, Ghana. Ernest Nuamah replaces Kamaldeen Sulemana.",
+          "goal": false
+        },
+        {
           "min": "71'",
           "text": "Substitution, Ghana. Brandon Thomas-Asante replaces Jordan Ayew.",
           "goal": false
@@ -60251,155 +60488,558 @@
           "min": "45'",
           "text": "Second Half begins Croatia 1, Ghana 0.",
           "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "N. Vlasic",
+            "num": "13",
+            "pos": "M",
+            "value": "2"
+          },
+          "away": {
+            "name": "F. Issahaku",
+            "num": "7",
+            "pos": "F",
+            "value": "2"
+          }
         },
         {
-          "min": "45'",
-          "text": "Substitution, Ghana. Abdul Fatawu replaces Elisha Owusu.",
-          "goal": false
+          "label": "Accurate Passes",
+          "home": {
+            "name": "J. Sutalo",
+            "num": "6",
+            "pos": "D",
+            "value": "82"
+          },
+          "away": {
+            "name": "D. Luckassen",
+            "num": "23",
+            "pos": "D",
+            "value": "71"
+          }
         },
         {
-          "min": "45'",
-          "text": "Substitution, Ghana. Kojo Peprah Oppong replaces Jonas Adjetey.",
-          "goal": false
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "J. Sutalo",
+            "num": "6",
+            "pos": "D",
+            "value": "12"
+          },
+          "away": {
+            "name": "M. Senaya",
+            "num": "26",
+            "pos": "D",
+            "value": "11"
+          }
         },
         {
-          "min": "45'+4'",
-          "text": "First Half ends, Croatia 1, Ghana 0.",
-          "goal": false
+          "label": "Saves",
+          "away": {
+            "name": "B. Asare",
+            "num": "16",
+            "pos": "G",
+            "value": "2"
+          }
+        }
+      ],
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0627/dm_260627_COM_SOC_News_Croatia_fans_crash_Philadelphia_couples_wedding__20260627_GLOBAL_FIFA_WORLD_CUP/dm_260627_COM_SOC_News_Croatia_fans_crash_Philadelphia_couples_wedding__20260627_GLOBAL_FIFA_WORLD_CUP.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49195851/croatia-fans-crash-philadelphia-couple-wedding",
+        "headline": "Croatia fans crash Philadelphia couple's wedding",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0627/dm_260627_COM_SOC_News_Croatia_fans_crash_Philadelphia_couples_wedding__20260627_GLOBAL_FIFA_WORLD_CUP/dm_260627_COM_SOC_News_Croatia_fans_crash_Philadelphia_couples_wedding__20260627_GLOBAL_FIFA_WORLD_CUP_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0627/dm_260627_COM_SOC_News_Croatia_fans_crash_Philadelphia_couples_wedding__20260627_GLOBAL_FIFA_WORLD_CUP/dm_260627_COM_SOC_News_Croatia_fans_crash_Philadelphia_couples_wedding__20260627_GLOBAL_FIFA_WORLD_CUP/playlist.m3u8"
+      },
+      "final": true,
+      "dv": 5
+    },
+    "760481": {
+      "venue": "Hard Rock Stadium",
+      "stats": {
+        "home": {
+          "foulsCommitted": "1",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "1",
+          "wonCorners": "0",
+          "saves": "0",
+          "possessionPct": "44.9",
+          "totalShots": "2",
+          "shotsOnTarget": "0",
+          "shotPct": "0.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "18",
+          "totalPasses": "22",
+          "passPct": "0.8",
+          "accurateCrosses": "0",
+          "totalCrosses": "0",
+          "crossPct": "0.0",
+          "totalLongBalls": "4",
+          "accurateLongBalls": "1",
+          "longballPct": "0.3",
+          "blockedShots": "1",
+          "effectiveTackles": "0",
+          "totalTackles": "1",
+          "tacklePct": "0.0",
+          "interceptions": "1",
+          "effectiveClearance": "0",
+          "totalClearance": "0"
         },
+        "away": {
+          "foulsCommitted": "1",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "0",
+          "saves": "0",
+          "possessionPct": "55.1",
+          "totalShots": "1",
+          "shotsOnTarget": "0",
+          "shotPct": "0.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "24",
+          "totalPasses": "27",
+          "passPct": "0.9",
+          "accurateCrosses": "0",
+          "totalCrosses": "0",
+          "crossPct": "0.0",
+          "totalLongBalls": "3",
+          "accurateLongBalls": "3",
+          "longballPct": "1.0",
+          "blockedShots": "0",
+          "effectiveTackles": "0",
+          "totalTackles": "0",
+          "tacklePct": "0.0",
+          "interceptions": "0",
+          "effectiveClearance": "5",
+          "totalClearance": "5"
+        }
+      },
+      "events": [],
+      "lineups": {
+        "home": [
+          {
+            "name": "Camilo Vargas",
+            "short": "C. Vargas",
+            "num": "12",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Jhon Lucumí",
+            "short": "J. Lucumí",
+            "num": "3",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Davinson Sánchez",
+            "short": "D. Sánchez",
+            "num": "23",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Deiver Machado",
+            "short": "D. Machado",
+            "num": "22",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Santiago Arias",
+            "short": "S. Arias",
+            "num": "4",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Jefferson Lerma",
+            "short": "J. Lerma",
+            "num": "16",
+            "pos": "CM",
+            "place": "4"
+          },
+          {
+            "name": "Gustavo Puerta",
+            "short": "G. Puerta",
+            "num": "14",
+            "pos": "LM",
+            "place": "8"
+          },
+          {
+            "name": "Jhon Arias",
+            "short": "J. Arias",
+            "num": "11",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Jhon Córdoba",
+            "short": "J. Córdoba",
+            "num": "9",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Luis Díaz",
+            "short": "L. Díaz",
+            "num": "7",
+            "pos": "LF",
+            "place": "11"
+          },
+          {
+            "name": "James Rodríguez",
+            "short": "J. Rodríguez",
+            "num": "10",
+            "pos": "RF",
+            "place": "10"
+          }
+        ],
+        "away": [
+          {
+            "name": "Diogo Costa",
+            "short": "D. Costa",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Renato Veiga",
+            "short": "R. Veiga",
+            "num": "13",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Rúben Dias",
+            "short": "R. Dias",
+            "num": "3",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Nuno Mendes",
+            "short": "N. Mendes",
+            "num": "25",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "João Cancelo",
+            "short": "J. Cancelo",
+            "num": "20",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Bruno Fernandes",
+            "short": "B. Fernandes",
+            "num": "8",
+            "pos": "AM",
+            "place": "10"
+          },
+          {
+            "name": "Vitinha ",
+            "short": "Vitinha ",
+            "num": "23",
+            "pos": "LM",
+            "place": "4"
+          },
+          {
+            "name": "Rúben Neves",
+            "short": "R. Neves",
+            "num": "21",
+            "pos": "RM",
+            "place": "8"
+          },
+          {
+            "name": "Cristiano Ronaldo",
+            "short": "C. Ronaldo",
+            "num": "7",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "João Félix",
+            "short": "J. Félix",
+            "num": "11",
+            "pos": "AM-L",
+            "place": "11"
+          },
+          {
+            "name": "Pedro Neto",
+            "short": "P. Neto",
+            "num": "18",
+            "pos": "AM-R",
+            "place": "7"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Daniel Muñoz",
+            "short": "D. Muñoz",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Luis Suárez",
+            "short": "L. Suárez",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jáminton Campaz",
+            "short": "J. Campaz",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Cucho Hernández",
+            "short": "C. Hernández",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "David Ospina",
+            "short": "D. Ospina",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kevin Castaño",
+            "short": "K. Castaño",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Willer Ditta",
+            "short": "W. Ditta",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Andrés Gómez",
+            "short": "A. Gómez",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Álvaro Montero",
+            "short": "Á. Montero",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jorge Carrascal",
+            "short": "J. Carrascal",
+            "num": "8",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Yerry Mina",
+            "short": "Y. Mina",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Juan Portilla",
+            "short": "J. Portilla",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Johan Mojica",
+            "short": "J. Mojica",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Juan Fernando Quintero",
+            "short": "J. Quintero",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Richard Ríos",
+            "short": "R. Ríos",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Francisco Trincão",
+            "short": "F. Trincão",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "João Neves",
+            "short": "J. Neves",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gonçalo Ramos",
+            "short": "G. Ramos",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nélson Semedo",
+            "short": "N. Semedo",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gonçalo Guedes",
+            "short": "G. Guedes",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Rafael Leão",
+            "short": "R. Leão",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Rui Silva",
+            "short": "R. Silva",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Samú Costa",
+            "short": "S. Costa",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Diogo Dalot",
+            "short": "D. Dalot",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Bernardo Silva",
+            "short": "B. Silva",
+            "num": "10",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Tomás Araújo",
+            "short": "T. Araújo",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gonçalo Inácio",
+            "short": "G. Inácio",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Matheus Nunes",
+            "short": "M. Nunes",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "José Sá",
+            "short": "J. Sá",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Francisco Conceição",
+            "short": "F. Conceição",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-3-3",
+        "away": "4-2-3-1"
+      },
+      "commentary": [
         {
-          "min": "45'+1'",
-          "text": "Petar Sucic (Croatia) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "45'+1'",
-          "text": "Foul by Thomas Partey (Ghana).",
-          "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Fourth official has announced 3 minutes of added time.",
-          "goal": false
-        },
-        {
-          "min": "43'",
-          "text": "Foul by Nikola Vlasic (Croatia).",
-          "goal": false
-        },
-        {
-          "min": "43'",
-          "text": "Gideon Mensah (Ghana) wins a free kick on the left wing.",
-          "goal": false
-        },
-        {
-          "min": "40'",
-          "text": "Attempt missed. Antoine Semenyo (Ghana) right footed shot from the right side of the box is close, but misses to the left. Assisted by Jonas Adjetey.",
-          "goal": false
-        },
-        {
-          "min": "38'",
-          "text": "Attempt blocked. Mateo Kovacic (Croatia) right footed shot from outside the box is blocked. Assisted by Petar Sucic.",
-          "goal": false
-        },
-        {
-          "min": "35'",
-          "text": "Foul by Kwasi Sibo (Ghana).",
-          "goal": false
-        },
-        {
-          "min": "35'",
-          "text": "Martin Baturina (Croatia) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "31'",
-          "text": "Goal! Croatia 1, Ghana 0. Petar Sucic (Croatia) right footed shot from outside the box to the bottom left corner. Assisted by Mateo Kovacic.",
-          "goal": true
-        },
-        {
-          "min": "30'",
-          "text": "Attempt saved. Ivan Perisic (Croatia) header from the centre of the box is saved in the bottom left corner by Benjamin Asare (Ghana). Assisted by Luka Modric with a cross.",
-          "goal": false
-        },
-        {
-          "min": "30'",
-          "text": "Foul by Elisha Owusu (Ghana).",
-          "goal": false
-        },
-        {
-          "min": "30'",
-          "text": "Martin Baturina (Croatia) wins a free kick on the left wing.",
-          "goal": false
-        },
-        {
-          "min": "29'",
-          "text": "Delay over. They are ready to continue.",
-          "goal": false
-        },
-        {
-          "min": "25'",
-          "text": "Delay in match for a drinks break.",
-          "goal": false
-        },
-        {
-          "min": "24'",
-          "text": "Thomas Partey (Ghana) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "24'",
-          "text": "Foul by Ante Budimir (Croatia).",
-          "goal": false
-        },
-        {
-          "min": "21'",
-          "text": "Attempt missed. Marin Pongracic (Croatia) header from the centre of the box is too high. Assisted by Luka Modric with a cross following a set piece situation.",
-          "goal": false
-        },
-        {
-          "min": "20'",
-          "text": "Foul by Kwasi Sibo (Ghana).",
-          "goal": false
-        },
-        {
-          "min": "20'",
-          "text": "Petar Sucic (Croatia) wins a free kick on the right wing.",
-          "goal": false
-        },
-        {
-          "min": "17'",
-          "text": "Nikola Vlasic (Croatia) hits the left post with a right footed shot from outside the box. Assisted by Martin Baturina following a fast break.",
-          "goal": false
-        },
-        {
-          "min": "8'",
-          "text": "Foul by Elisha Owusu (Ghana).",
-          "goal": false
-        },
-        {
-          "min": "8'",
-          "text": "Martin Baturina (Croatia) wins a free kick in the defensive half.",
+          "min": "4'",
+          "text": "Attempt missed. Rúben Neves (Portugal) right footed shot from outside the box misses to the left.",
           "goal": false
         },
         {
           "min": "4'",
-          "text": "Petar Sucic (Croatia) wins a free kick in the defensive half.",
+          "text": "Nuno Mendes (Portugal) wins a free kick on the left wing.",
           "goal": false
         },
         {
           "min": "4'",
-          "text": "Foul by Kamaldeen Sulemana (Ghana).",
+          "text": "Foul by Jhon Arias (Colombia).",
+          "goal": false
+        },
+        {
+          "min": "2'",
+          "text": "Offside, Colombia. Jhon Córdoba is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "2'",
+          "text": "Attempt missed. Jhon Córdoba (Colombia) header from the centre of the box is just a bit too high.",
           "goal": false
         },
         {
           "min": "1'",
-          "text": "Martin Baturina (Croatia) wins a free kick in the defensive half.",
+          "text": "Attempt blocked. Luis Díaz (Colombia) right footed shot from the left side of the box is blocked. Assisted by Davinson Sánchez.",
           "goal": false
         },
         {
           "min": "1'",
-          "text": "Foul by Marvin Senaya (Ghana).",
+          "text": "Deiver Machado (Colombia) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "1'",
+          "text": "Foul by Pedro Neto (Portugal).",
           "goal": false
         },
         {
@@ -60417,14 +61057,551 @@
         {
           "label": "Total Shots",
           "home": {
-            "name": "P. Sucic",
-            "num": "17",
-            "pos": "M",
+            "name": "L. Díaz",
+            "num": "7",
+            "pos": "F",
             "value": "1"
           },
           "away": {
-            "name": "F. Issahaku",
+            "name": "R. Neves",
+            "num": "21",
+            "pos": "M",
+            "value": "1"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "G. Puerta",
+            "num": "14",
+            "pos": "M",
+            "value": "5"
+          },
+          "away": {
+            "name": "R. Veiga",
+            "num": "13",
+            "pos": "D",
+            "value": "7"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "J. Arias",
+            "num": "11",
+            "pos": "M",
+            "value": "2"
+          },
+          "away": {
+            "name": "R. Veiga",
+            "num": "13",
+            "pos": "D",
+            "value": "3"
+          }
+        }
+      ],
+      "highlight": null,
+      "final": false,
+      "dv": 5
+    },
+    "760482": {
+      "venue": "Mercedes-Benz Stadium",
+      "stats": {
+        "home": {
+          "foulsCommitted": "1",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "0",
+          "saves": "1",
+          "possessionPct": "48.3",
+          "totalShots": "1",
+          "shotsOnTarget": "0",
+          "shotPct": "0.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "19",
+          "totalPasses": "28",
+          "passPct": "0.7",
+          "accurateCrosses": "0",
+          "totalCrosses": "0",
+          "crossPct": "0.0",
+          "totalLongBalls": "4",
+          "accurateLongBalls": "0",
+          "longballPct": "0.0",
+          "blockedShots": "0",
+          "effectiveTackles": "2",
+          "totalTackles": "3",
+          "tacklePct": "0.7",
+          "interceptions": "0",
+          "effectiveClearance": "2",
+          "totalClearance": "2"
+        },
+        "away": {
+          "foulsCommitted": "1",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "2",
+          "wonCorners": "0",
+          "saves": "0",
+          "possessionPct": "51.7",
+          "totalShots": "1",
+          "shotsOnTarget": "1",
+          "shotPct": "0.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "23",
+          "totalPasses": "29",
+          "passPct": "0.8",
+          "accurateCrosses": "0",
+          "totalCrosses": "1",
+          "crossPct": "0.0",
+          "totalLongBalls": "6",
+          "accurateLongBalls": "2",
+          "longballPct": "0.3",
+          "blockedShots": "0",
+          "effectiveTackles": "2",
+          "totalTackles": "3",
+          "tacklePct": "0.7",
+          "interceptions": "1",
+          "effectiveClearance": "0",
+          "totalClearance": "0"
+        }
+      },
+      "events": [],
+      "lineups": {
+        "home": [
+          {
+            "name": "Lionel Mpasi",
+            "short": "L. Mpasi",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Axel Tuanzebe",
+            "short": "A. Tuanzebe",
+            "num": "4",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Chancel Mbemba",
+            "short": "C. Mbemba",
+            "num": "22",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Arthur Masuaku",
+            "short": "A. Masuaku",
+            "num": "26",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Aaron Wan-Bissaka",
+            "short": "A. Wan-Bissaka",
+            "num": "2",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Noah Sadiki",
+            "short": "N. Sadiki",
+            "num": "14",
+            "pos": "CM-L",
+            "place": "8"
+          },
+          {
+            "name": "Samuel Moutoussamy",
+            "short": "S. Moutoussamy",
+            "num": "8",
+            "pos": "CM-R",
+            "place": "4"
+          },
+          {
+            "name": "Brian Cipenga",
+            "short": "B. Cipenga",
+            "num": "9",
+            "pos": "LM",
+            "place": "11"
+          },
+          {
+            "name": "Nathanaël Mbuku",
+            "short": "N. Mbuku",
             "num": "7",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Yoane Wissa",
+            "short": "Y. Wissa",
+            "num": "20",
+            "pos": "CF-L",
+            "place": "9"
+          },
+          {
+            "name": "Cédric Bakambu",
+            "short": "C. Bakambu",
+            "num": "17",
+            "pos": "CF-R",
+            "place": "10"
+          }
+        ],
+        "away": [
+          {
+            "name": "Abduvohid Nematov",
+            "short": "A. Nematov",
+            "num": "12",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Abdukodir Khusanov",
+            "short": "A. Khusanov",
+            "num": "2",
+            "pos": "CD",
+            "place": "5"
+          },
+          {
+            "name": "Jakhongir Urozov",
+            "short": "J. Urozov",
+            "num": "26",
+            "pos": "CD-L",
+            "place": "4"
+          },
+          {
+            "name": "Rustam Ashurmatov",
+            "short": "R. Ashurmatov",
+            "num": "5",
+            "pos": "CD-R",
+            "place": "6"
+          },
+          {
+            "name": "Otabek Shukurov",
+            "short": "O. Shukurov",
+            "num": "7",
+            "pos": "CM-L",
+            "place": "8"
+          },
+          {
+            "name": "Akmal Mozgovoy",
+            "short": "A. Mozgovoy",
+            "num": "6",
+            "pos": "CM-R",
+            "place": "7"
+          },
+          {
+            "name": "Sherzod Nasrullaev",
+            "short": "S. Nasrullaev",
+            "num": "13",
+            "pos": "LM",
+            "place": "3"
+          },
+          {
+            "name": "Khojiakbar Alijonov",
+            "short": "K. Alijonov",
+            "num": "3",
+            "pos": "RM",
+            "place": "2"
+          },
+          {
+            "name": "Eldor Shomurodov",
+            "short": "E. Shomurodov",
+            "num": "14",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Abbosbek Fayzullaev",
+            "short": "A. Fayzullaev",
+            "num": "22",
+            "pos": "CF-L",
+            "place": "11"
+          },
+          {
+            "name": "Dostonbek Khamdamov",
+            "short": "D. Khamdamov",
+            "num": "17",
+            "pos": "CF-R",
+            "place": "10"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Gaël Kakuta",
+            "short": "G. Kakuta",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ngal'ayel Mukau",
+            "short": "N. Mukau",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Fiston Mayele",
+            "short": "F. Mayele",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gédéon Kalulu",
+            "short": "G. Kalulu",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Edo Kayembe",
+            "short": "E. Kayembe",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Simon Banza",
+            "short": "S. Banza",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Matthieu Epolo",
+            "short": "M. Epolo",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Joris Kayembe",
+            "short": "J. Kayembe",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Meschack Elia",
+            "short": "M. Elia",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Théo Bongonda",
+            "short": "T. Bongonda",
+            "num": "10",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Steve Kapuadi",
+            "short": "S. Kapuadi",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Timothy Fayulu",
+            "short": "T. Fayulu",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Dylan Batubinsika",
+            "short": "D. Batubinsika",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Charles Pickel",
+            "short": "C. Pickel",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Aaron Tshibola",
+            "short": "A. Tshibola",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Azizjon Ganiev",
+            "short": "A. Ganiev",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ruslanbek Jiyanov",
+            "short": "R. Jiyanov",
+            "num": "10",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Abdulla Abdullaev",
+            "short": "A. Abdullaev",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Avazbek Ulmasaliyev",
+            "short": "A. Ulmasaliyev",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Azizbek Amonov",
+            "short": "A. Amonov",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Farrukh Sayfiev",
+            "short": "F. Sayfiev",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Oston Urunov",
+            "short": "O. Urunov",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Botirali Ergashev",
+            "short": "B. Ergashev",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jamshid Iskanderov",
+            "short": "J. Iskanderov",
+            "num": "8",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Igor Sergeev",
+            "short": "I. Sergeev",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Utkir Yusupov",
+            "short": "U. Yusupov",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Behruzjon Karimov",
+            "short": "B. Karimov",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Odiljon Xamrobekov",
+            "short": "O. Xamrobekov",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Sherzod Esanov",
+            "short": "S. Esanov",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Umar Eshmurodov",
+            "short": "U. Eshmurodov",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-4-2",
+        "away": "3-4-2-1"
+      },
+      "commentary": [
+        {
+          "min": "4'",
+          "text": "Sherzod Nasrullaev (Uzbekistan) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "4'",
+          "text": "Foul by Nathanaël Mbuku (Congo DR).",
+          "goal": false
+        },
+        {
+          "min": "3'",
+          "text": "Foul by Khojiakbar Alijonov (Uzbekistan).",
+          "goal": false
+        },
+        {
+          "min": "3'",
+          "text": "Noah Sadiki (Congo DR) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "2'",
+          "text": "Attempt missed. Yoane Wissa (Congo DR) right footed shot from outside the box misses to the right.",
+          "goal": false
+        },
+        {
+          "min": "1'",
+          "text": "Offside, Uzbekistan. Eldor Shomurodov is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "1'",
+          "text": "Offside, Uzbekistan. Dostonbek Khamdamov is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "First Half begins.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "Lineups are announced and players are warming up.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "Y. Wissa",
+            "num": "20",
             "pos": "F",
             "value": "1"
           }
@@ -60432,38 +61609,38 @@
         {
           "label": "Accurate Passes",
           "home": {
-            "name": "J. Sutalo",
-            "num": "6",
-            "pos": "D",
-            "value": "74"
+            "name": "N. Sadiki",
+            "num": "14",
+            "pos": "M",
+            "value": "4"
           },
           "away": {
-            "name": "T. Partey",
-            "num": "5",
-            "pos": "M",
-            "value": "64"
+            "name": "J. Urozov",
+            "num": "26",
+            "pos": "D",
+            "value": "5"
           }
         },
         {
           "label": "Defensive Interventions",
           "home": {
-            "name": "J. Sutalo",
-            "num": "6",
-            "pos": "D",
-            "value": "9"
+            "name": "N. Mbuku",
+            "num": "7",
+            "pos": "F",
+            "value": "2"
           },
           "away": {
-            "name": "M. Senaya",
-            "num": "26",
+            "name": "A. Khusanov",
+            "num": "2",
             "pos": "D",
-            "value": "9"
+            "value": "2"
           }
         },
         {
           "label": "Saves",
-          "away": {
-            "name": "B. Asare",
-            "num": "16",
+          "home": {
+            "name": "L. Mpasi",
+            "num": "1",
             "pos": "G",
             "value": "1"
           }
@@ -60477,64 +61654,64 @@
       "venue": "MetLife Stadium",
       "stats": {
         "home": {
-          "foulsCommitted": "12",
-          "yellowCards": "1",
+          "foulsCommitted": "16",
+          "yellowCards": "2",
           "redCards": "0",
-          "offsides": "1",
-          "wonCorners": "1",
-          "saves": "3",
-          "possessionPct": "29.4",
-          "totalShots": "5",
+          "offsides": "4",
+          "wonCorners": "3",
+          "saves": "4",
+          "possessionPct": "32.8",
+          "totalShots": "13",
           "shotsOnTarget": "2",
-          "shotPct": "0.4",
+          "shotPct": "0.2",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "127",
-          "totalPasses": "178",
-          "passPct": "0.7",
-          "accurateCrosses": "0",
-          "totalCrosses": "4",
-          "crossPct": "0.0",
-          "totalLongBalls": "42",
-          "accurateLongBalls": "18",
+          "accuratePasses": "201",
+          "totalPasses": "267",
+          "passPct": "0.8",
+          "accurateCrosses": "3",
+          "totalCrosses": "9",
+          "crossPct": "0.3",
+          "totalLongBalls": "54",
+          "accurateLongBalls": "24",
           "longballPct": "0.4",
-          "blockedShots": "0",
-          "effectiveTackles": "9",
-          "totalTackles": "13",
+          "blockedShots": "3",
+          "effectiveTackles": "11",
+          "totalTackles": "16",
           "tacklePct": "0.7",
-          "interceptions": "4",
-          "effectiveClearance": "29",
-          "totalClearance": "29"
+          "interceptions": "6",
+          "effectiveClearance": "36",
+          "totalClearance": "36"
         },
         "away": {
-          "foulsCommitted": "7",
+          "foulsCommitted": "13",
           "yellowCards": "1",
           "redCards": "0",
-          "offsides": "3",
-          "wonCorners": "6",
+          "offsides": "4",
+          "wonCorners": "7",
           "saves": "2",
-          "possessionPct": "70.6",
-          "totalShots": "14",
-          "shotsOnTarget": "5",
+          "possessionPct": "67.2",
+          "totalShots": "17",
+          "shotsOnTarget": "6",
           "shotPct": "0.4",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "388",
-          "totalPasses": "437",
+          "accuratePasses": "492",
+          "totalPasses": "557",
           "passPct": "0.9",
-          "accurateCrosses": "3",
-          "totalCrosses": "19",
+          "accurateCrosses": "4",
+          "totalCrosses": "25",
           "crossPct": "0.2",
-          "totalLongBalls": "27",
-          "accurateLongBalls": "16",
+          "totalLongBalls": "36",
+          "accurateLongBalls": "20",
           "longballPct": "0.6",
-          "blockedShots": "2",
-          "effectiveTackles": "13",
-          "totalTackles": "14",
+          "blockedShots": "3",
+          "effectiveTackles": "17",
+          "totalTackles": "18",
           "tacklePct": "0.9",
-          "interceptions": "4",
-          "effectiveClearance": "13",
-          "totalClearance": "13"
+          "interceptions": "5",
+          "effectiveClearance": "21",
+          "totalClearance": "21"
         }
       },
       "events": [
@@ -60597,6 +61774,36 @@
           "min": "71'",
           "side": "home",
           "player": "Substitution, Panama. Azarías Londoño replaces José Luis Rodríguez."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "84'",
+          "side": "home",
+          "player": "Andrés Andrade"
+        },
+        {
+          "kind": "Substitution",
+          "min": "84'",
+          "side": "away",
+          "player": "Substitution, England. Jordan Henderson replaces Elliot Anderson."
+        },
+        {
+          "kind": "Substitution",
+          "min": "84'",
+          "side": "away",
+          "player": "Substitution, England. Ollie Watkins replaces Harry Kane."
+        },
+        {
+          "kind": "Substitution",
+          "min": "88'",
+          "side": "home",
+          "player": "Substitution, Panama. Alberto Quintero replaces Carlos Harvey."
+        },
+        {
+          "kind": "Substitution",
+          "min": "88'",
+          "side": "home",
+          "player": "Substitution, Panama. Éric Davis replaces Jorge Gutiérrez."
         }
       ],
       "lineups": {
@@ -60974,6 +62181,236 @@
       },
       "commentary": [
         {
+          "min": "",
+          "text": "Match ends, Panama 0, England 2.",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Second Half ends, Panama 0, England 2.",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Foul by Morgan Rogers (England).",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Cristian Martínez (Panama) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Offside, Panama. Ismael Díaz is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Foul by Ezri Konsa (England).",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Éric Davis (Panama) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Corner, England. Conceded by Fidel Escobar.",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Attempt blocked. Eberechi Eze (England) left footed shot from outside the box is blocked. Assisted by Noni Madueke.",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Jordan Henderson (England) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Foul by Alberto Quintero (Panama).",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Attempt missed. Éric Davis (Panama) left footed shot from a difficult angle and long range on the right is close, but misses to the right following a corner.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Corner, Panama. Conceded by Jordan Pickford.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Offside, Panama. José Fajardo is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Attempt saved. Noni Madueke (England) right footed shot from the centre of the box is saved in the centre of the goal by Orlando Mosquera (Panama).",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Fourth official has announced 6 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Attempt missed. Ismael Díaz (Panama) right footed shot from outside the box is close, but misses to the right. Assisted by Cristian Martínez.",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Foul by Nico O'Reilly (England).",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Amir Murillo (Panama) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Substitution, Panama. Éric Davis replaces Jorge Gutiérrez.",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Substitution, Panama. Alberto Quintero replaces Carlos Harvey.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Attempt missed. Marcus Rashford (England) right footed shot from the left side of the box is close, but misses to the left. Assisted by Noni Madueke with a cross.",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Marc Guéhi (England) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Foul by Azarías Londoño (Panama).",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Substitution, England. Ollie Watkins replaces Harry Kane.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Substitution, England. Jordan Henderson replaces Elliot Anderson.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Andrés Andrade (Panama) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Morgan Rogers (England) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Foul by Andrés Andrade (Panama).",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Offside, England. Marcus Rashford is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Ezri Konsa (England) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Foul by José Fajardo (Panama).",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Foul by Ezri Konsa (England).",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "José Fajardo (Panama) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Offside, Panama. Ismael Díaz is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Attempt missed. Ismael Díaz (Panama) right footed shot from the centre of the box is too high. Assisted by Cristian Martínez following a corner.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Attempt blocked. Amir Murillo (Panama) right footed shot from the centre of the box is blocked. Assisted by Cristian Martínez with a cross.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Attempt blocked. Carlos Harvey (Panama) header from the centre of the box is blocked. Assisted by Amir Murillo.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Corner, Panama. Conceded by Ezri Konsa.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Attempt blocked. Ismael Díaz (Panama) right footed shot from the right side of the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Foul by Morgan Rogers (England).",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Jorge Gutiérrez (Panama) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Attempt missed. Ismael Díaz (Panama) header from the centre of the box is too high. Assisted by Fidel Escobar with a cross.",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Attempt missed. Azarías Londoño (Panama) left footed shot from outside the box is close, but misses to the right.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Foul by Harry Kane (England).",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Carlos Harvey (Panama) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
           "min": "72'",
           "text": "Foul by Nico O'Reilly (England).",
           "goal": false
@@ -61042,252 +62479,22 @@
           "min": "63'",
           "text": "Substitution, England. Djed Spence replaces Jarell Quansah.",
           "goal": false
-        },
-        {
-          "min": "62'",
-          "text": "Goal! Panama 0, England 1. Jude Bellingham (England) left footed shot from the centre of the box to the bottom left corner. Assisted by Bukayo Saka with a cross following a corner.",
-          "goal": true
-        },
-        {
-          "min": "62'",
-          "text": "Delay over. They are ready to continue.",
-          "goal": false
-        },
-        {
-          "min": "60'",
-          "text": "Delay in match because of an injury Jarell Quansah (England).",
-          "goal": false
-        },
-        {
-          "min": "60'",
-          "text": "Delay in match because of an injury José Luis Rodríguez (Panama).",
-          "goal": false
-        },
-        {
-          "min": "60'",
-          "text": "Jarell Quansah (England) is shown the yellow card for a bad foul.",
-          "goal": false
-        },
-        {
-          "min": "59'",
-          "text": "Corner, England. Conceded by José Córdoba.",
-          "goal": false
-        },
-        {
-          "min": "58'",
-          "text": "Foul by Marcus Rashford (England).",
-          "goal": false
-        },
-        {
-          "min": "58'",
-          "text": "Amir Murillo (Panama) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "57'",
-          "text": "Attempt saved. Harry Kane (England) right footed shot from the right side of the box is saved in the top centre of the goal by Orlando Mosquera (Panama). Assisted by Jude Bellingham with a through ball.",
-          "goal": false
-        },
-        {
-          "min": "56'",
-          "text": "Attempt missed. José Luis Rodríguez (Panama) right footed shot from outside the box is close, but misses the top right corner. Assisted by Jorge Gutiérrez.",
-          "goal": false
-        },
-        {
-          "min": "55'",
-          "text": "Attempt missed. Marcus Rashford (England) left footed shot from a difficult angle on the left is close, but misses to the left. Assisted by Nico O'Reilly following a fast break.",
-          "goal": false
-        },
-        {
-          "min": "55'",
-          "text": "Delay over. They are ready to continue.",
-          "goal": false
-        },
-        {
-          "min": "54'",
-          "text": "Delay in match because of an injury Jarell Quansah (England).",
-          "goal": false
-        },
-        {
-          "min": "54'",
-          "text": "Delay in match because of an injury José Luis Rodríguez (Panama).",
-          "goal": false
-        },
-        {
-          "min": "53'",
-          "text": "José Fajardo (Panama) is shown the yellow card for a bad foul.",
-          "goal": false
-        },
-        {
-          "min": "53'",
-          "text": "Ezri Konsa (England) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "53'",
-          "text": "Foul by José Fajardo (Panama).",
-          "goal": false
-        },
-        {
-          "min": "52'",
-          "text": "Handball by Harry Kane (England).",
-          "goal": false
-        },
-        {
-          "min": "50'",
-          "text": "Delay over. They are ready to continue.",
-          "goal": false
-        },
-        {
-          "min": "49'",
-          "text": "Delay in match because of an injury Cristian Martínez (Panama).",
-          "goal": false
-        },
-        {
-          "min": "47'",
-          "text": "Ezri Konsa (England) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "47'",
-          "text": "Foul by José Luis Rodríguez (Panama).",
-          "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Second Half begins Panama 0, England 0.",
-          "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Substitution, Panama. José Fajardo replaces Tomás Rodríguez.",
-          "goal": false
-        },
-        {
-          "min": "45'+4'",
-          "text": "First Half ends, Panama 0, England 0.",
-          "goal": false
-        },
-        {
-          "min": "45'+3'",
-          "text": "Attempt missed. Marcus Rashford (England) right footed shot from outside the box is close, but misses to the right from a direct free kick.",
-          "goal": false
-        },
-        {
-          "min": "45'+1'",
-          "text": "Harry Kane (England) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "45'+1'",
-          "text": "Foul by Carlos Harvey (Panama).",
-          "goal": false
-        },
-        {
-          "min": "45'+1'",
-          "text": "Elliot Anderson (England) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "45'+1'",
-          "text": "Foul by Yoel Bárcenas (Panama).",
-          "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Fourth official has announced 3 minutes of added time.",
-          "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Offside, England. Harry Kane is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "43'",
-          "text": "Corner, England. Conceded by Andrés Andrade.",
-          "goal": false
-        },
-        {
-          "min": "42'",
-          "text": "Elliot Anderson (England) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "42'",
-          "text": "Foul by José Luis Rodríguez (Panama).",
-          "goal": false
-        },
-        {
-          "min": "41'",
-          "text": "Offside, England. Bukayo Saka is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "39'",
-          "text": "Offside, England. Morgan Rogers is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "38'",
-          "text": "Attempt missed. Marcus Rashford (England) header from the left side of the six yard box is just a bit too high.",
-          "goal": false
-        },
-        {
-          "min": "35'",
-          "text": "Attempt saved. Elliot Anderson (England) right footed shot from outside the box is saved in the centre of the goal by Orlando Mosquera (Panama). Assisted by Nico O'Reilly.",
-          "goal": false
-        },
-        {
-          "min": "34'",
-          "text": "Offside, Panama. Amir Murillo is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "33'",
-          "text": "Attempt missed. Nico O'Reilly (England) header from the centre of the box is close, but misses to the left. Assisted by Marc Guéhi with a through ball.",
-          "goal": false
-        },
-        {
-          "min": "28'",
-          "text": "Attempt missed. Carlos Harvey (Panama) right footed shot from a difficult angle on the right is close, but misses to the right. Assisted by Amir Murillo.",
-          "goal": false
-        },
-        {
-          "min": "26'",
-          "text": "Corner, Panama. Conceded by Jordan Pickford.",
-          "goal": false
-        },
-        {
-          "min": "26'",
-          "text": "Attempt saved. José Luis Rodríguez (Panama) left footed shot from the left side of the box is saved in the bottom left corner by Jordan Pickford (England). Assisted by Tomás Rodríguez.",
-          "goal": false
-        },
-        {
-          "min": "25'",
-          "text": "Delay over. They are ready to continue.",
-          "goal": false
-        },
-        {
-          "min": "23'",
-          "text": "Delay in match for a drinks break.",
-          "goal": false
         }
       ],
       "leaders": [
         {
           "label": "Total Shots",
           "home": {
-            "name": "J. Rodríguez",
-            "num": "7",
-            "pos": "M",
-            "value": "2"
+            "name": "I. Díaz",
+            "num": "10",
+            "pos": "F",
+            "value": "4"
           },
           "away": {
             "name": "M. Rashford",
             "num": "11",
             "pos": "F",
-            "value": "4"
+            "value": "5"
           }
         },
         {
@@ -61296,13 +62503,13 @@
             "name": "J. Córdoba",
             "num": "3",
             "pos": "D",
-            "value": "27"
+            "value": "36"
           },
           "away": {
             "name": "M. Guéhi",
             "num": "6",
             "pos": "D",
-            "value": "60"
+            "value": "77"
           }
         },
         {
@@ -61311,13 +62518,13 @@
             "name": "J. Córdoba",
             "num": "3",
             "pos": "D",
-            "value": "14"
+            "value": "16"
           },
           "away": {
             "name": "J. Pickford",
             "num": "1",
             "pos": "G",
-            "value": "8"
+            "value": "9"
           }
         },
         {
@@ -61326,7 +62533,7 @@
             "name": "O. Mosquera",
             "num": "22",
             "pos": "G",
-            "value": "3"
+            "value": "4"
           },
           "away": {
             "name": "J. Pickford",
@@ -61336,8 +62543,14 @@
           }
         }
       ],
-      "highlight": null,
-      "final": false,
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0627/dm_260627_England_fans_celebrate_after_breakthrough_vs_Panama/dm_260627_England_fans_celebrate_after_breakthrough_vs_Panama.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49201277/england-fans-celebrate-breakthrough-vs-panama",
+        "headline": "England fans celebrate after breakthrough vs. Panama",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0627/dm_260627_England_fans_celebrate_after_breakthrough_vs_Panama/dm_260627_England_fans_celebrate_after_breakthrough_vs_Panama_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0627/dm_260627_England_fans_celebrate_after_breakthrough_vs_Panama/dm_260627_England_fans_celebrate_after_breakthrough_vs_Panama/playlist.m3u8"
+      },
+      "final": true,
       "dv": 5
     }
   }

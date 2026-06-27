@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27T22:33:10.646Z",
+  "lastUpdated": "2026-06-27T23:37:52.336Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -930,25 +930,15 @@
       "stage": "group",
       "home": "Croatia",
       "away": "Ghana",
-      "homeScore": 1,
-      "awayScore": 0,
-      "homeWinner": false,
+      "homeScore": 2,
+      "awayScore": 1,
+      "homeWinner": true,
       "awayWinner": false,
-      "odds": {
-        "home": -125,
-        "away": 450,
-        "draw": 230,
-        "total": 2.5,
-        "book": "DraftKings"
-      },
-      "status": "live",
+      "odds": null,
+      "status": "finished",
       "id": "760480",
       "date": "2026-06-27T21:00Z",
-      "venue": "Lincoln Financial Field",
-      "clock": 4320,
-      "displayClock": "72'",
-      "detail": "72'",
-      "period": 2
+      "venue": "Lincoln Financial Field"
     },
     {
       "stage": "group",
@@ -957,22 +947,12 @@
       "homeScore": 0,
       "awayScore": 2,
       "homeWinner": false,
-      "awayWinner": false,
-      "odds": {
-        "home": 1500,
-        "away": -650,
-        "draw": 750,
-        "total": 3.5,
-        "book": "DraftKings"
-      },
-      "status": "live",
+      "awayWinner": true,
+      "odds": null,
+      "status": "finished",
       "id": "760485",
       "date": "2026-06-27T21:00Z",
-      "venue": "MetLife Stadium",
-      "clock": 4440,
-      "displayClock": "74'",
-      "detail": "74'",
-      "period": 2
+      "venue": "MetLife Stadium"
     },
     {
       "stage": "group",
@@ -983,16 +963,20 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 295,
-        "away": -120,
-        "draw": 295,
+        "home": 320,
+        "away": -125,
+        "draw": 300,
         "total": 2.5,
         "book": "DraftKings"
       },
-      "status": "scheduled",
+      "status": "live",
       "id": "760481",
       "date": "2026-06-27T23:30Z",
-      "venue": "Hard Rock Stadium"
+      "venue": "Hard Rock Stadium",
+      "clock": 420,
+      "displayClock": "7'",
+      "detail": "7'",
+      "period": 1
     },
     {
       "stage": "group",
@@ -1005,14 +989,18 @@
       "odds": {
         "home": -145,
         "away": 425,
-        "draw": 280,
+        "draw": 290,
         "total": 2.5,
         "book": "DraftKings"
       },
-      "status": "scheduled",
+      "status": "live",
       "id": "760482",
       "date": "2026-06-27T23:30Z",
-      "venue": "Mercedes-Benz Stadium"
+      "venue": "Mercedes-Benz Stadium",
+      "clock": 360,
+      "displayClock": "6'",
+      "detail": "6'",
+      "period": 1
     },
     {
       "stage": "group",
@@ -1023,9 +1011,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 265,
-        "away": 275,
-        "draw": 100,
+        "home": 255,
+        "away": 270,
+        "draw": 105,
         "total": 1.5,
         "book": "DraftKings"
       },
@@ -1177,7 +1165,7 @@
     {
       "stage": "r32",
       "home": "Mexico",
-      "away": "Third Place Group C/E/F/H/I",
+      "away": "Ecuador",
       "homeScore": 0,
       "awayScore": 0,
       "homeWinner": false,
@@ -1190,7 +1178,7 @@
     },
     {
       "stage": "r32",
-      "home": "Group L Winner",
+      "home": "England",
       "away": "Third Place Group E/H/I/J/K",
       "homeScore": 0,
       "awayScore": 0,
@@ -1253,7 +1241,7 @@
     {
       "stage": "r32",
       "home": "Group K 2nd Place",
-      "away": "Group L 2nd Place",
+      "away": "Croatia",
       "homeScore": 0,
       "awayScore": 0,
       "homeWinner": false,
@@ -1321,7 +1309,7 @@
     {
       "stage": "r32",
       "home": "Group K Winner",
-      "away": "Third Place Group D/E/I/J/L",
+      "away": "Ghana",
       "homeScore": 0,
       "awayScore": 0,
       "homeWinner": false,

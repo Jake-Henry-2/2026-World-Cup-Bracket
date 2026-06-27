@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27T01:56:02.894Z",
+  "lastUpdated": "2026-06-27T05:55:44.505Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -56042,6 +56042,1828 @@
       "final": true,
       "dv": 5
     },
+    "760476": {
+      "venue": "Lumen Field",
+      "stats": {
+        "home": {
+          "foulsCommitted": "11",
+          "yellowCards": "3",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "8",
+          "saves": "2",
+          "possessionPct": "61.3",
+          "totalShots": "15",
+          "shotsOnTarget": "3",
+          "shotPct": "0.2",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "512",
+          "totalPasses": "587",
+          "passPct": "0.9",
+          "accurateCrosses": "4",
+          "totalCrosses": "15",
+          "crossPct": "0.3",
+          "totalLongBalls": "44",
+          "accurateLongBalls": "18",
+          "longballPct": "0.4",
+          "blockedShots": "6",
+          "effectiveTackles": "10",
+          "totalTackles": "17",
+          "tacklePct": "0.6",
+          "interceptions": "7",
+          "effectiveClearance": "40",
+          "totalClearance": "40"
+        },
+        "away": {
+          "foulsCommitted": "16",
+          "yellowCards": "4",
+          "redCards": "0",
+          "offsides": "3",
+          "wonCorners": "2",
+          "saves": "2",
+          "possessionPct": "38.7",
+          "totalShots": "13",
+          "shotsOnTarget": "4",
+          "shotPct": "0.3",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "1",
+          "accuratePasses": "281",
+          "totalPasses": "367",
+          "passPct": "0.8",
+          "accurateCrosses": "1",
+          "totalCrosses": "10",
+          "crossPct": "0.1",
+          "totalLongBalls": "66",
+          "accurateLongBalls": "29",
+          "longballPct": "0.4",
+          "blockedShots": "3",
+          "effectiveTackles": "16",
+          "totalTackles": "23",
+          "tacklePct": "0.7",
+          "interceptions": "8",
+          "effectiveClearance": "32",
+          "totalClearance": "32"
+        }
+      },
+      "events": [
+        {
+          "kind": "Goal",
+          "min": "5'",
+          "side": "home",
+          "player": "Goal! Egypt 1, IR Iran 0. Mahmoud Saber"
+        },
+        {
+          "kind": "Penalty - Saved",
+          "min": "11'",
+          "side": "away",
+          "player": "Penalty saved. Mehdi Taremi"
+        },
+        {
+          "kind": "Goal",
+          "min": "14'",
+          "side": "away",
+          "player": "Goal! Egypt 1, IR Iran 1. Ramin Rezaeian"
+        },
+        {
+          "kind": "Substitution",
+          "min": "14'",
+          "side": "home",
+          "player": "Substitution, Egypt. Yasser Ibrahim replaces Mohamed Abdelmonem because of an injury."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "19'",
+          "side": "away",
+          "player": "Hossein Kanani"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "20'",
+          "side": "home",
+          "player": "Mahmoud Saber"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "42'",
+          "side": "home",
+          "player": "Yasser Ibrahim"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "43'",
+          "side": "away",
+          "player": "Ali Nemati"
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "away",
+          "player": "Substitution, IR Iran. Saleh Hardani replaces Hossein Kanani."
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "home",
+          "player": "Substitution, Egypt. Marwan Attia replaces Mahmoud Saber."
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "home",
+          "player": "Substitution, Egypt. Omar Marmoush replaces Emam Ashour."
+        },
+        {
+          "kind": "Substitution",
+          "min": "57'",
+          "side": "home",
+          "player": "Substitution, Egypt. Zizo replaces Mohamed Salah."
+        },
+        {
+          "kind": "Substitution",
+          "min": "67'",
+          "side": "away",
+          "player": "Substitution, IR Iran. Shahriyar Moghanloo replaces Saman Ghoddos."
+        },
+        {
+          "kind": "Substitution",
+          "min": "76'",
+          "side": "home",
+          "player": "Substitution, Egypt. Hamza Abdelkarim replaces Mostafa Zico."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "79'",
+          "side": "away",
+          "player": "Saeid Ezatolahi"
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'+1'",
+          "side": "away",
+          "player": "Substitution, IR Iran. Alireza Jahanbakhsh replaces Mohammad Mohebbi."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "90'+2'",
+          "side": "home",
+          "player": "Mohanad Lasheen"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "90'+4'",
+          "side": "away",
+          "player": "Shoja Khalilzadeh"
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Mostafa Shoubir",
+            "short": "M. Shoubir",
+            "num": "23",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Mohamed Abdelmoneim",
+            "short": "M. Abdelmoneim",
+            "num": "6",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Ramy Rabia",
+            "short": "R. Rabia",
+            "num": "5",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Ahmed Fatouh",
+            "short": "A. Fatouh",
+            "num": "13",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Mohamed Hany",
+            "short": "M. Hany",
+            "num": "3",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Mohamed Salah",
+            "short": "M. Salah",
+            "num": "10",
+            "pos": "AM",
+            "place": "10"
+          },
+          {
+            "name": "Mahmoud Saber",
+            "short": "M. Saber",
+            "num": "21",
+            "pos": "LM",
+            "place": "4"
+          },
+          {
+            "name": "Mohanad Lashin",
+            "short": "M. Lashin",
+            "num": "17",
+            "pos": "RM",
+            "place": "8"
+          },
+          {
+            "name": "Mostafa Zico",
+            "short": "M. Zico",
+            "num": "11",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Trézéguet",
+            "short": "Trézéguet",
+            "num": "7",
+            "pos": "AM-L",
+            "place": "11"
+          },
+          {
+            "name": "Emam Ashour",
+            "short": "E. Ashour",
+            "num": "8",
+            "pos": "AM-R",
+            "place": "7"
+          }
+        ],
+        "away": [
+          {
+            "name": "Alireza Beiranvand",
+            "short": "A. Beiranvand",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Shoja Khalilzadeh",
+            "short": "S. Khalilzadeh",
+            "num": "4",
+            "pos": "CD",
+            "place": "5"
+          },
+          {
+            "name": "Ali Nemati",
+            "short": "A. Nemati",
+            "num": "19",
+            "pos": "CD-L",
+            "place": "4"
+          },
+          {
+            "name": "Hossein Kanani",
+            "short": "H. Kanani",
+            "num": "13",
+            "pos": "CD-R",
+            "place": "6"
+          },
+          {
+            "name": "Milad Mohammadi",
+            "short": "M. Mohammadi",
+            "num": "5",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Ramin Rezaeian",
+            "short": "R. Rezaeian",
+            "num": "23",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Saeid Ezatolahi",
+            "short": "S. Ezatolahi",
+            "num": "6",
+            "pos": "CM-L",
+            "place": "10"
+          },
+          {
+            "name": "Mohammad Ghorbani",
+            "short": "M. Ghorbani",
+            "num": "21",
+            "pos": "CM-R",
+            "place": "8"
+          },
+          {
+            "name": "Mohammad Mohebbi",
+            "short": "M. Mohebbi",
+            "num": "8",
+            "pos": "LM",
+            "place": "11"
+          },
+          {
+            "name": "Saman Ghoddos",
+            "short": "S. Ghoddos",
+            "num": "14",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Mehdi Taremi",
+            "short": "M. Taremi",
+            "num": "9",
+            "pos": "F",
+            "place": "9"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Hamza Abdelkarim",
+            "short": "H. Abdelkarim",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Omar Marmoush",
+            "short": "O. Marmoush",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Karim Hafez",
+            "short": "K. Hafez",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nabil Donga",
+            "short": "N. Donga",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mahdy Soliman",
+            "short": "M. Soliman",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mohamed El Shenawy",
+            "short": "M. El Shenawy",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Tarek Alaa",
+            "short": "T. Alaa",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Marawan Attia",
+            "short": "M. Attia",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Zizo",
+            "short": "Zizo",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mohamed Alaa",
+            "short": "M. Alaa",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ibrahim Adel",
+            "short": "I. Adel",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Haissem Hassan",
+            "short": "H. Hassan",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Yasser Ibrahim",
+            "short": "Y. Ibrahim",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Amirmohammad Razzaghinia",
+            "short": "A. Razzaghinia",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Saleh Hardani",
+            "short": "S. Hardani",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mehdi Ghayedi",
+            "short": "M. Ghayedi",
+            "num": "10",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Hossein Hosseini",
+            "short": "H. Hosseini",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ali Alipour",
+            "short": "A. Alipour",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Payam Niazmand",
+            "short": "P. Niazmand",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Amirhossein Hosseinzadeh",
+            "short": "A. Hosseinzadeh",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mehdi Torabi",
+            "short": "M. Torabi",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Alireza Jahanbakhsh",
+            "short": "A. Jahanbakhsh",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Roozbeh Cheshmi",
+            "short": "R. Cheshmi",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Danial Iri",
+            "short": "D. Iri",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Dennis Dargahi",
+            "short": "D. Dargahi",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ehsan Hajsafi",
+            "short": "E. Hajsafi",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Arya Yousefi",
+            "short": "A. Yousefi",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Shahriyar Moghanloo",
+            "short": "S. Moghanloo",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-2-3-1",
+        "away": "5-4-1"
+      },
+      "commentary": [
+        {
+          "min": "",
+          "text": "Match ends, Egypt 1, IR Iran 1.",
+          "goal": false
+        },
+        {
+          "min": "90'+9'",
+          "text": "Second Half ends, Egypt 1, IR Iran 1.",
+          "goal": false
+        },
+        {
+          "min": "90'+7'",
+          "text": "Saeid Ezatolahi (IR Iran) hits the bar with a header from very close range. Assisted by Alireza Jahanbakhsh with a cross following a corner.",
+          "goal": false
+        },
+        {
+          "min": "90'+7'",
+          "text": "Corner, IR Iran. Conceded by Yasser Ibrahim.",
+          "goal": false
+        },
+        {
+          "min": "90'+7'",
+          "text": "Attempt blocked. Ramin Rezaeian (IR Iran) right footed shot from the centre of the box is blocked. Assisted by Mehdi Taremi.",
+          "goal": false
+        },
+        {
+          "min": "90'+7'",
+          "text": "Attempt blocked. Mehdi Taremi (IR Iran) right footed shot from the centre of the box is blocked. Assisted by Shahriyar Moghanloo with a headed pass.",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "VAR Decision: No Goal Egypt 1-1 IR Iran.",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Shoja Khalilzadeh (IR Iran) is shown the yellow card for excessive celebration.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Offside, IR Iran. Shoja Khalilzadeh is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "GOAL OVERTURNED BY VAR: Shoja Khalilzadeh (IR Iran) scores but the goal is ruled out after a VAR review.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Attempt blocked. Mohammad Ghorbani (IR Iran) right footed shot from the centre of the box is blocked. Assisted by Shahriyar Moghanloo.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Mohanad Lasheen (Egypt) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Foul by Mohanad Lasheen (Egypt).",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Mehdi Taremi (IR Iran) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Substitution, IR Iran. Alireza Jahanbakhsh replaces Mohammad Mohebbi.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Marwan Attia (Egypt) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Foul by Mohammad Mohebbi (IR Iran).",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Fourth official has announced 6 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Mostafa Shobeir (Egypt) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Foul by Saeid Ezatolahi (IR Iran).",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Corner, IR Iran. Conceded by Zizo.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Handball by Zizo (Egypt).",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Offside, IR Iran. Ramin Rezaeian is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Attempt missed. Mohanad Lasheen (Egypt) right footed shot from outside the box misses to the left.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Delay in match because of an injury Ahmed Fatouh (Egypt).",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Saeid Ezatolahi (IR Iran) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Omar Marmoush (Egypt) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Foul by Saeid Ezatolahi (IR Iran).",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Substitution, Egypt. Hamza Abdelkarim replaces Mostafa Zico.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Attempt blocked. Mohammad Ghorbani (IR Iran) right footed shot from outside the box is blocked. Assisted by Milad Mohammadi.",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Trezeguet (Egypt) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Foul by Mohammad Ghorbani (IR Iran).",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Foul by Mostafa Zico (Egypt).",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Milad Mohammadi (IR Iran) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Attempt missed. Trezeguet (Egypt) header from the centre of the box misses to the left. Assisted by Zizo with a cross following a corner.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "69'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Corner, Egypt. Conceded by Shoja Khalilzadeh.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Attempt blocked. Omar Marmoush (Egypt) right footed shot from outside the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Substitution, IR Iran. Shahriyar Moghanloo replaces Saman Ghoddos.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Mohamed Hany (Egypt) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Foul by Mehdi Taremi (IR Iran).",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Corner, Egypt. Conceded by Ali Nemati.",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Omar Marmoush (Egypt) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Foul by Shoja Khalilzadeh (IR Iran).",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Corner, Egypt. Conceded by Saeid Ezatolahi.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Attempt blocked. Zizo (Egypt) left footed shot from the centre of the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Yasser Ibrahim (Egypt) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Foul by Saman Ghoddos (IR Iran).",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Substitution, Egypt. Zizo replaces Mohamed Salah.",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Foul by Omar Marmoush (Egypt).",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Saeid Ezatolahi (IR Iran) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "55'",
+          "text": "Delay in match because of an injury Mostafa Zico (Egypt).",
+          "goal": false
+        },
+        {
+          "min": "55'",
+          "text": "Attempt missed. Saman Ghoddos (IR Iran) right footed shot from outside the box is close, but misses to the left.",
+          "goal": false
+        },
+        {
+          "min": "54'",
+          "text": "Foul by Trezeguet (Egypt).",
+          "goal": false
+        },
+        {
+          "min": "54'",
+          "text": "Saleh Hardani (IR Iran) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "52'",
+          "text": "Attempt missed. Mohanad Lasheen (Egypt) header from the centre of the box misses to the left. Assisted by Mohamed Salah with a cross following a corner.",
+          "goal": false
+        },
+        {
+          "min": "52'",
+          "text": "Corner, Egypt. Conceded by Saleh Hardani.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "Trézéguet",
+            "num": "7",
+            "pos": "F",
+            "value": "5"
+          },
+          "away": {
+            "name": "R. Rezaeian",
+            "num": "23",
+            "pos": "D",
+            "value": "3"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "R. Rabia",
+            "num": "5",
+            "pos": "D",
+            "value": "81"
+          },
+          "away": {
+            "name": "S. Khalilzadeh",
+            "num": "4",
+            "pos": "D",
+            "value": "47"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "M. Hany",
+            "num": "3",
+            "pos": "D",
+            "value": "22"
+          },
+          "away": {
+            "name": "S. Khalilzadeh",
+            "num": "4",
+            "pos": "D",
+            "value": "16"
+          }
+        },
+        {
+          "label": "Saves",
+          "home": {
+            "name": "M. Shoubir",
+            "num": "23",
+            "pos": "G",
+            "value": "2"
+          },
+          "away": {
+            "name": "A. Beiranvand",
+            "num": "1",
+            "pos": "G",
+            "value": "2"
+          }
+        }
+      ],
+      "highlight": null,
+      "final": true,
+      "dv": 5
+    },
+    "760477": {
+      "venue": "BC Place",
+      "stats": {
+        "home": {
+          "foulsCommitted": "10",
+          "yellowCards": "2",
+          "redCards": "0",
+          "offsides": "1",
+          "wonCorners": "5",
+          "saves": "5",
+          "possessionPct": "45.4",
+          "totalShots": "6",
+          "shotsOnTarget": "2",
+          "shotPct": "0.3",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "369",
+          "totalPasses": "435",
+          "passPct": "0.8",
+          "accurateCrosses": "2",
+          "totalCrosses": "17",
+          "crossPct": "0.1",
+          "totalLongBalls": "38",
+          "accurateLongBalls": "16",
+          "longballPct": "0.4",
+          "blockedShots": "1",
+          "effectiveTackles": "6",
+          "totalTackles": "10",
+          "tacklePct": "0.6",
+          "interceptions": "6",
+          "effectiveClearance": "34",
+          "totalClearance": "34"
+        },
+        "away": {
+          "foulsCommitted": "7",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "1",
+          "wonCorners": "8",
+          "saves": "1",
+          "possessionPct": "54.6",
+          "totalShots": "35",
+          "shotsOnTarget": "10",
+          "shotPct": "0.3",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "463",
+          "totalPasses": "526",
+          "passPct": "0.9",
+          "accurateCrosses": "6",
+          "totalCrosses": "16",
+          "crossPct": "0.4",
+          "totalLongBalls": "47",
+          "accurateLongBalls": "29",
+          "longballPct": "0.6",
+          "blockedShots": "12",
+          "effectiveTackles": "8",
+          "totalTackles": "13",
+          "tacklePct": "0.6",
+          "interceptions": "10",
+          "effectiveClearance": "26",
+          "totalClearance": "26"
+        }
+      },
+      "events": [
+        {
+          "kind": "Goal",
+          "min": "28'",
+          "side": "away",
+          "player": "Goal! New Zealand 0, Belgium 1. Leandro Trossard"
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "home",
+          "player": "Substitution, New Zealand. Ben Old replaces Ryan Thomas."
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "home",
+          "player": "Substitution, New Zealand. Jesse Randall replaces Sarpreet Singh."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "46'",
+          "side": "home",
+          "player": "Marko Stamenic"
+        },
+        {
+          "kind": "Goal",
+          "min": "50'",
+          "side": "away",
+          "player": "Goal! New Zealand 0, Belgium 2. Leandro Trossard"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "56'",
+          "side": "home",
+          "player": "Elijah Just"
+        },
+        {
+          "kind": "Substitution",
+          "min": "56'",
+          "side": "away",
+          "player": "Substitution, Belgium. Matias Fernandez-Pardo replaces Jérémy Doku."
+        },
+        {
+          "kind": "Substitution",
+          "min": "64'",
+          "side": "home",
+          "player": "Substitution, New Zealand. Michael Boxall replaces Tim Payne."
+        },
+        {
+          "kind": "Substitution",
+          "min": "64'",
+          "side": "home",
+          "player": "Substitution, New Zealand. Callum McCowatt replaces Joe Bell."
+        },
+        {
+          "kind": "Goal",
+          "min": "66'",
+          "side": "away",
+          "player": "Goal! New Zealand 0, Belgium 3. Kevin De Bruyne"
+        },
+        {
+          "kind": "Substitution",
+          "min": "72'",
+          "side": "away",
+          "player": "Substitution, Belgium. Alexis Saelemaekers replaces Leandro Trossard."
+        },
+        {
+          "kind": "Substitution",
+          "min": "72'",
+          "side": "away",
+          "player": "Substitution, Belgium. Amadou Onana replaces Kevin De Bruyne."
+        },
+        {
+          "kind": "Substitution",
+          "min": "79'",
+          "side": "home",
+          "player": "Substitution, New Zealand. Francis de Vries replaces Liberato Cacace."
+        },
+        {
+          "kind": "Goal",
+          "min": "84'",
+          "side": "home",
+          "player": "Goal! New Zealand 1, Belgium 3. Elijah Just"
+        },
+        {
+          "kind": "Substitution",
+          "min": "85'",
+          "side": "away",
+          "player": "Substitution, Belgium. Romelu Lukaku replaces Charles De Ketelaere."
+        },
+        {
+          "kind": "Substitution",
+          "min": "85'",
+          "side": "away",
+          "player": "Substitution, Belgium. Nicolas Raskin replaces Youri Tielemans."
+        },
+        {
+          "kind": "Goal - Header",
+          "min": "86'",
+          "side": "away",
+          "player": "Goal! New Zealand 1, Belgium 4. Romelu Lukaku"
+        },
+        {
+          "kind": "Goal",
+          "min": "90'+4'",
+          "side": "away",
+          "player": "Goal! New Zealand 1, Belgium 5. Alexis Saelemaekers"
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Max Crocombe",
+            "short": "M. Crocombe",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Tyler Bindon",
+            "short": "T. Bindon",
+            "num": "4",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Finn Surman",
+            "short": "F. Surman",
+            "num": "16",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Liberato Cacace",
+            "short": "L. Cacace",
+            "num": "13",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Tim Payne",
+            "short": "T. Payne",
+            "num": "2",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Ryan Thomas",
+            "short": "R. Thomas",
+            "num": "23",
+            "pos": "AM",
+            "place": "10"
+          },
+          {
+            "name": "Marko Stamenic",
+            "short": "M. Stamenic",
+            "num": "8",
+            "pos": "LM",
+            "place": "4"
+          },
+          {
+            "name": "Joe Bell",
+            "short": "J. Bell",
+            "num": "6",
+            "pos": "RM",
+            "place": "8"
+          },
+          {
+            "name": "Chris Wood",
+            "short": "C. Wood",
+            "num": "9",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Elijah Just",
+            "short": "E. Just",
+            "num": "11",
+            "pos": "AM-L",
+            "place": "11"
+          },
+          {
+            "name": "Sarpreet Singh",
+            "short": "S. Singh",
+            "num": "10",
+            "pos": "AM-R",
+            "place": "7"
+          }
+        ],
+        "away": [
+          {
+            "name": "Thibaut Courtois",
+            "short": "T. Courtois",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Arthur Theate",
+            "short": "A. Theate",
+            "num": "3",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Brandon Mechele",
+            "short": "B. Mechele",
+            "num": "4",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Maxim De Cuyper",
+            "short": "M. De Cuyper",
+            "num": "5",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Timothy Castagne",
+            "short": "T. Castagne",
+            "num": "21",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Kevin De Bruyne",
+            "short": "K. De Bruyne",
+            "num": "7",
+            "pos": "AM",
+            "place": "10"
+          },
+          {
+            "name": "Hans Vanaken",
+            "short": "H. Vanaken",
+            "num": "20",
+            "pos": "LM",
+            "place": "4"
+          },
+          {
+            "name": "Youri Tielemans",
+            "short": "Y. Tielemans",
+            "num": "8",
+            "pos": "RM",
+            "place": "8"
+          },
+          {
+            "name": "Charles De Ketelaere",
+            "short": "C. De Ketelaere",
+            "num": "17",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Leandro Trossard",
+            "short": "L. Trossard",
+            "num": "10",
+            "pos": "AM-L",
+            "place": "11"
+          },
+          {
+            "name": "Jérémy Doku",
+            "short": "J. Doku",
+            "num": "11",
+            "pos": "AM-R",
+            "place": "7"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Nando Pijnaker",
+            "short": "N. Pijnaker",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Logan Rogerson",
+            "short": "L. Rogerson",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Callum McCowatt",
+            "short": "C. McCowatt",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Alex Rufer",
+            "short": "A. Rufer",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Michael Boxall",
+            "short": "M. Boxall",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Callan Elliot",
+            "short": "C. Elliot",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Francis de Vries",
+            "short": "F. de Vries",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kosta Barbarouses",
+            "short": "K. Barbarouses",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jesse Randall",
+            "short": "J. Randall",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Michael Woud",
+            "short": "M. Woud",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Alex Paulsen",
+            "short": "A. Paulsen",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Tommy Smith",
+            "short": "T. Smith",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Lachlan Bayliss",
+            "short": "L. Bayliss",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ben Old",
+            "short": "B. Old",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ben Waine",
+            "short": "B. Waine",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Diego Moreira",
+            "short": "D. Moreira",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Dodi Lukébakio",
+            "short": "D. Lukébakio",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Alexis Saelemaekers",
+            "short": "A. Saelemaekers",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mike Penders",
+            "short": "M. Penders",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Thomas Meunier",
+            "short": "T. Meunier",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Senne Lammens",
+            "short": "S. Lammens",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Koni De Winter",
+            "short": "K. De Winter",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Matias Fernandez-Pardo",
+            "short": "M. Fernandez-Pardo",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nicolas Raskin",
+            "short": "N. Raskin",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Axel Witsel",
+            "short": "A. Witsel",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Romelu Lukaku",
+            "short": "R. Lukaku",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Joaquin Seys",
+            "short": "J. Seys",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Amadou Onana",
+            "short": "A. Onana",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-2-3-1",
+        "away": "4-2-3-1"
+      },
+      "commentary": [
+        {
+          "min": "",
+          "text": "Match ends, New Zealand 1, Belgium 5.",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Second Half ends, New Zealand 1, Belgium 5.",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Goal! New Zealand 1, Belgium 5. Alexis Saelemaekers (Belgium) right footed shot from the centre of the box to the bottom left corner. Assisted by Romelu Lukaku following a fast break.",
+          "goal": true
+        },
+        {
+          "min": "90'+3'",
+          "text": "Attempt missed. Arthur Theate (Belgium) left footed shot from outside the box is high and wide to the left following a corner.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Corner, Belgium. Conceded by Max Crocombe.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Attempt saved. Maxim De Cuyper (Belgium) left footed shot from outside the box is saved in the top centre of the goal by Max Crocombe (New Zealand). Assisted by Hans Vanaken.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Fourth official has announced 4 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Attempt missed. Amadou Onana (Belgium) right footed shot from outside the box misses to the left. Assisted by Hans Vanaken following a set piece situation.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Alexis Saelemaekers (Belgium) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Foul by Callum McCowatt (New Zealand).",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Goal! New Zealand 1, Belgium 4. Romelu Lukaku (Belgium) header from very close range to the centre of the goal. Assisted by Nicolas Raskin with a cross.",
+          "goal": true
+        },
+        {
+          "min": "85'",
+          "text": "Substitution, Belgium. Nicolas Raskin replaces Youri Tielemans.",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Substitution, Belgium. Romelu Lukaku replaces Charles De Ketelaere.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Goal! New Zealand 1, Belgium 3. Elijah Just (New Zealand) left footed shot from the centre of the box to the high centre of the goal following a corner.",
+          "goal": true
+        },
+        {
+          "min": "83'",
+          "text": "Corner, New Zealand. Conceded by Youri Tielemans.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Foul by Brandon Mechele (Belgium).",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Chris Wood (New Zealand) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Attempt missed. Alexis Saelemaekers (Belgium) right footed shot from the right side of the box is too high. Assisted by Matias Fernandez-Pardo.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Substitution, New Zealand. Francis de Vries replaces Liberato Cacace.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Attempt missed. Maxim De Cuyper (Belgium) left footed shot from outside the box is too high from a direct free kick.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Alexis Saelemaekers (Belgium) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Foul by Marko Stamenic (New Zealand).",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Attempt missed. Tyler Bindon (New Zealand) header from the right side of the six yard box is too high. Assisted by Jesse Randall with a cross following a corner.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Corner, New Zealand. Conceded by Maxim De Cuyper.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Attempt blocked. Elijah Just (New Zealand) right footed shot from the centre of the box is blocked. Assisted by Chris Wood.",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Handball by Maxim De Cuyper (Belgium).",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Attempt blocked. Amadou Onana (Belgium) left footed shot from outside the box is blocked. Assisted by Matias Fernandez-Pardo.",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Attempt blocked. Matias Fernandez-Pardo (Belgium) right footed shot from the centre of the box is blocked. Assisted by Charles De Ketelaere.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Offside, Belgium. Alexis Saelemaekers is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Charles De Ketelaere (Belgium) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Foul by Michael Boxall (New Zealand).",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Substitution, Belgium. Amadou Onana replaces Kevin De Bruyne.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Substitution, Belgium. Alexis Saelemaekers replaces Leandro Trossard.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "69'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "69'",
+          "text": "Youri Tielemans (Belgium) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "69'",
+          "text": "Foul by Callum McCowatt (New Zealand).",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Goal! New Zealand 0, Belgium 3. Kevin De Bruyne (Belgium) left footed shot from outside the box to the bottom right corner.",
+          "goal": true
+        },
+        {
+          "min": "66'",
+          "text": "Attempt blocked. Kevin De Bruyne (Belgium) left footed shot from the centre of the box is blocked. Assisted by Matias Fernandez-Pardo.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Attempt missed. Matias Fernandez-Pardo (Belgium) left footed shot from the centre of the box is too high. Assisted by Leandro Trossard following a fast break.",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Substitution, New Zealand. Callum McCowatt replaces Joe Bell.",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Substitution, New Zealand. Michael Boxall replaces Tim Payne.",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Corner, New Zealand. Conceded by Brandon Mechele.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Corner, Belgium. Conceded by Marko Stamenic.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Attempt blocked. Kevin De Bruyne (Belgium) right footed shot from outside the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Attempt saved. Arthur Theate (Belgium) right footed shot from the centre of the box is saved in the centre of the goal by Max Crocombe (New Zealand).",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Corner, Belgium. Conceded by Ben Old.",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Attempt blocked. Kevin De Bruyne (Belgium) right footed shot from outside the box is blocked. Assisted by Matias Fernandez-Pardo.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Foul by Brandon Mechele (Belgium).",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Jesse Randall (New Zealand) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Attempt missed. Arthur Theate (Belgium) header from the centre of the box misses to the right. Assisted by Maxim De Cuyper with a cross following a corner.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Corner, Belgium. Conceded by Finn Surman.",
+          "goal": false
+        },
+        {
+          "min": "59'",
+          "text": "Attempt missed. Jesse Randall (New Zealand) left footed shot from outside the box is high and wide to the left following a corner.",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Corner, New Zealand. Conceded by Timothy Castagne.",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Foul by Charles De Ketelaere (Belgium).",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Liberato Cacace (New Zealand) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Substitution, Belgium. Matias Fernandez-Pardo replaces Jérémy Doku.",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Elijah Just (New Zealand) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Leandro Trossard (Belgium) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Foul by Elijah Just (New Zealand).",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "E. Just",
+            "num": "11",
+            "pos": "F",
+            "value": "3"
+          },
+          "away": {
+            "name": "L. Trossard",
+            "num": "10",
+            "pos": "F",
+            "value": "7"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "M. Stamenic",
+            "num": "8",
+            "pos": "M",
+            "value": "58"
+          },
+          "away": {
+            "name": "B. Mechele",
+            "num": "4",
+            "pos": "D",
+            "value": "54"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "T. Bindon",
+            "num": "4",
+            "pos": "D",
+            "value": "16"
+          },
+          "away": {
+            "name": "T. Castagne",
+            "num": "21",
+            "pos": "D",
+            "value": "12"
+          }
+        },
+        {
+          "label": "Saves",
+          "home": {
+            "name": "M. Crocombe",
+            "num": "1",
+            "pos": "G",
+            "value": "5"
+          },
+          "away": {
+            "name": "T. Courtois",
+            "num": "1",
+            "pos": "G",
+            "value": "1"
+          }
+        }
+      ],
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0622/dm_260622_COM_SOC_Analysis_Lukaku_or_De_Ketelaere_Can_anyone_get_Belgium_up_and_running_20260622_GLOBAL/dm_260622_COM_SOC_Analysis_Lukaku_or_De_Ketelaere_Can_anyone_get_Belgium_up_and_running_20260622_GLOBAL.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49144125/anyone-get-belgium-running",
+        "headline": "Lukaku or De Ketelaere: Can anyone get Belgium up and running?",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0622/dm_260622_COM_SOC_Analysis_Lukaku_or_De_Ketelaere_Can_anyone_get_Belgium_up_and_running_20260622_GLOBAL/dm_260622_COM_SOC_Analysis_Lukaku_or_De_Ketelaere_Can_anyone_get_Belgium_up_and_running_20260622_GLOBAL_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0622/dm_260622_COM_SOC_Analysis_Lukaku_or_De_Ketelaere_Can_anyone_get_Belgium_up_and_running_20260622_GLOBAL/dm_260622_COM_SOC_Analysis_Lukaku_or_De_Ketelaere_Can_anyone_get_Belgium_up_and_running_20260622_GLOBAL/playlist.m3u8"
+      },
+      "final": true,
+      "dv": 5
+    },
     "760478": {
       "venue": "NRG Stadium",
       "stats": {
@@ -56049,61 +57871,61 @@
           "foulsCommitted": "10",
           "yellowCards": "1",
           "redCards": "0",
-          "offsides": "1",
+          "offsides": "2",
           "wonCorners": "4",
-          "saves": "2",
-          "possessionPct": "51.3",
+          "saves": "3",
+          "possessionPct": "51",
           "totalShots": "15",
           "shotsOnTarget": "2",
           "shotPct": "0.1",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "367",
-          "totalPasses": "431",
-          "passPct": "0.9",
+          "accuratePasses": "381",
+          "totalPasses": "451",
+          "passPct": "0.8",
           "accurateCrosses": "2",
           "totalCrosses": "18",
           "crossPct": "0.1",
-          "totalLongBalls": "53",
-          "accurateLongBalls": "28",
+          "totalLongBalls": "55",
+          "accurateLongBalls": "29",
           "longballPct": "0.5",
           "blockedShots": "5",
-          "effectiveTackles": "11",
+          "effectiveTackles": "12",
           "totalTackles": "15",
-          "tacklePct": "0.7",
-          "interceptions": "12",
-          "effectiveClearance": "25",
-          "totalClearance": "25"
+          "tacklePct": "0.8",
+          "interceptions": "13",
+          "effectiveClearance": "29",
+          "totalClearance": "29"
         },
         "away": {
-          "foulsCommitted": "15",
-          "yellowCards": "2",
+          "foulsCommitted": "16",
+          "yellowCards": "3",
           "redCards": "0",
           "offsides": "0",
           "wonCorners": "2",
           "saves": "2",
-          "possessionPct": "48.7",
-          "totalShots": "6",
-          "shotsOnTarget": "2",
-          "shotPct": "0.3",
+          "possessionPct": "49",
+          "totalShots": "7",
+          "shotsOnTarget": "3",
+          "shotPct": "0.4",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "339",
-          "totalPasses": "421",
+          "accuratePasses": "359",
+          "totalPasses": "444",
           "passPct": "0.8",
-          "accurateCrosses": "2",
-          "totalCrosses": "10",
-          "crossPct": "0.2",
-          "totalLongBalls": "53",
-          "accurateLongBalls": "23",
+          "accurateCrosses": "3",
+          "totalCrosses": "11",
+          "crossPct": "0.3",
+          "totalLongBalls": "50",
+          "accurateLongBalls": "21",
           "longballPct": "0.4",
           "blockedShots": "3",
-          "effectiveTackles": "14",
-          "totalTackles": "27",
+          "effectiveTackles": "15",
+          "totalTackles": "29",
           "tacklePct": "0.5",
-          "interceptions": "10",
-          "effectiveClearance": "23",
-          "totalClearance": "23"
+          "interceptions": "11",
+          "effectiveClearance": "25",
+          "totalClearance": "25"
         }
       },
       "events": [
@@ -56115,7 +57937,7 @@
         },
         {
           "kind": "Yellow Card",
-          "min": "9'",
+          "min": "8'",
           "side": "home",
           "player": "Wagner Pina"
         },
@@ -56178,6 +58000,18 @@
           "min": "82'",
           "side": "away",
           "player": "Substitution, Saudi Arabia. Moteb Al Harbi replaces Nawaf Bu Washl."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "90'+3'",
+          "side": "away",
+          "player": "Feras Al Brikan"
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'+4'",
+          "side": "home",
+          "player": "Substitution, Cabo Verde. Steven Moreira replaces Wagner Pina."
         }
       ],
       "lineups": {
@@ -56325,16 +58159,16 @@
             "place": "7"
           },
           {
-            "name": "Feras Al-Brikan",
-            "short": "F. Al-Brikan",
-            "num": "9",
+            "name": "Mohamed Kanno",
+            "short": "M. Kanno",
+            "num": "23",
             "pos": "CF-L",
             "place": "9"
           },
           {
-            "name": "Mohamed Kanno",
-            "short": "M. Kanno",
-            "num": "23",
+            "name": "Feras Al-Brikan",
+            "short": "F. Al-Brikan",
+            "num": "9",
             "pos": "CF-R",
             "place": "10"
           }
@@ -56548,6 +58382,46 @@
       },
       "commentary": [
         {
+          "min": "",
+          "text": "Match ends, Cabo Verde 0, Saudi Arabia 0.",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Second Half ends, Cabo Verde 0, Saudi Arabia 0.",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Offside, Cabo Verde. Garry Rodrigues is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Substitution, Cabo Verde. Steven Moreira replaces Wagner Pina.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Feras Al Brikan (Saudi Arabia) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "João Paulo (Cabo Verde) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Foul by Feras Al Brikan (Saudi Arabia).",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Attempt saved. Abdullah Al Hamddan (Saudi Arabia) right footed shot from the centre of the box is saved in the centre of the goal by Vozinha (Cabo Verde). Assisted by Feras Al Brikan.",
+          "goal": false
+        },
+        {
           "min": "90'",
           "text": "Fourth official has announced 5 minutes of added time.",
           "goal": false
@@ -56694,7 +58568,7 @@
         },
         {
           "min": "67'",
-          "text": "Nuno da Costa (Cabo Verde) wins a free kick in the attacking half.",
+          "text": "Nuno da Costa (Cabo Verde) wins a free kick in the defensive half.",
           "goal": false
         },
         {
@@ -56806,46 +58680,6 @@
           "min": "46'",
           "text": "Corner, Saudi Arabia. Conceded by João Paulo.",
           "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Second Half begins Cabo Verde 0, Saudi Arabia 0.",
-          "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Substitution, Saudi Arabia. Musab Al Juwayr replaces Abdullah Al Khaibari.",
-          "goal": false
-        },
-        {
-          "min": "45'+7'",
-          "text": "First Half ends, Cabo Verde 0, Saudi Arabia 0.",
-          "goal": false
-        },
-        {
-          "min": "45'+4'",
-          "text": "Attempt blocked. Saud Abdulhamid (Saudi Arabia) right footed shot from outside the box is blocked.",
-          "goal": false
-        },
-        {
-          "min": "45'+3'",
-          "text": "Foul by Jamiro Monteiro (Cabo Verde).",
-          "goal": false
-        },
-        {
-          "min": "45'+3'",
-          "text": "Nasser Al Dawsari (Saudi Arabia) wins a free kick on the left wing.",
-          "goal": false
-        },
-        {
-          "min": "45'+2'",
-          "text": "Attempt saved. Mohamed Kanno (Saudi Arabia) header from the centre of the box is saved in the top centre of the goal by Vozinha (Cabo Verde). Assisted by Abdulelah Al Amri.",
-          "goal": false
-        },
-        {
-          "min": "45'+1'",
-          "text": "Fourth official has announced 6 minutes of added time.",
-          "goal": false
         }
       ],
       "leaders": [
@@ -56858,9 +58692,9 @@
             "value": "2"
           },
           "away": {
-            "name": "M. Abu Al-Shamat",
-            "num": "26",
-            "pos": "M",
+            "name": "S. Abdulhamid",
+            "num": "12",
+            "pos": "D",
             "value": "1"
           }
         },
@@ -56870,13 +58704,13 @@
             "name": "D. Borges",
             "num": "3",
             "pos": "D",
-            "value": "57"
+            "value": "56"
           },
           "away": {
             "name": "N. Al-Dawsari",
             "num": "6",
             "pos": "M",
-            "value": "44"
+            "value": "49"
           }
         },
         {
@@ -56885,13 +58719,13 @@
             "name": "J. Paulo",
             "num": "8",
             "pos": "M",
-            "value": "10"
+            "value": "13"
           },
           "away": {
             "name": "S. Abdulhamid",
             "num": "12",
             "pos": "D",
-            "value": "13"
+            "value": "14"
           }
         },
         {
@@ -56900,7 +58734,7 @@
             "name": "Vozinha",
             "num": "1",
             "pos": "G",
-            "value": "2"
+            "value": "3"
           },
           "away": {
             "name": "M. Al-Owais",
@@ -56910,72 +58744,78 @@
           }
         }
       ],
-      "highlight": null,
-      "final": false,
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0626/dm_260626_COM_SOC_News_Cape_Verde_send_fans_wild_as_they_reach_World_Cup_knockouts_20260626_GLOBAL_FIFA_WO/dm_260626_COM_SOC_News_Cape_Verde_send_fans_wild_as_they_reach_World_Cup_knockouts_20260626_GLOBAL_FIFA_WO.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49192790/cape-verde-send-fans-wild-reach-world-cup-knockouts",
+        "headline": "Cape Verde send fans wild as they reach World Cup knockouts",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0626/dm_260626_COM_SOC_News_Cape_Verde_send_fans_wild_as_they_reach_World_Cup_knockouts_20260626_GLOBAL_FIFA_WO/dm_260626_COM_SOC_News_Cape_Verde_send_fans_wild_as_they_reach_World_Cup_knockouts_20260626_GLOBAL_FIFA_WO_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0626/dm_260626_COM_SOC_News_Cape_Verde_send_fans_wild_as_they_reach_World_Cup_knockouts_20260626_GLOBAL_FIFA_WO/dm_260626_COM_SOC_News_Cape_Verde_send_fans_wild_as_they_reach_World_Cup_knockouts_20260626_GLOBAL_FIFA_WO/playlist.m3u8"
+      },
+      "final": true,
       "dv": 5
     },
     "760479": {
       "venue": "Estadio Akron",
       "stats": {
         "home": {
-          "foulsCommitted": "12",
-          "yellowCards": "2",
-          "redCards": "0",
+          "foulsCommitted": "14",
+          "yellowCards": "3",
+          "redCards": "1",
           "offsides": "5",
           "wonCorners": "1",
           "saves": "0",
-          "possessionPct": "32.1",
+          "possessionPct": "33.1",
           "totalShots": "5",
           "shotsOnTarget": "1",
           "shotPct": "0.2",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "218",
-          "totalPasses": "283",
+          "accuratePasses": "228",
+          "totalPasses": "301",
           "passPct": "0.8",
           "accurateCrosses": "1",
           "totalCrosses": "16",
           "crossPct": "0.1",
-          "totalLongBalls": "39",
-          "accurateLongBalls": "14",
-          "longballPct": "0.4",
+          "totalLongBalls": "43",
+          "accurateLongBalls": "15",
+          "longballPct": "0.3",
           "blockedShots": "1",
           "effectiveTackles": "15",
-          "totalTackles": "24",
+          "totalTackles": "25",
           "tacklePct": "0.6",
           "interceptions": "14",
-          "effectiveClearance": "13",
-          "totalClearance": "13"
+          "effectiveClearance": "14",
+          "totalClearance": "14"
         },
         "away": {
           "foulsCommitted": "14",
           "yellowCards": "1",
           "redCards": "0",
-          "offsides": "1",
+          "offsides": "2",
           "wonCorners": "6",
           "saves": "2",
-          "possessionPct": "67.9",
+          "possessionPct": "66.9",
           "totalShots": "6",
           "shotsOnTarget": "1",
           "shotPct": "0.2",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "545",
-          "totalPasses": "612",
+          "accuratePasses": "553",
+          "totalPasses": "622",
           "passPct": "0.9",
           "accurateCrosses": "3",
           "totalCrosses": "12",
           "crossPct": "0.3",
-          "totalLongBalls": "31",
-          "accurateLongBalls": "15",
+          "totalLongBalls": "34",
+          "accurateLongBalls": "18",
           "longballPct": "0.5",
           "blockedShots": "1",
           "effectiveTackles": "10",
           "totalTackles": "17",
           "tacklePct": "0.6",
           "interceptions": "9",
-          "effectiveClearance": "21",
-          "totalClearance": "21"
+          "effectiveClearance": "23",
+          "totalClearance": "23"
         }
       },
       "events": [
@@ -57056,6 +58896,18 @@
           "min": "76'",
           "side": "away",
           "player": "Substitution, Spain. Ferran Torres replaces Mikel Oyarzabal."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "90'+3'",
+          "side": "home",
+          "player": "Nicolás de la Cruz"
+        },
+        {
+          "kind": "Red Card",
+          "min": "90'+5'",
+          "side": "home",
+          "player": "Agustín Canobbio"
         }
       ],
       "lineups": {
@@ -57440,6 +59292,56 @@
       },
       "commentary": [
         {
+          "min": "",
+          "text": "Match ends, Uruguay 0, Spain 1.",
+          "goal": false
+        },
+        {
+          "min": "90'+7'",
+          "text": "Second Half ends, Uruguay 0, Spain 1.",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Agustín Canobbio (Uruguay) is shown the red card.",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Pau Cubarsí (Spain) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Foul by Agustín Canobbio (Uruguay).",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Nicolás de la Cruz (Uruguay) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Nico Williams (Spain) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Foul by Nicolás de la Cruz (Uruguay).",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Offside, Spain. Yéremy Pino is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Fourth official has announced 5 minutes of added time.",
+          "goal": false
+        },
+        {
           "min": "90'",
           "text": "Dani Olmo (Spain) wins a free kick in the defensive half.",
           "goal": false
@@ -57688,64 +59590,14 @@
           "min": "46'",
           "text": "Álex Baena (Spain) is shown the yellow card for a bad foul.",
           "goal": false
-        },
-        {
-          "min": "46'",
-          "text": "Foul by Álex Baena (Spain).",
-          "goal": false
-        },
-        {
-          "min": "46'",
-          "text": "Agustín Canobbio (Uruguay) wins a free kick on the right wing.",
-          "goal": false
-        },
-        {
-          "min": "46'",
-          "text": "Foul by Álex Baena (Spain).",
-          "goal": false
-        },
-        {
-          "min": "46'",
-          "text": "Agustín Canobbio (Uruguay) wins a free kick on the right wing.",
-          "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Second Half begins Uruguay 0, Spain 1.",
-          "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Substitution, Uruguay. Sergio Rochet replaces Fernando Muslera.",
-          "goal": false
-        },
-        {
-          "min": "45'+9'",
-          "text": "First Half ends, Uruguay 0, Spain 1.",
-          "goal": false
-        },
-        {
-          "min": "45'+8'",
-          "text": "Attempt missed. Mikel Oyarzabal (Spain) left footed shot from outside the box misses to the right. Assisted by Aymeric Laporte.",
-          "goal": false
-        },
-        {
-          "min": "45'+6'",
-          "text": "Foul by Mikel Merino (Spain).",
-          "goal": false
-        },
-        {
-          "min": "45'+6'",
-          "text": "Maxi Araújo (Uruguay) wins a free kick on the left wing.",
-          "goal": false
         }
       ],
       "leaders": [
         {
           "label": "Total Shots",
           "home": {
-            "name": "F. Viñas",
-            "num": "21",
+            "name": "D. Núñez",
+            "num": "9",
             "pos": "F",
             "value": "1"
           },
@@ -57768,7 +59620,7 @@
             "name": "Rodri",
             "num": "16",
             "pos": "M",
-            "value": "98"
+            "value": "99"
           }
         },
         {
@@ -57777,13 +59629,13 @@
             "name": "R. Bentancur",
             "num": "6",
             "pos": "M",
-            "value": "11"
+            "value": "12"
           },
           "away": {
             "name": "A. Laporte",
             "num": "14",
             "pos": "D",
-            "value": "11"
+            "value": "12"
           }
         },
         {
@@ -57796,8 +59648,14 @@
           }
         }
       ],
-      "highlight": null,
-      "final": false,
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0626/ss_20260626_222048378_3576830/ss_20260626_222048378_3576830.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49192924/spain-look-team-won-euros",
+        "headline": "Moreno: Spain look nothing like the team that won the Euros",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0626/ss_20260626_222048378_3576830/ss_20260626_222048378_3576830_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0626/ss_20260626_222048378_3576830/ss_20260626_222048378_3576830/playlist.m3u8"
+      },
+      "final": true,
       "dv": 5
     }
   }

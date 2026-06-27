@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27T01:56:02.672Z",
+  "lastUpdated": "2026-06-27T05:55:44.051Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -878,21 +878,11 @@
       "awayScore": 0,
       "homeWinner": false,
       "awayWinner": false,
-      "odds": {
-        "home": 150,
-        "away": 180,
-        "draw": 250,
-        "total": 2.5,
-        "book": "DraftKings"
-      },
-      "status": "live",
+      "odds": null,
+      "status": "finished",
       "id": "760478",
       "date": "2026-06-27T00:00Z",
-      "venue": "NRG Stadium",
-      "clock": 5400,
-      "displayClock": "90'+2'",
-      "detail": "90'+2'",
-      "period": 2
+      "venue": "NRG Stadium"
     },
     {
       "stage": "group",
@@ -901,39 +891,23 @@
       "homeScore": 0,
       "awayScore": 1,
       "homeWinner": false,
-      "awayWinner": false,
-      "odds": {
-        "home": 475,
-        "away": -145,
-        "draw": 265,
-        "total": 2.5,
-        "book": "DraftKings"
-      },
-      "status": "live",
+      "awayWinner": true,
+      "odds": null,
+      "status": "finished",
       "id": "760479",
       "date": "2026-06-27T00:00Z",
-      "venue": "Estadio Akron",
-      "clock": 5400,
-      "displayClock": "90'+1'",
-      "detail": "90'+1'",
-      "period": 2
+      "venue": "Estadio Akron"
     },
     {
       "stage": "group",
       "home": "Egypt",
       "away": "Iran",
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 1,
+      "awayScore": 1,
       "homeWinner": false,
       "awayWinner": false,
-      "odds": {
-        "home": 170,
-        "away": 240,
-        "draw": 165,
-        "total": 1.5,
-        "book": "DraftKings"
-      },
-      "status": "scheduled",
+      "odds": null,
+      "status": "finished",
       "id": "760476",
       "date": "2026-06-27T03:00Z",
       "venue": "Lumen Field"
@@ -942,18 +916,12 @@
       "stage": "group",
       "home": "New Zealand",
       "away": "Belgium",
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 1,
+      "awayScore": 5,
       "homeWinner": false,
-      "awayWinner": false,
-      "odds": {
-        "home": 1200,
-        "away": -525,
-        "draw": 700,
-        "total": 3.5,
-        "book": "DraftKings"
-      },
-      "status": "scheduled",
+      "awayWinner": true,
+      "odds": null,
+      "status": "finished",
       "id": "760477",
       "date": "2026-06-27T03:00Z",
       "venue": "BC Place"
@@ -967,8 +935,8 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -120,
-        "away": 450,
+        "home": -115,
+        "away": 400,
         "draw": 220,
         "total": 2.5,
         "book": "DraftKings"
@@ -988,8 +956,8 @@
       "awayWinner": false,
       "odds": {
         "home": 1400,
-        "away": -550,
-        "draw": 650,
+        "away": -575,
+        "draw": 700,
         "total": 3.5,
         "book": "DraftKings"
       },
@@ -1007,9 +975,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 300,
-        "away": -110,
-        "draw": 280,
+        "home": 255,
+        "away": 100,
+        "draw": 275,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -1027,8 +995,8 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -140,
-        "away": 360,
+        "home": -150,
+        "away": 400,
         "draw": 310,
         "total": 2.5,
         "book": "DraftKings"
@@ -1067,9 +1035,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 1400,
-        "away": -550,
-        "draw": 650,
+        "home": 1600,
+        "away": -600,
+        "draw": 700,
         "total": 3.5,
         "book": "DraftKings"
       },
@@ -1121,7 +1089,7 @@
     {
       "stage": "r32",
       "home": "Germany",
-      "away": "Third Place Group A/B/C/D/F",
+      "away": "Paraguay",
       "homeScore": 0,
       "awayScore": 0,
       "homeWinner": false,
@@ -1175,7 +1143,7 @@
     {
       "stage": "r32",
       "home": "France",
-      "away": "Third Place Group C/D/F/G/H",
+      "away": "Sweden",
       "homeScore": 0,
       "awayScore": 0,
       "homeWinner": false,
@@ -1216,7 +1184,7 @@
     },
     {
       "stage": "r32",
-      "home": "Group G Winner",
+      "home": "Belgium",
       "away": "Third Place Group A/E/H/I/J",
       "homeScore": 0,
       "awayScore": 0,
@@ -1237,9 +1205,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -250,
+        "home": -255,
         "away": 750,
-        "draw": 380,
+        "draw": 390,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -1250,7 +1218,7 @@
     },
     {
       "stage": "r32",
-      "home": "Group H Winner",
+      "home": "Spain",
       "away": "Group J 2nd Place",
       "homeScore": 0,
       "awayScore": 0,
@@ -1293,7 +1261,7 @@
     {
       "stage": "r32",
       "home": "Australia",
-      "away": "Group G 2nd Place",
+      "away": "Egypt",
       "homeScore": 0,
       "awayScore": 0,
       "homeWinner": false,
@@ -1307,12 +1275,18 @@
     {
       "stage": "r32",
       "home": "Argentina",
-      "away": "Group H 2nd Place",
+      "away": "Cabo Verde",
       "homeScore": 0,
       "awayScore": 0,
       "homeWinner": false,
       "awayWinner": false,
-      "odds": null,
+      "odds": {
+        "home": -650,
+        "away": 1600,
+        "draw": 700,
+        "total": 2.5,
+        "book": "DraftKings"
+      },
       "status": "scheduled",
       "id": "760500",
       "date": "2026-07-03T22:00Z",

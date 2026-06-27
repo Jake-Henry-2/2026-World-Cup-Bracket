@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27T05:55:44.051Z",
+  "lastUpdated": "2026-06-27T08:38:18.886Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -935,9 +935,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -115,
-        "away": 400,
-        "draw": 220,
+        "home": -110,
+        "away": 390,
+        "draw": 215,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -975,9 +975,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 255,
-        "away": 100,
-        "draw": 275,
+        "home": 245,
+        "away": 105,
+        "draw": 280,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -995,9 +995,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -150,
-        "away": 400,
-        "draw": 310,
+        "home": -160,
+        "away": 450,
+        "draw": 320,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -1015,9 +1015,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 310,
-        "away": 195,
-        "draw": 120,
+        "home": 320,
+        "away": 200,
+        "draw": 110,
         "total": 1.5,
         "book": "DraftKings"
       },
@@ -1035,9 +1035,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 1600,
-        "away": -600,
-        "draw": 700,
+        "home": 1700,
+        "away": -650,
+        "draw": 750,
         "total": 3.5,
         "book": "DraftKings"
       },
@@ -1129,9 +1129,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 270,
+        "home": 280,
         "away": 100,
-        "draw": 260,
+        "draw": 255,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -1266,7 +1266,13 @@
       "awayScore": 0,
       "homeWinner": false,
       "awayWinner": false,
-      "odds": null,
+      "odds": {
+        "home": 225,
+        "away": 150,
+        "draw": 200,
+        "total": 1.5,
+        "book": "DraftKings"
+      },
       "status": "scheduled",
       "id": "760499",
       "date": "2026-07-03T18:00Z",
@@ -1281,8 +1287,8 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -650,
-        "away": 1600,
+        "home": -600,
+        "away": 1700,
         "draw": 700,
         "total": 2.5,
         "book": "DraftKings"

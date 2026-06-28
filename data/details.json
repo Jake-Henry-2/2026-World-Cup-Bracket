@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-28T01:51:10.333Z",
+  "lastUpdated": "2026-06-28T06:06:56.496Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -62363,6 +62363,1819 @@
             "num": "12",
             "pos": "G",
             "value": "1"
+          }
+        }
+      ],
+      "highlight": null,
+      "final": true,
+      "dv": 5
+    },
+    "760483": {
+      "venue": "AT&T Stadium",
+      "stats": {
+        "home": {
+          "foulsCommitted": "13",
+          "yellowCards": "3",
+          "redCards": "0",
+          "offsides": "1",
+          "wonCorners": "2",
+          "saves": "1",
+          "possessionPct": "26.7",
+          "totalShots": "5",
+          "shotsOnTarget": "1",
+          "shotPct": "0.2",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "228",
+          "totalPasses": "285",
+          "passPct": "0.8",
+          "accurateCrosses": "2",
+          "totalCrosses": "7",
+          "crossPct": "0.3",
+          "totalLongBalls": "37",
+          "accurateLongBalls": "15",
+          "longballPct": "0.4",
+          "blockedShots": "2",
+          "effectiveTackles": "8",
+          "totalTackles": "16",
+          "tacklePct": "0.5",
+          "interceptions": "19",
+          "effectiveClearance": "13",
+          "totalClearance": "13"
+        },
+        "away": {
+          "foulsCommitted": "7",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "3",
+          "wonCorners": "6",
+          "saves": "0",
+          "possessionPct": "73.3",
+          "totalShots": "12",
+          "shotsOnTarget": "4",
+          "shotPct": "0.3",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "1",
+          "accuratePasses": "736",
+          "totalPasses": "800",
+          "passPct": "0.9",
+          "accurateCrosses": "3",
+          "totalCrosses": "5",
+          "crossPct": "0.6",
+          "totalLongBalls": "25",
+          "accurateLongBalls": "15",
+          "longballPct": "0.6",
+          "blockedShots": "1",
+          "effectiveTackles": "5",
+          "totalTackles": "14",
+          "tacklePct": "0.4",
+          "interceptions": "12",
+          "effectiveClearance": "11",
+          "totalClearance": "11"
+        }
+      },
+      "events": [
+        {
+          "kind": "Yellow Card",
+          "min": "17'",
+          "side": "home",
+          "player": "Mohannad Abu Taha"
+        },
+        {
+          "kind": "Goal - Free-kick",
+          "min": "19'",
+          "side": "away",
+          "player": "Goal! Jordan 0, Argentina 1. Giovani Lo Celso"
+        },
+        {
+          "kind": "Penalty - Scored",
+          "min": "31'",
+          "side": "away",
+          "player": "Goal! Jordan 0, Argentina 2. Lautaro Martínez"
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "home",
+          "player": "Substitution, Jordan. Mahmoud Al Mardi replaces Odeh Fakhoury."
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "home",
+          "player": "Substitution, Jordan. Mousa Al Tamari replaces Ali Azaizeh."
+        },
+        {
+          "kind": "Goal",
+          "min": "55'",
+          "side": "home",
+          "player": "Goal! Jordan 1, Argentina 2. Mousa Al Tamari"
+        },
+        {
+          "kind": "Substitution",
+          "min": "60'",
+          "side": "away",
+          "player": "Substitution, Argentina. Thiago Almada replaces Giovani Lo Celso."
+        },
+        {
+          "kind": "Substitution",
+          "min": "60'",
+          "side": "away",
+          "player": "Substitution, Argentina. Lionel Messi replaces Lautaro Martínez."
+        },
+        {
+          "kind": "Substitution",
+          "min": "61'",
+          "side": "away",
+          "player": "Substitution, Argentina. Alexis Mac Allister replaces Nico Paz."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "64'",
+          "side": "home",
+          "player": "Yazan Al Arab"
+        },
+        {
+          "kind": "Substitution",
+          "min": "71'",
+          "side": "away",
+          "player": "Substitution, Argentina. Valentín Barco replaces Giuliano Simeone."
+        },
+        {
+          "kind": "Substitution",
+          "min": "76'",
+          "side": "home",
+          "player": "Substitution, Jordan. Amer Jamous replaces Nizar Al Rashdan."
+        },
+        {
+          "kind": "Goal - Free-kick",
+          "min": "80'",
+          "side": "away",
+          "player": "Goal! Jordan 1, Argentina 3. Lionel Messi"
+        },
+        {
+          "kind": "Substitution",
+          "min": "82'",
+          "side": "away",
+          "player": "Substitution, Argentina. José Manuel López replaces Julián Alvarez."
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'",
+          "side": "home",
+          "player": "Substitution, Jordan. Mohammad Abu Zraiq replaces Ali Olwan."
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'",
+          "side": "home",
+          "player": "Substitution, Jordan. Saleem Obaid replaces Husam Abu Dahab because of an injury."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "90'+4'",
+          "side": "home",
+          "player": "Mohammad Abu Zraiq"
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Yazeed Abulaila",
+            "short": "Y. Abulaila",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Yazan Al-Arab",
+            "short": "Y. Al-Arab",
+            "num": "5",
+            "pos": "CD",
+            "place": "5"
+          },
+          {
+            "name": "Husam Abu Dahab",
+            "short": "H. Abu Dahab",
+            "num": "4",
+            "pos": "CD-L",
+            "place": "4"
+          },
+          {
+            "name": "Abdallah Nasib",
+            "short": "A. Nasib",
+            "num": "3",
+            "pos": "CD-R",
+            "place": "6"
+          },
+          {
+            "name": "Noor Al-Rawabdeh",
+            "short": "N. Al-Rawabdeh",
+            "num": "8",
+            "pos": "CM-L",
+            "place": "8"
+          },
+          {
+            "name": "Nizar Al-Rashdan",
+            "short": "N. Al-Rashdan",
+            "num": "21",
+            "pos": "CM-R",
+            "place": "7"
+          },
+          {
+            "name": "Mohannad Abu Taha",
+            "short": "M. Abu Taha",
+            "num": "20",
+            "pos": "LM",
+            "place": "3"
+          },
+          {
+            "name": "Ehsan Haddad",
+            "short": "E. Haddad",
+            "num": "23",
+            "pos": "RM",
+            "place": "2"
+          },
+          {
+            "name": "Odeh Fakhoury",
+            "short": "O. Fakhoury",
+            "num": "11",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Ali Olwan",
+            "short": "A. Olwan",
+            "num": "9",
+            "pos": "CF-L",
+            "place": "11"
+          },
+          {
+            "name": "Ali Azaizeh",
+            "short": "A. Azaizeh",
+            "num": "24",
+            "pos": "CF-R",
+            "place": "10"
+          }
+        ],
+        "away": [
+          {
+            "name": "Emiliano Martínez",
+            "short": "E. Martínez",
+            "num": "23",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Marcos Senesi",
+            "short": "M. Senesi",
+            "num": "2",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Nicolás Otamendi",
+            "short": "N. Otamendi",
+            "num": "19",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Nicolás Tagliafico",
+            "short": "N. Tagliafico",
+            "num": "3",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Exequiel Palacios",
+            "short": "E. Palacios",
+            "num": "14",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Leandro Paredes",
+            "short": "L. Paredes",
+            "num": "5",
+            "pos": "CM-L",
+            "place": "8"
+          },
+          {
+            "name": "Nico Paz",
+            "short": "N. Paz",
+            "num": "18",
+            "pos": "CM-R",
+            "place": "4"
+          },
+          {
+            "name": "Giovani Lo Celso",
+            "short": "G. Lo Celso",
+            "num": "11",
+            "pos": "LM",
+            "place": "11"
+          },
+          {
+            "name": "Giuliano Simeone",
+            "short": "G. Simeone",
+            "num": "17",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Julián Álvarez",
+            "short": "J. Álvarez",
+            "num": "9",
+            "pos": "CF-L",
+            "place": "9"
+          },
+          {
+            "name": "Lautaro Martínez",
+            "short": "L. Martínez",
+            "num": "22",
+            "pos": "CF-R",
+            "place": "10"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Mousa Al-Tamari",
+            "short": "M. Al-Tamari",
+            "num": "10",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mohammed Abu Zraiq",
+            "short": "M. Abu Zraiq",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Rajaei Ayed",
+            "short": "R. Ayed",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mohammad Abu Hasheesh",
+            "short": "M. Abu Hasheesh",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Abdallah Al-Fakhouri",
+            "short": "A. Al-Fakhouri",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mohammad Al-Daoud",
+            "short": "M. Al-Daoud",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Anas Badawi",
+            "short": "A. Badawi",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mohammad Abughoush",
+            "short": "M. Abughoush",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Saleem Obaid",
+            "short": "S. Obaid",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mahmoud Al-Mardi",
+            "short": "M. Al-Mardi",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Saed Al-Rosan",
+            "short": "S. Al-Rosan",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nour Bani Ateyah",
+            "short": "N. Bani Ateyah",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ibrahim Sadeh",
+            "short": "I. Sadeh",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mohammad Abualnadi",
+            "short": "M. Abualnadi",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Amer Jamous",
+            "short": "A. Jamous",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Alexis Mac Allister",
+            "short": "A. Mac Allister",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Facundo Medina",
+            "short": "F. Medina",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Lisandro Martínez",
+            "short": "L. Martínez",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Cristian Romero",
+            "short": "C. Romero",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gerónimo Rulli",
+            "short": "G. Rulli",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nahuel Molina",
+            "short": "N. Molina",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Enzo Fernández",
+            "short": "E. Fernández",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nico González",
+            "short": "N. González",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Juan Musso",
+            "short": "J. Musso",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Rodrigo De Paul",
+            "short": "R. De Paul",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Lionel Messi",
+            "short": "L. Messi",
+            "num": "10",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gonzalo Montiel",
+            "short": "G. Montiel",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Valentín Barco",
+            "short": "V. Barco",
+            "num": "8",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "José Manuel López",
+            "short": "J. López",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Thiago Almada",
+            "short": "T. Almada",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "3-4-2-1",
+        "away": "4-4-2"
+      },
+      "commentary": [
+        {
+          "min": "",
+          "text": "Match ends, Jordan 1, Argentina 3.",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Second Half ends, Jordan 1, Argentina 3.",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Mohammad Abu Zraiq (Jordan) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Alexis Mac Allister (Argentina) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Foul by Mohammad Abu Zraiq (Jordan).",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Handball by Mahmoud Al Mardi (Jordan).",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Corner, Jordan. Conceded by Valentín Barco.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Attempt missed. Marcos Senesi (Argentina) right footed shot from very close range is too high. Assisted by Lionel Messi with a cross following a set piece situation.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Fourth official has announced 5 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Substitution, Jordan. Saleem Obaid replaces Husam Abu Dahab because of an injury.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Substitution, Jordan. Mohammad Abu Zraiq replaces Ali Olwan.",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Delay in match because of an injury Husam Abu Dahab (Jordan).",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Valentín Barco (Argentina) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Foul by Husam Abu Dahab (Jordan).",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Corner, Argentina. Conceded by Mohannad Abu Taha.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Corner, Argentina. Conceded by Abdallah Nasib.",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Corner, Argentina. Conceded by Ehsan Haddad.",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Attempt blocked. José Manuel López (Argentina) right footed shot from the left side of the box is blocked. Assisted by Lionel Messi.",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Nicolás Tagliafico (Argentina) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Foul by Ehsan Haddad (Jordan).",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Substitution, Argentina. José Manuel López replaces Julián Alvarez.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Attempt missed. Thiago Almada (Argentina) right footed shot from outside the box is close, but misses to the right.",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Goal! Jordan 1, Argentina 3. Lionel Messi (Argentina) from a free kick with a left footed shot to the centre of the goal.",
+          "goal": true
+        },
+        {
+          "min": "79'",
+          "text": "Lionel Messi (Argentina) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Foul by Amer Jamous (Jordan).",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Substitution, Jordan. Amer Jamous replaces Nizar Al Rashdan.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Foul by Nicolás Otamendi (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Mahmoud Al Mardi (Jordan) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Substitution, Argentina. Valentín Barco replaces Giuliano Simeone.",
+          "goal": false
+        },
+        {
+          "min": "70'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Alexis Mac Allister (Argentina) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Foul by Mahmoud Al Mardi (Jordan).",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Attempt missed. Lionel Messi (Argentina) left footed shot from outside the box is high and wide to the left from a direct free kick.",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Yazan Al Arab (Jordan) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Alexis Mac Allister (Argentina) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Foul by Yazan Al Arab (Jordan).",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Corner, Argentina. Conceded by Mohannad Abu Taha.",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Substitution, Argentina. Alexis Mac Allister replaces Nico Paz.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Substitution, Argentina. Lionel Messi replaces Lautaro Martínez.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Substitution, Argentina. Thiago Almada replaces Giovani Lo Celso.",
+          "goal": false
+        },
+        {
+          "min": "59'",
+          "text": "Attempt missed. Nico Paz (Argentina) right footed shot from outside the box misses to the right.",
+          "goal": false
+        },
+        {
+          "min": "55'",
+          "text": "Goal! Jordan 1, Argentina 2. Mousa Al Tamari (Jordan) left footed shot from the centre of the box to the top left corner. Assisted by Ehsan Haddad with a cross.",
+          "goal": true
+        },
+        {
+          "min": "53'",
+          "text": "Lautaro Martínez (Argentina) hits the bar with a right footed shot from outside the box. Assisted by Giovani Lo Celso.",
+          "goal": false
+        },
+        {
+          "min": "51'",
+          "text": "Attempt missed. Mousa Al Tamari (Jordan) left footed shot from outside the box is too high. Assisted by Ali Olwan.",
+          "goal": false
+        },
+        {
+          "min": "49'",
+          "text": "Nicolás Tagliafico (Argentina) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "49'",
+          "text": "Foul by Ali Olwan (Jordan).",
+          "goal": false
+        },
+        {
+          "min": "49'",
+          "text": "Foul by Nicolás Tagliafico (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "49'",
+          "text": "Mousa Al Tamari (Jordan) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "48'",
+          "text": "Offside, Argentina. Lautaro Martínez is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Second Half begins Jordan 0, Argentina 2.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Substitution, Jordan. Mousa Al Tamari replaces Ali Azaizeh.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Substitution, Jordan. Mahmoud Al Mardi replaces Odeh Fakhoury.",
+          "goal": false
+        },
+        {
+          "min": "45'+6'",
+          "text": "First Half ends, Jordan 0, Argentina 2.",
+          "goal": false
+        },
+        {
+          "min": "45'+5'",
+          "text": "Offside, Jordan. Odeh Fakhoury is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "45'+5'",
+          "text": "Attempt saved. Julián Alvarez (Argentina) left footed shot from the left side of the box is saved in the bottom left corner by Yazeed Abulaila (Jordan). Assisted by Lautaro Martínez.",
+          "goal": false
+        },
+        {
+          "min": "45'+3'",
+          "text": "Offside, Argentina. Nicolás Otamendi is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "45'+3'",
+          "text": "Nico Paz (Argentina) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "45'+3'",
+          "text": "Foul by Yazan Al Arab (Jordan).",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "M. Al-Tamari",
+            "num": "10",
+            "pos": "F",
+            "value": "2"
+          },
+          "away": {
+            "name": "L. Martínez",
+            "num": "22",
+            "pos": "F",
+            "value": "3"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "Y. Al-Arab",
+            "num": "5",
+            "pos": "D",
+            "value": "38"
+          },
+          "away": {
+            "name": "L. Paredes",
+            "num": "5",
+            "pos": "M",
+            "value": "154"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "M. Abu Taha",
+            "num": "20",
+            "pos": "D",
+            "value": "13"
+          },
+          "away": {
+            "name": "E. Palacios",
+            "num": "14",
+            "pos": "M",
+            "value": "10"
+          }
+        },
+        {
+          "label": "Saves",
+          "home": {
+            "name": "Y. Abulaila",
+            "num": "1",
+            "pos": "G",
+            "value": "1"
+          }
+        }
+      ],
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0627/dm_260627_COM_SOC_News_Fans_in_Buenos_Aires_erupt_as_Argentina_scores_vs_Jordan_20260627_GLOBAL_FIFA_WORL/dm_260627_COM_SOC_News_Fans_in_Buenos_Aires_erupt_as_Argentina_scores_vs_Jordan_20260627_GLOBAL_FIFA_WORL.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49203008/fans-buenos-aires-erupt-argentina-scores-vs-jordan",
+        "headline": "Fans in Buenos Aires erupt as Argentina scores vs. Jordan",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0627/dm_260627_COM_SOC_News_Fans_in_Buenos_Aires_erupt_as_Argentina_scores_vs_Jordan_20260627_GLOBAL_FIFA_WORL/dm_260627_COM_SOC_News_Fans_in_Buenos_Aires_erupt_as_Argentina_scores_vs_Jordan_20260627_GLOBAL_FIFA_WORL_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0627/dm_260627_COM_SOC_News_Fans_in_Buenos_Aires_erupt_as_Argentina_scores_vs_Jordan_20260627_GLOBAL_FIFA_WORL/dm_260627_COM_SOC_News_Fans_in_Buenos_Aires_erupt_as_Argentina_scores_vs_Jordan_20260627_GLOBAL_FIFA_WORL/playlist.m3u8"
+      },
+      "final": true,
+      "dv": 5
+    },
+    "760484": {
+      "venue": "GEHA Field at Arrowhead Stadium",
+      "stats": {
+        "home": {
+          "foulsCommitted": "3",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "1",
+          "wonCorners": "0",
+          "saves": "1",
+          "possessionPct": "65.1",
+          "totalShots": "12",
+          "shotsOnTarget": "5",
+          "shotPct": "0.4",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "706",
+          "totalPasses": "755",
+          "passPct": "0.9",
+          "accurateCrosses": "0",
+          "totalCrosses": "5",
+          "crossPct": "0.0",
+          "totalLongBalls": "43",
+          "accurateLongBalls": "25",
+          "longballPct": "0.6",
+          "blockedShots": "2",
+          "effectiveTackles": "6",
+          "totalTackles": "12",
+          "tacklePct": "0.5",
+          "interceptions": "3",
+          "effectiveClearance": "17",
+          "totalClearance": "17"
+        },
+        "away": {
+          "foulsCommitted": "7",
+          "yellowCards": "1",
+          "redCards": "0",
+          "offsides": "3",
+          "wonCorners": "3",
+          "saves": "2",
+          "possessionPct": "34.9",
+          "totalShots": "10",
+          "shotsOnTarget": "3",
+          "shotPct": "0.3",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "346",
+          "totalPasses": "396",
+          "passPct": "0.9",
+          "accurateCrosses": "3",
+          "totalCrosses": "13",
+          "crossPct": "0.2",
+          "totalLongBalls": "33",
+          "accurateLongBalls": "14",
+          "longballPct": "0.4",
+          "blockedShots": "1",
+          "effectiveTackles": "4",
+          "totalTackles": "10",
+          "tacklePct": "0.4",
+          "interceptions": "10",
+          "effectiveClearance": "19",
+          "totalClearance": "19"
+        }
+      },
+      "events": [
+        {
+          "kind": "Yellow Card",
+          "min": "11'",
+          "side": "away",
+          "player": "Marko Arnautovic"
+        },
+        {
+          "kind": "Goal",
+          "min": "28'",
+          "side": "away",
+          "player": "Goal! Algeria 0, Austria 1. Marko Arnautovic"
+        },
+        {
+          "kind": "Goal",
+          "min": "45'",
+          "side": "home",
+          "player": "Goal! Algeria 1, Austria 1. Rafik Belghali"
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "away",
+          "player": "Substitution, Austria. Michael Gregoritsch replaces Marko Arnautovic."
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "away",
+          "player": "Substitution, Austria. Florian Grillitsch replaces Xaver Schlager."
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "away",
+          "player": "Substitution, Austria. Paul Wanner replaces Romano Schmid."
+        },
+        {
+          "kind": "Goal",
+          "min": "55'",
+          "side": "away",
+          "player": "Goal! Algeria 1, Austria 2. Marcel Sabitzer"
+        },
+        {
+          "kind": "Goal",
+          "min": "60'",
+          "side": "home",
+          "player": "Goal! Algeria 2, Austria 2. Riyad Mahrez"
+        },
+        {
+          "kind": "Substitution",
+          "min": "62'",
+          "side": "away",
+          "player": "Substitution, Austria. Kevin Danso replaces David Alaba."
+        },
+        {
+          "kind": "Substitution",
+          "min": "71'",
+          "side": "home",
+          "player": "Substitution, Algeria. Rayan Aït-Nouri replaces Jaouen Hadjam."
+        },
+        {
+          "kind": "Substitution",
+          "min": "71'",
+          "side": "home",
+          "player": "Substitution, Algeria. Zineddine Belaïd replaces Amine Gouiri."
+        },
+        {
+          "kind": "Substitution",
+          "min": "71'",
+          "side": "home",
+          "player": "Substitution, Algeria. Samir Chergui replaces Rafik Belghali."
+        },
+        {
+          "kind": "Goal",
+          "min": "90'+3'",
+          "side": "home",
+          "player": "Goal! Algeria 3, Austria 2. Riyad Mahrez"
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'+4'",
+          "side": "home",
+          "player": "Substitution, Algeria. Farès Ghedjemis replaces Houssem Aouar."
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'+5'",
+          "side": "away",
+          "player": "Substitution, Austria. Sasa Kalajdzic replaces Phillipp Mwene."
+        },
+        {
+          "kind": "Goal - Header",
+          "min": "90'+6'",
+          "side": "away",
+          "player": "Goal! Algeria 3, Austria 3. Sasa Kalajdzic"
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Oussama Benbot",
+            "short": "O. Benbot",
+            "num": "16",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Ramy Bensebaini",
+            "short": "R. Bensebaini",
+            "num": "21",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Aïssa Mandi",
+            "short": "A. Mandi",
+            "num": "2",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Jaouen Hadjam",
+            "short": "J. Hadjam",
+            "num": "13",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Rafik Belghali",
+            "short": "R. Belghali",
+            "num": "17",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Ibrahim Maza",
+            "short": "I. Maza",
+            "num": "22",
+            "pos": "AM",
+            "place": "10"
+          },
+          {
+            "name": "Nabil Bentaleb",
+            "short": "N. Bentaleb",
+            "num": "19",
+            "pos": "LM",
+            "place": "4"
+          },
+          {
+            "name": "Farès Chaïbi",
+            "short": "F. Chaïbi",
+            "num": "10",
+            "pos": "RM",
+            "place": "8"
+          },
+          {
+            "name": "Amine Gouiri",
+            "short": "A. Gouiri",
+            "num": "9",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Houssem Aouar",
+            "short": "H. Aouar",
+            "num": "8",
+            "pos": "AM-L",
+            "place": "11"
+          },
+          {
+            "name": "Riyad Mahrez",
+            "short": "R. Mahrez",
+            "num": "7",
+            "pos": "AM-R",
+            "place": "7"
+          }
+        ],
+        "away": [
+          {
+            "name": "Alexander Schlager",
+            "short": "A. Schlager",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "David Alaba",
+            "short": "D. Alaba",
+            "num": "8",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Philipp Lienhart",
+            "short": "P. Lienhart",
+            "num": "15",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Phillipp Mwene",
+            "short": "P. Mwene",
+            "num": "16",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Stefan Posch",
+            "short": "S. Posch",
+            "num": "5",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Romano Schmid",
+            "short": "R. Schmid",
+            "num": "18",
+            "pos": "AM",
+            "place": "10"
+          },
+          {
+            "name": "Xaver Schlager",
+            "short": "X. Schlager",
+            "num": "4",
+            "pos": "LM",
+            "place": "4"
+          },
+          {
+            "name": "Nicolas Seiwald",
+            "short": "N. Seiwald",
+            "num": "6",
+            "pos": "RM",
+            "place": "8"
+          },
+          {
+            "name": "Marko Arnautovic",
+            "short": "M. Arnautovic",
+            "num": "7",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Marcel Sabitzer",
+            "short": "M. Sabitzer",
+            "num": "9",
+            "pos": "AM-L",
+            "place": "11"
+          },
+          {
+            "name": "Konrad Laimer",
+            "short": "K. Laimer",
+            "num": "20",
+            "pos": "AM-R",
+            "place": "7"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Rayan Aït-Nouri",
+            "short": "R. Aït-Nouri",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Samir Chergui",
+            "short": "S. Chergui",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ramiz Zerrouki",
+            "short": "R. Zerrouki",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Farès Ghedjemis",
+            "short": "F. Ghedjemis",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Melvin Mastil",
+            "short": "M. Mastil",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Hicham Boudaoui",
+            "short": "H. Boudaoui",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Zineddine Belaïd",
+            "short": "Z. Belaïd",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Luca Zidane",
+            "short": "L. Zidane",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Anis Hadj Moussa",
+            "short": "A. Hadj Moussa",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Adil Boulbina",
+            "short": "A. Boulbina",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Achraf Abada",
+            "short": "A. Abada",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nadhir Benbouali",
+            "short": "N. Benbouali",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Yassine Titraoui",
+            "short": "Y. Titraoui",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mohamed Amine Tougai",
+            "short": "M. Tougai",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Florian Grillitsch",
+            "short": "F. Grillitsch",
+            "num": "10",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kevin Danso",
+            "short": "K. Danso",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Michael Svoboda",
+            "short": "M. Svoboda",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Alexander Prass",
+            "short": "A. Prass",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Carney Chukwuemeka",
+            "short": "C. Chukwuemeka",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Patrick Pentz",
+            "short": "P. Pentz",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Alessandro Schöpf",
+            "short": "A. Schöpf",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "David Affengruber",
+            "short": "D. Affengruber",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Patrick Wimmer",
+            "short": "P. Wimmer",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Sasa Kalajdzic",
+            "short": "S. Kalajdzic",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Florian Wiegele",
+            "short": "F. Wiegele",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Dejan Ljubicic",
+            "short": "D. Ljubicic",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Michael Gregoritsch",
+            "short": "M. Gregoritsch",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Paul Wanner",
+            "short": "P. Wanner",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Marco Friedl",
+            "short": "M. Friedl",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-2-3-1",
+        "away": "4-2-3-1"
+      },
+      "commentary": [
+        {
+          "min": "",
+          "text": "Match ends, Algeria 3, Austria 3.",
+          "goal": false
+        },
+        {
+          "min": "90'+7'",
+          "text": "Second Half ends, Algeria 3, Austria 3.",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Goal! Algeria 3, Austria 3. Sasa Kalajdzic (Austria) header from the centre of the box to the bottom right corner. Assisted by Michael Gregoritsch with a headed pass.",
+          "goal": true
+        },
+        {
+          "min": "90'+5'",
+          "text": "Attempt missed. Philipp Lienhart (Austria) left footed shot from the centre of the box is high and wide to the left. Assisted by Michael Gregoritsch.",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Substitution, Austria. Sasa Kalajdzic replaces Phillipp Mwene.",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Substitution, Algeria. Farès Ghedjemis replaces Houssem Aouar.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Goal! Algeria 3, Austria 2. Riyad Mahrez (Algeria) right footed shot from the centre of the box to the bottom left corner. Assisted by Houssem Aouar with a through ball.",
+          "goal": true
+        },
+        {
+          "min": "90'",
+          "text": "Fourth official has announced 4 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Offside, Algeria. Zineddine Belaïd is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Riyad Mahrez (Algeria) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Foul by Florian Grillitsch (Austria).",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Foul by Rayan Aït-Nouri (Algeria).",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Paul Wanner (Austria) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Substitution, Algeria. Samir Chergui replaces Rafik Belghali.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Substitution, Algeria. Zineddine Belaïd replaces Amine Gouiri.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Substitution, Algeria. Rayan Aït-Nouri replaces Jaouen Hadjam.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Attempt missed. Kevin Danso (Austria) header from the centre of the box misses to the right. Assisted by Marcel Sabitzer with a cross following a corner.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Corner, Austria. Conceded by Rafik Belghali.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Attempt missed. Nicolas Seiwald (Austria) right footed shot from outside the box is close, but misses to the right. Assisted by Phillipp Mwene.",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Foul by Houssem Aouar (Algeria).",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Stefan Posch (Austria) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Substitution, Austria. Kevin Danso replaces David Alaba.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Goal! Algeria 2, Austria 2. Riyad Mahrez (Algeria) left footed shot from the centre of the box to the top right corner. Assisted by Houssem Aouar.",
+          "goal": true
+        },
+        {
+          "min": "59'",
+          "text": "Handball by Michael Gregoritsch (Austria).",
+          "goal": false
+        },
+        {
+          "min": "59'",
+          "text": "Attempt blocked. Farès Chaïbi (Algeria) right footed shot from outside the box is blocked. Assisted by Aïssa Mandi.",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Farès Chaïbi (Algeria) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Foul by Florian Grillitsch (Austria).",
+          "goal": false
+        },
+        {
+          "min": "55'",
+          "text": "Goal! Algeria 1, Austria 2. Marcel Sabitzer (Austria) right footed shot from outside the box to the top right corner. Assisted by Konrad Laimer.",
+          "goal": true
+        },
+        {
+          "min": "54'",
+          "text": "Attempt saved. Farès Chaïbi (Algeria) right footed shot from outside the box is saved in the centre of the goal by Alexander Schlager (Austria). Assisted by Riyad Mahrez.",
+          "goal": false
+        },
+        {
+          "min": "49'",
+          "text": "Attempt missed. Ramy Bensebaini (Algeria) left footed shot from more than 35 yards is too high.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Second Half begins Algeria 1, Austria 1.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Substitution, Austria. Paul Wanner replaces Romano Schmid.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Substitution, Austria. Florian Grillitsch replaces Xaver Schlager.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Substitution, Austria. Michael Gregoritsch replaces Marko Arnautovic.",
+          "goal": false
+        },
+        {
+          "min": "45'+5'",
+          "text": "First Half ends, Algeria 1, Austria 1.",
+          "goal": false
+        },
+        {
+          "min": "45'+2'",
+          "text": "Oussama Benbot (Algeria) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "45'+2'",
+          "text": "Foul by Xaver Schlager (Austria).",
+          "goal": false
+        },
+        {
+          "min": "45'+2'",
+          "text": "Attempt blocked. Nicolas Seiwald (Austria) left footed shot from the centre of the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "45'+1'",
+          "text": "Corner, Austria. Conceded by Riyad Mahrez.",
+          "goal": false
+        },
+        {
+          "min": "45'+1'",
+          "text": "Fourth official has announced 4 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Goal! Algeria 1, Austria 1. Rafik Belghali (Algeria) left footed shot from the centre of the box to the top right corner.",
+          "goal": true
+        },
+        {
+          "min": "44'",
+          "text": "Attempt saved. Ibrahim Maza (Algeria) left footed shot from the centre of the box is saved in the centre of the goal by Alexander Schlager (Austria). Assisted by Rafik Belghali with a headed pass.",
+          "goal": false
+        },
+        {
+          "min": "42'",
+          "text": "Riyad Mahrez (Algeria) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "42'",
+          "text": "Foul by Romano Schmid (Austria).",
+          "goal": false
+        },
+        {
+          "min": "42'",
+          "text": "Attempt blocked. Riyad Mahrez (Algeria) left footed shot from outside the box is blocked. Assisted by Nabil Bentaleb.",
+          "goal": false
+        },
+        {
+          "min": "41'",
+          "text": "Attempt missed. Phillipp Mwene (Austria) right footed shot from the left side of the box misses to the left.",
+          "goal": false
+        },
+        {
+          "min": "40'",
+          "text": "Farès Chaïbi (Algeria) hits the right post with a left footed shot from outside the box. Assisted by Riyad Mahrez.",
+          "goal": false
+        },
+        {
+          "min": "39'",
+          "text": "Offside, Austria. Marko Arnautovic is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "38'",
+          "text": "Attempt missed. Romano Schmid (Austria) right footed shot from outside the box is just a bit too high following a corner.",
+          "goal": false
+        },
+        {
+          "min": "37'",
+          "text": "Corner, Austria. Conceded by Jaouen Hadjam.",
+          "goal": false
+        },
+        {
+          "min": "36'",
+          "text": "Attempt missed. Ibrahim Maza (Algeria) left footed shot from a difficult angle on the left is close, but misses to the left. Assisted by Nabil Bentaleb.",
+          "goal": false
+        },
+        {
+          "min": "32'",
+          "text": "Attempt missed. Rafik Belghali (Algeria) right footed shot from the right side of the box misses to the left. Assisted by Ibrahim Maza.",
+          "goal": false
+        },
+        {
+          "min": "30'",
+          "text": "Offside, Austria. Marko Arnautovic is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "28'",
+          "text": "Goal! Algeria 0, Austria 1. Marko Arnautovic (Austria) right footed shot from the centre of the box to the bottom right corner. Assisted by David Alaba with a through ball.",
+          "goal": true
+        },
+        {
+          "min": "26'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "23'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "19'",
+          "text": "Offside, Austria. Konrad Laimer is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "12'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "I. Maza",
+            "num": "22",
+            "pos": "M",
+            "value": "3"
+          },
+          "away": {
+            "name": "N. Seiwald",
+            "num": "6",
+            "pos": "M",
+            "value": "2"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "R. Bensebaini",
+            "num": "21",
+            "pos": "D",
+            "value": "128"
+          },
+          "away": {
+            "name": "D. Alaba",
+            "num": "8",
+            "pos": "D",
+            "value": "49"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "F. Chaïbi",
+            "num": "10",
+            "pos": "M",
+            "value": "7"
+          },
+          "away": {
+            "name": "S. Posch",
+            "num": "5",
+            "pos": "D",
+            "value": "8"
+          }
+        },
+        {
+          "label": "Saves",
+          "away": {
+            "name": "A. Schlager",
+            "num": "1",
+            "pos": "G",
+            "value": "2"
           }
         }
       ],

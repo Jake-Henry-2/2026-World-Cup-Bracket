@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-28T20:00:19.104Z",
+  "lastUpdated": "2026-06-28T21:08:49.079Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -65090,67 +65090,134 @@
       "venue": "SoFi Stadium",
       "stats": {
         "home": {
-          "foulsCommitted": "5",
+          "foulsCommitted": "10",
           "yellowCards": "0",
           "redCards": "0",
-          "offsides": "0",
+          "offsides": "1",
           "wonCorners": "1",
-          "saves": "3",
-          "possessionPct": "55",
-          "totalShots": "3",
+          "saves": "5",
+          "possessionPct": "58.2",
+          "totalShots": "6",
           "shotsOnTarget": "1",
-          "shotPct": "0.3",
+          "shotPct": "0.2",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "204",
-          "totalPasses": "248",
+          "accuratePasses": "466",
+          "totalPasses": "550",
           "passPct": "0.8",
-          "accurateCrosses": "1",
-          "totalCrosses": "2",
-          "crossPct": "0.5",
-          "totalLongBalls": "39",
-          "accurateLongBalls": "18",
-          "longballPct": "0.5",
+          "accurateCrosses": "2",
+          "totalCrosses": "8",
+          "crossPct": "0.3",
+          "totalLongBalls": "70",
+          "accurateLongBalls": "31",
+          "longballPct": "0.4",
           "blockedShots": "1",
-          "effectiveTackles": "7",
-          "totalTackles": "13",
-          "tacklePct": "0.5",
-          "interceptions": "10",
-          "effectiveClearance": "14",
-          "totalClearance": "14"
+          "effectiveTackles": "14",
+          "totalTackles": "23",
+          "tacklePct": "0.6",
+          "interceptions": "16",
+          "effectiveClearance": "34",
+          "totalClearance": "34"
         },
         "away": {
-          "foulsCommitted": "6",
-          "yellowCards": "0",
+          "foulsCommitted": "16",
+          "yellowCards": "2",
           "redCards": "0",
           "offsides": "0",
-          "wonCorners": "3",
+          "wonCorners": "4",
           "saves": "1",
-          "possessionPct": "45",
-          "totalShots": "7",
-          "shotsOnTarget": "4",
+          "possessionPct": "41.8",
+          "totalShots": "12",
+          "shotsOnTarget": "7",
           "shotPct": "0.6",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "150",
-          "totalPasses": "193",
+          "accuratePasses": "298",
+          "totalPasses": "381",
           "passPct": "0.8",
-          "accurateCrosses": "4",
-          "totalCrosses": "7",
-          "crossPct": "0.6",
-          "totalLongBalls": "16",
-          "accurateLongBalls": "10",
-          "longballPct": "0.6",
+          "accurateCrosses": "5",
+          "totalCrosses": "12",
+          "crossPct": "0.4",
+          "totalLongBalls": "31",
+          "accurateLongBalls": "15",
+          "longballPct": "0.5",
           "blockedShots": "0",
-          "effectiveTackles": "4",
-          "totalTackles": "6",
-          "tacklePct": "0.7",
-          "interceptions": "6",
-          "effectiveClearance": "2",
-          "totalClearance": "2"
+          "effectiveTackles": "15",
+          "totalTackles": "20",
+          "tacklePct": "0.8",
+          "interceptions": "8",
+          "effectiveClearance": "14",
+          "totalClearance": "14"
         }
       },
-      "events": [],
+      "events": [
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "home",
+          "player": "Substitution, South Africa. Thalente Mbatha replaces Relebohile Mofokeng."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "54'",
+          "side": "away",
+          "player": "Nathan Saliba"
+        },
+        {
+          "kind": "Substitution",
+          "min": "59'",
+          "side": "away",
+          "player": "Substitution, Canada. Niko Sigur replaces Nathan Saliba."
+        },
+        {
+          "kind": "Substitution",
+          "min": "59'",
+          "side": "away",
+          "player": "Substitution, Canada. Luc De Fougerolles replaces Moïse Bombito."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "67'",
+          "side": "away",
+          "player": "Niko Sigur"
+        },
+        {
+          "kind": "Substitution",
+          "min": "70'",
+          "side": "away",
+          "player": "Substitution, Canada. Promise David replaces Tani Oluwaseyi."
+        },
+        {
+          "kind": "Substitution",
+          "min": "70'",
+          "side": "away",
+          "player": "Substitution, Canada. Jacob Shaffelburg replaces Liam Millar."
+        },
+        {
+          "kind": "Substitution",
+          "min": "75'",
+          "side": "away",
+          "player": "Substitution, Canada. Alphonso Davies replaces Tajon Buchanan."
+        },
+        {
+          "kind": "Substitution",
+          "min": "86'",
+          "side": "home",
+          "player": "Substitution, South Africa. Iqraam Rayners replaces Evidence Makgopa."
+        },
+        {
+          "kind": "Substitution",
+          "min": "86'",
+          "side": "home",
+          "player": "Substitution, South Africa. Tshepang Moremi replaces Thapelo Maseko."
+        },
+        {
+          "kind": "Goal - Volley",
+          "min": "90'+2'",
+          "side": "away",
+          "player": "Goal! South Africa 0, Canada 1. Stephen Eustaquio"
+        }
+      ],
       "lineups": {
         "home": [
           {
@@ -65519,228 +65586,303 @@
       },
       "commentary": [
         {
-          "min": "45'+4'",
-          "text": "First Half ends, South Africa 0, Canada 0.",
+          "min": "",
+          "text": "Match ends, South Africa 0, Canada 1.",
           "goal": false
         },
         {
-          "min": "45'+4'",
-          "text": "First Half ends, South Africa 0, Canada 0.",
+          "min": "90'+7'",
+          "text": "Second Half ends, South Africa 0, Canada 1.",
           "goal": false
         },
         {
-          "min": "45'+3'",
-          "text": "Khuliso Mudau (South Africa) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "45'+3'",
-          "text": "Foul by Tani Oluwaseyi (Canada).",
-          "goal": false
-        },
-        {
-          "min": "45'+1'",
-          "text": "Fourth official has announced 3 minutes of added time.",
-          "goal": false
-        },
-        {
-          "min": "44'",
-          "text": "Relebohile Mofokeng (South Africa) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "44'",
-          "text": "Foul by Nathan Saliba (Canada).",
-          "goal": false
-        },
-        {
-          "min": "44'",
-          "text": "Attempt saved. Tajon Buchanan (Canada) right footed shot from the right side of the six yard box is saved in the bottom right corner by Ronwen Williams (South Africa). Assisted by Derek Cornelius.",
-          "goal": false
-        },
-        {
-          "min": "44'",
-          "text": "Attempt blocked. Moïse Bombito (Canada) header from very close range is blocked. Assisted by Stephen Eustaquio with a cross.",
-          "goal": false
-        },
-        {
-          "min": "43'",
-          "text": "Corner, Canada. Conceded by Khuliso Mudau.",
-          "goal": false
-        },
-        {
-          "min": "41'",
-          "text": "Attempt missed. Tani Oluwaseyi (Canada) header from the centre of the box is too high. Assisted by Stephen Eustaquio with a cross following a set piece situation.",
-          "goal": false
-        },
-        {
-          "min": "40'",
+          "min": "90'+6'",
           "text": "Foul by Mbekezeli Mbokazi (South Africa).",
           "goal": false
         },
         {
-          "min": "40'",
-          "text": "Tani Oluwaseyi (Canada) wins a free kick on the right wing.",
+          "min": "90'+6'",
+          "text": "Maxime Crépeau (Canada) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "39'",
-          "text": "Foul by Yaya Sithole (South Africa).",
+          "min": "90'+4'",
+          "text": "Offside, South Africa. Mbekezeli Mbokazi is caught offside.",
           "goal": false
         },
         {
-          "min": "39'",
-          "text": "Nathan Saliba (Canada) wins a free kick in the defensive half.",
+          "min": "90'+2'",
+          "text": "Goal! South Africa 0, Canada 1. Stephen Eustaquio (Canada) right footed shot from outside the box to the bottom left corner.",
+          "goal": true
+        },
+        {
+          "min": "90'",
+          "text": "Fourth official has announced 5 minutes of added time.",
           "goal": false
         },
         {
-          "min": "37'",
-          "text": "Foul by Thapelo Maseko (South Africa).",
+          "min": "89'",
+          "text": "Foul by Iqraam Rayners (South Africa).",
           "goal": false
         },
         {
-          "min": "37'",
-          "text": "Richie Laryea (Canada) wins a free kick on the left wing.",
+          "min": "89'",
+          "text": "Derek Cornelius (Canada) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "37'",
-          "text": "VAR Decision: Other Decision Cancelled.",
+          "min": "87'",
+          "text": "Khuliso Mudau (South Africa) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "36'",
-          "text": "Attempt missed. Ime Okon (South Africa) header from the centre of the box misses to the right. Assisted by Oswin Appollis with a cross following a corner.",
-          "goal": false
-        },
-        {
-          "min": "35'",
-          "text": "Corner, South Africa. Conceded by Liam Millar.",
-          "goal": false
-        },
-        {
-          "min": "35'",
-          "text": "Attempt saved. Tani Oluwaseyi (Canada) left footed shot from the left side of the box is saved in the top left corner by Ronwen Williams (South Africa). Assisted by Liam Millar.",
-          "goal": false
-        },
-        {
-          "min": "26'",
-          "text": "Delay over. They are ready to continue.",
-          "goal": false
-        },
-        {
-          "min": "23'",
-          "text": "Delay in match for a drinks break.",
-          "goal": false
-        },
-        {
-          "min": "23'",
-          "text": "Mbekezeli Mbokazi (South Africa) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "23'",
-          "text": "Foul by Jonathan David (Canada).",
-          "goal": false
-        },
-        {
-          "min": "23'",
-          "text": "Attempt blocked. Teboho Mokoena (South Africa) right footed shot from outside the box is blocked. Assisted by Thapelo Maseko.",
-          "goal": false
-        },
-        {
-          "min": "22'",
-          "text": "Attempt saved. Derek Cornelius (Canada) header from the centre of the box is saved in the centre of the goal by Ronwen Williams (South Africa). Assisted by Stephen Eustaquio with a cross.",
-          "goal": false
-        },
-        {
-          "min": "21'",
-          "text": "Foul by Ime Okon (South Africa).",
-          "goal": false
-        },
-        {
-          "min": "21'",
-          "text": "Tani Oluwaseyi (Canada) wins a free kick on the left wing.",
-          "goal": false
-        },
-        {
-          "min": "20'",
-          "text": "Foul by Relebohile Mofokeng (South Africa).",
-          "goal": false
-        },
-        {
-          "min": "20'",
-          "text": "Nathan Saliba (Canada) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "17'",
-          "text": "Attempt missed. Jonathan David (Canada) right footed shot from the centre of the box is close, but misses to the right. Assisted by Stephen Eustaquio with a cross following a corner.",
-          "goal": false
-        },
-        {
-          "min": "16'",
-          "text": "Corner, Canada. Conceded by Yaya Sithole.",
-          "goal": false
-        },
-        {
-          "min": "15'",
-          "text": "VAR Decision: Other Decision Cancelled.",
-          "goal": false
-        },
-        {
-          "min": "13'",
-          "text": "Thapelo Maseko (South Africa) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "13'",
+          "min": "87'",
           "text": "Foul by Richie Laryea (Canada).",
           "goal": false
         },
         {
-          "min": "10'",
-          "text": "Relebohile Mofokeng (South Africa) wins a free kick in the defensive half.",
+          "min": "86'",
+          "text": "Substitution, South Africa. Tshepang Moremi replaces Thapelo Maseko.",
           "goal": false
         },
         {
-          "min": "10'",
-          "text": "Foul by Nathan Saliba (Canada).",
+          "min": "86'",
+          "text": "Substitution, South Africa. Iqraam Rayners replaces Evidence Makgopa.",
           "goal": false
         },
         {
-          "min": "9'",
-          "text": "Corner, Canada. Conceded by Thapelo Maseko.",
+          "min": "86'",
+          "text": "Oswin Appollis (South Africa) wins a free kick in the attacking half.",
           "goal": false
         },
         {
-          "min": "7'",
-          "text": "Attempt missed. Stephen Eustaquio (Canada) right footed shot from outside the box is too high.",
+          "min": "86'",
+          "text": "Foul by Niko Sigur (Canada).",
           "goal": false
         },
         {
-          "min": "6'",
-          "text": "Attempt saved. Teboho Mokoena (South Africa) right footed shot from outside the box is saved in the bottom left corner by Maxime Crépeau (Canada). Assisted by Relebohile Mofokeng.",
+          "min": "85'",
+          "text": "Attempt missed. Oswin Appollis (South Africa) right footed shot from outside the box is close, but misses to the right. Assisted by Yaya Sithole.",
           "goal": false
         },
         {
-          "min": "4'",
-          "text": "Foul by Tajon Buchanan (Canada).",
-          "goal": false
-        },
-        {
-          "min": "4'",
+          "min": "81'",
           "text": "Aubrey Modiba (South Africa) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "",
-          "text": "First Half begins.",
+          "min": "81'",
+          "text": "Foul by Jacob Shaffelburg (Canada).",
           "goal": false
         },
         {
-          "min": "",
-          "text": "Lineups are announced and players are warming up.",
+          "min": "78'",
+          "text": "Attempt saved. Jonathan David (Canada) left footed shot from a difficult angle on the left is saved in the top left corner by Ronwen Williams (South Africa). Assisted by Alphonso Davies.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Attempt missed. Promise David (Canada) right footed shot from outside the box is close, but misses to the left. Assisted by Jonathan David following a fast break.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Foul by Thalente Mbatha (South Africa).",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Richie Laryea (Canada) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Substitution, Canada. Alphonso Davies replaces Tajon Buchanan.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Attempt missed. Thalente Mbatha (South Africa) right footed shot from outside the box is too high. Assisted by Thapelo Maseko.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Aubrey Modiba (South Africa) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Foul by Niko Sigur (Canada).",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Thapelo Maseko (South Africa) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Foul by Richie Laryea (Canada).",
+          "goal": false
+        },
+        {
+          "min": "70'",
+          "text": "Substitution, Canada. Jacob Shaffelburg replaces Liam Millar.",
+          "goal": false
+        },
+        {
+          "min": "70'",
+          "text": "Substitution, Canada. Promise David replaces Tani Oluwaseyi.",
+          "goal": false
+        },
+        {
+          "min": "70'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Niko Sigur (Canada) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Teboho Mokoena (South Africa) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Foul by Niko Sigur (Canada).",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Attempt missed. Luc De Fougerolles (Canada) header from the centre of the box misses to the right. Assisted by Stephen Eustaquio with a cross following a corner.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Corner, Canada. Conceded by Mbekezeli Mbokazi.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Attempt saved. Tani Oluwaseyi (Canada) left footed shot from the centre of the box is saved in the centre of the goal by Ronwen Williams (South Africa). Assisted by Niko Sigur with a through ball.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Attempt missed. Oswin Appollis (South Africa) right footed shot from outside the box is close, but misses to the right.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Delay in match (South Africa).",
+          "goal": false
+        },
+        {
+          "min": "59'",
+          "text": "Substitution, Canada. Luc De Fougerolles replaces Moïse Bombito.",
+          "goal": false
+        },
+        {
+          "min": "59'",
+          "text": "Substitution, Canada. Niko Sigur replaces Nathan Saliba.",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Delay in match because of an injury Stephen Eustaquio (Canada).",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Foul by Thapelo Maseko (South Africa).",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Stephen Eustaquio (Canada) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "54'",
+          "text": "Nathan Saliba (Canada) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "54'",
+          "text": "Khuliso Mudau (South Africa) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "54'",
+          "text": "Foul by Nathan Saliba (Canada).",
+          "goal": false
+        },
+        {
+          "min": "54'",
+          "text": "Thapelo Maseko (South Africa) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "54'",
+          "text": "Foul by Richie Laryea (Canada).",
+          "goal": false
+        },
+        {
+          "min": "53'",
+          "text": "Foul by Thalente Mbatha (South Africa).",
+          "goal": false
+        },
+        {
+          "min": "53'",
+          "text": "Richie Laryea (Canada) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "49'",
+          "text": "Khuliso Mudau (South Africa) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "49'",
+          "text": "Foul by Liam Millar (Canada).",
+          "goal": false
+        },
+        {
+          "min": "49'",
+          "text": "Mbekezeli Mbokazi (South Africa) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "49'",
+          "text": "Foul by Jonathan David (Canada).",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Substitution, South Africa. Thalente Mbatha replaces Relebohile Mofokeng.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Second Half begins South Africa 0, Canada 0.",
           "goal": false
         }
       ],
@@ -65748,31 +65890,31 @@
         {
           "label": "Total Shots",
           "home": {
-            "name": "T. Mokoena",
-            "num": "4",
-            "pos": "M",
+            "name": "O. Appollis",
+            "num": "7",
+            "pos": "F",
             "value": "2"
           },
           "away": {
             "name": "T. Oluwaseyi",
             "num": "12",
             "pos": "F",
-            "value": "2"
+            "value": "3"
           }
         },
         {
           "label": "Accurate Passes",
           "home": {
-            "name": "R. Williams",
-            "num": "1",
-            "pos": "G",
-            "value": "38"
+            "name": "I. Okon",
+            "num": "21",
+            "pos": "D",
+            "value": "81"
           },
           "away": {
             "name": "D. Cornelius",
             "num": "13",
             "pos": "D",
-            "value": "24"
+            "value": "45"
           }
         },
         {
@@ -65781,13 +65923,13 @@
             "name": "K. Mudau",
             "num": "20",
             "pos": "D",
-            "value": "10"
+            "value": "19"
           },
           "away": {
-            "name": "N. Saliba",
-            "num": "25",
-            "pos": "M",
-            "value": "4"
+            "name": "L. de Fougerolles",
+            "num": "4",
+            "pos": "D",
+            "value": "8"
           }
         },
         {
@@ -65796,7 +65938,7 @@
             "name": "R. Williams",
             "num": "1",
             "pos": "G",
-            "value": "3"
+            "value": "5"
           },
           "away": {
             "name": "M. Crépeau",
@@ -65806,8 +65948,14 @@
           }
         }
       ],
-      "highlight": null,
-      "final": false,
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0628/dm_260628_Toronto_fan_zone_goes_wild_as_Canada_score_vs_South_Africa/dm_260628_Toronto_fan_zone_goes_wild_as_Canada_score_vs_South_Africa.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49209523/toronto-fan-zone-goes-wild-canada-score-vs-south-africa",
+        "headline": "Toronto fan zone goes wild as Canada score vs. South Africa",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0628/dm_260628_Toronto_fan_zone_goes_wild_as_Canada_score_vs_South_Africa/dm_260628_Toronto_fan_zone_goes_wild_as_Canada_score_vs_South_Africa_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0628/dm_260628_Toronto_fan_zone_goes_wild_as_Canada_score_vs_South_Africa/dm_260628_Toronto_fan_zone_goes_wild_as_Canada_score_vs_South_Africa/playlist.m3u8"
+      },
+      "final": true,
       "dv": 5
     }
   }

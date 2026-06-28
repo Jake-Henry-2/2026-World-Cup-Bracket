@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-28T22:17:02.683Z",
+  "lastUpdated": "2026-06-28T23:33:58.481Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -1033,8 +1033,8 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -140,
-        "away": 400,
+        "home": -145,
+        "away": 425,
         "draw": 280,
         "total": 2.5,
         "book": "DraftKings"
@@ -1053,9 +1053,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -295,
+        "home": -290,
         "away": 850,
-        "draw": 450,
+        "draw": 425,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -1073,9 +1073,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 130,
-        "away": 250,
-        "draw": 215,
+        "home": 125,
+        "away": 255,
+        "draw": 210,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -1113,8 +1113,8 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -370,
-        "away": 1000,
+        "home": -360,
+        "away": 950,
         "draw": 500,
         "total": 3.5,
         "book": "DraftKings"
@@ -1213,9 +1213,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -340,
-        "away": 1000,
-        "draw": 450,
+        "home": -320,
+        "away": 950,
+        "draw": 425,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -1293,8 +1293,8 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -650,
-        "away": 1800,
+        "home": -600,
+        "away": 1700,
         "draw": 700,
         "total": 2.5,
         "book": "DraftKings"
@@ -1313,8 +1313,8 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -180,
-        "away": 550,
+        "home": -185,
+        "away": 600,
         "draw": 300,
         "total": 2.5,
         "book": "DraftKings"

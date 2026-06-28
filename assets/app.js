@@ -80,7 +80,19 @@
   // "third" = the 3rd-place match, played by the two semifinal losers, so it earns the Semifinal
   // bonus (a semi exit pays +4, exactly as the rules show — NOT the Final's +6). The finalists never
   // play it, so they keep final/champion. KO_ORDER ranks it just past "sf" but below the finalists.
-  const KO_BONUS = { r32: SK.r32, r16: SK.r16, qf: SK.qf, sf: SK.sf, final: SK.final, third: SK.sf, champion: SK.champion };
+  // Knockout appearance points are CUMULATIVE — a team banks each round's value as it advances.
+  // APP_CUM[furthest round a team reached] = running total of appearance points earned by then.
+  // (r16 +1, qf +2, sf +4, final +6, champion +8 → champion = 1+2+4+6+8 = 21.) "third" = the
+  // 3rd-place match, played by semifinal losers, so it carries the same appearances as reaching SF.
+  const APP_CUM = {
+    r32: 0,
+    r16: SK.r16,
+    qf: SK.r16 + SK.qf,
+    sf: SK.r16 + SK.qf + SK.sf,
+    third: SK.r16 + SK.qf + SK.sf,
+    final: SK.r16 + SK.qf + SK.sf + SK.final,
+    champion: SK.r16 + SK.qf + SK.sf + SK.final + SK.champion
+  };
   const KO_ORDER = ["r32", "r16", "qf", "sf", "third", "final", "champion"];
 
   function blankTeam() {
@@ -109,18 +121,23 @@
       const stage = m.stage || "group";
       const isGroup = stage === "group";
 
-      [[home, hs, as], [away, as, hs]].forEach(([t, gf, ga]) => {
+      // who won the match (knockout "Win" point) — trust ESPN's winner flag (correct on penalties),
+      // fall back to the scoreline when no flag is present.
+      const homeWon = m.homeWinner === true || (m.homeWinner == null && m.awayWinner == null && hs > as);
+      const awayWon = m.awayWinner === true || (m.homeWinner == null && m.awayWinner == null && as > hs);
+      [[home, hs, as, homeWon], [away, as, hs, awayWon]].forEach(([t, gf, ga, won]) => {
         const ts = team[t];
         ts.fromMatch = true;
         ts.gp += 1; ts.gf += gf; ts.ga += ga;
         if (gf > ga) ts.w += 1; else if (gf === ga) ts.d += 1; else ts.l += 1;
         ts.stand += gf > ga ? 3 : gf === ga ? 1 : 0;     // real 3/1/0 for ranking
 
-        if (isGroup) {
+        if (isGroup) {                                   // group games no longer score (all SG values are 0)
           ts.fpts += gf > ga ? SG.win : gf === ga ? SG.draw : 0;
           ts.fpts += gf * SG.goalEach;
           if (ga === 0) ts.fpts += SG.shutout;
-        } else {
+        } else {                                         // knockout: Win +1, each Goal +1, Shutout +1
+          if (won) ts.fpts += SK.win;
           ts.fpts += gf * SK.goalEach;
           if (ga === 0) ts.fpts += SK.shutout;
         }
@@ -182,7 +199,7 @@
     }
     Object.entries(koMap).forEach(([raw, round]) => {
       const t = canon(raw);
-      if (team[t] && KO_BONUS[round]) { team[t].koBonus = KO_BONUS[round]; team[t].fpts += KO_BONUS[round]; }
+      if (team[t] && APP_CUM[round]) { team[t].koBonus = APP_CUM[round]; team[t].fpts += APP_CUM[round]; }
     });
 
     // ----- group games played / left per team (3 group games per team) -------
@@ -314,19 +331,15 @@
     box.innerHTML = "";
     managers.forEach((m) => {
       const card = el("div", "lb-row" + (m.rank === 1 ? " lb-leader" : ""));
-      const teams = m.teams.map((t) => {
-        const ts = state.computed.team[t.team];
-        const tag = ts.groupBonus === SG.groupWinner ? `<span class="tg win">GW +${SG.groupWinner}</span>`
-          : ts.groupBonus === SG.groupRunnerUp ? `<span class="tg ru">RU +${SG.groupRunnerUp}</span>` : "";
-        return `<span class="lb-team"><span class="lb-team-name">${esc(t.team)}</span>
-          <span class="lb-team-pts">${t.pts}</span>${tag}</span>`;
-      }).join("");
+      const teams = m.teams.map((t) =>
+        `<span class="lb-team"><span class="lb-team-name">${esc(t.team)}</span>
+          <span class="lb-team-pts">${t.pts}</span></span>`).join("");
       card.innerHTML = `
         <div class="lb-rank">${m.rank === 1 ? "👑" : "#" + m.rank}</div>
         <div class="lb-emoji">${m.emoji}</div>
         <div class="lb-main">
           <div class="lb-name"><span class="mgr-link" data-mgr="${esc(m.name)}" title="see ${esc(m.name)}'s team schedules">${esc(m.name)}</span> ${m.isNew ? "" : arrow(m.deltaRank)}
-            <span class="lb-left" title="group games this squad has played (of 12)">${m.gamesPlayed}/12 played${m.gamesLive ? ` <span class="lb-livedot">🔴${m.gamesLive}</span>` : ""}</span></div>
+            ${m.gamesLive ? `<span class="lb-left lb-livedot">🔴 ${m.gamesLive} live</span>` : ""}</div>
           <div class="lb-teams">${teams}</div>
         </div>
         <div class="lb-total">
@@ -407,19 +420,13 @@
     const leader = computed.managers[0];
     const runner = computed.managers[1];
     box.innerHTML = `
-      <div class="panel-h">🏆 Money Pots</div>
+      <div class="panel-h">🏆 Money Pot <span class="dim">Round of 32 → Final</span></div>
       <div class="pot-grid">
         <div class="pot">
           <div class="pot-amt">$${L.pots.main}</div>
-          <div class="pot-lbl">Main pot · Group stage</div>
+          <div class="pot-lbl">Knockout pot · $${L.pots.buyIn} rebuy / manager</div>
           <div class="pot-line">Leader: <b>${leader.emoji} ${esc(leader.name)}</b></div>
-          <div class="pot-line dim">Runner-up gets buy-in back: ${runner ? esc(runner.name) : "—"}</div>
-        </div>
-        <div class="pot">
-          <div class="pot-amt">$${L.pots.sidePool}</div>
-          <div class="pot-lbl">Remaining-8 side pool</div>
-          <div class="pot-line">Top team: <b>${computed.actualTop ? esc(computed.actualTop.team) : "—"}</b></div>
-          <div class="pot-line dim">Buy-in $${L.pots.buyIn}/manager</div>
+          <div class="pot-line dim">Winner takes the prize · runner-up${runner ? ` (${esc(runner.name)})` : ""} gets money back</div>
         </div>
       </div>`;
   }
@@ -524,16 +531,12 @@
     box.innerHTML = L.managers.map((m) => {
       const teams = m.teams.map((t) => {
         const ct = canon(t), ts = computed.team[ct];
-        const tag = ts.groupBonus === SG.groupWinner ? '<span class="tg win">GW</span>'
-          : ts.groupBonus === SG.groupRunnerUp ? '<span class="tg ru">RU</span>' : "";
         return `<div class="club-team"><span class="ct-name">${esc(ct)}</span>
-          <span class="ct-gp" title="group games played">${ts.gp}/3${ts.live ? ' <span class="ct-live">●LIVE</span>' : ""}</span>
-          <span class="club-pts">${ts.fpts}${tag}</span></div>`;
+          ${ts.live ? '<span class="ct-gp"><span class="ct-live">●LIVE</span></span>' : ""}
+          <span class="club-pts">${ts.fpts}</span></div>`;
       }).join("");
       const total = m.teams.reduce((s, t) => s + computed.team[canon(t)].fpts, 0);
-      const played = m.teams.reduce((s, t) => s + computed.team[canon(t)].gp, 0);
       return `<div class="club"><div class="club-h">${m.emoji} <b class="mgr-link" data-mgr="${esc(m.name)}" title="see ${esc(m.name)}'s team schedules">${esc(m.name)}</b>
-        <span class="club-left" title="group games played (of 12)">${played}/12 played</span>
         <span class="club-total">${total}</span></div>${teams}</div>`;
     }).join("");
   }
@@ -557,17 +560,16 @@
   // Scoring rules reference (static, from the sheet)
   function renderRules() {
     const box = $("#rules"); if (!box) return;
-    const g = L.scoring.group, k = L.scoring.knockout;
+    const k = L.scoring.knockout;
     const r = (label, val, plus) => `<div class="rule"><span>${label}</span><b>${plus ? "+" : ""}${val}</b></div>`;
-    box.innerHTML = `<div class="panel-h">📏 Scoring Rules</div>
+    box.innerHTML = `<div class="panel-h">📏 Scoring Rules <span class="dim">Round of 32 → Final · everyone starts at 0</span></div>
       <div class="rules-wrap">
-        <div class="rules-col"><div class="rules-h">Group Stage</div>
-          ${r("Win", g.win)}${r("Draw", g.draw)}${r("Goal (each)", g.goalEach)}${r("Shutout", g.shutout)}
-          ${r("Wins group", g.groupWinner, true)}${r("Group runner-up", g.groupRunnerUp, true)}</div>
-        <div class="rules-col"><div class="rules-h">Round of 32 → Final</div>
-          ${r("Goal (each)", k.goalEach)}${r("Shutout", k.shutout)}${r("Reach R32", k.r32, true)}${r("Reach R16", k.r16, true)}
-          ${r("Quarterfinal", k.qf, true)}${r("Semifinal", k.sf, true)}${r("Final", k.final, true)}${r("Champion", k.champion, true)}</div>
-      </div>`;
+        <div class="rules-col"><div class="rules-h">Per Knockout Game</div>
+          ${r("Win", k.win)}${r("Goal (each)", k.goalEach)}${r("Shutout", k.shutout)}</div>
+        <div class="rules-col"><div class="rules-h">Appearance (cumulative)</div>
+          ${r("Reach Round of 16", k.r16, true)}${r("Reach Quarterfinal", k.qf, true)}${r("Reach Semifinal", k.sf, true)}${r("Reach Final", k.final, true)}${r("Champion", k.champion, true)}</div>
+      </div>
+      <div class="rules-foot">Appearances stack as a team advances — a Champion earns ${APP_CUM.champion} from appearances (1+2+4+6+8) plus Win/Goal/Shutout points each round.</div>`;
   }
 
   /* =========================================================================
@@ -686,7 +688,6 @@
      → every visitor sees the same numbers; recomputed only when scores change.
      ====================================================================== */
   const SIM_N = 4000, WC_MEAN = 1.3;
-  const KO_PTS = { r32: SK.r32, r16: SK.r16, qf: SK.qf, sf: SK.sf, third: SK.sf, final: SK.final, champion: SK.champion };
   const amToProb = (am) => (am == null ? null : (am > 0 ? 100 / (am + 100) : -am / (-am + 100)));
   // de-vigged win/draw/away probabilities + expected goals (split the total by supremacy) from DK odds
   function oddsModel(o) {
@@ -716,104 +717,81 @@
     return { atk, def };
   }
 
-  // strength-seeded single-elimination knockout: adds goals/shutout per game + one appearance bonus
-  function simKnockout(qual, tp, rng, S) {
-    const rate = (t) => S.atk[t] / Math.max(0.4, S.def[t]);
-    const field = qual.slice(0, 32).sort((a, b) => rate(b) - rate(a));
-    let alive = field.slice();
-    const furth = {}; field.forEach((t) => (furth[t] = "r32"));
-    const game = (A, B) => {
-      const lA = clampn(WC_MEAN * S.atk[A] * S.def[B], 0.15, 4.5), lB = clampn(WC_MEAN * S.atk[B] * S.def[A], 0.15, 4.5);
-      const ga = rpois(rng, lA), gb = rpois(rng, lB);
-      tp[A] += ga * SK.goalEach + (gb === 0 ? SK.shutout : 0);
-      tp[B] += gb * SK.goalEach + (ga === 0 ? SK.shutout : 0);
-      return ga === gb ? (rng() < 0.5 ? A : B) : (ga > gb ? A : B);
-    };
-    const nextName = ["r16", "qf", "sf", "final"], sfL = [];
-    for (let r = 0; r < 4; r++) {
-      const nx = [];
-      for (let i = 0; i < alive.length; i += 2) {
-        const A = alive[i], B = alive[i + 1];
-        if (B == null) { nx.push(A); continue; }
-        const w = game(A, B); nx.push(w); furth[w] = nextName[r];
-        if (r === 3) sfL.push(w === A ? B : A);
-      }
-      alive = nx;
-    }
-    if (alive.length >= 2) { const champ = game(alive[0], alive[1]); furth[champ] = "champion"; }
-    if (sfL.length >= 2) { game(sfL[0], sfL[1]); furth[sfL[0]] = "third"; furth[sfL[1]] = "third"; }
-    field.forEach((t) => { tp[t] += KO_PTS[furth[t]] || 0; });
-  }
+  // 2026 knockout tree — which earlier-round winners feed each later match (from ESPN's bracket).
+  const R16_FEED = { 1: [1, 3], 2: [2, 5], 3: [4, 6], 4: [7, 8], 5: [11, 12], 6: [9, 10], 7: [13, 15], 8: [14, 16] };
+  const QF_FEED = { 1: [1, 2], 2: [5, 6], 3: [3, 4], 4: [7, 8] };
+  const SF_FEED = { 1: [1, 2], 2: [3, 4] };
 
   function runProjection(computed) {
     const matches = Array.isArray(state.results.matches) ? state.results.matches : [];
-    const koStarted = matches.some((m) => m && KO_STAGES.includes(m.stage) && m.status === "finished");
     const S = buildStrengths(matches);
-    const base = {};
-    ALL_TEAMS.forEach((t) => { const ts = computed.team[t]; base[t] = { fpts: ts.fpts, pts: ts.stand, gf: ts.gf, ga: ts.ga }; });
-    const remGroup = matches.filter((m) => m && m.stage === "group" && m.status !== "finished" && computed.team[canon(m.home)] && computed.team[canon(m.away)])
-      .map((m) => { const home = canon(m.home), away = canon(m.away); const md = oddsModel(m.odds); const lam = md || lamFromStrength(home, away, S); return { home, away, lH: lam.lH, lA: lam.lA }; });
-    const complete = {}; Object.keys(L.groups).forEach((g) => (complete[g] = !!(computed.groupTables[g] && computed.groupTables[g].complete)));
-    const groupEntries = Object.entries(L.groups);
-    const REMAIN8 = (L.remainingEight || []).map(canon);
-    const SIDEBETS = (L.sidePool || []).map((p) => ({ manager: p.manager, top: canon(p.top), runnerUp: canon(p.runnerUp) }));
+    // actual results of every finished knockout game, keyed by "home|away" so finished games are
+    // DETERMINISTIC in the sim (resolved by team identity → no double-count, no bracket-slot guessing).
+    const finRes = {};
+    matches.forEach((m) => {
+      if (!m || m.stage === "group" || m.status !== "finished") return;
+      const h = canon(m.home), a = canon(m.away); if (!TEAM_SET.has(h) || !TEAM_SET.has(a)) return;
+      const hs = Number(m.homeScore) || 0, as = Number(m.awayScore) || 0;
+      const hw = m.homeWinner === true || (m.homeWinner == null && m.awayWinner == null && hs > as);
+      finRes[h + "|" + a] = { winner: hw ? h : a, gh: hs, ga: as };
+    });
+    // the 16 Round-of-32 matchups from the feed (real teams, ordered by ESPN id = R32 match number)
+    const r32 = matches.filter((m) => m && m.stage === "r32" && TEAM_SET.has(canon(m.home)) && TEAM_SET.has(canon(m.away)))
+      .sort((a, b) => (Number(a.id) || 0) - (Number(b.id) || 0))
+      .map((m) => ({ home: canon(m.home), away: canon(m.away), md: oddsModel(m.odds) }));
+    const ready = r32.length === 16;
 
-    function oneSim(rng) {
-      const tp = {}, st = {};
-      ALL_TEAMS.forEach((t) => { tp[t] = base[t].fpts; st[t] = { pts: base[t].pts, gf: base[t].gf, ga: base[t].ga }; });
-      for (const g of remGroup) {
-        const gh = rpois(rng, g.lH), ga = rpois(rng, g.lA);
-        for (const [t, f, a] of [[g.home, gh, ga], [g.away, ga, gh]]) {
-          tp[t] += f > a ? SG.win : f === a ? SG.draw : 0; tp[t] += f * SG.goalEach; if (a === 0) tp[t] += SG.shutout;
-          st[t].pts += f > a ? 3 : f === a ? 1 : 0; st[t].gf += f; st[t].ga += a;
-        }
-      }
-      const qual = [], thirds = [];
-      for (const [g, ts] of groupEntries) {
-        const ord = ts.slice().sort((a, b) => st[b].pts - st[a].pts || (st[b].gf - st[b].ga) - (st[a].gf - st[a].ga) || st[b].gf - st[a].gf || (rng() - 0.5));
-        if (!complete[g]) { tp[ord[0]] += SG.groupWinner; tp[ord[1]] += SG.groupRunnerUp; }
-        qual.push(ord[0], ord[1]); thirds.push({ t: ord[2], pts: st[ord[2]].pts, gd: st[ord[2]].gf - st[ord[2]].ga, gf: st[ord[2]].gf });
-      }
-      thirds.sort((a, b) => b.pts - a.pts || b.gd - a.gd || b.gf - a.gf || (rng() - 0.5));
-      for (let i = 0; i < 8 && i < thirds.length; i++) qual.push(thirds[i].t);
-      if (!koStarted) simKnockout(qual, tp, rng, S);
-      const out = {};
-      for (const mgr of L.managers) out[mgr.name] = mgr.teams.reduce((s, t) => s + (tp[canon(t)] || 0), 0);
-      // ----- $50 side pool: rank the 8 undrafted teams, decide whose bet wins (mirrors renderSidePool) -----
-      const eight = REMAIN8.map((t) => ({ t, p: tp[t] || 0 })).sort((a, b) => b.p - a.p || (rng() - 0.5));
-      const top = eight[0].t, ru = eight[1] ? eight[1].t : null;
-      const ptsOf = (name) => { const e = eight.find((x) => x.t === name); return e ? e.p : 0; };
-      const bet = SIDEBETS.map((p) => ({ mgr: p.manager, hit: (p.top === top ? 1 : 0) + (ru && p.runnerUp === ru ? 1 : 0), pts: ptsOf(p.top) + ptsOf(p.runnerUp) }))
-        .sort((a, b) => b.hit - a.hit || b.pts - a.pts || (rng() - 0.5));
-      return { totals: out, top, ru, spWinner: bet.length ? bet[0].mgr : null, eight };
+    // play one game: finished → actual result; else simulate (R32 from DK odds, later rounds from strength)
+    function playGame(A, B, md, rng, tp) {
+      let gA, gB, aWon;
+      if (finRes[A + "|" + B]) { const x = finRes[A + "|" + B]; gA = x.gh; gB = x.ga; aWon = x.winner === A; }
+      else if (finRes[B + "|" + A]) { const x = finRes[B + "|" + A]; gA = x.ga; gB = x.gh; aWon = x.winner === A; }
+      else { const lam = md || lamFromStrength(A, B, S); gA = rpois(rng, lam.lH); gB = rpois(rng, lam.lA); aWon = gA === gB ? rng() < 0.5 : gA > gB; }
+      tp[A] = (tp[A] || 0) + (aWon ? SK.win : 0) + gA * SK.goalEach + (gB === 0 ? SK.shutout : 0);
+      tp[B] = (tp[B] || 0) + (aWon ? 0 : SK.win) + gB * SK.goalEach + (gA === 0 ? SK.shutout : 0);
+      return aWon ? A : B;
     }
 
-    const rng = mulberry32(20260611);     // fixed seed → reproducible for every visitor
+    function oneSim(rng) {
+      const tp = {}, furth = {};
+      const setF = (t, s) => { if (!furth[t] || KO_ORDER.indexOf(s) > KO_ORDER.indexOf(furth[t])) furth[t] = s; };
+      const w32 = {};
+      r32.forEach((mm, i) => { const A = mm.home, B = mm.away; setF(A, "r32"); setF(B, "r32"); w32[i + 1] = playGame(A, B, mm.md, rng, tp); });
+      const w16 = {};
+      for (let k = 1; k <= 8; k++) { const A = w32[R16_FEED[k][0]], B = w32[R16_FEED[k][1]]; setF(A, "r16"); setF(B, "r16"); w16[k] = playGame(A, B, null, rng, tp); }
+      const wqf = {};
+      for (let k = 1; k <= 4; k++) { const A = w16[QF_FEED[k][0]], B = w16[QF_FEED[k][1]]; setF(A, "qf"); setF(B, "qf"); wqf[k] = playGame(A, B, null, rng, tp); }
+      const wsf = {}, lsf = {};
+      for (let k = 1; k <= 2; k++) { const A = wqf[SF_FEED[k][0]], B = wqf[SF_FEED[k][1]]; setF(A, "sf"); setF(B, "sf"); const w = playGame(A, B, null, rng, tp); wsf[k] = w; lsf[k] = w === A ? B : A; }
+      { const A = wsf[1], B = wsf[2]; setF(A, "final"); setF(B, "final"); setF(playGame(A, B, null, rng, tp), "champion"); }
+      { const A = lsf[1], B = lsf[2]; setF(A, "third"); setF(B, "third"); playGame(A, B, null, rng, tp); }
+      for (const t in furth) tp[t] = (tp[t] || 0) + (APP_CUM[furth[t]] || 0);          // cumulative appearance
+      const out = {};
+      for (const mgr of L.managers) out[mgr.name] = mgr.teams.reduce((s, t) => s + (tp[canon(t)] || 0), 0);
+      return out;
+    }
+
+    const banked = {}; L.managers.forEach((m) => (banked[m.name] = Math.round(m.teams.reduce((s, t) => s + computed.team[canon(t)].fpts, 0))));
+    if (!ready) {   // Round-of-32 field not fully set yet → show banked only, no projection
+      return { ready: false, n: SIM_N, oddsCount: r32.filter((x) => x.md).length,
+        rows: L.managers.map((m) => ({ name: m.name, emoji: m.emoji, banked: banked[m.name], proj: banked[m.name], ceil: banked[m.name], win: 0 })).sort((a, b) => b.banked - a.banked) };
+    }
+    const rng = mulberry32(20260628);     // fixed seed → reproducible for every visitor
     const totals = {}, wins = {}; L.managers.forEach((m) => { totals[m.name] = new Float64Array(SIM_N); wins[m.name] = 0; });
-    const eSum = {}, eTop = {}, eRu = {}; REMAIN8.forEach((t) => { eSum[t] = 0; eTop[t] = 0; eRu[t] = 0; });
-    const spWin = {}; SIDEBETS.forEach((b) => (spWin[b.manager] = 0));
     for (let s = 0; s < SIM_N; s++) {
-      const r = oneSim(rng), mt = r.totals;
+      const mt = oneSim(rng);
       let best = -Infinity, leaders = [];
       for (const m of L.managers) { const v = mt[m.name]; totals[m.name][s] = v; if (v > best) { best = v; leaders = [m.name]; } else if (v === best) leaders.push(m.name); }
       leaders.forEach((n) => (wins[n] += 1 / leaders.length));
-      r.eight.forEach((e) => (eSum[e.t] += e.p)); if (eTop[r.top] != null) eTop[r.top]++; if (r.ru && eRu[r.ru] != null) eRu[r.ru]++;
-      if (r.spWinner) spWin[r.spWinner]++;
     }
     const mean = (a) => { let s = 0; for (let i = 0; i < a.length; i++) s += a[i]; return s / a.length; };
     const pctl = (a, p) => { const b = Array.from(a).sort((x, y) => x - y); return b[Math.min(b.length - 1, Math.floor(p * b.length))]; };
     const rows = L.managers.map((m) => ({
-      name: m.name, emoji: m.emoji,
-      banked: Math.round(m.teams.reduce((s, t) => s + computed.team[canon(t)].fpts, 0)),
+      name: m.name, emoji: m.emoji, banked: banked[m.name],
       proj: Math.round(mean(totals[m.name])), ceil: Math.round(pctl(totals[m.name], 0.9)), win: wins[m.name] / SIM_N
     }));
     rows.sort((a, b) => b.proj - a.proj || b.win - a.win);
-    const sidePool = {
-      teams: REMAIN8.map((t) => ({ team: t, proj: Math.round(eSum[t] / SIM_N), pTop: eTop[t] / SIM_N, pRu: eRu[t] / SIM_N }))
-        .sort((a, b) => b.pTop - a.pTop || b.proj - a.proj),
-      bettors: SIDEBETS.map((b) => ({ manager: b.manager, win: spWin[b.manager] / SIM_N })).sort((a, b) => b.win - a.win)
-    };
-    return { rows, n: SIM_N, oddsCount: matches.filter((m) => m && m.odds).length, koStarted, sidePool };
+    return { rows, n: SIM_N, oddsCount: r32.filter((x) => x.md).length, ready: true };
   }
 
   function renderProjections(computed) {
@@ -831,9 +809,9 @@
         <td class="proj-n proj-cl">${r.ceil}</td>
         <td class="proj-win"><span class="proj-bar" style="width:${(r.win / maxWin * 100).toFixed(0)}%"></span><span class="proj-wn">${(r.win * 100).toFixed(1)}%</span></td>
       </tr>`).join("");
-    const note = P.koStarted
-      ? `Knockouts are underway — these projections are group-stage-based; a bracket-aware version (real matchups + per-game odds) is the next step.`
-      : `Monte Carlo over the rest of the tournament from live <b>DraftKings</b> odds (${P.oddsCount} games priced). Group games use DK win/draw/total prices; the knockout run is a strength-seeded estimate. <b>Now</b> = banked · <b>Proj</b> = average finish · <b>Ceiling</b> = top-10% outcome · <b>Win $${L.pots.main}</b> = chance of finishing 1st. Updates as results land.`;
+    const note = !P.ready
+      ? `Projections start once all 16 Round-of-32 matchups are set. <b>Now</b> = points banked so far.`
+      : `Monte Carlo over the rest of the knockouts (${P.n.toLocaleString()} sims) from live <b>DraftKings</b> odds (${P.oddsCount} R32 games priced; later rounds use form). Finished games are locked to their real result. <b>Now</b> = banked · <b>Proj</b> = average finish · <b>Ceiling</b> = top-10% outcome · <b>Win $${L.pots.main}</b> = chance of finishing 1st. Updates as results land.`;
     box.innerHTML = `<div class="panel-h">📈 Projections <span class="dim">odds-powered · ${P.n.toLocaleString()} sims · DraftKings</span></div>
       <div class="proj-tablewrap"><table class="proj-t">
         <thead><tr><th>Manager</th><th title="points banked so far">Now</th><th title="average simulated finish">Proj</th><th title="top-10% outcome">Ceiling</th><th title="chance of finishing 1st for the $${L.pots.main} pot">Win $${L.pots.main}</th></tr></thead>
@@ -855,8 +833,8 @@
     return totals;
   }
   function pointsTimeline(computed) {
-    const all = (state.results.matches || []).filter((m) => m && m.status === "finished" && m.date
-      && computed.team[canon(m.home)] && computed.team[canon(m.away)]);
+    const all = (state.results.matches || []).filter((m) => m && m.status === "finished" && m.date && m.stage !== "group"
+      && computed.team[canon(m.home)] && computed.team[canon(m.away)]);   // knockout games only — group no longer scores
     const dayOf = (m) => String(m.date).slice(0, 10);
     const days = [...new Set(all.map(dayOf))].sort();
     if (days.length < 2) return { days: [], series: {} };
@@ -935,13 +913,10 @@
     renderBracket(computed);
     renderLeaderboard(computed.managers);
     renderProjections(computed);
-    renderGroups(computed);
-    renderSidePool(computed);
     renderPots(computed);
     renderGames(computed);
     renderClubs(computed);
     renderTimeline(computed);
-    renderPreseason(computed);
     renderRules();
     renderNews();
 

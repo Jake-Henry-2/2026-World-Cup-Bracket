@@ -15,21 +15,21 @@ window.LEAGUE = {
   preseasonRank: { Andy: 1, Trea: 2, Jack: 3, Mitch: 4, Dom: 5, Hafid: 6, Ant: 7, Francis: 8, Paul: 9, Benny: 10 },
 
   /* -------------------------------------------------------------------------
-     MANAGERS — each drafted 4 national teams (snake draft, rounds 1–4).
-     Each manager gets a UNIQUE emoji. Whoever is in 1st also gets a 👑 crown
-     in the ticker and on the leaderboard.
+     MANAGERS — KNOCKOUT REDRAFT: each manager drafted 3 teams for the Round of
+     32 → Final phase. Everyone restarts at 0; only knockout games score.
+     Each manager keeps their UNIQUE emoji; 1st place gets a 👑 crown.
      ---------------------------------------------------------------------- */
   managers: [
-    { name: "Mitch",   emoji: "🦁", teams: ["Argentina", "Croatia", "Iran", "Panama"] },
-    { name: "Trea",    emoji: "🐉", teams: ["Brazil", "Uruguay", "South Korea", "Qatar"] },
-    { name: "Benny",   emoji: "🦅", teams: ["Portugal", "Egypt", "Canada", "Iraq"] },
-    { name: "Andy",    emoji: "🐺", teams: ["England", "Senegal", "Ecuador", "Ghana"] },
-    { name: "Jack",    emoji: "🃏", teams: ["Belgium", "Colombia", "Ivory Coast", "Algeria"] },
-    { name: "Dom",     emoji: "💎", teams: ["France", "Japan", "Türkiye", "South Africa"] },
-    { name: "Ant",     emoji: "🐜", teams: ["Netherlands", "Switzerland", "Australia", "Czechia"] },
-    { name: "Francis", emoji: "💣", teams: ["Spain", "United States", "Sweden", "Bosnia and Herzegovina"] },
-    { name: "Hafid",   emoji: "🦊", teams: ["Norway", "Morocco", "Austria", "Scotland"] },
-    { name: "Paul",    emoji: "⚡", teams: ["Germany", "Mexico", "Paraguay", "New Zealand"] }
+    { name: "Mitch",   emoji: "🦁", teams: ["Argentina", "Belgium", "Australia"] },
+    { name: "Trea",    emoji: "🐉", teams: ["Brazil", "United States", "Paraguay"] },
+    { name: "Benny",   emoji: "🦅", teams: ["Portugal", "Morocco", "Ghana"] },
+    { name: "Andy",    emoji: "🐺", teams: ["England", "Senegal", "Austria"] },
+    { name: "Jack",    emoji: "🃏", teams: ["Colombia", "Egypt", "Cabo Verde"] },
+    { name: "Dom",     emoji: "💎", teams: ["France", "Croatia", "Mexico"] },
+    { name: "Ant",     emoji: "🐜", teams: ["Netherlands", "Switzerland", "Algeria"] },
+    { name: "Francis", emoji: "💣", teams: ["Spain", "Ecuador", "Sweden"] },
+    { name: "Hafid",   emoji: "🦊", teams: ["Norway", "Japan", "Bosnia and Herzegovina"] },
+    { name: "Paul",    emoji: "⚡", teams: ["Germany", "Ivory Coast", "Canada"] }
   ],
 
   /* -------------------------------------------------------------------------
@@ -50,49 +50,28 @@ window.LEAGUE = {
     L: ["England", "Croatia", "Ghana", "Panama"]
   },
 
-  /* -------------------------------------------------------------------------
-     THE "REMAINING 8" — the 8 undrafted teams that form the $50 side pool.
-     ---------------------------------------------------------------------- */
-  remainingEight: ["Haiti", "Curaçao", "Tunisia", "Cabo Verde", "Saudi Arabia", "DR Congo", "Uzbekistan", "Jordan"],
-
-  /* Side-pool BETS: these 5 managers each predicted the Top Point Winner and the
-     Runner-Up among the remaining 8 (ranked by total points). The $50 pot is
-     decided by these bets vs the teams' actual point standings. The other 5
-     managers did not enter the side pool. (From your "Remaining 8" block —
-     the "Team" column there is just the list of 8 teams, not a per-manager pick.) */
-  sidePool: [
-    { manager: "Francis", top: "Uzbekistan",   runnerUp: "Tunisia" },
-    { manager: "Paul",    top: "Uzbekistan",   runnerUp: "Saudi Arabia" },
-    { manager: "Mitch",   top: "Saudi Arabia", runnerUp: "Haiti" },
-    { manager: "Dom",     top: "DR Congo",     runnerUp: "Uzbekistan" },
-    { manager: "Andy",    top: "Saudi Arabia", runnerUp: "Uzbekistan" }
-  ],
+  /* The $50 side pool was retired for the knockout phase — no more group pools. */
+  remainingEight: [],
+  sidePool: [],
 
   /* -------------------------------------------------------------------------
      SCORING RULES — from your sheet.
      ---------------------------------------------------------------------- */
   scoring: {
-    // Group Match Fixtures (June 11–27)
-    group: {
-      win: 3,
-      draw: 1,
-      goalEach: 1,        // 1 point per goal scored
-      shutout: 1,         // 1 point for keeping a clean sheet
-      groupWinner: 5,     // team finishes 1st in its group
-      groupRunnerUp: 3    // team finishes 2nd in its group
-    },
-    // Round of 32 → Finals (June 28 – July 19)
+    // Group stage no longer scores — the knockout redraft reset everyone to 0.
+    group: { win: 0, draw: 0, goalEach: 0, shutout: 0, groupWinner: 0, groupRunnerUp: 0 },
+    // Round of 32 → Final. Per knockout game: Win +1, each Goal +1, Shutout +1.
+    // Appearance bonuses are CUMULATIVE — a team banks each round's points as it advances
+    // (summed in app.js): so a champion earns 1 + 2 + 4 + 6 + 8 = 21 from appearances alone.
     knockout: {
-      goalEach: 1,
-      shutout: 1,
-      r32: 2,             // reached Round of 32 — i.e. made the knockout bracket. The champion &
-                          //   runner-up advance past R32, so they earn their bigger Final/Champion
-                          //   bonus instead of this (the "furthest round reached" rule excludes them).
-      r16: 1,             // reached Round of 16
-      qf: 2,              // reached Quarterfinal
-      sf: 4,              // reached Semifinal
-      final: 6,           // reached Final
-      champion: 8         // won it all
+      win: 1,             // win a knockout match (incl. on penalties)
+      goalEach: 1,        // 1 point per goal scored
+      shutout: 1,         // 1 point for a clean sheet
+      r16: 1,             // reaching the Round of 16
+      qf: 2,              // reaching the Quarterfinal
+      sf: 4,              // reaching the Semifinal
+      final: 6,           // reaching the Final
+      champion: 8         // winning it all
     }
   },
 

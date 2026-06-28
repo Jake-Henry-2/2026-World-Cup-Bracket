@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27T23:37:52.478Z",
+  "lastUpdated": "2026-06-28T01:51:10.333Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -60560,67 +60560,134 @@
       "venue": "Hard Rock Stadium",
       "stats": {
         "home": {
-          "foulsCommitted": "1",
-          "yellowCards": "0",
+          "foulsCommitted": "12",
+          "yellowCards": "1",
           "redCards": "0",
-          "offsides": "1",
-          "wonCorners": "0",
-          "saves": "0",
-          "possessionPct": "44.9",
-          "totalShots": "2",
-          "shotsOnTarget": "0",
-          "shotPct": "0.0",
+          "offsides": "3",
+          "wonCorners": "5",
+          "saves": "2",
+          "possessionPct": "54.6",
+          "totalShots": "24",
+          "shotsOnTarget": "6",
+          "shotPct": "0.3",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "18",
-          "totalPasses": "22",
-          "passPct": "0.8",
-          "accurateCrosses": "0",
-          "totalCrosses": "0",
-          "crossPct": "0.0",
-          "totalLongBalls": "4",
-          "accurateLongBalls": "1",
-          "longballPct": "0.3",
-          "blockedShots": "1",
-          "effectiveTackles": "0",
-          "totalTackles": "1",
-          "tacklePct": "0.0",
-          "interceptions": "1",
-          "effectiveClearance": "0",
-          "totalClearance": "0"
+          "accuratePasses": "485",
+          "totalPasses": "545",
+          "passPct": "0.9",
+          "accurateCrosses": "3",
+          "totalCrosses": "10",
+          "crossPct": "0.3",
+          "totalLongBalls": "45",
+          "accurateLongBalls": "24",
+          "longballPct": "0.5",
+          "blockedShots": "7",
+          "effectiveTackles": "8",
+          "totalTackles": "14",
+          "tacklePct": "0.6",
+          "interceptions": "5",
+          "effectiveClearance": "17",
+          "totalClearance": "17"
         },
         "away": {
-          "foulsCommitted": "1",
+          "foulsCommitted": "6",
           "yellowCards": "0",
           "redCards": "0",
-          "offsides": "0",
-          "wonCorners": "0",
-          "saves": "0",
-          "possessionPct": "55.1",
-          "totalShots": "1",
-          "shotsOnTarget": "0",
-          "shotPct": "0.0",
+          "offsides": "2",
+          "wonCorners": "2",
+          "saves": "6",
+          "possessionPct": "45.4",
+          "totalShots": "13",
+          "shotsOnTarget": "2",
+          "shotPct": "0.2",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "24",
-          "totalPasses": "27",
+          "accuratePasses": "405",
+          "totalPasses": "445",
           "passPct": "0.9",
-          "accurateCrosses": "0",
-          "totalCrosses": "0",
-          "crossPct": "0.0",
-          "totalLongBalls": "3",
-          "accurateLongBalls": "3",
-          "longballPct": "1.0",
-          "blockedShots": "0",
-          "effectiveTackles": "0",
-          "totalTackles": "0",
-          "tacklePct": "0.0",
-          "interceptions": "0",
-          "effectiveClearance": "5",
-          "totalClearance": "5"
+          "accurateCrosses": "2",
+          "totalCrosses": "14",
+          "crossPct": "0.1",
+          "totalLongBalls": "30",
+          "accurateLongBalls": "20",
+          "longballPct": "0.7",
+          "blockedShots": "4",
+          "effectiveTackles": "4",
+          "totalTackles": "8",
+          "tacklePct": "0.5",
+          "interceptions": "11",
+          "effectiveClearance": "22",
+          "totalClearance": "22"
         }
       },
-      "events": [],
+      "events": [
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "away",
+          "player": "Substitution, Portugal. Diogo Dalot replaces João Cancelo."
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "away",
+          "player": "Substitution, Portugal. João Neves replaces Rúben Neves."
+        },
+        {
+          "kind": "Substitution",
+          "min": "60'",
+          "side": "home",
+          "player": "Substitution, Colombia. Richard Ríos replaces Jefferson Lerma."
+        },
+        {
+          "kind": "Substitution",
+          "min": "60'",
+          "side": "home",
+          "player": "Substitution, Colombia. Luis Suárez replaces Jhon Córdoba."
+        },
+        {
+          "kind": "Substitution",
+          "min": "70'",
+          "side": "away",
+          "player": "Substitution, Portugal. Rafael Leão replaces João Félix."
+        },
+        {
+          "kind": "Substitution",
+          "min": "70'",
+          "side": "away",
+          "player": "Substitution, Portugal. Samú Costa replaces Vitinha."
+        },
+        {
+          "kind": "Substitution",
+          "min": "76'",
+          "side": "home",
+          "player": "Substitution, Colombia. Kevin Castaño replaces Jhon Arias."
+        },
+        {
+          "kind": "Substitution",
+          "min": "76'",
+          "side": "home",
+          "player": "Substitution, Colombia. Juan Fernando Quintero replaces James Rodríguez."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "86'",
+          "side": "home",
+          "player": "Gustavo Puerta"
+        },
+        {
+          "kind": "Substitution",
+          "min": "87'",
+          "side": "home",
+          "player": "Substitution, Colombia. Daniel Muñoz replaces Santiago Arias."
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'+3'",
+          "side": "away",
+          "player": "Substitution, Portugal. Matheus Nunes replaces Nuno Mendes."
+        }
+      ],
       "lineups": {
         "home": [
           {
@@ -61003,53 +61070,303 @@
       },
       "commentary": [
         {
-          "min": "4'",
-          "text": "Attempt missed. Rúben Neves (Portugal) right footed shot from outside the box misses to the left.",
-          "goal": false
-        },
-        {
-          "min": "4'",
-          "text": "Nuno Mendes (Portugal) wins a free kick on the left wing.",
-          "goal": false
-        },
-        {
-          "min": "4'",
-          "text": "Foul by Jhon Arias (Colombia).",
-          "goal": false
-        },
-        {
-          "min": "2'",
-          "text": "Offside, Colombia. Jhon Córdoba is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "2'",
-          "text": "Attempt missed. Jhon Córdoba (Colombia) header from the centre of the box is just a bit too high.",
-          "goal": false
-        },
-        {
-          "min": "1'",
-          "text": "Attempt blocked. Luis Díaz (Colombia) right footed shot from the left side of the box is blocked. Assisted by Davinson Sánchez.",
-          "goal": false
-        },
-        {
-          "min": "1'",
-          "text": "Deiver Machado (Colombia) wins a free kick on the left wing.",
-          "goal": false
-        },
-        {
-          "min": "1'",
-          "text": "Foul by Pedro Neto (Portugal).",
-          "goal": false
-        },
-        {
           "min": "",
-          "text": "First Half begins.",
+          "text": "Match ends, Colombia 0, Portugal 0.",
           "goal": false
         },
         {
-          "min": "",
-          "text": "Lineups are announced and players are warming up.",
+          "min": "90'+6'",
+          "text": "Second Half ends, Colombia 0, Portugal 0.",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Foul by Daniel Muñoz (Colombia).",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Diogo Costa (Portugal) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Attempt blocked. Gustavo Puerta (Colombia) right footed shot from the centre of the box is blocked. Assisted by Luis Díaz.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Attempt missed. Rafael Leão (Portugal) right footed shot from the left side of the box misses to the right. Assisted by Renato Veiga.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Substitution, Portugal. Matheus Nunes replaces Nuno Mendes.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Offside, Colombia. Davinson Sánchez is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Corner, Colombia. Conceded by Pedro Neto.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Fourth official has announced 5 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Attempt missed. Luis Suárez (Colombia) header from the centre of the box misses to the left. Assisted by Daniel Muñoz with a cross.",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Attempt missed. Luis Suárez (Colombia) right footed shot from the centre of the box is high and wide to the left.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Substitution, Colombia. Daniel Muñoz replaces Santiago Arias.",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Gustavo Puerta (Colombia) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Richard Ríos (Colombia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Foul by Rúben Dias (Portugal).",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Foul by Richard Ríos (Colombia).",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Bruno Fernandes (Portugal) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Foul by Santiago Arias (Colombia).",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Rafael Leão (Portugal) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Corner, Portugal. Conceded by Davinson Sánchez.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Foul by Gustavo Puerta (Colombia).",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Pedro Neto (Portugal) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Attempt missed. Diogo Dalot (Portugal) right footed shot from outside the box is close, but misses to the right. Assisted by Bruno Fernandes following a corner.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Corner, Portugal. Conceded by Santiago Arias.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Substitution, Colombia. Juan Fernando Quintero replaces James Rodríguez.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Substitution, Colombia. Kevin Castaño replaces Jhon Arias.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Foul by Deiver Machado (Colombia).",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Diogo Dalot (Portugal) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Foul by Richard Ríos (Colombia).",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Nuno Mendes (Portugal) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Corner, Colombia. Conceded by Renato Veiga.",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Attempt blocked. James Rodríguez (Colombia) left footed shot from outside the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Attempt missed. Luis Suárez (Colombia) left footed shot from the centre of the box is close, but misses to the right. Assisted by Santiago Arias with a cross.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "70'",
+          "text": "Substitution, Portugal. Samú Costa replaces Vitinha.",
+          "goal": false
+        },
+        {
+          "min": "70'",
+          "text": "Substitution, Portugal. Rafael Leão replaces João Félix.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Delay in match because of an injury Nuno Mendes (Portugal).",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Attempt missed. Gustavo Puerta (Colombia) right footed shot from outside the box is close, but misses to the left. Assisted by Luis Díaz following a corner.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Corner, Colombia. Conceded by Diogo Costa.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Attempt saved. Jhon Arias (Colombia) right footed shot from the right side of the box is saved in the top right corner by Diogo Costa (Portugal). Assisted by Santiago Arias.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Attempt missed. Davinson Sánchez (Colombia) header from the centre of the box misses to the right. Assisted by James Rodríguez with a cross following a corner.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Corner, Colombia. Conceded by Renato Veiga.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Attempt blocked. Luis Suárez (Colombia) right footed shot from the right side of the box is blocked. Assisted by James Rodríguez.",
+          "goal": false
+        },
+        {
+          "min": "63'",
+          "text": "Foul by Richard Ríos (Colombia).",
+          "goal": false
+        },
+        {
+          "min": "63'",
+          "text": "Vitinha (Portugal) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Attempt missed. Richard Ríos (Colombia) left footed shot from the centre of the box is close, but misses to the right. Assisted by Santiago Arias.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Substitution, Colombia. Luis Suárez replaces Jhon Córdoba.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Substitution, Colombia. Richard Ríos replaces Jefferson Lerma.",
+          "goal": false
+        },
+        {
+          "min": "59'",
+          "text": "Offside, Portugal. Cristiano Ronaldo is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Attempt blocked. João Félix (Portugal) right footed shot from outside the box is blocked. Assisted by Nuno Mendes.",
+          "goal": false
+        },
+        {
+          "min": "55'",
+          "text": "Attempt saved. Jhon Arias (Colombia) right footed shot from outside the box is saved in the top right corner by Diogo Costa (Portugal). Assisted by Gustavo Puerta.",
+          "goal": false
+        },
+        {
+          "min": "55'",
+          "text": "Attempt saved. Jefferson Lerma (Colombia) right footed shot from outside the box is saved in the centre of the goal by Diogo Costa (Portugal). Assisted by Deiver Machado.",
+          "goal": false
+        },
+        {
+          "min": "51'",
+          "text": "Attempt missed. João Félix (Portugal) header from the centre of the box is high and wide to the left. Assisted by Diogo Dalot with a cross.",
+          "goal": false
+        },
+        {
+          "min": "49'",
+          "text": "Foul by Gustavo Puerta (Colombia).",
+          "goal": false
+        },
+        {
+          "min": "49'",
+          "text": "Bruno Fernandes (Portugal) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "48'",
+          "text": "Jhon Arias (Colombia) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "48'",
+          "text": "Foul by Cristiano Ronaldo (Portugal).",
           "goal": false
         }
       ],
@@ -61057,16 +61374,16 @@
         {
           "label": "Total Shots",
           "home": {
-            "name": "L. Díaz",
-            "num": "7",
-            "pos": "F",
-            "value": "1"
+            "name": "G. Puerta",
+            "num": "14",
+            "pos": "M",
+            "value": "4"
           },
           "away": {
-            "name": "R. Neves",
-            "num": "21",
-            "pos": "M",
-            "value": "1"
+            "name": "C. Ronaldo",
+            "num": "7",
+            "pos": "F",
+            "value": "3"
           }
         },
         {
@@ -61075,100 +61392,236 @@
             "name": "G. Puerta",
             "num": "14",
             "pos": "M",
-            "value": "5"
+            "value": "72"
           },
           "away": {
             "name": "R. Veiga",
             "num": "13",
             "pos": "D",
-            "value": "7"
+            "value": "54"
           }
         },
         {
           "label": "Defensive Interventions",
           "home": {
-            "name": "J. Arias",
-            "num": "11",
-            "pos": "M",
-            "value": "2"
+            "name": "D. Sánchez",
+            "num": "23",
+            "pos": "D",
+            "value": "12"
           },
           "away": {
             "name": "R. Veiga",
             "num": "13",
             "pos": "D",
-            "value": "3"
+            "value": "14"
+          }
+        },
+        {
+          "label": "Saves",
+          "home": {
+            "name": "C. Vargas",
+            "num": "12",
+            "pos": "G",
+            "value": "2"
+          },
+          "away": {
+            "name": "D. Costa",
+            "num": "1",
+            "pos": "G",
+            "value": "6"
           }
         }
       ],
-      "highlight": null,
-      "final": false,
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0627/dm_260627_colombia_fans_celeb/dm_260627_colombia_fans_celeb.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49202654/colombia-fans-bogota-celebrate-winning-group-k-portugal",
+        "headline": "Colombia fans in Bogota celebrate winning Group K over Portugal",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0627/dm_260627_colombia_fans_celeb/dm_260627_colombia_fans_celeb_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0627/dm_260627_colombia_fans_celeb/dm_260627_colombia_fans_celeb/playlist.m3u8"
+      },
+      "final": true,
       "dv": 5
     },
     "760482": {
       "venue": "Mercedes-Benz Stadium",
       "stats": {
         "home": {
-          "foulsCommitted": "1",
-          "yellowCards": "0",
+          "foulsCommitted": "6",
+          "yellowCards": "3",
           "redCards": "0",
-          "offsides": "0",
-          "wonCorners": "0",
+          "offsides": "3",
+          "wonCorners": "2",
           "saves": "1",
-          "possessionPct": "48.3",
-          "totalShots": "1",
-          "shotsOnTarget": "0",
-          "shotPct": "0.0",
+          "possessionPct": "57.6",
+          "totalShots": "19",
+          "shotsOnTarget": "4",
+          "shotPct": "0.2",
           "penaltyKickGoals": "0",
-          "penaltyKickShots": "0",
-          "accuratePasses": "19",
-          "totalPasses": "28",
-          "passPct": "0.7",
-          "accurateCrosses": "0",
-          "totalCrosses": "0",
-          "crossPct": "0.0",
-          "totalLongBalls": "4",
-          "accurateLongBalls": "0",
-          "longballPct": "0.0",
-          "blockedShots": "0",
-          "effectiveTackles": "2",
-          "totalTackles": "3",
+          "penaltyKickShots": "1",
+          "accuratePasses": "401",
+          "totalPasses": "487",
+          "passPct": "0.8",
+          "accurateCrosses": "5",
+          "totalCrosses": "21",
+          "crossPct": "0.2",
+          "totalLongBalls": "59",
+          "accurateLongBalls": "28",
+          "longballPct": "0.5",
+          "blockedShots": "1",
+          "effectiveTackles": "13",
+          "totalTackles": "20",
           "tacklePct": "0.7",
-          "interceptions": "0",
-          "effectiveClearance": "2",
-          "totalClearance": "2"
+          "interceptions": "7",
+          "effectiveClearance": "25",
+          "totalClearance": "25"
         },
         "away": {
-          "foulsCommitted": "1",
-          "yellowCards": "0",
+          "foulsCommitted": "16",
+          "yellowCards": "2",
           "redCards": "0",
-          "offsides": "2",
-          "wonCorners": "0",
-          "saves": "0",
-          "possessionPct": "51.7",
-          "totalShots": "1",
+          "offsides": "1",
+          "wonCorners": "4",
+          "saves": "1",
+          "possessionPct": "42.4",
+          "totalShots": "3",
           "shotsOnTarget": "1",
-          "shotPct": "0.0",
+          "shotPct": "0.3",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "23",
-          "totalPasses": "29",
+          "accuratePasses": "269",
+          "totalPasses": "355",
           "passPct": "0.8",
-          "accurateCrosses": "0",
-          "totalCrosses": "1",
-          "crossPct": "0.0",
-          "totalLongBalls": "6",
-          "accurateLongBalls": "2",
-          "longballPct": "0.3",
+          "accurateCrosses": "2",
+          "totalCrosses": "16",
+          "crossPct": "0.1",
+          "totalLongBalls": "59",
+          "accurateLongBalls": "21",
+          "longballPct": "0.4",
           "blockedShots": "0",
-          "effectiveTackles": "2",
-          "totalTackles": "3",
-          "tacklePct": "0.7",
-          "interceptions": "1",
-          "effectiveClearance": "0",
-          "totalClearance": "0"
+          "effectiveTackles": "18",
+          "totalTackles": "29",
+          "tacklePct": "0.6",
+          "interceptions": "12",
+          "effectiveClearance": "38",
+          "totalClearance": "38"
         }
       },
-      "events": [],
+      "events": [
+        {
+          "kind": "Goal",
+          "min": "10'",
+          "side": "away",
+          "player": "Goal! Congo DR 0, Uzbekistan 1. Eldor Shomurodov"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "21'",
+          "side": "home",
+          "player": "Noah Sadiki"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "43'",
+          "side": "away",
+          "player": "Abdukodir Khusanov"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "45'+5'",
+          "side": "home",
+          "player": "Nathanaël Mbuku"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "48'",
+          "side": "away",
+          "player": "Sherzod Nasrullaev"
+        },
+        {
+          "kind": "Substitution",
+          "min": "51'",
+          "side": "home",
+          "player": "Substitution, Congo DR. Fiston Mayele replaces Cédric Bakambu."
+        },
+        {
+          "kind": "Substitution",
+          "min": "59'",
+          "side": "away",
+          "player": "Substitution, Uzbekistan. Odiljon Khamrobekov replaces Otabek Shukurov."
+        },
+        {
+          "kind": "Substitution",
+          "min": "59'",
+          "side": "away",
+          "player": "Substitution, Uzbekistan. Aziz G'aniev replaces Dostonbek Khamdamov."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "62'",
+          "side": "home",
+          "player": "Samuel Moutoussamy"
+        },
+        {
+          "kind": "Penalty - Scored",
+          "min": "68'",
+          "side": "home",
+          "player": "Goal! Congo DR 1, Uzbekistan 1. Yoane Wissa"
+        },
+        {
+          "kind": "Substitution",
+          "min": "72'",
+          "side": "home",
+          "player": "Substitution, Congo DR. Meschack Elia replaces Nathanaël Mbuku."
+        },
+        {
+          "kind": "Substitution",
+          "min": "72'",
+          "side": "home",
+          "player": "Substitution, Congo DR. Théo Bongonda replaces Brian Cipenga."
+        },
+        {
+          "kind": "Substitution",
+          "min": "72'",
+          "side": "home",
+          "player": "Substitution, Congo DR. Ngal'ayel Mukau replaces Samuel Moutoussamy."
+        },
+        {
+          "kind": "Substitution",
+          "min": "73'",
+          "side": "away",
+          "player": "Substitution, Uzbekistan. Oston Urunov replaces Abbosbek Fayzullaev."
+        },
+        {
+          "kind": "Goal",
+          "min": "78'",
+          "side": "home",
+          "player": "Goal! Congo DR 2, Uzbekistan 1. Fiston Mayele"
+        },
+        {
+          "kind": "Substitution",
+          "min": "82'",
+          "side": "away",
+          "player": "Substitution, Uzbekistan. Jamshid Iskanderov replaces Akmal Mozgovoy."
+        },
+        {
+          "kind": "Substitution",
+          "min": "82'",
+          "side": "away",
+          "player": "Substitution, Uzbekistan. Igor Sergeev replaces Jakhongir Urozov."
+        },
+        {
+          "kind": "Substitution",
+          "min": "83'",
+          "side": "home",
+          "player": "Substitution, Congo DR. Joris Kayembe replaces Arthur Masuaku."
+        },
+        {
+          "kind": "Goal",
+          "min": "90'+1'",
+          "side": "home",
+          "player": "Goal! Congo DR 3, Uzbekistan 1. Yoane Wissa"
+        }
+      ],
       "lineups": {
         "home": [
           {
@@ -61551,48 +62004,303 @@
       },
       "commentary": [
         {
-          "min": "4'",
-          "text": "Sherzod Nasrullaev (Uzbekistan) wins a free kick in the defensive half.",
+          "min": "",
+          "text": "Match ends, Congo DR 3, Uzbekistan 1.",
           "goal": false
         },
         {
-          "min": "4'",
+          "min": "90'+8'",
+          "text": "Second Half ends, Congo DR 3, Uzbekistan 1.",
+          "goal": false
+        },
+        {
+          "min": "90'+8'",
+          "text": "Fiston Mayele (Congo DR) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "90'+8'",
+          "text": "Foul by Abdukodir Khusanov (Uzbekistan).",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Attempt missed. Théo Bongonda (Congo DR) left footed shot from the right side of the box is high and wide to the left. Assisted by Joris Kayembe with a cross.",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Attempt missed. Ngal'ayel Mukau (Congo DR) left footed shot from outside the box is too high. Assisted by Meschack Elia.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Corner, Uzbekistan. Conceded by Aaron Wan-Bissaka.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Goal! Congo DR 3, Uzbekistan 1. Yoane Wissa (Congo DR) right footed shot from outside the box to the bottom right corner. Assisted by Meschack Elia.",
+          "goal": true
+        },
+        {
+          "min": "90'+1'",
+          "text": "Attempt missed. Fiston Mayele (Congo DR) right footed shot from the right side of the box misses to the left. Assisted by Aaron Wan-Bissaka.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Fourth official has announced 8 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Yoane Wissa (Congo DR) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Foul by Aziz G'aniev (Uzbekistan).",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Attempt missed. Fiston Mayele (Congo DR) right footed shot from outside the box is close, but misses to the right. Assisted by Meschack Elia.",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Substitution, Congo DR. Joris Kayembe replaces Arthur Masuaku.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Substitution, Uzbekistan. Igor Sergeev replaces Jakhongir Urozov.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Substitution, Uzbekistan. Jamshid Iskanderov replaces Akmal Mozgovoy.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Goal! Congo DR 2, Uzbekistan 1. Fiston Mayele (Congo DR) right footed shot from very close range to the top left corner following a fast break.",
+          "goal": true
+        },
+        {
+          "min": "78'",
+          "text": "Attempt missed. Meschack Elia (Congo DR) right footed shot from outside the box misses to the left. Assisted by Noah Sadiki following a fast break.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Attempt missed. Fiston Mayele (Congo DR) header from the left side of the six yard box is too high. Assisted by Aaron Wan-Bissaka with a cross.",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Corner, Congo DR. Conceded by Sherzod Nasrullaev.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Substitution, Uzbekistan. Oston Urunov replaces Abbosbek Fayzullaev.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Substitution, Congo DR. Ngal'ayel Mukau replaces Samuel Moutoussamy.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Substitution, Congo DR. Théo Bongonda replaces Brian Cipenga.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Substitution, Congo DR. Meschack Elia replaces Nathanaël Mbuku.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "70'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "69'",
+          "text": "Nathanaël Mbuku (Congo DR) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "69'",
+          "text": "Foul by Eldor Shomurodov (Uzbekistan).",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Goal! Congo DR 1, Uzbekistan 1. Yoane Wissa (Congo DR) converts the penalty with a right footed shot to the bottom right corner.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Penalty Congo DR. Yoane Wissa draws a foul in the penalty area.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Penalty conceded by Abdukodir Khusanov (Uzbekistan) after a foul in the penalty area.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Arthur Masuaku (Congo DR) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Foul by Eldor Shomurodov (Uzbekistan).",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Samuel Moutoussamy (Congo DR) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Foul by Samuel Moutoussamy (Congo DR).",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Akmal Mozgovoy (Uzbekistan) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Attempt missed. Yoane Wissa (Congo DR) header from the centre of the box misses to the right. Assisted by Arthur Masuaku with a cross.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Attempt missed. Fiston Mayele (Congo DR) right footed shot from the left side of the box is high and wide to the right. Assisted by Nathanaël Mbuku.",
+          "goal": false
+        },
+        {
+          "min": "59'",
+          "text": "Substitution, Uzbekistan. Aziz G'aniev replaces Dostonbek Khamdamov.",
+          "goal": false
+        },
+        {
+          "min": "59'",
+          "text": "Substitution, Uzbekistan. Odiljon Khamrobekov replaces Otabek Shukurov.",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Offside, Congo DR. Fiston Mayele is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Attempt saved. Nathanaël Mbuku (Congo DR) left footed shot from outside the box is saved in the top centre of the goal by Abduvokhid Nematov (Uzbekistan). Assisted by Aaron Wan-Bissaka.",
+          "goal": false
+        },
+        {
+          "min": "55'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "54'",
+          "text": "Delay in match because of an injury Akmal Mozgovoy (Uzbekistan).",
+          "goal": false
+        },
+        {
+          "min": "53'",
+          "text": "Attempt missed. Brian Cipenga (Congo DR) right footed shot from the left side of the box is high and wide to the right. Assisted by Samuel Moutoussamy.",
+          "goal": false
+        },
+        {
+          "min": "51'",
+          "text": "Substitution, Congo DR. Fiston Mayele replaces Cédric Bakambu.",
+          "goal": false
+        },
+        {
+          "min": "51'",
+          "text": "Attempt missed. Eldor Shomurodov (Uzbekistan) right footed shot from the centre of the box is just a bit too high. Assisted by Khojiakbar Alijonov.",
+          "goal": false
+        },
+        {
+          "min": "50'",
+          "text": "Attempt missed. Yoane Wissa (Congo DR) left footed shot from the centre of the box misses to the left. Assisted by Samuel Moutoussamy.",
+          "goal": false
+        },
+        {
+          "min": "48'",
+          "text": "Attempt missed. Brian Cipenga (Congo DR) right footed shot from outside the box is high and wide to the right. Assisted by Arthur Masuaku following a set piece situation.",
+          "goal": false
+        },
+        {
+          "min": "48'",
+          "text": "Sherzod Nasrullaev (Uzbekistan) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "47'",
+          "text": "Nathanaël Mbuku (Congo DR) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "47'",
+          "text": "Foul by Sherzod Nasrullaev (Uzbekistan).",
+          "goal": false
+        },
+        {
+          "min": "47'",
+          "text": "Axel Tuanzebe (Congo DR) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "47'",
+          "text": "Foul by Abbosbek Fayzullaev (Uzbekistan).",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Second Half begins Congo DR 0, Uzbekistan 1.",
+          "goal": false
+        },
+        {
+          "min": "45'+7'",
+          "text": "First Half ends, Congo DR 0, Uzbekistan 1.",
+          "goal": false
+        },
+        {
+          "min": "45'+6'",
+          "text": "Attempt missed. Abbosbek Fayzullaev (Uzbekistan) right footed shot from outside the box is too high from a direct free kick.",
+          "goal": false
+        },
+        {
+          "min": "45'+5'",
+          "text": "Nathanaël Mbuku (Congo DR) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "45'+4'",
           "text": "Foul by Nathanaël Mbuku (Congo DR).",
           "goal": false
         },
         {
-          "min": "3'",
-          "text": "Foul by Khojiakbar Alijonov (Uzbekistan).",
-          "goal": false
-        },
-        {
-          "min": "3'",
-          "text": "Noah Sadiki (Congo DR) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "2'",
-          "text": "Attempt missed. Yoane Wissa (Congo DR) right footed shot from outside the box misses to the right.",
-          "goal": false
-        },
-        {
-          "min": "1'",
-          "text": "Offside, Uzbekistan. Eldor Shomurodov is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "1'",
-          "text": "Offside, Uzbekistan. Dostonbek Khamdamov is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "",
-          "text": "First Half begins.",
-          "goal": false
-        },
-        {
-          "min": "",
-          "text": "Lineups are announced and players are warming up.",
+          "min": "45'+4'",
+          "text": "Abbosbek Fayzullaev (Uzbekistan) wins a free kick in the attacking half.",
           "goal": false
         }
       ],
@@ -61603,37 +62311,43 @@
             "name": "Y. Wissa",
             "num": "20",
             "pos": "F",
-            "value": "1"
+            "value": "6"
+          },
+          "away": {
+            "name": "E. Shomurodov",
+            "num": "14",
+            "pos": "F",
+            "value": "2"
           }
         },
         {
           "label": "Accurate Passes",
           "home": {
-            "name": "N. Sadiki",
-            "num": "14",
-            "pos": "M",
-            "value": "4"
-          },
-          "away": {
-            "name": "J. Urozov",
+            "name": "A. Masuaku",
             "num": "26",
             "pos": "D",
-            "value": "5"
-          }
-        },
-        {
-          "label": "Defensive Interventions",
-          "home": {
-            "name": "N. Mbuku",
-            "num": "7",
-            "pos": "F",
-            "value": "2"
+            "value": "57"
           },
           "away": {
             "name": "A. Khusanov",
             "num": "2",
             "pos": "D",
-            "value": "2"
+            "value": "32"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "A. Tuanzebe",
+            "num": "4",
+            "pos": "D",
+            "value": "11"
+          },
+          "away": {
+            "name": "A. Khusanov",
+            "num": "2",
+            "pos": "D",
+            "value": "15"
           }
         },
         {
@@ -61643,11 +62357,17 @@
             "num": "1",
             "pos": "G",
             "value": "1"
+          },
+          "away": {
+            "name": "A. Nematov",
+            "num": "12",
+            "pos": "G",
+            "value": "1"
           }
         }
       ],
       "highlight": null,
-      "final": false,
+      "final": true,
       "dv": 5
     },
     "760485": {

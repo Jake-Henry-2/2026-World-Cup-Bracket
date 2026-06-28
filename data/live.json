@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27T23:37:52.336Z",
+  "lastUpdated": "2026-06-28T01:51:10.169Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -962,45 +962,25 @@
       "awayScore": 0,
       "homeWinner": false,
       "awayWinner": false,
-      "odds": {
-        "home": 320,
-        "away": -125,
-        "draw": 300,
-        "total": 2.5,
-        "book": "DraftKings"
-      },
-      "status": "live",
+      "odds": null,
+      "status": "finished",
       "id": "760481",
       "date": "2026-06-27T23:30Z",
-      "venue": "Hard Rock Stadium",
-      "clock": 420,
-      "displayClock": "7'",
-      "detail": "7'",
-      "period": 1
+      "venue": "Hard Rock Stadium"
     },
     {
       "stage": "group",
       "home": "DR Congo",
       "away": "Uzbekistan",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeWinner": false,
+      "homeScore": 3,
+      "awayScore": 1,
+      "homeWinner": true,
       "awayWinner": false,
-      "odds": {
-        "home": -145,
-        "away": 425,
-        "draw": 290,
-        "total": 2.5,
-        "book": "DraftKings"
-      },
-      "status": "live",
+      "odds": null,
+      "status": "finished",
       "id": "760482",
       "date": "2026-06-27T23:30Z",
-      "venue": "Mercedes-Benz Stadium",
-      "clock": 360,
-      "displayClock": "6'",
-      "detail": "6'",
-      "period": 1
+      "venue": "Mercedes-Benz Stadium"
     },
     {
       "stage": "group",
@@ -1012,8 +992,8 @@
       "awayWinner": false,
       "odds": {
         "home": 255,
-        "away": 270,
-        "draw": 105,
+        "away": 260,
+        "draw": 110,
         "total": 1.5,
         "book": "DraftKings"
       },
@@ -1033,7 +1013,7 @@
       "odds": {
         "home": 1800,
         "away": -700,
-        "draw": 800,
+        "draw": 750,
         "total": 3.5,
         "book": "DraftKings"
       },
@@ -1052,8 +1032,8 @@
       "awayWinner": false,
       "odds": {
         "home": 450,
-        "away": -140,
-        "draw": 265,
+        "away": -145,
+        "draw": 270,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -1154,7 +1134,7 @@
         "home": -330,
         "away": 900,
         "draw": 475,
-        "total": 2.5,
+        "total": 3.5,
         "book": "DraftKings"
       },
       "status": "scheduled",
@@ -1179,7 +1159,7 @@
     {
       "stage": "r32",
       "home": "England",
-      "away": "Third Place Group E/H/I/J/K",
+      "away": "DR Congo",
       "homeScore": 0,
       "awayScore": 0,
       "homeWinner": false,
@@ -1193,7 +1173,7 @@
     {
       "stage": "r32",
       "home": "Belgium",
-      "away": "Third Place Group A/E/H/I/J",
+      "away": "Senegal",
       "homeScore": 0,
       "awayScore": 0,
       "homeWinner": false,
@@ -1240,7 +1220,7 @@
     },
     {
       "stage": "r32",
-      "home": "Group K 2nd Place",
+      "home": "Portugal",
       "away": "Croatia",
       "homeScore": 0,
       "awayScore": 0,
@@ -1308,7 +1288,7 @@
     },
     {
       "stage": "r32",
-      "home": "Group K Winner",
+      "home": "Colombia",
       "away": "Ghana",
       "homeScore": 0,
       "awayScore": 0,

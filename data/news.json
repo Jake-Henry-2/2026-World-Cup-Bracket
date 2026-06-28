@@ -1,18 +1,25 @@
 {
-  "lastUpdated": "2026-06-28T15:58:54.852Z",
+  "lastUpdated": "2026-06-28T17:22:11.003Z",
   "source": "ESPN",
   "articles": [
     {
-      "headline": "France, Argentina top World Cup odds; U.S. puts sportsbooks at risk",
-      "description": "Star-powered France and Argentina top the odds board to win the World Cup as the tournament moves into the knockout stage, while the United States' positive momentum will have sportsbooks sweating more with each game it ",
-      "published": "2026-06-28T15:32:24Z",
+      "headline": "Uruguay, Man United's Manuel Ugarte suffers knee ligament injury",
+      "description": "Uruguay midfielder Manuel Ugarte has suffered a knee ligament injury in his final World Cup group stage match against Spain, Manchester United have confirmed.",
+      "published": "2026-06-28T17:09:17Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49207806/uruguay-manuel-ugarte-faces-long-injury-lay-following-knee-ligament-injury",
+      "image": "https://a.espncdn.com/photo/2026/0628/r1681045_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "France, Argentina top World Cup odds; U.S. put sportsbooks at risk",
+      "description": "Star-powered France and Argentina top the odds board to win the World Cup as the tournament moves into the knockout stage, while the United States' positive momentum will have sportsbooks sweating more with each game the",
+      "published": "2026-06-28T16:51:13Z",
       "link": "https://www.espn.com/sports-betting/story/_/id/49207302/france-argentina-top-world-cup-odds-us-puts-sportsbooks-risk",
       "image": "https://a.espncdn.com/photo/2026/0526/r1663696_1296x729_16-9.jpg"
     },
     {
       "headline": "Why every round-of-32 team will, won't win FIFA World Cup",
-      "description": "Then there were 32. Or we're getting there, anyway. So, let's review why each team still alive at the 2026 World Cup could win the whole thing -- and why each probably won't.",
-      "published": "2026-06-28T15:52:40Z",
+      "description": "Then there were 32. Let's review why each team still alive at the 2026 World Cup could win the whole thing -- and why each probably won't.",
+      "published": "2026-06-28T16:02:00Z",
       "link": "https://www.espn.com/soccer/story/_/id/49118437/fifa-world-cup-predictions-analysis-projections-usa-mexico-spain-brazil-england-argentina-germany-france",
       "image": "https://a.espncdn.com/photo/2026/0622/r1677800_1296x729_16-9.jpg"
     },
@@ -36,13 +43,6 @@
       "published": "2026-06-28T14:56:27Z",
       "link": "https://www.espn.com/espn/story/_/id/49195887/bafana-world-cup-clash-canada-change-south-africa-football-trajectory",
       "image": "https://a.espncdn.com/photo/2026/0627/r1680394_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Yaya Sithole's redemption arc key to South Africa's recovery from disastrous start at FIFA World Cup",
-      "description": "Yaya Sithole could have been forgiven for questioning whether he was in a waking nightmare midway through his first ever FIFA World Cup game, for South Africa against Mexico on July 11.",
-      "published": "2026-06-28T14:55:43Z",
-      "link": "https://www.espn.com/espn/story/_/id/49201916/yaya-sithole-redemption-arc-key-south-africa-recovery-disastrous-start-fifa-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0627/r1680739_1296x729_16-9.jpg"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-28T18:40:40.701Z",
+  "lastUpdated": "2026-06-28T20:00:19.031Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -1025,10 +1025,14 @@
         "total": 2.5,
         "book": "DraftKings"
       },
-      "status": "scheduled",
+      "status": "live",
       "id": "760486",
       "date": "2026-06-28T19:00Z",
-      "venue": "SoFi Stadium"
+      "venue": "SoFi Stadium",
+      "clock": 2700,
+      "displayClock": "45'+3'",
+      "detail": "HT",
+      "period": 1
     },
     {
       "stage": "r32",
@@ -1039,9 +1043,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -145,
+        "home": -140,
         "away": 400,
-        "draw": 290,
+        "draw": 280,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -1079,8 +1083,8 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 120,
-        "away": 270,
+        "home": 130,
+        "away": 250,
         "draw": 215,
         "total": 2.5,
         "book": "DraftKings"
@@ -1259,9 +1263,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -110,
-        "away": 330,
-        "draw": 250,
+        "home": 100,
+        "away": 310,
+        "draw": 240,
         "total": 2.5,
         "book": "DraftKings"
       },

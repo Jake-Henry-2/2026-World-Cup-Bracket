@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-29T15:03:09.580Z",
+  "lastUpdated": "2026-06-29T17:46:16.552Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -1029,20 +1029,24 @@
       "home": "Brazil",
       "away": "Japan",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
         "home": -135,
-        "away": 400,
-        "draw": 265,
+        "away": 425,
+        "draw": 260,
         "total": 2.5,
         "book": "DraftKings"
       },
-      "status": "scheduled",
+      "status": "live",
       "id": "760487",
       "date": "2026-06-29T17:00Z",
-      "venue": "NRG Stadium"
+      "venue": "NRG Stadium",
+      "clock": 2700,
+      "displayClock": "45'+1'",
+      "detail": "45'+1'",
+      "period": 1
     },
     {
       "stage": "r32",
@@ -1053,8 +1057,8 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -275,
-        "away": 800,
+        "home": -280,
+        "away": 850,
         "draw": 400,
         "total": 2.5,
         "book": "DraftKings"
@@ -1093,9 +1097,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 265,
-        "away": 105,
-        "draw": 255,
+        "home": 250,
+        "away": 115,
+        "draw": 245,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -1114,7 +1118,7 @@
       "awayWinner": false,
       "odds": {
         "home": -370,
-        "away": 950,
+        "away": 1000,
         "draw": 500,
         "total": 3.5,
         "book": "DraftKings"
@@ -1193,7 +1197,7 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -260,
+        "home": -265,
         "away": 800,
         "draw": 390,
         "total": 2.5,
@@ -1293,9 +1297,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -600,
-        "away": 1700,
-        "draw": 700,
+        "home": -575,
+        "away": 1600,
+        "draw": 650,
         "total": 2.5,
         "book": "DraftKings"
       },

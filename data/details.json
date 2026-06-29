@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-29T15:03:09.685Z",
+  "lastUpdated": "2026-06-29T17:46:16.633Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -65956,6 +65956,691 @@
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0628/dm_260628_Toronto_fan_zone_goes_wild_as_Canada_score_vs_South_Africa/dm_260628_Toronto_fan_zone_goes_wild_as_Canada_score_vs_South_Africa/playlist.m3u8"
       },
       "final": true,
+      "dv": 5
+    },
+    "760487": {
+      "venue": "NRG Stadium",
+      "stats": {
+        "home": {
+          "foulsCommitted": "1",
+          "yellowCards": "1",
+          "redCards": "0",
+          "offsides": "1",
+          "wonCorners": "2",
+          "saves": "0",
+          "possessionPct": "68.4",
+          "totalShots": "7",
+          "shotsOnTarget": "2",
+          "shotPct": "0.3",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "306",
+          "totalPasses": "328",
+          "passPct": "0.9",
+          "accurateCrosses": "1",
+          "totalCrosses": "11",
+          "crossPct": "0.1",
+          "totalLongBalls": "20",
+          "accurateLongBalls": "10",
+          "longballPct": "0.5",
+          "blockedShots": "3",
+          "effectiveTackles": "4",
+          "totalTackles": "7",
+          "tacklePct": "0.6",
+          "interceptions": "3",
+          "effectiveClearance": "5",
+          "totalClearance": "5"
+        },
+        "away": {
+          "foulsCommitted": "5",
+          "yellowCards": "1",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "2",
+          "saves": "2",
+          "possessionPct": "31.6",
+          "totalShots": "3",
+          "shotsOnTarget": "1",
+          "shotPct": "0.3",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "126",
+          "totalPasses": "146",
+          "passPct": "0.9",
+          "accurateCrosses": "1",
+          "totalCrosses": "7",
+          "crossPct": "0.1",
+          "totalLongBalls": "20",
+          "accurateLongBalls": "10",
+          "longballPct": "0.5",
+          "blockedShots": "1",
+          "effectiveTackles": "2",
+          "totalTackles": "5",
+          "tacklePct": "0.4",
+          "interceptions": "2",
+          "effectiveClearance": "11",
+          "totalClearance": "11"
+        }
+      },
+      "events": [
+        {
+          "kind": "Yellow Card",
+          "min": "12'",
+          "side": "away",
+          "player": "Kaishu Sano"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "14'",
+          "side": "home",
+          "player": "Casemiro"
+        },
+        {
+          "kind": "Goal",
+          "min": "29'",
+          "side": "away",
+          "player": "Goal! Brazil 0, Japan 1. Kaishu Sano"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "45'",
+          "side": "away",
+          "player": "Daichi Kamada"
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Alisson Becker",
+            "short": "A. Becker",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Gabriel Magalhães",
+            "short": "G. Magalhães",
+            "num": "3",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Marquinhos",
+            "short": "Marquinhos",
+            "num": "4",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Douglas Santos",
+            "short": "D. Santos",
+            "num": "16",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Danilo",
+            "short": "Danilo",
+            "num": "13",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Casemiro",
+            "short": "Casemiro",
+            "num": "5",
+            "pos": "CM",
+            "place": "4"
+          },
+          {
+            "name": "Lucas Paquetá",
+            "short": "L. Paquetá",
+            "num": "20",
+            "pos": "LM",
+            "place": "8"
+          },
+          {
+            "name": "Bruno Guimarães",
+            "short": "B. Guimarães",
+            "num": "8",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Matheus Cunha",
+            "short": "M. Cunha",
+            "num": "9",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Vinícius Júnior",
+            "short": "Vinícius Júnior",
+            "num": "7",
+            "pos": "LF",
+            "place": "11"
+          },
+          {
+            "name": "Rayan",
+            "short": "Rayan",
+            "num": "26",
+            "pos": "RF",
+            "place": "10"
+          }
+        ],
+        "away": [
+          {
+            "name": "Zion Suzuki",
+            "short": "Z. Suzuki",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Shogo Taniguchi",
+            "short": "S. Taniguchi",
+            "num": "3",
+            "pos": "CD",
+            "place": "5"
+          },
+          {
+            "name": "Hiroki Ito",
+            "short": "H. Ito",
+            "num": "21",
+            "pos": "CD-L",
+            "place": "4"
+          },
+          {
+            "name": "Takehiro Tomiyasu",
+            "short": "T. Tomiyasu",
+            "num": "22",
+            "pos": "CD-R",
+            "place": "6"
+          },
+          {
+            "name": "Daichi Kamada",
+            "short": "D. Kamada",
+            "num": "15",
+            "pos": "CM-L",
+            "place": "8"
+          },
+          {
+            "name": "Kaishu Sano",
+            "short": "K. Sano",
+            "num": "24",
+            "pos": "CM-R",
+            "place": "7"
+          },
+          {
+            "name": "Keito Nakamura",
+            "short": "K. Nakamura",
+            "num": "13",
+            "pos": "LM",
+            "place": "3"
+          },
+          {
+            "name": "Ritsu Doan",
+            "short": "R. Doan",
+            "num": "10",
+            "pos": "RM",
+            "place": "2"
+          },
+          {
+            "name": "Ayase Ueda",
+            "short": "A. Ueda",
+            "num": "18",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Daizen Maeda",
+            "short": "D. Maeda",
+            "num": "11",
+            "pos": "CF-L",
+            "place": "11"
+          },
+          {
+            "name": "Junya Ito",
+            "short": "J. Ito",
+            "num": "14",
+            "pos": "CF-R",
+            "place": "10"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Neymar",
+            "short": "Neymar",
+            "num": "10",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gabriel Martinelli",
+            "short": "G. Martinelli",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Léo Pereira",
+            "short": "L. Pereira",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Igor Thiago",
+            "short": "I. Thiago",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Danilo Santos",
+            "short": "D. Santos",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Éderson",
+            "short": "Éderson",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Fabinho",
+            "short": "Fabinho",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Endrick",
+            "short": "Endrick",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Roger Ibañez",
+            "short": "R. Ibañez",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Bremer",
+            "short": "Bremer",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Luiz Henrique",
+            "short": "L. Henrique",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Alex Sandro",
+            "short": "Alex Sandro",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ederson",
+            "short": "Ederson",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Weverton",
+            "short": "Weverton",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Keisuke Osako",
+            "short": "K. Osako",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kou Itakura",
+            "short": "K. Itakura",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Koki Ogawa",
+            "short": "K. Ogawa",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Yuto Nagatomo",
+            "short": "Y. Nagatomo",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Yuito Suzuki",
+            "short": "Y. Suzuki",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Tsuyoshi Watanabe",
+            "short": "T. Watanabe",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kento Shiogai",
+            "short": "K. Shiogai",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Tomoki Hayakawa",
+            "short": "T. Hayakawa",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Shuto Machino",
+            "short": "S. Machino",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ayumu Seko",
+            "short": "A. Seko",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Yukinari Sugawara",
+            "short": "Y. Sugawara",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Junnosuke Suzuki",
+            "short": "J. Suzuki",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Keisuke Goto",
+            "short": "K. Goto",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Takefusa Kubo",
+            "short": "T. Kubo",
+            "num": "8",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ao Tanaka",
+            "short": "A. Tanaka",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-3-3",
+        "away": "3-4-2-1"
+      },
+      "commentary": [
+        {
+          "min": "38'",
+          "text": "Attempt saved. Matheus Cunha (Brazil) right footed shot from outside the box is saved in the centre of the goal by Zion Suzuki (Japan). Assisted by Lucas Paquetá.",
+          "goal": false
+        },
+        {
+          "min": "35'",
+          "text": "Attempt blocked. Lucas Paquetá (Brazil) left footed shot from outside the box is blocked. Assisted by Vinícius Júnior.",
+          "goal": false
+        },
+        {
+          "min": "34'",
+          "text": "Attempt saved. Vinícius Júnior (Brazil) right footed shot from outside the box is saved in the centre of the goal by Zion Suzuki (Japan). Assisted by Bruno Guimarães.",
+          "goal": false
+        },
+        {
+          "min": "33'",
+          "text": "Offside, Brazil. Marquinhos is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "32'",
+          "text": "Douglas Santos (Brazil) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "32'",
+          "text": "Foul by Ritsu Doan (Japan).",
+          "goal": false
+        },
+        {
+          "min": "29'",
+          "text": "Goal! Brazil 0, Japan 1. Kaishu Sano (Japan) right footed shot from outside the box to the bottom left corner following a fast break.",
+          "goal": true
+        },
+        {
+          "min": "27'",
+          "text": "Attempt missed. Ayase Ueda (Japan) header from the centre of the box is high and wide to the left. Assisted by Junya Ito with a cross following a corner.",
+          "goal": false
+        },
+        {
+          "min": "27'",
+          "text": "Corner, Japan. Conceded by Gabriel Magalhães.",
+          "goal": false
+        },
+        {
+          "min": "26'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "23'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "18'",
+          "text": "Handball by Ayase Ueda (Japan).",
+          "goal": false
+        },
+        {
+          "min": "16'",
+          "text": "Corner, Japan. Conceded by Casemiro.",
+          "goal": false
+        },
+        {
+          "min": "16'",
+          "text": "Attempt blocked. Daichi Kamada (Japan) right footed shot from outside the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "14'",
+          "text": "Casemiro (Brazil) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "14'",
+          "text": "Foul by Casemiro (Brazil).",
+          "goal": false
+        },
+        {
+          "min": "14'",
+          "text": "Junya Ito (Japan) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "14'",
+          "text": "Attempt missed. Bruno Guimarães (Brazil) right footed shot from the left side of the box misses to the right. Assisted by Lucas Paquetá following a corner.",
+          "goal": false
+        },
+        {
+          "min": "14'",
+          "text": "Corner, Brazil. Conceded by Zion Suzuki.",
+          "goal": false
+        },
+        {
+          "min": "14'",
+          "text": "Attempt missed. Matheus Cunha (Brazil) left footed shot from outside the box is close, but misses to the left. Assisted by Bruno Guimarães following a fast break.",
+          "goal": false
+        },
+        {
+          "min": "12'",
+          "text": "Kaishu Sano (Japan) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "12'",
+          "text": "Vinícius Júnior (Brazil) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "12'",
+          "text": "Foul by Kaishu Sano (Japan).",
+          "goal": false
+        },
+        {
+          "min": "10'",
+          "text": "Attempt blocked. Bruno Guimarães (Brazil) left footed shot from the centre of the box is blocked. Assisted by Douglas Santos.",
+          "goal": false
+        },
+        {
+          "min": "7'",
+          "text": "Vinícius Júnior (Brazil) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "7'",
+          "text": "Foul by Kaishu Sano (Japan).",
+          "goal": false
+        },
+        {
+          "min": "2'",
+          "text": "Corner, Brazil. Conceded by Shogo Taniguchi.",
+          "goal": false
+        },
+        {
+          "min": "2'",
+          "text": "Attempt blocked. Bruno Guimarães (Brazil) left footed shot from the right side of the box is blocked. Assisted by Rayan.",
+          "goal": false
+        },
+        {
+          "min": "1'",
+          "text": "Lucas Paquetá (Brazil) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "1'",
+          "text": "Foul by Takehiro Tomiyasu (Japan).",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "First Half begins.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "Lineups are announced and players are warming up.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "B. Guimarães",
+            "num": "8",
+            "pos": "M",
+            "value": "3"
+          },
+          "away": {
+            "name": "K. Sano",
+            "num": "24",
+            "pos": "M",
+            "value": "1"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "G. Magalhães",
+            "num": "3",
+            "pos": "D",
+            "value": "62"
+          },
+          "away": {
+            "name": "S. Taniguchi",
+            "num": "3",
+            "pos": "D",
+            "value": "21"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "Casemiro",
+            "num": "5",
+            "pos": "M",
+            "value": "4"
+          },
+          "away": {
+            "name": "J. Ito",
+            "num": "14",
+            "pos": "F",
+            "value": "5"
+          }
+        },
+        {
+          "label": "Saves",
+          "away": {
+            "name": "Z. Suzuki",
+            "num": "1",
+            "pos": "G",
+            "value": "2"
+          }
+        }
+      ],
+      "highlight": null,
+      "final": false,
       "dv": 5
     }
   }

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-29T19:27:44.388Z",
+  "lastUpdated": "2026-06-29T21:10:03.762Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -1047,16 +1047,20 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -295,
-        "away": 850,
-        "draw": 425,
+        "home": -300,
+        "away": 950,
+        "draw": 400,
         "total": 2.5,
         "book": "DraftKings"
       },
-      "status": "scheduled",
+      "status": "live",
       "id": "760489",
       "date": "2026-06-29T20:30Z",
-      "venue": "Gillette Stadium"
+      "venue": "Gillette Stadium",
+      "clock": 2400,
+      "displayClock": "40'",
+      "detail": "40'",
+      "period": 1
     },
     {
       "stage": "r32",
@@ -1067,9 +1071,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 135,
-        "away": 240,
-        "draw": 210,
+        "home": 140,
+        "away": 230,
+        "draw": 205,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -1107,9 +1111,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -370,
+        "home": -390,
         "away": 1000,
-        "draw": 500,
+        "draw": 550,
         "total": 3.5,
         "book": "DraftKings"
       },
@@ -1127,9 +1131,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 125,
-        "away": 290,
-        "draw": 195,
+        "home": 120,
+        "away": 300,
+        "draw": 190,
         "total": 1.5,
         "book": "DraftKings"
       },
@@ -1227,8 +1231,8 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -125,
-        "away": 370,
+        "home": -130,
+        "away": 400,
         "draw": 265,
         "total": 2.5,
         "book": "DraftKings"

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-29T19:27:44.442Z",
+  "lastUpdated": "2026-06-29T21:10:03.838Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -66871,6 +66871,684 @@
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0629/dm_260629_Fans_go_crazy_at_230am_in_Tokyo_as_Japan_take_the_lead_over_Brazil/dm_260629_Fans_go_crazy_at_230am_in_Tokyo_as_Japan_take_the_lead_over_Brazil/playlist.m3u8"
       },
       "final": true,
+      "dv": 5
+    },
+    "760489": {
+      "venue": "Gillette Stadium",
+      "stats": {
+        "home": {
+          "foulsCommitted": "8",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "1",
+          "wonCorners": "2",
+          "saves": "1",
+          "possessionPct": "79.7",
+          "totalShots": "3",
+          "shotsOnTarget": "0",
+          "shotPct": "0.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "261",
+          "totalPasses": "289",
+          "passPct": "0.9",
+          "accurateCrosses": "1",
+          "totalCrosses": "8",
+          "crossPct": "0.1",
+          "totalLongBalls": "13",
+          "accurateLongBalls": "9",
+          "longballPct": "0.7",
+          "blockedShots": "1",
+          "effectiveTackles": "3",
+          "totalTackles": "3",
+          "tacklePct": "1.0",
+          "interceptions": "1",
+          "effectiveClearance": "4",
+          "totalClearance": "4"
+        },
+        "away": {
+          "foulsCommitted": "2",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "1",
+          "saves": "0",
+          "possessionPct": "20.3",
+          "totalShots": "2",
+          "shotsOnTarget": "1",
+          "shotPct": "0.5",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "46",
+          "totalPasses": "74",
+          "passPct": "0.6",
+          "accurateCrosses": "1",
+          "totalCrosses": "1",
+          "crossPct": "1.0",
+          "totalLongBalls": "21",
+          "accurateLongBalls": "7",
+          "longballPct": "0.3",
+          "blockedShots": "1",
+          "effectiveTackles": "6",
+          "totalTackles": "9",
+          "tacklePct": "0.7",
+          "interceptions": "6",
+          "effectiveClearance": "10",
+          "totalClearance": "10"
+        }
+      },
+      "events": [],
+      "lineups": {
+        "home": [
+          {
+            "name": "Manuel Neuer",
+            "short": "M. Neuer",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Antonio Rüdiger",
+            "short": "A. Rüdiger",
+            "num": "2",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Jonathan Tah",
+            "short": "J. Tah",
+            "num": "4",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Nathaniel Brown",
+            "short": "N. Brown",
+            "num": "18",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Joshua Kimmich",
+            "short": "J. Kimmich",
+            "num": "6",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Aleksandar Pavlovic",
+            "short": "A. Pavlovic",
+            "num": "5",
+            "pos": "CM-L",
+            "place": "8"
+          },
+          {
+            "name": "Felix Nmecha",
+            "short": "F. Nmecha",
+            "num": "23",
+            "pos": "CM-R",
+            "place": "4"
+          },
+          {
+            "name": "Florian Wirtz",
+            "short": "F. Wirtz",
+            "num": "17",
+            "pos": "LM",
+            "place": "11"
+          },
+          {
+            "name": "Leroy Sané",
+            "short": "L. Sané",
+            "num": "19",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Deniz Undav",
+            "short": "D. Undav",
+            "num": "26",
+            "pos": "CF-L",
+            "place": "9"
+          },
+          {
+            "name": "Kai Havertz",
+            "short": "K. Havertz",
+            "num": "7",
+            "pos": "CF-R",
+            "place": "10"
+          }
+        ],
+        "away": [
+          {
+            "name": "Orlando Gil",
+            "short": "O. Gil",
+            "num": "12",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "José Canale",
+            "short": "J. Canale",
+            "num": "13",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Gustavo Gómez",
+            "short": "G. Gómez",
+            "num": "15",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Júnior Alonso",
+            "short": "J. Alonso",
+            "num": "6",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Juan Jose Cáceres",
+            "short": "J. Cáceres",
+            "num": "4",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Andrés Cubas",
+            "short": "A. Cubas",
+            "num": "14",
+            "pos": "CM-L",
+            "place": "8"
+          },
+          {
+            "name": "Damián Bobadilla",
+            "short": "D. Bobadilla",
+            "num": "16",
+            "pos": "CM-R",
+            "place": "4"
+          },
+          {
+            "name": "Matías Galarza",
+            "short": "M. Galarza",
+            "num": "23",
+            "pos": "LM",
+            "place": "11"
+          },
+          {
+            "name": "Miguel Almirón",
+            "short": "M. Almirón",
+            "num": "10",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Julio Enciso",
+            "short": "J. Enciso",
+            "num": "19",
+            "pos": "CF-L",
+            "place": "9"
+          },
+          {
+            "name": "Gabriel Ávalos",
+            "short": "G. Ávalos",
+            "num": "21",
+            "pos": "CF-R",
+            "place": "10"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "David Raum",
+            "short": "D. Raum",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jamie Leweling",
+            "short": "J. Leweling",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Waldemar Anton",
+            "short": "W. Anton",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nadiem Amiri",
+            "short": "N. Amiri",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Alexander Nübel",
+            "short": "A. Nübel",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Angelo Stiller",
+            "short": "A. Stiller",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jamal Musiala",
+            "short": "J. Musiala",
+            "num": "10",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Malick Thiaw",
+            "short": "M. Thiaw",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nick Woltemade",
+            "short": "N. Woltemade",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Pascal Gross",
+            "short": "P. Gross",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Assan Ouédraogo",
+            "short": "A. Ouédraogo",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Maximilian Beier",
+            "short": "M. Beier",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Oliver Baumann",
+            "short": "O. Baumann",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Leon Goretzka",
+            "short": "L. Goretzka",
+            "num": "8",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Gatito Fernández",
+            "short": "G. Fernández",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Alex Arce",
+            "short": "A. Arce",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ramón Sosa",
+            "short": "R. Sosa",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gastón Olveira",
+            "short": "G. Olveira",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Antonio Sanabria",
+            "short": "A. Sanabria",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Alexandro Maidana",
+            "short": "A. Maidana",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Isidro Pitta",
+            "short": "I. Pitta",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gustavo Velázquez",
+            "short": "G. Velázquez",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Omar Alderete",
+            "short": "O. Alderete",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Braian Ojeda",
+            "short": "B. Ojeda",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Fabián Balbuena",
+            "short": "F. Balbuena",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Alejandro Romero Gamarra",
+            "short": "A. Romero Gamarra",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gustavo Caballero",
+            "short": "G. Caballero",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Maurício",
+            "short": "Maurício",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-4-2",
+        "away": "4-4-2"
+      },
+      "commentary": [
+        {
+          "min": "37'",
+          "text": "Foul by Aleksandar Pavlovic (Germany).",
+          "goal": false
+        },
+        {
+          "min": "37'",
+          "text": "Matías Galarza (Paraguay) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "35'",
+          "text": "Foul by Felix Nmecha (Germany).",
+          "goal": false
+        },
+        {
+          "min": "35'",
+          "text": "Miguel Almirón (Paraguay) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "33'",
+          "text": "Attempt blocked. Kai Havertz (Germany) left footed shot from outside the box is blocked. Assisted by Aleksandar Pavlovic.",
+          "goal": false
+        },
+        {
+          "min": "31'",
+          "text": "Foul by Deniz Undav (Germany).",
+          "goal": false
+        },
+        {
+          "min": "31'",
+          "text": "José Canale (Paraguay) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "29'",
+          "text": "Offside, Germany. Leroy Sané is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "26'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "23'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "23'",
+          "text": "Foul by Jonathan Tah (Germany).",
+          "goal": false
+        },
+        {
+          "min": "23'",
+          "text": "Gabriel Ávalos (Paraguay) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "22'",
+          "text": "Joshua Kimmich (Germany) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "22'",
+          "text": "Foul by Matías Galarza (Paraguay).",
+          "goal": false
+        },
+        {
+          "min": "21'",
+          "text": "Foul by Nathaniel Brown (Germany).",
+          "goal": false
+        },
+        {
+          "min": "21'",
+          "text": "Miguel Almirón (Paraguay) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "15'",
+          "text": "Foul by Aleksandar Pavlovic (Germany).",
+          "goal": false
+        },
+        {
+          "min": "15'",
+          "text": "Orlando Gill (Paraguay) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "14'",
+          "text": "Corner, Germany. Conceded by Miguel Almirón.",
+          "goal": false
+        },
+        {
+          "min": "14'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "13'",
+          "text": "Delay in match because of an injury Juan José Cáceres (Paraguay).",
+          "goal": false
+        },
+        {
+          "min": "11'",
+          "text": "Joshua Kimmich (Germany) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "11'",
+          "text": "Foul by Julio Enciso (Paraguay).",
+          "goal": false
+        },
+        {
+          "min": "10'",
+          "text": "Foul by Aleksandar Pavlovic (Germany).",
+          "goal": false
+        },
+        {
+          "min": "10'",
+          "text": "Miguel Almirón (Paraguay) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "8'",
+          "text": "Attempt missed. Florian Wirtz (Germany) right footed shot from outside the box is too high following a corner.",
+          "goal": false
+        },
+        {
+          "min": "7'",
+          "text": "Corner, Germany. Conceded by José Canale.",
+          "goal": false
+        },
+        {
+          "min": "6'",
+          "text": "Attempt missed. Deniz Undav (Germany) right footed shot from the left side of the box is high and wide to the right. Assisted by Kai Havertz.",
+          "goal": false
+        },
+        {
+          "min": "5'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "4'",
+          "text": "Delay in match because of an injury Gustavo Gómez (Paraguay).",
+          "goal": false
+        },
+        {
+          "min": "3'",
+          "text": "Foul by Kai Havertz (Germany).",
+          "goal": false
+        },
+        {
+          "min": "3'",
+          "text": "Andrés Cubas (Paraguay) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "2'",
+          "text": "Attempt saved. Júnior Alonso (Paraguay) left footed shot from the right side of the six yard box is saved in the bottom right corner by Manuel Neuer (Germany). Assisted by Julio Enciso with a cross.",
+          "goal": false
+        },
+        {
+          "min": "1'",
+          "text": "Corner, Paraguay. Conceded by Aleksandar Pavlovic.",
+          "goal": false
+        },
+        {
+          "min": "1'",
+          "text": "Attempt blocked. Julio Enciso (Paraguay) right footed shot from the left side of the box is blocked. Assisted by Júnior Alonso with a headed pass.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "First Half begins.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "Lineups are announced and players are warming up.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "F. Wirtz",
+            "num": "17",
+            "pos": "M",
+            "value": "1"
+          },
+          "away": {
+            "name": "J. Alonso",
+            "num": "6",
+            "pos": "D",
+            "value": "1"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "J. Kimmich",
+            "num": "6",
+            "pos": "M",
+            "value": "49"
+          },
+          "away": {
+            "name": "O. Gil",
+            "num": "12",
+            "pos": "G",
+            "value": "6"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "J. Tah",
+            "num": "4",
+            "pos": "D",
+            "value": "4"
+          },
+          "away": {
+            "name": "D. Bobadilla",
+            "num": "16",
+            "pos": "M",
+            "value": "7"
+          }
+        },
+        {
+          "label": "Saves",
+          "home": {
+            "name": "M. Neuer",
+            "num": "1",
+            "pos": "G",
+            "value": "1"
+          }
+        }
+      ],
+      "highlight": null,
+      "final": false,
       "dv": 5
     }
   }

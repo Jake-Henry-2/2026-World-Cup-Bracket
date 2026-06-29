@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-29T17:46:16.552Z",
+  "lastUpdated": "2026-06-29T19:27:44.388Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -1028,25 +1028,15 @@
       "stage": "r32",
       "home": "Brazil",
       "away": "Japan",
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 1,
-      "homeWinner": false,
+      "homeWinner": true,
       "awayWinner": false,
-      "odds": {
-        "home": -135,
-        "away": 425,
-        "draw": 260,
-        "total": 2.5,
-        "book": "DraftKings"
-      },
-      "status": "live",
+      "odds": null,
+      "status": "finished",
       "id": "760487",
       "date": "2026-06-29T17:00Z",
-      "venue": "NRG Stadium",
-      "clock": 2700,
-      "displayClock": "45'+1'",
-      "detail": "45'+1'",
-      "period": 1
+      "venue": "NRG Stadium"
     },
     {
       "stage": "r32",
@@ -1057,9 +1047,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -280,
+        "home": -295,
         "away": 850,
-        "draw": 400,
+        "draw": 425,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -1077,8 +1067,8 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 130,
-        "away": 250,
+        "home": 135,
+        "away": 240,
         "draw": 210,
         "total": 2.5,
         "book": "DraftKings"
@@ -1097,8 +1087,8 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 250,
-        "away": 115,
+        "home": 255,
+        "away": 110,
         "draw": 245,
         "total": 2.5,
         "book": "DraftKings"
@@ -1358,7 +1348,7 @@
     },
     {
       "stage": "r16",
-      "home": "Round of 32 4 Winner",
+      "home": "Brazil",
       "away": "Round of 32 6 Winner",
       "homeScore": 0,
       "awayScore": 0,

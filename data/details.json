@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-29T17:46:16.633Z",
+  "lastUpdated": "2026-06-29T19:27:44.442Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -65962,64 +65962,64 @@
       "venue": "NRG Stadium",
       "stats": {
         "home": {
-          "foulsCommitted": "1",
-          "yellowCards": "1",
+          "foulsCommitted": "4",
+          "yellowCards": "2",
           "redCards": "0",
           "offsides": "1",
-          "wonCorners": "2",
-          "saves": "0",
-          "possessionPct": "68.4",
-          "totalShots": "7",
-          "shotsOnTarget": "2",
-          "shotPct": "0.3",
+          "wonCorners": "6",
+          "saves": "1",
+          "possessionPct": "68.6",
+          "totalShots": "19",
+          "shotsOnTarget": "7",
+          "shotPct": "0.4",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "306",
-          "totalPasses": "328",
+          "accuratePasses": "625",
+          "totalPasses": "682",
           "passPct": "0.9",
-          "accurateCrosses": "1",
-          "totalCrosses": "11",
-          "crossPct": "0.1",
-          "totalLongBalls": "20",
-          "accurateLongBalls": "10",
+          "accurateCrosses": "9",
+          "totalCrosses": "40",
+          "crossPct": "0.2",
+          "totalLongBalls": "45",
+          "accurateLongBalls": "21",
           "longballPct": "0.5",
-          "blockedShots": "3",
-          "effectiveTackles": "4",
-          "totalTackles": "7",
-          "tacklePct": "0.6",
-          "interceptions": "3",
-          "effectiveClearance": "5",
-          "totalClearance": "5"
+          "blockedShots": "6",
+          "effectiveTackles": "8",
+          "totalTackles": "12",
+          "tacklePct": "0.7",
+          "interceptions": "9",
+          "effectiveClearance": "18",
+          "totalClearance": "18"
         },
         "away": {
-          "foulsCommitted": "5",
-          "yellowCards": "1",
+          "foulsCommitted": "13",
+          "yellowCards": "3",
           "redCards": "0",
           "offsides": "0",
           "wonCorners": "2",
-          "saves": "2",
-          "possessionPct": "31.6",
-          "totalShots": "3",
-          "shotsOnTarget": "1",
-          "shotPct": "0.3",
+          "saves": "4",
+          "possessionPct": "31.4",
+          "totalShots": "5",
+          "shotsOnTarget": "2",
+          "shotPct": "0.4",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "126",
-          "totalPasses": "146",
-          "passPct": "0.9",
-          "accurateCrosses": "1",
-          "totalCrosses": "7",
-          "crossPct": "0.1",
-          "totalLongBalls": "20",
-          "accurateLongBalls": "10",
+          "accuratePasses": "261",
+          "totalPasses": "315",
+          "passPct": "0.8",
+          "accurateCrosses": "2",
+          "totalCrosses": "10",
+          "crossPct": "0.2",
+          "totalLongBalls": "45",
+          "accurateLongBalls": "24",
           "longballPct": "0.5",
-          "blockedShots": "1",
-          "effectiveTackles": "2",
-          "totalTackles": "5",
+          "blockedShots": "2",
+          "effectiveTackles": "4",
+          "totalTackles": "10",
           "tacklePct": "0.4",
-          "interceptions": "2",
-          "effectiveClearance": "11",
-          "totalClearance": "11"
+          "interceptions": "4",
+          "effectiveClearance": "45",
+          "totalClearance": "45"
         }
       },
       "events": [
@@ -66046,6 +66046,84 @@
           "min": "45'",
           "side": "away",
           "player": "Daichi Kamada"
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "home",
+          "player": "Substitution, Brazil. Endrick replaces Lucas Paquetá because of an injury."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "48'",
+          "side": "home",
+          "player": "Danilo"
+        },
+        {
+          "kind": "Goal - Header",
+          "min": "56'",
+          "side": "home",
+          "player": "Goal! Brazil 1, Japan 1. Casemiro"
+        },
+        {
+          "kind": "Substitution",
+          "min": "66'",
+          "side": "home",
+          "player": "Substitution, Brazil. Gabriel Martinelli replaces Matheus Cunha."
+        },
+        {
+          "kind": "Substitution",
+          "min": "66'",
+          "side": "away",
+          "player": "Substitution, Japan. Junnosuke Suzuki replaces Keito Nakamura."
+        },
+        {
+          "kind": "Substitution",
+          "min": "66'",
+          "side": "away",
+          "player": "Substitution, Japan. Yukinari Sugawara replaces Ritsu Doan."
+        },
+        {
+          "kind": "Substitution",
+          "min": "78'",
+          "side": "away",
+          "player": "Substitution, Japan. Shuto Machino replaces Junya Ito."
+        },
+        {
+          "kind": "Substitution",
+          "min": "78'",
+          "side": "away",
+          "player": "Substitution, Japan. Ao Tanaka replaces Daichi Kamada."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "84'",
+          "side": "away",
+          "player": "Junnosuke Suzuki"
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'+3'",
+          "side": "home",
+          "player": "Substitution, Brazil. Fabinho replaces Casemiro because of an injury."
+        },
+        {
+          "kind": "Goal",
+          "min": "90'+5'",
+          "side": "home",
+          "player": "Goal! Brazil 2, Japan 1. Gabriel Martinelli"
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'+7'",
+          "side": "away",
+          "player": "Substitution, Japan. Koki Ogawa replaces Daizen Maeda."
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'+8'",
+          "side": "home",
+          "player": "Substitution, Brazil. Danilo Santos replaces Bruno Guimarães."
         }
       ],
       "lineups": {
@@ -66423,163 +66501,303 @@
       },
       "commentary": [
         {
-          "min": "38'",
-          "text": "Attempt saved. Matheus Cunha (Brazil) right footed shot from outside the box is saved in the centre of the goal by Zion Suzuki (Japan). Assisted by Lucas Paquetá.",
+          "min": "",
+          "text": "Match ends, Brazil 2, Japan 1.",
           "goal": false
         },
         {
-          "min": "35'",
-          "text": "Attempt blocked. Lucas Paquetá (Brazil) left footed shot from outside the box is blocked. Assisted by Vinícius Júnior.",
+          "min": "90'+11'",
+          "text": "Second Half ends, Brazil 2, Japan 1.",
           "goal": false
         },
         {
-          "min": "34'",
-          "text": "Attempt saved. Vinícius Júnior (Brazil) right footed shot from outside the box is saved in the centre of the goal by Zion Suzuki (Japan). Assisted by Bruno Guimarães.",
+          "min": "90'+10'",
+          "text": "Marquinhos (Brazil) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "33'",
-          "text": "Offside, Brazil. Marquinhos is caught offside.",
+          "min": "90'+10'",
+          "text": "Foul by Shuto Machino (Japan).",
           "goal": false
         },
         {
-          "min": "32'",
-          "text": "Douglas Santos (Brazil) wins a free kick on the left wing.",
+          "min": "90'+9'",
+          "text": "Endrick (Brazil) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "32'",
-          "text": "Foul by Ritsu Doan (Japan).",
+          "min": "90'+9'",
+          "text": "Foul by Shogo Taniguchi (Japan).",
           "goal": false
         },
         {
-          "min": "29'",
-          "text": "Goal! Brazil 0, Japan 1. Kaishu Sano (Japan) right footed shot from outside the box to the bottom left corner following a fast break.",
+          "min": "90'+8'",
+          "text": "Substitution, Brazil. Danilo Santos replaces Bruno Guimarães.",
+          "goal": false
+        },
+        {
+          "min": "90'+7'",
+          "text": "Substitution, Japan. Koki Ogawa replaces Daizen Maeda.",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Goal! Brazil 2, Japan 1. Gabriel Martinelli (Brazil) right footed shot from the centre of the box to the bottom right corner. Assisted by Bruno Guimarães.",
           "goal": true
         },
         {
-          "min": "27'",
-          "text": "Attempt missed. Ayase Ueda (Japan) header from the centre of the box is high and wide to the left. Assisted by Junya Ito with a cross following a corner.",
+          "min": "90'+4'",
+          "text": "Attempt missed. Fabinho (Brazil) header from the centre of the box is high and wide to the right. Assisted by Bruno Guimarães with a cross following a corner.",
           "goal": false
         },
         {
-          "min": "27'",
-          "text": "Corner, Japan. Conceded by Gabriel Magalhães.",
-          "goal": false
-        },
-        {
-          "min": "26'",
-          "text": "Delay over. They are ready to continue.",
-          "goal": false
-        },
-        {
-          "min": "23'",
-          "text": "Delay in match for a drinks break.",
-          "goal": false
-        },
-        {
-          "min": "18'",
-          "text": "Handball by Ayase Ueda (Japan).",
-          "goal": false
-        },
-        {
-          "min": "16'",
-          "text": "Corner, Japan. Conceded by Casemiro.",
-          "goal": false
-        },
-        {
-          "min": "16'",
-          "text": "Attempt blocked. Daichi Kamada (Japan) right footed shot from outside the box is blocked.",
-          "goal": false
-        },
-        {
-          "min": "14'",
-          "text": "Casemiro (Brazil) is shown the yellow card for a bad foul.",
-          "goal": false
-        },
-        {
-          "min": "14'",
-          "text": "Foul by Casemiro (Brazil).",
-          "goal": false
-        },
-        {
-          "min": "14'",
-          "text": "Junya Ito (Japan) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "14'",
-          "text": "Attempt missed. Bruno Guimarães (Brazil) right footed shot from the left side of the box misses to the right. Assisted by Lucas Paquetá following a corner.",
-          "goal": false
-        },
-        {
-          "min": "14'",
-          "text": "Corner, Brazil. Conceded by Zion Suzuki.",
-          "goal": false
-        },
-        {
-          "min": "14'",
-          "text": "Attempt missed. Matheus Cunha (Brazil) left footed shot from outside the box is close, but misses to the left. Assisted by Bruno Guimarães following a fast break.",
-          "goal": false
-        },
-        {
-          "min": "12'",
-          "text": "Kaishu Sano (Japan) is shown the yellow card for a bad foul.",
-          "goal": false
-        },
-        {
-          "min": "12'",
-          "text": "Vinícius Júnior (Brazil) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "12'",
-          "text": "Foul by Kaishu Sano (Japan).",
-          "goal": false
-        },
-        {
-          "min": "10'",
-          "text": "Attempt blocked. Bruno Guimarães (Brazil) left footed shot from the centre of the box is blocked. Assisted by Douglas Santos.",
-          "goal": false
-        },
-        {
-          "min": "7'",
-          "text": "Vinícius Júnior (Brazil) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "7'",
-          "text": "Foul by Kaishu Sano (Japan).",
-          "goal": false
-        },
-        {
-          "min": "2'",
+          "min": "90'+3'",
           "text": "Corner, Brazil. Conceded by Shogo Taniguchi.",
           "goal": false
         },
         {
-          "min": "2'",
-          "text": "Attempt blocked. Bruno Guimarães (Brazil) left footed shot from the right side of the box is blocked. Assisted by Rayan.",
+          "min": "90'+3'",
+          "text": "Substitution, Brazil. Fabinho replaces Casemiro because of an injury.",
           "goal": false
         },
         {
-          "min": "1'",
-          "text": "Lucas Paquetá (Brazil) wins a free kick in the defensive half.",
+          "min": "90'+3'",
+          "text": "Delay over. They are ready to continue.",
           "goal": false
         },
         {
-          "min": "1'",
-          "text": "Foul by Takehiro Tomiyasu (Japan).",
+          "min": "90'+1'",
+          "text": "Delay in match because of an injury Casemiro (Brazil).",
           "goal": false
         },
         {
-          "min": "",
-          "text": "First Half begins.",
+          "min": "90'",
+          "text": "Fourth official has announced 6 minutes of added time.",
           "goal": false
         },
         {
-          "min": "",
-          "text": "Lineups are announced and players are warming up.",
+          "min": "90'",
+          "text": "Vinícius Júnior (Brazil) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Foul by Ao Tanaka (Japan).",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Corner, Brazil. Conceded by Kaishu Sano.",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Attempt blocked. Vinícius Júnior (Brazil) right footed shot from outside the box is blocked. Assisted by Gabriel Martinelli.",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Rayan (Brazil) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Foul by Junnosuke Suzuki (Japan).",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Corner, Brazil. Conceded by Junnosuke Suzuki.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Junnosuke Suzuki (Japan) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Danilo (Brazil) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Foul by Junnosuke Suzuki (Japan).",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Substitution, Japan. Ao Tanaka replaces Daichi Kamada.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Substitution, Japan. Shuto Machino replaces Junya Ito.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Attempt missed. Gabriel Martinelli (Brazil) right footed shot from outside the box misses to the right.",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Corner, Brazil. Conceded by Junnosuke Suzuki.",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Attempt blocked. Rayan (Brazil) header from the right side of the six yard box is blocked. Assisted by Gabriel Magalhães with a cross.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Foul by Gabriel Martinelli (Brazil).",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Junya Ito (Japan) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Substitution, Japan. Yukinari Sugawara replaces Ritsu Doan.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Substitution, Japan. Junnosuke Suzuki replaces Keito Nakamura.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Substitution, Brazil. Gabriel Martinelli replaces Matheus Cunha.",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Attempt saved. Ayase Ueda (Japan) right footed shot from the left side of the box is saved in the bottom left corner by Alisson Becker (Brazil). Assisted by Daizen Maeda.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Handball by Ayase Ueda (Japan).",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Attempt missed. Matheus Cunha (Brazil) right footed shot from outside the box is too high following a fast break.",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Attempt saved. Vinícius Júnior (Brazil) right footed shot from the left side of the box is saved in the bottom right corner by Zion Suzuki (Japan). Assisted by Rayan.",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Goal! Brazil 1, Japan 1. Casemiro (Brazil) header from the right side of the six yard box to the high centre of the goal. Assisted by Gabriel Magalhães with a cross.",
+          "goal": true
+        },
+        {
+          "min": "54'",
+          "text": "Attempt blocked. Casemiro (Brazil) header from very close range is blocked. Assisted by Douglas Santos with a headed pass.",
+          "goal": false
+        },
+        {
+          "min": "53'",
+          "text": "Attempt missed. Endrick (Brazil) left footed shot from the centre of the box misses to the right. Assisted by Vinícius Júnior with a cross.",
+          "goal": false
+        },
+        {
+          "min": "52'",
+          "text": "Attempt saved. Bruno Guimarães (Brazil) header from the centre of the box is saved in the top centre of the goal by Zion Suzuki (Japan). Assisted by Danilo with a cross.",
+          "goal": false
+        },
+        {
+          "min": "49'",
+          "text": "Foul by Matheus Cunha (Brazil).",
+          "goal": false
+        },
+        {
+          "min": "49'",
+          "text": "Takehiro Tomiyasu (Japan) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "48'",
+          "text": "Danilo (Brazil) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "48'",
+          "text": "Foul by Danilo (Brazil).",
+          "goal": false
+        },
+        {
+          "min": "48'",
+          "text": "Daizen Maeda (Japan) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "47'",
+          "text": "Handball by Ritsu Doan (Japan).",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Substitution, Brazil. Endrick replaces Lucas Paquetá because of an injury.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Second Half begins Brazil 0, Japan 1.",
+          "goal": false
+        },
+        {
+          "min": "45'+4'",
+          "text": "First Half ends, Brazil 0, Japan 1.",
+          "goal": false
+        },
+        {
+          "min": "45'+1'",
+          "text": "Attempt blocked. Lucas Paquetá (Brazil) header from the centre of the box is blocked. Assisted by Marquinhos.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Fourth official has announced 4 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Daichi Kamada (Japan) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Bruno Guimarães (Brazil) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Foul by Daichi Kamada (Japan).",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Attempt blocked. Junya Ito (Japan) left footed shot from outside the box is blocked. Assisted by Daichi Kamada.",
           "goal": false
         }
       ],
@@ -66590,13 +66808,13 @@
             "name": "B. Guimarães",
             "num": "8",
             "pos": "M",
-            "value": "3"
+            "value": "4"
           },
           "away": {
-            "name": "K. Sano",
-            "num": "24",
-            "pos": "M",
-            "value": "1"
+            "name": "A. Ueda",
+            "num": "18",
+            "pos": "F",
+            "value": "2"
           }
         },
         {
@@ -66605,13 +66823,13 @@
             "name": "G. Magalhães",
             "num": "3",
             "pos": "D",
-            "value": "62"
+            "value": "130"
           },
           "away": {
             "name": "S. Taniguchi",
             "num": "3",
             "pos": "D",
-            "value": "21"
+            "value": "44"
           }
         },
         {
@@ -66620,27 +66838,39 @@
             "name": "Casemiro",
             "num": "5",
             "pos": "M",
-            "value": "4"
+            "value": "9"
           },
           "away": {
-            "name": "J. Ito",
-            "num": "14",
-            "pos": "F",
-            "value": "5"
+            "name": "S. Taniguchi",
+            "num": "3",
+            "pos": "D",
+            "value": "14"
           }
         },
         {
           "label": "Saves",
+          "home": {
+            "name": "A. Becker",
+            "num": "1",
+            "pos": "G",
+            "value": "1"
+          },
           "away": {
             "name": "Z. Suzuki",
             "num": "1",
             "pos": "G",
-            "value": "2"
+            "value": "4"
           }
         }
       ],
-      "highlight": null,
-      "final": false,
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0629/dm_260629_Fans_go_crazy_at_230am_in_Tokyo_as_Japan_take_the_lead_over_Brazil/dm_260629_Fans_go_crazy_at_230am_in_Tokyo_as_Japan_take_the_lead_over_Brazil.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49217319/fans-go-crazy-230am-tokyo-japan-take-lead-brazil",
+        "headline": "Fans go crazy at 2:30am in Tokyo as Japan take the lead over Brazil",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0629/dm_260629_Fans_go_crazy_at_230am_in_Tokyo_as_Japan_take_the_lead_over_Brazil/dm_260629_Fans_go_crazy_at_230am_in_Tokyo_as_Japan_take_the_lead_over_Brazil_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0629/dm_260629_Fans_go_crazy_at_230am_in_Tokyo_as_Japan_take_the_lead_over_Brazil/dm_260629_Fans_go_crazy_at_230am_in_Tokyo_as_Japan_take_the_lead_over_Brazil/playlist.m3u8"
+      },
+      "final": true,
       "dv": 5
     }
   }

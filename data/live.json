@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-29T22:20:28.097Z",
+  "lastUpdated": "2026-06-29T23:30:48.821Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -1045,22 +1045,12 @@
       "homeScore": 1,
       "awayScore": 1,
       "homeWinner": false,
-      "awayWinner": false,
-      "odds": {
-        "home": -300,
-        "away": 950,
-        "draw": 400,
-        "total": 2.5,
-        "book": "DraftKings"
-      },
-      "status": "live",
+      "awayWinner": true,
+      "odds": null,
+      "status": "finished",
       "id": "760489",
       "date": "2026-06-29T20:30Z",
-      "venue": "Gillette Stadium",
-      "clock": 5280,
-      "displayClock": "88'",
-      "detail": "88'",
-      "period": 2
+      "venue": "Gillette Stadium"
     },
     {
       "stage": "r32",
@@ -1338,7 +1328,7 @@
     },
     {
       "stage": "r16",
-      "home": "Round of 32 2 Winner",
+      "home": "Paraguay",
       "away": "Round of 32 5 Winner",
       "homeScore": 0,
       "awayScore": 0,

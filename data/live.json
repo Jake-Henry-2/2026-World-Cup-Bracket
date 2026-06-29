@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-29T01:52:41.496Z",
+  "lastUpdated": "2026-06-29T06:39:31.552Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -1033,8 +1033,8 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -135,
-        "away": 400,
+        "home": -140,
+        "away": 425,
         "draw": 275,
         "total": 2.5,
         "book": "DraftKings"
@@ -1053,9 +1053,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -300,
-        "away": 850,
-        "draw": 425,
+        "home": -275,
+        "away": 800,
+        "draw": 400,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -1095,7 +1095,7 @@
       "odds": {
         "home": 265,
         "away": 105,
-        "draw": 250,
+        "draw": 260,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -1134,8 +1134,8 @@
       "awayWinner": false,
       "odds": {
         "home": 125,
-        "away": 280,
-        "draw": 200,
+        "away": 290,
+        "draw": 195,
         "total": 1.5,
         "book": "DraftKings"
       },
@@ -1153,8 +1153,8 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -370,
-        "away": 1200,
+        "home": -360,
+        "away": 1100,
         "draw": 475,
         "total": 2.5,
         "book": "DraftKings"
@@ -1173,8 +1173,8 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 115,
-        "away": 265,
+        "home": 120,
+        "away": 255,
         "draw": 230,
         "total": 2.5,
         "book": "DraftKings"

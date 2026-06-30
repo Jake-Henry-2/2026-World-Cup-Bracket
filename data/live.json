@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-30T16:10:00.347Z",
+  "lastUpdated": "2026-06-30T18:14:36.319Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -1071,20 +1071,24 @@
       "home": "Ivory Coast",
       "away": "Norway",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 255,
+        "home": 260,
         "away": 115,
-        "draw": 240,
+        "draw": 230,
         "total": 2.5,
         "book": "DraftKings"
       },
-      "status": "scheduled",
+      "status": "live",
       "id": "760490",
       "date": "2026-06-30T17:00Z",
-      "venue": "AT&T Stadium"
+      "venue": "AT&T Stadium",
+      "clock": 3240,
+      "displayClock": "54'",
+      "detail": "54'",
+      "period": 2
     },
     {
       "stage": "r32",

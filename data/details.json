@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-30T16:10:00.389Z",
+  "lastUpdated": "2026-06-30T18:14:36.468Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -68689,6 +68689,767 @@
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0629/dm_260629_COM_SOC_Analysis_Germany_fans_in_Berlin_celebrate_equalizer_vs_Paraguay_20260627_GLOBAL_FIFA_WO/dm_260629_COM_SOC_Analysis_Germany_fans_in_Berlin_celebrate_equalizer_vs_Paraguay_20260627_GLOBAL_FIFA_WO/playlist.m3u8"
       },
       "final": true,
+      "dv": 5
+    },
+    "760490": {
+      "venue": "AT&T Stadium",
+      "stats": {
+        "home": {
+          "foulsCommitted": "2",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "1",
+          "wonCorners": "10",
+          "saves": "1",
+          "possessionPct": "45.2",
+          "totalShots": "6",
+          "shotsOnTarget": "1",
+          "shotPct": "0.2",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "188",
+          "totalPasses": "229",
+          "passPct": "0.8",
+          "accurateCrosses": "6",
+          "totalCrosses": "20",
+          "crossPct": "0.3",
+          "totalLongBalls": "24",
+          "accurateLongBalls": "10",
+          "longballPct": "0.4",
+          "blockedShots": "0",
+          "effectiveTackles": "12",
+          "totalTackles": "15",
+          "tacklePct": "0.8",
+          "interceptions": "3",
+          "effectiveClearance": "2",
+          "totalClearance": "2"
+        },
+        "away": {
+          "foulsCommitted": "5",
+          "yellowCards": "1",
+          "redCards": "0",
+          "offsides": "1",
+          "wonCorners": "2",
+          "saves": "1",
+          "possessionPct": "54.8",
+          "totalShots": "6",
+          "shotsOnTarget": "2",
+          "shotPct": "0.3",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "254",
+          "totalPasses": "296",
+          "passPct": "0.9",
+          "accurateCrosses": "4",
+          "totalCrosses": "5",
+          "crossPct": "0.8",
+          "totalLongBalls": "24",
+          "accurateLongBalls": "13",
+          "longballPct": "0.5",
+          "blockedShots": "3",
+          "effectiveTackles": "7",
+          "totalTackles": "13",
+          "tacklePct": "0.5",
+          "interceptions": "4",
+          "effectiveClearance": "20",
+          "totalClearance": "20"
+        }
+      },
+      "events": [
+        {
+          "kind": "Goal",
+          "min": "39'",
+          "side": "away",
+          "player": "Goal! Côte d'Ivoire 0, Norway 1. Antonio Nusa"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "45'+1'",
+          "side": "away",
+          "player": "Antonio Nusa"
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Yahia Fofana",
+            "short": "Y. Fofana",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Emmanuel Agbadou",
+            "short": "E. Agbadou",
+            "num": "20",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Odilon Kossounou",
+            "short": "O. Kossounou",
+            "num": "7",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Ibrahim Sangaré",
+            "short": "I. Sangaré",
+            "num": "18",
+            "pos": "DM",
+            "place": "4"
+          },
+          {
+            "name": "Ghislain Konan",
+            "short": "G. Konan",
+            "num": "3",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Guela Doué",
+            "short": "G. Doué",
+            "num": "17",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Christ Inao Oulaï",
+            "short": "C. Inao Oulaï",
+            "num": "26",
+            "pos": "CM-L",
+            "place": "10"
+          },
+          {
+            "name": "Franck Kessié",
+            "short": "F. Kessié",
+            "num": "8",
+            "pos": "CM-R",
+            "place": "8"
+          },
+          {
+            "name": "Yan Diomande",
+            "short": "Y. Diomande",
+            "num": "11",
+            "pos": "LM",
+            "place": "11"
+          },
+          {
+            "name": "Nicolas Pépé",
+            "short": "N. Pépé",
+            "num": "19",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Ange-Yoan Bonny",
+            "short": "A. Bonny",
+            "num": "9",
+            "pos": "F",
+            "place": "9"
+          }
+        ],
+        "away": [
+          {
+            "name": "Ørjan Nyland",
+            "short": "Ø. Nyland",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Torbjørn Heggem",
+            "short": "T. Heggem",
+            "num": "17",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Kristoffer Ajer",
+            "short": "K. Ajer",
+            "num": "3",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "David Møller Wolfe",
+            "short": "D. Møller Wolfe",
+            "num": "5",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Marcus Holmgren Pedersen",
+            "short": "M. Holmgren Pedersen",
+            "num": "16",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Sander Berge",
+            "short": "S. Berge",
+            "num": "8",
+            "pos": "CM",
+            "place": "4"
+          },
+          {
+            "name": "Patrick Berg",
+            "short": "P. Berg",
+            "num": "6",
+            "pos": "LM",
+            "place": "8"
+          },
+          {
+            "name": "Martin Ødegaard",
+            "short": "M. Ødegaard",
+            "num": "10",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Erling Haaland",
+            "short": "E. Haaland",
+            "num": "9",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Antonio Nusa",
+            "short": "A. Nusa",
+            "num": "20",
+            "pos": "LF",
+            "place": "11"
+          },
+          {
+            "name": "Alexander Sørloth",
+            "short": "A. Sørloth",
+            "num": "7",
+            "pos": "RF",
+            "place": "10"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Jean Michaël Seri",
+            "short": "J. Seri",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Alban Lafont",
+            "short": "A. Lafont",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Seko Fofana",
+            "short": "S. Fofana",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mohamed Koné",
+            "short": "M. Koné",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Evann Guessand",
+            "short": "E. Guessand",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Christopher Operi",
+            "short": "C. Operi",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Evan Ndicka",
+            "short": "E. Ndicka",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Bazoumana Touré",
+            "short": "B. Touré",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ousmane Diomande",
+            "short": "O. Diomande",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Elye Wahi",
+            "short": "E. Wahi",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Oumar Diakité",
+            "short": "O. Diakité",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Wilfried Singo",
+            "short": "W. Singo",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Parfait Guiagon",
+            "short": "P. Guiagon",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Simon Adingra",
+            "short": "S. Adingra",
+            "num": "10",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Amad Diallo",
+            "short": "A. Diallo",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Sondre Langas",
+            "short": "S. Langas",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Sander Tangvik",
+            "short": "S. Tangvik",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jens Petter Hauge",
+            "short": "J. Hauge",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Oscar Bobb",
+            "short": "O. Bobb",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Fredrik Aursnes",
+            "short": "F. Aursnes",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Leo Østigard",
+            "short": "L. Østigard",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Egil Selvik",
+            "short": "E. Selvik",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Fredrik André Bjørkan",
+            "short": "F. Bjørkan",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Morten Thorsby",
+            "short": "M. Thorsby",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Andreas Schjelderup",
+            "short": "A. Schjelderup",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jørgen Strand Larsen",
+            "short": "J. Larsen",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Julian Ryerson",
+            "short": "J. Ryerson",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Thelo Aasgaard",
+            "short": "T. Aasgaard",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Henrik Falchener",
+            "short": "H. Falchener",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kristian Thorstvedt",
+            "short": "K. Thorstvedt",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-1-4-1",
+        "away": "4-3-3"
+      },
+      "commentary": [
+        {
+          "min": "52'",
+          "text": "Attempt missed. Ibrahim Sangaré (Côte d'Ivoire) right footed shot from outside the box is high and wide to the right.",
+          "goal": false
+        },
+        {
+          "min": "51'",
+          "text": "Handball by Franck Kessie (Côte d'Ivoire).",
+          "goal": false
+        },
+        {
+          "min": "49'",
+          "text": "Corner, Côte d'Ivoire. Conceded by Patrick Berg.",
+          "goal": false
+        },
+        {
+          "min": "47'",
+          "text": "Foul by Marcus Pedersen (Norway).",
+          "goal": false
+        },
+        {
+          "min": "47'",
+          "text": "Yan Diomande (Côte d'Ivoire) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "46'",
+          "text": "Offside, Côte d'Ivoire. Ange-Yoan Bonny is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Second Half begins Côte d'Ivoire 0, Norway 1.",
+          "goal": false
+        },
+        {
+          "min": "45'+4'",
+          "text": "First Half ends, Côte d'Ivoire 0, Norway 1.",
+          "goal": false
+        },
+        {
+          "min": "45'+2'",
+          "text": "Attempt missed. Emmanuel Agbadou (Côte d'Ivoire) header from the centre of the box is close, but misses to the left. Assisted by Nicolas Pépé with a cross following a set piece situation.",
+          "goal": false
+        },
+        {
+          "min": "45'+1'",
+          "text": "Antonio Nusa (Norway) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "45'+1'",
+          "text": "Foul by Antonio Nusa (Norway).",
+          "goal": false
+        },
+        {
+          "min": "45'+1'",
+          "text": "Guéla Doué (Côte d'Ivoire) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Fourth official has announced 4 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Corner, Côte d'Ivoire. Conceded by Erling Haaland.",
+          "goal": false
+        },
+        {
+          "min": "44'",
+          "text": "Corner, Côte d'Ivoire. Conceded by Marcus Pedersen.",
+          "goal": false
+        },
+        {
+          "min": "42'",
+          "text": "Attempt missed. Alexander Sørloth (Norway) header from very close range is close, but misses to the right. Assisted by Patrick Berg with a cross following a corner.",
+          "goal": false
+        },
+        {
+          "min": "42'",
+          "text": "Corner, Norway. Conceded by Ibrahim Sangaré.",
+          "goal": false
+        },
+        {
+          "min": "42'",
+          "text": "Attempt blocked. Erling Haaland (Norway) left footed shot from very close range is blocked.",
+          "goal": false
+        },
+        {
+          "min": "39'",
+          "text": "Goal! Côte d'Ivoire 0, Norway 1. Antonio Nusa (Norway) right footed shot from the left side of the box to the top right corner. Assisted by Martin Ødegaard.",
+          "goal": true
+        },
+        {
+          "min": "38'",
+          "text": "Attempt blocked. Martin Ødegaard (Norway) left footed shot from outside the box is blocked. Assisted by Antonio Nusa.",
+          "goal": false
+        },
+        {
+          "min": "37'",
+          "text": "Foul by Alexander Sørloth (Norway).",
+          "goal": false
+        },
+        {
+          "min": "37'",
+          "text": "Yan Diomande (Côte d'Ivoire) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "37'",
+          "text": "Attempt saved. Erling Haaland (Norway) header from the centre of the box is saved in the bottom left corner by Yahia Fofana (Côte d'Ivoire). Assisted by Alexander Sørloth with a cross.",
+          "goal": false
+        },
+        {
+          "min": "35'",
+          "text": "Attempt saved. Emmanuel Agbadou (Côte d'Ivoire) right footed shot from outside the box is saved in the top centre of the goal by Ørjan Nyland (Norway).",
+          "goal": false
+        },
+        {
+          "min": "34'",
+          "text": "Corner, Côte d'Ivoire. Conceded by Patrick Berg.",
+          "goal": false
+        },
+        {
+          "min": "33'",
+          "text": "Corner, Côte d'Ivoire. Conceded by Torbjørn Heggem.",
+          "goal": false
+        },
+        {
+          "min": "31'",
+          "text": "Corner, Côte d'Ivoire. Conceded by Erling Haaland.",
+          "goal": false
+        },
+        {
+          "min": "30'",
+          "text": "Corner, Côte d'Ivoire. Conceded by Marcus Pedersen.",
+          "goal": false
+        },
+        {
+          "min": "28'",
+          "text": "Corner, Côte d'Ivoire. Conceded by Kristoffer Ajer.",
+          "goal": false
+        },
+        {
+          "min": "28'",
+          "text": "Attempt missed. Nicolas Pépé (Côte d'Ivoire) right footed shot from the right side of the six yard box misses to the left. Assisted by Yan Diomande with a cross.",
+          "goal": false
+        },
+        {
+          "min": "27'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "24'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "23'",
+          "text": "Foul by David Møller Wolfe (Norway).",
+          "goal": false
+        },
+        {
+          "min": "23'",
+          "text": "Yan Diomande (Côte d'Ivoire) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "23'",
+          "text": "Corner, Norway. Conceded by Guéla Doué.",
+          "goal": false
+        },
+        {
+          "min": "21'",
+          "text": "Attempt missed. Ghislain Konan (Côte d'Ivoire) right footed shot from the left side of the box is close, but misses to the left. Assisted by Christ Inao Oulaï.",
+          "goal": false
+        },
+        {
+          "min": "15'",
+          "text": "Corner, Côte d'Ivoire. Conceded by Kristoffer Ajer.",
+          "goal": false
+        },
+        {
+          "min": "11'",
+          "text": "Foul by David Møller Wolfe (Norway).",
+          "goal": false
+        },
+        {
+          "min": "11'",
+          "text": "Nicolas Pépé (Côte d'Ivoire) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "8'",
+          "text": "Corner, Côte d'Ivoire. Conceded by Torbjørn Heggem.",
+          "goal": false
+        },
+        {
+          "min": "8'",
+          "text": "Attempt missed. Yan Diomande (Côte d'Ivoire) header from the centre of the box misses to the left. Assisted by Guéla Doué with a cross.",
+          "goal": false
+        },
+        {
+          "min": "5'",
+          "text": "Antonio Nusa (Norway) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "5'",
+          "text": "Foul by Guéla Doué (Côte d'Ivoire).",
+          "goal": false
+        },
+        {
+          "min": "3'",
+          "text": "Offside, Norway. Alexander Sørloth is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "3'",
+          "text": "Attempt blocked. Erling Haaland (Norway) header from the centre of the box is blocked. Assisted by Marcus Pedersen with a cross.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "First Half begins.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "Lineups are announced and players are warming up.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "E. Agbadou",
+            "num": "20",
+            "pos": "D",
+            "value": "2"
+          },
+          "away": {
+            "name": "E. Haaland",
+            "num": "9",
+            "pos": "F",
+            "value": "3"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "I. Sangaré",
+            "num": "18",
+            "pos": "M",
+            "value": "26"
+          },
+          "away": {
+            "name": "T. Heggem",
+            "num": "17",
+            "pos": "D",
+            "value": "44"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "O. Kossounou",
+            "num": "7",
+            "pos": "D",
+            "value": "7"
+          },
+          "away": {
+            "name": "K. Ajer",
+            "num": "3",
+            "pos": "D",
+            "value": "11"
+          }
+        },
+        {
+          "label": "Saves",
+          "home": {
+            "name": "Y. Fofana",
+            "num": "1",
+            "pos": "G",
+            "value": "1"
+          },
+          "away": {
+            "name": "Ø. Nyland",
+            "num": "1",
+            "pos": "G",
+            "value": "1"
+          }
+        }
+      ],
+      "highlight": null,
+      "final": false,
       "dv": 5
     }
   }

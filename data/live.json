@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-30T18:14:36.319Z",
+  "lastUpdated": "2026-06-30T20:22:19.215Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -1070,25 +1070,15 @@
       "stage": "r32",
       "home": "Ivory Coast",
       "away": "Norway",
-      "homeScore": 0,
-      "awayScore": 1,
+      "homeScore": 1,
+      "awayScore": 2,
       "homeWinner": false,
-      "awayWinner": false,
-      "odds": {
-        "home": 260,
-        "away": 115,
-        "draw": 230,
-        "total": 2.5,
-        "book": "DraftKings"
-      },
-      "status": "live",
+      "awayWinner": true,
+      "odds": null,
+      "status": "finished",
       "id": "760490",
       "date": "2026-06-30T17:00Z",
-      "venue": "AT&T Stadium",
-      "clock": 3240,
-      "displayClock": "54'",
-      "detail": "54'",
-      "period": 2
+      "venue": "AT&T Stadium"
     },
     {
       "stage": "r32",
@@ -1100,7 +1090,7 @@
       "awayWinner": false,
       "odds": {
         "home": -340,
-        "away": 950,
+        "away": 900,
         "draw": 500,
         "total": 3.5,
         "book": "DraftKings"
@@ -1119,9 +1109,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 130,
-        "away": 295,
-        "draw": 185,
+        "home": 120,
+        "away": 310,
+        "draw": 190,
         "total": 1.5,
         "book": "DraftKings"
       },
@@ -1179,9 +1169,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -265,
-        "away": 800,
-        "draw": 390,
+        "home": -255,
+        "away": 750,
+        "draw": 380,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -1219,9 +1209,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -130,
-        "away": 400,
-        "draw": 265,
+        "home": -125,
+        "away": 380,
+        "draw": 260,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -1347,12 +1337,18 @@
     {
       "stage": "r16",
       "home": "Brazil",
-      "away": "Round of 32 6 Winner",
+      "away": "Norway",
       "homeScore": 0,
       "awayScore": 0,
       "homeWinner": false,
       "awayWinner": false,
-      "odds": null,
+      "odds": {
+        "home": -110,
+        "away": 310,
+        "draw": 260,
+        "total": 2.5,
+        "book": "DraftKings"
+      },
       "status": "scheduled",
       "id": "760504",
       "date": "2026-07-05T20:00Z",

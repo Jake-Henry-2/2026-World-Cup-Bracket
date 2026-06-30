@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-30T20:22:19.215Z",
+  "lastUpdated": "2026-06-30T21:53:07.046Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -1084,7 +1084,7 @@
       "stage": "r32",
       "home": "France",
       "away": "Sweden",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "homeWinner": false,
       "awayWinner": false,
@@ -1095,10 +1095,14 @@
         "total": 3.5,
         "book": "DraftKings"
       },
-      "status": "scheduled",
+      "status": "live",
       "id": "760492",
       "date": "2026-06-30T21:00Z",
-      "venue": "MetLife Stadium"
+      "venue": "MetLife Stadium",
+      "clock": 2700,
+      "displayClock": "45'+4'",
+      "detail": "HT",
+      "period": 1
     },
     {
       "stage": "r32",
@@ -1149,9 +1153,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 125,
-        "away": 250,
-        "draw": 225,
+        "home": 120,
+        "away": 255,
+        "draw": 235,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -1309,8 +1313,8 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 400,
-        "away": -125,
+        "home": 380,
+        "away": -120,
         "draw": 255,
         "total": 2.5,
         "book": "DraftKings"

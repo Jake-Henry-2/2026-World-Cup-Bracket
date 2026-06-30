@@ -1,7 +1,35 @@
 {
-  "lastUpdated": "2026-06-30T20:22:19.238Z",
+  "lastUpdated": "2026-06-30T21:53:07.088Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Ronald Koeman steps down as Netherlands head coach after World Cup exit",
+      "description": "Ronald Koeman is out as the Netherlands head coach, following the team's exit to Morocco at the World Cup.",
+      "published": "2026-06-30T21:50:33Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49223897/ronald-koeman-netherlands-world-cup-exit-morocco",
+      "image": "https://a.espncdn.com/photo/2026/0630/r1681967_2_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Christian Pulisic says he is fit, ready to go the distance for USMNT",
+      "description": "United States men's national team attacker Christian Pulisic said he is ready to go the distance in the team's World Cup round-of-32 match against Bosnia and Herzegovina on Wednesday, no matter how long the game lasts.",
+      "published": "2026-06-30T21:38:37Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49229606/christian-pulisic-says-fit-ready-go-distance-usmnt",
+      "image": "https://a.espncdn.com/photo/2026/0626/r1679852_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Erling Haaland 'the greatest goalscorer in the world' - Norway coach Stale Solbakken",
+      "description": "Norway coach Stale Solbakken described Erling Haaland as the \"greatest goalscorer in the world and I wouldn't swap him for anybody.\"",
+      "published": "2026-06-30T21:37:28Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49229201/erling-haaland-greatest-goalscorer-world-norway-coach-stale-solbakken",
+      "image": "https://a.espncdn.com/photo/2026/0630/r1682301_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Does German soccer have a talent crisis?",
+      "description": "Does German soccer have a talent crisis?",
+      "published": "2026-06-30T20:29:28Z",
+      "link": "https://www.espn.com/video/clip/_/id/49228927/does-german-soccer-talent-crisis",
+      "image": "https://a.espncdn.com/media/motion/2026/0630/ss_20260630_162023101_3580462/ss_20260630_162023101_3580462.jpg"
+    },
     {
       "headline": "Haaland shows why he's the key to Norway's World Cup dreams",
       "description": "While he has a very talented and capable supporting cast, Norway's dreams of World Cup glory rest on the shoulders, and goals, of Erling Haaland.",
@@ -12,37 +40,9 @@
     {
       "headline": "U.S. Homeland Security Secretary 'so happy' Iran made World Cup exit",
       "description": "U.S. Department of Homeland Security Secretary Markwayne Mullin has said he is \"so happy\" that Iran are out of the World Cup.",
-      "published": "2026-06-30T20:21:30Z",
+      "published": "2026-06-30T20:47:01Z",
       "link": "https://www.espn.com/soccer/story/_/id/49224162/top-us-government-official-happy-iran-made-world-cup-exit",
       "image": "https://a.espncdn.com/photo/2026/0630/r1681976_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Predicting how many of Africa's historic nine teams will win their R32 matches",
-      "description": "Which of the African teams can extend their impressive runs to date by advancing to the last 16?",
-      "published": "2026-06-30T20:00:34Z",
-      "link": "https://www.espn.com/espn/story/_/id/49204443/african-teams-2026-fifa-world-cup-round-32-ed-dove-predictions",
-      "image": "https://a.espncdn.com/photo/2026/0628/r1680912_2_608x342_16-9.png"
-    },
-    {
-      "headline": "World Cup Daily LIVE: Paraguay TV cuts out on vital pen; Norway claim last-16 place",
-      "description": "Follow live below for all the biggest highlights, news, reaction and analysis on another busy day of World Cup action.",
-      "published": "2026-06-30T19:56:36Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49223441/paraguay-tv-cuts-vital-pen-mexico-fans-get-noisy-ecuador-hotel",
-      "image": "https://a.espncdn.com/photo/2026/0630/r1681948_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "World Cup: One big question for every round-of-16 team",
-      "description": "As this week sees the World Cup field cut from 32 to 16, we're wondering what the biggest issue is for each team still in the tournament. Like do Brazil have a plan?",
-      "published": "2026-06-30T20:09:13Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49228332/world-cup-round-16-analysis-brazil-canada-paraguay-morocco-ryan-ohanlon",
-      "image": "https://a.espncdn.com/photo/2026/0630/r1682238_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Does Ancelotti need to make changes for Brazil vs. Norway?",
-      "description": "Does Ancelotti need to make changes for Brazil vs. Norway?",
-      "published": "2026-06-30T19:49:17Z",
-      "link": "https://www.espn.com/video/clip/_/id/49228536/does-ancelotti-need-make-changes-brazil-vs-norway",
-      "image": "https://a.espncdn.com/media/motion/2026/0630/dm_260630_COM_SOC_Analysis_Does_Ancelotti_need_to_make_changes_for_Brazil_vs_Norway3F__GLOBAL_2026-06-30/dm_260630_COM_SOC_Analysis_Does_Ancelotti_need_to_make_changes_for_Brazil_vs_Norway3F__GLOBAL_2026-06-30.jpg"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-30T20:22:19.272Z",
+  "lastUpdated": "2026-06-30T21:53:07.126Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -69581,6 +69581,819 @@
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0630/dm_260630_COM_SOC_Analysis_Norway_fans_celebrate_NusaE28099s_goal_vs_CC3B4te_dIvoire_GLOBAL_2026-06-30/dm_260630_COM_SOC_Analysis_Norway_fans_celebrate_NusaE28099s_goal_vs_CC3B4te_dIvoire_GLOBAL_2026-06-30/playlist.m3u8"
       },
       "final": true,
+      "dv": 5
+    },
+    "760492": {
+      "venue": "MetLife Stadium",
+      "stats": {
+        "home": {
+          "foulsCommitted": "8",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "1",
+          "wonCorners": "6",
+          "saves": "1",
+          "possessionPct": "71.1",
+          "totalShots": "15",
+          "shotsOnTarget": "6",
+          "shotPct": "0.4",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "249",
+          "totalPasses": "284",
+          "passPct": "0.9",
+          "accurateCrosses": "3",
+          "totalCrosses": "11",
+          "crossPct": "0.3",
+          "totalLongBalls": "14",
+          "accurateLongBalls": "6",
+          "longballPct": "0.4",
+          "blockedShots": "2",
+          "effectiveTackles": "3",
+          "totalTackles": "4",
+          "tacklePct": "0.8",
+          "interceptions": "1",
+          "effectiveClearance": "10",
+          "totalClearance": "10"
+        },
+        "away": {
+          "foulsCommitted": "6",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "1",
+          "wonCorners": "0",
+          "saves": "5",
+          "possessionPct": "28.9",
+          "totalShots": "3",
+          "shotsOnTarget": "1",
+          "shotPct": "0.3",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "78",
+          "totalPasses": "115",
+          "passPct": "0.7",
+          "accurateCrosses": "1",
+          "totalCrosses": "6",
+          "crossPct": "0.2",
+          "totalLongBalls": "30",
+          "accurateLongBalls": "8",
+          "longballPct": "0.3",
+          "blockedShots": "0",
+          "effectiveTackles": "5",
+          "totalTackles": "8",
+          "tacklePct": "0.6",
+          "interceptions": "5",
+          "effectiveClearance": "17",
+          "totalClearance": "17"
+        }
+      },
+      "events": [
+        {
+          "kind": "Goal",
+          "min": "45'",
+          "side": "home",
+          "player": "Goal! France 1, Sweden 0. Kylian Mbappé"
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Mike Maignan",
+            "short": "M. Maignan",
+            "num": "16",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "William Saliba",
+            "short": "W. Saliba",
+            "num": "17",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Dayot Upamecano",
+            "short": "D. Upamecano",
+            "num": "4",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Lucas Digne",
+            "short": "L. Digne",
+            "num": "3",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Jules Koundé",
+            "short": "J. Koundé",
+            "num": "5",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Michael Olise",
+            "short": "M. Olise",
+            "num": "11",
+            "pos": "AM",
+            "place": "10"
+          },
+          {
+            "name": "Adrien Rabiot",
+            "short": "A. Rabiot",
+            "num": "14",
+            "pos": "LM",
+            "place": "4"
+          },
+          {
+            "name": "Aurélien Tchouaméni",
+            "short": "A. Tchouaméni",
+            "num": "8",
+            "pos": "RM",
+            "place": "8"
+          },
+          {
+            "name": "Kylian Mbappé",
+            "short": "K. Mbappé",
+            "num": "10",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Bradley Barcola",
+            "short": "B. Barcola",
+            "num": "12",
+            "pos": "AM-L",
+            "place": "11"
+          },
+          {
+            "name": "Ousmane Dembélé",
+            "short": "O. Dembélé",
+            "num": "7",
+            "pos": "AM-R",
+            "place": "7"
+          }
+        ],
+        "away": [
+          {
+            "name": "Jacob Widell Zetterström",
+            "short": "J. Widell Zetterström",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Victor Lindelöf",
+            "short": "V. Lindelöf",
+            "num": "3",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Gustaf Lagerbielke",
+            "short": "G. Lagerbielke",
+            "num": "2",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Gabriel Gudmundsson",
+            "short": "G. Gudmundsson",
+            "num": "5",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Daniel Svensson",
+            "short": "D. Svensson",
+            "num": "8",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Yasin Ayari",
+            "short": "Y. Ayari",
+            "num": "18",
+            "pos": "CM-L",
+            "place": "8"
+          },
+          {
+            "name": "Lucas Bergvall",
+            "short": "L. Bergvall",
+            "num": "7",
+            "pos": "CM-R",
+            "place": "4"
+          },
+          {
+            "name": "Elliot Stroud",
+            "short": "E. Stroud",
+            "num": "24",
+            "pos": "LM",
+            "place": "11"
+          },
+          {
+            "name": "Anthony Elanga",
+            "short": "A. Elanga",
+            "num": "11",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Alexander Isak",
+            "short": "A. Isak",
+            "num": "9",
+            "pos": "CF-L",
+            "place": "9"
+          },
+          {
+            "name": "Viktor Gyökeres",
+            "short": "V. Gyökeres",
+            "num": "17",
+            "pos": "CF-R",
+            "place": "10"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Warren Zaïre-Emery",
+            "short": "W. Zaïre-Emery",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Robin Risser",
+            "short": "R. Risser",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jean-Philippe Mateta",
+            "short": "J. Mateta",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Malo Gusto",
+            "short": "M. Gusto",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Rayan Cherki",
+            "short": "R. Cherki",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ibrahima Konaté",
+            "short": "I. Konaté",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Désiré Doué",
+            "short": "D. Doué",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Maghnes Akliouche",
+            "short": "M. Akliouche",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Maxence Lacroix",
+            "short": "M. Lacroix",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Theo Hernández",
+            "short": "T. Hernández",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Manu Koné",
+            "short": "M. Koné",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Marcus Thuram",
+            "short": "M. Thuram",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Brice Samba",
+            "short": "B. Samba",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Lucas Hernández",
+            "short": "L. Hernández",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "N'Golo Kanté",
+            "short": "N. Kanté",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Kristoffer Nordfeldt",
+            "short": "K. Nordfeldt",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Besfort Zeneli",
+            "short": "B. Zeneli",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Taha Ali",
+            "short": "T. Ali",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Eric Smith",
+            "short": "E. Smith",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Carl Starfelt",
+            "short": "C. Starfelt",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jesper Karlström",
+            "short": "J. Karlström",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Alexander Bernhardsson",
+            "short": "A. Bernhardsson",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Viktor Johansson",
+            "short": "V. Johansson",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ken Sema",
+            "short": "K. Sema",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Hjalmar Ekdal",
+            "short": "H. Ekdal",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Benjamin Nygren",
+            "short": "B. Nygren",
+            "num": "10",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Herman Johansson",
+            "short": "H. Johansson",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gustaf Nilsson",
+            "short": "G. Nilsson",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mattias Svanberg",
+            "short": "M. Svanberg",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-2-3-1",
+        "away": "4-4-2"
+      },
+      "commentary": [
+        {
+          "min": "45'+4'",
+          "text": "First Half ends, France 1, Sweden 0.",
+          "goal": false
+        },
+        {
+          "min": "45'+3'",
+          "text": "Offside, Sweden. Daniel Svensson is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "45'+2'",
+          "text": "Attempt missed. Elliot Stroud (Sweden) right footed shot from the centre of the box is high and wide to the right.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Fourth official has announced 3 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Goal! France 1, Sweden 0. Kylian Mbappé (France) right footed shot from the centre of the box to the top right corner. Assisted by Ousmane Dembélé following a corner.",
+          "goal": true
+        },
+        {
+          "min": "45'",
+          "text": "Corner, France. Conceded by Jacob Widell Zetterström.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Attempt saved. Michael Olise (France) left footed shot from outside the box is saved in the bottom left corner by Jacob Widell Zetterström (Sweden). Assisted by Kylian Mbappé.",
+          "goal": false
+        },
+        {
+          "min": "44'",
+          "text": "Attempt blocked. Jules Koundé (France) left footed shot from the right side of the box is blocked. Assisted by Ousmane Dembélé.",
+          "goal": false
+        },
+        {
+          "min": "43'",
+          "text": "Corner, France. Conceded by Daniel Svensson.",
+          "goal": false
+        },
+        {
+          "min": "42'",
+          "text": "Attempt missed. Michael Olise (France) left footed shot from outside the box is close, but misses to the left. Assisted by Aurélien Tchouaméni.",
+          "goal": false
+        },
+        {
+          "min": "41'",
+          "text": "Foul by Adrien Rabiot (France).",
+          "goal": false
+        },
+        {
+          "min": "41'",
+          "text": "Lucas Bergvall (Sweden) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "40'",
+          "text": "Attempt saved. Kylian Mbappé (France) right footed shot from outside the box is saved in the centre of the goal by Jacob Widell Zetterström (Sweden). Assisted by Adrien Rabiot.",
+          "goal": false
+        },
+        {
+          "min": "39'",
+          "text": "Foul by Dayot Upamecano (France).",
+          "goal": false
+        },
+        {
+          "min": "39'",
+          "text": "Elliot Stroud (Sweden) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "39'",
+          "text": "Attempt missed. Dayot Upamecano (France) header from the centre of the box misses to the right following a set piece situation.",
+          "goal": false
+        },
+        {
+          "min": "38'",
+          "text": "Kylian Mbappé (France) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "38'",
+          "text": "Foul by Lucas Bergvall (Sweden).",
+          "goal": false
+        },
+        {
+          "min": "36'",
+          "text": "Attempt missed. Ousmane Dembélé (France) left footed shot from the right side of the box is close, but misses to the left.",
+          "goal": false
+        },
+        {
+          "min": "36'",
+          "text": "Michael Olise (France) hits the right post with a left footed shot from the centre of the box.",
+          "goal": false
+        },
+        {
+          "min": "35'",
+          "text": "Foul by Aurélien Tchouaméni (France).",
+          "goal": false
+        },
+        {
+          "min": "35'",
+          "text": "Viktor Gyökeres (Sweden) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "33'",
+          "text": "Attempt missed. Adrien Rabiot (France) left footed shot from outside the box is too high. Assisted by Ousmane Dembélé.",
+          "goal": false
+        },
+        {
+          "min": "32'",
+          "text": "Kylian Mbappé (France) hits the left post with a right footed shot from the centre of the box. Assisted by Jules Koundé following a corner.",
+          "goal": false
+        },
+        {
+          "min": "31'",
+          "text": "Corner, France. Conceded by Gabriel Gudmundsson.",
+          "goal": false
+        },
+        {
+          "min": "30'",
+          "text": "Corner, France. Conceded by Victor Lindelöf.",
+          "goal": false
+        },
+        {
+          "min": "30'",
+          "text": "Attempt saved. Adrien Rabiot (France) left footed shot from the left side of the box is saved in the centre of the goal by Jacob Widell Zetterström (Sweden).",
+          "goal": false
+        },
+        {
+          "min": "28'",
+          "text": "Corner, France. Conceded by Elliot Stroud.",
+          "goal": false
+        },
+        {
+          "min": "28'",
+          "text": "Attempt blocked. Ousmane Dembélé (France) right footed shot from outside the box is blocked. Assisted by Aurélien Tchouaméni.",
+          "goal": false
+        },
+        {
+          "min": "27'",
+          "text": "Attempt missed. Alexander Isak (Sweden) right footed shot from the centre of the box is close, but misses to the right. Assisted by Yasin Ayari with a through ball following a set piece situation.",
+          "goal": false
+        },
+        {
+          "min": "27'",
+          "text": "Foul by Adrien Rabiot (France).",
+          "goal": false
+        },
+        {
+          "min": "27'",
+          "text": "Yasin Ayari (Sweden) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "26'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "23'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "22'",
+          "text": "Foul by Michael Olise (France).",
+          "goal": false
+        },
+        {
+          "min": "22'",
+          "text": "Yasin Ayari (Sweden) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "20'",
+          "text": "Offside, France. Kylian Mbappé is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "19'",
+          "text": "Attempt missed. Bradley Barcola (France) left footed shot from the left side of the box is too high. Assisted by Adrien Rabiot.",
+          "goal": false
+        },
+        {
+          "min": "18'",
+          "text": "Foul by William Saliba (France).",
+          "goal": false
+        },
+        {
+          "min": "18'",
+          "text": "Viktor Gyökeres (Sweden) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "17'",
+          "text": "Attempt saved. Kylian Mbappé (France) right footed shot from outside the box is saved in the bottom left corner by Jacob Widell Zetterström (Sweden). Assisted by Bradley Barcola.",
+          "goal": false
+        },
+        {
+          "min": "15'",
+          "text": "Attempt saved. Lucas Digne (France) left footed shot from outside the box is saved in the bottom right corner by Jacob Widell Zetterström (Sweden).",
+          "goal": false
+        },
+        {
+          "min": "15'",
+          "text": "Corner, France. Conceded by Gabriel Gudmundsson.",
+          "goal": false
+        },
+        {
+          "min": "14'",
+          "text": "Adrien Rabiot (France) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "14'",
+          "text": "Foul by Lucas Bergvall (Sweden).",
+          "goal": false
+        },
+        {
+          "min": "7'",
+          "text": "Michael Olise (France) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "7'",
+          "text": "Foul by Yasin Ayari (Sweden).",
+          "goal": false
+        },
+        {
+          "min": "6'",
+          "text": "Foul by Adrien Rabiot (France).",
+          "goal": false
+        },
+        {
+          "min": "6'",
+          "text": "Viktor Gyökeres (Sweden) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "4'",
+          "text": "Ousmane Dembélé (France) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "4'",
+          "text": "Foul by Yasin Ayari (Sweden).",
+          "goal": false
+        },
+        {
+          "min": "3'",
+          "text": "Aurélien Tchouaméni (France) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "3'",
+          "text": "Foul by Alexander Isak (Sweden).",
+          "goal": false
+        },
+        {
+          "min": "3'",
+          "text": "Attempt saved. Alexander Isak (Sweden) right footed shot from the centre of the box is saved in the centre of the goal by Mike Maignan (France). Assisted by Viktor Gyökeres.",
+          "goal": false
+        },
+        {
+          "min": "2'",
+          "text": "Foul by William Saliba (France).",
+          "goal": false
+        },
+        {
+          "min": "2'",
+          "text": "Viktor Gyökeres (Sweden) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "1'",
+          "text": "Lucas Digne (France) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "1'",
+          "text": "Foul by Lucas Bergvall (Sweden).",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "First Half begins.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "Lineups are announced and players are warming up.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "K. Mbappé",
+            "num": "10",
+            "pos": "F",
+            "value": "4"
+          },
+          "away": {
+            "name": "A. Isak",
+            "num": "9",
+            "pos": "F",
+            "value": "2"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "A. Rabiot",
+            "num": "14",
+            "pos": "M",
+            "value": "35"
+          },
+          "away": {
+            "name": "L. Bergvall",
+            "num": "7",
+            "pos": "M",
+            "value": "12"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "L. Digne",
+            "num": "3",
+            "pos": "D",
+            "value": "5"
+          },
+          "away": {
+            "name": "G. Lagerbielke",
+            "num": "2",
+            "pos": "D",
+            "value": "6"
+          }
+        },
+        {
+          "label": "Saves",
+          "home": {
+            "name": "M. Maignan",
+            "num": "16",
+            "pos": "G",
+            "value": "1"
+          },
+          "away": {
+            "name": "J. Widell Zetterström",
+            "num": "1",
+            "pos": "G",
+            "value": "5"
+          }
+        }
+      ],
+      "highlight": null,
+      "final": false,
       "dv": 5
     }
   }

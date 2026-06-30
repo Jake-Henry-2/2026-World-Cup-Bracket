@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-29T23:30:48.821Z",
+  "lastUpdated": "2026-06-30T01:33:13.761Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -1061,16 +1061,20 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 140,
+        "home": 145,
         "away": 230,
-        "draw": 205,
+        "draw": 210,
         "total": 2.5,
         "book": "DraftKings"
       },
-      "status": "scheduled",
+      "status": "live",
       "id": "760488",
       "date": "2026-06-30T01:00Z",
-      "venue": "Estadio BBVA"
+      "venue": "Estadio BBVA",
+      "clock": 1920,
+      "displayClock": "32'",
+      "detail": "32'",
+      "period": 1
     },
     {
       "stage": "r32",
@@ -1081,7 +1085,7 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 265,
+        "home": 255,
         "away": 110,
         "draw": 245,
         "total": 2.5,
@@ -1102,7 +1106,7 @@
       "awayWinner": false,
       "odds": {
         "home": -350,
-        "away": 900,
+        "away": 850,
         "draw": 500,
         "total": 3.5,
         "book": "DraftKings"
@@ -1123,7 +1127,7 @@
       "odds": {
         "home": 120,
         "away": 300,
-        "draw": 190,
+        "draw": 195,
         "total": 1.5,
         "book": "DraftKings"
       },

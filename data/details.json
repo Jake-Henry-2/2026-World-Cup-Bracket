@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-29T23:30:48.897Z",
+  "lastUpdated": "2026-06-30T01:33:13.935Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -66871,6 +66871,653 @@
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0629/dm_260629_Fans_go_crazy_at_230am_in_Tokyo_as_Japan_take_the_lead_over_Brazil/dm_260629_Fans_go_crazy_at_230am_in_Tokyo_as_Japan_take_the_lead_over_Brazil/playlist.m3u8"
       },
       "final": true,
+      "dv": 5
+    },
+    "760488": {
+      "venue": "Estadio BBVA",
+      "stats": {
+        "home": {
+          "foulsCommitted": "3",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "1",
+          "wonCorners": "1",
+          "saves": "2",
+          "possessionPct": "49.1",
+          "totalShots": "1",
+          "shotsOnTarget": "0",
+          "shotPct": "0.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "120",
+          "totalPasses": "141",
+          "passPct": "0.9",
+          "accurateCrosses": "0",
+          "totalCrosses": "3",
+          "crossPct": "0.0",
+          "totalLongBalls": "10",
+          "accurateLongBalls": "2",
+          "longballPct": "0.2",
+          "blockedShots": "1",
+          "effectiveTackles": "2",
+          "totalTackles": "3",
+          "tacklePct": "0.7",
+          "interceptions": "4",
+          "effectiveClearance": "3",
+          "totalClearance": "3"
+        },
+        "away": {
+          "foulsCommitted": "5",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "2",
+          "saves": "0",
+          "possessionPct": "50.9",
+          "totalShots": "3",
+          "shotsOnTarget": "2",
+          "shotPct": "0.7",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "128",
+          "totalPasses": "142",
+          "passPct": "0.9",
+          "accurateCrosses": "1",
+          "totalCrosses": "5",
+          "crossPct": "0.2",
+          "totalLongBalls": "15",
+          "accurateLongBalls": "7",
+          "longballPct": "0.5",
+          "blockedShots": "0",
+          "effectiveTackles": "1",
+          "totalTackles": "3",
+          "tacklePct": "0.3",
+          "interceptions": "3",
+          "effectiveClearance": "7",
+          "totalClearance": "7"
+        }
+      },
+      "events": [],
+      "lineups": {
+        "home": [
+          {
+            "name": "Bart Verbruggen",
+            "short": "B. Verbruggen",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Virgil van Dijk",
+            "short": "V. van Dijk",
+            "num": "4",
+            "pos": "CD",
+            "place": "5"
+          },
+          {
+            "name": "Nathan Aké",
+            "short": "N. Aké",
+            "num": "5",
+            "pos": "CD-L",
+            "place": "4"
+          },
+          {
+            "name": "Jan Paul van Hecke",
+            "short": "J. van Hecke",
+            "num": "6",
+            "pos": "CD-R",
+            "place": "6"
+          },
+          {
+            "name": "Frenkie de Jong",
+            "short": "F. de Jong",
+            "num": "21",
+            "pos": "CM-L",
+            "place": "8"
+          },
+          {
+            "name": "Ryan Gravenberch",
+            "short": "R. Gravenberch",
+            "num": "8",
+            "pos": "CM-R",
+            "place": "7"
+          },
+          {
+            "name": "Micky van de Ven",
+            "short": "M. van de Ven",
+            "num": "15",
+            "pos": "LM",
+            "place": "3"
+          },
+          {
+            "name": "Denzel Dumfries",
+            "short": "D. Dumfries",
+            "num": "22",
+            "pos": "RM",
+            "place": "2"
+          },
+          {
+            "name": "Brian Brobbey",
+            "short": "B. Brobbey",
+            "num": "19",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Cody Gakpo",
+            "short": "C. Gakpo",
+            "num": "11",
+            "pos": "CF-L",
+            "place": "11"
+          },
+          {
+            "name": "Crysencio Summerville",
+            "short": "C. Summerville",
+            "num": "24",
+            "pos": "CF-R",
+            "place": "10"
+          }
+        ],
+        "away": [
+          {
+            "name": "Yassine Bounou",
+            "short": "Y. Bounou",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Chadi Riad",
+            "short": "C. Riad",
+            "num": "18",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Issa Diop",
+            "short": "I. Diop",
+            "num": "14",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Noussair Mazraoui",
+            "short": "N. Mazraoui",
+            "num": "3",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Achraf Hakimi",
+            "short": "A. Hakimi",
+            "num": "2",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Azzedine Ounahi",
+            "short": "A. Ounahi",
+            "num": "8",
+            "pos": "AM",
+            "place": "10"
+          },
+          {
+            "name": "Neil El Aynaoui",
+            "short": "N. El Aynaoui",
+            "num": "24",
+            "pos": "LM",
+            "place": "4"
+          },
+          {
+            "name": "Ayyoub Bouaddi",
+            "short": "A. Bouaddi",
+            "num": "6",
+            "pos": "RM",
+            "place": "8"
+          },
+          {
+            "name": "Ismael Saibari",
+            "short": "I. Saibari",
+            "num": "11",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Bilal El Khannouss",
+            "short": "B. El Khannouss",
+            "num": "23",
+            "pos": "AM-L",
+            "place": "11"
+          },
+          {
+            "name": "Brahim Díaz",
+            "short": "B. Díaz",
+            "num": "10",
+            "pos": "AM-R",
+            "place": "7"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Marten de Roon",
+            "short": "M. de Roon",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jorrel Hato",
+            "short": "J. Hato",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mats Wieffer",
+            "short": "M. Wieffer",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Donyell Malen",
+            "short": "D. Malen",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Memphis Depay",
+            "short": "M. Depay",
+            "num": "10",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Justin Kluivert",
+            "short": "J. Kluivert",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mark Flekken",
+            "short": "M. Flekken",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Wout Weghorst",
+            "short": "W. Weghorst",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Guus Til",
+            "short": "G. Til",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Quinten Timber",
+            "short": "Q. Timber",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Lutsharel Geertruida",
+            "short": "L. Geertruida",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Noa Lang",
+            "short": "N. Lang",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Robin Roefs",
+            "short": "R. Roefs",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Tijjani Reijnders",
+            "short": "T. Reijnders",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Teun Koopmeiners",
+            "short": "T. Koopmeiners",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Anass Salah-Eddine",
+            "short": "A. Salah-Eddine",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Amine Sbaï",
+            "short": "A. Sbaï",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ahmed Reda Tagnaouti",
+            "short": "A. Tagnaouti",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ayoube Amaimouni",
+            "short": "A. Amaimouni",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Samir El Mourabet",
+            "short": "S. El Mourabet",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Sofyan Amrabat",
+            "short": "S. Amrabat",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gessime Yassine",
+            "short": "G. Yassine",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Munir El Kajoui",
+            "short": "M. El Kajoui",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Youssef Belammari",
+            "short": "Y. Belammari",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Chemsdine Talbi",
+            "short": "C. Talbi",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Zakaria El Ouahdi",
+            "short": "Z. El Ouahdi",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Soufiane Rahimi",
+            "short": "S. Rahimi",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ayoub El Kaabi",
+            "short": "A. El Kaabi",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Marwane Saadane",
+            "short": "M. Saadane",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Redouane Halhal",
+            "short": "R. Halhal",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "3-4-2-1",
+        "away": "4-2-3-1"
+      },
+      "commentary": [
+        {
+          "min": "31'",
+          "text": "Foul by Ismael Saibari (Morocco).",
+          "goal": false
+        },
+        {
+          "min": "31'",
+          "text": "Crysencio Summerville (Netherlands) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "29'",
+          "text": "Foul by Ismael Saibari (Morocco).",
+          "goal": false
+        },
+        {
+          "min": "29'",
+          "text": "Frenkie de Jong (Netherlands) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "27'",
+          "text": "Foul by Azzedine Ounahi (Morocco).",
+          "goal": false
+        },
+        {
+          "min": "27'",
+          "text": "Jan Paul van Hecke (Netherlands) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "25'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "22'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "21'",
+          "text": "Corner, Morocco. Conceded by Bart Verbruggen.",
+          "goal": false
+        },
+        {
+          "min": "21'",
+          "text": "Attempt saved. Achraf Hakimi (Morocco) right footed shot from the right side of the box is saved in the top right corner by Bart Verbruggen (Netherlands). Assisted by Ismael Saibari.",
+          "goal": false
+        },
+        {
+          "min": "20'",
+          "text": "Attempt missed. Ayyoub Bouaddi (Morocco) right footed shot from outside the box is too high. Assisted by Azzedine Ounahi following a corner.",
+          "goal": false
+        },
+        {
+          "min": "20'",
+          "text": "Attempt saved. Neil El Aynaoui (Morocco) header from the right side of the six yard box is saved in the top centre of the goal by Bart Verbruggen (Netherlands). Assisted by Achraf Hakimi with a cross.",
+          "goal": false
+        },
+        {
+          "min": "19'",
+          "text": "Corner, Morocco. Conceded by Micky van de Ven.",
+          "goal": false
+        },
+        {
+          "min": "16'",
+          "text": "Offside, Netherlands. Crysencio Summerville is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "14'",
+          "text": "Chadi Riad (Morocco) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "14'",
+          "text": "Foul by Brian Brobbey (Netherlands).",
+          "goal": false
+        },
+        {
+          "min": "11'",
+          "text": "Foul by Issa Diop (Morocco).",
+          "goal": false
+        },
+        {
+          "min": "11'",
+          "text": "Brian Brobbey (Netherlands) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "10'",
+          "text": "Foul by Ismael Saibari (Morocco).",
+          "goal": false
+        },
+        {
+          "min": "10'",
+          "text": "Denzel Dumfries (Netherlands) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "7'",
+          "text": "Foul by Ryan Gravenberch (Netherlands).",
+          "goal": false
+        },
+        {
+          "min": "7'",
+          "text": "Bilal El Khannouss (Morocco) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "7'",
+          "text": "Attempt blocked. Ryan Gravenberch (Netherlands) left footed shot from the right side of the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "4'",
+          "text": "Foul by Frenkie de Jong (Netherlands).",
+          "goal": false
+        },
+        {
+          "min": "4'",
+          "text": "Neil El Aynaoui (Morocco) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "3'",
+          "text": "Corner, Netherlands. Conceded by Chadi Riad.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "First Half begins.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "Lineups are announced and players are warming up.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "R. Gravenberch",
+            "num": "8",
+            "pos": "M",
+            "value": "1"
+          },
+          "away": {
+            "name": "A. Bouaddi",
+            "num": "6",
+            "pos": "M",
+            "value": "1"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "V. van Dijk",
+            "num": "4",
+            "pos": "D",
+            "value": "29"
+          },
+          "away": {
+            "name": "N. El Aynaoui",
+            "num": "24",
+            "pos": "M",
+            "value": "22"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "F. de Jong",
+            "num": "21",
+            "pos": "M",
+            "value": "4"
+          },
+          "away": {
+            "name": "I. Diop",
+            "num": "14",
+            "pos": "D",
+            "value": "6"
+          }
+        },
+        {
+          "label": "Saves",
+          "home": {
+            "name": "B. Verbruggen",
+            "num": "1",
+            "pos": "G",
+            "value": "2"
+          }
+        }
+      ],
+      "highlight": null,
+      "final": false,
       "dv": 5
     },
     "760489": {

@@ -587,9 +587,11 @@
   const KO_STAGES = ["r32", "r16", "qf", "sf", "final", "third"];
   const TEAM_SET = new Set(ALL_TEAMS);
   const ROUND_LABEL = { r32: "Round of 32", r16: "Round of 16", qf: "Quarters", sf: "Semis", final: "Final", third: "3rd place" };
+  // STABLE upper structure: which R16/QF/SF matches sit on each half (from QF/SF wiring, which never
+  // shifts). The R32-column order is derived live per side (buildBracket), so r32 here is just a fallback.
   const BRACKET = {
-    left:  { r32: [1, 3, 2, 5, 11, 12, 9, 10], r16: [1, 2, 5, 6], qf: [1, 2], sf: [1] },
-    right: { r32: [4, 6, 7, 8, 13, 15, 14, 16], r16: [3, 4, 7, 8], qf: [3, 4], sf: [2] }
+    left:  { r32: [1, 3, 4, 7, 11, 12, 9, 10], r16: [1, 2, 5, 6], qf: [1, 2], sf: [1] },
+    right: { r32: [2, 5, 6, 8, 13, 15, 14, 16], r16: [3, 4, 7, 8], qf: [3, 4], sf: [2] }
   };
 
   // the group stage is over once all 12 groups are complete (or any knockout game has kicked off)
@@ -600,7 +602,29 @@
     return groups.length > 0 && groups.every((g) => computed.groupTables[g] && computed.groupTables[g].complete);
   }
 
-  // map the live feed onto the fixed tree: each (round, idx) slot → normalized match
+  // Which two R32 matches feed each Round-of-16 match (1..8 by ESPN id). ESPN's bracket differs from
+  // its early placeholder labels and those labels can go stale, so we DERIVE this from the live feed:
+  // each resolved R16 team came from the R32 match it won (authoritative); placeholders / gaps fill by
+  // constraint (every R32 match feeds exactly one R16). Falls back to the static R16_FEED if unreadable.
+  function deriveR16Feed(raw) {
+    const ms = (m, st) => (raw || []).filter((x) => x && x.stage === st).sort((a, b) => (Number(a.id) || 0) - (Number(b.id) || 0));
+    const r32 = ms(raw, "r32"), r16 = ms(raw, "r16");
+    if (r16.length !== 8 || r32.length !== 16) return R16_FEED;
+    const winnerTeam = (m) => { if (m.status !== "finished") return null; const hs = Number(m.homeScore) || 0, as = Number(m.awayScore) || 0;
+      return m.homeWinner ? canon(m.home) : m.awayWinner ? canon(m.away) : hs > as ? canon(m.home) : as > hs ? canon(m.away) : null; };
+    const r32win = {}; r32.forEach((m, i) => { const w = winnerTeam(m); if (w) r32win[w] = i + 1; });
+    const F = {}, claimed = new Set();
+    r16.forEach((m, i) => { F[i + 1] = [null, null]; [m.home, m.away].forEach((name, si) => {       // 1) resolved teams (authoritative)
+      const num = r32win[canon(name)]; if (num && !claimed.has(num)) { F[i + 1][si] = num; claimed.add(num); } }); });
+    r16.forEach((m, i) => [m.home, m.away].forEach((name, si) => { if (F[i + 1][si] != null) return;   // 2) placeholder labels, if free
+      const ph = String(name || "").match(/round of 32\s+(\d+)\s+winner/i); if (ph && !claimed.has(+ph[1])) { F[i + 1][si] = +ph[1]; claimed.add(+ph[1]); } }));
+    const missing = []; for (let n = 1; n <= 16; n++) if (!claimed.has(n)) missing.push(n);            // 3) fill the rest by constraint
+    r16.forEach((m, i) => [0, 1].forEach((si) => { if (F[i + 1][si] == null) { const mn = missing.shift(); if (mn != null) { F[i + 1][si] = mn; claimed.add(mn); } } }));
+    return F;
+  }
+
+  // map the live feed onto the 2026 tree: stable upper structure (which R16 matches sit on each side),
+  // with the R32 column order derived from the live feed so every match aligns with its real feeders.
   function buildBracket() {
     const raw = Array.isArray(state.results.matches) ? state.results.matches : [];
     const byRound = {}; KO_STAGES.forEach((st) => (byRound[st] = []));
@@ -617,7 +641,13 @@
       return { round, idx, id: m.id || null, status: m.status || "scheduled",
                home, away, hReal, aReal, hs, as, finished, winner, clickable: hReal && aReal && !!m.id };
     };
-    const col = (side, round) => BRACKET[side][round].map((idx) => slot(round, idx));
+    const rf = deriveR16Feed(raw);
+    const r32order = (r16list) => r16list.reduce((acc, k) => acc.concat(rf[k] || [0, 0]), []);
+    const ord = {
+      left:  { r16: BRACKET.left.r16,  qf: BRACKET.left.qf,  sf: BRACKET.left.sf,  r32: r32order(BRACKET.left.r16) },
+      right: { r16: BRACKET.right.r16, qf: BRACKET.right.qf, sf: BRACKET.right.sf, r32: r32order(BRACKET.right.r16) }
+    };
+    const col = (side, round) => ord[side][round].map((idx) => slot(round, idx));
     return {
       left:  { r32: col("left", "r32"),  r16: col("left", "r16"),  qf: col("left", "qf"),  sf: col("left", "sf") },
       right: { r32: col("right", "r32"), r16: col("right", "r16"), qf: col("right", "qf"), sf: col("right", "sf") },
@@ -717,8 +747,9 @@
     return { atk, def };
   }
 
-  // 2026 knockout tree — which earlier-round winners feed each later match (from ESPN's bracket).
-  const R16_FEED = { 1: [1, 3], 2: [2, 5], 3: [4, 6], 4: [7, 8], 5: [11, 12], 6: [9, 10], 7: [13, 15], 8: [14, 16] };
+  // Fallback R16 wiring (R32 matches feeding each R16) — only used if the live feed can't be read;
+  // normally derived live by deriveR16Feed() so it always tracks ESPN's actual bracket.
+  const R16_FEED = { 1: [1, 3], 2: [4, 7], 3: [2, 5], 4: [6, 8], 5: [11, 12], 6: [9, 10], 7: [13, 15], 8: [14, 16] };
   const QF_FEED = { 1: [1, 2], 2: [5, 6], 3: [3, 4], 4: [7, 8] };
   const SF_FEED = { 1: [1, 2], 2: [3, 4] };
 
@@ -740,6 +771,7 @@
       .sort((a, b) => (Number(a.id) || 0) - (Number(b.id) || 0))
       .map((m) => ({ home: canon(m.home), away: canon(m.away), md: oddsModel(m.odds) }));
     const ready = r32.length === 16;
+    const RF = deriveR16Feed(matches);   // R16 wiring from the live feed (matches ESPN's actual bracket)
 
     // play one game: finished → actual result; else simulate (R32 from DK odds, later rounds from strength)
     function playGame(A, B, md, rng, tp) {
@@ -758,7 +790,7 @@
       const w32 = {};
       r32.forEach((mm, i) => { const A = mm.home, B = mm.away; setF(A, "r32"); setF(B, "r32"); w32[i + 1] = playGame(A, B, mm.md, rng, tp); });
       const w16 = {};
-      for (let k = 1; k <= 8; k++) { const A = w32[R16_FEED[k][0]], B = w32[R16_FEED[k][1]]; setF(A, "r16"); setF(B, "r16"); w16[k] = playGame(A, B, null, rng, tp); }
+      for (let k = 1; k <= 8; k++) { const A = w32[RF[k][0]], B = w32[RF[k][1]]; setF(A, "r16"); setF(B, "r16"); w16[k] = playGame(A, B, null, rng, tp); }
       const wqf = {};
       for (let k = 1; k <= 4; k++) { const A = w16[QF_FEED[k][0]], B = w16[QF_FEED[k][1]]; setF(A, "qf"); setF(B, "qf"); wqf[k] = playGame(A, B, null, rng, tp); }
       const wsf = {}, lsf = {};

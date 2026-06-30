@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-30T21:53:07.046Z",
+  "lastUpdated": "2026-06-30T23:05:59.151Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -1084,25 +1084,15 @@
       "stage": "r32",
       "home": "France",
       "away": "Sweden",
-      "homeScore": 1,
+      "homeScore": 3,
       "awayScore": 0,
-      "homeWinner": false,
+      "homeWinner": true,
       "awayWinner": false,
-      "odds": {
-        "home": -340,
-        "away": 900,
-        "draw": 500,
-        "total": 3.5,
-        "book": "DraftKings"
-      },
-      "status": "live",
+      "odds": null,
+      "status": "finished",
       "id": "760492",
       "date": "2026-06-30T21:00Z",
-      "venue": "MetLife Stadium",
-      "clock": 2700,
-      "displayClock": "45'+4'",
-      "detail": "HT",
-      "period": 1
+      "venue": "MetLife Stadium"
     },
     {
       "stage": "r32",
@@ -1235,7 +1225,7 @@
       "odds": {
         "home": 110,
         "away": 290,
-        "draw": 230,
+        "draw": 225,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -1327,7 +1317,7 @@
     {
       "stage": "r16",
       "home": "Paraguay",
-      "away": "Round of 32 5 Winner",
+      "away": "France",
       "homeScore": 0,
       "awayScore": 0,
       "homeWinner": false,

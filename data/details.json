@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-30T21:53:07.126Z",
+  "lastUpdated": "2026-06-30T23:05:59.211Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -69587,64 +69587,64 @@
       "venue": "MetLife Stadium",
       "stats": {
         "home": {
-          "foulsCommitted": "8",
+          "foulsCommitted": "14",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "3",
+          "wonCorners": "9",
+          "saves": "3",
+          "possessionPct": "61",
+          "totalShots": "25",
+          "shotsOnTarget": "12",
+          "shotPct": "0.5",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "485",
+          "totalPasses": "551",
+          "passPct": "0.9",
+          "accurateCrosses": "4",
+          "totalCrosses": "16",
+          "crossPct": "0.3",
+          "totalLongBalls": "37",
+          "accurateLongBalls": "19",
+          "longballPct": "0.5",
+          "blockedShots": "4",
+          "effectiveTackles": "7",
+          "totalTackles": "13",
+          "tacklePct": "0.5",
+          "interceptions": "5",
+          "effectiveClearance": "23",
+          "totalClearance": "23"
+        },
+        "away": {
+          "foulsCommitted": "10",
           "yellowCards": "0",
           "redCards": "0",
           "offsides": "1",
-          "wonCorners": "6",
-          "saves": "1",
-          "possessionPct": "71.1",
-          "totalShots": "15",
-          "shotsOnTarget": "6",
+          "wonCorners": "1",
+          "saves": "9",
+          "possessionPct": "39",
+          "totalShots": "8",
+          "shotsOnTarget": "3",
           "shotPct": "0.4",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "249",
-          "totalPasses": "284",
-          "passPct": "0.9",
+          "accuratePasses": "279",
+          "totalPasses": "351",
+          "passPct": "0.8",
           "accurateCrosses": "3",
-          "totalCrosses": "11",
+          "totalCrosses": "10",
           "crossPct": "0.3",
-          "totalLongBalls": "14",
-          "accurateLongBalls": "6",
-          "longballPct": "0.4",
-          "blockedShots": "2",
-          "effectiveTackles": "3",
-          "totalTackles": "4",
-          "tacklePct": "0.8",
-          "interceptions": "1",
-          "effectiveClearance": "10",
-          "totalClearance": "10"
-        },
-        "away": {
-          "foulsCommitted": "6",
-          "yellowCards": "0",
-          "redCards": "0",
-          "offsides": "1",
-          "wonCorners": "0",
-          "saves": "5",
-          "possessionPct": "28.9",
-          "totalShots": "3",
-          "shotsOnTarget": "1",
-          "shotPct": "0.3",
-          "penaltyKickGoals": "0",
-          "penaltyKickShots": "0",
-          "accuratePasses": "78",
-          "totalPasses": "115",
-          "passPct": "0.7",
-          "accurateCrosses": "1",
-          "totalCrosses": "6",
-          "crossPct": "0.2",
-          "totalLongBalls": "30",
-          "accurateLongBalls": "8",
+          "totalLongBalls": "44",
+          "accurateLongBalls": "11",
           "longballPct": "0.3",
-          "blockedShots": "0",
-          "effectiveTackles": "5",
-          "totalTackles": "8",
+          "blockedShots": "1",
+          "effectiveTackles": "8",
+          "totalTackles": "14",
           "tacklePct": "0.6",
-          "interceptions": "5",
-          "effectiveClearance": "17",
-          "totalClearance": "17"
+          "interceptions": "12",
+          "effectiveClearance": "26",
+          "totalClearance": "26"
         }
       },
       "events": [
@@ -69653,6 +69653,78 @@
           "min": "45'",
           "side": "home",
           "player": "Goal! France 1, Sweden 0. Kylian Mbappé"
+        },
+        {
+          "kind": "Goal",
+          "min": "53'",
+          "side": "home",
+          "player": "Goal! France 2, Sweden 0. Bradley Barcola"
+        },
+        {
+          "kind": "Substitution",
+          "min": "66'",
+          "side": "away",
+          "player": "Substitution, Sweden. Taha Ali replaces Elliot Stroud."
+        },
+        {
+          "kind": "Substitution",
+          "min": "66'",
+          "side": "away",
+          "player": "Substitution, Sweden. Besfort Zeneli replaces Lucas Bergvall."
+        },
+        {
+          "kind": "Goal",
+          "min": "74'",
+          "side": "home",
+          "player": "Goal! France 3, Sweden 0. Kylian Mbappé"
+        },
+        {
+          "kind": "Substitution",
+          "min": "75'",
+          "side": "home",
+          "player": "Substitution, France. Malo Gusto replaces Jules Koundé."
+        },
+        {
+          "kind": "Substitution",
+          "min": "75'",
+          "side": "home",
+          "player": "Substitution, France. Désiré Doué replaces Ousmane Dembélé."
+        },
+        {
+          "kind": "Substitution",
+          "min": "78'",
+          "side": "home",
+          "player": "Substitution, France. Théo Hernández replaces Lucas Digne."
+        },
+        {
+          "kind": "Substitution",
+          "min": "82'",
+          "side": "away",
+          "player": "Substitution, Sweden. Mattias Svanberg replaces Daniel Svensson."
+        },
+        {
+          "kind": "Substitution",
+          "min": "82'",
+          "side": "away",
+          "player": "Substitution, Sweden. Benjamin Nygren replaces Yasin Ayari."
+        },
+        {
+          "kind": "Substitution",
+          "min": "85'",
+          "side": "home",
+          "player": "Substitution, France. Jean-Philippe Mateta replaces Kylian Mbappé."
+        },
+        {
+          "kind": "Substitution",
+          "min": "85'",
+          "side": "home",
+          "player": "Substitution, France. Rayan Cherki replaces Michael Olise."
+        },
+        {
+          "kind": "Substitution",
+          "min": "89'",
+          "side": "away",
+          "player": "Substitution, Sweden. Gustaf Nilsson replaces Alexander Isak."
         }
       ],
       "lineups": {
@@ -70030,6 +70102,281 @@
       },
       "commentary": [
         {
+          "min": "",
+          "text": "Match ends, France 3, Sweden 0.",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Second Half ends, France 3, Sweden 0.",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Attempt saved. Mattias Svanberg (Sweden) right footed shot from the right side of the box is saved in the bottom right corner by Mike Maignan (France). Assisted by Anthony Elanga.",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Attempt blocked. Gustaf Nilsson (Sweden) header from the centre of the box is blocked. Assisted by Benjamin Nygren with a cross.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Foul by Rayan Cherki (France).",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Taha Ali (Sweden) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Attempt missed. Jean-Philippe Mateta (France) left footed shot from the centre of the box is too high. Assisted by Désiré Doué with a cross.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Foul by Malo Gusto (France).",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Taha Ali (Sweden) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Fourth official has announced 4 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Foul by Jean-Philippe Mateta (France).",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Gustaf Lagerbielke (Sweden) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Substitution, Sweden. Gustaf Nilsson replaces Alexander Isak.",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Attempt saved. Viktor Gyökeres (Sweden) right footed shot from the centre of the box is saved in the bottom right corner by Mike Maignan (France).",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Offside, France. Bradley Barcola is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Attempt missed. Mattias Svanberg (Sweden) right footed shot from outside the box misses to the left.",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Foul by Adrien Rabiot (France).",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Mattias Svanberg (Sweden) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Substitution, France. Rayan Cherki replaces Michael Olise.",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Substitution, France. Jean-Philippe Mateta replaces Kylian Mbappé.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Substitution, Sweden. Benjamin Nygren replaces Yasin Ayari.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Substitution, Sweden. Mattias Svanberg replaces Daniel Svensson.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Corner, France. Conceded by Jacob Widell Zetterström.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Attempt saved. Bradley Barcola (France) left footed shot from the left side of the six yard box is saved in the centre of the goal by Jacob Widell Zetterström (Sweden). Assisted by Théo Hernández.",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Attempt saved. Désiré Doué (France) right footed shot from the right side of the box is saved in the bottom right corner by Jacob Widell Zetterström (Sweden). Assisted by Malo Gusto.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Désiré Doué (France) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Foul by Gabriel Gudmundsson (Sweden).",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Substitution, France. Théo Hernández replaces Lucas Digne.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Aurélien Tchouaméni (France) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Foul by Besfort Zeneli (Sweden).",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Substitution, France. Désiré Doué replaces Ousmane Dembélé.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Substitution, France. Malo Gusto replaces Jules Koundé.",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Goal! France 3, Sweden 0. Kylian Mbappé (France) right footed shot from the left side of the box to the bottom right corner. Assisted by Michael Olise with a through ball.",
+          "goal": true
+        },
+        {
+          "min": "73'",
+          "text": "Handball by Alexander Isak (Sweden).",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Attempt saved. Michael Olise (France) left footed shot from the centre of the box is saved in the centre of the goal by Jacob Widell Zetterström (Sweden). Assisted by Kylian Mbappé.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Attempt blocked. Dayot Upamecano (France) right footed shot from the centre of the box is blocked. Assisted by Adrien Rabiot.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Substitution, Sweden. Besfort Zeneli replaces Lucas Bergvall.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Substitution, Sweden. Taha Ali replaces Elliot Stroud.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Corner, France. Conceded by Gabriel Gudmundsson.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Attempt blocked. Michael Olise (France) left footed shot from the left side of the box is blocked. Assisted by Kylian Mbappé.",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Corner, France. Conceded by Jacob Widell Zetterström.",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Attempt saved. Michael Olise (France) left footed shot from outside the box is saved in the bottom left corner by Jacob Widell Zetterström (Sweden). Assisted by Ousmane Dembélé.",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Attempt missed. Lucas Bergvall (Sweden) header from the centre of the box misses to the left. Assisted by Daniel Svensson with a cross following a corner.",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Corner, Sweden. Conceded by Lucas Digne.",
+          "goal": false
+        },
+        {
+          "min": "55'",
+          "text": "Foul by Lucas Digne (France).",
+          "goal": false
+        },
+        {
+          "min": "55'",
+          "text": "Anthony Elanga (Sweden) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "54'",
+          "text": "Handball by Kylian Mbappé (France).",
+          "goal": false
+        },
+        {
+          "min": "53'",
+          "text": "Goal! France 2, Sweden 0. Bradley Barcola (France) right footed shot from the centre of the box to the top left corner. Assisted by Michael Olise with a through ball following a fast break.",
+          "goal": true
+        },
+        {
+          "min": "52'",
+          "text": "Offside, France. Ousmane Dembélé is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "50'",
+          "text": "Attempt missed. Aurélien Tchouaméni (France) right footed shot from outside the box is too high. Assisted by Kylian Mbappé.",
+          "goal": false
+        },
+        {
+          "min": "47'",
+          "text": "Jules Koundé (France) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "47'",
+          "text": "Foul by Alexander Isak (Sweden).",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Second Half begins France 1, Sweden 0.",
+          "goal": false
+        },
+        {
           "min": "45'+4'",
           "text": "First Half ends, France 1, Sweden 0.",
           "goal": false
@@ -70053,291 +70400,16 @@
           "min": "45'",
           "text": "Goal! France 1, Sweden 0. Kylian Mbappé (France) right footed shot from the centre of the box to the top right corner. Assisted by Ousmane Dembélé following a corner.",
           "goal": true
-        },
-        {
-          "min": "45'",
-          "text": "Corner, France. Conceded by Jacob Widell Zetterström.",
-          "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Attempt saved. Michael Olise (France) left footed shot from outside the box is saved in the bottom left corner by Jacob Widell Zetterström (Sweden). Assisted by Kylian Mbappé.",
-          "goal": false
-        },
-        {
-          "min": "44'",
-          "text": "Attempt blocked. Jules Koundé (France) left footed shot from the right side of the box is blocked. Assisted by Ousmane Dembélé.",
-          "goal": false
-        },
-        {
-          "min": "43'",
-          "text": "Corner, France. Conceded by Daniel Svensson.",
-          "goal": false
-        },
-        {
-          "min": "42'",
-          "text": "Attempt missed. Michael Olise (France) left footed shot from outside the box is close, but misses to the left. Assisted by Aurélien Tchouaméni.",
-          "goal": false
-        },
-        {
-          "min": "41'",
-          "text": "Foul by Adrien Rabiot (France).",
-          "goal": false
-        },
-        {
-          "min": "41'",
-          "text": "Lucas Bergvall (Sweden) wins a free kick on the right wing.",
-          "goal": false
-        },
-        {
-          "min": "40'",
-          "text": "Attempt saved. Kylian Mbappé (France) right footed shot from outside the box is saved in the centre of the goal by Jacob Widell Zetterström (Sweden). Assisted by Adrien Rabiot.",
-          "goal": false
-        },
-        {
-          "min": "39'",
-          "text": "Foul by Dayot Upamecano (France).",
-          "goal": false
-        },
-        {
-          "min": "39'",
-          "text": "Elliot Stroud (Sweden) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "39'",
-          "text": "Attempt missed. Dayot Upamecano (France) header from the centre of the box misses to the right following a set piece situation.",
-          "goal": false
-        },
-        {
-          "min": "38'",
-          "text": "Kylian Mbappé (France) wins a free kick on the left wing.",
-          "goal": false
-        },
-        {
-          "min": "38'",
-          "text": "Foul by Lucas Bergvall (Sweden).",
-          "goal": false
-        },
-        {
-          "min": "36'",
-          "text": "Attempt missed. Ousmane Dembélé (France) left footed shot from the right side of the box is close, but misses to the left.",
-          "goal": false
-        },
-        {
-          "min": "36'",
-          "text": "Michael Olise (France) hits the right post with a left footed shot from the centre of the box.",
-          "goal": false
-        },
-        {
-          "min": "35'",
-          "text": "Foul by Aurélien Tchouaméni (France).",
-          "goal": false
-        },
-        {
-          "min": "35'",
-          "text": "Viktor Gyökeres (Sweden) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "33'",
-          "text": "Attempt missed. Adrien Rabiot (France) left footed shot from outside the box is too high. Assisted by Ousmane Dembélé.",
-          "goal": false
-        },
-        {
-          "min": "32'",
-          "text": "Kylian Mbappé (France) hits the left post with a right footed shot from the centre of the box. Assisted by Jules Koundé following a corner.",
-          "goal": false
-        },
-        {
-          "min": "31'",
-          "text": "Corner, France. Conceded by Gabriel Gudmundsson.",
-          "goal": false
-        },
-        {
-          "min": "30'",
-          "text": "Corner, France. Conceded by Victor Lindelöf.",
-          "goal": false
-        },
-        {
-          "min": "30'",
-          "text": "Attempt saved. Adrien Rabiot (France) left footed shot from the left side of the box is saved in the centre of the goal by Jacob Widell Zetterström (Sweden).",
-          "goal": false
-        },
-        {
-          "min": "28'",
-          "text": "Corner, France. Conceded by Elliot Stroud.",
-          "goal": false
-        },
-        {
-          "min": "28'",
-          "text": "Attempt blocked. Ousmane Dembélé (France) right footed shot from outside the box is blocked. Assisted by Aurélien Tchouaméni.",
-          "goal": false
-        },
-        {
-          "min": "27'",
-          "text": "Attempt missed. Alexander Isak (Sweden) right footed shot from the centre of the box is close, but misses to the right. Assisted by Yasin Ayari with a through ball following a set piece situation.",
-          "goal": false
-        },
-        {
-          "min": "27'",
-          "text": "Foul by Adrien Rabiot (France).",
-          "goal": false
-        },
-        {
-          "min": "27'",
-          "text": "Yasin Ayari (Sweden) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "26'",
-          "text": "Delay over. They are ready to continue.",
-          "goal": false
-        },
-        {
-          "min": "23'",
-          "text": "Delay in match for a drinks break.",
-          "goal": false
-        },
-        {
-          "min": "22'",
-          "text": "Foul by Michael Olise (France).",
-          "goal": false
-        },
-        {
-          "min": "22'",
-          "text": "Yasin Ayari (Sweden) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "20'",
-          "text": "Offside, France. Kylian Mbappé is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "19'",
-          "text": "Attempt missed. Bradley Barcola (France) left footed shot from the left side of the box is too high. Assisted by Adrien Rabiot.",
-          "goal": false
-        },
-        {
-          "min": "18'",
-          "text": "Foul by William Saliba (France).",
-          "goal": false
-        },
-        {
-          "min": "18'",
-          "text": "Viktor Gyökeres (Sweden) wins a free kick on the left wing.",
-          "goal": false
-        },
-        {
-          "min": "17'",
-          "text": "Attempt saved. Kylian Mbappé (France) right footed shot from outside the box is saved in the bottom left corner by Jacob Widell Zetterström (Sweden). Assisted by Bradley Barcola.",
-          "goal": false
-        },
-        {
-          "min": "15'",
-          "text": "Attempt saved. Lucas Digne (France) left footed shot from outside the box is saved in the bottom right corner by Jacob Widell Zetterström (Sweden).",
-          "goal": false
-        },
-        {
-          "min": "15'",
-          "text": "Corner, France. Conceded by Gabriel Gudmundsson.",
-          "goal": false
-        },
-        {
-          "min": "14'",
-          "text": "Adrien Rabiot (France) wins a free kick on the left wing.",
-          "goal": false
-        },
-        {
-          "min": "14'",
-          "text": "Foul by Lucas Bergvall (Sweden).",
-          "goal": false
-        },
-        {
-          "min": "7'",
-          "text": "Michael Olise (France) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "7'",
-          "text": "Foul by Yasin Ayari (Sweden).",
-          "goal": false
-        },
-        {
-          "min": "6'",
-          "text": "Foul by Adrien Rabiot (France).",
-          "goal": false
-        },
-        {
-          "min": "6'",
-          "text": "Viktor Gyökeres (Sweden) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "4'",
-          "text": "Ousmane Dembélé (France) wins a free kick on the right wing.",
-          "goal": false
-        },
-        {
-          "min": "4'",
-          "text": "Foul by Yasin Ayari (Sweden).",
-          "goal": false
-        },
-        {
-          "min": "3'",
-          "text": "Aurélien Tchouaméni (France) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "3'",
-          "text": "Foul by Alexander Isak (Sweden).",
-          "goal": false
-        },
-        {
-          "min": "3'",
-          "text": "Attempt saved. Alexander Isak (Sweden) right footed shot from the centre of the box is saved in the centre of the goal by Mike Maignan (France). Assisted by Viktor Gyökeres.",
-          "goal": false
-        },
-        {
-          "min": "2'",
-          "text": "Foul by William Saliba (France).",
-          "goal": false
-        },
-        {
-          "min": "2'",
-          "text": "Viktor Gyökeres (Sweden) wins a free kick on the right wing.",
-          "goal": false
-        },
-        {
-          "min": "1'",
-          "text": "Lucas Digne (France) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "1'",
-          "text": "Foul by Lucas Bergvall (Sweden).",
-          "goal": false
-        },
-        {
-          "min": "",
-          "text": "First Half begins.",
-          "goal": false
-        },
-        {
-          "min": "",
-          "text": "Lineups are announced and players are warming up.",
-          "goal": false
         }
       ],
       "leaders": [
         {
           "label": "Total Shots",
           "home": {
-            "name": "K. Mbappé",
-            "num": "10",
-            "pos": "F",
-            "value": "4"
+            "name": "M. Olise",
+            "num": "11",
+            "pos": "M",
+            "value": "6"
           },
           "away": {
             "name": "A. Isak",
@@ -70349,31 +70421,31 @@
         {
           "label": "Accurate Passes",
           "home": {
-            "name": "A. Rabiot",
-            "num": "14",
+            "name": "M. Olise",
+            "num": "11",
             "pos": "M",
-            "value": "35"
+            "value": "63"
           },
           "away": {
-            "name": "L. Bergvall",
-            "num": "7",
-            "pos": "M",
-            "value": "12"
+            "name": "V. Lindelöf",
+            "num": "3",
+            "pos": "D",
+            "value": "44"
           }
         },
         {
           "label": "Defensive Interventions",
           "home": {
-            "name": "L. Digne",
-            "num": "3",
+            "name": "D. Upamecano",
+            "num": "4",
             "pos": "D",
-            "value": "5"
+            "value": "10"
           },
           "away": {
             "name": "G. Lagerbielke",
             "num": "2",
             "pos": "D",
-            "value": "6"
+            "value": "13"
           }
         },
         {
@@ -70382,18 +70454,24 @@
             "name": "M. Maignan",
             "num": "16",
             "pos": "G",
-            "value": "1"
+            "value": "3"
           },
           "away": {
             "name": "J. Widell Zetterström",
             "num": "1",
             "pos": "G",
-            "value": "5"
+            "value": "9"
           }
         }
       ],
-      "highlight": null,
-      "final": false,
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0630/dm_260630_COM_SOC_News_France_fans_in_Paris_celebrate_Mbappes_goal_vs_Sweden_20260627_GLOBAL_FIFA_WORLD/dm_260630_COM_SOC_News_France_fans_in_Paris_celebrate_Mbappes_goal_vs_Sweden_20260627_GLOBAL_FIFA_WORLD.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49229812/france-fans-paris-celebrate-mbappe-goal-vs-sweden",
+        "headline": "France fans in Paris celebrate Mbappé's goal vs. Sweden",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0630/dm_260630_COM_SOC_News_France_fans_in_Paris_celebrate_Mbappes_goal_vs_Sweden_20260627_GLOBAL_FIFA_WORLD/dm_260630_COM_SOC_News_France_fans_in_Paris_celebrate_Mbappes_goal_vs_Sweden_20260627_GLOBAL_FIFA_WORLD_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0630/dm_260630_COM_SOC_News_France_fans_in_Paris_celebrate_Mbappes_goal_vs_Sweden_20260627_GLOBAL_FIFA_WORLD/dm_260630_COM_SOC_News_France_fans_in_Paris_celebrate_Mbappes_goal_vs_Sweden_20260627_GLOBAL_FIFA_WORLD/playlist.m3u8"
+      },
+      "final": true,
       "dv": 5
     }
   }

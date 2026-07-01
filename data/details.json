@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T14:44:21.691Z",
+  "lastUpdated": "2026-07-01T17:01:36.605Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -71388,6 +71388,803 @@
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0630/dm_260630_COM_SOC_News_France_fans_in_Paris_celebrate_Mbappes_goal_vs_Sweden_20260627_GLOBAL_FIFA_WORLD/dm_260630_COM_SOC_News_France_fans_in_Paris_celebrate_Mbappes_goal_vs_Sweden_20260627_GLOBAL_FIFA_WORLD/playlist.m3u8"
       },
       "final": true,
+      "dv": 5
+    },
+    "760495": {
+      "venue": "Mercedes-Benz Stadium",
+      "stats": {
+        "home": {
+          "foulsCommitted": "7",
+          "yellowCards": "1",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "2",
+          "saves": "0",
+          "possessionPct": "59",
+          "totalShots": "8",
+          "shotsOnTarget": "4",
+          "shotPct": "0.5",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "252",
+          "totalPasses": "277",
+          "passPct": "0.9",
+          "accurateCrosses": "5",
+          "totalCrosses": "19",
+          "crossPct": "0.3",
+          "totalLongBalls": "17",
+          "accurateLongBalls": "9",
+          "longballPct": "0.5",
+          "blockedShots": "3",
+          "effectiveTackles": "4",
+          "totalTackles": "7",
+          "tacklePct": "0.6",
+          "interceptions": "3",
+          "effectiveClearance": "15",
+          "totalClearance": "15"
+        },
+        "away": {
+          "foulsCommitted": "6",
+          "yellowCards": "1",
+          "redCards": "0",
+          "offsides": "3",
+          "wonCorners": "1",
+          "saves": "3",
+          "possessionPct": "41",
+          "totalShots": "3",
+          "shotsOnTarget": "1",
+          "shotPct": "0.3",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "170",
+          "totalPasses": "198",
+          "passPct": "0.9",
+          "accurateCrosses": "0",
+          "totalCrosses": "6",
+          "crossPct": "0.0",
+          "totalLongBalls": "20",
+          "accurateLongBalls": "9",
+          "longballPct": "0.5",
+          "blockedShots": "0",
+          "effectiveTackles": "3",
+          "totalTackles": "8",
+          "tacklePct": "0.4",
+          "interceptions": "2",
+          "effectiveClearance": "12",
+          "totalClearance": "12"
+        }
+      },
+      "events": [
+        {
+          "kind": "Goal",
+          "min": "7'",
+          "side": "away",
+          "player": "Goal! England 0, Congo DR 1. Brian Cipenga"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "19'",
+          "side": "home",
+          "player": "Jude Bellingham"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "28'",
+          "side": "away",
+          "player": "Noah Sadiki"
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Jordan Pickford",
+            "short": "J. Pickford",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Marc Guéhi",
+            "short": "M. Guéhi",
+            "num": "6",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Ezri Konsa",
+            "short": "E. Konsa",
+            "num": "2",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Nico O'Reilly",
+            "short": "N. O'Reilly",
+            "num": "3",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Djed Spence",
+            "short": "D. Spence",
+            "num": "25",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Jude Bellingham",
+            "short": "J. Bellingham",
+            "num": "10",
+            "pos": "AM",
+            "place": "10"
+          },
+          {
+            "name": "Declan Rice",
+            "short": "D. Rice",
+            "num": "4",
+            "pos": "LM",
+            "place": "4"
+          },
+          {
+            "name": "Elliot Anderson",
+            "short": "E. Anderson",
+            "num": "8",
+            "pos": "RM",
+            "place": "8"
+          },
+          {
+            "name": "Harry Kane",
+            "short": "H. Kane",
+            "num": "9",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Marcus Rashford",
+            "short": "M. Rashford",
+            "num": "11",
+            "pos": "AM-L",
+            "place": "11"
+          },
+          {
+            "name": "Noni Madueke",
+            "short": "N. Madueke",
+            "num": "20",
+            "pos": "AM-R",
+            "place": "7"
+          }
+        ],
+        "away": [
+          {
+            "name": "Lionel Mpasi",
+            "short": "L. Mpasi",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Axel Tuanzebe",
+            "short": "A. Tuanzebe",
+            "num": "4",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Chancel Mbemba",
+            "short": "C. Mbemba",
+            "num": "22",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Arthur Masuaku",
+            "short": "A. Masuaku",
+            "num": "26",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Aaron Wan-Bissaka",
+            "short": "A. Wan-Bissaka",
+            "num": "2",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Samuel Moutoussamy",
+            "short": "S. Moutoussamy",
+            "num": "8",
+            "pos": "CM",
+            "place": "4"
+          },
+          {
+            "name": "Noah Sadiki",
+            "short": "N. Sadiki",
+            "num": "14",
+            "pos": "LM",
+            "place": "8"
+          },
+          {
+            "name": "Ngal'ayel Mukau",
+            "short": "N. Mukau",
+            "num": "6",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Yoane Wissa",
+            "short": "Y. Wissa",
+            "num": "20",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Brian Cipenga",
+            "short": "B. Cipenga",
+            "num": "9",
+            "pos": "LF",
+            "place": "11"
+          },
+          {
+            "name": "Nathanaël Mbuku",
+            "short": "N. Mbuku",
+            "num": "7",
+            "pos": "RF",
+            "place": "10"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Trevoh Chalobah",
+            "short": "T. Chalobah",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Dan Burn",
+            "short": "D. Burn",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kobbie Mainoo",
+            "short": "K. Mainoo",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Bukayo Saka",
+            "short": "B. Saka",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Morgan Rogers",
+            "short": "M. Rogers",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Dean Henderson",
+            "short": "D. Henderson",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ollie Watkins",
+            "short": "O. Watkins",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ivan Toney",
+            "short": "I. Toney",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "John Stones",
+            "short": "J. Stones",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jordan Henderson",
+            "short": "J. Henderson",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Anthony Gordon",
+            "short": "A. Gordon",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "James Trafford",
+            "short": "J. Trafford",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Reece James",
+            "short": "R. James",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Eberechi Eze",
+            "short": "E. Eze",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jarell Quansah",
+            "short": "J. Quansah",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Cédric Bakambu",
+            "short": "C. Bakambu",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Matthieu Epolo",
+            "short": "M. Epolo",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Timothy Fayulu",
+            "short": "T. Fayulu",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Fiston Mayele",
+            "short": "F. Mayele",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Charles Pickel",
+            "short": "C. Pickel",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Théo Bongonda",
+            "short": "T. Bongonda",
+            "num": "10",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gédéon Kalulu",
+            "short": "G. Kalulu",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Edo Kayembe",
+            "short": "E. Kayembe",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Dylan Batubinsika",
+            "short": "D. Batubinsika",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gaël Kakuta",
+            "short": "G. Kakuta",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Meschack Elia",
+            "short": "M. Elia",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Simon Banza",
+            "short": "S. Banza",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Aaron Tshibola",
+            "short": "A. Tshibola",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Steve Kapuadi",
+            "short": "S. Kapuadi",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Joris Kayembe",
+            "short": "J. Kayembe",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-2-3-1",
+        "away": "4-3-3"
+      },
+      "commentary": [
+        {
+          "min": "45'+7'",
+          "text": "First Half ends, England 0, Congo DR 1.",
+          "goal": false
+        },
+        {
+          "min": "45'+6'",
+          "text": "Attempt saved. Harry Kane (England) right footed shot from the right side of the six yard box is saved in the bottom right corner by Lionel Mpasi (Congo DR). Assisted by Declan Rice with a cross.",
+          "goal": false
+        },
+        {
+          "min": "45'+6'",
+          "text": "Corner, England. Conceded by Nathanaël Mbuku.",
+          "goal": false
+        },
+        {
+          "min": "45'+5'",
+          "text": "Elliot Anderson (England) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "45'+5'",
+          "text": "Foul by Samuel Moutoussamy (Congo DR).",
+          "goal": false
+        },
+        {
+          "min": "45'+5'",
+          "text": "Offside, Congo DR. Brian Cipenga is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "45'+3'",
+          "text": "Djed Spence (England) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "45'+3'",
+          "text": "Foul by Ngal'ayel Mukau (Congo DR).",
+          "goal": false
+        },
+        {
+          "min": "45'+2'",
+          "text": "Attempt saved. Jude Bellingham (England) header from the centre of the box is saved in the bottom left corner by Lionel Mpasi (Congo DR). Assisted by Noni Madueke with a cross.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Fourth official has announced 6 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "42'",
+          "text": "Yoane Wissa (Congo DR) hits the right post with a right footed shot from very close range.",
+          "goal": false
+        },
+        {
+          "min": "41'",
+          "text": "Jude Bellingham (England) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "41'",
+          "text": "Foul by Ngal'ayel Mukau (Congo DR).",
+          "goal": false
+        },
+        {
+          "min": "40'",
+          "text": "Corner, Congo DR. Conceded by Nico O'Reilly.",
+          "goal": false
+        },
+        {
+          "min": "39'",
+          "text": "Attempt blocked. Noni Madueke (England) left footed shot from the right side of the box is blocked. Assisted by Jude Bellingham.",
+          "goal": false
+        },
+        {
+          "min": "38'",
+          "text": "Marcus Rashford (England) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "38'",
+          "text": "Foul by Ngal'ayel Mukau (Congo DR).",
+          "goal": false
+        },
+        {
+          "min": "38'",
+          "text": "Offside, Congo DR. Aaron Wan-Bissaka is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "37'",
+          "text": "Foul by Nico O'Reilly (England).",
+          "goal": false
+        },
+        {
+          "min": "37'",
+          "text": "Ngal'ayel Mukau (Congo DR) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "36'",
+          "text": "Attempt blocked. Noni Madueke (England) left footed shot from outside the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "35'",
+          "text": "Attempt blocked. Marcus Rashford (England) right footed shot from the centre of the box is blocked. Assisted by Nico O'Reilly.",
+          "goal": false
+        },
+        {
+          "min": "35'",
+          "text": "Attempt missed. Nico O'Reilly (England) left footed shot from very close range misses to the left. Assisted by Noni Madueke.",
+          "goal": false
+        },
+        {
+          "min": "35'",
+          "text": "Attempt blocked. Harry Kane (England) right footed shot from the centre of the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "34'",
+          "text": "Foul by Nico O'Reilly (England).",
+          "goal": false
+        },
+        {
+          "min": "34'",
+          "text": "Nathanaël Mbuku (Congo DR) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "32'",
+          "text": "Attempt missed. Brian Cipenga (Congo DR) right footed shot from outside the box is high and wide to the right. Assisted by Arthur Masuaku.",
+          "goal": false
+        },
+        {
+          "min": "30'",
+          "text": "Attempt saved. Jude Bellingham (England) header from the centre of the box is saved in the top centre of the goal by Lionel Mpasi (Congo DR). Assisted by Declan Rice with a cross.",
+          "goal": false
+        },
+        {
+          "min": "28'",
+          "text": "Noah Sadiki (Congo DR) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "27'",
+          "text": "Djed Spence (England) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "27'",
+          "text": "Foul by Noah Sadiki (Congo DR).",
+          "goal": false
+        },
+        {
+          "min": "26'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "23'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "21'",
+          "text": "Foul by Marcus Rashford (England).",
+          "goal": false
+        },
+        {
+          "min": "21'",
+          "text": "Aaron Wan-Bissaka (Congo DR) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "19'",
+          "text": "Jude Bellingham (England) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "19'",
+          "text": "Foul by Jude Bellingham (England).",
+          "goal": false
+        },
+        {
+          "min": "19'",
+          "text": "Nathanaël Mbuku (Congo DR) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "17'",
+          "text": "Foul by Noni Madueke (England).",
+          "goal": false
+        },
+        {
+          "min": "17'",
+          "text": "Brian Cipenga (Congo DR) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "14'",
+          "text": "Corner, England. Conceded by Samuel Moutoussamy.",
+          "goal": false
+        },
+        {
+          "min": "11'",
+          "text": "Foul by Brian Cipenga (Congo DR).",
+          "goal": false
+        },
+        {
+          "min": "11'",
+          "text": "Noni Madueke (England) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "10'",
+          "text": "Nathanaël Mbuku (Congo DR) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "10'",
+          "text": "Foul by Nico O'Reilly (England).",
+          "goal": false
+        },
+        {
+          "min": "10'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "9'",
+          "text": "Delay in match because of an injury Lionel Mpasi (Congo DR).",
+          "goal": false
+        },
+        {
+          "min": "7'",
+          "text": "Goal! England 0, Congo DR 1. Brian Cipenga (Congo DR) right footed shot from the left side of the box to the bottom left corner. Assisted by Chancel Mbemba.",
+          "goal": true
+        },
+        {
+          "min": "3'",
+          "text": "Ngal'ayel Mukau (Congo DR) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "3'",
+          "text": "Foul by Marcus Rashford (England).",
+          "goal": false
+        },
+        {
+          "min": "2'",
+          "text": "Offside, Congo DR. Yoane Wissa is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "First Half begins.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "Lineups are announced and players are warming up.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "N. Madueke",
+            "num": "20",
+            "pos": "F",
+            "value": "2"
+          },
+          "away": {
+            "name": "B. Cipenga",
+            "num": "9",
+            "pos": "F",
+            "value": "2"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "E. Konsa",
+            "num": "2",
+            "pos": "D",
+            "value": "41"
+          },
+          "away": {
+            "name": "A. Tuanzebe",
+            "num": "4",
+            "pos": "D",
+            "value": "28"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "N. O'Reilly",
+            "num": "3",
+            "pos": "D",
+            "value": "6"
+          },
+          "away": {
+            "name": "N. Sadiki",
+            "num": "14",
+            "pos": "M",
+            "value": "8"
+          }
+        },
+        {
+          "label": "Saves",
+          "away": {
+            "name": "L. Mpasi",
+            "num": "1",
+            "pos": "G",
+            "value": "3"
+          }
+        }
+      ],
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0701/dm_260701_DR_Congo_fans_in_London_loved_that_openi778/dm_260701_DR_Congo_fans_in_London_loved_that_openi778.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49238052/dr-congo-fans-london-loved-opening-goal-vs-england",
+        "headline": "DR Congo fans in London loved that opening goal vs. England",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0701/dm_260701_DR_Congo_fans_in_London_loved_that_opening_goal_vs_England/dm_260701_DR_Congo_fans_in_London_loved_that_opening_goal_vs_England_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0701/dm_260701_DR_Congo_fans_in_London_loved_that_opening_goal_vs_England/dm_260701_DR_Congo_fans_in_London_loved_that_opening_goal_vs_England/playlist.m3u8"
+      },
+      "final": false,
       "dv": 5
     }
   }

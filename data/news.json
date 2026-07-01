@@ -1,48 +1,48 @@
 {
-  "lastUpdated": "2026-07-01T22:14:32.088Z",
+  "lastUpdated": "2026-07-01T23:47:39.202Z",
   "source": "ESPN",
   "articles": [
     {
-      "headline": "World Cup Daily live: Belgium equalize late against Senegal to send it to extra time",
+      "headline": "Spain coach 'loves' Lamine Yamal's 'optimism, confidence'",
+      "description": "Coach Luis de la Fuente said he \"loves\" Lamine Yamal's \"optimism and confidence\" after the star boasted that Spain would be \"almost unstoppable\" when they hit top World Cup form.",
+      "published": "2026-07-01T23:34:52Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49242225/spain-coach-loves-lamine-yamal-optimism-confidence",
+      "image": "https://a.espncdn.com/photo/2026/0627/r1680198_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "World Cup VAR review: Did Belgium deserve penalty vs. Senegal?",
+      "description": "For the tournament, we are taking a look at the major incidents to examine and explain the process in terms of both VAR protocol and the laws of the game.",
+      "published": "2026-07-01T23:27:57Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49027532/world-cup-2026-var-review-red-card-penalty-handball-goal-line-technology",
+      "image": "https://a.espncdn.com/photo/2026/0701/r1683027_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "World Cup Daily live: Belgium eliminate Senegal with latest winner in WC history",
       "description": "We have three matches for you on Wednesday as the round-of-32 action at the 2026 World Cup continues.",
-      "published": "2026-07-01T22:00:40Z",
+      "published": "2026-07-01T23:25:58Z",
       "link": "https://www.espn.com/soccer/story/_/id/49233418/world-cup-daily-live-haaland-buys-cowboy-hat-usmnt-england-action",
-      "image": "https://a.espncdn.com/photo/2026/0701/r1682990_1296x729_16-9.jpg"
+      "image": "https://a.espncdn.com/photo/2026/0701/r1683028_1296x729_16-9.jpg"
     },
     {
-      "headline": "2026 World Cup Golden Boot tracker: Will Messi, Mbappe, or other score most goals?",
-      "description": "We're into the round of 32 at the 2026 FIFA World Cup, and the race for the Golden Boot -- given to the tournament's top goal scorer -- is red-hot.",
-      "published": "2026-07-01T21:20:55Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49117037/lionel-messi-erling-haaland-kylian-mbappe-harry-kane-folarin-balogun-world-cup-golden-boot-top-scorer",
-      "image": "https://a.espncdn.com/photo/2026/0619/r1676221_1296x729_16-9.jpg"
+      "headline": "Belgium stay alive, beat Senegal on Tielemans' pen",
+      "description": "Youri Tielemans saved Belgium World Cup hopes by converting a contentious penalty in added time at the end of extra time to win 3-2 having scored an 89th-minute equaliser to keep the tie alive against Senegal.",
+      "published": "2026-07-01T23:23:08Z",
+      "link": "http://www.espn.com/soccer/report/_/gameId/760493",
+      "image": "https://a.espncdn.com/photo/2026/0701/r1683048_1296x729_16-9.jpg"
     },
     {
-      "headline": "Kane rescues England from enormous upset",
-      "description": "England advance to the round of 16 after a late Harry Kane double saves a huge potential DR Congo upset.",
-      "published": "2026-07-01T21:14:29Z",
-      "link": "https://www.espn.com/video/clip/_/id/49241374/kane-rescues-england-enormous-upset",
-      "image": "https://a.espncdn.com/media/motion/2026/0701/dm_260701_Soccer_Highlight_Kane_rescues_England_from_enormous_upset_20260702_AUS_ONLY/dm_260701_Soccer_Highlight_Kane_rescues_England_from_enormous_upset_20260702_AUS_ONLY.jpg"
+      "headline": "Burley brands Belgium 'very lucky' to advance past Senegal",
+      "description": "Burley brands Belgium 'very lucky' to advance past Senegal",
+      "published": "2026-07-01T23:14:04Z",
+      "link": "https://www.espn.com/video/clip/_/id/49242541/burley-brands-belgium-very-lucky-advance-senegal",
+      "image": "https://a.espncdn.com/media/motion/2026/0701/dm_260701_Burley_brands_Belgium_very_lucky_to_advance_past_Senegal/dm_260701_Burley_brands_Belgium_very_lucky_to_advance_past_Senegal.jpg"
     },
     {
-      "headline": "Harry Kane: I had my World Cup 'hero moment' with brace vs. Congo DR",
-      "description": "Harry Kane revelled in having his \"hero moment\" as he saved England from a humiliating World Cup exit to Congo DR.",
-      "published": "2026-07-01T21:08:42Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49241208/harry-kane-hero-moment-world-cup-congo-dr",
-      "image": "https://a.espncdn.com/photo/2026/0701/r1682964_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Declan Rice not keen on England World Cup right-back role: 'Hardest 12 minutes of the game'",
-      "description": "Declan Rice hopes he won't have to fill in at right-back again after playing the \"hardest 12 minutes\" of England's 2-1 win over Congo DR in the position.",
-      "published": "2026-07-01T21:03:37Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49241282/world-cup-2026-delcan-rice-not-keen-england-right-back-role-hardest-12-minutes-game-congo-dr",
-      "image": "https://a.espncdn.com/photo/2026/0701/r1682960_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Harry Kane, Kylian Mbappé, Lionel Messi, Erling Haaland are 'sharks' who 'smell blood' at World Cup - Thomas Tuchel",
-      "description": "Thomas Tuchel has described Harry Kane, Kylian Mbappé, Lionel Messi and Erling Haaland as \"sharks\" after their goalscoring feats at the 2026 World Cup.",
-      "published": "2026-07-01T20:23:21Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49240460/thomas-tuchel-harry-kane-kylian-mbappe-lionel-messi-erling-haaland-sharks-smell-blood-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0701/r1682904_1296x729_16-9.jpg"
+      "headline": "Gomez: Mexico should be favorites vs. England",
+      "description": "Gomez: Mexico should be favorites vs. England",
+      "published": "2026-07-01T23:09:47Z",
+      "link": "https://www.espn.com/video/clip/_/id/49242515/mexico-favorites-vs-england",
+      "image": "https://a.espncdn.com/media/motion/2026/0701/dm_260701_COM_SOC_Analysis_Gomez_Mexico_should_be_favorites_vs_England_20260701_GLOBAL/dm_260701_COM_SOC_Analysis_Gomez_Mexico_should_be_favorites_vs_England_20260701_GLOBAL.jpg"
     }
   ]
 }

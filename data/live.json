@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T22:14:32.049Z",
+  "lastUpdated": "2026-07-01T23:47:39.156Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -1126,25 +1126,15 @@
       "stage": "r32",
       "home": "Belgium",
       "away": "Senegal",
-      "homeScore": 2,
+      "homeScore": 3,
       "awayScore": 2,
-      "homeWinner": false,
+      "homeWinner": true,
       "awayWinner": false,
-      "odds": {
-        "home": -105,
-        "away": 310,
-        "draw": 245,
-        "total": 2.5,
-        "book": "DraftKings"
-      },
-      "status": "live",
+      "odds": null,
+      "status": "finished",
       "id": "760493",
       "date": "2026-07-01T20:00Z",
-      "venue": "Lumen Field",
-      "clock": 5940,
-      "displayClock": "99'",
-      "detail": "99'",
-      "period": 3
+      "venue": "Lumen Field"
     },
     {
       "stage": "r32",
@@ -1155,9 +1145,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -275,
+        "home": -280,
         "away": 800,
-        "draw": 400,
+        "draw": 425,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -1383,7 +1373,7 @@
     {
       "stage": "r16",
       "home": "Round of 32 9 Winner",
-      "away": "Round of 32 10 Winner",
+      "away": "Belgium",
       "homeScore": 0,
       "awayScore": 0,
       "homeWinner": false,

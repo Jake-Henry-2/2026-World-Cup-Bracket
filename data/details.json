@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T19:05:56.621Z",
+  "lastUpdated": "2026-07-01T20:52:55.622Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -71388,6 +71388,732 @@
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0630/dm_260630_COM_SOC_News_France_fans_in_Paris_celebrate_Mbappes_goal_vs_Sweden_20260627_GLOBAL_FIFA_WORLD/dm_260630_COM_SOC_News_France_fans_in_Paris_celebrate_Mbappes_goal_vs_Sweden_20260627_GLOBAL_FIFA_WORLD/playlist.m3u8"
       },
       "final": true,
+      "dv": 5
+    },
+    "760493": {
+      "venue": "Lumen Field",
+      "stats": {
+        "home": {
+          "foulsCommitted": "6",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "2",
+          "saves": "2",
+          "possessionPct": "50.6",
+          "totalShots": "5",
+          "shotsOnTarget": "2",
+          "shotPct": "0.4",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "236",
+          "totalPasses": "270",
+          "passPct": "0.9",
+          "accurateCrosses": "2",
+          "totalCrosses": "10",
+          "crossPct": "0.2",
+          "totalLongBalls": "18",
+          "accurateLongBalls": "9",
+          "longballPct": "0.5",
+          "blockedShots": "1",
+          "effectiveTackles": "2",
+          "totalTackles": "6",
+          "tacklePct": "0.3",
+          "interceptions": "2",
+          "effectiveClearance": "7",
+          "totalClearance": "7"
+        },
+        "away": {
+          "foulsCommitted": "4",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "1",
+          "wonCorners": "1",
+          "saves": "3",
+          "possessionPct": "49.4",
+          "totalShots": "7",
+          "shotsOnTarget": "3",
+          "shotPct": "0.4",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "226",
+          "totalPasses": "259",
+          "passPct": "0.9",
+          "accurateCrosses": "3",
+          "totalCrosses": "11",
+          "crossPct": "0.3",
+          "totalLongBalls": "25",
+          "accurateLongBalls": "9",
+          "longballPct": "0.4",
+          "blockedShots": "0",
+          "effectiveTackles": "2",
+          "totalTackles": "5",
+          "tacklePct": "0.4",
+          "interceptions": "2",
+          "effectiveClearance": "14",
+          "totalClearance": "14"
+        }
+      },
+      "events": [
+        {
+          "kind": "Goal",
+          "min": "25'",
+          "side": "away",
+          "player": "Goal! Belgium 0, Senegal 1. Habib Diarra"
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Thibaut Courtois",
+            "short": "T. Courtois",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Arthur Theate",
+            "short": "A. Theate",
+            "num": "3",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Brandon Mechele",
+            "short": "B. Mechele",
+            "num": "4",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Maxim De Cuyper",
+            "short": "M. De Cuyper",
+            "num": "5",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Timothy Castagne",
+            "short": "T. Castagne",
+            "num": "21",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Kevin De Bruyne",
+            "short": "K. De Bruyne",
+            "num": "7",
+            "pos": "AM",
+            "place": "10"
+          },
+          {
+            "name": "Youri Tielemans",
+            "short": "Y. Tielemans",
+            "num": "8",
+            "pos": "LM",
+            "place": "4"
+          },
+          {
+            "name": "Hans Vanaken",
+            "short": "H. Vanaken",
+            "num": "20",
+            "pos": "RM",
+            "place": "8"
+          },
+          {
+            "name": "Charles De Ketelaere",
+            "short": "C. De Ketelaere",
+            "num": "17",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Jérémy Doku",
+            "short": "J. Doku",
+            "num": "11",
+            "pos": "AM-L",
+            "place": "11"
+          },
+          {
+            "name": "Leandro Trossard",
+            "short": "L. Trossard",
+            "num": "10",
+            "pos": "AM-R",
+            "place": "7"
+          }
+        ],
+        "away": [
+          {
+            "name": "Mory Diaw",
+            "short": "M. Diaw",
+            "num": "23",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Moussa Niakhaté",
+            "short": "M. Niakhaté",
+            "num": "19",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Pathé Ciss",
+            "short": "P. Ciss",
+            "num": "6",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Ismail Jakobs",
+            "short": "I. Jakobs",
+            "num": "14",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Krépin Diatta",
+            "short": "K. Diatta",
+            "num": "15",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Idrissa Gueye",
+            "short": "I. Gueye",
+            "num": "5",
+            "pos": "CM",
+            "place": "4"
+          },
+          {
+            "name": "Pape Gueye",
+            "short": "P. Gueye",
+            "num": "26",
+            "pos": "LM",
+            "place": "8"
+          },
+          {
+            "name": "Habib Diarra",
+            "short": "H. Diarra",
+            "num": "21",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Ismaïla Sarr",
+            "short": "I. Sarr",
+            "num": "18",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Sadio Mané",
+            "short": "S. Mané",
+            "num": "10",
+            "pos": "LF",
+            "place": "11"
+          },
+          {
+            "name": "Iliman Ndiaye",
+            "short": "I. Ndiaye",
+            "num": "13",
+            "pos": "RF",
+            "place": "10"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Joaquin Seys",
+            "short": "J. Seys",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Koni De Winter",
+            "short": "K. De Winter",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Senne Lammens",
+            "short": "S. Lammens",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Dodi Lukébakio",
+            "short": "D. Lukébakio",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Thomas Meunier",
+            "short": "T. Meunier",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Romelu Lukaku",
+            "short": "R. Lukaku",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Matias Fernandez-Pardo",
+            "short": "M. Fernandez-Pardo",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Amadou Onana",
+            "short": "A. Onana",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Diego Moreira",
+            "short": "D. Moreira",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Alexis Saelemaekers",
+            "short": "A. Saelemaekers",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Axel Witsel",
+            "short": "A. Witsel",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nicolas Raskin",
+            "short": "N. Raskin",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mike Penders",
+            "short": "M. Penders",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nathan Ngoy",
+            "short": "N. Ngoy",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Mamadou Sarr",
+            "short": "M. Sarr",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Assane Diao",
+            "short": "A. Diao",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Bamba Dieng",
+            "short": "B. Dieng",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Pape Matar Sarr",
+            "short": "P. Sarr",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Abdoulaye Seck",
+            "short": "A. Seck",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "El Hadji Malick Diouf",
+            "short": "E. Diouf",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nicolas Jackson",
+            "short": "N. Jackson",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ibrahim Mbaye",
+            "short": "I. Mbaye",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Lamine Camara",
+            "short": "L. Camara",
+            "num": "8",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Cherif Ndiaye",
+            "short": "C. Ndiaye",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kalidou Koulibaly",
+            "short": "K. Koulibaly",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Bara Sapoko Ndiaye",
+            "short": "B. Ndiaye",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Antoine Mendy",
+            "short": "A. Mendy",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Yehvann Diouf",
+            "short": "Y. Diouf",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-2-3-1",
+        "away": "4-3-3"
+      },
+      "commentary": [
+        {
+          "min": "45'+6'",
+          "text": "First Half ends, Belgium 0, Senegal 1.",
+          "goal": false
+        },
+        {
+          "min": "45'+6'",
+          "text": "Attempt missed. Kevin De Bruyne (Belgium) right footed shot from outside the box misses to the left.",
+          "goal": false
+        },
+        {
+          "min": "45'+5'",
+          "text": "Attempt blocked. Maxim De Cuyper (Belgium) left footed shot from outside the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "45'+4'",
+          "text": "Foul by Sadio Mané (Senegal).",
+          "goal": false
+        },
+        {
+          "min": "45'+4'",
+          "text": "Jérémy Doku (Belgium) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "45'+3'",
+          "text": "Foul by Pape Gueye (Senegal).",
+          "goal": false
+        },
+        {
+          "min": "45'+3'",
+          "text": "Jérémy Doku (Belgium) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "45'+1'",
+          "text": "Attempt missed. Pape Gueye (Senegal) left footed shot from outside the box misses to the left. Assisted by Iliman Ndiaye.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Fourth official has announced 5 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Corner, Belgium. Conceded by Mory Diaw.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Attempt saved. Maxim De Cuyper (Belgium) right footed shot from outside the box is saved in the top right corner by Mory Diaw (Senegal). Assisted by Kevin De Bruyne.",
+          "goal": false
+        },
+        {
+          "min": "44'",
+          "text": "Corner, Belgium. Conceded by Pathé Ciss.",
+          "goal": false
+        },
+        {
+          "min": "44'",
+          "text": "Foul by Pape Gueye (Senegal).",
+          "goal": false
+        },
+        {
+          "min": "44'",
+          "text": "Hans Vanaken (Belgium) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "43'",
+          "text": "Foul by Ismaïla Sarr (Senegal).",
+          "goal": false
+        },
+        {
+          "min": "43'",
+          "text": "Youri Tielemans (Belgium) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "41'",
+          "text": "Krépin Diatta (Senegal) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "41'",
+          "text": "Foul by Maxim De Cuyper (Belgium).",
+          "goal": false
+        },
+        {
+          "min": "38'",
+          "text": "Pape Gueye (Senegal) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "38'",
+          "text": "Foul by Leandro Trossard (Belgium).",
+          "goal": false
+        },
+        {
+          "min": "37'",
+          "text": "Attempt saved. Sadio Mané (Senegal) right footed shot from the left side of the box is saved in the bottom left corner by Thibaut Courtois (Belgium). Assisted by Habib Diarra.",
+          "goal": false
+        },
+        {
+          "min": "32'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "31'",
+          "text": "Delay in match (Senegal).",
+          "goal": false
+        },
+        {
+          "min": "30'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "27'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "25'",
+          "text": "Goal! Belgium 0, Senegal 1. Habib Diarra (Senegal) right footed shot from very close range to the centre of the goal.",
+          "goal": true
+        },
+        {
+          "min": "25'",
+          "text": "Ismaïla Sarr (Senegal) hits the right post with a header from the centre of the box. Assisted by Sadio Mané with a cross.",
+          "goal": false
+        },
+        {
+          "min": "21'",
+          "text": "Habib Diarra (Senegal) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "21'",
+          "text": "Foul by Youri Tielemans (Belgium).",
+          "goal": false
+        },
+        {
+          "min": "20'",
+          "text": "Offside, Senegal. Sadio Mané is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "19'",
+          "text": "Corner, Senegal. Conceded by Maxim De Cuyper.",
+          "goal": false
+        },
+        {
+          "min": "18'",
+          "text": "Attempt missed. Kevin De Bruyne (Belgium) right footed shot from outside the box is too high. Assisted by Youri Tielemans.",
+          "goal": false
+        },
+        {
+          "min": "17'",
+          "text": "Attempt saved. Idrissa Gueye (Senegal) right footed shot from outside the box is saved in the bottom left corner by Thibaut Courtois (Belgium).",
+          "goal": false
+        },
+        {
+          "min": "14'",
+          "text": "Sadio Mané (Senegal) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "14'",
+          "text": "Foul by Timothy Castagne (Belgium).",
+          "goal": false
+        },
+        {
+          "min": "13'",
+          "text": "Attempt missed. Ismaïla Sarr (Senegal) right footed shot from the right side of the six yard box is close, but misses to the right.",
+          "goal": false
+        },
+        {
+          "min": "13'",
+          "text": "Ismaïla Sarr (Senegal) hits the right post with a right footed shot from very close range.",
+          "goal": false
+        },
+        {
+          "min": "10'",
+          "text": "Ismaïla Sarr (Senegal) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "10'",
+          "text": "Foul by Arthur Theate (Belgium).",
+          "goal": false
+        },
+        {
+          "min": "9'",
+          "text": "Attempt saved. Leandro Trossard (Belgium) right footed shot from the right side of the box is saved in the bottom right corner by Mory Diaw (Senegal). Assisted by Timothy Castagne.",
+          "goal": false
+        },
+        {
+          "min": "7'",
+          "text": "Sadio Mané (Senegal) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "7'",
+          "text": "Foul by Youri Tielemans (Belgium).",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "First Half begins.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "Lineups are announced and players are warming up.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "M. De Cuyper",
+            "num": "5",
+            "pos": "D",
+            "value": "2"
+          },
+          "away": {
+            "name": "I. Sarr",
+            "num": "18",
+            "pos": "F",
+            "value": "3"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "B. Mechele",
+            "num": "4",
+            "pos": "D",
+            "value": "49"
+          },
+          "away": {
+            "name": "P. Ciss",
+            "num": "6",
+            "pos": "M",
+            "value": "41"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "T. Castagne",
+            "num": "21",
+            "pos": "D",
+            "value": "6"
+          },
+          "away": {
+            "name": "P. Ciss",
+            "num": "6",
+            "pos": "M",
+            "value": "6"
+          }
+        },
+        {
+          "label": "Saves",
+          "home": {
+            "name": "T. Courtois",
+            "num": "1",
+            "pos": "G",
+            "value": "2"
+          },
+          "away": {
+            "name": "M. Diaw",
+            "num": "23",
+            "pos": "G",
+            "value": "3"
+          }
+        }
+      ],
+      "highlight": null,
+      "final": false,
       "dv": 5
     },
     "760495": {

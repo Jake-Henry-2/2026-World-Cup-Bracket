@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T00:19:23.895Z",
+  "lastUpdated": "2026-07-01T04:58:47.176Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -1098,20 +1098,14 @@
       "stage": "r32",
       "home": "Mexico",
       "away": "Ecuador",
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
-      "homeWinner": false,
+      "homeWinner": true,
       "awayWinner": false,
-      "odds": {
-        "home": 125,
-        "away": 300,
-        "draw": 185,
-        "total": 1.5,
-        "book": "DraftKings"
-      },
-      "status": "scheduled",
+      "odds": null,
+      "status": "finished",
       "id": "760491",
-      "date": "2026-07-01T01:00Z",
+      "date": "2026-07-01T02:00Z",
       "venue": "Estadio Banorte"
     },
     {
@@ -1163,7 +1157,7 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -255,
+        "home": -250,
         "away": 750,
         "draw": 380,
         "total": 2.5,
@@ -1323,7 +1317,7 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 1400,
+        "home": 1500,
         "away": -500,
         "draw": 600,
         "total": 2.5,
@@ -1356,7 +1350,7 @@
     },
     {
       "stage": "r16",
-      "home": "Round of 32 7 Winner",
+      "home": "Mexico",
       "away": "Round of 32 8 Winner",
       "homeScore": 0,
       "awayScore": 0,

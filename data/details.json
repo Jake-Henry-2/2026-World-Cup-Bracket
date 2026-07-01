@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T00:19:23.964Z",
+  "lastUpdated": "2026-07-01T04:58:47.308Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -69579,6 +69579,922 @@
         "headline": "Norway fans celebrate Nusa's goal vs. Côte d'Ivoire",
         "mp4": "https://media.video-cdn.espn.com/motion/2026/0630/dm_260630_COM_SOC_Analysis_Norway_fans_celebrate_NusaE28099s_goal_vs_CC3B4te_dIvoire_GLOBAL_2026-06-30/dm_260630_COM_SOC_Analysis_Norway_fans_celebrate_NusaE28099s_goal_vs_CC3B4te_dIvoire_GLOBAL_2026-06-30_360p30_1464k.mp4",
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0630/dm_260630_COM_SOC_Analysis_Norway_fans_celebrate_NusaE28099s_goal_vs_CC3B4te_dIvoire_GLOBAL_2026-06-30/dm_260630_COM_SOC_Analysis_Norway_fans_celebrate_NusaE28099s_goal_vs_CC3B4te_dIvoire_GLOBAL_2026-06-30/playlist.m3u8"
+      },
+      "final": true,
+      "dv": 5
+    },
+    "760491": {
+      "venue": "Estadio Banorte",
+      "stats": {
+        "home": {
+          "foulsCommitted": "10",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "3",
+          "saves": "1",
+          "possessionPct": "43.2",
+          "totalShots": "15",
+          "shotsOnTarget": "3",
+          "shotPct": "0.2",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "249",
+          "totalPasses": "319",
+          "passPct": "0.8",
+          "accurateCrosses": "4",
+          "totalCrosses": "7",
+          "crossPct": "0.6",
+          "totalLongBalls": "58",
+          "accurateLongBalls": "27",
+          "longballPct": "0.5",
+          "blockedShots": "3",
+          "effectiveTackles": "5",
+          "totalTackles": "10",
+          "tacklePct": "0.5",
+          "interceptions": "7",
+          "effectiveClearance": "38",
+          "totalClearance": "38"
+        },
+        "away": {
+          "foulsCommitted": "14",
+          "yellowCards": "3",
+          "redCards": "1",
+          "offsides": "1",
+          "wonCorners": "8",
+          "saves": "1",
+          "possessionPct": "56.8",
+          "totalShots": "7",
+          "shotsOnTarget": "1",
+          "shotPct": "0.1",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "341",
+          "totalPasses": "408",
+          "passPct": "0.8",
+          "accurateCrosses": "3",
+          "totalCrosses": "25",
+          "crossPct": "0.1",
+          "totalLongBalls": "53",
+          "accurateLongBalls": "17",
+          "longballPct": "0.3",
+          "blockedShots": "1",
+          "effectiveTackles": "8",
+          "totalTackles": "11",
+          "tacklePct": "0.7",
+          "interceptions": "6",
+          "effectiveClearance": "20",
+          "totalClearance": "20"
+        }
+      },
+      "events": [
+        {
+          "kind": "Goal",
+          "min": "22'",
+          "side": "home",
+          "player": "Goal! Mexico 1, Ecuador 0. Julián Quiñones"
+        },
+        {
+          "kind": "Goal",
+          "min": "31'",
+          "side": "home",
+          "player": "Goal! Mexico 2, Ecuador 0. Raúl Jiménez"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "45'+1'",
+          "side": "away",
+          "player": "Alan Franco"
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "away",
+          "player": "Substitution, Ecuador. Ángelo Preciado replaces Joel Ordóñez."
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "away",
+          "player": "Substitution, Ecuador. Yaimar Medina replaces Alan Franco."
+        },
+        {
+          "kind": "Substitution",
+          "min": "58'",
+          "side": "home",
+          "player": "Substitution, Mexico. Brian Gutiérrez replaces Gilberto Mora."
+        },
+        {
+          "kind": "Substitution",
+          "min": "59'",
+          "side": "away",
+          "player": "Substitution, Ecuador. Kevin Rodríguez replaces Enner Valencia."
+        },
+        {
+          "kind": "Substitution",
+          "min": "73'",
+          "side": "home",
+          "player": "Substitution, Mexico. Obed Vargas replaces Luis Romo."
+        },
+        {
+          "kind": "Substitution",
+          "min": "74'",
+          "side": "home",
+          "player": "Substitution, Mexico. Santiago Giménez replaces Raúl Jiménez."
+        },
+        {
+          "kind": "Substitution",
+          "min": "79'",
+          "side": "away",
+          "player": "Substitution, Ecuador. Jordy Caicedo replaces John Yeboah."
+        },
+        {
+          "kind": "Substitution",
+          "min": "79'",
+          "side": "away",
+          "player": "Substitution, Ecuador. Kendry Páez replaces Nilson Angulo."
+        },
+        {
+          "kind": "Substitution",
+          "min": "80'",
+          "side": "home",
+          "player": "Substitution, Mexico. Orbelín Pineda replaces Julián Quiñones."
+        },
+        {
+          "kind": "Substitution",
+          "min": "80'",
+          "side": "home",
+          "player": "Substitution, Mexico. Israel Reyes replaces Roberto Alvarado."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "90'+3'",
+          "side": "away",
+          "player": "Kendry Páez"
+        },
+        {
+          "kind": "Red Card",
+          "min": "90'+5'",
+          "side": "away",
+          "player": "Piero Hincapié"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "90'+9'",
+          "side": "away",
+          "player": "Moisés Caicedo"
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Raúl Rangel",
+            "short": "R. Rangel",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Johan Vásquez",
+            "short": "J. Vásquez",
+            "num": "5",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "César Montes",
+            "short": "C. Montes",
+            "num": "3",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Jesús Gallardo",
+            "short": "J. Gallardo",
+            "num": "23",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Jorge Sánchez",
+            "short": "J. Sánchez",
+            "num": "2",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Érik Lira",
+            "short": "É. Lira",
+            "num": "6",
+            "pos": "CM",
+            "place": "4"
+          },
+          {
+            "name": "Luis Romo",
+            "short": "L. Romo",
+            "num": "7",
+            "pos": "LM",
+            "place": "8"
+          },
+          {
+            "name": "Gilberto Mora",
+            "short": "G. Mora",
+            "num": "19",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Raúl Jiménez",
+            "short": "R. Jiménez",
+            "num": "9",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Julián Quiñones",
+            "short": "J. Quiñones",
+            "num": "16",
+            "pos": "LF",
+            "place": "11"
+          },
+          {
+            "name": "Roberto Alvarado",
+            "short": "R. Alvarado",
+            "num": "25",
+            "pos": "RF",
+            "place": "10"
+          }
+        ],
+        "away": [
+          {
+            "name": "Hernán Galíndez",
+            "short": "H. Galíndez",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Willian Pacho",
+            "short": "W. Pacho",
+            "num": "6",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Joel Ordóñez",
+            "short": "J. Ordóñez",
+            "num": "4",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Piero Hincapié",
+            "short": "P. Hincapié",
+            "num": "3",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Alan Franco",
+            "short": "A. Franco",
+            "num": "21",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Pedro Vite",
+            "short": "P. Vite",
+            "num": "15",
+            "pos": "CM-L",
+            "place": "8"
+          },
+          {
+            "name": "Moisés Caicedo",
+            "short": "M. Caicedo",
+            "num": "23",
+            "pos": "CM-R",
+            "place": "4"
+          },
+          {
+            "name": "Nilson Angulo",
+            "short": "N. Angulo",
+            "num": "20",
+            "pos": "LM",
+            "place": "11"
+          },
+          {
+            "name": "John Yeboah",
+            "short": "J. Yeboah",
+            "num": "9",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Enner Valencia",
+            "short": "E. Valencia",
+            "num": "13",
+            "pos": "CF-L",
+            "place": "9"
+          },
+          {
+            "name": "Gonzalo Plata",
+            "short": "G. Plata",
+            "num": "19",
+            "pos": "CF-R",
+            "place": "10"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Guillermo Ochoa",
+            "short": "G. Ochoa",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Israel Reyes",
+            "short": "I. Reyes",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Alexis Vega",
+            "short": "A. Vega",
+            "num": "10",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Guillermo Martínez",
+            "short": "G. Martínez",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Luis Chávez",
+            "short": "L. Chávez",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Álvaro Fidalgo",
+            "short": "Á. Fidalgo",
+            "num": "8",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Santiago Gimenez",
+            "short": "S. Gimenez",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Edson Álvarez",
+            "short": "E. Álvarez",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mateo Chávez",
+            "short": "M. Chávez",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Carlos Acevedo",
+            "short": "C. Acevedo",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Brian Gutiérrez",
+            "short": "B. Gutiérrez",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Orbelín Pineda",
+            "short": "O. Pineda",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Armando González",
+            "short": "A. González",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Obed Vargas",
+            "short": "O. Vargas",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "César Huerta",
+            "short": "C. Huerta",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Gonzalo Valle",
+            "short": "G. Valle",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Yaimar Medina",
+            "short": "Y. Medina",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Anthony Valencia",
+            "short": "A. Valencia",
+            "num": "8",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jordy Alcívar",
+            "short": "J. Alcívar",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Moisés Ramírez",
+            "short": "M. Ramírez",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ángelo Preciado",
+            "short": "Á. Preciado",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kendry Páez",
+            "short": "K. Páez",
+            "num": "10",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Denil Castillo",
+            "short": "D. Castillo",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Pervis Estupiñán",
+            "short": "P. Estupiñán",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jeremy Arévalo",
+            "short": "J. Arévalo",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kevin Rodríguez",
+            "short": "K. Rodríguez",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Félix Torres",
+            "short": "F. Torres",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jordy Caicedo",
+            "short": "J. Caicedo",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jackson Porozo",
+            "short": "J. Porozo",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Alan Minda",
+            "short": "A. Minda",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-3-3",
+        "away": "4-4-2"
+      },
+      "commentary": [
+        {
+          "min": "",
+          "text": "Match ends, Mexico 2, Ecuador 0.",
+          "goal": false
+        },
+        {
+          "min": "90'+9'",
+          "text": "Second Half ends, Mexico 2, Ecuador 0.",
+          "goal": false
+        },
+        {
+          "min": "90'+9'",
+          "text": "Moisés Caicedo (Ecuador) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "90'+9'",
+          "text": "Foul by Moisés Caicedo (Ecuador).",
+          "goal": false
+        },
+        {
+          "min": "90'+9'",
+          "text": "Orbelín Pineda (Mexico) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+7'",
+          "text": "Foul by Jordy Caicedo (Ecuador).",
+          "goal": false
+        },
+        {
+          "min": "90'+7'",
+          "text": "César Montes (Mexico) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Pedro Vite (Ecuador) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Foul by Santiago Giménez (Mexico).",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Fourth official has announced 7 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Piero Hincapié (Ecuador) is shown the red card.",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "VAR Decision: Card upgraded Piero Hincapié (Ecuador).",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Kendry Páez (Ecuador) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Foul by Kendry Páez (Ecuador).",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Orbelín Pineda (Mexico) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Attempt missed. Orbelín Pineda (Mexico) right footed shot from the centre of the box is close, but misses the top right corner. Assisted by Érik Lira.",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Attempt blocked. Jordy Caicedo (Ecuador) left footed shot from the centre of the box is blocked. Assisted by Kevin Rodríguez.",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Attempt missed. Yaimar Medina (Ecuador) header from the centre of the box misses to the left. Assisted by Kendry Páez.",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Attempt missed. Moisés Caicedo (Ecuador) right footed shot from outside the box misses to the left.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Foul by Pedro Vite (Ecuador).",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Santiago Giménez (Mexico) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Foul by Jordy Caicedo (Ecuador).",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Johan Vásquez (Mexico) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Corner, Ecuador. Conceded by Jorge Sánchez.",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Gonzalo Plata (Ecuador) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Foul by Jorge Sánchez (Mexico).",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Substitution, Mexico. Israel Reyes replaces Roberto Alvarado.",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Substitution, Mexico. Orbelín Pineda replaces Julián Quiñones.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Substitution, Ecuador. Kendry Páez replaces Nilson Angulo.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Substitution, Ecuador. Jordy Caicedo replaces John Yeboah.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Foul by Piero Hincapié (Ecuador).",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Santiago Giménez (Mexico) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Foul by Kevin Rodríguez (Ecuador).",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Johan Vásquez (Mexico) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Delay in match because of an injury Raúl Rangel (Mexico).",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Attempt missed. Kevin Rodríguez (Ecuador) right footed shot from the centre of the box is close, but misses to the left. Assisted by Moisés Caicedo with a through ball.",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Substitution, Mexico. Santiago Giménez replaces Raúl Jiménez.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Substitution, Mexico. Obed Vargas replaces Luis Romo.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Corner, Ecuador. Conceded by Roberto Alvarado.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Attempt missed. Johan Vásquez (Mexico) header from the centre of the box is close, but misses to the right. Assisted by Roberto Alvarado with a cross following a corner.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Corner, Mexico. Conceded by Hernán Galíndez.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Attempt saved. César Montes (Mexico) header from the centre of the box is saved in the top centre of the goal by Hernán Galíndez (Ecuador). Assisted by Roberto Alvarado with a cross.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Corner, Mexico. Conceded by Willian Pacho.",
+          "goal": false
+        },
+        {
+          "min": "63'",
+          "text": "Corner, Ecuador. Conceded by Julián Quiñones.",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Willian Pacho (Ecuador) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Foul by Raúl Jiménez (Mexico).",
+          "goal": false
+        },
+        {
+          "min": "59'",
+          "text": "Piero Hincapié (Ecuador) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "59'",
+          "text": "Foul by Brian Gutiérrez (Mexico).",
+          "goal": false
+        },
+        {
+          "min": "59'",
+          "text": "Substitution, Ecuador. Kevin Rodríguez replaces Enner Valencia.",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Substitution, Mexico. Brian Gutiérrez replaces Gilberto Mora.",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Foul by Piero Hincapié (Ecuador).",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Gilberto Mora (Mexico) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "53'",
+          "text": "Offside, Ecuador. Enner Valencia is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "52'",
+          "text": "Attempt blocked. Gilberto Mora (Mexico) right footed shot from the right side of the box is blocked. Assisted by Érik Lira.",
+          "goal": false
+        },
+        {
+          "min": "51'",
+          "text": "Attempt missed. Pedro Vite (Ecuador) left footed shot from outside the box is too high. Assisted by Gonzalo Plata.",
+          "goal": false
+        },
+        {
+          "min": "49'",
+          "text": "Foul by Jesús Gallardo (Mexico).",
+          "goal": false
+        },
+        {
+          "min": "49'",
+          "text": "John Yeboah (Ecuador) wins a free kick in the defensive half.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "R. Jiménez",
+            "num": "9",
+            "pos": "F",
+            "value": "4"
+          },
+          "away": {
+            "name": "J. Yeboah",
+            "num": "9",
+            "pos": "F",
+            "value": "2"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "J. Vásquez",
+            "num": "5",
+            "pos": "D",
+            "value": "38"
+          },
+          "away": {
+            "name": "P. Vite",
+            "num": "15",
+            "pos": "M",
+            "value": "62"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "C. Montes",
+            "num": "3",
+            "pos": "D",
+            "value": "12"
+          },
+          "away": {
+            "name": "P. Hincapié",
+            "num": "3",
+            "pos": "D",
+            "value": "14"
+          }
+        },
+        {
+          "label": "Saves",
+          "home": {
+            "name": "R. Rangel",
+            "num": "1",
+            "pos": "G",
+            "value": "1"
+          },
+          "away": {
+            "name": "H. Galíndez",
+            "num": "1",
+            "pos": "G",
+            "value": "1"
+          }
+        }
+      ],
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0630/dm_260630_COM_SOC_News_Mexico_fans_go_wild_for_opening_goal_vs_Ecuador_at_the_World_Cup_20260627_GLOBAL_F/dm_260630_COM_SOC_News_Mexico_fans_go_wild_for_opening_goal_vs_Ecuador_at_the_World_Cup_20260627_GLOBAL_F.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49232398/mexico-fans-go-wild-opening-goal-vs-ecuador-world-cup",
+        "headline": "Mexico fans go wild for opening goal vs. Ecuador at the World Cup",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0630/dm_260630_COM_SOC_News_Mexico_fans_go_wild_for_opening_goal_vs_Ecuador_at_the_World_Cup_20260627_GLOBAL_F/dm_260630_COM_SOC_News_Mexico_fans_go_wild_for_opening_goal_vs_Ecuador_at_the_World_Cup_20260627_GLOBAL_F_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0630/dm_260630_COM_SOC_News_Mexico_fans_go_wild_for_opening_goal_vs_Ecuador_at_the_World_Cup_20260627_GLOBAL_F/dm_260630_COM_SOC_News_Mexico_fans_go_wild_for_opening_goal_vs_Ecuador_at_the_World_Cup_20260627_GLOBAL_F/playlist.m3u8"
       },
       "final": true,
       "dv": 5

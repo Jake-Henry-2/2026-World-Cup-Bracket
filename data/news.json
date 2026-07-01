@@ -1,13 +1,41 @@
 {
-  "lastUpdated": "2026-07-01T20:52:55.561Z",
+  "lastUpdated": "2026-07-01T22:14:32.088Z",
   "source": "ESPN",
   "articles": [
     {
-      "headline": "World Cup Daily live: Senegal lead Belgium; Kane fires England into round of 16",
+      "headline": "World Cup Daily live: Belgium equalize late against Senegal to send it to extra time",
       "description": "We have three matches for you on Wednesday as the round-of-32 action at the 2026 World Cup continues.",
-      "published": "2026-07-01T20:40:17Z",
+      "published": "2026-07-01T22:00:40Z",
       "link": "https://www.espn.com/soccer/story/_/id/49233418/world-cup-daily-live-haaland-buys-cowboy-hat-usmnt-england-action",
-      "image": "https://a.espncdn.com/photo/2026/0701/r1682950_1296x729_16-9.jpg"
+      "image": "https://a.espncdn.com/photo/2026/0701/r1682990_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "2026 World Cup Golden Boot tracker: Will Messi, Mbappe, or other score most goals?",
+      "description": "We're into the round of 32 at the 2026 FIFA World Cup, and the race for the Golden Boot -- given to the tournament's top goal scorer -- is red-hot.",
+      "published": "2026-07-01T21:20:55Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49117037/lionel-messi-erling-haaland-kylian-mbappe-harry-kane-folarin-balogun-world-cup-golden-boot-top-scorer",
+      "image": "https://a.espncdn.com/photo/2026/0619/r1676221_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Kane rescues England from enormous upset",
+      "description": "England advance to the round of 16 after a late Harry Kane double saves a huge potential DR Congo upset.",
+      "published": "2026-07-01T21:14:29Z",
+      "link": "https://www.espn.com/video/clip/_/id/49241374/kane-rescues-england-enormous-upset",
+      "image": "https://a.espncdn.com/media/motion/2026/0701/dm_260701_Soccer_Highlight_Kane_rescues_England_from_enormous_upset_20260702_AUS_ONLY/dm_260701_Soccer_Highlight_Kane_rescues_England_from_enormous_upset_20260702_AUS_ONLY.jpg"
+    },
+    {
+      "headline": "Harry Kane: I had my World Cup 'hero moment' with brace vs. Congo DR",
+      "description": "Harry Kane revelled in having his \"hero moment\" as he saved England from a humiliating World Cup exit to Congo DR.",
+      "published": "2026-07-01T21:08:42Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49241208/harry-kane-hero-moment-world-cup-congo-dr",
+      "image": "https://a.espncdn.com/photo/2026/0701/r1682964_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Declan Rice not keen on England World Cup right-back role: 'Hardest 12 minutes of the game'",
+      "description": "Declan Rice hopes he won't have to fill in at right-back again after playing the \"hardest 12 minutes\" of England's 2-1 win over Congo DR in the position.",
+      "published": "2026-07-01T21:03:37Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49241282/world-cup-2026-delcan-rice-not-keen-england-right-back-role-hardest-12-minutes-game-congo-dr",
+      "image": "https://a.espncdn.com/photo/2026/0701/r1682960_1296x729_16-9.jpg"
     },
     {
       "headline": "Harry Kane, Kylian Mbappé, Lionel Messi, Erling Haaland are 'sharks' who 'smell blood' at World Cup - Thomas Tuchel",
@@ -15,34 +43,6 @@
       "published": "2026-07-01T20:23:21Z",
       "link": "https://www.espn.com/soccer/story/_/id/49240460/thomas-tuchel-harry-kane-kylian-mbappe-lionel-messi-erling-haaland-sharks-smell-blood-world-cup",
       "image": "https://a.espncdn.com/photo/2026/0701/r1682904_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Thomas Tuchel: 'Impossible' for England to adapt to Mexico altitude at World Cup",
-      "description": "Thomas Tuchel has said it is \"impossible\" for England to adapt to the altitude ahead of Sunday's round-of-16 clash with Mexico in Mexico City.",
-      "published": "2026-07-01T20:08:34Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49240312/thomas-tuchel-impossible-adapt-climate-england-mexico-azteca-altitude-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0701/r1682907_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Harry Kane on his Golden Boot race with 'incredible' Messi and Mbappé",
-      "description": "Harry Kane on his Golden Boot race with 'incredible' Messi and Mbappé",
-      "published": "2026-07-01T20:05:44Z",
-      "link": "https://www.espn.com/video/clip/_/id/49240657/harry-kane-golden-boot-race-incredible-messi-mbappe",
-      "image": "https://a.espncdn.com/media/motion/2026/0701/dm_260701_Harry_Kane_on_his_Golden_Boot_race_with_incredible_Messi_and_Mbappe/dm_260701_Harry_Kane_on_his_Golden_Boot_race_with_incredible_Messi_and_Mbappe.jpg"
-    },
-    {
-      "headline": "USMNT World Cup bracket scenarios, odds to advance, predicted path to knockouts",
-      "description": "Who will Team USA face in the World Cup knockout rounds? What's the likely path? What are the odds? What do projection models say?",
-      "published": "2026-07-01T20:06:40Z",
-      "link": "https://www.espn.com/soccer/story/_/id/48953200/usmnt-usa-world-cup-scenarios-bracket-permutations-qualify-betting-odds-projections-predictions",
-      "image": "https://a.espncdn.com/photo/2026/0626/r1679810_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Spain's Cucurella on World Cup critics: 'We know what we have to do'",
-      "description": "Full-back Marc Cucurella has said he \"understands\" criticism of Spain's World Cup performances, as the team prepares to play Austria in the round of 32.",
-      "published": "2026-07-01T20:02:33Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49240571/spain-cucurella-world-cup-critics-know-to-do",
-      "image": "https://a.espncdn.com/photo/2026/0701/r1682915_1296x729_16-9.jpg"
     }
   ]
 }

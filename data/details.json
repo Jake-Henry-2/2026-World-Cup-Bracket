@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T20:52:55.622Z",
+  "lastUpdated": "2026-07-01T22:14:32.123Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -71394,64 +71394,64 @@
       "venue": "Lumen Field",
       "stats": {
         "home": {
-          "foulsCommitted": "6",
-          "yellowCards": "0",
+          "foulsCommitted": "18",
+          "yellowCards": "1",
           "redCards": "0",
-          "offsides": "0",
-          "wonCorners": "2",
+          "offsides": "2",
+          "wonCorners": "4",
           "saves": "2",
-          "possessionPct": "50.6",
-          "totalShots": "5",
-          "shotsOnTarget": "2",
-          "shotPct": "0.4",
+          "possessionPct": "53.8",
+          "totalShots": "16",
+          "shotsOnTarget": "4",
+          "shotPct": "0.3",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "236",
-          "totalPasses": "270",
+          "accuratePasses": "506",
+          "totalPasses": "580",
           "passPct": "0.9",
-          "accurateCrosses": "2",
-          "totalCrosses": "10",
-          "crossPct": "0.2",
-          "totalLongBalls": "18",
-          "accurateLongBalls": "9",
+          "accurateCrosses": "6",
+          "totalCrosses": "22",
+          "crossPct": "0.3",
+          "totalLongBalls": "38",
+          "accurateLongBalls": "20",
           "longballPct": "0.5",
-          "blockedShots": "1",
-          "effectiveTackles": "2",
-          "totalTackles": "6",
-          "tacklePct": "0.3",
-          "interceptions": "2",
-          "effectiveClearance": "7",
-          "totalClearance": "7"
+          "blockedShots": "4",
+          "effectiveTackles": "4",
+          "totalTackles": "9",
+          "tacklePct": "0.4",
+          "interceptions": "5",
+          "effectiveClearance": "16",
+          "totalClearance": "16"
         },
         "away": {
-          "foulsCommitted": "4",
-          "yellowCards": "0",
+          "foulsCommitted": "10",
+          "yellowCards": "1",
           "redCards": "0",
-          "offsides": "1",
+          "offsides": "2",
           "wonCorners": "1",
           "saves": "3",
-          "possessionPct": "49.4",
-          "totalShots": "7",
-          "shotsOnTarget": "3",
-          "shotPct": "0.4",
+          "possessionPct": "46.2",
+          "totalShots": "13",
+          "shotsOnTarget": "4",
+          "shotPct": "0.3",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "226",
-          "totalPasses": "259",
+          "accuratePasses": "425",
+          "totalPasses": "500",
           "passPct": "0.9",
           "accurateCrosses": "3",
-          "totalCrosses": "11",
-          "crossPct": "0.3",
-          "totalLongBalls": "25",
-          "accurateLongBalls": "9",
+          "totalCrosses": "16",
+          "crossPct": "0.2",
+          "totalLongBalls": "64",
+          "accurateLongBalls": "25",
           "longballPct": "0.4",
-          "blockedShots": "0",
-          "effectiveTackles": "2",
-          "totalTackles": "5",
+          "blockedShots": "1",
+          "effectiveTackles": "5",
+          "totalTackles": "13",
           "tacklePct": "0.4",
-          "interceptions": "2",
-          "effectiveClearance": "14",
-          "totalClearance": "14"
+          "interceptions": "9",
+          "effectiveClearance": "28",
+          "totalClearance": "28"
         }
       },
       "events": [
@@ -71460,6 +71460,102 @@
           "min": "25'",
           "side": "away",
           "player": "Goal! Belgium 0, Senegal 1. Habib Diarra"
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "home",
+          "player": "Substitution, Belgium. Romelu Lukaku replaces Charles De Ketelaere."
+        },
+        {
+          "kind": "Goal",
+          "min": "51'",
+          "side": "away",
+          "player": "Goal! Belgium 0, Senegal 2. Ismaïla Sarr"
+        },
+        {
+          "kind": "Substitution",
+          "min": "56'",
+          "side": "home",
+          "player": "Substitution, Belgium. Dodi Lukébakio replaces Jérémy Doku."
+        },
+        {
+          "kind": "Substitution",
+          "min": "56'",
+          "side": "home",
+          "player": "Substitution, Belgium. Nicolas Raskin replaces Kevin De Bruyne."
+        },
+        {
+          "kind": "Substitution",
+          "min": "63'",
+          "side": "home",
+          "player": "Substitution, Belgium. Diego Moreira replaces Hans Vanaken."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "64'",
+          "side": "home",
+          "player": "Brandon Mechele"
+        },
+        {
+          "kind": "Substitution",
+          "min": "66'",
+          "side": "away",
+          "player": "Substitution, Senegal. Lamine Camara replaces Pape Gueye."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "67'",
+          "side": "away",
+          "player": "Lamine Camara"
+        },
+        {
+          "kind": "Substitution",
+          "min": "73'",
+          "side": "away",
+          "player": "Substitution, Senegal. Ibrahim Mbaye replaces Iliman Ndiaye."
+        },
+        {
+          "kind": "Substitution",
+          "min": "73'",
+          "side": "away",
+          "player": "Substitution, Senegal. Pape Matar Sarr replaces Habib Diarra."
+        },
+        {
+          "kind": "Substitution",
+          "min": "78'",
+          "side": "home",
+          "player": "Substitution, Belgium. Thomas Meunier replaces Maxim De Cuyper."
+        },
+        {
+          "kind": "Goal",
+          "min": "86'",
+          "side": "home",
+          "player": "Goal! Belgium 1, Senegal 2. Romelu Lukaku"
+        },
+        {
+          "kind": "Goal - Header",
+          "min": "89'",
+          "side": "home",
+          "player": "Goal! Belgium 2, Senegal 2. Youri Tielemans"
+        },
+        {
+          "kind": "Substitution",
+          "min": "93'",
+          "side": "away",
+          "player": "Substitution, Senegal. Nicolas Jackson replaces Sadio Mané."
+        },
+        {
+          "kind": "Substitution",
+          "min": "93'",
+          "side": "away",
+          "player": "Substitution, Senegal. El Hadji Malick Diouf replaces Ismail Jakobs."
+        },
+        {
+          "kind": "Substitution",
+          "min": "96'",
+          "side": "away",
+          "player": "Substitution, Senegal. Bara Sapoko Ndiaye replaces Idrissa Gueye."
         }
       ],
       "lineups": {
@@ -71507,16 +71603,16 @@
             "place": "10"
           },
           {
-            "name": "Youri Tielemans",
-            "short": "Y. Tielemans",
-            "num": "8",
+            "name": "Hans Vanaken",
+            "short": "H. Vanaken",
+            "num": "20",
             "pos": "LM",
             "place": "4"
           },
           {
-            "name": "Hans Vanaken",
-            "short": "H. Vanaken",
-            "num": "20",
+            "name": "Youri Tielemans",
+            "short": "Y. Tielemans",
+            "num": "8",
             "pos": "RM",
             "place": "8"
           },
@@ -71830,223 +71926,303 @@
       },
       "commentary": [
         {
-          "min": "45'+6'",
-          "text": "First Half ends, Belgium 0, Senegal 1.",
+          "min": "99'",
+          "text": "Foul by Diego Moreira (Belgium).",
           "goal": false
         },
         {
-          "min": "45'+6'",
-          "text": "Attempt missed. Kevin De Bruyne (Belgium) right footed shot from outside the box misses to the left.",
+          "min": "99'",
+          "text": "Bara Sapoko Ndiaye (Senegal) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "45'+5'",
-          "text": "Attempt blocked. Maxim De Cuyper (Belgium) left footed shot from outside the box is blocked.",
+          "min": "97'",
+          "text": "Foul by Thomas Meunier (Belgium).",
           "goal": false
         },
         {
-          "min": "45'+4'",
-          "text": "Foul by Sadio Mané (Senegal).",
-          "goal": false
-        },
-        {
-          "min": "45'+4'",
-          "text": "Jérémy Doku (Belgium) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "45'+3'",
-          "text": "Foul by Pape Gueye (Senegal).",
-          "goal": false
-        },
-        {
-          "min": "45'+3'",
-          "text": "Jérémy Doku (Belgium) wins a free kick on the right wing.",
-          "goal": false
-        },
-        {
-          "min": "45'+1'",
-          "text": "Attempt missed. Pape Gueye (Senegal) left footed shot from outside the box misses to the left. Assisted by Iliman Ndiaye.",
-          "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Fourth official has announced 5 minutes of added time.",
-          "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Corner, Belgium. Conceded by Mory Diaw.",
-          "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Attempt saved. Maxim De Cuyper (Belgium) right footed shot from outside the box is saved in the top right corner by Mory Diaw (Senegal). Assisted by Kevin De Bruyne.",
-          "goal": false
-        },
-        {
-          "min": "44'",
-          "text": "Corner, Belgium. Conceded by Pathé Ciss.",
-          "goal": false
-        },
-        {
-          "min": "44'",
-          "text": "Foul by Pape Gueye (Senegal).",
-          "goal": false
-        },
-        {
-          "min": "44'",
-          "text": "Hans Vanaken (Belgium) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "43'",
-          "text": "Foul by Ismaïla Sarr (Senegal).",
-          "goal": false
-        },
-        {
-          "min": "43'",
-          "text": "Youri Tielemans (Belgium) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "41'",
-          "text": "Krépin Diatta (Senegal) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "41'",
-          "text": "Foul by Maxim De Cuyper (Belgium).",
-          "goal": false
-        },
-        {
-          "min": "38'",
-          "text": "Pape Gueye (Senegal) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "38'",
-          "text": "Foul by Leandro Trossard (Belgium).",
-          "goal": false
-        },
-        {
-          "min": "37'",
-          "text": "Attempt saved. Sadio Mané (Senegal) right footed shot from the left side of the box is saved in the bottom left corner by Thibaut Courtois (Belgium). Assisted by Habib Diarra.",
-          "goal": false
-        },
-        {
-          "min": "32'",
-          "text": "Delay over. They are ready to continue.",
-          "goal": false
-        },
-        {
-          "min": "31'",
-          "text": "Delay in match (Senegal).",
-          "goal": false
-        },
-        {
-          "min": "30'",
-          "text": "Delay over. They are ready to continue.",
-          "goal": false
-        },
-        {
-          "min": "27'",
-          "text": "Delay in match for a drinks break.",
-          "goal": false
-        },
-        {
-          "min": "25'",
-          "text": "Goal! Belgium 0, Senegal 1. Habib Diarra (Senegal) right footed shot from very close range to the centre of the goal.",
-          "goal": true
-        },
-        {
-          "min": "25'",
-          "text": "Ismaïla Sarr (Senegal) hits the right post with a header from the centre of the box. Assisted by Sadio Mané with a cross.",
-          "goal": false
-        },
-        {
-          "min": "21'",
-          "text": "Habib Diarra (Senegal) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "21'",
-          "text": "Foul by Youri Tielemans (Belgium).",
-          "goal": false
-        },
-        {
-          "min": "20'",
-          "text": "Offside, Senegal. Sadio Mané is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "19'",
-          "text": "Corner, Senegal. Conceded by Maxim De Cuyper.",
-          "goal": false
-        },
-        {
-          "min": "18'",
-          "text": "Attempt missed. Kevin De Bruyne (Belgium) right footed shot from outside the box is too high. Assisted by Youri Tielemans.",
-          "goal": false
-        },
-        {
-          "min": "17'",
-          "text": "Attempt saved. Idrissa Gueye (Senegal) right footed shot from outside the box is saved in the bottom left corner by Thibaut Courtois (Belgium).",
-          "goal": false
-        },
-        {
-          "min": "14'",
-          "text": "Sadio Mané (Senegal) wins a free kick on the left wing.",
-          "goal": false
-        },
-        {
-          "min": "14'",
-          "text": "Foul by Timothy Castagne (Belgium).",
-          "goal": false
-        },
-        {
-          "min": "13'",
-          "text": "Attempt missed. Ismaïla Sarr (Senegal) right footed shot from the right side of the six yard box is close, but misses to the right.",
-          "goal": false
-        },
-        {
-          "min": "13'",
-          "text": "Ismaïla Sarr (Senegal) hits the right post with a right footed shot from very close range.",
-          "goal": false
-        },
-        {
-          "min": "10'",
+          "min": "97'",
           "text": "Ismaïla Sarr (Senegal) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "10'",
-          "text": "Foul by Arthur Theate (Belgium).",
+          "min": "96'",
+          "text": "Substitution, Senegal. Bara Sapoko Ndiaye replaces Idrissa Gueye.",
           "goal": false
         },
         {
-          "min": "9'",
-          "text": "Attempt saved. Leandro Trossard (Belgium) right footed shot from the right side of the box is saved in the bottom right corner by Mory Diaw (Senegal). Assisted by Timothy Castagne.",
+          "min": "95'",
+          "text": "Foul by Timothy Castagne (Belgium).",
           "goal": false
         },
         {
-          "min": "7'",
+          "min": "95'",
+          "text": "Ibrahim Mbaye (Senegal) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "93'",
+          "text": "Substitution, Senegal. El Hadji Malick Diouf replaces Ismail Jakobs.",
+          "goal": false
+        },
+        {
+          "min": "93'",
+          "text": "Substitution, Senegal. Nicolas Jackson replaces Sadio Mané.",
+          "goal": false
+        },
+        {
+          "min": "93'",
+          "text": "Foul by Timothy Castagne (Belgium).",
+          "goal": false
+        },
+        {
+          "min": "93'",
+          "text": "Krépin Diatta (Senegal) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "First Half Extra Time begins Belgium 2, Senegal 2.",
+          "goal": false
+        },
+        {
+          "min": "90'+8'",
+          "text": "Second Half ends, Belgium 2, Senegal 2.",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Attempt missed. Idrissa Gueye (Senegal) right footed shot from outside the box misses to the left. Assisted by Ibrahim Mbaye.",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Offside, Belgium. Diego Moreira is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Foul by Brandon Mechele (Belgium).",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Mory Diaw (Senegal) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Attempt missed. Thomas Meunier (Belgium) right footed shot from outside the box is close, but misses to the right following a corner.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Corner, Belgium. Conceded by Lamine Camara.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Fourth official has announced 7 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Goal! Belgium 2, Senegal 2. Youri Tielemans (Belgium) header from the centre of the box to the bottom left corner. Assisted by Leandro Trossard.",
+          "goal": true
+        },
+        {
+          "min": "88'",
+          "text": "Attempt missed. Ibrahim Mbaye (Senegal) right footed shot from the right side of the box is high and wide to the right. Assisted by Ismaïla Sarr.",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Goal! Belgium 1, Senegal 2. Romelu Lukaku (Belgium) right footed shot from the right side of the six yard box to the high centre of the goal. Assisted by Thomas Meunier with a cross.",
+          "goal": true
+        },
+        {
+          "min": "84'",
+          "text": "Offside, Senegal. Sadio Mané is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Attempt missed. Youri Tielemans (Belgium) left footed shot from outside the box is too high. Assisted by Leandro Trossard.",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Attempt missed. Timothy Castagne (Belgium) header from the centre of the box is close, but misses to the right. Assisted by Dodi Lukébakio with a cross.",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Foul by Timothy Castagne (Belgium).",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Ismaïla Sarr (Senegal) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Foul by Thomas Meunier (Belgium).",
+          "goal": false
+        },
+        {
+          "min": "79'",
           "text": "Sadio Mané (Senegal) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "7'",
+          "min": "78'",
+          "text": "Substitution, Belgium. Thomas Meunier replaces Maxim De Cuyper.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Attempt missed. Dodi Lukébakio (Belgium) left footed shot from the right side of the box is close, but misses to the left. Assisted by Brandon Mechele.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Attempt blocked. Arthur Theate (Belgium) left footed shot from outside the box is blocked. Assisted by Brandon Mechele.",
+          "goal": false
+        },
+        {
+          "min": "76'",
           "text": "Foul by Youri Tielemans (Belgium).",
           "goal": false
         },
         {
-          "min": "",
-          "text": "First Half begins.",
+          "min": "76'",
+          "text": "Sadio Mané (Senegal) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "",
-          "text": "Lineups are announced and players are warming up.",
+          "min": "73'",
+          "text": "Substitution, Senegal. Pape Matar Sarr replaces Habib Diarra.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Substitution, Senegal. Ibrahim Mbaye replaces Iliman Ndiaye.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "70'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Lamine Camara (Senegal) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Leandro Trossard (Belgium) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Foul by Lamine Camara (Senegal).",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Substitution, Senegal. Lamine Camara replaces Pape Gueye.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Offside, Belgium. Romelu Lukaku is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Brandon Mechele (Belgium) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Foul by Brandon Mechele (Belgium).",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Ismaïla Sarr (Senegal) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "63'",
+          "text": "Substitution, Belgium. Diego Moreira replaces Hans Vanaken.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Leandro Trossard (Belgium) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Foul by Krépin Diatta (Senegal).",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Attempt missed. Dodi Lukébakio (Belgium) left footed shot from the centre of the box misses to the right. Assisted by Romelu Lukaku.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Corner, Belgium. Conceded by Moussa Niakhaté.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Attempt blocked. Youri Tielemans (Belgium) right footed shot from a difficult angle on the right is blocked. Assisted by Romelu Lukaku.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Attempt blocked. Dodi Lukébakio (Belgium) left footed shot from the centre of the box is blocked. Assisted by Leandro Trossard.",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Krépin Diatta (Senegal) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Foul by Nicolas Raskin (Belgium).",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Attempt missed. Brandon Mechele (Belgium) header from the right side of the six yard box is too high. Assisted by Timothy Castagne.",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Substitution, Belgium. Nicolas Raskin replaces Kevin De Bruyne.",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Substitution, Belgium. Dodi Lukébakio replaces Jérémy Doku.",
+          "goal": false
+        },
+        {
+          "min": "55'",
+          "text": "Foul by Iliman Ndiaye (Senegal).",
           "goal": false
         }
       ],
@@ -72054,16 +72230,16 @@
         {
           "label": "Total Shots",
           "home": {
-            "name": "M. De Cuyper",
-            "num": "5",
-            "pos": "D",
-            "value": "2"
+            "name": "D. Lukébakio",
+            "num": "14",
+            "pos": "F",
+            "value": "3"
           },
           "away": {
             "name": "I. Sarr",
             "num": "18",
             "pos": "F",
-            "value": "3"
+            "value": "4"
           }
         },
         {
@@ -72072,13 +72248,13 @@
             "name": "B. Mechele",
             "num": "4",
             "pos": "D",
-            "value": "49"
+            "value": "105"
           },
           "away": {
-            "name": "P. Ciss",
-            "num": "6",
-            "pos": "M",
-            "value": "41"
+            "name": "M. Niakhaté",
+            "num": "19",
+            "pos": "D",
+            "value": "65"
           }
         },
         {
@@ -72087,13 +72263,13 @@
             "name": "T. Castagne",
             "num": "21",
             "pos": "D",
-            "value": "6"
+            "value": "11"
           },
           "away": {
             "name": "P. Ciss",
             "num": "6",
             "pos": "M",
-            "value": "6"
+            "value": "12"
           }
         },
         {

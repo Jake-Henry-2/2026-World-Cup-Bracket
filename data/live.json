@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T17:01:36.500Z",
+  "lastUpdated": "2026-07-01T19:05:56.543Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -1112,25 +1112,15 @@
       "stage": "r32",
       "home": "England",
       "away": "DR Congo",
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 1,
-      "homeWinner": false,
+      "homeWinner": true,
       "awayWinner": false,
-      "odds": {
-        "home": -330,
-        "away": 1200,
-        "draw": 400,
-        "total": 2.5,
-        "book": "DraftKings"
-      },
-      "status": "live",
+      "odds": null,
+      "status": "finished",
       "id": "760495",
       "date": "2026-07-01T16:00Z",
-      "venue": "Mercedes-Benz Stadium",
-      "clock": 2700,
-      "displayClock": "45'+7'",
-      "detail": "HT",
-      "period": 1
+      "venue": "Mercedes-Benz Stadium"
     },
     {
       "stage": "r32",
@@ -1141,8 +1131,8 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 115,
-        "away": 265,
+        "home": 110,
+        "away": 275,
         "draw": 230,
         "total": 2.5,
         "book": "DraftKings"
@@ -1161,7 +1151,7 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -275,
+        "home": -265,
         "away": 800,
         "draw": 400,
         "total": 2.5,
@@ -1355,12 +1345,18 @@
     {
       "stage": "r16",
       "home": "Mexico",
-      "away": "Round of 32 8 Winner",
+      "away": "England",
       "homeScore": 0,
       "awayScore": 0,
       "homeWinner": false,
       "awayWinner": false,
-      "odds": null,
+      "odds": {
+        "home": 245,
+        "away": 125,
+        "draw": 220,
+        "total": 2.5,
+        "book": "DraftKings"
+      },
       "status": "scheduled",
       "id": "760505",
       "date": "2026-07-06T00:00Z",

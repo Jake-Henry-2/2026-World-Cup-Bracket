@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-02T18:51:22.896Z",
+  "lastUpdated": "2026-07-02T20:14:28.493Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -74084,6 +74084,838 @@
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0701/dm_260701_DR_Congo_fans_in_London_loved_that_opening_goal_vs_England/dm_260701_DR_Congo_fans_in_London_loved_that_opening_goal_vs_England/playlist.m3u8"
       },
       "final": true,
+      "dv": 5
+    },
+    "760497": {
+      "venue": "SoFi Stadium",
+      "stats": {
+        "home": {
+          "foulsCommitted": "5",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "1",
+          "wonCorners": "7",
+          "saves": "0",
+          "possessionPct": "65.1",
+          "totalShots": "13",
+          "shotsOnTarget": "7",
+          "shotPct": "0.5",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "322",
+          "totalPasses": "354",
+          "passPct": "0.9",
+          "accurateCrosses": "5",
+          "totalCrosses": "16",
+          "crossPct": "0.3",
+          "totalLongBalls": "16",
+          "accurateLongBalls": "12",
+          "longballPct": "0.8",
+          "blockedShots": "2",
+          "effectiveTackles": "7",
+          "totalTackles": "11",
+          "tacklePct": "0.6",
+          "interceptions": "3",
+          "effectiveClearance": "8",
+          "totalClearance": "8"
+        },
+        "away": {
+          "foulsCommitted": "7",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "2",
+          "wonCorners": "0",
+          "saves": "6",
+          "possessionPct": "34.9",
+          "totalShots": "2",
+          "shotsOnTarget": "0",
+          "shotPct": "0.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "152",
+          "totalPasses": "194",
+          "passPct": "0.8",
+          "accurateCrosses": "1",
+          "totalCrosses": "4",
+          "crossPct": "0.3",
+          "totalLongBalls": "21",
+          "accurateLongBalls": "9",
+          "longballPct": "0.4",
+          "blockedShots": "1",
+          "effectiveTackles": "6",
+          "totalTackles": "8",
+          "tacklePct": "0.8",
+          "interceptions": "4",
+          "effectiveClearance": "16",
+          "totalClearance": "16"
+        }
+      },
+      "events": [
+        {
+          "kind": "Goal",
+          "min": "36'",
+          "side": "home",
+          "player": "Goal! Spain 1, Austria 0. Mikel Oyarzabal"
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "away",
+          "player": "Substitution, Austria. Florian Grillitsch replaces Xaver Schlager."
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "away",
+          "player": "Substitution, Austria. Carney Chukwuemeka replaces Nicolas Seiwald."
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Unai Simón",
+            "short": "U. Simón",
+            "num": "23",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Aymeric Laporte",
+            "short": "A. Laporte",
+            "num": "14",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Pau Cubarsí",
+            "short": "P. Cubarsí",
+            "num": "22",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Marc Cucurella",
+            "short": "M. Cucurella",
+            "num": "24",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Pedro Porro",
+            "short": "P. Porro",
+            "num": "12",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Dani Olmo",
+            "short": "D. Olmo",
+            "num": "10",
+            "pos": "AM",
+            "place": "10"
+          },
+          {
+            "name": "Pedri",
+            "short": "Pedri",
+            "num": "20",
+            "pos": "LM",
+            "place": "4"
+          },
+          {
+            "name": "Rodri",
+            "short": "Rodri",
+            "num": "16",
+            "pos": "RM",
+            "place": "8"
+          },
+          {
+            "name": "Mikel Oyarzabal",
+            "short": "M. Oyarzabal",
+            "num": "21",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Álex Baena",
+            "short": "Á. Baena",
+            "num": "15",
+            "pos": "AM-L",
+            "place": "11"
+          },
+          {
+            "name": "Lamine Yamal",
+            "short": "L. Yamal",
+            "num": "19",
+            "pos": "AM-R",
+            "place": "7"
+          }
+        ],
+        "away": [
+          {
+            "name": "Alexander Schlager",
+            "short": "A. Schlager",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "David Alaba",
+            "short": "D. Alaba",
+            "num": "8",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Kevin Danso",
+            "short": "K. Danso",
+            "num": "3",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Konrad Laimer",
+            "short": "K. Laimer",
+            "num": "20",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Stefan Posch",
+            "short": "S. Posch",
+            "num": "5",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Paul Wanner",
+            "short": "P. Wanner",
+            "num": "24",
+            "pos": "AM",
+            "place": "10"
+          },
+          {
+            "name": "Xaver Schlager",
+            "short": "X. Schlager",
+            "num": "4",
+            "pos": "LM",
+            "place": "4"
+          },
+          {
+            "name": "Nicolas Seiwald",
+            "short": "N. Seiwald",
+            "num": "6",
+            "pos": "RM",
+            "place": "8"
+          },
+          {
+            "name": "Michael Gregoritsch",
+            "short": "M. Gregoritsch",
+            "num": "11",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Marcel Sabitzer",
+            "short": "M. Sabitzer",
+            "num": "9",
+            "pos": "AM-L",
+            "place": "11"
+          },
+          {
+            "name": "Romano Schmid",
+            "short": "R. Schmid",
+            "num": "18",
+            "pos": "AM-R",
+            "place": "7"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Mikel Merino",
+            "short": "M. Merino",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Marc Pubill",
+            "short": "M. Pubill",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nico Williams",
+            "short": "N. Williams",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Martín Zubimendi",
+            "short": "M. Zubimendi",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ferran Torres",
+            "short": "F. Torres",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Borja Iglesias",
+            "short": "B. Iglesias",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Yéremy Pino",
+            "short": "Y. Pino",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Fabián Ruiz",
+            "short": "F. Ruiz",
+            "num": "8",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Alejandro Grimaldo",
+            "short": "A. Grimaldo",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gavi",
+            "short": "Gavi",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Joan García",
+            "short": "J. García",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Marcos Llorente",
+            "short": "M. Llorente",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Eric García",
+            "short": "E. García",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "David Raya",
+            "short": "D. Raya",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Víctor Muñoz",
+            "short": "V. Muñoz",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Florian Grillitsch",
+            "short": "F. Grillitsch",
+            "num": "10",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Florian Wiegele",
+            "short": "F. Wiegele",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "David Affengruber",
+            "short": "D. Affengruber",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Phillipp Mwene",
+            "short": "P. Mwene",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Patrick Pentz",
+            "short": "P. Pentz",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Patrick Wimmer",
+            "short": "P. Wimmer",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Alessandro Schöpf",
+            "short": "A. Schöpf",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Marko Arnautovic",
+            "short": "M. Arnautovic",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Michael Svoboda",
+            "short": "M. Svoboda",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Dejan Ljubicic",
+            "short": "D. Ljubicic",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Alexander Prass",
+            "short": "A. Prass",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Carney Chukwuemeka",
+            "short": "C. Chukwuemeka",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Marco Friedl",
+            "short": "M. Friedl",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Sasa Kalajdzic",
+            "short": "S. Kalajdzic",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Philipp Lienhart",
+            "short": "P. Lienhart",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-2-3-1",
+        "away": "4-2-3-1"
+      },
+      "commentary": [
+        {
+          "min": "52'",
+          "text": "Attempt missed. Mikel Oyarzabal (Spain) header from the centre of the box following a corner.",
+          "goal": false
+        },
+        {
+          "min": "51'",
+          "text": "Corner, Spain. Conceded by Paul Wanner.",
+          "goal": false
+        },
+        {
+          "min": "49'",
+          "text": "Attempt saved. Mikel Oyarzabal (Spain) left footed shot from outside the box is saved in the centre of the goal by Alexander Schlager (Austria).",
+          "goal": false
+        },
+        {
+          "min": "49'",
+          "text": "Foul by Lamine Yamal (Spain).",
+          "goal": false
+        },
+        {
+          "min": "49'",
+          "text": "Marcel Sabitzer (Austria) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "48'",
+          "text": "Pedro Porro (Spain) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "48'",
+          "text": "Foul by Carney Chukwuemeka (Austria).",
+          "goal": false
+        },
+        {
+          "min": "47'",
+          "text": "Marc Cucurella (Spain) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "47'",
+          "text": "Foul by Paul Wanner (Austria).",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Second Half begins Spain 1, Austria 0.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Substitution, Austria. Carney Chukwuemeka replaces Nicolas Seiwald.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Substitution, Austria. Florian Grillitsch replaces Xaver Schlager.",
+          "goal": false
+        },
+        {
+          "min": "45'+5'",
+          "text": "First Half ends, Spain 1, Austria 0.",
+          "goal": false
+        },
+        {
+          "min": "45'+4'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "45'+3'",
+          "text": "Delay in match because of an injury Pau Cubarsí (Spain).",
+          "goal": false
+        },
+        {
+          "min": "45'+2'",
+          "text": "Attempt saved. Lamine Yamal (Spain) left footed shot from the left side of the six yard box is saved in the centre of the goal by Alexander Schlager (Austria).",
+          "goal": false
+        },
+        {
+          "min": "45'+2'",
+          "text": "Attempt saved. Álex Baena (Spain) right footed shot from outside the box is saved in the top left corner by Alexander Schlager (Austria).",
+          "goal": false
+        },
+        {
+          "min": "45'+1'",
+          "text": "Álex Baena (Spain) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "45'+1'",
+          "text": "Foul by Stefan Posch (Austria).",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Fourth official has announced 4 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Offside, Austria. Michael Gregoritsch is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Attempt blocked. Nicolas Seiwald (Austria) left footed shot from the left side of the box is blocked. Assisted by Romano Schmid.",
+          "goal": false
+        },
+        {
+          "min": "44'",
+          "text": "Mikel Oyarzabal (Spain) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "44'",
+          "text": "Foul by Marcel Sabitzer (Austria).",
+          "goal": false
+        },
+        {
+          "min": "42'",
+          "text": "Attempt missed. Aymeric Laporte (Spain) left footed shot from more than 35 yards misses to the right. Assisted by Rodri.",
+          "goal": false
+        },
+        {
+          "min": "41'",
+          "text": "Corner, Spain. Conceded by Kevin Danso.",
+          "goal": false
+        },
+        {
+          "min": "39'",
+          "text": "Attempt blocked. Mikel Oyarzabal (Spain) left footed shot from the centre of the box is blocked. Assisted by Dani Olmo.",
+          "goal": false
+        },
+        {
+          "min": "38'",
+          "text": "Attempt saved. Lamine Yamal (Spain) right footed shot from outside the box is saved in the centre of the goal by Alexander Schlager (Austria). Assisted by Pedro Porro.",
+          "goal": false
+        },
+        {
+          "min": "36'",
+          "text": "Goal! Spain 1, Austria 0. Mikel Oyarzabal (Spain) left footed shot from the centre of the box to the centre of the goal. Assisted by Marc Cucurella with a cross.",
+          "goal": true
+        },
+        {
+          "min": "35'",
+          "text": "Attempt missed. David Alaba (Austria) left footed shot from outside the box is too high.",
+          "goal": false
+        },
+        {
+          "min": "34'",
+          "text": "Offside, Spain. Lamine Yamal is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "33'",
+          "text": "Corner, Spain. Conceded by Alexander Schlager.",
+          "goal": false
+        },
+        {
+          "min": "33'",
+          "text": "Attempt saved. Mikel Oyarzabal (Spain) left footed shot from the centre of the box is saved in the centre of the goal by Alexander Schlager (Austria). Assisted by Dani Olmo.",
+          "goal": false
+        },
+        {
+          "min": "32'",
+          "text": "Attempt missed. Lamine Yamal (Spain) left footed shot from a difficult angle on the right misses to the left. Assisted by Pau Cubarsí.",
+          "goal": false
+        },
+        {
+          "min": "29'",
+          "text": "Foul by Pau Cubarsí (Spain).",
+          "goal": false
+        },
+        {
+          "min": "29'",
+          "text": "Alexander Schlager (Austria) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "29'",
+          "text": "Corner, Spain. Conceded by Stefan Posch.",
+          "goal": false
+        },
+        {
+          "min": "27'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "24'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "19'",
+          "text": "Foul by Pedro Porro (Spain).",
+          "goal": false
+        },
+        {
+          "min": "19'",
+          "text": "Marcel Sabitzer (Austria) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "16'",
+          "text": "Pedro Porro (Spain) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "16'",
+          "text": "Foul by Paul Wanner (Austria).",
+          "goal": false
+        },
+        {
+          "min": "15'",
+          "text": "Mikel Oyarzabal (Spain) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "15'",
+          "text": "Foul by David Alaba (Austria).",
+          "goal": false
+        },
+        {
+          "min": "13'",
+          "text": "Foul by Marc Cucurella (Spain).",
+          "goal": false
+        },
+        {
+          "min": "13'",
+          "text": "Stefan Posch (Austria) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "11'",
+          "text": "Corner, Spain. Conceded by Stefan Posch.",
+          "goal": false
+        },
+        {
+          "min": "11'",
+          "text": "Dani Olmo (Spain) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "11'",
+          "text": "Foul by David Alaba (Austria).",
+          "goal": false
+        },
+        {
+          "min": "9'",
+          "text": "VAR Decision: Other Decision Cancelled.",
+          "goal": false
+        },
+        {
+          "min": "8'",
+          "text": "Attempt missed. Aymeric Laporte (Spain) header from very close range is close, but misses to the left. Assisted by Álex Baena with a cross following a corner.",
+          "goal": false
+        },
+        {
+          "min": "8'",
+          "text": "Corner, Spain. Conceded by Romano Schmid.",
+          "goal": false
+        },
+        {
+          "min": "7'",
+          "text": "Attempt blocked. Dani Olmo (Spain) right footed shot from the centre of the box is blocked. Assisted by Pedro Porro with a cross.",
+          "goal": false
+        },
+        {
+          "min": "6'",
+          "text": "Offside, Austria. Michael Gregoritsch is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "5'",
+          "text": "Corner, Spain. Conceded by Kevin Danso.",
+          "goal": false
+        },
+        {
+          "min": "1'",
+          "text": "Attempt saved. Lamine Yamal (Spain) left footed shot from outside the box is saved in the centre of the goal by Alexander Schlager (Austria). Assisted by Álex Baena.",
+          "goal": false
+        },
+        {
+          "min": "1'",
+          "text": "Handball by Dani Olmo (Spain).",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "First Half begins.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "Lineups are announced and players are warming up.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "M. Oyarzabal",
+            "num": "21",
+            "pos": "F",
+            "value": "5"
+          },
+          "away": {
+            "name": "N. Seiwald",
+            "num": "6",
+            "pos": "M",
+            "value": "1"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "P. Cubarsí",
+            "num": "22",
+            "pos": "D",
+            "value": "49"
+          },
+          "away": {
+            "name": "D. Alaba",
+            "num": "8",
+            "pos": "D",
+            "value": "26"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "P. Cubarsí",
+            "num": "22",
+            "pos": "D",
+            "value": "5"
+          },
+          "away": {
+            "name": "K. Danso",
+            "num": "3",
+            "pos": "D",
+            "value": "9"
+          }
+        },
+        {
+          "label": "Saves",
+          "away": {
+            "name": "A. Schlager",
+            "num": "1",
+            "pos": "G",
+            "value": "6"
+          }
+        }
+      ],
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0702/dm_260702_Fans_in_Madrid_celebrate_Spains_opening_goal_vs_Austria/dm_260702_Fans_in_Madrid_celebrate_Spains_opening_goal_vs_Austria.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49250810/fans-madrid-celebrate-spain-opening-goal-vs-austria",
+        "headline": "Fans in Madrid celebrate Spain's opening goal vs. Austria",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0702/dm_260702_Fans_in_Madrid_celebrate_Spains_opening_goal_vs_Austria/dm_260702_Fans_in_Madrid_celebrate_Spains_opening_goal_vs_Austria_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0702/dm_260702_Fans_in_Madrid_celebrate_Spains_opening_goal_vs_Austria/dm_260702_Fans_in_Madrid_celebrate_Spains_opening_goal_vs_Austria/playlist.m3u8"
+      },
+      "final": false,
       "dv": 5
     }
   }

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T23:47:39.156Z",
+  "lastUpdated": "2026-07-02T01:52:43.081Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -1140,21 +1140,25 @@
       "stage": "r32",
       "home": "United States",
       "away": "Bosnia and Herzegovina",
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -280,
-        "away": 800,
-        "draw": 425,
+        "home": -270,
+        "away": 750,
+        "draw": 400,
         "total": 2.5,
         "book": "DraftKings"
       },
-      "status": "scheduled",
+      "status": "live",
       "id": "760494",
       "date": "2026-07-02T00:00Z",
-      "venue": "Levi's Stadium"
+      "venue": "Levi's Stadium",
+      "clock": 5220,
+      "displayClock": "87'",
+      "detail": "87'",
+      "period": 2
     },
     {
       "stage": "r32",
@@ -1166,7 +1170,7 @@
       "awayWinner": false,
       "odds": {
         "home": -300,
-        "away": 900,
+        "away": 850,
         "draw": 425,
         "total": 2.5,
         "book": "DraftKings"
@@ -1305,8 +1309,8 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 1700,
-        "away": -550,
+        "home": 1800,
+        "away": -575,
         "draw": 600,
         "total": 2.5,
         "book": "DraftKings"
@@ -1345,8 +1349,8 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 230,
-        "away": 135,
+        "home": 220,
+        "away": 140,
         "draw": 220,
         "total": 2.5,
         "book": "DraftKings"

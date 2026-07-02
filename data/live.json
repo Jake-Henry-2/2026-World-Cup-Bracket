@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-02T20:14:28.414Z",
+  "lastUpdated": "2026-07-02T21:36:18.995Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -1154,25 +1154,15 @@
       "stage": "r32",
       "home": "Spain",
       "away": "Austria",
-      "homeScore": 1,
+      "homeScore": 3,
       "awayScore": 0,
-      "homeWinner": false,
+      "homeWinner": true,
       "awayWinner": false,
-      "odds": {
-        "home": -285,
-        "away": 850,
-        "draw": 400,
-        "total": 2.5,
-        "book": "DraftKings"
-      },
-      "status": "live",
+      "odds": null,
+      "status": "finished",
       "id": "760497",
       "date": "2026-07-02T19:00Z",
-      "venue": "SoFi Stadium",
-      "clock": 3120,
-      "displayClock": "52'",
-      "detail": "52'",
-      "period": 2
+      "venue": "SoFi Stadium"
     },
     {
       "stage": "r32",
@@ -1183,9 +1173,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -150,
+        "home": -145,
         "away": 450,
-        "draw": 280,
+        "draw": 270,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -1205,7 +1195,7 @@
       "odds": {
         "home": -105,
         "away": 340,
-        "draw": 230,
+        "draw": 225,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -1263,9 +1253,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -210,
-        "away": 700,
-        "draw": 320,
+        "home": -225,
+        "away": 750,
+        "draw": 330,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -1357,7 +1347,7 @@
     {
       "stage": "r16",
       "home": "Round of 32 11 Winner",
-      "away": "Round of 32 12 Winner",
+      "away": "Spain",
       "homeScore": 0,
       "awayScore": 0,
       "homeWinner": false,

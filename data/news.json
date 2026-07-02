@@ -1,11 +1,25 @@
 {
-  "lastUpdated": "2026-07-02T11:23:43.208Z",
+  "lastUpdated": "2026-07-02T13:15:35.802Z",
   "source": "ESPN",
   "articles": [
     {
+      "headline": "Tuchel: 'Impossible' for England to adapt to Azteca altitude",
+      "description": "Tuchel: 'Impossible' for England to adapt to Azteca altitude",
+      "published": "2026-07-02T12:34:27Z",
+      "link": "https://www.espn.com/video/clip/_/id/49247181/impossible-england-adapt-azteca-altitude",
+      "image": "https://a.espncdn.com/media/motion/2026/0702/dm_260702_COM_SOC_Presser_Tuchel_Impossible_for_England_to_adapt_to_Azteca_altitude_20260702_GLOBAL_FIF/dm_260702_COM_SOC_Presser_Tuchel_Impossible_for_England_to_adapt_to_Azteca_altitude_20260702_GLOBAL_FIF.jpg"
+    },
+    {
+      "headline": "World Cup Daily live: Balogun celly in USMNT win gets LeBron seal of approval",
+      "description": "Follow live for the latest analysis, reaction and news as the FIFA World Cup round of 32 continues.",
+      "published": "2026-07-02T12:21:35Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49244994/world-cup-daily-spain-portugal-action-round-32-continues",
+      "image": "https://a.espncdn.com/photo/2026/0702/r1683217_1296x729_16-9.jpg"
+    },
+    {
       "headline": "USMNT shows it can play ugly at this World Cup, which is exactly what it needs to succeed",
       "description": "Play pretty? Fine. Play nasty? No problem. This USMNT has the tools to deal with every situation, which is handy as it faces Belgium next without its top scorer.",
-      "published": "2026-07-02T11:21:21Z",
+      "published": "2026-07-02T11:28:56Z",
       "link": "https://www.espn.com/soccer/story/_/id/49245810/usmnt-shows-play-ugly-world-cup-which-exactly-needs-succeed",
       "image": "https://a.espncdn.com/photo/2026/0702/r1683205_1296x729_16-9.jpg"
     },
@@ -29,20 +43,6 @@
       "published": "2026-07-02T09:27:19Z",
       "link": "https://www.espn.com/espn/story/_/id/49245978/ghana-brandon-thomas-asante-showing-why-belongs-premier-league-coventry",
       "image": "https://a.espncdn.com/photo/2026/0702/r1683209_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Cristian Romero available for Argentina World Cup knockout vs. Cape Verde - sources",
-      "description": "Argentina have received a boost ahead of Friday's World Cup round of 32 encounter against Cape Verde in Miami with Cristian Romero available.",
-      "published": "2026-07-02T09:14:53Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49246064/cristian-romero-available-argentina-world-cup-knockout-vs-cape-verde-sources",
-      "image": "https://a.espncdn.com/photo/2026/0702/r1683211_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "World Cup Daily live: Balogun celly in USMNT win gets LeBron seal of approval",
-      "description": "Follow live for the latest analysis, reaction and news as the FIFA World Cup round of 32 continues.",
-      "published": "2026-07-02T09:50:25Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49244994/world-cup-daily-spain-portugal-action-round-32-continues",
-      "image": "https://a.espncdn.com/photo/2026/0702/r1683217_1296x729_16-9.jpg"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-02T22:44:36.745Z",
+  "lastUpdated": "2026-07-02T23:47:35.634Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -1179,10 +1179,14 @@
         "total": 2.5,
         "book": "DraftKings"
       },
-      "status": "scheduled",
+      "status": "live",
       "id": "760496",
       "date": "2026-07-02T23:00Z",
-      "venue": "BMO Field"
+      "venue": "BMO Field",
+      "clock": 2700,
+      "displayClock": "45'+2'",
+      "detail": "45'+2'",
+      "period": 1
     },
     {
       "stage": "r32",

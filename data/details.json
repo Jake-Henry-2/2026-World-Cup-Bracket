@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-02T22:44:36.783Z",
+  "lastUpdated": "2026-07-02T23:47:35.742Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -74084,6 +74084,730 @@
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0701/dm_260701_DR_Congo_fans_in_London_loved_that_opening_goal_vs_England/dm_260701_DR_Congo_fans_in_London_loved_that_opening_goal_vs_England/playlist.m3u8"
       },
       "final": true,
+      "dv": 5
+    },
+    "760496": {
+      "venue": "BMO Field",
+      "stats": {
+        "home": {
+          "foulsCommitted": "3",
+          "yellowCards": "1",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "6",
+          "saves": "1",
+          "possessionPct": "70.4",
+          "totalShots": "9",
+          "shotsOnTarget": "1",
+          "shotPct": "0.1",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "309",
+          "totalPasses": "328",
+          "passPct": "0.9",
+          "accurateCrosses": "2",
+          "totalCrosses": "14",
+          "crossPct": "0.1",
+          "totalLongBalls": "16",
+          "accurateLongBalls": "10",
+          "longballPct": "0.6",
+          "blockedShots": "4",
+          "effectiveTackles": "2",
+          "totalTackles": "5",
+          "tacklePct": "0.4",
+          "interceptions": "2",
+          "effectiveClearance": "5",
+          "totalClearance": "5"
+        },
+        "away": {
+          "foulsCommitted": "5",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "1",
+          "wonCorners": "0",
+          "saves": "2",
+          "possessionPct": "29.6",
+          "totalShots": "3",
+          "shotsOnTarget": "1",
+          "shotPct": "0.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "114",
+          "totalPasses": "137",
+          "passPct": "0.8",
+          "accurateCrosses": "1",
+          "totalCrosses": "4",
+          "crossPct": "0.3",
+          "totalLongBalls": "21",
+          "accurateLongBalls": "6",
+          "longballPct": "0.3",
+          "blockedShots": "1",
+          "effectiveTackles": "4",
+          "totalTackles": "9",
+          "tacklePct": "0.4",
+          "interceptions": "5",
+          "effectiveClearance": "14",
+          "totalClearance": "14"
+        }
+      },
+      "events": [
+        {
+          "kind": "Yellow Card",
+          "min": "17'",
+          "side": "home",
+          "player": "Rúben Dias"
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Diogo Costa",
+            "short": "D. Costa",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Renato Veiga",
+            "short": "R. Veiga",
+            "num": "13",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Rúben Dias",
+            "short": "R. Dias",
+            "num": "3",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Nuno Mendes",
+            "short": "N. Mendes",
+            "num": "25",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "João Cancelo",
+            "short": "J. Cancelo",
+            "num": "20",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Bruno Fernandes",
+            "short": "B. Fernandes",
+            "num": "8",
+            "pos": "AM",
+            "place": "10"
+          },
+          {
+            "name": "Vitinha",
+            "short": "Vitinha",
+            "num": "23",
+            "pos": "LM",
+            "place": "4"
+          },
+          {
+            "name": "João Neves",
+            "short": "J. Neves",
+            "num": "15",
+            "pos": "RM",
+            "place": "8"
+          },
+          {
+            "name": "Cristiano Ronaldo",
+            "short": "C. Ronaldo",
+            "num": "7",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Rafael Leão",
+            "short": "R. Leão",
+            "num": "17",
+            "pos": "AM-L",
+            "place": "11"
+          },
+          {
+            "name": "Pedro Neto",
+            "short": "P. Neto",
+            "num": "18",
+            "pos": "AM-R",
+            "place": "7"
+          }
+        ],
+        "away": [
+          {
+            "name": "Dominik Livakovic",
+            "short": "D. Livakovic",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Marin Pongracic",
+            "short": "M. Pongracic",
+            "num": "3",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Josip Sutalo",
+            "short": "J. Sutalo",
+            "num": "6",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Ivan Perisic",
+            "short": "I. Perisic",
+            "num": "14",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Josip Stanisic",
+            "short": "J. Stanisic",
+            "num": "2",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Petar Sucic",
+            "short": "P. Sucic",
+            "num": "17",
+            "pos": "AM",
+            "place": "10"
+          },
+          {
+            "name": "Mateo Kovacic",
+            "short": "M. Kovacic",
+            "num": "8",
+            "pos": "LM",
+            "place": "4"
+          },
+          {
+            "name": "Luka Modric",
+            "short": "L. Modric",
+            "num": "10",
+            "pos": "RM",
+            "place": "8"
+          },
+          {
+            "name": "Ante Budimir",
+            "short": "A. Budimir",
+            "num": "11",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Martin Baturina",
+            "short": "M. Baturina",
+            "num": "16",
+            "pos": "AM-L",
+            "place": "11"
+          },
+          {
+            "name": "Nikola Vlasic",
+            "short": "N. Vlasic",
+            "num": "13",
+            "pos": "AM-R",
+            "place": "7"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Samú Costa",
+            "short": "S. Costa",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Rúben Neves",
+            "short": "R. Neves",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Tomás Araújo",
+            "short": "T. Araújo",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gonçalo Inácio",
+            "short": "G. Inácio",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Matheus Nunes",
+            "short": "M. Nunes",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "João Félix",
+            "short": "J. Félix",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nélson Semedo",
+            "short": "N. Semedo",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Francisco Conceição",
+            "short": "F. Conceição",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gonçalo Ramos",
+            "short": "G. Ramos",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gonçalo Guedes",
+            "short": "G. Guedes",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Rui Silva",
+            "short": "R. Silva",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Diogo Dalot",
+            "short": "D. Dalot",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Francisco Trincão",
+            "short": "F. Trincão",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Bernardo Silva",
+            "short": "B. Silva",
+            "num": "10",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "José Sá",
+            "short": "J. Sá",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Andrej Kramaric",
+            "short": "A. Kramaric",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Igor Matanovic",
+            "short": "I. Matanovic",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Luka Sucic",
+            "short": "L. Sucic",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Dominik Kotarski",
+            "short": "D. Kotarski",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mario Pasalic",
+            "short": "M. Pasalic",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Luka Vuskovic",
+            "short": "L. Vuskovic",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Josko Gvardiol",
+            "short": "J. Gvardiol",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nikola Moro",
+            "short": "N. Moro",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Duje Caleta-Car",
+            "short": "D. Caleta-Car",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Petar Musa",
+            "short": "P. Musa",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Marco Pasalic",
+            "short": "M. Pasalic",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Toni Fruk",
+            "short": "T. Fruk",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kristijan Jakic",
+            "short": "K. Jakic",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Martin Erlic",
+            "short": "M. Erlic",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ivor Pandur",
+            "short": "I. Pandur",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-2-3-1",
+        "away": "4-2-3-1"
+      },
+      "commentary": [
+        {
+          "min": "45'+2'",
+          "text": "Rúben Dias (Portugal) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "45'+1'",
+          "text": "Attempt missed. Rafael Leão (Portugal) right footed shot from the left side of the box is too high.",
+          "goal": false
+        },
+        {
+          "min": "45'+1'",
+          "text": "Nuno Mendes (Portugal) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "45'+1'",
+          "text": "Foul by Petar Sucic (Croatia).",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Fourth official has announced 4 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "40'",
+          "text": "Corner, Portugal. Conceded by Josip Sutalo.",
+          "goal": false
+        },
+        {
+          "min": "39'",
+          "text": "Corner, Portugal. Conceded by Josip Stanisic.",
+          "goal": false
+        },
+        {
+          "min": "37'",
+          "text": "Bruno Fernandes (Portugal) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "37'",
+          "text": "Foul by Petar Sucic (Croatia).",
+          "goal": false
+        },
+        {
+          "min": "34'",
+          "text": "Vitinha (Portugal) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "34'",
+          "text": "Foul by Nikola Vlasic (Croatia).",
+          "goal": false
+        },
+        {
+          "min": "34'",
+          "text": "Attempt blocked. Nuno Mendes (Portugal) right footed shot from outside the box is blocked. Assisted by João Cancelo.",
+          "goal": false
+        },
+        {
+          "min": "33'",
+          "text": "Corner, Portugal. Conceded by Ivan Perisic.",
+          "goal": false
+        },
+        {
+          "min": "29'",
+          "text": "Offside, Croatia. Nikola Vlasic is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "28'",
+          "text": "Attempt blocked. Martin Baturina (Croatia) left footed shot from outside the box is blocked. Assisted by Petar Sucic.",
+          "goal": false
+        },
+        {
+          "min": "27'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "24'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "24'",
+          "text": "Attempt missed. João Neves (Portugal) left footed shot from the left side of the six yard box is too high. Assisted by Nuno Mendes with a cross following a corner.",
+          "goal": false
+        },
+        {
+          "min": "23'",
+          "text": "Corner, Portugal. Conceded by Marin Pongracic.",
+          "goal": false
+        },
+        {
+          "min": "18'",
+          "text": "Foul by Renato Veiga (Portugal).",
+          "goal": false
+        },
+        {
+          "min": "18'",
+          "text": "Petar Sucic (Croatia) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "17'",
+          "text": "Rúben Dias (Portugal) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "17'",
+          "text": "Foul by Rúben Dias (Portugal).",
+          "goal": false
+        },
+        {
+          "min": "17'",
+          "text": "Ante Budimir (Croatia) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "16'",
+          "text": "Attempt missed. Renato Veiga (Portugal) header from the centre of the box is too high. Assisted by Nuno Mendes with a cross following a corner.",
+          "goal": false
+        },
+        {
+          "min": "15'",
+          "text": "Corner, Portugal. Conceded by Marin Pongracic.",
+          "goal": false
+        },
+        {
+          "min": "14'",
+          "text": "Foul by João Cancelo (Portugal).",
+          "goal": false
+        },
+        {
+          "min": "14'",
+          "text": "Ivan Perisic (Croatia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "13'",
+          "text": "Attempt blocked. Cristiano Ronaldo (Portugal) right footed shot from outside the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "11'",
+          "text": "Nuno Mendes (Portugal) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "11'",
+          "text": "Foul by Mateo Kovacic (Croatia).",
+          "goal": false
+        },
+        {
+          "min": "10'",
+          "text": "Attempt missed. Ante Budimir (Croatia) header from the centre of the box is too high. Assisted by Nikola Vlasic with a cross.",
+          "goal": false
+        },
+        {
+          "min": "7'",
+          "text": "Attempt missed. João Cancelo (Portugal) right footed shot from outside the box is too high following a corner.",
+          "goal": false
+        },
+        {
+          "min": "7'",
+          "text": "Corner, Portugal. Conceded by Dominik Livakovic.",
+          "goal": false
+        },
+        {
+          "min": "6'",
+          "text": "João Neves (Portugal) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "6'",
+          "text": "Foul by Petar Sucic (Croatia).",
+          "goal": false
+        },
+        {
+          "min": "4'",
+          "text": "Attempt blocked. Vitinha (Portugal) right footed shot from outside the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "4'",
+          "text": "Attempt blocked. Bruno Fernandes (Portugal) right footed shot from the left side of the six yard box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "4'",
+          "text": "Attempt saved. Bruno Fernandes (Portugal) right footed shot from the centre of the box is saved in the centre of the goal by Dominik Livakovic (Croatia). Assisted by Rafael Leão.",
+          "goal": false
+        },
+        {
+          "min": "3'",
+          "text": "Attempt missed. Ante Budimir (Croatia) left footed shot from the centre of the box is close, but misses to the left. Assisted by Nikola Vlasic.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "First Half begins.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "Lineups are announced and players are warming up.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "B. Fernandes",
+            "num": "8",
+            "pos": "M",
+            "value": "2"
+          },
+          "away": {
+            "name": "A. Budimir",
+            "num": "11",
+            "pos": "F",
+            "value": "2"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "Vitinha",
+            "num": "23",
+            "pos": "M",
+            "value": "57"
+          },
+          "away": {
+            "name": "M. Kovacic",
+            "num": "8",
+            "pos": "M",
+            "value": "22"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "R. Dias",
+            "num": "3",
+            "pos": "D",
+            "value": "4"
+          },
+          "away": {
+            "name": "J. Stanisic",
+            "num": "2",
+            "pos": "D",
+            "value": "8"
+          }
+        },
+        {
+          "label": "Saves",
+          "away": {
+            "name": "D. Livakovic",
+            "num": "1",
+            "pos": "G",
+            "value": "2"
+          }
+        }
+      ],
+      "highlight": null,
+      "final": false,
       "dv": 5
     },
     "760497": {

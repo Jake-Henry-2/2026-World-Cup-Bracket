@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T20:53:26.670Z",
+  "lastUpdated": "2026-07-03T22:01:32.825Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -76793,8 +76793,8 @@
           "accurateCrosses": "7",
           "totalCrosses": "24",
           "crossPct": "0.3",
-          "totalLongBalls": "58",
-          "accurateLongBalls": "19",
+          "totalLongBalls": "59",
+          "accurateLongBalls": "20",
           "longballPct": "0.3",
           "blockedShots": "9",
           "effectiveTackles": "7",
@@ -76813,8 +76813,8 @@
           "saves": "1",
           "possessionPct": "58.3",
           "totalShots": "14",
-          "shotsOnTarget": "4",
-          "shotPct": "0.3",
+          "shotsOnTarget": "3",
+          "shotPct": "0.2",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
           "accuratePasses": "614",
@@ -76823,8 +76823,8 @@
           "accurateCrosses": "6",
           "totalCrosses": "24",
           "crossPct": "0.3",
-          "totalLongBalls": "74",
-          "accurateLongBalls": "35",
+          "totalLongBalls": "77",
+          "accurateLongBalls": "36",
           "longballPct": "0.5",
           "blockedShots": "6",
           "effectiveTackles": "6",
@@ -77274,6 +77274,61 @@
       },
       "commentary": [
         {
+          "min": "",
+          "text": "Match ends, Australia 1(2), Egypt 1(4).",
+          "goal": false
+        },
+        {
+          "min": "120'",
+          "text": "Penalty Shootout ends, Australia 1(2), Egypt 1(4).",
+          "goal": false
+        },
+        {
+          "min": "120'",
+          "text": "Goal! Australia 1(2), Egypt 1(4). Hossam Abdelmaguid (Egypt) converts the penalty with a right footed shot to the bottom left corner.",
+          "goal": false
+        },
+        {
+          "min": "120'",
+          "text": "Penalty missed! Still Australia 1(2), Egypt 1(3). Lucas Herrington (Australia) hits the bar with a right footed shot.",
+          "goal": false
+        },
+        {
+          "min": "120'",
+          "text": "Goal! Australia 1(2), Egypt 1(3). Mohamed Salah (Egypt) converts the penalty with a left footed shot to the centre of the goal.",
+          "goal": false
+        },
+        {
+          "min": "120'",
+          "text": "Goal! Australia 1(2), Egypt 1(2). Awer Mabil (Australia) converts the penalty with a right footed shot to the centre of the goal.",
+          "goal": false
+        },
+        {
+          "min": "120'",
+          "text": "Goal! Australia 1(1), Egypt 1(2). Ramy Rabia (Egypt) converts the penalty with a right footed shot to the bottom left corner.",
+          "goal": false
+        },
+        {
+          "min": "120'",
+          "text": "Goal! Australia 1(1), Egypt 1(1). Jackson Irvine (Australia) converts the penalty with a right footed shot to the top right corner.",
+          "goal": false
+        },
+        {
+          "min": "120'",
+          "text": "Goal! Australia 1, Egypt 1(1). Mahmoud Saber (Egypt) converts the penalty with a right footed shot to the bottom left corner.",
+          "goal": false
+        },
+        {
+          "min": "120'",
+          "text": "Penalty missed. Harry Souttar (Australia) right footed shot is just a bit too high.",
+          "goal": false
+        },
+        {
+          "min": "120'",
+          "text": "Penalty Shootout begins Australia 1, Egypt 1.",
+          "goal": false
+        },
+        {
           "min": "120'+3'",
           "text": "Second Half Extra Time ends, Australia 1, Egypt 1.",
           "goal": false
@@ -77395,7 +77450,7 @@
         },
         {
           "min": "109'",
-          "text": "Attempt saved. Marwan Attia (Egypt) right footed shot from outside the box is saved in the bottom left corner by Patrick Beach (Australia). Assisted by Emam Ashour.",
+          "text": "Attempt missed. Marwan Attia (Egypt) right footed shot from outside the box misses to the left. Assisted by Emam Ashour.",
           "goal": false
         },
         {
@@ -77517,61 +77572,6 @@
           "min": "90'",
           "text": "Substitution, Australia. Awer Mabil replaces Connor Metcalfe.",
           "goal": false
-        },
-        {
-          "min": "90'",
-          "text": "Substitution, Australia. Paul Okon-Engstler replaces Aiden O'Neill.",
-          "goal": false
-        },
-        {
-          "min": "90'+6'",
-          "text": "Second Half ends, Australia 1, Egypt 1.",
-          "goal": false
-        },
-        {
-          "min": "90'+6'",
-          "text": "Attempt blocked. Haissem Hassan (Egypt) right footed shot from the centre of the box is blocked. Assisted by Mohamed Salah.",
-          "goal": false
-        },
-        {
-          "min": "90'+5'",
-          "text": "Attempt blocked. Marwan Attia (Egypt) right footed shot from outside the box is blocked. Assisted by Mohamed Salah.",
-          "goal": false
-        },
-        {
-          "min": "90'+4'",
-          "text": "Attempt saved. Mohamed Salah (Egypt) left footed shot from the right side of the box is saved in the top right corner by Patrick Beach (Australia).",
-          "goal": false
-        },
-        {
-          "min": "90'+4'",
-          "text": "Corner, Egypt. Conceded by Patrick Beach.",
-          "goal": false
-        },
-        {
-          "min": "90'+3'",
-          "text": "Attempt saved. Ramy Rabia (Egypt) header from the centre of the box is saved in the top centre of the goal by Patrick Beach (Australia). Assisted by Mohamed Salah with a cross.",
-          "goal": false
-        },
-        {
-          "min": "90'+3'",
-          "text": "Corner, Egypt. Conceded by Mohamed Touré.",
-          "goal": false
-        },
-        {
-          "min": "90'+1'",
-          "text": "Corner, Egypt. Conceded by Alessandro Circati.",
-          "goal": false
-        },
-        {
-          "min": "90'",
-          "text": "Fourth official has announced 5 minutes of added time.",
-          "goal": false
-        },
-        {
-          "min": "88'",
-          "text": "Emam Ashour (Egypt) wins a free kick in the defensive half.",
-          "goal": false
         }
       ],
       "leaders": [
@@ -77643,6 +77643,468 @@
         "mp4": "https://media.video-cdn.espn.com/motion/2026/0703/dm_260703_Egypt_fans_in_Cairo_celebrate_opening_goal_vs_Australia/dm_260703_Egypt_fans_in_Cairo_celebrate_opening_goal_vs_Australia_360p30_1464k.mp4",
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0703/dm_260703_Egypt_fans_in_Cairo_celebrate_opening_goal_vs_Australia/dm_260703_Egypt_fans_in_Cairo_celebrate_opening_goal_vs_Australia/playlist.m3u8"
       },
+      "final": true,
+      "dv": 5
+    },
+    "760500": {
+      "venue": "Hard Rock Stadium",
+      "stats": {
+        "home": {
+          "foulsCommitted": "0",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "0",
+          "saves": "0",
+          "possessionPct": "0",
+          "totalShots": "0",
+          "shotsOnTarget": "0",
+          "shotPct": "0.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "0",
+          "totalPasses": "0",
+          "passPct": "0.0",
+          "accurateCrosses": "0",
+          "totalCrosses": "0",
+          "crossPct": "0.0",
+          "totalLongBalls": "0",
+          "accurateLongBalls": "0",
+          "longballPct": "0.0",
+          "blockedShots": "0",
+          "effectiveTackles": "0",
+          "totalTackles": "0",
+          "tacklePct": "0.0",
+          "interceptions": "0",
+          "effectiveClearance": "0",
+          "totalClearance": "0"
+        },
+        "away": {
+          "foulsCommitted": "0",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "0",
+          "saves": "0",
+          "possessionPct": "0",
+          "totalShots": "0",
+          "shotsOnTarget": "0",
+          "shotPct": "0.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "0",
+          "totalPasses": "0",
+          "passPct": "0.0",
+          "accurateCrosses": "0",
+          "totalCrosses": "0",
+          "crossPct": "0.0",
+          "totalLongBalls": "0",
+          "accurateLongBalls": "0",
+          "longballPct": "0.0",
+          "blockedShots": "0",
+          "effectiveTackles": "0",
+          "totalTackles": "0",
+          "tacklePct": "0.0",
+          "interceptions": "0",
+          "effectiveClearance": "0",
+          "totalClearance": "0"
+        }
+      },
+      "events": [],
+      "lineups": {
+        "home": [
+          {
+            "name": "Emiliano Martínez",
+            "short": "E. Martínez",
+            "num": "23",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Lisandro Martínez",
+            "short": "L. Martínez",
+            "num": "6",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Cristian Romero",
+            "short": "C. Romero",
+            "num": "13",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Facundo Medina",
+            "short": "F. Medina",
+            "num": "25",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Nahuel Molina",
+            "short": "N. Molina",
+            "num": "26",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Enzo Fernández",
+            "short": "E. Fernández",
+            "num": "24",
+            "pos": "CM-L",
+            "place": "8"
+          },
+          {
+            "name": "Alexis Mac Allister",
+            "short": "A. Mac Allister",
+            "num": "20",
+            "pos": "CM-R",
+            "place": "4"
+          },
+          {
+            "name": "Thiago Almada",
+            "short": "T. Almada",
+            "num": "16",
+            "pos": "LM",
+            "place": "11"
+          },
+          {
+            "name": "Rodrigo De Paul",
+            "short": "R. De Paul",
+            "num": "7",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Lautaro Martínez",
+            "short": "L. Martínez",
+            "num": "22",
+            "pos": "CF-L",
+            "place": "9"
+          },
+          {
+            "name": "Lionel Messi",
+            "short": "L. Messi",
+            "num": "10",
+            "pos": "CF-R",
+            "place": "10"
+          }
+        ],
+        "away": [
+          {
+            "name": "Vozinha",
+            "short": "Vozinha",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Diney Borges",
+            "short": "D. Borges",
+            "num": "3",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Pico Lopes",
+            "short": "P. Lopes",
+            "num": "4",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Kevin Pina",
+            "short": "K. Pina",
+            "num": "6",
+            "pos": "DM",
+            "place": "4"
+          },
+          {
+            "name": "Sidny Lopes Cabral",
+            "short": "S. Lopes Cabral",
+            "num": "13",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Steven Moreira",
+            "short": "S. Moreira",
+            "num": "22",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Deroy Duarte",
+            "short": "D. Duarte",
+            "num": "14",
+            "pos": "CM-L",
+            "place": "10"
+          },
+          {
+            "name": "Laros Duarte",
+            "short": "L. Duarte",
+            "num": "15",
+            "pos": "CM-R",
+            "place": "8"
+          },
+          {
+            "name": "Jovane Cabral",
+            "short": "J. Cabral",
+            "num": "7",
+            "pos": "LM",
+            "place": "11"
+          },
+          {
+            "name": "Ryan Mendes",
+            "short": "R. Mendes",
+            "num": "20",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Nuno da Costa",
+            "short": "N. da Costa",
+            "num": "21",
+            "pos": "F",
+            "place": "9"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Nicolás Tagliafico",
+            "short": "N. Tagliafico",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Valentín Barco",
+            "short": "V. Barco",
+            "num": "8",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Exequiel Palacios",
+            "short": "E. Palacios",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gonzalo Montiel",
+            "short": "G. Montiel",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nico Paz",
+            "short": "N. Paz",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "José Manuel López",
+            "short": "J. López",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Giovani Lo Celso",
+            "short": "G. Lo Celso",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Giuliano Simeone",
+            "short": "G. Simeone",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Julián Álvarez",
+            "short": "J. Álvarez",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nico González",
+            "short": "N. González",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Juan Musso",
+            "short": "J. Musso",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gerónimo Rulli",
+            "short": "G. Rulli",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Leandro Paredes",
+            "short": "L. Paredes",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nicolás Otamendi",
+            "short": "N. Otamendi",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Marcos Senesi",
+            "short": "M. Senesi",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Telmo Arcanjo",
+            "short": "T. Arcanjo",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Márcio Rosa",
+            "short": "M. Rosa",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Yannick Semedo",
+            "short": "Y. Semedo",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Stopira",
+            "short": "Stopira",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Logan Costa",
+            "short": "L. Costa",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Garry Rodrigues",
+            "short": "G. Rodrigues",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kelvin Pires",
+            "short": "K. Pires",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Hélio Varela",
+            "short": "H. Varela",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Dailon Livramento",
+            "short": "D. Livramento",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jamiro Monteiro",
+            "short": "J. Monteiro",
+            "num": "10",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "João Paulo",
+            "short": "J. Paulo",
+            "num": "8",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Willy Semedo",
+            "short": "W. Semedo",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Wagner Pina",
+            "short": "W. Pina",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gilson Benchimol",
+            "short": "G. Benchimol",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "CJ dos Santos",
+            "short": "C. dos Santos",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-4-2",
+        "away": "4-1-4-1"
+      },
+      "commentary": [
+        {
+          "min": "",
+          "text": "First Half begins.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "Lineups are announced and players are warming up.",
+          "goal": false
+        }
+      ],
+      "leaders": [],
+      "highlight": null,
       "final": false,
       "dv": 5
     }

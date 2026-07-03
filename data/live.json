@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T20:53:26.316Z",
+  "lastUpdated": "2026-07-03T22:01:32.521Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -1199,22 +1199,12 @@
       "homeScore": 1,
       "awayScore": 1,
       "homeWinner": false,
-      "awayWinner": false,
-      "odds": {
-        "home": 255,
-        "away": 150,
-        "draw": 175,
-        "total": 1.5,
-        "book": "DraftKings"
-      },
-      "status": "live",
+      "awayWinner": true,
+      "odds": null,
+      "status": "finished",
       "id": "760499",
       "date": "2026-07-03T18:00Z",
-      "venue": "AT&T Stadium",
-      "clock": 7200,
-      "displayClock": "120'+2'",
-      "detail": "AET-pens",
-      "period": 4
+      "venue": "AT&T Stadium"
     },
     {
       "stage": "r32",
@@ -1226,15 +1216,19 @@
       "awayWinner": false,
       "odds": {
         "home": -700,
-        "away": 1700,
+        "away": 1800,
         "draw": 700,
         "total": 2.5,
         "book": "DraftKings"
       },
-      "status": "scheduled",
+      "status": "live",
       "id": "760500",
       "date": "2026-07-03T22:00Z",
-      "venue": "Hard Rock Stadium"
+      "venue": "Hard Rock Stadium",
+      "clock": 60,
+      "displayClock": "1'",
+      "detail": "1'",
+      "period": 1
     },
     {
       "stage": "r32",
@@ -1265,9 +1259,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 330,
-        "away": -110,
-        "draw": 235,
+        "home": 340,
+        "away": -115,
+        "draw": 240,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -1285,8 +1279,8 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 1700,
-        "away": -550,
+        "home": 1600,
+        "away": -525,
         "draw": 550,
         "total": 2.5,
         "book": "DraftKings"
@@ -1345,8 +1339,8 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 300,
-        "away": -115,
+        "home": 295,
+        "away": -110,
         "draw": 265,
         "total": 2.5,
         "book": "DraftKings"
@@ -1379,7 +1373,7 @@
     {
       "stage": "r16",
       "home": "Round of 32 14 Winner",
-      "away": "Round of 32 16 Winner",
+      "away": "Egypt",
       "homeScore": 0,
       "awayScore": 0,
       "homeWinner": false,

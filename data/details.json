@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T16:55:18.054Z",
+  "lastUpdated": "2026-07-03T18:12:38.301Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -76769,6 +76769,503 @@
       ],
       "highlight": null,
       "final": true,
+      "dv": 5
+    },
+    "760499": {
+      "venue": "AT&T Stadium",
+      "stats": {
+        "home": {
+          "foulsCommitted": "1",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "1",
+          "saves": "0",
+          "possessionPct": "30.4",
+          "totalShots": "1",
+          "shotsOnTarget": "0",
+          "shotPct": "0.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "26",
+          "totalPasses": "37",
+          "passPct": "0.7",
+          "accurateCrosses": "0",
+          "totalCrosses": "1",
+          "crossPct": "0.0",
+          "totalLongBalls": "7",
+          "accurateLongBalls": "2",
+          "longballPct": "0.3",
+          "blockedShots": "0",
+          "effectiveTackles": "1",
+          "totalTackles": "2",
+          "tacklePct": "0.5",
+          "interceptions": "1",
+          "effectiveClearance": "2",
+          "totalClearance": "2"
+        },
+        "away": {
+          "foulsCommitted": "1",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "0",
+          "saves": "0",
+          "possessionPct": "69.6",
+          "totalShots": "0",
+          "shotsOnTarget": "0",
+          "shotPct": "0.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "76",
+          "totalPasses": "86",
+          "passPct": "0.9",
+          "accurateCrosses": "1",
+          "totalCrosses": "1",
+          "crossPct": "1.0",
+          "totalLongBalls": "8",
+          "accurateLongBalls": "4",
+          "longballPct": "0.5",
+          "blockedShots": "0",
+          "effectiveTackles": "3",
+          "totalTackles": "5",
+          "tacklePct": "0.6",
+          "interceptions": "0",
+          "effectiveClearance": "3",
+          "totalClearance": "3"
+        }
+      },
+      "events": [],
+      "lineups": {
+        "home": [
+          {
+            "name": "Patrick Beach",
+            "short": "P. Beach",
+            "num": "18",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Harry Souttar",
+            "short": "H. Souttar",
+            "num": "19",
+            "pos": "CD",
+            "place": "5"
+          },
+          {
+            "name": "Lucas Herrington",
+            "short": "L. Herrington",
+            "num": "25",
+            "pos": "CD-L",
+            "place": "4"
+          },
+          {
+            "name": "Alessandro Circati",
+            "short": "A. Circati",
+            "num": "3",
+            "pos": "CD-R",
+            "place": "6"
+          },
+          {
+            "name": "Aiden O'Neill",
+            "short": "A. O'Neill",
+            "num": "13",
+            "pos": "CM-L",
+            "place": "8"
+          },
+          {
+            "name": "Jackson Irvine",
+            "short": "J. Irvine",
+            "num": "22",
+            "pos": "CM-R",
+            "place": "7"
+          },
+          {
+            "name": "Aziz Behich",
+            "short": "A. Behich",
+            "num": "16",
+            "pos": "LM",
+            "place": "3"
+          },
+          {
+            "name": "Jordan Bos",
+            "short": "J. Bos",
+            "num": "5",
+            "pos": "RM",
+            "place": "2"
+          },
+          {
+            "name": "Nestory Irankunda",
+            "short": "N. Irankunda",
+            "num": "17",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Connor Metcalfe",
+            "short": "C. Metcalfe",
+            "num": "8",
+            "pos": "CF-L",
+            "place": "11"
+          },
+          {
+            "name": "Cristian Volpato",
+            "short": "C. Volpato",
+            "num": "20",
+            "pos": "CF-R",
+            "place": "10"
+          }
+        ],
+        "away": [
+          {
+            "name": "Mostafa Shoubir",
+            "short": "M. Shoubir",
+            "num": "23",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Ramy Rabia",
+            "short": "R. Rabia",
+            "num": "5",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Yasser Ibrahim",
+            "short": "Y. Ibrahim",
+            "num": "2",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Karim Hafez",
+            "short": "K. Hafez",
+            "num": "15",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Mohamed Hany",
+            "short": "M. Hany",
+            "num": "3",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Mohamed Salah",
+            "short": "M. Salah",
+            "num": "10",
+            "pos": "AM",
+            "place": "10"
+          },
+          {
+            "name": "Marawan Attia",
+            "short": "M. Attia",
+            "num": "19",
+            "pos": "LM",
+            "place": "4"
+          },
+          {
+            "name": "Hamdy Fathy",
+            "short": "H. Fathy",
+            "num": "14",
+            "pos": "RM",
+            "place": "8"
+          },
+          {
+            "name": "Mostafa Zico",
+            "short": "M. Zico",
+            "num": "11",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Omar Marmoush",
+            "short": "O. Marmoush",
+            "num": "22",
+            "pos": "AM-L",
+            "place": "11"
+          },
+          {
+            "name": "Emam Ashour",
+            "short": "E. Ashour",
+            "num": "8",
+            "pos": "AM-R",
+            "place": "7"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Cameron Devlin",
+            "short": "C. Devlin",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ajdin Hrustic",
+            "short": "A. Hrustic",
+            "num": "10",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Cameron Burgess",
+            "short": "C. Burgess",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nishan Velupillay",
+            "short": "N. Velupillay",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kai Trewin",
+            "short": "K. Trewin",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Milos Degenek",
+            "short": "M. Degenek",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Awer Mabil",
+            "short": "A. Mabil",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mohamed Toure",
+            "short": "M. Toure",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Tete Yengi",
+            "short": "T. Yengi",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jason Geria",
+            "short": "J. Geria",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mathew Ryan",
+            "short": "M. Ryan",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Paul Okon-Engstler",
+            "short": "P. Okon-Engstler",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Paul Izzo",
+            "short": "P. Izzo",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Mahdy Soliman",
+            "short": "M. Soliman",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Zizo",
+            "short": "Zizo",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ibrahim Adel",
+            "short": "I. Adel",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mohamed Alaa",
+            "short": "M. Alaa",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Tarek Alaa",
+            "short": "T. Alaa",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Hossam Abdelmaguid",
+            "short": "H. Abdelmaguid",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Haissem Hassan",
+            "short": "H. Hassan",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mohamed El Shenawy",
+            "short": "M. El Shenawy",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Hamza Abdelkarim",
+            "short": "H. Abdelkarim",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mahmoud Saber",
+            "short": "M. Saber",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nabil Donga",
+            "short": "N. Donga",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Trézéguet",
+            "short": "Trézéguet",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "3-4-2-1",
+        "away": "4-2-3-1"
+      },
+      "commentary": [
+        {
+          "min": "11'",
+          "text": "Yasser Ibrahim (Egypt) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "11'",
+          "text": "Foul by Connor Metcalfe (Australia).",
+          "goal": false
+        },
+        {
+          "min": "9'",
+          "text": "Foul by Yasser Ibrahim (Egypt).",
+          "goal": false
+        },
+        {
+          "min": "9'",
+          "text": "Jackson Irvine (Australia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "6'",
+          "text": "Corner, Australia. Conceded by Mohamed Hany.",
+          "goal": false
+        },
+        {
+          "min": "5'",
+          "text": "Cristian Volpato (Australia) hits the bar with a left footed shot from outside the box. Assisted by Alessandro Circati.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "First Half begins.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "Lineups are announced and players are warming up.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "C. Volpato",
+            "num": "20",
+            "pos": "M",
+            "value": "1"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "A. O'Neill",
+            "num": "13",
+            "pos": "M",
+            "value": "5"
+          },
+          "away": {
+            "name": "H. Fathy",
+            "num": "14",
+            "pos": "M",
+            "value": "14"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "L. Herrington",
+            "num": "25",
+            "pos": "D",
+            "value": "2"
+          },
+          "away": {
+            "name": "M. Shoubir",
+            "num": "23",
+            "pos": "G",
+            "value": "3"
+          }
+        }
+      ],
+      "highlight": null,
+      "final": false,
       "dv": 5
     }
   }

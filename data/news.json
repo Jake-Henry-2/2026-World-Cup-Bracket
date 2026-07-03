@@ -1,20 +1,34 @@
 {
-  "lastUpdated": "2026-07-03T16:55:18.040Z",
+  "lastUpdated": "2026-07-03T18:12:38.260Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Socceroos vs. Egypt live: World Cup history beckons for Australia",
+      "description": "It's all on the line as the Socceroos take on Egypt in Dallas in the round of 32 at the 2026 FIFA World Cup. Follow the action with ESPN live from Dallas, Texas.",
+      "published": "2026-07-03T18:07:42Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49243543/socceroos-vs-egypt-live-world-cup-history-beckons-australia",
+      "image": "https://a.espncdn.com/photo/2026/0703/r1683921_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "World Cup Daily live: Travel chaos sees Speed miss Ronaldo game; Australia face Egypt",
+      "description": "It's the final day of the round of 32 at the 2026 FIFA World Cup as we decide the final three spots for the round of 16.",
+      "published": "2026-07-03T17:53:12Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49255647/world-cup-daily-live-travel-chaos-sees-speed-miss-cristiano-ronaldo-game-messi-action",
+      "image": "https://a.espncdn.com/photo/2026/0703/r1683730_832x468_16-9.png"
+    },
+    {
+      "headline": "Hutchison: Messi will be thinking of the Golden Boot vs. Cape Verde",
+      "description": "Hutchison: Messi will be thinking of the Golden Boot vs. Cape Verde",
+      "published": "2026-07-03T16:57:21Z",
+      "link": "https://www.espn.com/video/clip/_/id/49259618/messi-thinking-golden-boot-vs-cape-verde",
+      "image": "https://a.espncdn.com/media/motion/2026/0703/dm_260703_Hutchison_Messi_will_be_thinking_of_the_Golden_Boot_vs_Cape_Verde/dm_260703_Hutchison_Messi_will_be_thinking_of_the_Golden_Boot_vs_Cape_Verde.jpg"
+    },
     {
       "headline": "Mario Suárez expects Ronaldo's work rate to hurt Portugal against Spain",
       "description": "Mario Suárez expects Ronaldo's work rate to hurt Portugal against Spain",
       "published": "2026-07-03T16:36:49Z",
       "link": "https://www.espn.com/video/clip/_/id/49259509/mario-suarez-expects-ronaldo-work-rate-hurt-portugal-spain",
       "image": "https://a.espncdn.com/media/motion/2026/0703/dm_260703_Mario_Suarez_expects_Ronaldos_work_rate_to_hurt_Portugal_against_Spain/dm_260703_Mario_Suarez_expects_Ronaldos_work_rate_to_hurt_Portugal_against_Spain.jpg"
-    },
-    {
-      "headline": "World Cup Daily live: Travel chaos sees Speed miss Ronaldo game; Messi in action",
-      "description": "It's the final day of the round of 32 at the 2026 FIFA World Cup as we decide the final three spots for the round of 16.",
-      "published": "2026-07-03T16:32:13Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49255647/world-cup-daily-live-travel-chaos-sees-speed-miss-cristiano-ronaldo-game-messi-action",
-      "image": "https://a.espncdn.com/photo/2026/0703/r1683730_832x468_16-9.png"
     },
     {
       "headline": "Every team's championship odds for the 2026 World Cup",
@@ -29,20 +43,6 @@
       "published": "2026-07-03T16:07:32Z",
       "link": "https://www.espn.com/soccer/story/_/id/48352807/world-cup-2026-kit-ranking-canada-mexico-united-states-argentina-australia-brazil-england-france-germany-portugal-spain",
       "image": "https://a.espncdn.com/photo/2026/0401/r1637137_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "World Cup: Grades for every eliminated team as they exit the tournament",
-      "description": "When the World Cup ends, 47 teams will have been eliminated, and we're grading every one on how their run compared with expectations.",
-      "published": "2026-07-03T15:11:17Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49178425/world-cup-grades-every-eliminated-team-rating-exit-tournament",
-      "image": "https://a.espncdn.com/photo/2026/0624/r1678956_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Cape Verde head coach has 'belief' in a victory vs. Argentina",
-      "description": "Cape Verde head coach has 'belief' in a victory vs. Argentina.",
-      "published": "2026-07-03T14:15:13Z",
-      "link": "https://www.espn.com/video/clip/_/id/49258702/cape-verde-head-coach-belief-victory-vs-argentina",
-      "image": "https://a.espncdn.com/media/motion/2026/0703/dm_260703_Cape_Verde_head_coach_has_belief_in_a_victory_vs_Argentina/dm_260703_Cape_Verde_head_coach_has_belief_in_a_victory_vs_Argentina.jpg"
     }
   ]
 }

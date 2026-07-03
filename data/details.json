@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T19:51:48.116Z",
+  "lastUpdated": "2026-07-03T20:53:26.670Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -76775,64 +76775,64 @@
       "venue": "AT&T Stadium",
       "stats": {
         "home": {
-          "foulsCommitted": "7",
+          "foulsCommitted": "12",
           "yellowCards": "0",
           "redCards": "0",
           "offsides": "0",
           "wonCorners": "4",
-          "saves": "0",
-          "possessionPct": "46.2",
-          "totalShots": "12",
+          "saves": "3",
+          "possessionPct": "41.7",
+          "totalShots": "16",
           "shotsOnTarget": "1",
           "shotPct": "0.1",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "332",
-          "totalPasses": "405",
+          "accuratePasses": "404",
+          "totalPasses": "507",
           "passPct": "0.8",
-          "accurateCrosses": "6",
-          "totalCrosses": "19",
+          "accurateCrosses": "7",
+          "totalCrosses": "24",
           "crossPct": "0.3",
-          "totalLongBalls": "42",
-          "accurateLongBalls": "14",
+          "totalLongBalls": "58",
+          "accurateLongBalls": "19",
           "longballPct": "0.3",
-          "blockedShots": "7",
+          "blockedShots": "9",
           "effectiveTackles": "7",
-          "totalTackles": "9",
-          "tacklePct": "0.8",
-          "interceptions": "5",
-          "effectiveClearance": "10",
-          "totalClearance": "10"
+          "totalTackles": "10",
+          "tacklePct": "0.7",
+          "interceptions": "9",
+          "effectiveClearance": "29",
+          "totalClearance": "29"
         },
         "away": {
-          "foulsCommitted": "8",
-          "yellowCards": "0",
+          "foulsCommitted": "14",
+          "yellowCards": "2",
           "redCards": "0",
           "offsides": "3",
-          "wonCorners": "0",
+          "wonCorners": "7",
           "saves": "1",
-          "possessionPct": "53.8",
-          "totalShots": "6",
-          "shotsOnTarget": "1",
-          "shotPct": "0.2",
+          "possessionPct": "58.3",
+          "totalShots": "14",
+          "shotsOnTarget": "4",
+          "shotPct": "0.3",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "415",
-          "totalPasses": "488",
-          "passPct": "0.9",
-          "accurateCrosses": "2",
-          "totalCrosses": "7",
+          "accuratePasses": "614",
+          "totalPasses": "723",
+          "passPct": "0.8",
+          "accurateCrosses": "6",
+          "totalCrosses": "24",
           "crossPct": "0.3",
-          "totalLongBalls": "51",
-          "accurateLongBalls": "21",
-          "longballPct": "0.4",
-          "blockedShots": "3",
-          "effectiveTackles": "5",
-          "totalTackles": "12",
+          "totalLongBalls": "74",
+          "accurateLongBalls": "35",
+          "longballPct": "0.5",
+          "blockedShots": "6",
+          "effectiveTackles": "6",
+          "totalTackles": "16",
           "tacklePct": "0.4",
-          "interceptions": "6",
-          "effectiveClearance": "34",
-          "totalClearance": "34"
+          "interceptions": "8",
+          "effectiveClearance": "37",
+          "totalClearance": "37"
         }
       },
       "events": [
@@ -76883,6 +76883,48 @@
           "min": "80'",
           "side": "away",
           "player": "Substitution, Egypt. Trezeguet replaces Karim Hafez because of an injury."
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'",
+          "side": "home",
+          "player": "Substitution, Australia. Paul Okon-Engstler replaces Aiden O'Neill."
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'",
+          "side": "home",
+          "player": "Substitution, Australia. Awer Mabil replaces Connor Metcalfe."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "105'",
+          "side": "away",
+          "player": "Haissem Hassan"
+        },
+        {
+          "kind": "Substitution",
+          "min": "105'",
+          "side": "away",
+          "player": "Substitution, Egypt. Hamza Abdelkarim replaces Omar Marmoush."
+        },
+        {
+          "kind": "Substitution",
+          "min": "119'",
+          "side": "home",
+          "player": "Substitution, Australia. Mathew Ryan replaces Patrick Beach."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "120'",
+          "side": "away",
+          "player": "Yasser Ibrahim"
+        },
+        {
+          "kind": "Substitution",
+          "min": "120'+1'",
+          "side": "away",
+          "player": "Substitution, Egypt. Mahmoud Saber replaces Marwan Attia."
         }
       ],
       "lineups": {
@@ -77232,303 +77274,303 @@
       },
       "commentary": [
         {
-          "min": "88'",
+          "min": "120'+3'",
+          "text": "Second Half Extra Time ends, Australia 1, Egypt 1.",
+          "goal": false
+        },
+        {
+          "min": "120'+3'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "120'+2'",
+          "text": "Delay in match because of an injury Yasser Ibrahim (Egypt).",
+          "goal": false
+        },
+        {
+          "min": "120'+2'",
+          "text": "Delay in match because of an injury Alessandro Circati (Australia).",
+          "goal": false
+        },
+        {
+          "min": "120'+2'",
+          "text": "Attempt missed. Mohamed Touré (Australia) right footed shot from the centre of the box misses to the right following a set piece situation.",
+          "goal": false
+        },
+        {
+          "min": "120'+2'",
+          "text": "Attempt blocked. Alessandro Circati (Australia) header from the centre of the box is blocked. Assisted by Ajdin Hrustic with a cross.",
+          "goal": false
+        },
+        {
+          "min": "120'+1'",
+          "text": "Substitution, Egypt. Mahmoud Saber replaces Marwan Attia.",
+          "goal": false
+        },
+        {
+          "min": "120'",
+          "text": "Fourth official has announced 1 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "120'",
+          "text": "Yasser Ibrahim (Egypt) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "120'",
+          "text": "Foul by Yasser Ibrahim (Egypt).",
+          "goal": false
+        },
+        {
+          "min": "120'",
+          "text": "Mohamed Touré (Australia) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "119'",
+          "text": "Substitution, Australia. Mathew Ryan replaces Patrick Beach.",
+          "goal": false
+        },
+        {
+          "min": "118'",
           "text": "Emam Ashour (Egypt) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "88'",
-          "text": "Foul by Aiden O'Neill (Australia).",
-          "goal": false
-        },
-        {
-          "min": "88'",
-          "text": "Attempt blocked. Kai Trewin (Australia) right footed shot from outside the box is blocked.",
-          "goal": false
-        },
-        {
-          "min": "88'",
-          "text": "Attempt blocked. Jackson Irvine (Australia) header from the right side of the six yard box is blocked. Assisted by Ajdin Hrustic with a cross.",
-          "goal": false
-        },
-        {
-          "min": "87'",
-          "text": "Corner, Australia. Conceded by Ramy Rabia.",
-          "goal": false
-        },
-        {
-          "min": "86'",
-          "text": "Attempt blocked. Ajdin Hrustic (Australia) left footed shot from the right side of the box is blocked. Assisted by Connor Metcalfe.",
-          "goal": false
-        },
-        {
-          "min": "86'",
-          "text": "Attempt blocked. Marwan Attia (Egypt) right footed shot from outside the box is blocked.",
-          "goal": false
-        },
-        {
-          "min": "82'",
-          "text": "Ramy Rabia (Egypt) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "82'",
+          "min": "118'",
           "text": "Foul by Harry Souttar (Australia).",
           "goal": false
         },
         {
-          "min": "81'",
-          "text": "Attempt blocked. Connor Metcalfe (Australia) left footed shot from outside the box is blocked. Assisted by Jackson Irvine.",
+          "min": "118'",
+          "text": "Attempt blocked. Awer Mabil (Australia) right footed shot from outside the box is blocked.",
           "goal": false
         },
         {
-          "min": "81'",
-          "text": "Foul by Marwan Attia (Egypt).",
+          "min": "117'",
+          "text": "Foul by Mohamed Hany (Egypt).",
           "goal": false
         },
         {
-          "min": "81'",
-          "text": "Aiden O'Neill (Australia) wins a free kick on the left wing.",
+          "min": "117'",
+          "text": "Awer Mabil (Australia) wins a free kick in the attacking half.",
           "goal": false
         },
         {
-          "min": "80'",
-          "text": "Delay over. They are ready to continue.",
+          "min": "115'",
+          "text": "Corner, Egypt. Conceded by Lucas Herrington.",
           "goal": false
         },
         {
-          "min": "80'",
-          "text": "Substitution, Egypt. Trezeguet replaces Karim Hafez because of an injury.",
+          "min": "113'",
+          "text": "Corner, Egypt. Conceded by Harry Souttar.",
           "goal": false
         },
         {
-          "min": "79'",
-          "text": "Delay in match because of an injury Karim Hafez (Egypt).",
+          "min": "112'",
+          "text": "Corner, Egypt. Conceded by Jackson Irvine.",
           "goal": false
         },
         {
-          "min": "77'",
-          "text": "Attempt blocked. Ajdin Hrustic (Australia) left footed shot from the right side of the box is blocked. Assisted by Kai Trewin.",
+          "min": "112'",
+          "text": "Corner, Egypt. Conceded by Harry Souttar.",
           "goal": false
         },
         {
-          "min": "74'",
-          "text": "Substitution, Australia. Mohamed Touré replaces Nestory Irankunda.",
+          "min": "112'",
+          "text": "Attempt blocked. Emam Ashour (Egypt) left footed shot from outside the box is blocked. Assisted by Mohamed Salah.",
           "goal": false
         },
         {
-          "min": "74'",
-          "text": "Substitution, Australia. Ajdin Hrustic replaces Cristian Volpato.",
-          "goal": false
-        },
-        {
-          "min": "73'",
-          "text": "Attempt missed. Emam Ashour (Egypt) right footed shot from outside the box misses to the left.",
-          "goal": false
-        },
-        {
-          "min": "71'",
-          "text": "Delay over. They are ready to continue.",
-          "goal": false
-        },
-        {
-          "min": "68'",
-          "text": "Delay in match for a drinks break.",
-          "goal": false
-        },
-        {
-          "min": "68'",
-          "text": "Foul by Hossam Abdelmaguid (Egypt).",
-          "goal": false
-        },
-        {
-          "min": "68'",
-          "text": "Aziz Behich (Australia) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "67'",
-          "text": "Substitution, Egypt. Hossam Abdelmaguid replaces Hamdi Fathy.",
-          "goal": false
-        },
-        {
-          "min": "67'",
-          "text": "Substitution, Egypt. Haissem Hassan replaces Mostafa Zico.",
-          "goal": false
-        },
-        {
-          "min": "63'",
-          "text": "Offside, Egypt. Mohamed Salah is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "61'",
+          "min": "109'",
           "text": "Mohamed Salah (Egypt) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "61'",
-          "text": "Foul by Harry Souttar (Australia).",
+          "min": "109'",
+          "text": "Foul by Lucas Herrington (Australia).",
           "goal": false
         },
         {
-          "min": "61'",
-          "text": "Attempt blocked. Nestory Irankunda (Australia) right footed shot from outside the box is blocked.",
+          "min": "109'",
+          "text": "Attempt saved. Marwan Attia (Egypt) right footed shot from outside the box is saved in the bottom left corner by Patrick Beach (Australia). Assisted by Emam Ashour.",
           "goal": false
         },
         {
-          "min": "60'",
-          "text": "Foul by Yasser Ibrahim (Egypt).",
+          "min": "108'",
+          "text": "Mohamed Salah (Egypt) wins a free kick in the attacking half.",
           "goal": false
         },
         {
-          "min": "60'",
-          "text": "Nestory Irankunda (Australia) wins a free kick on the left wing.",
+          "min": "108'",
+          "text": "Foul by Alessandro Circati (Australia).",
           "goal": false
         },
         {
-          "min": "55'",
-          "text": "Own Goal by Mohamed Hany, Egypt. Australia 1, Egypt 1.",
-          "goal": true
-        },
-        {
-          "min": "54'",
-          "text": "Foul by Mostafa Zico (Egypt).",
+          "min": "107'",
+          "text": "Foul by Hamza Abdelkarim (Egypt).",
           "goal": false
         },
         {
-          "min": "54'",
-          "text": "Aiden O'Neill (Australia) wins a free kick on the left wing.",
+          "min": "107'",
+          "text": "Alessandro Circati (Australia) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "49'",
-          "text": "Delay over. They are ready to continue.",
+          "min": "106'",
+          "text": "Attempt missed. Mohamed Touré (Australia) header from the centre of the box misses to the right.",
           "goal": false
         },
         {
-          "min": "48'",
-          "text": "Delay in match because of an injury Mohamed Hany (Egypt).",
+          "min": "105'",
+          "text": "Second Half Extra Time begins Australia 1, Egypt 1.",
           "goal": false
         },
         {
-          "min": "46'",
-          "text": "Foul by Mostafa Zico (Egypt).",
+          "min": "105'",
+          "text": "Substitution, Egypt. Hamza Abdelkarim replaces Omar Marmoush.",
           "goal": false
         },
         {
-          "min": "46'",
-          "text": "Alessandro Circati (Australia) wins a free kick on the right wing.",
+          "min": "105'+1'",
+          "text": "First Half Extra Time ends, Australia 1, Egypt 1.",
           "goal": false
         },
         {
-          "min": "46'",
-          "text": "Attempt missed. Omar Marmoush (Egypt) right footed shot from the centre of the box is close, but misses to the right. Assisted by Mostafa Zico.",
+          "min": "105'",
+          "text": "Fourth official has announced 0 minutes of added time.",
           "goal": false
         },
         {
-          "min": "45'",
-          "text": "Second Half begins Australia 0, Egypt 1.",
+          "min": "105'",
+          "text": "Haissem Hassan (Egypt) is shown the yellow card for a bad foul.",
           "goal": false
         },
         {
-          "min": "45'",
-          "text": "Substitution, Australia. Kai Trewin replaces Jordan Bos because of an injury.",
+          "min": "105'",
+          "text": "Foul by Haissem Hassan (Egypt).",
           "goal": false
         },
         {
-          "min": "45'+6'",
-          "text": "First Half ends, Australia 0, Egypt 1.",
+          "min": "105'",
+          "text": "Aziz Behich (Australia) wins a free kick on the left wing.",
           "goal": false
         },
         {
-          "min": "45'+3'",
-          "text": "Attempt missed. Nestory Irankunda (Australia) header from the centre of the box misses to the right. Assisted by Aiden O'Neill with a cross.",
+          "min": "103'",
+          "text": "Attempt missed. Emam Ashour (Egypt) left footed shot from outside the box misses to the left. Assisted by Mohamed Hany.",
           "goal": false
         },
         {
-          "min": "45'+2'",
-          "text": "Attempt missed. Cristian Volpato (Australia) left footed shot from outside the box misses to the left. Assisted by Aiden O'Neill.",
-          "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Fourth official has announced 5 minutes of added time.",
-          "goal": false
-        },
-        {
-          "min": "41'",
-          "text": "Offside, Egypt. Hamdi Fathy is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "40'",
+          "min": "101'",
           "text": "Emam Ashour (Egypt) wins a free kick in the attacking half.",
           "goal": false
         },
         {
-          "min": "40'",
-          "text": "Foul by Jordan Bos (Australia).",
+          "min": "101'",
+          "text": "Foul by Ajdin Hrustic (Australia).",
           "goal": false
         },
         {
-          "min": "38'",
-          "text": "Corner, Australia. Conceded by Marwan Attia.",
+          "min": "96'",
+          "text": "Foul by Ramy Rabia (Egypt).",
           "goal": false
         },
         {
-          "min": "37'",
-          "text": "Foul by Emam Ashour (Egypt).",
+          "min": "96'",
+          "text": "Jackson Irvine (Australia) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "37'",
-          "text": "Cristian Volpato (Australia) wins a free kick on the right wing.",
+          "min": "94'",
+          "text": "Emam Ashour (Egypt) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "35'",
-          "text": "Attempt saved. Aziz Behich (Australia) left footed shot from the left side of the box is saved in the bottom left corner by Mostafa Shobeir (Egypt). Assisted by Nestory Irankunda.",
+          "min": "94'",
+          "text": "Foul by Mohamed Touré (Australia).",
           "goal": false
         },
         {
-          "min": "33'",
-          "text": "Karim Hafez (Egypt) wins a free kick in the defensive half.",
+          "min": "93'",
+          "text": "Attempt missed. Mohamed Salah (Egypt) right footed shot from the right side of the box is too high. Assisted by Omar Marmoush.",
           "goal": false
         },
         {
-          "min": "33'",
-          "text": "Foul by Harry Souttar (Australia).",
+          "min": "91'",
+          "text": "Foul by Trezeguet (Egypt).",
           "goal": false
         },
         {
-          "min": "33'",
-          "text": "Delay over. They are ready to continue.",
+          "min": "91'",
+          "text": "Kai Trewin (Australia) wins a free kick on the right wing.",
           "goal": false
         },
         {
-          "min": "32'",
-          "text": "Delay in match because of an injury Mohamed Hany (Egypt).",
+          "min": "90'",
+          "text": "First Half Extra Time begins Australia 1, Egypt 1.",
           "goal": false
         },
         {
-          "min": "31'",
-          "text": "Foul by Yasser Ibrahim (Egypt).",
+          "min": "90'",
+          "text": "Substitution, Australia. Awer Mabil replaces Connor Metcalfe.",
           "goal": false
         },
         {
-          "min": "31'",
-          "text": "Nestory Irankunda (Australia) wins a free kick in the attacking half.",
+          "min": "90'",
+          "text": "Substitution, Australia. Paul Okon-Engstler replaces Aiden O'Neill.",
           "goal": false
         },
         {
-          "min": "26'",
-          "text": "Delay over. They are ready to continue.",
+          "min": "90'+6'",
+          "text": "Second Half ends, Australia 1, Egypt 1.",
           "goal": false
         },
         {
-          "min": "23'",
-          "text": "Delay in match for a drinks break.",
+          "min": "90'+6'",
+          "text": "Attempt blocked. Haissem Hassan (Egypt) right footed shot from the centre of the box is blocked. Assisted by Mohamed Salah.",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Attempt blocked. Marwan Attia (Egypt) right footed shot from outside the box is blocked. Assisted by Mohamed Salah.",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Attempt saved. Mohamed Salah (Egypt) left footed shot from the right side of the box is saved in the top right corner by Patrick Beach (Australia).",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Corner, Egypt. Conceded by Patrick Beach.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Attempt saved. Ramy Rabia (Egypt) header from the centre of the box is saved in the top centre of the goal by Patrick Beach (Australia). Assisted by Mohamed Salah with a cross.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Corner, Egypt. Conceded by Mohamed Touré.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Corner, Egypt. Conceded by Alessandro Circati.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Fourth official has announced 5 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Emam Ashour (Egypt) wins a free kick in the defensive half.",
           "goal": false
         }
       ],
@@ -77536,8 +77578,8 @@
         {
           "label": "Total Shots",
           "home": {
-            "name": "C. Volpato",
-            "num": "20",
+            "name": "C. Metcalfe",
+            "num": "8",
             "pos": "M",
             "value": "2"
           },
@@ -77545,41 +77587,47 @@
             "name": "E. Ashour",
             "num": "8",
             "pos": "M",
-            "value": "3"
+            "value": "5"
           }
         },
         {
           "label": "Accurate Passes",
           "home": {
-            "name": "H. Souttar",
-            "num": "19",
+            "name": "A. Circati",
+            "num": "3",
             "pos": "D",
-            "value": "47"
+            "value": "56"
           },
           "away": {
             "name": "M. Attia",
             "num": "19",
             "pos": "M",
-            "value": "61"
+            "value": "96"
           }
         },
         {
           "label": "Defensive Interventions",
           "home": {
-            "name": "L. Herrington",
-            "num": "25",
+            "name": "H. Souttar",
+            "num": "19",
             "pos": "D",
-            "value": "5"
+            "value": "12"
           },
           "away": {
             "name": "R. Rabia",
             "num": "5",
             "pos": "D",
-            "value": "11"
+            "value": "13"
           }
         },
         {
           "label": "Saves",
+          "home": {
+            "name": "P. Beach",
+            "num": "18",
+            "pos": "G",
+            "value": "3"
+          },
           "away": {
             "name": "M. Shoubir",
             "num": "23",

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T19:51:48.045Z",
+  "lastUpdated": "2026-07-03T20:53:26.316Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -1211,10 +1211,10 @@
       "id": "760499",
       "date": "2026-07-03T18:00Z",
       "venue": "AT&T Stadium",
-      "clock": 5340,
-      "displayClock": "89'",
-      "detail": "89'",
-      "period": 2
+      "clock": 7200,
+      "displayClock": "120'+2'",
+      "detail": "AET-pens",
+      "period": 4
     },
     {
       "stage": "r32",
@@ -1265,9 +1265,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 350,
-        "away": -120,
-        "draw": 245,
+        "home": 330,
+        "away": -110,
+        "draw": 235,
         "total": 2.5,
         "book": "DraftKings"
       },

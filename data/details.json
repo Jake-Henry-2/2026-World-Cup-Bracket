@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-02T23:47:35.742Z",
+  "lastUpdated": "2026-07-03T01:22:03.700Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -74090,64 +74090,64 @@
       "venue": "BMO Field",
       "stats": {
         "home": {
-          "foulsCommitted": "3",
+          "foulsCommitted": "6",
           "yellowCards": "1",
           "redCards": "0",
-          "offsides": "0",
-          "wonCorners": "6",
-          "saves": "1",
-          "possessionPct": "70.4",
-          "totalShots": "9",
-          "shotsOnTarget": "1",
-          "shotPct": "0.1",
+          "offsides": "1",
+          "wonCorners": "9",
+          "saves": "5",
+          "possessionPct": "60.5",
+          "totalShots": "15",
+          "shotsOnTarget": "3",
+          "shotPct": "0.2",
           "penaltyKickGoals": "0",
-          "penaltyKickShots": "0",
-          "accuratePasses": "309",
-          "totalPasses": "328",
+          "penaltyKickShots": "1",
+          "accuratePasses": "532",
+          "totalPasses": "584",
           "passPct": "0.9",
-          "accurateCrosses": "2",
-          "totalCrosses": "14",
-          "crossPct": "0.1",
-          "totalLongBalls": "16",
-          "accurateLongBalls": "10",
-          "longballPct": "0.6",
+          "accurateCrosses": "6",
+          "totalCrosses": "20",
+          "crossPct": "0.3",
+          "totalLongBalls": "40",
+          "accurateLongBalls": "20",
+          "longballPct": "0.5",
           "blockedShots": "4",
-          "effectiveTackles": "2",
-          "totalTackles": "5",
-          "tacklePct": "0.4",
-          "interceptions": "2",
-          "effectiveClearance": "5",
-          "totalClearance": "5"
+          "effectiveTackles": "9",
+          "totalTackles": "19",
+          "tacklePct": "0.5",
+          "interceptions": "5",
+          "effectiveClearance": "19",
+          "totalClearance": "19"
         },
         "away": {
-          "foulsCommitted": "5",
-          "yellowCards": "0",
+          "foulsCommitted": "12",
+          "yellowCards": "2",
           "redCards": "0",
-          "offsides": "1",
-          "wonCorners": "0",
+          "offsides": "4",
+          "wonCorners": "5",
           "saves": "2",
-          "possessionPct": "29.6",
-          "totalShots": "3",
-          "shotsOnTarget": "1",
-          "shotPct": "0.0",
+          "possessionPct": "39.5",
+          "totalShots": "13",
+          "shotsOnTarget": "6",
+          "shotPct": "0.5",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "114",
-          "totalPasses": "137",
+          "accuratePasses": "311",
+          "totalPasses": "368",
           "passPct": "0.8",
-          "accurateCrosses": "1",
-          "totalCrosses": "4",
+          "accurateCrosses": "7",
+          "totalCrosses": "22",
           "crossPct": "0.3",
-          "totalLongBalls": "21",
-          "accurateLongBalls": "6",
-          "longballPct": "0.3",
-          "blockedShots": "1",
-          "effectiveTackles": "4",
-          "totalTackles": "9",
-          "tacklePct": "0.4",
-          "interceptions": "5",
-          "effectiveClearance": "14",
-          "totalClearance": "14"
+          "totalLongBalls": "43",
+          "accurateLongBalls": "18",
+          "longballPct": "0.4",
+          "blockedShots": "2",
+          "effectiveTackles": "11",
+          "totalTackles": "23",
+          "tacklePct": "0.5",
+          "interceptions": "9",
+          "effectiveClearance": "19",
+          "totalClearance": "19"
         }
       },
       "events": [
@@ -74156,6 +74156,90 @@
           "min": "17'",
           "side": "home",
           "player": "Rúben Dias"
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "away",
+          "player": "Substitution, Croatia. Igor Matanovic replaces Ante Budimir."
+        },
+        {
+          "kind": "Goal",
+          "min": "53'",
+          "side": "away",
+          "player": "Goal! Portugal 0, Croatia 1. Ivan Perisic"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "59'",
+          "side": "away",
+          "player": "Luka Modric"
+        },
+        {
+          "kind": "Substitution",
+          "min": "62'",
+          "side": "home",
+          "player": "Substitution, Portugal. Bernardo Silva replaces Vitinha."
+        },
+        {
+          "kind": "Substitution",
+          "min": "63'",
+          "side": "home",
+          "player": "Substitution, Portugal. Francisco Conceição replaces Pedro Neto."
+        },
+        {
+          "kind": "Substitution",
+          "min": "63'",
+          "side": "home",
+          "player": "Substitution, Portugal. Nélson Semedo replaces Bruno Fernandes."
+        },
+        {
+          "kind": "Substitution",
+          "min": "63'",
+          "side": "home",
+          "player": "Substitution, Portugal. Gonçalo Ramos replaces João Cancelo."
+        },
+        {
+          "kind": "Penalty - Scored",
+          "min": "68'",
+          "side": "home",
+          "player": "Goal! Portugal 1, Croatia 1. Cristiano Ronaldo"
+        },
+        {
+          "kind": "Substitution",
+          "min": "68'",
+          "side": "away",
+          "player": "Substitution, Croatia. Mario Pasalic replaces Martin Baturina."
+        },
+        {
+          "kind": "Substitution",
+          "min": "81'",
+          "side": "home",
+          "player": "Substitution, Portugal. Rúben Neves replaces Cristiano Ronaldo."
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'+2'",
+          "side": "away",
+          "player": "Substitution, Croatia. Josko Gvardiol replaces Nikola Vlasic."
+        },
+        {
+          "kind": "Goal - Header",
+          "min": "90'+4'",
+          "side": "home",
+          "player": "Goal! Portugal 2, Croatia 1. Gonçalo Ramos"
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'+6'",
+          "side": "away",
+          "player": "Substitution, Croatia. Andrej Kramaric replaces Mateo Kovacic."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "90'+8'",
+          "side": "away",
+          "player": "Ivan Perisic"
         }
       ],
       "lineups": {
@@ -74540,213 +74624,303 @@
       },
       "commentary": [
         {
-          "min": "45'+2'",
-          "text": "Rúben Dias (Portugal) wins a free kick in the defensive half.",
+          "min": "",
+          "text": "Match ends, Portugal 2, Croatia 1.",
           "goal": false
         },
         {
-          "min": "45'+1'",
-          "text": "Attempt missed. Rafael Leão (Portugal) right footed shot from the left side of the box is too high.",
+          "min": "90'+19'",
+          "text": "Second Half ends, Portugal 2, Croatia 1.",
           "goal": false
         },
         {
-          "min": "45'+1'",
-          "text": "Nuno Mendes (Portugal) wins a free kick on the left wing.",
-          "goal": false
-        },
-        {
-          "min": "45'+1'",
-          "text": "Foul by Petar Sucic (Croatia).",
-          "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Fourth official has announced 4 minutes of added time.",
-          "goal": false
-        },
-        {
-          "min": "40'",
-          "text": "Corner, Portugal. Conceded by Josip Sutalo.",
-          "goal": false
-        },
-        {
-          "min": "39'",
-          "text": "Corner, Portugal. Conceded by Josip Stanisic.",
-          "goal": false
-        },
-        {
-          "min": "37'",
-          "text": "Bruno Fernandes (Portugal) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "37'",
-          "text": "Foul by Petar Sucic (Croatia).",
-          "goal": false
-        },
-        {
-          "min": "34'",
-          "text": "Vitinha (Portugal) wins a free kick on the left wing.",
-          "goal": false
-        },
-        {
-          "min": "34'",
-          "text": "Foul by Nikola Vlasic (Croatia).",
-          "goal": false
-        },
-        {
-          "min": "34'",
-          "text": "Attempt blocked. Nuno Mendes (Portugal) right footed shot from outside the box is blocked. Assisted by João Cancelo.",
-          "goal": false
-        },
-        {
-          "min": "33'",
-          "text": "Corner, Portugal. Conceded by Ivan Perisic.",
-          "goal": false
-        },
-        {
-          "min": "29'",
-          "text": "Offside, Croatia. Nikola Vlasic is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "28'",
-          "text": "Attempt blocked. Martin Baturina (Croatia) left footed shot from outside the box is blocked. Assisted by Petar Sucic.",
-          "goal": false
-        },
-        {
-          "min": "27'",
+          "min": "90'+19'",
           "text": "Delay over. They are ready to continue.",
           "goal": false
         },
         {
-          "min": "24'",
+          "min": "90'+16'",
+          "text": "Delay in match (Portugal).",
+          "goal": false
+        },
+        {
+          "min": "90'+15'",
+          "text": "VAR Decision: No Goal Portugal 2-1 Croatia.",
+          "goal": false
+        },
+        {
+          "min": "90'+13'",
+          "text": "GOAL OVERTURNED BY VAR: Josko Gvardiol (Croatia) scores but the goal is ruled out after a VAR review.",
+          "goal": false
+        },
+        {
+          "min": "90'+13'",
+          "text": "Offside, Croatia. Mario Pasalic is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "90'+12'",
+          "text": "Attempt missed. Francisco Conceição (Portugal) left footed shot from the right side of the box misses to the left. Assisted by Nélson Semedo.",
+          "goal": false
+        },
+        {
+          "min": "90'+9'",
+          "text": "Attempt blocked. Igor Matanovic (Croatia) header from very close range is blocked. Assisted by Luka Modric with a cross.",
+          "goal": false
+        },
+        {
+          "min": "90'+9'",
+          "text": "Corner, Croatia. Conceded by Rúben Neves.",
+          "goal": false
+        },
+        {
+          "min": "90'+8'",
+          "text": "Ivan Perisic (Croatia) is shown the yellow card.",
+          "goal": false
+        },
+        {
+          "min": "90'+8'",
+          "text": "Rúben Dias (Portugal) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+8'",
+          "text": "Foul by Ivan Perisic (Croatia).",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Substitution, Croatia. Andrej Kramaric replaces Mateo Kovacic.",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Goal! Portugal 2, Croatia 1. Gonçalo Ramos (Portugal) header from the centre of the box to the bottom right corner. Assisted by Rafael Leão with a cross.",
+          "goal": true
+        },
+        {
+          "min": "90'+2'",
+          "text": "Substitution, Croatia. Josko Gvardiol replaces Nikola Vlasic.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Attempt missed. Gonçalo Ramos (Portugal) header from the left side of the six yard box is high and wide to the right. Assisted by João Neves with a cross following a corner.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Corner, Portugal. Conceded by Josip Stanisic.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Fourth official has announced 10 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Attempt missed. Mario Pasalic (Croatia) header from very close range misses to the right. Assisted by Petar Sucic with a cross.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Attempt missed. Renato Veiga (Portugal) header from very close range misses to the left. Assisted by Nuno Mendes with a cross following a corner.",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Corner, Portugal. Conceded by Ivan Perisic.",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Substitution, Portugal. Rúben Neves replaces Cristiano Ronaldo.",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Offside, Croatia. Petar Sucic is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Corner, Croatia. Conceded by Diogo Costa.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Attempt saved. Igor Matanovic (Croatia) right footed shot from a difficult angle on the right is saved in the bottom right corner by Diogo Costa (Portugal).",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Attempt missed. Igor Matanovic (Croatia) header from the centre of the box is just a bit too high. Assisted by Luka Modric with a cross following a corner.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Corner, Croatia. Conceded by Diogo Costa.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Attempt saved. Mateo Kovacic (Croatia) right footed shot from outside the box is saved in the top centre of the goal by Diogo Costa (Portugal). Assisted by Igor Matanovic with a headed pass.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Attempt saved. Mateo Kovacic (Croatia) right footed shot from outside the box is saved in the bottom right corner by Diogo Costa (Portugal). Assisted by Mario Pasalic.",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Nélson Semedo (Portugal) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Foul by Igor Matanovic (Croatia).",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "69'",
           "text": "Delay in match for a drinks break.",
           "goal": false
         },
         {
-          "min": "24'",
-          "text": "Attempt missed. João Neves (Portugal) left footed shot from the left side of the six yard box is too high. Assisted by Nuno Mendes with a cross following a corner.",
+          "min": "68'",
+          "text": "Substitution, Croatia. Mario Pasalic replaces Martin Baturina.",
           "goal": false
         },
         {
-          "min": "23'",
-          "text": "Corner, Portugal. Conceded by Marin Pongracic.",
+          "min": "68'",
+          "text": "Goal! Portugal 1, Croatia 1. Cristiano Ronaldo (Portugal) converts the penalty with a right footed shot to the centre of the goal.",
           "goal": false
         },
         {
-          "min": "18'",
-          "text": "Foul by Renato Veiga (Portugal).",
+          "min": "65'",
+          "text": "VAR Decision: Penalty Portugal.",
           "goal": false
         },
         {
-          "min": "18'",
-          "text": "Petar Sucic (Croatia) wins a free kick on the right wing.",
+          "min": "64'",
+          "text": "Penalty Portugal. Renato Veiga draws a foul in the penalty area.",
           "goal": false
         },
         {
-          "min": "17'",
-          "text": "Rúben Dias (Portugal) is shown the yellow card for a bad foul.",
+          "min": "64'",
+          "text": "Penalty conceded by Nikola Vlasic (Croatia) after a foul in the penalty area.",
           "goal": false
         },
         {
-          "min": "17'",
-          "text": "Foul by Rúben Dias (Portugal).",
-          "goal": false
-        },
-        {
-          "min": "17'",
-          "text": "Ante Budimir (Croatia) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "16'",
-          "text": "Attempt missed. Renato Veiga (Portugal) header from the centre of the box is too high. Assisted by Nuno Mendes with a cross following a corner.",
-          "goal": false
-        },
-        {
-          "min": "15'",
-          "text": "Corner, Portugal. Conceded by Marin Pongracic.",
-          "goal": false
-        },
-        {
-          "min": "14'",
-          "text": "Foul by João Cancelo (Portugal).",
-          "goal": false
-        },
-        {
-          "min": "14'",
-          "text": "Ivan Perisic (Croatia) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "13'",
-          "text": "Attempt blocked. Cristiano Ronaldo (Portugal) right footed shot from outside the box is blocked.",
-          "goal": false
-        },
-        {
-          "min": "11'",
-          "text": "Nuno Mendes (Portugal) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "11'",
-          "text": "Foul by Mateo Kovacic (Croatia).",
-          "goal": false
-        },
-        {
-          "min": "10'",
-          "text": "Attempt missed. Ante Budimir (Croatia) header from the centre of the box is too high. Assisted by Nikola Vlasic with a cross.",
-          "goal": false
-        },
-        {
-          "min": "7'",
-          "text": "Attempt missed. João Cancelo (Portugal) right footed shot from outside the box is too high following a corner.",
-          "goal": false
-        },
-        {
-          "min": "7'",
+          "min": "63'",
           "text": "Corner, Portugal. Conceded by Dominik Livakovic.",
           "goal": false
         },
         {
-          "min": "6'",
-          "text": "João Neves (Portugal) wins a free kick in the defensive half.",
+          "min": "63'",
+          "text": "Substitution, Portugal. Gonçalo Ramos replaces João Cancelo.",
           "goal": false
         },
         {
-          "min": "6'",
-          "text": "Foul by Petar Sucic (Croatia).",
+          "min": "63'",
+          "text": "Substitution, Portugal. Nélson Semedo replaces Bruno Fernandes.",
           "goal": false
         },
         {
-          "min": "4'",
-          "text": "Attempt blocked. Vitinha (Portugal) right footed shot from outside the box is blocked.",
+          "min": "63'",
+          "text": "Substitution, Portugal. Francisco Conceição replaces Pedro Neto.",
           "goal": false
         },
         {
-          "min": "4'",
-          "text": "Attempt blocked. Bruno Fernandes (Portugal) right footed shot from the left side of the six yard box is blocked.",
+          "min": "62'",
+          "text": "Substitution, Portugal. Bernardo Silva replaces Vitinha.",
           "goal": false
         },
         {
-          "min": "4'",
-          "text": "Attempt saved. Bruno Fernandes (Portugal) right footed shot from the centre of the box is saved in the centre of the goal by Dominik Livakovic (Croatia). Assisted by Rafael Leão.",
+          "min": "61'",
+          "text": "Offside, Portugal. Cristiano Ronaldo is caught offside.",
           "goal": false
         },
         {
-          "min": "3'",
-          "text": "Attempt missed. Ante Budimir (Croatia) left footed shot from the centre of the box is close, but misses to the left. Assisted by Nikola Vlasic.",
+          "min": "59'",
+          "text": "Luka Modric (Croatia) is shown the yellow card for a bad foul.",
           "goal": false
         },
         {
-          "min": "",
-          "text": "First Half begins.",
+          "min": "59'",
+          "text": "Vitinha (Portugal) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "",
-          "text": "Lineups are announced and players are warming up.",
+          "min": "59'",
+          "text": "Foul by Luka Modric (Croatia).",
+          "goal": false
+        },
+        {
+          "min": "59'",
+          "text": "Corner, Croatia. Conceded by Diogo Costa.",
+          "goal": false
+        },
+        {
+          "min": "59'",
+          "text": "Attempt saved. Petar Sucic (Croatia) right footed shot from the centre of the box is saved in the bottom left corner by Diogo Costa (Portugal). Assisted by Martin Baturina.",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Rafael Leão (Portugal) hits the bar with a right footed shot from outside the box. Assisted by Nuno Mendes.",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Bruno Fernandes (Portugal) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Foul by Luka Modric (Croatia).",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Offside, Croatia. Nikola Vlasic is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "53'",
+          "text": "Goal! Portugal 0, Croatia 1. Ivan Perisic (Croatia) left footed shot from the left side of the box to the centre of the goal.",
+          "goal": true
+        },
+        {
+          "min": "52'",
+          "text": "Foul by Vitinha (Portugal).",
+          "goal": false
+        },
+        {
+          "min": "52'",
+          "text": "Mateo Kovacic (Croatia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "51'",
+          "text": "Vitinha (Portugal) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "51'",
+          "text": "Foul by Igor Matanovic (Croatia).",
+          "goal": false
+        },
+        {
+          "min": "49'",
+          "text": "Attempt missed. Nikola Vlasic (Croatia) right footed shot from the left side of the box misses to the left following a corner.",
           "goal": false
         }
       ],
@@ -74754,31 +74928,31 @@
         {
           "label": "Total Shots",
           "home": {
-            "name": "B. Fernandes",
-            "num": "8",
-            "pos": "M",
+            "name": "R. Veiga",
+            "num": "13",
+            "pos": "D",
             "value": "2"
-          },
-          "away": {
-            "name": "A. Budimir",
-            "num": "11",
-            "pos": "F",
-            "value": "2"
-          }
-        },
-        {
-          "label": "Accurate Passes",
-          "home": {
-            "name": "Vitinha",
-            "num": "23",
-            "pos": "M",
-            "value": "57"
           },
           "away": {
             "name": "M. Kovacic",
             "num": "8",
             "pos": "M",
-            "value": "22"
+            "value": "3"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "R. Dias",
+            "num": "3",
+            "pos": "D",
+            "value": "86"
+          },
+          "away": {
+            "name": "M. Kovacic",
+            "num": "8",
+            "pos": "M",
+            "value": "49"
           }
         },
         {
@@ -74787,17 +74961,23 @@
             "name": "R. Dias",
             "num": "3",
             "pos": "D",
-            "value": "4"
+            "value": "11"
           },
           "away": {
             "name": "J. Stanisic",
             "num": "2",
             "pos": "D",
-            "value": "8"
+            "value": "11"
           }
         },
         {
           "label": "Saves",
+          "home": {
+            "name": "D. Costa",
+            "num": "1",
+            "pos": "G",
+            "value": "5"
+          },
           "away": {
             "name": "D. Livakovic",
             "num": "1",
@@ -74806,8 +74986,14 @@
           }
         }
       ],
-      "highlight": null,
-      "final": false,
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0702/dm_260702_COM_SOC_News_Portugal_fans_in_Lisbon_celebrate_Ronaldos_penalty_vs_Croatia_20260702_GLOBAL_FIF/dm_260702_COM_SOC_News_Portugal_fans_in_Lisbon_celebrate_Ronaldos_penalty_vs_Croatia_20260702_GLOBAL_FIF.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49253799/portugal-fans-lisbon-celebrate-ronaldo-penalty-vs-croatia",
+        "headline": "Portugal fans in Lisbon celebrate Ronaldo's penalty vs. Croatia",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0702/dm_260702_COM_SOC_News_Portugal_fans_in_Lisbon_celebrate_Ronaldos_penalty_vs_Croatia_20260702_GLOBAL_FIF/dm_260702_COM_SOC_News_Portugal_fans_in_Lisbon_celebrate_Ronaldos_penalty_vs_Croatia_20260702_GLOBAL_FIF_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0702/dm_260702_COM_SOC_News_Portugal_fans_in_Lisbon_celebrate_Ronaldos_penalty_vs_Croatia_20260702_GLOBAL_FIF/dm_260702_COM_SOC_News_Portugal_fans_in_Lisbon_celebrate_Ronaldos_penalty_vs_Croatia_20260702_GLOBAL_FIF/playlist.m3u8"
+      },
+      "final": true,
       "dv": 5
     },
     "760497": {

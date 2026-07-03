@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-02T23:47:35.634Z",
+  "lastUpdated": "2026-07-03T01:22:03.585Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -1168,25 +1168,15 @@
       "stage": "r32",
       "home": "Portugal",
       "away": "Croatia",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeWinner": false,
+      "homeScore": 2,
+      "awayScore": 1,
+      "homeWinner": true,
       "awayWinner": false,
-      "odds": {
-        "home": -145,
-        "away": 450,
-        "draw": 270,
-        "total": 2.5,
-        "book": "DraftKings"
-      },
-      "status": "live",
+      "odds": null,
+      "status": "finished",
       "id": "760496",
       "date": "2026-07-02T23:00Z",
-      "venue": "BMO Field",
-      "clock": 2700,
-      "displayClock": "45'+2'",
-      "detail": "45'+2'",
-      "period": 1
+      "venue": "BMO Field"
     },
     {
       "stage": "r32",
@@ -1199,7 +1189,7 @@
       "odds": {
         "home": 100,
         "away": 330,
-        "draw": 225,
+        "draw": 220,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -1257,9 +1247,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -225,
+        "home": -230,
         "away": 750,
-        "draw": 330,
+        "draw": 340,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -1350,7 +1340,7 @@
     },
     {
       "stage": "r16",
-      "home": "Round of 32 11 Winner",
+      "home": "Portugal",
       "away": "Spain",
       "homeScore": 0,
       "awayScore": 0,

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T01:22:03.585Z",
+  "lastUpdated": "2026-07-03T05:08:17.000Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -1182,18 +1182,12 @@
       "stage": "r32",
       "home": "Switzerland",
       "away": "Algeria",
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
-      "homeWinner": false,
+      "homeWinner": true,
       "awayWinner": false,
-      "odds": {
-        "home": 100,
-        "away": 330,
-        "draw": 220,
-        "total": 2.5,
-        "book": "DraftKings"
-      },
-      "status": "scheduled",
+      "odds": null,
+      "status": "finished",
       "id": "760498",
       "date": "2026-07-03T03:00Z",
       "venue": "BC Place"
@@ -1207,9 +1201,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 230,
-        "away": 150,
-        "draw": 190,
+        "home": 255,
+        "away": 145,
+        "draw": 185,
         "total": 1.5,
         "book": "DraftKings"
       },
@@ -1227,8 +1221,8 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -650,
-        "away": 1900,
+        "home": -700,
+        "away": 2000,
         "draw": 700,
         "total": 2.5,
         "book": "DraftKings"
@@ -1287,8 +1281,8 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 1800,
-        "away": -575,
+        "home": 1700,
+        "away": -550,
         "draw": 600,
         "total": 2.5,
         "book": "DraftKings"
@@ -1346,7 +1340,13 @@
       "awayScore": 0,
       "homeWinner": false,
       "awayWinner": false,
-      "odds": null,
+      "odds": {
+        "home": 295,
+        "away": -105,
+        "draw": 260,
+        "total": 2.5,
+        "book": "DraftKings"
+      },
       "status": "scheduled",
       "id": "760506",
       "date": "2026-07-06T19:00Z",
@@ -1361,9 +1361,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 160,
-        "away": 175,
-        "draw": 245,
+        "home": 155,
+        "away": 180,
+        "draw": 240,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -1388,7 +1388,7 @@
     },
     {
       "stage": "r16",
-      "home": "Round of 32 13 Winner",
+      "home": "Switzerland",
       "away": "Round of 32 15 Winner",
       "homeScore": 0,
       "awayScore": 0,

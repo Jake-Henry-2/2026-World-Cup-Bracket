@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T01:22:03.700Z",
+  "lastUpdated": "2026-07-03T05:08:17.182Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -75891,6 +75891,883 @@
         "mp4": "https://media.video-cdn.espn.com/motion/2026/0702/dm_260702_Fans_in_Madrid_celebrate_Spains_opening_goal_vs_Austria/dm_260702_Fans_in_Madrid_celebrate_Spains_opening_goal_vs_Austria_360p30_1464k.mp4",
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0702/dm_260702_Fans_in_Madrid_celebrate_Spains_opening_goal_vs_Austria/dm_260702_Fans_in_Madrid_celebrate_Spains_opening_goal_vs_Austria/playlist.m3u8"
       },
+      "final": true,
+      "dv": 5
+    },
+    "760498": {
+      "venue": "BC Place",
+      "stats": {
+        "home": {
+          "foulsCommitted": "10",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "4",
+          "saves": "2",
+          "possessionPct": "44.6",
+          "totalShots": "11",
+          "shotsOnTarget": "5",
+          "shotPct": "0.5",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "355",
+          "totalPasses": "437",
+          "passPct": "0.8",
+          "accurateCrosses": "4",
+          "totalCrosses": "14",
+          "crossPct": "0.3",
+          "totalLongBalls": "50",
+          "accurateLongBalls": "20",
+          "longballPct": "0.4",
+          "blockedShots": "2",
+          "effectiveTackles": "13",
+          "totalTackles": "20",
+          "tacklePct": "0.7",
+          "interceptions": "17",
+          "effectiveClearance": "25",
+          "totalClearance": "25"
+        },
+        "away": {
+          "foulsCommitted": "12",
+          "yellowCards": "2",
+          "redCards": "0",
+          "offsides": "2",
+          "wonCorners": "2",
+          "saves": "2",
+          "possessionPct": "55.4",
+          "totalShots": "8",
+          "shotsOnTarget": "2",
+          "shotPct": "0.3",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "475",
+          "totalPasses": "561",
+          "passPct": "0.8",
+          "accurateCrosses": "1",
+          "totalCrosses": "6",
+          "crossPct": "0.2",
+          "totalLongBalls": "64",
+          "accurateLongBalls": "29",
+          "longballPct": "0.5",
+          "blockedShots": "3",
+          "effectiveTackles": "10",
+          "totalTackles": "21",
+          "tacklePct": "0.5",
+          "interceptions": "9",
+          "effectiveClearance": "14",
+          "totalClearance": "14"
+        }
+      },
+      "events": [
+        {
+          "kind": "Goal",
+          "min": "10'",
+          "side": "home",
+          "player": "Goal! Switzerland 1, Algeria 0. Breel Embolo"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "36'",
+          "side": "away",
+          "player": "Farès Chaïbi"
+        },
+        {
+          "kind": "Goal",
+          "min": "46'",
+          "side": "home",
+          "player": "Goal! Switzerland 2, Algeria 0. Dan Ndoye"
+        },
+        {
+          "kind": "Substitution",
+          "min": "58'",
+          "side": "away",
+          "player": "Substitution, Algeria. Jaouen Hadjam replaces Houssem Aouar."
+        },
+        {
+          "kind": "Substitution",
+          "min": "58'",
+          "side": "away",
+          "player": "Substitution, Algeria. Amine Gouiri replaces Ramiz Zerrouki."
+        },
+        {
+          "kind": "Substitution",
+          "min": "71'",
+          "side": "home",
+          "player": "Substitution, Switzerland. Fabian Rieder replaces Rubén Vargas."
+        },
+        {
+          "kind": "Substitution",
+          "min": "71'",
+          "side": "home",
+          "player": "Substitution, Switzerland. Noah Okafor replaces Johan Manzambi."
+        },
+        {
+          "kind": "Substitution",
+          "min": "71'",
+          "side": "away",
+          "player": "Substitution, Algeria. Anis Hadj Moussa replaces Riyad Mahrez."
+        },
+        {
+          "kind": "Substitution",
+          "min": "71'",
+          "side": "away",
+          "player": "Substitution, Algeria. Hicham Boudaoui replaces Nabil Bentaleb."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "72'",
+          "side": "away",
+          "player": "Hicham Boudaoui"
+        },
+        {
+          "kind": "Substitution",
+          "min": "82'",
+          "side": "away",
+          "player": "Substitution, Algeria. Adil Boulbina replaces Rafik Belghali because of an injury."
+        },
+        {
+          "kind": "Substitution",
+          "min": "83'",
+          "side": "home",
+          "player": "Substitution, Switzerland. Zeki Amdouni replaces Breel Embolo."
+        },
+        {
+          "kind": "Substitution",
+          "min": "87'",
+          "side": "home",
+          "player": "Substitution, Switzerland. Silvan Widmer replaces Denis Zakaria because of an injury."
+        },
+        {
+          "kind": "Substitution",
+          "min": "87'",
+          "side": "home",
+          "player": "Substitution, Switzerland. Michel Aebischer replaces Dan Ndoye."
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Gregor Kobel",
+            "short": "G. Kobel",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Manuel Akanji",
+            "short": "M. Akanji",
+            "num": "5",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Nico Elvedi",
+            "short": "N. Elvedi",
+            "num": "4",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Ricardo Rodríguez",
+            "short": "R. Rodríguez",
+            "num": "13",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Denis Zakaria",
+            "short": "D. Zakaria",
+            "num": "6",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Johan Manzambi",
+            "short": "J. Manzambi",
+            "num": "9",
+            "pos": "AM",
+            "place": "10"
+          },
+          {
+            "name": "Granit Xhaka",
+            "short": "G. Xhaka",
+            "num": "10",
+            "pos": "LM",
+            "place": "4"
+          },
+          {
+            "name": "Remo Freuler",
+            "short": "R. Freuler",
+            "num": "8",
+            "pos": "RM",
+            "place": "8"
+          },
+          {
+            "name": "Breel Embolo",
+            "short": "B. Embolo",
+            "num": "7",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Rubén Vargas",
+            "short": "R. Vargas",
+            "num": "17",
+            "pos": "AM-L",
+            "place": "11"
+          },
+          {
+            "name": "Dan Ndoye",
+            "short": "D. Ndoye",
+            "num": "11",
+            "pos": "AM-R",
+            "place": "7"
+          }
+        ],
+        "away": [
+          {
+            "name": "Luca Zidane",
+            "short": "L. Zidane",
+            "num": "23",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Ramy Bensebaini",
+            "short": "R. Bensebaini",
+            "num": "21",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Aïssa Mandi",
+            "short": "A. Mandi",
+            "num": "2",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Rayan Aït-Nouri",
+            "short": "R. Aït-Nouri",
+            "num": "15",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Rafik Belghali",
+            "short": "R. Belghali",
+            "num": "17",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Nabil Bentaleb",
+            "short": "N. Bentaleb",
+            "num": "19",
+            "pos": "CM",
+            "place": "4"
+          },
+          {
+            "name": "Farès Chaïbi",
+            "short": "F. Chaïbi",
+            "num": "10",
+            "pos": "LM",
+            "place": "8"
+          },
+          {
+            "name": "Ramiz Zerrouki",
+            "short": "R. Zerrouki",
+            "num": "6",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Ibrahim Maza",
+            "short": "I. Maza",
+            "num": "22",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Houssem Aouar",
+            "short": "H. Aouar",
+            "num": "8",
+            "pos": "LF",
+            "place": "11"
+          },
+          {
+            "name": "Riyad Mahrez",
+            "short": "R. Mahrez",
+            "num": "7",
+            "pos": "RF",
+            "place": "10"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Michel Aebischer",
+            "short": "M. Aebischer",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Miro Muheim",
+            "short": "M. Muheim",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Christian Fassnacht",
+            "short": "C. Fassnacht",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Cedric Itten",
+            "short": "C. Itten",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Marvin Keller",
+            "short": "M. Keller",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Djibril Sow",
+            "short": "D. Sow",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Zeki Amdouni",
+            "short": "Z. Amdouni",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Noah Okafor",
+            "short": "N. Okafor",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Silvan Widmer",
+            "short": "S. Widmer",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Fabian Rieder",
+            "short": "F. Rieder",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ardon Jashari",
+            "short": "A. Jashari",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Yvon Mvogo",
+            "short": "Y. Mvogo",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Aurèle Amenda",
+            "short": "A. Amenda",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Eray Cömert",
+            "short": "E. Cömert",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Mohamed Amine Tougai",
+            "short": "M. Tougai",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Anis Hadj Moussa",
+            "short": "A. Hadj Moussa",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Yassine Titraoui",
+            "short": "Y. Titraoui",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Adil Boulbina",
+            "short": "A. Boulbina",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Amine Gouiri",
+            "short": "A. Gouiri",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Achraf Abada",
+            "short": "A. Abada",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Hicham Boudaoui",
+            "short": "H. Boudaoui",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jaouen Hadjam",
+            "short": "J. Hadjam",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Samir Chergui",
+            "short": "S. Chergui",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Melvin Mastil",
+            "short": "M. Mastil",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Zineddine Belaïd",
+            "short": "Z. Belaïd",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Farès Ghedjemis",
+            "short": "F. Ghedjemis",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Oussama Benbot",
+            "short": "O. Benbot",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-2-3-1",
+        "away": "4-3-3"
+      },
+      "commentary": [
+        {
+          "min": "",
+          "text": "Match ends, Switzerland 2, Algeria 0.",
+          "goal": false
+        },
+        {
+          "min": "90'+7'",
+          "text": "Second Half ends, Switzerland 2, Algeria 0.",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Attempt saved. Remo Freuler (Switzerland) right footed shot from the centre of the box is saved in the centre of the goal by Luca Zidane (Algeria).",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Attempt blocked. Noah Okafor (Switzerland) right footed shot from the left side of the box is blocked. Assisted by Fabian Rieder.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Foul by Hicham Boudaoui (Algeria).",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Zeki Amdouni (Switzerland) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Attempt blocked. Ibrahim Maza (Algeria) right footed shot from the left side of the box is blocked. Assisted by Adil Boulbina.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Ramy Bensebaini (Algeria) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Foul by Fabian Rieder (Switzerland).",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Fourth official has announced 6 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Foul by Farès Chaïbi (Algeria).",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Zeki Amdouni (Switzerland) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Offside, Algeria. Adil Boulbina is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Substitution, Switzerland. Michel Aebischer replaces Dan Ndoye.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Substitution, Switzerland. Silvan Widmer replaces Denis Zakaria because of an injury.",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Hicham Boudaoui (Algeria) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Foul by Zeki Amdouni (Switzerland).",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Delay in match because of an injury Denis Zakaria (Switzerland).",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Anis Hadj Moussa (Algeria) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Foul by Ricardo Rodríguez (Switzerland).",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Substitution, Switzerland. Zeki Amdouni replaces Breel Embolo.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Substitution, Algeria. Adil Boulbina replaces Rafik Belghali because of an injury.",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Ibrahim Maza (Algeria) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Foul by Remo Freuler (Switzerland).",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Attempt missed. Fabian Rieder (Switzerland) left footed shot from the left side of the six yard box is close, but misses to the right. Assisted by Denis Zakaria with a cross.",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Attempt missed. Breel Embolo (Switzerland) right footed shot from outside the box is high and wide to the right. Assisted by Dan Ndoye.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Foul by Rafik Belghali (Algeria).",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Granit Xhaka (Switzerland) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Attempt missed. Jaouen Hadjam (Algeria) right footed shot from outside the box is too high. Assisted by Farès Chaïbi.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Corner, Algeria. Conceded by Ricardo Rodríguez.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Attempt blocked. Fabian Rieder (Switzerland) left footed shot from the centre of the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Delay in match because of an injury Granit Xhaka (Switzerland).",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Hicham Boudaoui (Algeria) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Foul by Hicham Boudaoui (Algeria).",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Granit Xhaka (Switzerland) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Substitution, Algeria. Hicham Boudaoui replaces Nabil Bentaleb.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Substitution, Algeria. Anis Hadj Moussa replaces Riyad Mahrez.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Substitution, Switzerland. Noah Okafor replaces Johan Manzambi.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Substitution, Switzerland. Fabian Rieder replaces Rubén Vargas.",
+          "goal": false
+        },
+        {
+          "min": "70'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Rafik Belghali (Algeria) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Foul by Ricardo Rodríguez (Switzerland).",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Attempt blocked. Nico Elvedi (Switzerland) header from very close range is blocked. Assisted by Rubén Vargas with a cross.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Corner, Switzerland. Conceded by Aïssa Mandi.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Corner, Switzerland. Conceded by Nabil Bentaleb.",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Substitution, Algeria. Amine Gouiri replaces Ramiz Zerrouki.",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Substitution, Algeria. Jaouen Hadjam replaces Houssem Aouar.",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Foul by Ibrahim Maza (Algeria).",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Granit Xhaka (Switzerland) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "55'",
+          "text": "Foul by Nabil Bentaleb (Algeria).",
+          "goal": false
+        },
+        {
+          "min": "55'",
+          "text": "Dan Ndoye (Switzerland) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "52'",
+          "text": "Foul by Ramiz Zerrouki (Algeria).",
+          "goal": false
+        },
+        {
+          "min": "52'",
+          "text": "Granit Xhaka (Switzerland) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "51'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "50'",
+          "text": "Delay in match because of an injury Ibrahim Maza (Algeria).",
+          "goal": false
+        },
+        {
+          "min": "50'",
+          "text": "Attempt blocked. Riyad Mahrez (Algeria) left footed shot from the centre of the box is blocked. Assisted by Rafik Belghali.",
+          "goal": false
+        },
+        {
+          "min": "46'",
+          "text": "Goal! Switzerland 2, Algeria 0. Dan Ndoye (Switzerland) right footed shot from the centre of the box to the bottom left corner.",
+          "goal": true
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "D. Zakaria",
+            "num": "6",
+            "pos": "M",
+            "value": "2"
+          },
+          "away": {
+            "name": "I. Maza",
+            "num": "22",
+            "pos": "M",
+            "value": "3"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "M. Akanji",
+            "num": "5",
+            "pos": "D",
+            "value": "62"
+          },
+          "away": {
+            "name": "R. Bensebaini",
+            "num": "21",
+            "pos": "D",
+            "value": "74"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "D. Zakaria",
+            "num": "6",
+            "pos": "M",
+            "value": "14"
+          },
+          "away": {
+            "name": "R. Aït-Nouri",
+            "num": "15",
+            "pos": "D",
+            "value": "13"
+          }
+        },
+        {
+          "label": "Saves",
+          "home": {
+            "name": "G. Kobel",
+            "num": "1",
+            "pos": "G",
+            "value": "2"
+          },
+          "away": {
+            "name": "L. Zidane",
+            "num": "23",
+            "pos": "G",
+            "value": "2"
+          }
+        }
+      ],
+      "highlight": null,
       "final": true,
       "dv": 5
     }

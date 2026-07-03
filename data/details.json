@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T22:01:32.825Z",
+  "lastUpdated": "2026-07-03T23:15:21.365Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -77650,67 +77650,74 @@
       "venue": "Hard Rock Stadium",
       "stats": {
         "home": {
-          "foulsCommitted": "0",
+          "foulsCommitted": "7",
           "yellowCards": "0",
           "redCards": "0",
-          "offsides": "0",
+          "offsides": "2",
           "wonCorners": "0",
-          "saves": "0",
-          "possessionPct": "0",
-          "totalShots": "0",
-          "shotsOnTarget": "0",
-          "shotPct": "0.0",
+          "saves": "1",
+          "possessionPct": "63.6",
+          "totalShots": "4",
+          "shotsOnTarget": "3",
+          "shotPct": "0.8",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "0",
-          "totalPasses": "0",
-          "passPct": "0.0",
+          "accuratePasses": "410",
+          "totalPasses": "437",
+          "passPct": "0.9",
           "accurateCrosses": "0",
-          "totalCrosses": "0",
+          "totalCrosses": "2",
           "crossPct": "0.0",
-          "totalLongBalls": "0",
-          "accurateLongBalls": "0",
-          "longballPct": "0.0",
+          "totalLongBalls": "17",
+          "accurateLongBalls": "11",
+          "longballPct": "0.6",
           "blockedShots": "0",
-          "effectiveTackles": "0",
-          "totalTackles": "0",
-          "tacklePct": "0.0",
-          "interceptions": "0",
-          "effectiveClearance": "0",
-          "totalClearance": "0"
+          "effectiveTackles": "6",
+          "totalTackles": "10",
+          "tacklePct": "0.6",
+          "interceptions": "3",
+          "effectiveClearance": "10",
+          "totalClearance": "10"
         },
         "away": {
-          "foulsCommitted": "0",
+          "foulsCommitted": "4",
           "yellowCards": "0",
           "redCards": "0",
           "offsides": "0",
-          "wonCorners": "0",
-          "saves": "0",
-          "possessionPct": "0",
-          "totalShots": "0",
-          "shotsOnTarget": "0",
-          "shotPct": "0.0",
+          "wonCorners": "2",
+          "saves": "2",
+          "possessionPct": "36.4",
+          "totalShots": "4",
+          "shotsOnTarget": "1",
+          "shotPct": "0.3",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "0",
-          "totalPasses": "0",
-          "passPct": "0.0",
-          "accurateCrosses": "0",
-          "totalCrosses": "0",
-          "crossPct": "0.0",
-          "totalLongBalls": "0",
-          "accurateLongBalls": "0",
-          "longballPct": "0.0",
-          "blockedShots": "0",
-          "effectiveTackles": "0",
-          "totalTackles": "0",
-          "tacklePct": "0.0",
-          "interceptions": "0",
-          "effectiveClearance": "0",
-          "totalClearance": "0"
+          "accuratePasses": "211",
+          "totalPasses": "244",
+          "passPct": "0.9",
+          "accurateCrosses": "3",
+          "totalCrosses": "9",
+          "crossPct": "0.3",
+          "totalLongBalls": "27",
+          "accurateLongBalls": "11",
+          "longballPct": "0.4",
+          "blockedShots": "2",
+          "effectiveTackles": "6",
+          "totalTackles": "10",
+          "tacklePct": "0.6",
+          "interceptions": "3",
+          "effectiveClearance": "3",
+          "totalClearance": "3"
         }
       },
-      "events": [],
+      "events": [
+        {
+          "kind": "Goal",
+          "min": "29'",
+          "side": "home",
+          "player": "Goal! Argentina 1, Cabo Verde 0. Lionel Messi"
+        }
+      ],
       "lineups": {
         "home": [
           {
@@ -78093,6 +78100,201 @@
       },
       "commentary": [
         {
+          "min": "54'",
+          "text": "Attempt saved. Deroy Duarte (Cabo Verde) left footed shot from outside the box is saved in the bottom right corner by Emiliano Martínez (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "53'",
+          "text": "Foul by Thiago Almada (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "53'",
+          "text": "Steven Moreira (Cabo Verde) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "50'",
+          "text": "Foul by Lautaro Martínez (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "50'",
+          "text": "Pico Lopes (Cabo Verde) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "49'",
+          "text": "Attempt missed. Ryan Mendes (Cabo Verde) right footed shot from outside the box is high and wide to the left. Assisted by Laros Duarte with a headed pass.",
+          "goal": false
+        },
+        {
+          "min": "49'",
+          "text": "Corner, Cabo Verde. Conceded by Rodrigo De Paul.",
+          "goal": false
+        },
+        {
+          "min": "49'",
+          "text": "Attempt blocked. Jovane Cabral (Cabo Verde) right footed shot from outside the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "48'",
+          "text": "Corner, Cabo Verde. Conceded by Nahuel Molina.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Second Half begins Argentina 1, Cabo Verde 0.",
+          "goal": false
+        },
+        {
+          "min": "45'+4'",
+          "text": "First Half ends, Argentina 1, Cabo Verde 0.",
+          "goal": false
+        },
+        {
+          "min": "45'+2'",
+          "text": "Foul by Lionel Messi (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "45'+2'",
+          "text": "Sidny Cabral (Cabo Verde) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Fourth official has announced 4 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Attempt saved. Enzo Fernández (Argentina) right footed shot from outside the box is saved in the bottom right corner by Vozinha (Cabo Verde).",
+          "goal": false
+        },
+        {
+          "min": "43'",
+          "text": "Foul by Lautaro Martínez (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "43'",
+          "text": "Vozinha (Cabo Verde) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "43'",
+          "text": "Lionel Messi (Argentina) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "43'",
+          "text": "Foul by Diney Borges (Cabo Verde).",
+          "goal": false
+        },
+        {
+          "min": "42'",
+          "text": "Enzo Fernández (Argentina) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "42'",
+          "text": "Foul by Deroy Duarte (Cabo Verde).",
+          "goal": false
+        },
+        {
+          "min": "41'",
+          "text": "Offside, Argentina. Facundo Medina is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "40'",
+          "text": "Thiago Almada (Argentina) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "40'",
+          "text": "Foul by Deroy Duarte (Cabo Verde).",
+          "goal": false
+        },
+        {
+          "min": "36'",
+          "text": "Offside, Argentina. Nahuel Molina is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "32'",
+          "text": "Foul by Nahuel Molina (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "32'",
+          "text": "Jovane Cabral (Cabo Verde) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "29'",
+          "text": "Goal! Argentina 1, Cabo Verde 0. Lionel Messi (Argentina) left footed shot from the right side of the six yard box to the top right corner. Assisted by Lisandro Martínez with a through ball.",
+          "goal": true
+        },
+        {
+          "min": "27'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "25'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "18'",
+          "text": "Attempt saved. Lionel Messi (Argentina) left footed shot from outside the box is saved in the centre of the goal by Vozinha (Cabo Verde).",
+          "goal": false
+        },
+        {
+          "min": "17'",
+          "text": "Lionel Messi (Argentina) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "17'",
+          "text": "Foul by Jovane Cabral (Cabo Verde).",
+          "goal": false
+        },
+        {
+          "min": "15'",
+          "text": "Attempt missed. Lionel Messi (Argentina) left footed shot from the left side of the box misses to the right. Assisted by Thiago Almada.",
+          "goal": false
+        },
+        {
+          "min": "10'",
+          "text": "Foul by Cristian Romero (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "10'",
+          "text": "Jovane Cabral (Cabo Verde) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "7'",
+          "text": "Attempt blocked. Ryan Mendes (Cabo Verde) left footed shot from the right side of the box is blocked. Assisted by Diney Borges.",
+          "goal": false
+        },
+        {
+          "min": "4'",
+          "text": "Foul by Rodrigo De Paul (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "4'",
+          "text": "Sidny Cabral (Cabo Verde) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
           "min": "",
           "text": "First Half begins.",
           "goal": false
@@ -78103,8 +78305,75 @@
           "goal": false
         }
       ],
-      "leaders": [],
-      "highlight": null,
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "L. Messi",
+            "num": "10",
+            "pos": "F",
+            "value": "3"
+          },
+          "away": {
+            "name": "R. Mendes",
+            "num": "20",
+            "pos": "F",
+            "value": "2"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "C. Romero",
+            "num": "13",
+            "pos": "D",
+            "value": "71"
+          },
+          "away": {
+            "name": "D. Borges",
+            "num": "3",
+            "pos": "D",
+            "value": "36"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "F. Medina",
+            "num": "25",
+            "pos": "D",
+            "value": "9"
+          },
+          "away": {
+            "name": "K. Pina",
+            "num": "6",
+            "pos": "M",
+            "value": "9"
+          }
+        },
+        {
+          "label": "Saves",
+          "home": {
+            "name": "E. Martínez",
+            "num": "23",
+            "pos": "G",
+            "value": "1"
+          },
+          "away": {
+            "name": "Vozinha",
+            "num": "1",
+            "pos": "G",
+            "value": "2"
+          }
+        }
+      ],
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0703/dm_260703_Buenos_Aires_goes_mad_for_Messis_opening_goal_vs_Cape_Verde/dm_260703_Buenos_Aires_goes_mad_for_Messis_opening_goal_vs_Cape_Verde.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49262253/buenos-aires-goes-mad-messi-opening-goal-vs-cape-verde",
+        "headline": "Buenos Aires goes mad for Messi's opening goal vs. Cape Verde",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0703/dm_260703_Buenos_Aires_goes_mad_for_Messis_opening_goal_vs_Cape_Verde/dm_260703_Buenos_Aires_goes_mad_for_Messis_opening_goal_vs_Cape_Verde_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0703/dm_260703_Buenos_Aires_goes_mad_for_Messis_opening_goal_vs_Cape_Verde/dm_260703_Buenos_Aires_goes_mad_for_Messis_opening_goal_vs_Cape_Verde/playlist.m3u8"
+      },
       "final": false,
       "dv": 5
     }

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T23:15:21.279Z",
+  "lastUpdated": "2026-07-04T01:02:18.660Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -1210,25 +1210,15 @@
       "stage": "r32",
       "home": "Argentina",
       "away": "Cabo Verde",
-      "homeScore": 1,
-      "awayScore": 0,
-      "homeWinner": false,
+      "homeScore": 3,
+      "awayScore": 2,
+      "homeWinner": true,
       "awayWinner": false,
-      "odds": {
-        "home": -700,
-        "away": 1800,
-        "draw": 700,
-        "total": 2.5,
-        "book": "DraftKings"
-      },
-      "status": "live",
+      "odds": null,
+      "status": "finished",
       "id": "760500",
       "date": "2026-07-03T22:00Z",
-      "venue": "Hard Rock Stadium",
-      "clock": 3240,
-      "displayClock": "54'",
-      "detail": "54'",
-      "period": 2
+      "venue": "Hard Rock Stadium"
     },
     {
       "stage": "r32",
@@ -1372,7 +1362,7 @@
     },
     {
       "stage": "r16",
-      "home": "Round of 32 14 Winner",
+      "home": "Argentina",
       "away": "Egypt",
       "homeScore": 0,
       "awayScore": 0,

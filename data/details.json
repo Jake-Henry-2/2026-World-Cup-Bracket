@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T23:15:21.365Z",
+  "lastUpdated": "2026-07-04T01:02:18.948Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -77650,64 +77650,64 @@
       "venue": "Hard Rock Stadium",
       "stats": {
         "home": {
-          "foulsCommitted": "7",
-          "yellowCards": "0",
+          "foulsCommitted": "13",
+          "yellowCards": "1",
           "redCards": "0",
-          "offsides": "2",
-          "wonCorners": "0",
-          "saves": "1",
-          "possessionPct": "63.6",
-          "totalShots": "4",
-          "shotsOnTarget": "3",
-          "shotPct": "0.8",
+          "offsides": "3",
+          "wonCorners": "8",
+          "saves": "3",
+          "possessionPct": "63.5",
+          "totalShots": "22",
+          "shotsOnTarget": "10",
+          "shotPct": "0.5",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "410",
-          "totalPasses": "437",
+          "accuratePasses": "779",
+          "totalPasses": "849",
           "passPct": "0.9",
-          "accurateCrosses": "0",
-          "totalCrosses": "2",
-          "crossPct": "0.0",
-          "totalLongBalls": "17",
-          "accurateLongBalls": "11",
+          "accurateCrosses": "6",
+          "totalCrosses": "15",
+          "crossPct": "0.4",
+          "totalLongBalls": "39",
+          "accurateLongBalls": "25",
           "longballPct": "0.6",
-          "blockedShots": "0",
-          "effectiveTackles": "6",
-          "totalTackles": "10",
+          "blockedShots": "7",
+          "effectiveTackles": "13",
+          "totalTackles": "22",
           "tacklePct": "0.6",
-          "interceptions": "3",
-          "effectiveClearance": "10",
-          "totalClearance": "10"
+          "interceptions": "9",
+          "effectiveClearance": "25",
+          "totalClearance": "25"
         },
         "away": {
-          "foulsCommitted": "4",
-          "yellowCards": "0",
+          "foulsCommitted": "12",
+          "yellowCards": "1",
           "redCards": "0",
-          "offsides": "0",
-          "wonCorners": "2",
-          "saves": "2",
-          "possessionPct": "36.4",
-          "totalShots": "4",
-          "shotsOnTarget": "1",
+          "offsides": "2",
+          "wonCorners": "8",
+          "saves": "8",
+          "possessionPct": "36.5",
+          "totalShots": "16",
+          "shotsOnTarget": "5",
           "shotPct": "0.3",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "211",
-          "totalPasses": "244",
+          "accuratePasses": "408",
+          "totalPasses": "476",
           "passPct": "0.9",
-          "accurateCrosses": "3",
-          "totalCrosses": "9",
+          "accurateCrosses": "6",
+          "totalCrosses": "21",
           "crossPct": "0.3",
-          "totalLongBalls": "27",
-          "accurateLongBalls": "11",
+          "totalLongBalls": "50",
+          "accurateLongBalls": "21",
           "longballPct": "0.4",
-          "blockedShots": "2",
-          "effectiveTackles": "6",
-          "totalTackles": "10",
-          "tacklePct": "0.6",
-          "interceptions": "3",
-          "effectiveClearance": "3",
-          "totalClearance": "3"
+          "blockedShots": "6",
+          "effectiveTackles": "8",
+          "totalTackles": "19",
+          "tacklePct": "0.4",
+          "interceptions": "9",
+          "effectiveClearance": "27",
+          "totalClearance": "27"
         }
       },
       "events": [
@@ -77716,6 +77716,108 @@
           "min": "29'",
           "side": "home",
           "player": "Goal! Argentina 1, Cabo Verde 0. Lionel Messi"
+        },
+        {
+          "kind": "Goal",
+          "min": "59'",
+          "side": "away",
+          "player": "Goal! Argentina 1, Cabo Verde 1. Deroy Duarte"
+        },
+        {
+          "kind": "Substitution",
+          "min": "63'",
+          "side": "home",
+          "player": "Substitution, Argentina. Julián Alvarez replaces Lautaro Martínez."
+        },
+        {
+          "kind": "Substitution",
+          "min": "64'",
+          "side": "home",
+          "player": "Substitution, Argentina. Nico González replaces Thiago Almada."
+        },
+        {
+          "kind": "Substitution",
+          "min": "67'",
+          "side": "away",
+          "player": "Substitution, Cabo Verde. Jamiro Monteiro replaces Laros Duarte."
+        },
+        {
+          "kind": "Substitution",
+          "min": "67'",
+          "side": "away",
+          "player": "Substitution, Cabo Verde. Dailon Livramento replaces Nuno da Costa."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "68'",
+          "side": "away",
+          "player": "Kevin Pina"
+        },
+        {
+          "kind": "Substitution",
+          "min": "80'",
+          "side": "away",
+          "player": "Substitution, Cabo Verde. Willy Semedo replaces Ryan Mendes."
+        },
+        {
+          "kind": "Substitution",
+          "min": "80'",
+          "side": "away",
+          "player": "Substitution, Cabo Verde. Hélio Varela replaces Jovane Cabral."
+        },
+        {
+          "kind": "Substitution",
+          "min": "84'",
+          "side": "home",
+          "player": "Substitution, Argentina. Leandro Paredes replaces Rodrigo De Paul."
+        },
+        {
+          "kind": "Substitution",
+          "min": "86'",
+          "side": "home",
+          "player": "Substitution, Argentina. Nicolás Tagliafico replaces Facundo Medina because of an injury."
+        },
+        {
+          "kind": "Goal",
+          "min": "92'",
+          "side": "home",
+          "player": "Goal! Argentina 2, Cabo Verde 1. Lisandro Martínez"
+        },
+        {
+          "kind": "Substitution",
+          "min": "100'",
+          "side": "away",
+          "player": "Substitution, Cabo Verde. Yannick Semedo replaces Deroy Duarte."
+        },
+        {
+          "kind": "Substitution",
+          "min": "100'",
+          "side": "away",
+          "player": "Substitution, Cabo Verde. Gilson Benchimol replaces Kevin Pina."
+        },
+        {
+          "kind": "Goal",
+          "min": "103'",
+          "side": "away",
+          "player": "Goal! Argentina 2, Cabo Verde 2. Sidny Cabral"
+        },
+        {
+          "kind": "Substitution",
+          "min": "104'",
+          "side": "home",
+          "player": "Substitution, Argentina. Gonzalo Montiel replaces Nahuel Molina."
+        },
+        {
+          "kind": "Own Goal",
+          "min": "111'",
+          "side": "home",
+          "player": "Own Goal by Diney Borges, Cabo Verde. Argentina 3, Cabo Verde 2."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "115'",
+          "side": "home",
+          "player": "Gonzalo Montiel"
         }
       ],
       "lineups": {
@@ -78100,208 +78202,303 @@
       },
       "commentary": [
         {
-          "min": "54'",
-          "text": "Attempt saved. Deroy Duarte (Cabo Verde) left footed shot from outside the box is saved in the bottom right corner by Emiliano Martínez (Argentina).",
+          "min": "",
+          "text": "Match ends, Argentina 3, Cabo Verde 2.",
           "goal": false
         },
         {
-          "min": "53'",
-          "text": "Foul by Thiago Almada (Argentina).",
+          "min": "120'+4'",
+          "text": "Second Half Extra Time ends, Argentina 3, Cabo Verde 2.",
           "goal": false
         },
         {
-          "min": "53'",
-          "text": "Steven Moreira (Cabo Verde) wins a free kick in the defensive half.",
+          "min": "120'+2'",
+          "text": "Attempt missed. Hélio Varela (Cabo Verde) right footed shot from outside the box misses to the left.",
           "goal": false
         },
         {
-          "min": "50'",
-          "text": "Foul by Lautaro Martínez (Argentina).",
+          "min": "120'+2'",
+          "text": "Attempt blocked. Jamiro Monteiro (Cabo Verde) right footed shot from outside the box is blocked. Assisted by Yannick Semedo with a cross.",
           "goal": false
         },
         {
-          "min": "50'",
-          "text": "Pico Lopes (Cabo Verde) wins a free kick in the defensive half.",
+          "min": "120'+1'",
+          "text": "Fourth official has announced 3 minutes of added time.",
           "goal": false
         },
         {
-          "min": "49'",
-          "text": "Attempt missed. Ryan Mendes (Cabo Verde) right footed shot from outside the box is high and wide to the left. Assisted by Laros Duarte with a headed pass.",
+          "min": "120'+1'",
+          "text": "Corner, Cabo Verde. Conceded by Lisandro Martínez.",
           "goal": false
         },
         {
-          "min": "49'",
-          "text": "Corner, Cabo Verde. Conceded by Rodrigo De Paul.",
+          "min": "120'+1'",
+          "text": "Attempt blocked. Hélio Varela (Cabo Verde) right footed shot from outside the box is blocked. Assisted by Yannick Semedo.",
           "goal": false
         },
         {
-          "min": "49'",
-          "text": "Attempt blocked. Jovane Cabral (Cabo Verde) right footed shot from outside the box is blocked.",
+          "min": "119'",
+          "text": "Offside, Cabo Verde. Dailon Livramento is caught offside.",
           "goal": false
         },
         {
-          "min": "48'",
-          "text": "Corner, Cabo Verde. Conceded by Nahuel Molina.",
+          "min": "119'",
+          "text": "Corner, Cabo Verde. Conceded by Emiliano Martínez.",
           "goal": false
         },
         {
-          "min": "45'",
-          "text": "Second Half begins Argentina 1, Cabo Verde 0.",
+          "min": "119'",
+          "text": "Attempt saved. Diney Borges (Cabo Verde) header from the centre of the box is saved in the bottom left corner by Emiliano Martínez (Argentina). Assisted by Steven Moreira with a cross.",
           "goal": false
         },
         {
-          "min": "45'+4'",
-          "text": "First Half ends, Argentina 1, Cabo Verde 0.",
+          "min": "116'",
+          "text": "Corner, Cabo Verde. Conceded by Emiliano Martínez.",
           "goal": false
         },
         {
-          "min": "45'+2'",
-          "text": "Foul by Lionel Messi (Argentina).",
+          "min": "116'",
+          "text": "Attempt saved. Sidny Cabral (Cabo Verde) right footed shot from a difficult angle and long range on the left is saved in the top right corner by Emiliano Martínez (Argentina).",
           "goal": false
         },
         {
-          "min": "45'+2'",
-          "text": "Sidny Cabral (Cabo Verde) wins a free kick in the defensive half.",
+          "min": "115'",
+          "text": "Gonzalo Montiel (Argentina) is shown the yellow card for a bad foul.",
           "goal": false
         },
         {
-          "min": "45'",
-          "text": "Fourth official has announced 4 minutes of added time.",
+          "min": "115'",
+          "text": "Foul by Gonzalo Montiel (Argentina).",
           "goal": false
         },
         {
-          "min": "45'",
-          "text": "Attempt saved. Enzo Fernández (Argentina) right footed shot from outside the box is saved in the bottom right corner by Vozinha (Cabo Verde).",
+          "min": "115'",
+          "text": "Hélio Varela (Cabo Verde) wins a free kick on the left wing.",
           "goal": false
         },
         {
-          "min": "43'",
-          "text": "Foul by Lautaro Martínez (Argentina).",
+          "min": "114'",
+          "text": "Attempt blocked. Willy Semedo (Cabo Verde) left footed shot from the left side of the box is blocked. Assisted by Jamiro Monteiro.",
           "goal": false
         },
         {
-          "min": "43'",
+          "min": "111'",
+          "text": "Own Goal by Diney Borges, Cabo Verde. Argentina 3, Cabo Verde 2.",
+          "goal": true
+        },
+        {
+          "min": "111'",
+          "text": "Attempt missed. Cristian Romero (Argentina) header from the left side of the six yard box misses to the right. Assisted by Lionel Messi with a cross following a corner.",
+          "goal": false
+        },
+        {
+          "min": "111'",
+          "text": "Corner, Argentina. Conceded by Diney Borges.",
+          "goal": false
+        },
+        {
+          "min": "110'",
+          "text": "Nicolás Tagliafico (Argentina) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "110'",
+          "text": "Foul by Willy Semedo (Cabo Verde).",
+          "goal": false
+        },
+        {
+          "min": "109'",
+          "text": "Offside, Argentina. Nicolás Tagliafico is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "108'",
+          "text": "Attempt missed. Yannick Semedo (Cabo Verde) right footed shot from outside the box misses to the left. Assisted by Gilson Benchimol.",
+          "goal": false
+        },
+        {
+          "min": "107'",
+          "text": "Alexis Mac Allister (Argentina) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "107'",
+          "text": "Foul by Jamiro Monteiro (Cabo Verde).",
+          "goal": false
+        },
+        {
+          "min": "105'",
+          "text": "Second Half Extra Time begins Argentina 2, Cabo Verde 2.",
+          "goal": false
+        },
+        {
+          "min": "105'+4'",
+          "text": "First Half Extra Time ends, Argentina 2, Cabo Verde 2.",
+          "goal": false
+        },
+        {
+          "min": "105'+1'",
+          "text": "Attempt blocked. Gonzalo Montiel (Argentina) right footed shot from the centre of the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "105'+1'",
+          "text": "Attempt saved. Lionel Messi (Argentina) left footed shot from the centre of the box is saved in the centre of the goal by Vozinha (Cabo Verde).",
+          "goal": false
+        },
+        {
+          "min": "105'",
+          "text": "Fourth official has announced 3 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "104'",
+          "text": "Substitution, Argentina. Gonzalo Montiel replaces Nahuel Molina.",
+          "goal": false
+        },
+        {
+          "min": "103'",
+          "text": "Goal! Argentina 2, Cabo Verde 2. Sidny Cabral (Cabo Verde) right footed shot from the left side of the box to the top right corner. Assisted by Yannick Semedo.",
+          "goal": true
+        },
+        {
+          "min": "100'",
+          "text": "Substitution, Cabo Verde. Gilson Benchimol replaces Kevin Pina.",
+          "goal": false
+        },
+        {
+          "min": "100'",
+          "text": "Substitution, Cabo Verde. Yannick Semedo replaces Deroy Duarte.",
+          "goal": false
+        },
+        {
+          "min": "99'",
+          "text": "Attempt blocked. Enzo Fernández (Argentina) right footed shot from outside the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "98'",
+          "text": "Corner, Argentina. Conceded by Sidny Cabral.",
+          "goal": false
+        },
+        {
+          "min": "98'",
+          "text": "Attempt blocked. Julián Alvarez (Argentina) right footed shot from the centre of the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "98'",
+          "text": "Attempt blocked. Lionel Messi (Argentina) left footed shot from the centre of the box is blocked. Assisted by Julián Alvarez.",
+          "goal": false
+        },
+        {
+          "min": "97'",
+          "text": "Attempt blocked. Steven Moreira (Cabo Verde) right footed shot from outside the box is blocked. Assisted by Hélio Varela.",
+          "goal": false
+        },
+        {
+          "min": "97'",
+          "text": "Corner, Cabo Verde. Conceded by Lisandro Martínez.",
+          "goal": false
+        },
+        {
+          "min": "97'",
+          "text": "Attempt missed. Diney Borges (Cabo Verde) header from the centre of the box misses to the left. Assisted by Sidny Cabral with a cross following a corner.",
+          "goal": false
+        },
+        {
+          "min": "96'",
+          "text": "Corner, Cabo Verde. Conceded by Nico González.",
+          "goal": false
+        },
+        {
+          "min": "96'",
+          "text": "Corner, Cabo Verde. Conceded by Alexis Mac Allister.",
+          "goal": false
+        },
+        {
+          "min": "92'",
+          "text": "Goal! Argentina 2, Cabo Verde 1. Lisandro Martínez (Argentina) left footed shot from the right side of the box to the top right corner. Assisted by Alexis Mac Allister with a headed pass following a corner.",
+          "goal": true
+        },
+        {
+          "min": "92'",
+          "text": "Corner, Argentina. Conceded by Pico Lopes.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "First Half Extra Time begins Argentina 1, Cabo Verde 1.",
+          "goal": false
+        },
+        {
+          "min": "90'+9'",
+          "text": "Second Half ends, Argentina 1, Cabo Verde 1.",
+          "goal": false
+        },
+        {
+          "min": "90'+8'",
+          "text": "Nicolás Tagliafico (Argentina) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+8'",
+          "text": "Foul by Willy Semedo (Cabo Verde).",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Foul by Nico González (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Steven Moreira (Cabo Verde) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Foul by Julián Alvarez (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
           "text": "Vozinha (Cabo Verde) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "43'",
-          "text": "Lionel Messi (Argentina) wins a free kick in the defensive half.",
+          "min": "90'+5'",
+          "text": "Attempt saved. Enzo Fernández (Argentina) header from the centre of the box is saved in the centre of the goal by Vozinha (Cabo Verde).",
           "goal": false
         },
         {
-          "min": "43'",
-          "text": "Foul by Diney Borges (Cabo Verde).",
-          "goal": false
-        },
-        {
-          "min": "42'",
-          "text": "Enzo Fernández (Argentina) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "42'",
-          "text": "Foul by Deroy Duarte (Cabo Verde).",
-          "goal": false
-        },
-        {
-          "min": "41'",
-          "text": "Offside, Argentina. Facundo Medina is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "40'",
-          "text": "Thiago Almada (Argentina) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "40'",
-          "text": "Foul by Deroy Duarte (Cabo Verde).",
-          "goal": false
-        },
-        {
-          "min": "36'",
-          "text": "Offside, Argentina. Nahuel Molina is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "32'",
-          "text": "Foul by Nahuel Molina (Argentina).",
-          "goal": false
-        },
-        {
-          "min": "32'",
-          "text": "Jovane Cabral (Cabo Verde) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "29'",
-          "text": "Goal! Argentina 1, Cabo Verde 0. Lionel Messi (Argentina) left footed shot from the right side of the six yard box to the top right corner. Assisted by Lisandro Martínez with a through ball.",
-          "goal": true
-        },
-        {
-          "min": "27'",
-          "text": "Delay over. They are ready to continue.",
-          "goal": false
-        },
-        {
-          "min": "25'",
-          "text": "Delay in match for a drinks break.",
-          "goal": false
-        },
-        {
-          "min": "18'",
+          "min": "90'+5'",
           "text": "Attempt saved. Lionel Messi (Argentina) left footed shot from outside the box is saved in the centre of the goal by Vozinha (Cabo Verde).",
           "goal": false
         },
         {
-          "min": "17'",
+          "min": "90'+4'",
           "text": "Lionel Messi (Argentina) wins a free kick in the attacking half.",
           "goal": false
         },
         {
-          "min": "17'",
-          "text": "Foul by Jovane Cabral (Cabo Verde).",
+          "min": "90'+4'",
+          "text": "Foul by Jamiro Monteiro (Cabo Verde).",
           "goal": false
         },
         {
-          "min": "15'",
-          "text": "Attempt missed. Lionel Messi (Argentina) left footed shot from the left side of the box misses to the right. Assisted by Thiago Almada.",
+          "min": "90'+2'",
+          "text": "Attempt saved. Leandro Paredes (Argentina) right footed shot from outside the box is saved in the top centre of the goal by Vozinha (Cabo Verde). Assisted by Alexis Mac Allister.",
           "goal": false
         },
         {
-          "min": "10'",
-          "text": "Foul by Cristian Romero (Argentina).",
+          "min": "90'",
+          "text": "Fourth official has announced 8 minutes of added time.",
           "goal": false
         },
         {
-          "min": "10'",
-          "text": "Jovane Cabral (Cabo Verde) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "7'",
-          "text": "Attempt blocked. Ryan Mendes (Cabo Verde) left footed shot from the right side of the box is blocked. Assisted by Diney Borges.",
-          "goal": false
-        },
-        {
-          "min": "4'",
-          "text": "Foul by Rodrigo De Paul (Argentina).",
-          "goal": false
-        },
-        {
-          "min": "4'",
-          "text": "Sidny Cabral (Cabo Verde) wins a free kick on the left wing.",
-          "goal": false
-        },
-        {
-          "min": "",
-          "text": "First Half begins.",
-          "goal": false
-        },
-        {
-          "min": "",
-          "text": "Lineups are announced and players are warming up.",
+          "min": "89'",
+          "text": "Attempt blocked. Alexis Mac Allister (Argentina) header from the centre of the box is blocked. Assisted by Lionel Messi with a cross.",
           "goal": false
         }
       ],
@@ -78312,43 +78509,43 @@
             "name": "L. Messi",
             "num": "10",
             "pos": "F",
-            "value": "3"
+            "value": "9"
           },
           "away": {
-            "name": "R. Mendes",
-            "num": "20",
-            "pos": "F",
+            "name": "S. Lopes Cabral",
+            "num": "13",
+            "pos": "D",
             "value": "2"
           }
         },
         {
           "label": "Accurate Passes",
           "home": {
-            "name": "C. Romero",
-            "num": "13",
+            "name": "L. Martínez",
+            "num": "6",
             "pos": "D",
-            "value": "71"
-          },
-          "away": {
-            "name": "D. Borges",
-            "num": "3",
-            "pos": "D",
-            "value": "36"
-          }
-        },
-        {
-          "label": "Defensive Interventions",
-          "home": {
-            "name": "F. Medina",
-            "num": "25",
-            "pos": "D",
-            "value": "9"
+            "value": "117"
           },
           "away": {
             "name": "K. Pina",
             "num": "6",
             "pos": "M",
-            "value": "9"
+            "value": "50"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "L. Paredes",
+            "num": "5",
+            "pos": "M",
+            "value": "10"
+          },
+          "away": {
+            "name": "K. Pina",
+            "num": "6",
+            "pos": "M",
+            "value": "15"
           }
         },
         {
@@ -78357,24 +78554,24 @@
             "name": "E. Martínez",
             "num": "23",
             "pos": "G",
-            "value": "1"
+            "value": "3"
           },
           "away": {
             "name": "Vozinha",
             "num": "1",
             "pos": "G",
-            "value": "2"
+            "value": "8"
           }
         }
       ],
       "highlight": {
-        "thumb": "https://a.espncdn.com/media/motion/2026/0703/dm_260703_Buenos_Aires_goes_mad_for_Messis_opening_goal_vs_Cape_Verde/dm_260703_Buenos_Aires_goes_mad_for_Messis_opening_goal_vs_Cape_Verde.jpg",
-        "link": "https://www.espn.com/video/clip/_/id/49262253/buenos-aires-goes-mad-messi-opening-goal-vs-cape-verde",
-        "headline": "Buenos Aires goes mad for Messi's opening goal vs. Cape Verde",
-        "mp4": "https://media.video-cdn.espn.com/motion/2026/0703/dm_260703_Buenos_Aires_goes_mad_for_Messis_opening_goal_vs_Cape_Verde/dm_260703_Buenos_Aires_goes_mad_for_Messis_opening_goal_vs_Cape_Verde_360p30_1464k.mp4",
-        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0703/dm_260703_Buenos_Aires_goes_mad_for_Messis_opening_goal_vs_Cape_Verde/dm_260703_Buenos_Aires_goes_mad_for_Messis_opening_goal_vs_Cape_Verde/playlist.m3u8"
+        "thumb": "https://a.espncdn.com/media/motion/2026/0703/dm_260703_COM_SOC_News_Cape_Verde_fans_go_wild_after_goal_vs_Argentina_20260703_GLOBAL_FIFA_WORLD_CUP/dm_260703_COM_SOC_News_Cape_Verde_fans_go_wild_after_goal_vs_Argentina_20260703_GLOBAL_FIFA_WORLD_CUP.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49262501/cape-verde-fans-go-wild-goal-vs-argentina",
+        "headline": "Cape Verde fans go wild after goal vs. Argentina",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0703/dm_260703_COM_SOC_News_Cape_Verde_fans_go_wild_after_goal_vs_Argentina_20260703_GLOBAL_FIFA_WORLD_CUP/dm_260703_COM_SOC_News_Cape_Verde_fans_go_wild_after_goal_vs_Argentina_20260703_GLOBAL_FIFA_WORLD_CUP_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0703/dm_260703_COM_SOC_News_Cape_Verde_fans_go_wild_after_goal_vs_Argentina_20260703_GLOBAL_FIFA_WORLD_CUP/dm_260703_COM_SOC_News_Cape_Verde_fans_go_wild_after_goal_vs_Argentina_20260703_GLOBAL_FIFA_WORLD_CUP/playlist.m3u8"
       },
-      "final": false,
+      "final": true,
       "dv": 5
     }
   }

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T21:01:43.449Z",
+  "lastUpdated": "2026-07-04T22:07:32.998Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -1263,10 +1263,14 @@
         "total": 2.5,
         "book": "DraftKings"
       },
-      "status": "scheduled",
+      "status": "live",
       "id": "760503",
       "date": "2026-07-04T21:00Z",
-      "venue": "Lincoln Financial Field"
+      "venue": "Lincoln Financial Field",
+      "clock": 2700,
+      "displayClock": "45'+3'",
+      "detail": "HT",
+      "period": 1
     },
     {
       "stage": "r16",
@@ -1357,8 +1361,8 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -275,
-        "away": 850,
+        "home": -265,
+        "away": 800,
         "draw": 370,
         "total": 2.5,
         "book": "DraftKings"

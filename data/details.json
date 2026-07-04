@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T21:01:43.507Z",
+  "lastUpdated": "2026-07-04T22:07:33.095Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -80415,6 +80415,716 @@
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0704/dm_260704_COM_SOC_Analysis_Jones3A_Canada_had_a_good_World_Cup_despite_defeat_vs_Morocco_GLOBAL_2026-07-01/dm_260704_COM_SOC_Analysis_Jones3A_Canada_had_a_good_World_Cup_despite_defeat_vs_Morocco_GLOBAL_2026-07-01/playlist.m3u8"
       },
       "final": true,
+      "dv": 5
+    },
+    "760503": {
+      "venue": "Lincoln Financial Field",
+      "stats": {
+        "home": {
+          "foulsCommitted": "4",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "0",
+          "saves": "0",
+          "possessionPct": "19.5",
+          "totalShots": "2",
+          "shotsOnTarget": "0",
+          "shotPct": "0.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "43",
+          "totalPasses": "76",
+          "passPct": "0.6",
+          "accurateCrosses": "0",
+          "totalCrosses": "0",
+          "crossPct": "0.0",
+          "totalLongBalls": "25",
+          "accurateLongBalls": "7",
+          "longballPct": "0.3",
+          "blockedShots": "1",
+          "effectiveTackles": "6",
+          "totalTackles": "10",
+          "tacklePct": "0.6",
+          "interceptions": "10",
+          "effectiveClearance": "18",
+          "totalClearance": "18"
+        },
+        "away": {
+          "foulsCommitted": "6",
+          "yellowCards": "1",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "7",
+          "saves": "0",
+          "possessionPct": "80.5",
+          "totalShots": "5",
+          "shotsOnTarget": "1",
+          "shotPct": "0.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "276",
+          "totalPasses": "300",
+          "passPct": "0.9",
+          "accurateCrosses": "1",
+          "totalCrosses": "20",
+          "crossPct": "0.1",
+          "totalLongBalls": "20",
+          "accurateLongBalls": "16",
+          "longballPct": "0.8",
+          "blockedShots": "3",
+          "effectiveTackles": "5",
+          "totalTackles": "8",
+          "tacklePct": "0.6",
+          "interceptions": "3",
+          "effectiveClearance": "12",
+          "totalClearance": "12"
+        }
+      },
+      "events": [
+        {
+          "kind": "Yellow Card",
+          "min": "19'",
+          "side": "away",
+          "player": "Bradley Barcola"
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Orlando Gill",
+            "short": "O. Gill",
+            "num": "12",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Gustavo Gómez",
+            "short": "G. Gómez",
+            "num": "15",
+            "pos": "CD",
+            "place": "5"
+          },
+          {
+            "name": "Omar Alderete",
+            "short": "O. Alderete",
+            "num": "3",
+            "pos": "CD-L",
+            "place": "4"
+          },
+          {
+            "name": "Gustavo Velázquez",
+            "short": "G. Velázquez",
+            "num": "2",
+            "pos": "CD-R",
+            "place": "6"
+          },
+          {
+            "name": "Júnior Alonso",
+            "short": "J. Alonso",
+            "num": "6",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Juan Jose Cáceres",
+            "short": "J. Cáceres",
+            "num": "4",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Andrés Cubas",
+            "short": "A. Cubas",
+            "num": "14",
+            "pos": "CM-L",
+            "place": "10"
+          },
+          {
+            "name": "Diego Gómez",
+            "short": "D. Gómez",
+            "num": "8",
+            "pos": "CM-R",
+            "place": "8"
+          },
+          {
+            "name": "Matías Galarza",
+            "short": "M. Galarza",
+            "num": "23",
+            "pos": "LM",
+            "place": "11"
+          },
+          {
+            "name": "Miguel Almirón",
+            "short": "M. Almirón",
+            "num": "10",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Julio Enciso",
+            "short": "J. Enciso",
+            "num": "19",
+            "pos": "F",
+            "place": "9"
+          }
+        ],
+        "away": [
+          {
+            "name": "Mike Maignan",
+            "short": "M. Maignan",
+            "num": "16",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "William Saliba",
+            "short": "W. Saliba",
+            "num": "17",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Dayot Upamecano",
+            "short": "D. Upamecano",
+            "num": "4",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Lucas Digne",
+            "short": "L. Digne",
+            "num": "3",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Jules Koundé",
+            "short": "J. Koundé",
+            "num": "5",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Michael Olise",
+            "short": "M. Olise",
+            "num": "11",
+            "pos": "AM",
+            "place": "10"
+          },
+          {
+            "name": "Adrien Rabiot",
+            "short": "A. Rabiot",
+            "num": "14",
+            "pos": "LM",
+            "place": "4"
+          },
+          {
+            "name": "Manu Koné",
+            "short": "M. Koné",
+            "num": "6",
+            "pos": "RM",
+            "place": "8"
+          },
+          {
+            "name": "Kylian Mbappé",
+            "short": "K. Mbappé",
+            "num": "10",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Bradley Barcola",
+            "short": "B. Barcola",
+            "num": "12",
+            "pos": "AM-L",
+            "place": "11"
+          },
+          {
+            "name": "Ousmane Dembélé",
+            "short": "O. Dembélé",
+            "num": "7",
+            "pos": "AM-R",
+            "place": "7"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Alejandro Romero Gamarra",
+            "short": "A. Romero Gamarra",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Fabián Balbuena",
+            "short": "F. Balbuena",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Alex Arce",
+            "short": "A. Arce",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Maurício",
+            "short": "Maurício",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gustavo Caballero",
+            "short": "G. Caballero",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Damián Bobadilla",
+            "short": "D. Bobadilla",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Antonio Sanabria",
+            "short": "A. Sanabria",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ramón Sosa",
+            "short": "R. Sosa",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Braian Ojeda",
+            "short": "B. Ojeda",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gastón Olveira",
+            "short": "G. Olveira",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gatito Fernández",
+            "short": "G. Fernández",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "José Canale",
+            "short": "J. Canale",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Alexandro Maidana",
+            "short": "A. Maidana",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Isidro Pitta",
+            "short": "I. Pitta",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gabriel Ávalos",
+            "short": "G. Ávalos",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Aurélien Tchouaméni",
+            "short": "A. Tchouaméni",
+            "num": "8",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Désiré Doué",
+            "short": "D. Doué",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jean-Philippe Mateta",
+            "short": "J. Mateta",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Theo Hernández",
+            "short": "T. Hernández",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "N'Golo Kanté",
+            "short": "N. Kanté",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Lucas Hernández",
+            "short": "L. Hernández",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Maghnes Akliouche",
+            "short": "M. Akliouche",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Maxence Lacroix",
+            "short": "M. Lacroix",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ibrahima Konaté",
+            "short": "I. Konaté",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Robin Risser",
+            "short": "R. Risser",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Marcus Thuram",
+            "short": "M. Thuram",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Brice Samba",
+            "short": "B. Samba",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Rayan Cherki",
+            "short": "R. Cherki",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Warren Zaïre-Emery",
+            "short": "W. Zaïre-Emery",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Malo Gusto",
+            "short": "M. Gusto",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "5-4-1",
+        "away": "4-2-3-1"
+      },
+      "commentary": [
+        {
+          "min": "45'+4'",
+          "text": "First Half ends, Paraguay 0, France 0.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Fourth official has announced 3 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Attempt blocked. Adrien Rabiot (France) left footed shot from outside the box is blocked. Assisted by Bradley Barcola.",
+          "goal": false
+        },
+        {
+          "min": "43'",
+          "text": "Attempt missed. Manu Koné (France) right footed shot from outside the box is high and wide to the right. Assisted by Dayot Upamecano.",
+          "goal": false
+        },
+        {
+          "min": "41'",
+          "text": "Corner, France. Conceded by Omar Alderete.",
+          "goal": false
+        },
+        {
+          "min": "40'",
+          "text": "Jules Koundé (France) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "40'",
+          "text": "Foul by Julio Enciso (Paraguay).",
+          "goal": false
+        },
+        {
+          "min": "38'",
+          "text": "Corner, France. Conceded by Júnior Alonso.",
+          "goal": false
+        },
+        {
+          "min": "38'",
+          "text": "Attempt blocked. Ousmane Dembélé (France) left footed shot from the right side of the box is blocked. Assisted by Kylian Mbappé.",
+          "goal": false
+        },
+        {
+          "min": "36'",
+          "text": "Foul by Dayot Upamecano (France).",
+          "goal": false
+        },
+        {
+          "min": "36'",
+          "text": "Gustavo Gómez (Paraguay) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "36'",
+          "text": "Corner, France. Conceded by Andrés Cubas.",
+          "goal": false
+        },
+        {
+          "min": "34'",
+          "text": "Kylian Mbappé (France) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "34'",
+          "text": "Foul by Andrés Cubas (Paraguay).",
+          "goal": false
+        },
+        {
+          "min": "34'",
+          "text": "Mike Maignan (France) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "34'",
+          "text": "Foul by Gustavo Velázquez (Paraguay).",
+          "goal": false
+        },
+        {
+          "min": "33'",
+          "text": "Foul by William Saliba (France).",
+          "goal": false
+        },
+        {
+          "min": "33'",
+          "text": "Julio Enciso (Paraguay) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "33'",
+          "text": "Attempt missed. Adrien Rabiot (France) left footed shot from outside the box is too high. Assisted by Ousmane Dembélé.",
+          "goal": false
+        },
+        {
+          "min": "30'",
+          "text": "Manu Koné (France) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "30'",
+          "text": "Foul by Matías Galarza (Paraguay).",
+          "goal": false
+        },
+        {
+          "min": "30'",
+          "text": "Foul by Bradley Barcola (France).",
+          "goal": false
+        },
+        {
+          "min": "30'",
+          "text": "Miguel Almirón (Paraguay) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "28'",
+          "text": "Attempt missed. Diego Gómez (Paraguay) right footed shot from outside the box misses to the right.",
+          "goal": false
+        },
+        {
+          "min": "28'",
+          "text": "Attempt missed. Júnior Alonso (Paraguay) left footed shot from outside the box misses to the right. Assisted by Andrés Cubas.",
+          "goal": false
+        },
+        {
+          "min": "26'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "23'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "23'",
+          "text": "Corner, France. Conceded by Gustavo Velázquez.",
+          "goal": false
+        },
+        {
+          "min": "22'",
+          "text": "Corner, France. Conceded by Diego Gómez.",
+          "goal": false
+        },
+        {
+          "min": "22'",
+          "text": "Attempt blocked. Manu Koné (France) left footed shot from outside the box is blocked. Assisted by Ousmane Dembélé.",
+          "goal": false
+        },
+        {
+          "min": "19'",
+          "text": "Bradley Barcola (France) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "19'",
+          "text": "Foul by Bradley Barcola (France).",
+          "goal": false
+        },
+        {
+          "min": "19'",
+          "text": "Juan José Cáceres (Paraguay) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "18'",
+          "text": "Corner, France. Conceded by Júnior Alonso.",
+          "goal": false
+        },
+        {
+          "min": "14'",
+          "text": "Foul by Michael Olise (France).",
+          "goal": false
+        },
+        {
+          "min": "14'",
+          "text": "Matías Galarza (Paraguay) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "12'",
+          "text": "Foul by Manu Koné (France).",
+          "goal": false
+        },
+        {
+          "min": "12'",
+          "text": "Matías Galarza (Paraguay) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "7'",
+          "text": "Corner, France. Conceded by Miguel Almirón.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "First Half begins.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "Lineups are announced and players are warming up.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "D. Gómez",
+            "num": "8",
+            "pos": "M",
+            "value": "1"
+          },
+          "away": {
+            "name": "M. Koné",
+            "num": "6",
+            "pos": "M",
+            "value": "2"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "A. Cubas",
+            "num": "14",
+            "pos": "M",
+            "value": "7"
+          },
+          "away": {
+            "name": "J. Koundé",
+            "num": "5",
+            "pos": "D",
+            "value": "40"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "M. Galarza",
+            "num": "23",
+            "pos": "M",
+            "value": "8"
+          },
+          "away": {
+            "name": "W. Saliba",
+            "num": "17",
+            "pos": "D",
+            "value": "8"
+          }
+        }
+      ],
+      "highlight": null,
+      "final": false,
       "dv": 5
     }
   }

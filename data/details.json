@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T16:36:36.511Z",
+  "lastUpdated": "2026-07-04T17:41:24.384Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -79476,6 +79476,781 @@
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0703/dm_260703_COM_SOC_News_Full_time_scenes_in_Colombia_as_they_reach_the_World_Cup_round_of_16_20260703_GLOBA/dm_260703_COM_SOC_News_Full_time_scenes_in_Colombia_as_they_reach_the_World_Cup_round_of_16_20260703_GLOBA/playlist.m3u8"
       },
       "final": true,
+      "dv": 5
+    },
+    "760502": {
+      "venue": "NRG Stadium",
+      "stats": {
+        "home": {
+          "foulsCommitted": "12",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "5",
+          "saves": "1",
+          "possessionPct": "36.4",
+          "totalShots": "4",
+          "shotsOnTarget": "2",
+          "shotPct": "0.5",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "88",
+          "totalPasses": "118",
+          "passPct": "0.7",
+          "accurateCrosses": "4",
+          "totalCrosses": "10",
+          "crossPct": "0.4",
+          "totalLongBalls": "9",
+          "accurateLongBalls": "4",
+          "longballPct": "0.4",
+          "blockedShots": "1",
+          "effectiveTackles": "4",
+          "totalTackles": "5",
+          "tacklePct": "0.8",
+          "interceptions": "2",
+          "effectiveClearance": "5",
+          "totalClearance": "5"
+        },
+        "away": {
+          "foulsCommitted": "3",
+          "yellowCards": "1",
+          "redCards": "0",
+          "offsides": "2",
+          "wonCorners": "0",
+          "saves": "2",
+          "possessionPct": "63.6",
+          "totalShots": "1",
+          "shotsOnTarget": "1",
+          "shotPct": "1.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "198",
+          "totalPasses": "224",
+          "passPct": "0.9",
+          "accurateCrosses": "0",
+          "totalCrosses": "0",
+          "crossPct": "0.0",
+          "totalLongBalls": "14",
+          "accurateLongBalls": "5",
+          "longballPct": "0.4",
+          "blockedShots": "0",
+          "effectiveTackles": "2",
+          "totalTackles": "4",
+          "tacklePct": "0.5",
+          "interceptions": "3",
+          "effectiveClearance": "18",
+          "totalClearance": "18"
+        }
+      },
+      "events": [
+        {
+          "kind": "Yellow Card",
+          "min": "20'",
+          "side": "away",
+          "player": "Redouane Halhal"
+        },
+        {
+          "kind": "Substitution",
+          "min": "22'",
+          "side": "away",
+          "player": "Substitution, Morocco. Soufiane Rahimi replaces Ismael Saibari because of an injury."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "40'",
+          "side": "away",
+          "player": "Achraf Hakimi"
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Maxime Crépeau",
+            "short": "M. Crépeau",
+            "num": "16",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Luc de Fougerolles",
+            "short": "L. de Fougerolles",
+            "num": "4",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Moïse Bombito",
+            "short": "M. Bombito",
+            "num": "15",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Richie Laryea",
+            "short": "R. Laryea",
+            "num": "22",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Alistair Johnston",
+            "short": "A. Johnston",
+            "num": "2",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Stephen Eustáquio",
+            "short": "S. Eustáquio",
+            "num": "7",
+            "pos": "CM-L",
+            "place": "8"
+          },
+          {
+            "name": "Niko Sigur",
+            "short": "N. Sigur",
+            "num": "23",
+            "pos": "CM-R",
+            "place": "4"
+          },
+          {
+            "name": "Ali Ahmed",
+            "short": "A. Ahmed",
+            "num": "20",
+            "pos": "LM",
+            "place": "11"
+          },
+          {
+            "name": "Tajon Buchanan",
+            "short": "T. Buchanan",
+            "num": "17",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Tani Oluwaseyi",
+            "short": "T. Oluwaseyi",
+            "num": "12",
+            "pos": "CF-L",
+            "place": "9"
+          },
+          {
+            "name": "Jonathan David",
+            "short": "J. David",
+            "num": "10",
+            "pos": "CF-R",
+            "place": "10"
+          }
+        ],
+        "away": [
+          {
+            "name": "Yassine Bounou",
+            "short": "Y. Bounou",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Redouane Halhal",
+            "short": "R. Halhal",
+            "num": "25",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Issa Diop",
+            "short": "I. Diop",
+            "num": "14",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Noussair Mazraoui",
+            "short": "N. Mazraoui",
+            "num": "3",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Achraf Hakimi",
+            "short": "A. Hakimi",
+            "num": "2",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Azzedine Ounahi",
+            "short": "A. Ounahi",
+            "num": "8",
+            "pos": "AM",
+            "place": "10"
+          },
+          {
+            "name": "Neil El Aynaoui",
+            "short": "N. El Aynaoui",
+            "num": "24",
+            "pos": "LM",
+            "place": "4"
+          },
+          {
+            "name": "Ayyoub Bouaddi",
+            "short": "A. Bouaddi",
+            "num": "6",
+            "pos": "RM",
+            "place": "8"
+          },
+          {
+            "name": "Ismael Saibari",
+            "short": "I. Saibari",
+            "num": "11",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Bilal El Khannouss",
+            "short": "B. El Khannouss",
+            "num": "23",
+            "pos": "AM-L",
+            "place": "11"
+          },
+          {
+            "name": "Brahim Díaz",
+            "short": "B. Díaz",
+            "num": "10",
+            "pos": "AM-R",
+            "place": "7"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Alfie Jones",
+            "short": "A. Jones",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Dayne St. Clair",
+            "short": "D. St. Clair",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Joel Waterman",
+            "short": "J. Waterman",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Alphonso Davies",
+            "short": "A. Davies",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Promise David",
+            "short": "P. David",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Liam Millar",
+            "short": "L. Millar",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Derek Cornelius",
+            "short": "D. Cornelius",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Owen Goodman",
+            "short": "O. Goodman",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nathan Saliba",
+            "short": "N. Saliba",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mathieu Choinière",
+            "short": "M. Choinière",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jonathan Osorio",
+            "short": "J. Osorio",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Cyle Larin",
+            "short": "C. Larin",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jacob Shaffelburg",
+            "short": "J. Shaffelburg",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jayden Nelson",
+            "short": "J. Nelson",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Zakaria El Ouahdi",
+            "short": "Z. El Ouahdi",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Amine Sbaï",
+            "short": "A. Sbaï",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Soufiane Rahimi",
+            "short": "S. Rahimi",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Youssef Belammari",
+            "short": "Y. Belammari",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Anass Salah-Eddine",
+            "short": "A. Salah-Eddine",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ayoube Amaimouni",
+            "short": "A. Amaimouni",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gessime Yassine",
+            "short": "G. Yassine",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Chadi Riad",
+            "short": "C. Riad",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Samir El Mourabet",
+            "short": "S. El Mourabet",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Chemsdine Talbi",
+            "short": "C. Talbi",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Marwane Saadane",
+            "short": "M. Saadane",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Munir El Kajoui",
+            "short": "M. El Kajoui",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ahmed Reda Tagnaouti",
+            "short": "A. Tagnaouti",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Sofyan Amrabat",
+            "short": "S. Amrabat",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ayoub El Kaabi",
+            "short": "A. El Kaabi",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-4-2",
+        "away": "4-2-3-1"
+      },
+      "commentary": [
+        {
+          "min": "39'",
+          "text": "Foul by Achraf Hakimi (Morocco).",
+          "goal": false
+        },
+        {
+          "min": "39'",
+          "text": "Richie Laryea (Canada) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "38'",
+          "text": "Azzedine Ounahi (Morocco) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "38'",
+          "text": "Foul by Niko Sigur (Canada).",
+          "goal": false
+        },
+        {
+          "min": "37'",
+          "text": "Noussair Mazraoui (Morocco) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "37'",
+          "text": "Foul by Moïse Bombito (Canada).",
+          "goal": false
+        },
+        {
+          "min": "35'",
+          "text": "Ayyoub Bouaddi (Morocco) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "35'",
+          "text": "Foul by Luc De Fougerolles (Canada).",
+          "goal": false
+        },
+        {
+          "min": "34'",
+          "text": "Corner, Canada. Conceded by Noussair Mazraoui.",
+          "goal": false
+        },
+        {
+          "min": "32'",
+          "text": "Offside, Morocco. Soufiane Rahimi is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "30'",
+          "text": "Noussair Mazraoui (Morocco) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "30'",
+          "text": "Foul by Luc De Fougerolles (Canada).",
+          "goal": false
+        },
+        {
+          "min": "28'",
+          "text": "Attempt saved. Soufiane Rahimi (Morocco) right footed shot from outside the box is saved in the bottom left corner by Maxime Crépeau (Canada). Assisted by Bilal El Khannouss.",
+          "goal": false
+        },
+        {
+          "min": "28'",
+          "text": "Bilal El Khannouss (Morocco) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "28'",
+          "text": "Foul by Alistair Johnston (Canada).",
+          "goal": false
+        },
+        {
+          "min": "27'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "24'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "24'",
+          "text": "Redouane Halhal (Morocco) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "24'",
+          "text": "Foul by Jonathan David (Canada).",
+          "goal": false
+        },
+        {
+          "min": "22'",
+          "text": "Substitution, Morocco. Soufiane Rahimi replaces Ismael Saibari because of an injury.",
+          "goal": false
+        },
+        {
+          "min": "22'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "21'",
+          "text": "Delay in match because of an injury Ismael Saibari (Morocco).",
+          "goal": false
+        },
+        {
+          "min": "20'",
+          "text": "Redouane Halhal (Morocco) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "20'",
+          "text": "Foul by Redouane Halhal (Morocco).",
+          "goal": false
+        },
+        {
+          "min": "20'",
+          "text": "Tani Oluwaseyi (Canada) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "18'",
+          "text": "Attempt blocked. Alistair Johnston (Canada) header from the centre of the box is blocked. Assisted by Stephen Eustaquio with a cross.",
+          "goal": false
+        },
+        {
+          "min": "18'",
+          "text": "Corner, Canada. Conceded by Redouane Halhal.",
+          "goal": false
+        },
+        {
+          "min": "17'",
+          "text": "Offside, Morocco. Ismael Saibari is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "16'",
+          "text": "Achraf Hakimi (Morocco) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "16'",
+          "text": "Foul by Richie Laryea (Canada).",
+          "goal": false
+        },
+        {
+          "min": "15'",
+          "text": "Achraf Hakimi (Morocco) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "15'",
+          "text": "Foul by Richie Laryea (Canada).",
+          "goal": false
+        },
+        {
+          "min": "11'",
+          "text": "Azzedine Ounahi (Morocco) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "11'",
+          "text": "Foul by Tajon Buchanan (Canada).",
+          "goal": false
+        },
+        {
+          "min": "11'",
+          "text": "Attempt missed. Tani Oluwaseyi (Canada) left footed shot from the centre of the box misses to the right.",
+          "goal": false
+        },
+        {
+          "min": "10'",
+          "text": "Attempt saved. Tani Oluwaseyi (Canada) left footed shot from the centre of the box is saved in the centre of the goal by Yassine Bounou (Morocco). Assisted by Ali Ahmed.",
+          "goal": false
+        },
+        {
+          "min": "10'",
+          "text": "Noussair Mazraoui (Morocco) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "10'",
+          "text": "Foul by Tajon Buchanan (Canada).",
+          "goal": false
+        },
+        {
+          "min": "9'",
+          "text": "Issa Diop (Morocco) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "9'",
+          "text": "Foul by Tani Oluwaseyi (Canada).",
+          "goal": false
+        },
+        {
+          "min": "6'",
+          "text": "Corner, Canada. Conceded by Redouane Halhal.",
+          "goal": false
+        },
+        {
+          "min": "5'",
+          "text": "Corner, Canada. Conceded by Yassine Bounou.",
+          "goal": false
+        },
+        {
+          "min": "5'",
+          "text": "Attempt saved. Jonathan David (Canada) left footed shot from a difficult angle on the left is saved in the bottom left corner by Yassine Bounou (Morocco). Assisted by Luc De Fougerolles with a headed pass.",
+          "goal": false
+        },
+        {
+          "min": "4'",
+          "text": "Corner, Canada. Conceded by Brahim Díaz.",
+          "goal": false
+        },
+        {
+          "min": "3'",
+          "text": "Azzedine Ounahi (Morocco) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "3'",
+          "text": "Foul by Tajon Buchanan (Canada).",
+          "goal": false
+        },
+        {
+          "min": "2'",
+          "text": "Foul by Brahim Díaz (Morocco).",
+          "goal": false
+        },
+        {
+          "min": "2'",
+          "text": "Ali Ahmed (Canada) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "First Half begins.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "Lineups are announced and players are warming up.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "T. Oluwaseyi",
+            "num": "12",
+            "pos": "F",
+            "value": "2"
+          },
+          "away": {
+            "name": "S. Rahimi",
+            "num": "9",
+            "pos": "F",
+            "value": "1"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "L. de Fougerolles",
+            "num": "4",
+            "pos": "D",
+            "value": "14"
+          },
+          "away": {
+            "name": "I. Diop",
+            "num": "14",
+            "pos": "D",
+            "value": "41"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "A. Johnston",
+            "num": "2",
+            "pos": "D",
+            "value": "4"
+          },
+          "away": {
+            "name": "R. Halhal",
+            "num": "25",
+            "pos": "D",
+            "value": "7"
+          }
+        },
+        {
+          "label": "Saves",
+          "home": {
+            "name": "M. Crépeau",
+            "num": "16",
+            "pos": "G",
+            "value": "1"
+          },
+          "away": {
+            "name": "Y. Bounou",
+            "num": "1",
+            "pos": "G",
+            "value": "2"
+          }
+        }
+      ],
+      "highlight": null,
+      "final": false,
       "dv": 5
     }
   }

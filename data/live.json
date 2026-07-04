@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T16:36:36.399Z",
+  "lastUpdated": "2026-07-04T17:41:24.297Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -1249,10 +1249,14 @@
         "total": 2.5,
         "book": "DraftKings"
       },
-      "status": "scheduled",
+      "status": "live",
       "id": "760502",
       "date": "2026-07-04T17:00Z",
-      "venue": "NRG Stadium"
+      "venue": "NRG Stadium",
+      "clock": 2400,
+      "displayClock": "40'",
+      "detail": "40'",
+      "period": 1
     },
     {
       "stage": "r16",

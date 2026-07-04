@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T01:02:18.660Z",
+  "lastUpdated": "2026-07-04T04:46:14.588Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -1224,18 +1224,12 @@
       "stage": "r32",
       "home": "Colombia",
       "away": "Ghana",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
-      "homeWinner": false,
+      "homeWinner": true,
       "awayWinner": false,
-      "odds": {
-        "home": -235,
-        "away": 750,
-        "draw": 330,
-        "total": 2.5,
-        "book": "DraftKings"
-      },
-      "status": "scheduled",
+      "odds": null,
+      "status": "finished",
       "id": "760501",
       "date": "2026-07-04T01:30Z",
       "venue": "GEHA Field at Arrowhead Stadium"
@@ -1250,8 +1244,8 @@
       "awayWinner": false,
       "odds": {
         "home": 360,
-        "away": -115,
-        "draw": 235,
+        "away": -120,
+        "draw": 240,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -1269,8 +1263,8 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 1600,
-        "away": -525,
+        "home": 1700,
+        "away": -550,
         "draw": 550,
         "total": 2.5,
         "book": "DraftKings"
@@ -1349,8 +1343,8 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 170,
-        "away": 155,
+        "home": 165,
+        "away": 165,
         "draw": 240,
         "total": 2.5,
         "book": "DraftKings"
@@ -1368,7 +1362,13 @@
       "awayScore": 0,
       "homeWinner": false,
       "awayWinner": false,
-      "odds": null,
+      "odds": {
+        "home": -290,
+        "away": 900,
+        "draw": 390,
+        "total": 2.5,
+        "book": "DraftKings"
+      },
       "status": "scheduled",
       "id": "760509",
       "date": "2026-07-07T16:00Z",
@@ -1377,7 +1377,7 @@
     {
       "stage": "r16",
       "home": "Switzerland",
-      "away": "Round of 32 15 Winner",
+      "away": "Colombia",
       "homeScore": 0,
       "awayScore": 0,
       "homeWinner": false,

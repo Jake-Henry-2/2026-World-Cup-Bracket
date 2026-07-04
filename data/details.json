@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T01:02:18.948Z",
+  "lastUpdated": "2026-07-04T04:46:14.695Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -78570,6 +78570,910 @@
         "headline": "Cape Verde fans go wild after goal vs. Argentina",
         "mp4": "https://media.video-cdn.espn.com/motion/2026/0703/dm_260703_COM_SOC_News_Cape_Verde_fans_go_wild_after_goal_vs_Argentina_20260703_GLOBAL_FIFA_WORLD_CUP/dm_260703_COM_SOC_News_Cape_Verde_fans_go_wild_after_goal_vs_Argentina_20260703_GLOBAL_FIFA_WORLD_CUP_360p30_1464k.mp4",
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0703/dm_260703_COM_SOC_News_Cape_Verde_fans_go_wild_after_goal_vs_Argentina_20260703_GLOBAL_FIFA_WORLD_CUP/dm_260703_COM_SOC_News_Cape_Verde_fans_go_wild_after_goal_vs_Argentina_20260703_GLOBAL_FIFA_WORLD_CUP/playlist.m3u8"
+      },
+      "final": true,
+      "dv": 5
+    },
+    "760501": {
+      "venue": "GEHA Field at Arrowhead Stadium",
+      "stats": {
+        "home": {
+          "foulsCommitted": "14",
+          "yellowCards": "2",
+          "redCards": "0",
+          "offsides": "2",
+          "wonCorners": "3",
+          "saves": "0",
+          "possessionPct": "60.6",
+          "totalShots": "20",
+          "shotsOnTarget": "8",
+          "shotPct": "0.4",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "532",
+          "totalPasses": "586",
+          "passPct": "0.9",
+          "accurateCrosses": "5",
+          "totalCrosses": "15",
+          "crossPct": "0.3",
+          "totalLongBalls": "55",
+          "accurateLongBalls": "32",
+          "longballPct": "0.6",
+          "blockedShots": "4",
+          "effectiveTackles": "8",
+          "totalTackles": "12",
+          "tacklePct": "0.7",
+          "interceptions": "5",
+          "effectiveClearance": "25",
+          "totalClearance": "25"
+        },
+        "away": {
+          "foulsCommitted": "10",
+          "yellowCards": "3",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "2",
+          "saves": "7",
+          "possessionPct": "39.4",
+          "totalShots": "8",
+          "shotsOnTarget": "0",
+          "shotPct": "0.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "313",
+          "totalPasses": "377",
+          "passPct": "0.8",
+          "accurateCrosses": "2",
+          "totalCrosses": "15",
+          "crossPct": "0.1",
+          "totalLongBalls": "47",
+          "accurateLongBalls": "9",
+          "longballPct": "0.2",
+          "blockedShots": "5",
+          "effectiveTackles": "7",
+          "totalTackles": "13",
+          "tacklePct": "0.5",
+          "interceptions": "5",
+          "effectiveClearance": "11",
+          "totalClearance": "11"
+        }
+      },
+      "events": [
+        {
+          "kind": "Substitution",
+          "min": "8'",
+          "side": "home",
+          "player": "Substitution, Colombia. Luis Suárez replaces Jhon Córdoba because of an injury."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "12'",
+          "side": "home",
+          "player": "Jhon Arias"
+        },
+        {
+          "kind": "Substitution",
+          "min": "13'",
+          "side": "away",
+          "player": "Substitution, Ghana. Alidu Seidu replaces Marvin Senaya because of an injury."
+        },
+        {
+          "kind": "Goal",
+          "min": "14'",
+          "side": "home",
+          "player": "Goal! Colombia 1, Ghana 0. Jhon Arias"
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "home",
+          "player": "Substitution, Colombia. Richard Ríos replaces James Rodríguez."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "49'",
+          "side": "away",
+          "player": "Caleb Yirenkyi"
+        },
+        {
+          "kind": "Substitution",
+          "min": "62'",
+          "side": "away",
+          "player": "Substitution, Ghana. Abdul Fatawu replaces Iñaki Williams."
+        },
+        {
+          "kind": "Substitution",
+          "min": "62'",
+          "side": "away",
+          "player": "Substitution, Ghana. Elisha Owusu replaces Kwasi Sibo because of an injury."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "66'",
+          "side": "away",
+          "player": "Abdul Fatawu"
+        },
+        {
+          "kind": "Substitution",
+          "min": "73'",
+          "side": "home",
+          "player": "Substitution, Colombia. Juan Fernando Quintero replaces Jhon Arias."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "76'",
+          "side": "away",
+          "player": "Alidu Seidu"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "78'",
+          "side": "home",
+          "player": "Richard Ríos"
+        },
+        {
+          "kind": "Substitution",
+          "min": "79'",
+          "side": "away",
+          "player": "Substitution, Ghana. Ernest Nuamah replaces Jordan Ayew."
+        },
+        {
+          "kind": "Substitution",
+          "min": "79'",
+          "side": "away",
+          "player": "Substitution, Ghana. Prince Adu replaces Caleb Yirenkyi."
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'",
+          "side": "home",
+          "player": "Substitution, Colombia. Jaminton Campaz replaces Luis Díaz."
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Camilo Vargas",
+            "short": "C. Vargas",
+            "num": "12",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Jhon Lucumí",
+            "short": "J. Lucumí",
+            "num": "3",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Davinson Sánchez",
+            "short": "D. Sánchez",
+            "num": "23",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Johan Mojica",
+            "short": "J. Mojica",
+            "num": "17",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Daniel Muñoz",
+            "short": "D. Muñoz",
+            "num": "2",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Jefferson Lerma",
+            "short": "J. Lerma",
+            "num": "16",
+            "pos": "CM",
+            "place": "4"
+          },
+          {
+            "name": "Jhon Arias",
+            "short": "J. Arias",
+            "num": "11",
+            "pos": "LM",
+            "place": "8"
+          },
+          {
+            "name": "Gustavo Puerta",
+            "short": "G. Puerta",
+            "num": "14",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Jhon Córdoba",
+            "short": "J. Córdoba",
+            "num": "9",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Luis Díaz",
+            "short": "L. Díaz",
+            "num": "7",
+            "pos": "LF",
+            "place": "11"
+          },
+          {
+            "name": "James Rodríguez",
+            "short": "J. Rodríguez",
+            "num": "10",
+            "pos": "RF",
+            "place": "10"
+          }
+        ],
+        "away": [
+          {
+            "name": "Lawrence Ati Zigi",
+            "short": "L. Zigi",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Jerome Opoku",
+            "short": "J. Opoku",
+            "num": "18",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Derrick Luckassen",
+            "short": "D. Luckassen",
+            "num": "23",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Thomas Partey",
+            "short": "T. Partey",
+            "num": "5",
+            "pos": "DM",
+            "place": "4"
+          },
+          {
+            "name": "Gideon Mensah",
+            "short": "G. Mensah",
+            "num": "14",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Marvin Senaya",
+            "short": "M. Senaya",
+            "num": "26",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Kwasi Sibo",
+            "short": "K. Sibo",
+            "num": "8",
+            "pos": "CM-L",
+            "place": "10"
+          },
+          {
+            "name": "Caleb Yirenkyi",
+            "short": "C. Yirenkyi",
+            "num": "3",
+            "pos": "CM-R",
+            "place": "8"
+          },
+          {
+            "name": "Antoine Semenyo",
+            "short": "A. Semenyo",
+            "num": "11",
+            "pos": "LM",
+            "place": "11"
+          },
+          {
+            "name": "Iñaki Williams",
+            "short": "I. Williams",
+            "num": "19",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Jordan Ayew",
+            "short": "J. Ayew",
+            "num": "9",
+            "pos": "F",
+            "place": "9"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Willer Ditta",
+            "short": "W. Ditta",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kevin Castaño",
+            "short": "K. Castaño",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "David Ospina",
+            "short": "D. Ospina",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Álvaro Montero",
+            "short": "Á. Montero",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Deiver Machado",
+            "short": "D. Machado",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Luis Suárez",
+            "short": "L. Suárez",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Andrés Gómez",
+            "short": "A. Gómez",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jorge Carrascal",
+            "short": "J. Carrascal",
+            "num": "8",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Cucho Hernández",
+            "short": "C. Hernández",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Juan Fernando Quintero",
+            "short": "J. Quintero",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Richard Ríos",
+            "short": "R. Ríos",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Juan Portilla",
+            "short": "J. Portilla",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Yerry Mina",
+            "short": "Y. Mina",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Santiago Arias",
+            "short": "S. Arias",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jáminton Campaz",
+            "short": "J. Campaz",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Abdul Mumin",
+            "short": "A. Mumin",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Prince Adu",
+            "short": "P. Adu",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kojo Peprah Oppong",
+            "short": "K. Oppong",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Alidu Seidu",
+            "short": "A. Seidu",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Baba Rahman",
+            "short": "B. Rahman",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Elisha Owusu",
+            "short": "E. Owusu",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jonas Adjetey",
+            "short": "J. Adjetey",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Augustine Boakye",
+            "short": "A. Boakye",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Brandon Thomas-Asante",
+            "short": "B. Thomas-Asante",
+            "num": "10",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Christopher Bonsu Baah",
+            "short": "C. Baah",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ernest Nuamah",
+            "short": "E. Nuamah",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Benjamin Asare",
+            "short": "B. Asare",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kamaldeen Sulemana",
+            "short": "K. Sulemana",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Joseph Anang",
+            "short": "J. Anang",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Fatawu Issahaku",
+            "short": "F. Issahaku",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-3-3",
+        "away": "4-1-4-1"
+      },
+      "commentary": [
+        {
+          "min": "",
+          "text": "Match ends, Colombia 1, Ghana 0.",
+          "goal": false
+        },
+        {
+          "min": "90'+8'",
+          "text": "Second Half ends, Colombia 1, Ghana 0.",
+          "goal": false
+        },
+        {
+          "min": "90'+7'",
+          "text": "Davinson Sánchez (Colombia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+7'",
+          "text": "Foul by Ernest Nuamah (Ghana).",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Foul by Gustavo Puerta (Colombia).",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Abdul Fatawu (Ghana) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Attempt saved. Jaminton Campaz (Colombia) left footed shot from a difficult angle and long range on the left is saved in the top left corner by Lawrence Ati Zigi (Ghana). Assisted by Jhon Lucumí with a headed pass.",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Attempt saved. Richard Ríos (Colombia) right footed shot from long range on the right is saved in the bottom right corner by Lawrence Ati Zigi (Ghana). Assisted by Juan Fernando Quintero.",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Attempt blocked. Gustavo Puerta (Colombia) right footed shot from outside the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Attempt blocked. Luis Suárez (Colombia) right footed shot from the left side of the box is blocked. Assisted by Jaminton Campaz.",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Attempt missed. Jaminton Campaz (Colombia) left footed shot from a difficult angle on the left is close, but misses the top left corner. Assisted by Juan Fernando Quintero.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Delay in match because of an injury Richard Ríos (Colombia).",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Delay in match because of an injury Gideon Mensah (Ghana).",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Attempt missed. Richard Ríos (Colombia) header from very close range misses to the left. Assisted by Juan Fernando Quintero with a cross.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Fourth official has announced 6 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Richard Ríos (Colombia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Foul by Ernest Nuamah (Ghana).",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Substitution, Colombia. Jaminton Campaz replaces Luis Díaz.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Gustavo Puerta (Colombia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Foul by Antoine Semenyo (Ghana).",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Foul by Luis Díaz (Colombia).",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Ernest Nuamah (Ghana) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Attempt blocked. Luis Díaz (Colombia) right footed shot from the left side of the box is blocked. Assisted by Juan Fernando Quintero.",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Foul by Luis Suárez (Colombia).",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Derrick Luckassen (Ghana) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Attempt missed. Juan Fernando Quintero (Colombia) left footed shot from outside the box is close, but misses to the right. Assisted by Davinson Sánchez.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Offside, Colombia. Luis Díaz is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Attempt saved. Davinson Sánchez (Colombia) header from the centre of the box is saved in the centre of the goal by Lawrence Ati Zigi (Ghana). Assisted by Juan Fernando Quintero with a cross.",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Corner, Colombia. Conceded by Derrick Luckassen.",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Attempt blocked. Luis Díaz (Colombia) right footed shot from outside the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Davinson Sánchez (Colombia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Foul by Prince Adu (Ghana).",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Substitution, Ghana. Prince Adu replaces Caleb Yirenkyi.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Substitution, Ghana. Ernest Nuamah replaces Jordan Ayew.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Richard Ríos (Colombia) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Foul by Richard Ríos (Colombia).",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Abdul Fatawu (Ghana) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Attempt missed. Juan Fernando Quintero (Colombia) left footed shot from outside the box is too high from a direct free kick.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Alidu Seidu (Ghana) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Johan Mojica (Colombia) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Foul by Alidu Seidu (Ghana).",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Foul by Gustavo Puerta (Colombia).",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Thomas Partey (Ghana) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Substitution, Colombia. Juan Fernando Quintero replaces Jhon Arias.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "69'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "69'",
+          "text": "Attempt missed. Thomas Partey (Ghana) right footed shot from outside the box is close, but misses to the left.",
+          "goal": false
+        },
+        {
+          "min": "69'",
+          "text": "Attempt blocked. Antoine Semenyo (Ghana) left footed shot from outside the box is blocked. Assisted by Elisha Owusu.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Abdul Fatawu (Ghana) is shown the yellow card.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Gustavo Puerta (Colombia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Foul by Abdul Fatawu (Ghana).",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Delay in match because of an injury Abdul Fatawu (Ghana).",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Substitution, Ghana. Elisha Owusu replaces Kwasi Sibo because of an injury.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Substitution, Ghana. Abdul Fatawu replaces Iñaki Williams.",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Foul by Richard Ríos (Colombia).",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Antoine Semenyo (Ghana) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Foul by Richard Ríos (Colombia).",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Jordan Ayew (Ghana) wins a free kick in the attacking half.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "L. Díaz",
+            "num": "7",
+            "pos": "F",
+            "value": "5"
+          },
+          "away": {
+            "name": "A. Semenyo",
+            "num": "11",
+            "pos": "F",
+            "value": "3"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "J. Lucumí",
+            "num": "3",
+            "pos": "D",
+            "value": "78"
+          },
+          "away": {
+            "name": "D. Luckassen",
+            "num": "23",
+            "pos": "D",
+            "value": "44"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "J. Lucumí",
+            "num": "3",
+            "pos": "D",
+            "value": "12"
+          },
+          "away": {
+            "name": "G. Mensah",
+            "num": "14",
+            "pos": "D",
+            "value": "12"
+          }
+        },
+        {
+          "label": "Saves",
+          "away": {
+            "name": "L. Zigi",
+            "num": "1",
+            "pos": "G",
+            "value": "7"
+          }
+        }
+      ],
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0703/dm_260703_COM_SOC_News_Full_time_scenes_in_Colombia_as_they_reach_the_World_Cup_round_of_16_20260703_GLOBA/dm_260703_COM_SOC_News_Full_time_scenes_in_Colombia_as_they_reach_the_World_Cup_round_of_16_20260703_GLOBA.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49264784/full-scenes-colombia-reach-world-cup-round-16",
+        "headline": "Full-time scenes in Colombia as they reach the World Cup round of 16",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0703/dm_260703_COM_SOC_News_Full_time_scenes_in_Colombia_as_they_reach_the_World_Cup_round_of_16_20260703_GLOBA/dm_260703_COM_SOC_News_Full_time_scenes_in_Colombia_as_they_reach_the_World_Cup_round_of_16_20260703_GLOBA_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0703/dm_260703_COM_SOC_News_Full_time_scenes_in_Colombia_as_they_reach_the_World_Cup_round_of_16_20260703_GLOBA/dm_260703_COM_SOC_News_Full_time_scenes_in_Colombia_as_they_reach_the_World_Cup_round_of_16_20260703_GLOBA/playlist.m3u8"
       },
       "final": true,
       "dv": 5

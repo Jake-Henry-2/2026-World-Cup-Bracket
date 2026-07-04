@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T18:41:55.451Z",
+  "lastUpdated": "2026-07-04T19:56:36.586Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -79482,64 +79482,64 @@
       "venue": "NRG Stadium",
       "stats": {
         "home": {
-          "foulsCommitted": "19",
+          "foulsCommitted": "24",
           "yellowCards": "4",
           "redCards": "0",
           "offsides": "2",
-          "wonCorners": "7",
+          "wonCorners": "11",
           "saves": "1",
-          "possessionPct": "38.6",
-          "totalShots": "5",
-          "shotsOnTarget": "2",
-          "shotPct": "0.4",
+          "possessionPct": "44.6",
+          "totalShots": "10",
+          "shotsOnTarget": "3",
+          "shotPct": "0.3",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "201",
-          "totalPasses": "267",
+          "accuratePasses": "272",
+          "totalPasses": "358",
           "passPct": "0.8",
-          "accurateCrosses": "6",
-          "totalCrosses": "14",
-          "crossPct": "0.4",
-          "totalLongBalls": "23",
-          "accurateLongBalls": "8",
-          "longballPct": "0.3",
-          "blockedShots": "1",
+          "accurateCrosses": "8",
+          "totalCrosses": "29",
+          "crossPct": "0.3",
+          "totalLongBalls": "31",
+          "accurateLongBalls": "12",
+          "longballPct": "0.4",
+          "blockedShots": "3",
           "effectiveTackles": "10",
           "totalTackles": "18",
           "tacklePct": "0.6",
-          "interceptions": "4",
-          "effectiveClearance": "9",
-          "totalClearance": "9"
+          "interceptions": "5",
+          "effectiveClearance": "10",
+          "totalClearance": "10"
         },
         "away": {
-          "foulsCommitted": "8",
+          "foulsCommitted": "14",
           "yellowCards": "4",
           "redCards": "0",
           "offsides": "3",
           "wonCorners": "1",
-          "saves": "2",
-          "possessionPct": "61.4",
-          "totalShots": "2",
-          "shotsOnTarget": "2",
-          "shotPct": "1.0",
+          "saves": "3",
+          "possessionPct": "55.4",
+          "totalShots": "5",
+          "shotsOnTarget": "4",
+          "shotPct": "0.8",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "374",
-          "totalPasses": "440",
-          "passPct": "0.9",
-          "accurateCrosses": "0",
-          "totalCrosses": "4",
-          "crossPct": "0.0",
-          "totalLongBalls": "36",
-          "accurateLongBalls": "14",
-          "longballPct": "0.4",
+          "accuratePasses": "389",
+          "totalPasses": "472",
+          "passPct": "0.8",
+          "accurateCrosses": "1",
+          "totalCrosses": "5",
+          "crossPct": "0.2",
+          "totalLongBalls": "49",
+          "accurateLongBalls": "17",
+          "longballPct": "0.3",
           "blockedShots": "0",
-          "effectiveTackles": "7",
-          "totalTackles": "10",
-          "tacklePct": "0.7",
-          "interceptions": "5",
-          "effectiveClearance": "31",
-          "totalClearance": "31"
+          "effectiveTackles": "9",
+          "totalTackles": "12",
+          "tacklePct": "0.8",
+          "interceptions": "8",
+          "effectiveClearance": "51",
+          "totalClearance": "51"
         }
       },
       "events": [
@@ -79620,6 +79620,54 @@
           "min": "67'",
           "side": "home",
           "player": "Cyle Larin"
+        },
+        {
+          "kind": "Substitution",
+          "min": "78'",
+          "side": "home",
+          "player": "Substitution, Canada. Promise David replaces Ali Ahmed."
+        },
+        {
+          "kind": "Substitution",
+          "min": "78'",
+          "side": "home",
+          "player": "Substitution, Canada. Jacob Shaffelburg replaces Richie Laryea."
+        },
+        {
+          "kind": "Goal",
+          "min": "82'",
+          "side": "away",
+          "player": "Goal! Canada 0, Morocco 2. Azzedine Ounahi"
+        },
+        {
+          "kind": "Substitution",
+          "min": "87'",
+          "side": "away",
+          "player": "Substitution, Morocco. Marwane Saadane replaces Issa Diop."
+        },
+        {
+          "kind": "Substitution",
+          "min": "87'",
+          "side": "away",
+          "player": "Substitution, Morocco. Samir El Mourabet replaces Azzedine Ounahi."
+        },
+        {
+          "kind": "Substitution",
+          "min": "87'",
+          "side": "home",
+          "player": "Substitution, Canada. Jonathan Osorio replaces Niko Sigur."
+        },
+        {
+          "kind": "Substitution",
+          "min": "87'",
+          "side": "home",
+          "player": "Substitution, Canada. Jayden Nelson replaces Tajon Buchanan."
+        },
+        {
+          "kind": "Goal",
+          "min": "90'+8'",
+          "side": "away",
+          "player": "Goal! Canada 0, Morocco 3. Soufiane Rahimi"
         }
       ],
       "lineups": {
@@ -79997,6 +80045,231 @@
       },
       "commentary": [
         {
+          "min": "",
+          "text": "Match ends, Canada 0, Morocco 3.",
+          "goal": false
+        },
+        {
+          "min": "90'+10'",
+          "text": "Second Half ends, Canada 0, Morocco 3.",
+          "goal": false
+        },
+        {
+          "min": "90'+8'",
+          "text": "Goal! Canada 0, Morocco 3. Soufiane Rahimi (Morocco) left footed shot from the centre of the box to the bottom right corner. Assisted by Brahim Díaz following a fast break.",
+          "goal": true
+        },
+        {
+          "min": "90'+7'",
+          "text": "Soufiane Rahimi (Morocco) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "90'+7'",
+          "text": "Foul by Jacob Shaffelburg (Canada).",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Attempt missed. Jayden Nelson (Canada) right footed shot from outside the box is close, but misses to the left. Assisted by Stephen Eustaquio following a set piece situation.",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Foul by Soufiane Rahimi (Morocco).",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Jacob Shaffelburg (Canada) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Corner, Canada. Conceded by Achraf Hakimi.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Marwane Saadane (Morocco) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Foul by Maxime Crépeau (Canada).",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Corner, Canada. Conceded by Achraf Hakimi.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Foul by Soufiane Rahimi (Morocco).",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Jonathan Osorio (Canada) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Handball by Cyle Larin (Canada).",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Fourth official has announced 8 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Attempt blocked. Jonathan Osorio (Canada) right footed shot from the centre of the box is blocked. Assisted by Promise David with a headed pass.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Foul by Redouane Halhal (Morocco).",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Promise David (Canada) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Delay in match because of an injury Yassine Bounou (Morocco).",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Delay in match because of an injury Promise David (Canada).",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Yassine Bounou (Morocco) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Foul by Promise David (Canada).",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Substitution, Canada. Jayden Nelson replaces Tajon Buchanan.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Substitution, Canada. Jonathan Osorio replaces Niko Sigur.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Substitution, Morocco. Samir El Mourabet replaces Azzedine Ounahi.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Substitution, Morocco. Marwane Saadane replaces Issa Diop.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Foul by Sofyan Amrabat (Morocco).",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Jonathan David (Canada) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Corner, Canada. Conceded by Neil El Aynaoui.",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Soufiane Rahimi (Morocco) hits the bar with a header from the centre of the box. Assisted by Azzedine Ounahi with a cross following a fast break.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Attempt blocked. Jonathan David (Canada) left footed shot from outside the box is blocked. Assisted by Stephen Eustaquio.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Foul by Brahim Díaz (Morocco).",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Luc De Fougerolles (Canada) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Goal! Canada 0, Morocco 2. Azzedine Ounahi (Morocco) right footed shot from the centre of the box to the top right corner. Assisted by Brahim Díaz following a fast break.",
+          "goal": true
+        },
+        {
+          "min": "81'",
+          "text": "Foul by Sofyan Amrabat (Morocco).",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Stephen Eustaquio (Canada) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Noussair Mazraoui (Morocco) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Foul by Promise David (Canada).",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Corner, Canada. Conceded by Yassine Bounou.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Attempt saved. Tajon Buchanan (Canada) right footed shot from outside the box is saved in the bottom left corner by Yassine Bounou (Morocco). Assisted by Jacob Shaffelburg.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Substitution, Canada. Jacob Shaffelburg replaces Richie Laryea.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Substitution, Canada. Promise David replaces Ali Ahmed.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Attempt missed. Jonathan David (Canada) right footed shot from outside the box is just a bit too high from a direct free kick.",
+          "goal": false
+        },
+        {
           "min": "76'",
           "text": "Foul by Sofyan Amrabat (Morocco).",
           "goal": false
@@ -80070,262 +80343,37 @@
           "min": "62'",
           "text": "Foul by Tani Oluwaseyi (Canada).",
           "goal": false
-        },
-        {
-          "min": "60'",
-          "text": "Offside, Canada. Tajon Buchanan is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "58'",
-          "text": "Corner, Canada. Conceded by Ayyoub Bouaddi.",
-          "goal": false
-        },
-        {
-          "min": "58'",
-          "text": "Foul by Achraf Hakimi (Morocco).",
-          "goal": false
-        },
-        {
-          "min": "58'",
-          "text": "Richie Laryea (Canada) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "55'",
-          "text": "Corner, Morocco. Conceded by Moïse Bombito.",
-          "goal": false
-        },
-        {
-          "min": "53'",
-          "text": "Offside, Morocco. Soufiane Rahimi is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "50'",
-          "text": "Goal! Canada 0, Morocco 1. Azzedine Ounahi (Morocco) right footed shot from outside the box to the bottom right corner. Assisted by Achraf Hakimi following a set piece situation.",
-          "goal": true
-        },
-        {
-          "min": "49'",
-          "text": "Luc De Fougerolles (Canada) is shown the yellow card for a bad foul.",
-          "goal": false
-        },
-        {
-          "min": "49'",
-          "text": "Soufiane Rahimi (Morocco) wins a free kick on the right wing.",
-          "goal": false
-        },
-        {
-          "min": "49'",
-          "text": "Foul by Luc De Fougerolles (Canada).",
-          "goal": false
-        },
-        {
-          "min": "49'",
-          "text": "Attempt missed. Luc De Fougerolles (Canada) right footed shot from the centre of the box is too high. Assisted by Niko Sigur with a cross following a corner.",
-          "goal": false
-        },
-        {
-          "min": "48'",
-          "text": "Corner, Canada. Conceded by Issa Diop.",
-          "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Second Half begins Canada 0, Morocco 0.",
-          "goal": false
-        },
-        {
-          "min": "45'+7'",
-          "text": "First Half ends, Canada 0, Morocco 0.",
-          "goal": false
-        },
-        {
-          "min": "45'+6'",
-          "text": "Bilal El Khannouss (Morocco) is shown the yellow card for a bad foul.",
-          "goal": false
-        },
-        {
-          "min": "45'+6'",
-          "text": "Foul by Bilal El Khannouss (Morocco).",
-          "goal": false
-        },
-        {
-          "min": "45'+6'",
-          "text": "Luc De Fougerolles (Canada) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "45'+2'",
-          "text": "Redouane Halhal (Morocco) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "45'+2'",
-          "text": "Foul by Niko Sigur (Canada).",
-          "goal": false
-        },
-        {
-          "min": "45'+1'",
-          "text": "Azzedine Ounahi (Morocco) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "45'+1'",
-          "text": "Foul by Jonathan David (Canada).",
-          "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Fourth official has announced 6 minutes of added time.",
-          "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Azzedine Ounahi (Morocco) is shown the yellow card for a bad foul.",
-          "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Foul by Azzedine Ounahi (Morocco).",
-          "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Ali Ahmed (Canada) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "43'",
-          "text": "Jonathan David (Canada) is shown the yellow card for a bad foul.",
-          "goal": false
-        },
-        {
-          "min": "43'",
-          "text": "Brahim Díaz (Morocco) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "43'",
-          "text": "Foul by Jonathan David (Canada).",
-          "goal": false
-        },
-        {
-          "min": "41'",
-          "text": "Foul by Bilal El Khannouss (Morocco).",
-          "goal": false
-        },
-        {
-          "min": "41'",
-          "text": "Niko Sigur (Canada) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "40'",
-          "text": "Richie Laryea (Canada) is shown the yellow card.",
-          "goal": false
-        },
-        {
-          "min": "40'",
-          "text": "Achraf Hakimi (Morocco) is shown the yellow card.",
-          "goal": false
-        },
-        {
-          "min": "39'",
-          "text": "Foul by Achraf Hakimi (Morocco).",
-          "goal": false
-        },
-        {
-          "min": "39'",
-          "text": "Richie Laryea (Canada) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "38'",
-          "text": "Azzedine Ounahi (Morocco) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "38'",
-          "text": "Foul by Niko Sigur (Canada).",
-          "goal": false
-        },
-        {
-          "min": "37'",
-          "text": "Noussair Mazraoui (Morocco) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "37'",
-          "text": "Foul by Moïse Bombito (Canada).",
-          "goal": false
-        },
-        {
-          "min": "35'",
-          "text": "Ayyoub Bouaddi (Morocco) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "35'",
-          "text": "Foul by Luc De Fougerolles (Canada).",
-          "goal": false
-        },
-        {
-          "min": "34'",
-          "text": "Corner, Canada. Conceded by Noussair Mazraoui.",
-          "goal": false
-        },
-        {
-          "min": "32'",
-          "text": "Offside, Morocco. Soufiane Rahimi is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "30'",
-          "text": "Noussair Mazraoui (Morocco) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "30'",
-          "text": "Foul by Luc De Fougerolles (Canada).",
-          "goal": false
-        },
-        {
-          "min": "28'",
-          "text": "Attempt saved. Soufiane Rahimi (Morocco) right footed shot from outside the box is saved in the bottom left corner by Maxime Crépeau (Canada). Assisted by Bilal El Khannouss.",
-          "goal": false
         }
       ],
       "leaders": [
         {
           "label": "Total Shots",
           "home": {
-            "name": "T. Oluwaseyi",
-            "num": "12",
+            "name": "J. David",
+            "num": "10",
             "pos": "F",
-            "value": "2"
+            "value": "3"
           },
           "away": {
-            "name": "A. Ounahi",
-            "num": "8",
-            "pos": "M",
-            "value": "1"
+            "name": "S. Rahimi",
+            "num": "9",
+            "pos": "F",
+            "value": "3"
           }
         },
         {
           "label": "Accurate Passes",
           "home": {
-            "name": "L. de Fougerolles",
-            "num": "4",
-            "pos": "D",
-            "value": "34"
+            "name": "S. Eustáquio",
+            "num": "7",
+            "pos": "M",
+            "value": "49"
           },
           "away": {
             "name": "I. Diop",
             "num": "14",
             "pos": "D",
-            "value": "68"
+            "value": "69"
           }
         },
         {
@@ -80340,7 +80388,7 @@
             "name": "N. Mazraoui",
             "num": "3",
             "pos": "D",
-            "value": "11"
+            "value": "15"
           }
         },
         {
@@ -80355,18 +80403,18 @@
             "name": "Y. Bounou",
             "num": "1",
             "pos": "G",
-            "value": "2"
+            "value": "3"
           }
         }
       ],
       "highlight": {
-        "thumb": "https://a.espncdn.com/media/motion/2026/0704/dm_260704_Ounahis_Morocco_opener_sparks_scenes_in_Casablanca/dm_260704_Ounahis_Morocco_opener_sparks_scenes_in_Casablanca.jpg",
-        "link": "https://www.espn.com/video/clip/_/id/49270095/ounahi-morocco-opener-sparks-scenes-casablanca",
-        "headline": "Ounahi's Morocco opener sparks scenes in Casablanca",
-        "mp4": "https://media.video-cdn.espn.com/motion/2026/0704/dm_260704_Ounahis_Morocco_opener_sparks_scenes_in_Casablanca/dm_260704_Ounahis_Morocco_opener_sparks_scenes_in_Casablanca_360p30_1464k.mp4",
-        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0704/dm_260704_Ounahis_Morocco_opener_sparks_scenes_in_Casablanca/dm_260704_Ounahis_Morocco_opener_sparks_scenes_in_Casablanca/playlist.m3u8"
+        "thumb": "https://a.espncdn.com/media/motion/2026/0704/dm_260704_COM_SOC_Analysis_Jones3A_Canada_had_a_good_World_Cup_despite_defeat_vs_Morocco_GLOBAL_2026-07-01/dm_260704_COM_SOC_Analysis_Jones3A_Canada_had_a_good_World_Cup_despite_defeat_vs_Morocco_GLOBAL_2026-07-01.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49270707/canada-had-good-world-cup-defeat-vs-morocco",
+        "headline": "Jones: Canada had a good World Cup despite defeat vs. Morocco",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0704/dm_260704_COM_SOC_Analysis_Jones3A_Canada_had_a_good_World_Cup_despite_defeat_vs_Morocco_GLOBAL_2026-07-01/dm_260704_COM_SOC_Analysis_Jones3A_Canada_had_a_good_World_Cup_despite_defeat_vs_Morocco_GLOBAL_2026-07-01_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0704/dm_260704_COM_SOC_Analysis_Jones3A_Canada_had_a_good_World_Cup_despite_defeat_vs_Morocco_GLOBAL_2026-07-01/dm_260704_COM_SOC_Analysis_Jones3A_Canada_had_a_good_World_Cup_despite_defeat_vs_Morocco_GLOBAL_2026-07-01/playlist.m3u8"
       },
-      "final": false,
+      "final": true,
       "dv": 5
     }
   }

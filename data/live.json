@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T22:07:32.998Z",
+  "lastUpdated": "2026-07-04T23:11:31.929Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -1253,24 +1253,14 @@
       "home": "Paraguay",
       "away": "France",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeWinner": false,
-      "awayWinner": false,
-      "odds": {
-        "home": 1600,
-        "away": -500,
-        "draw": 500,
-        "total": 2.5,
-        "book": "DraftKings"
-      },
-      "status": "live",
+      "awayWinner": true,
+      "odds": null,
+      "status": "finished",
       "id": "760503",
       "date": "2026-07-04T21:00Z",
-      "venue": "Lincoln Financial Field",
-      "clock": 2700,
-      "displayClock": "45'+3'",
-      "detail": "HT",
-      "period": 1
+      "venue": "Lincoln Financial Field"
     },
     {
       "stage": "r16",
@@ -1281,8 +1271,8 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -120,
-        "away": 310,
+        "home": -125,
+        "away": 330,
         "draw": 275,
         "total": 2.5,
         "book": "DraftKings"
@@ -1394,7 +1384,7 @@
     },
     {
       "stage": "qf",
-      "home": "Round of 16 1 Winner",
+      "home": "France",
       "away": "Morocco",
       "homeScore": 0,
       "awayScore": 0,

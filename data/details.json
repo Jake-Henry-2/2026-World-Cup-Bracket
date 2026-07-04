@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T22:07:33.095Z",
+  "lastUpdated": "2026-07-04T23:11:32.025Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -80421,64 +80421,64 @@
       "venue": "Lincoln Financial Field",
       "stats": {
         "home": {
-          "foulsCommitted": "4",
+          "foulsCommitted": "13",
           "yellowCards": "0",
           "redCards": "0",
           "offsides": "0",
-          "wonCorners": "0",
-          "saves": "0",
-          "possessionPct": "19.5",
-          "totalShots": "2",
-          "shotsOnTarget": "0",
-          "shotPct": "0.0",
-          "penaltyKickGoals": "0",
-          "penaltyKickShots": "0",
-          "accuratePasses": "43",
-          "totalPasses": "76",
-          "passPct": "0.6",
-          "accurateCrosses": "0",
-          "totalCrosses": "0",
-          "crossPct": "0.0",
-          "totalLongBalls": "25",
-          "accurateLongBalls": "7",
-          "longballPct": "0.3",
-          "blockedShots": "1",
-          "effectiveTackles": "6",
-          "totalTackles": "10",
-          "tacklePct": "0.6",
-          "interceptions": "10",
-          "effectiveClearance": "18",
-          "totalClearance": "18"
-        },
-        "away": {
-          "foulsCommitted": "6",
-          "yellowCards": "1",
-          "redCards": "0",
-          "offsides": "0",
-          "wonCorners": "7",
-          "saves": "0",
-          "possessionPct": "80.5",
+          "wonCorners": "2",
+          "saves": "4",
+          "possessionPct": "24",
           "totalShots": "5",
           "shotsOnTarget": "1",
-          "shotPct": "0.0",
+          "shotPct": "0.2",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "276",
-          "totalPasses": "300",
+          "accuratePasses": "99",
+          "totalPasses": "183",
+          "passPct": "0.5",
+          "accurateCrosses": "0",
+          "totalCrosses": "4",
+          "crossPct": "0.0",
+          "totalLongBalls": "55",
+          "accurateLongBalls": "12",
+          "longballPct": "0.2",
+          "blockedShots": "1",
+          "effectiveTackles": "21",
+          "totalTackles": "29",
+          "tacklePct": "0.7",
+          "interceptions": "14",
+          "effectiveClearance": "22",
+          "totalClearance": "22"
+        },
+        "away": {
+          "foulsCommitted": "11",
+          "yellowCards": "3",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "12",
+          "saves": "1",
+          "possessionPct": "76",
+          "totalShots": "15",
+          "shotsOnTarget": "5",
+          "shotPct": "0.3",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "1",
+          "accuratePasses": "510",
+          "totalPasses": "568",
           "passPct": "0.9",
           "accurateCrosses": "1",
-          "totalCrosses": "20",
-          "crossPct": "0.1",
-          "totalLongBalls": "20",
-          "accurateLongBalls": "16",
-          "longballPct": "0.8",
-          "blockedShots": "3",
-          "effectiveTackles": "5",
-          "totalTackles": "8",
+          "totalCrosses": "23",
+          "crossPct": "0.0",
+          "totalLongBalls": "42",
+          "accurateLongBalls": "26",
+          "longballPct": "0.6",
+          "blockedShots": "4",
+          "effectiveTackles": "8",
+          "totalTackles": "14",
           "tacklePct": "0.6",
-          "interceptions": "3",
-          "effectiveClearance": "12",
-          "totalClearance": "12"
+          "interceptions": "10",
+          "effectiveClearance": "27",
+          "totalClearance": "27"
         }
       },
       "events": [
@@ -80487,6 +80487,60 @@
           "min": "19'",
           "side": "away",
           "player": "Bradley Barcola"
+        },
+        {
+          "kind": "Substitution",
+          "min": "58'",
+          "side": "home",
+          "player": "Substitution, Paraguay. José Canale replaces Omar Alderete because of an injury."
+        },
+        {
+          "kind": "Substitution",
+          "min": "61'",
+          "side": "home",
+          "player": "Substitution, Paraguay. Gustavo Caballero replaces Julio Enciso because of an injury."
+        },
+        {
+          "kind": "Substitution",
+          "min": "61'",
+          "side": "away",
+          "player": "Substitution, France. Désiré Doué replaces Bradley Barcola."
+        },
+        {
+          "kind": "Penalty - Scored",
+          "min": "70'",
+          "side": "away",
+          "player": "Goal! Paraguay 0, France 1. Kylian Mbappé"
+        },
+        {
+          "kind": "Substitution",
+          "min": "71'",
+          "side": "home",
+          "player": "Substitution, Paraguay. Mauricio replaces Diego Gómez."
+        },
+        {
+          "kind": "Substitution",
+          "min": "71'",
+          "side": "home",
+          "player": "Substitution, Paraguay. Gabriel Ávalos replaces Miguel Almirón."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "81'",
+          "side": "away",
+          "player": "Manu Koné"
+        },
+        {
+          "kind": "Substitution",
+          "min": "84'",
+          "side": "away",
+          "player": "Substitution, France. Rayan Cherki replaces Ousmane Dembélé."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "90'+7'",
+          "side": "away",
+          "player": "Michael Olise"
         }
       ],
       "lineups": {
@@ -80871,208 +80925,303 @@
       },
       "commentary": [
         {
-          "min": "45'+4'",
-          "text": "First Half ends, Paraguay 0, France 0.",
+          "min": "",
+          "text": "Match ends, Paraguay 0, France 1.",
           "goal": false
         },
         {
-          "min": "45'",
-          "text": "Fourth official has announced 3 minutes of added time.",
+          "min": "90'+11'",
+          "text": "Second Half ends, Paraguay 0, France 1.",
           "goal": false
         },
         {
-          "min": "45'",
-          "text": "Attempt blocked. Adrien Rabiot (France) left footed shot from outside the box is blocked. Assisted by Bradley Barcola.",
+          "min": "90'+10'",
+          "text": "Foul by Désiré Doué (France).",
           "goal": false
         },
         {
-          "min": "43'",
-          "text": "Attempt missed. Manu Koné (France) right footed shot from outside the box is high and wide to the right. Assisted by Dayot Upamecano.",
+          "min": "90'+10'",
+          "text": "Mauricio (Paraguay) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "41'",
-          "text": "Corner, France. Conceded by Omar Alderete.",
+          "min": "90'+10'",
+          "text": "Corner, France. Conceded by Matías Galarza.",
           "goal": false
         },
         {
-          "min": "40'",
-          "text": "Jules Koundé (France) wins a free kick in the defensive half.",
+          "min": "90'+9'",
+          "text": "Kylian Mbappé (France) wins a free kick on the left wing.",
           "goal": false
         },
         {
-          "min": "40'",
-          "text": "Foul by Julio Enciso (Paraguay).",
+          "min": "90'+9'",
+          "text": "Foul by Juan José Cáceres (Paraguay).",
           "goal": false
         },
         {
-          "min": "38'",
-          "text": "Corner, France. Conceded by Júnior Alonso.",
+          "min": "90'+8'",
+          "text": "Corner, Paraguay. Conceded by William Saliba.",
           "goal": false
         },
         {
-          "min": "38'",
-          "text": "Attempt blocked. Ousmane Dembélé (France) left footed shot from the right side of the box is blocked. Assisted by Kylian Mbappé.",
+          "min": "90'+7'",
+          "text": "Michael Olise (France) is shown the yellow card.",
           "goal": false
         },
         {
-          "min": "36'",
-          "text": "Foul by Dayot Upamecano (France).",
-          "goal": false
-        },
-        {
-          "min": "36'",
-          "text": "Gustavo Gómez (Paraguay) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "36'",
-          "text": "Corner, France. Conceded by Andrés Cubas.",
-          "goal": false
-        },
-        {
-          "min": "34'",
-          "text": "Kylian Mbappé (France) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "34'",
-          "text": "Foul by Andrés Cubas (Paraguay).",
-          "goal": false
-        },
-        {
-          "min": "34'",
-          "text": "Mike Maignan (France) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "34'",
-          "text": "Foul by Gustavo Velázquez (Paraguay).",
-          "goal": false
-        },
-        {
-          "min": "33'",
-          "text": "Foul by William Saliba (France).",
-          "goal": false
-        },
-        {
-          "min": "33'",
-          "text": "Julio Enciso (Paraguay) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "33'",
-          "text": "Attempt missed. Adrien Rabiot (France) left footed shot from outside the box is too high. Assisted by Ousmane Dembélé.",
-          "goal": false
-        },
-        {
-          "min": "30'",
-          "text": "Manu Koné (France) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "30'",
-          "text": "Foul by Matías Galarza (Paraguay).",
-          "goal": false
-        },
-        {
-          "min": "30'",
-          "text": "Foul by Bradley Barcola (France).",
-          "goal": false
-        },
-        {
-          "min": "30'",
-          "text": "Miguel Almirón (Paraguay) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "28'",
-          "text": "Attempt missed. Diego Gómez (Paraguay) right footed shot from outside the box misses to the right.",
-          "goal": false
-        },
-        {
-          "min": "28'",
-          "text": "Attempt missed. Júnior Alonso (Paraguay) left footed shot from outside the box misses to the right. Assisted by Andrés Cubas.",
-          "goal": false
-        },
-        {
-          "min": "26'",
-          "text": "Delay over. They are ready to continue.",
-          "goal": false
-        },
-        {
-          "min": "23'",
-          "text": "Delay in match for a drinks break.",
-          "goal": false
-        },
-        {
-          "min": "23'",
-          "text": "Corner, France. Conceded by Gustavo Velázquez.",
-          "goal": false
-        },
-        {
-          "min": "22'",
-          "text": "Corner, France. Conceded by Diego Gómez.",
-          "goal": false
-        },
-        {
-          "min": "22'",
-          "text": "Attempt blocked. Manu Koné (France) left footed shot from outside the box is blocked. Assisted by Ousmane Dembélé.",
-          "goal": false
-        },
-        {
-          "min": "19'",
-          "text": "Bradley Barcola (France) is shown the yellow card for a bad foul.",
-          "goal": false
-        },
-        {
-          "min": "19'",
-          "text": "Foul by Bradley Barcola (France).",
-          "goal": false
-        },
-        {
-          "min": "19'",
-          "text": "Juan José Cáceres (Paraguay) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "18'",
-          "text": "Corner, France. Conceded by Júnior Alonso.",
-          "goal": false
-        },
-        {
-          "min": "14'",
+          "min": "90'+7'",
           "text": "Foul by Michael Olise (France).",
           "goal": false
         },
         {
-          "min": "14'",
+          "min": "90'+7'",
           "text": "Matías Galarza (Paraguay) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "12'",
+          "min": "90'+6'",
+          "text": "Attempt saved. Kylian Mbappé (France) left footed shot from the centre of the box is saved in the centre of the goal by Orlando Gill (Paraguay).",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Attempt saved. Kylian Mbappé (France) left footed shot from the centre of the box is saved in the bottom left corner by Orlando Gill (Paraguay). Assisted by Désiré Doué.",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Corner, France. Conceded by Júnior Alonso.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Dayot Upamecano (France) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Foul by Gustavo Caballero (Paraguay).",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Michael Olise (France) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Foul by Matías Galarza (Paraguay).",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Attempt blocked. Désiré Doué (France) right footed shot from outside the box is blocked. Assisted by Michael Olise.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Fourth official has announced 10 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Attempt saved. Mauricio (Paraguay) right footed shot from outside the box is saved in the bottom left corner by Mike Maignan (France). Assisted by Matías Galarza with a headed pass.",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Attempt saved. Kylian Mbappé (France) right footed shot from outside the box is saved in the bottom right corner by Orlando Gill (Paraguay). Assisted by Désiré Doué.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Manu Koné (France) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Foul by Matías Galarza (Paraguay).",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Attempt missed. Júnior Alonso (Paraguay) left footed shot from outside the box misses to the right. Assisted by Mauricio.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Substitution, France. Rayan Cherki replaces Ousmane Dembélé.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Michael Olise (France) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Foul by Gustavo Caballero (Paraguay).",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Manu Koné (France) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "81'",
           "text": "Foul by Manu Koné (France).",
           "goal": false
         },
         {
-          "min": "12'",
-          "text": "Matías Galarza (Paraguay) wins a free kick in the attacking half.",
+          "min": "81'",
+          "text": "Juan José Cáceres (Paraguay) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "7'",
-          "text": "Corner, France. Conceded by Miguel Almirón.",
+          "min": "80'",
+          "text": "Dayot Upamecano (France) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "",
-          "text": "First Half begins.",
+          "min": "80'",
+          "text": "Foul by Gabriel Ávalos (Paraguay).",
           "goal": false
         },
         {
-          "min": "",
-          "text": "Lineups are announced and players are warming up.",
+          "min": "77'",
+          "text": "Foul by Kylian Mbappé (France).",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Juan José Cáceres (Paraguay) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Adrien Rabiot (France) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Foul by Andrés Cubas (Paraguay).",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Substitution, Paraguay. Gabriel Ávalos replaces Miguel Almirón.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Substitution, Paraguay. Mauricio replaces Diego Gómez.",
+          "goal": false
+        },
+        {
+          "min": "70'",
+          "text": "Goal! Paraguay 0, France 1. Kylian Mbappé (France) converts the penalty with a right footed shot to the bottom right corner.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "VAR Decision: Penalty France.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Delay in match because of an injury Désiré Doué (France).",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Penalty France. Désiré Doué draws a foul in the penalty area.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Penalty conceded by Diego Gómez (Paraguay) after a foul in the penalty area.",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Attempt missed. Kylian Mbappé (France) right footed shot from outside the box is too high. Assisted by Désiré Doué.",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Substitution, France. Désiré Doué replaces Bradley Barcola.",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Substitution, Paraguay. Gustavo Caballero replaces Julio Enciso because of an injury.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Attempt missed. Bradley Barcola (France) right footed shot from outside the box is high and wide to the right. Assisted by Adrien Rabiot.",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Substitution, Paraguay. José Canale replaces Omar Alderete because of an injury.",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Corner, France. Conceded by Juan José Cáceres.",
+          "goal": false
+        },
+        {
+          "min": "54'",
+          "text": "Corner, France. Conceded by Orlando Gill.",
+          "goal": false
+        },
+        {
+          "min": "54'",
+          "text": "Attempt saved. Manu Koné (France) right footed shot from outside the box is saved in the top right corner by Orlando Gill (Paraguay). Assisted by Bradley Barcola.",
+          "goal": false
+        },
+        {
+          "min": "53'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "52'",
+          "text": "Delay in match because of an injury Orlando Gill (Paraguay).",
+          "goal": false
+        },
+        {
+          "min": "52'",
+          "text": "Attempt missed. Ousmane Dembélé (France) right footed shot from a difficult angle on the left is close, but misses to the left. Assisted by Kylian Mbappé following a corner.",
+          "goal": false
+        },
+        {
+          "min": "51'",
+          "text": "Corner, France. Conceded by Juan José Cáceres.",
+          "goal": false
+        },
+        {
+          "min": "50'",
+          "text": "Corner, Paraguay. Conceded by William Saliba.",
           "goal": false
         }
       ],
@@ -81080,31 +81229,31 @@
         {
           "label": "Total Shots",
           "home": {
-            "name": "D. Gómez",
-            "num": "8",
-            "pos": "M",
-            "value": "1"
+            "name": "J. Alonso",
+            "num": "6",
+            "pos": "D",
+            "value": "2"
           },
           "away": {
-            "name": "M. Koné",
-            "num": "6",
-            "pos": "M",
-            "value": "2"
+            "name": "K. Mbappé",
+            "num": "10",
+            "pos": "F",
+            "value": "5"
           }
         },
         {
           "label": "Accurate Passes",
           "home": {
-            "name": "A. Cubas",
-            "num": "14",
+            "name": "M. Galarza",
+            "num": "23",
             "pos": "M",
-            "value": "7"
+            "value": "17"
           },
           "away": {
-            "name": "J. Koundé",
-            "num": "5",
-            "pos": "D",
-            "value": "40"
+            "name": "M. Koné",
+            "num": "6",
+            "pos": "M",
+            "value": "66"
           }
         },
         {
@@ -81113,18 +81262,39 @@
             "name": "M. Galarza",
             "num": "23",
             "pos": "M",
-            "value": "8"
+            "value": "14"
           },
           "away": {
-            "name": "W. Saliba",
-            "num": "17",
+            "name": "D. Upamecano",
+            "num": "4",
             "pos": "D",
-            "value": "8"
+            "value": "13"
+          }
+        },
+        {
+          "label": "Saves",
+          "home": {
+            "name": "O. Gill",
+            "num": "12",
+            "pos": "G",
+            "value": "4"
+          },
+          "away": {
+            "name": "M. Maignan",
+            "num": "16",
+            "pos": "G",
+            "value": "1"
           }
         }
       ],
-      "highlight": null,
-      "final": false,
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0704/dm_260704_Paris_celebrates_as_Mbappe_fires_France_ahead_vs_Paraguay/dm_260704_Paris_celebrates_as_Mbappe_fires_France_ahead_vs_Paraguay.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49271912/paris-celebrates-mbappe-fires-france-ahead-vs-paraguay",
+        "headline": "Paris celebrates as Mbappé fires France ahead vs. Paraguay",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0704/dm_260704_Paris_celebrates_as_Mbappe_fires_France_ahead_vs_Paraguay/dm_260704_Paris_celebrates_as_Mbappe_fires_France_ahead_vs_Paraguay_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0704/dm_260704_Paris_celebrates_as_Mbappe_fires_France_ahead_vs_Paraguay/dm_260704_Paris_celebrates_as_Mbappe_fires_France_ahead_vs_Paraguay/playlist.m3u8"
+      },
+      "final": true,
       "dv": 5
     }
   }

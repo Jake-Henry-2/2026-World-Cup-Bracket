@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T17:41:24.297Z",
+  "lastUpdated": "2026-07-04T18:41:55.380Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -1239,7 +1239,7 @@
       "home": "Canada",
       "away": "Morocco",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
@@ -1253,10 +1253,10 @@
       "id": "760502",
       "date": "2026-07-04T17:00Z",
       "venue": "NRG Stadium",
-      "clock": 2400,
-      "displayClock": "40'",
-      "detail": "40'",
-      "period": 1
+      "clock": 4680,
+      "displayClock": "78'",
+      "detail": "78'",
+      "period": 2
     },
     {
       "stage": "r16",
@@ -1289,7 +1289,7 @@
       "odds": {
         "home": -125,
         "away": 320,
-        "draw": 285,
+        "draw": 275,
         "total": 2.5,
         "book": "DraftKings"
       },

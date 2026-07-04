@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-07-04T09:46:54.300Z",
+  "lastUpdated": "2026-07-04T11:13:28.389Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "England booed as they arrive at Mexico hotel",
+      "description": "England booed as they arrive at Mexico hotel",
+      "published": "2026-07-04T10:00:05Z",
+      "link": "https://www.espn.com/video/clip/_/id/49266541/england-booed-arrive-mexico-hotel",
+      "image": "https://a.espncdn.com/media/motion/2026/0704/dm_260704_England_booed_as_they_arrive_at_Mexico_hotel/dm_260704_England_booed_as_they_arrive_at_Mexico_hotel.jpg"
+    },
+    {
+      "headline": "England receive hostile welcome at Mexico City hotel ahead of World Cup clash",
+      "description": "England received a hostile welcome as they arrived at their Mexico City hotel ahead of Sunday night's World Cup last-16 tie against Mexico.",
+      "published": "2026-07-04T09:46:52Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49266468/england-receive-hostile-welcome-mexico-city-hotel-ahead-world-cup-clash",
+      "image": "https://a.espncdn.com/photo/2026/0704/r1684282_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Marc Guéhi labels Mexico as the favourites ahead of England clash",
+      "description": "Marc Guéhi has said he believes Mexico are the favourites for England's World Cup last-16 clash at the Estadio Azteca.",
+      "published": "2026-07-04T10:06:09Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49266437/marc-guehi-labels-mexico-favourites-ahead-england-clash",
+      "image": "https://a.espncdn.com/photo/2026/0704/r1684283_1296x729_16-9.jpg"
+    },
     {
       "headline": "World Cup Daily live: Cape Verde overshadow Taylor Swift-Travis Kelce wedding; Round of 16 begins",
       "description": "Enjoy all the features, news, video analysis and color from around the 2026 World Cup as the Round of 16 begins.",
@@ -22,27 +43,6 @@
       "published": "2026-07-04T08:26:46Z",
       "link": "https://www.espn.com/soccer/story/_/id/48972466/world-cup-2026-lionel-messi-cristiano-ronaldo-showdown-knockouts-argentina-portugal",
       "image": "https://a.espncdn.com/photo/2026/0605/r1668521_608x342_16-9.png"
-    },
-    {
-      "headline": "World Cup 2026 referees: Complete list of officials and VAR teams",
-      "description": "Find out who the 170 officials are for the 2026 World Cup and when will we find out who is refereeing which game?",
-      "published": "2026-07-04T08:19:44Z",
-      "link": "https://www.espn.com/soccer/story/_/id/48964271/world-cup-2026-referees-complete-list-officials-var-teams",
-      "image": "https://a.espncdn.com/photo/2022/1224/r1110287_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Why are there hydration breaks at the 2026 World Cup, and why has FIFA been criticised?",
-      "description": "All 104 matches at the 2026 World Cup are stopping for two hydration breaks. Why have they been stipulated by FIFA, and why have they been criticised?",
-      "published": "2026-07-04T08:19:00Z",
-      "link": "https://www.espn.com/soccer/story/_/id/48945011/why-there-drinks-breaks-2026-world-cup-fifa-criticised",
-      "image": "https://a.espncdn.com/photo/2026/0615/r1673607_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Free World Cup 2026 predictor: Simulate your road to the final",
-      "description": "Put your football knowledge to the test with ESPN's free World Cup 2026 predictor games and forecast every twist and turn of the tournament.",
-      "published": "2026-07-04T08:13:28Z",
-      "link": "https://www.espn.com/soccer/story/_/id/48945570/2026-fifa-world-cup-predictions-simulator",
-      "image": "https://a.espncdn.com/photo/2026/0521/r1661625_1296x729_16-9.jpg"
     }
   ]
 }

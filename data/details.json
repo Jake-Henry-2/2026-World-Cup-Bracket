@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-05T20:41:26.787Z",
+  "lastUpdated": "2026-07-05T21:42:11.713Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -81301,64 +81301,64 @@
       "venue": "MetLife Stadium",
       "stats": {
         "home": {
-          "foulsCommitted": "3",
-          "yellowCards": "0",
-          "redCards": "0",
-          "offsides": "0",
-          "wonCorners": "1",
-          "saves": "1",
-          "possessionPct": "35.8",
-          "totalShots": "5",
-          "shotsOnTarget": "1",
-          "shotPct": "0.2",
-          "penaltyKickGoals": "0",
-          "penaltyKickShots": "1",
-          "accuratePasses": "125",
-          "totalPasses": "144",
-          "passPct": "0.9",
-          "accurateCrosses": "1",
-          "totalCrosses": "3",
-          "crossPct": "0.3",
-          "totalLongBalls": "14",
-          "accurateLongBalls": "8",
-          "longballPct": "0.6",
-          "blockedShots": "1",
-          "effectiveTackles": "4",
-          "totalTackles": "8",
-          "tacklePct": "0.5",
-          "interceptions": "3",
-          "effectiveClearance": "6",
-          "totalClearance": "6"
-        },
-        "away": {
-          "foulsCommitted": "2",
+          "foulsCommitted": "6",
           "yellowCards": "0",
           "redCards": "0",
           "offsides": "1",
-          "wonCorners": "1",
-          "saves": "1",
-          "possessionPct": "64.2",
-          "totalShots": "2",
-          "shotsOnTarget": "1",
-          "shotPct": "0.5",
+          "wonCorners": "3",
+          "saves": "3",
+          "possessionPct": "30.7",
+          "totalShots": "11",
+          "shotsOnTarget": "3",
+          "shotPct": "0.3",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "1",
+          "accuratePasses": "217",
+          "totalPasses": "258",
+          "passPct": "0.8",
+          "accurateCrosses": "1",
+          "totalCrosses": "9",
+          "crossPct": "0.1",
+          "totalLongBalls": "33",
+          "accurateLongBalls": "16",
+          "longballPct": "0.5",
+          "blockedShots": "3",
+          "effectiveTackles": "7",
+          "totalTackles": "18",
+          "tacklePct": "0.4",
+          "interceptions": "11",
+          "effectiveClearance": "18",
+          "totalClearance": "18"
+        },
+        "away": {
+          "foulsCommitted": "3",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "1",
+          "wonCorners": "4",
+          "saves": "3",
+          "possessionPct": "69.3",
+          "totalShots": "7",
+          "shotsOnTarget": "3",
+          "shotPct": "0.4",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "238",
-          "totalPasses": "259",
+          "accuratePasses": "549",
+          "totalPasses": "598",
           "passPct": "0.9",
           "accurateCrosses": "0",
-          "totalCrosses": "4",
+          "totalCrosses": "11",
           "crossPct": "0.0",
-          "totalLongBalls": "17",
-          "accurateLongBalls": "12",
-          "longballPct": "0.7",
-          "blockedShots": "0",
-          "effectiveTackles": "2",
-          "totalTackles": "4",
-          "tacklePct": "0.5",
-          "interceptions": "3",
-          "effectiveClearance": "3",
-          "totalClearance": "3"
+          "totalLongBalls": "36",
+          "accurateLongBalls": "19",
+          "longballPct": "0.5",
+          "blockedShots": "1",
+          "effectiveTackles": "6",
+          "totalTackles": "8",
+          "tacklePct": "0.8",
+          "interceptions": "6",
+          "effectiveClearance": "7",
+          "totalClearance": "7"
         }
       },
       "events": [
@@ -81367,6 +81367,54 @@
           "min": "14'",
           "side": "home",
           "player": "Penalty saved. Bruno Guimarães"
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "away",
+          "player": "Substitution, Norway. Oscar Bobb replaces Alexander Sørloth."
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "away",
+          "player": "Substitution, Norway. Andreas Schjelderup replaces Antonio Nusa."
+        },
+        {
+          "kind": "Substitution",
+          "min": "58'",
+          "side": "home",
+          "player": "Substitution, Brazil. Endrick replaces Matheus Cunha."
+        },
+        {
+          "kind": "Substitution",
+          "min": "63'",
+          "side": "away",
+          "player": "Substitution, Norway. Fredrik Aursnes replaces Julian Ryerson."
+        },
+        {
+          "kind": "Substitution",
+          "min": "67'",
+          "side": "home",
+          "player": "Substitution, Brazil. Neymar replaces Gabriel Martinelli."
+        },
+        {
+          "kind": "Substitution",
+          "min": "67'",
+          "side": "home",
+          "player": "Substitution, Brazil. Danilo Santos replaces Rayan."
+        },
+        {
+          "kind": "Substitution",
+          "min": "79'",
+          "side": "home",
+          "player": "Substitution, Brazil. Éderson Silva replaces Bruno Guimarães."
+        },
+        {
+          "kind": "Goal - Header",
+          "min": "79'",
+          "side": "away",
+          "player": "Erling Haaland"
         }
       ],
       "lineups": {
@@ -81737,6 +81785,191 @@
       },
       "commentary": [
         {
+          "min": "79'",
+          "text": "Substitution, Brazil. Éderson Silva replaces Bruno Guimarães.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Attempt saved. Andreas Schjelderup (Norway) right footed shot from the left side of the box is saved in the bottom left corner by Alisson Becker (Brazil). Assisted by Erling Haaland.",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Patrick Berg (Norway) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Foul by Bruno Guimarães (Brazil).",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Substitution, Brazil. Danilo Santos replaces Rayan.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Substitution, Brazil. Neymar replaces Gabriel Martinelli.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Attempt missed. Erling Haaland (Norway) left footed shot from the right side of the six yard box misses to the right. Assisted by Kristoffer Ajer following a corner.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Corner, Norway. Conceded by Gabriel Magalhães.",
+          "goal": false
+        },
+        {
+          "min": "63'",
+          "text": "Substitution, Norway. Fredrik Aursnes replaces Julian Ryerson.",
+          "goal": false
+        },
+        {
+          "min": "63'",
+          "text": "Offside, Brazil. Rayan is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Attempt saved. Rayan (Brazil) right footed shot from the centre of the box is saved in the centre of the goal by Ørjan Nyland (Norway). Assisted by Gabriel Magalhães with a headed pass.",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Corner, Brazil. Conceded by Torbjørn Heggem.",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Attempt blocked. Endrick (Brazil) left footed shot from outside the box is blocked. Assisted by Gabriel Martinelli.",
+          "goal": false
+        },
+        {
+          "min": "59'",
+          "text": "Attempt missed. Endrick (Brazil) left footed shot from the centre of the box misses to the left. Assisted by Vinícius Júnior with a through ball following a fast break.",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Substitution, Brazil. Endrick replaces Matheus Cunha.",
+          "goal": false
+        },
+        {
+          "min": "54'",
+          "text": "Corner, Brazil. Conceded by Kristoffer Ajer.",
+          "goal": false
+        },
+        {
+          "min": "49'",
+          "text": "Attempt missed. Patrick Berg (Norway) right footed shot from outside the box is high and wide to the right. Assisted by Martin Ødegaard.",
+          "goal": false
+        },
+        {
+          "min": "48'",
+          "text": "Oscar Bobb (Norway) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "48'",
+          "text": "Foul by Casemiro (Brazil).",
+          "goal": false
+        },
+        {
+          "min": "47'",
+          "text": "Handball by Rayan (Brazil).",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Second Half begins Brazil 0, Norway 0.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Substitution, Norway. Andreas Schjelderup replaces Antonio Nusa.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Substitution, Norway. Oscar Bobb replaces Alexander Sørloth.",
+          "goal": false
+        },
+        {
+          "min": "45'+7'",
+          "text": "First Half ends, Brazil 0, Norway 0.",
+          "goal": false
+        },
+        {
+          "min": "45'+6'",
+          "text": "Foul by Julian Ryerson (Norway).",
+          "goal": false
+        },
+        {
+          "min": "45'+6'",
+          "text": "Gabriel Martinelli (Brazil) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "45'+4'",
+          "text": "Attempt missed. Matheus Cunha (Brazil) header from the centre of the box misses to the right. Assisted by Bruno Guimarães.",
+          "goal": false
+        },
+        {
+          "min": "45'+4'",
+          "text": "Attempt blocked. Bruno Guimarães (Brazil) right footed shot from outside the box is blocked. Assisted by Vinícius Júnior.",
+          "goal": false
+        },
+        {
+          "min": "45'+3'",
+          "text": "Attempt saved. Martin Ødegaard (Norway) left footed shot from the centre of the box is saved in the centre of the goal by Alisson Becker (Brazil).",
+          "goal": false
+        },
+        {
+          "min": "45'+1'",
+          "text": "Corner, Norway. Conceded by Gabriel Martinelli.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Fourth official has announced 6 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "43'",
+          "text": "Corner, Norway. Conceded by Danilo.",
+          "goal": false
+        },
+        {
+          "min": "43'",
+          "text": "Attempt blocked. Martin Ødegaard (Norway) left footed shot from a difficult angle on the left is blocked. Assisted by Erling Haaland.",
+          "goal": false
+        },
+        {
+          "min": "40'",
+          "text": "Corner, Brazil. Conceded by Ørjan Nyland.",
+          "goal": false
+        },
+        {
+          "min": "40'",
+          "text": "Attempt saved. Vinícius Júnior (Brazil) left footed shot from the left side of the box is saved in the bottom left corner by Ørjan Nyland (Norway). Assisted by Gabriel Martinelli.",
+          "goal": false
+        },
+        {
           "min": "40'",
           "text": "Attempt blocked. Casemiro (Brazil) left footed shot from outside the box is blocked. Assisted by Rayan.",
           "goal": false
@@ -81850,11 +82083,6 @@
           "min": "",
           "text": "First Half begins.",
           "goal": false
-        },
-        {
-          "min": "",
-          "text": "Lineups are announced and players are warming up.",
-          "goal": false
         }
       ],
       "leaders": [
@@ -81864,13 +82092,13 @@
             "name": "Rayan",
             "num": "26",
             "pos": "F",
-            "value": "1"
+            "value": "2"
           },
           "away": {
-            "name": "E. Haaland",
-            "num": "9",
-            "pos": "F",
-            "value": "1"
+            "name": "M. Ødegaard",
+            "num": "10",
+            "pos": "M",
+            "value": "3"
           }
         },
         {
@@ -81879,13 +82107,13 @@
             "name": "Casemiro",
             "num": "5",
             "pos": "M",
-            "value": "19"
+            "value": "31"
           },
           "away": {
             "name": "S. Berge",
             "num": "8",
             "pos": "M",
-            "value": "45"
+            "value": "107"
           }
         },
         {
@@ -81894,13 +82122,13 @@
             "name": "D. Santos",
             "num": "16",
             "pos": "D",
-            "value": "6"
+            "value": "13"
           },
           "away": {
-            "name": "D. Møller Wolfe",
-            "num": "5",
+            "name": "T. Heggem",
+            "num": "17",
             "pos": "D",
-            "value": "4"
+            "value": "6"
           }
         },
         {
@@ -81909,17 +82137,23 @@
             "name": "A. Becker",
             "num": "1",
             "pos": "G",
-            "value": "1"
+            "value": "3"
           },
           "away": {
             "name": "Ø. Nyland",
             "num": "1",
             "pos": "G",
-            "value": "1"
+            "value": "3"
           }
         }
       ],
-      "highlight": null,
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0705/dm_260705_Norway_fans_erupt_as_Brazil_penalty_is_saved/dm_260705_Norway_fans_erupt_as_Brazil_penalty_is_saved.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49279364/norway-fans-erupt-brazil-penalty-saved",
+        "headline": "Norway fans erupt as Brazil penalty is saved",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0705/dm_260705_Norway_fans_erupt_as_Brazil_penalty_is_saved/dm_260705_Norway_fans_erupt_as_Brazil_penalty_is_saved_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0705/dm_260705_Norway_fans_erupt_as_Brazil_penalty_is_saved/dm_260705_Norway_fans_erupt_as_Brazil_penalty_is_saved/playlist.m3u8"
+      },
       "final": false,
       "dv": 5
     }

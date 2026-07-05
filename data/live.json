@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-05T20:41:26.704Z",
+  "lastUpdated": "2026-07-05T21:42:11.573Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -1267,7 +1267,7 @@
       "home": "Brazil",
       "away": "Norway",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
@@ -1281,10 +1281,10 @@
       "id": "760504",
       "date": "2026-07-05T20:00Z",
       "venue": "MetLife Stadium",
-      "clock": 2460,
-      "displayClock": "41'",
-      "detail": "41'",
-      "period": 1
+      "clock": 4800,
+      "displayClock": "80'",
+      "detail": "80'",
+      "period": 2
     },
     {
       "stage": "r16",

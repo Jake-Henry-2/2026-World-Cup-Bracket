@@ -1,13 +1,20 @@
 {
-  "lastUpdated": "2026-07-05T18:12:19.961Z",
+  "lastUpdated": "2026-07-05T19:43:13.840Z",
   "source": "ESPN",
   "articles": [
     {
-      "headline": "World Cup Daily live: Mexico fans try to give England sleepless night",
+      "headline": "World Cup Daily live: Mexico fans try to give England sleepless night; Brazil face Norway",
       "description": "Enjoy all the features, news, video analysis and color from around the World Cup as Brazil face Norway and England take on Mexico.",
-      "published": "2026-07-05T17:43:02Z",
+      "published": "2026-07-05T19:32:36Z",
       "link": "https://www.espn.com/soccer/story/_/id/49274470/mexico-england-brazil-norway-round-16",
       "image": "https://a.espncdn.com/photo/2026/0705/r1684712_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "USMNT players react to Folarin Balogun's red card ban lifted, Pulisic says 'it feels right'",
+      "description": "U.S. men's national team attacker Christian Pulisic said that FIFA's lifting of Folarin Balogun's suspension \"feels right.\"",
+      "published": "2026-07-05T19:05:44Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49278332/folarin-balogun-usmnt-usa-red-card-ban-lifted-fifa-christian-pulisic-chris-richards",
+      "image": "https://a.espncdn.com/photo/2026/0705/r1684884_1296x729_16-9.jpg"
     },
     {
       "headline": "Mexico fans' serenata outside England hotel woke me up, and probably Three Lions too",
@@ -17,9 +24,9 @@
       "image": "https://a.espncdn.com/photo/2026/0705/r1684796_1296x729_16-9.jpg"
     },
     {
-      "headline": "USMNT's Folarin Balogun has red card suspended by FIFA, available to face Belgium",
+      "headline": "USMNT's Folarin Balogun has red card suspended by FIFA, striker available to face Belgium",
       "description": "FIFA has suspended the red card U.S. striker Folarin Balogun received in the team's match against Bosnia-Herzegovina, making him available to face Belgium in the round of 16 at the World Cup.",
-      "published": "2026-07-05T17:43:03Z",
+      "published": "2026-07-05T19:35:52Z",
       "link": "https://www.espn.com/soccer/story/_/id/49277378/usmnt-folarin-balogun-red-card-suspended-belgium",
       "image": "https://a.espncdn.com/photo/2026/0619/r1676265_1296x729_16-9.jpg"
     },
@@ -36,13 +43,6 @@
       "published": "2026-07-05T15:58:57Z",
       "link": "https://www.espn.com/soccer/story/_/id/49276691/mexico-fans-disruption-england-hotel-team-sleep-fifa-world-cup",
       "image": "https://a.espncdn.com/photo/2026/0705/r1684798_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Mexico squad return luxury watches gifted by influencer",
-      "description": "Mexico have had to return luxury watches that were gifted to them by the YouTuber Stevewilldoit.",
-      "published": "2026-07-05T14:31:56Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49276146/mexico-luxury-watches-return-fifa-rules-stevewilldoit-world-cup-2026",
-      "image": "https://a.espncdn.com/photo/2026/0705/r1684754_1296x729_16-9.jpg"
     }
   ]
 }

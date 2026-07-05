@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-05T21:42:11.573Z",
+  "lastUpdated": "2026-07-05T22:41:49.751Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -1266,25 +1266,15 @@
       "stage": "r16",
       "home": "Brazil",
       "away": "Norway",
-      "homeScore": 0,
-      "awayScore": 1,
+      "homeScore": 1,
+      "awayScore": 2,
       "homeWinner": false,
-      "awayWinner": false,
-      "odds": {
-        "home": -135,
-        "away": 370,
-        "draw": 270,
-        "total": 2.5,
-        "book": "DraftKings"
-      },
-      "status": "live",
+      "awayWinner": true,
+      "odds": null,
+      "status": "finished",
       "id": "760504",
       "date": "2026-07-05T20:00Z",
-      "venue": "MetLife Stadium",
-      "clock": 4800,
-      "displayClock": "80'",
-      "detail": "80'",
-      "period": 2
+      "venue": "MetLife Stadium"
     },
     {
       "stage": "r16",
@@ -1297,7 +1287,7 @@
       "odds": {
         "home": 200,
         "away": 155,
-        "draw": 210,
+        "draw": 205,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -1355,8 +1345,8 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -260,
-        "away": 750,
+        "home": -265,
+        "away": 800,
         "draw": 360,
         "total": 2.5,
         "book": "DraftKings"
@@ -1422,7 +1412,7 @@
     },
     {
       "stage": "qf",
-      "home": "Round of 16 3 Winner",
+      "home": "Norway",
       "away": "Round of 16 4 Winner",
       "homeScore": 0,
       "awayScore": 0,

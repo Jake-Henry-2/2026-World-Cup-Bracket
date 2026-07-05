@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-05T22:41:49.751Z",
+  "lastUpdated": "2026-07-05T23:45:35.981Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -1285,15 +1285,15 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 200,
+        "home": 205,
         "away": 155,
-        "draw": 205,
+        "draw": 200,
         "total": 2.5,
         "book": "DraftKings"
       },
       "status": "scheduled",
       "id": "760505",
-      "date": "2026-07-06T00:00Z",
+      "date": "2026-07-06T01:00Z",
       "venue": "Estadio Banorte"
     },
     {
@@ -1326,8 +1326,8 @@
       "awayWinner": false,
       "odds": {
         "home": 165,
-        "away": 165,
-        "draw": 235,
+        "away": 160,
+        "draw": 245,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -1345,8 +1345,8 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -265,
-        "away": 800,
+        "home": -255,
+        "away": 750,
         "draw": 360,
         "total": 2.5,
         "book": "DraftKings"

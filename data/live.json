@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-05T19:43:13.803Z",
+  "lastUpdated": "2026-07-05T20:41:26.704Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -1271,16 +1271,20 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -130,
-        "away": 350,
-        "draw": 275,
+        "home": -135,
+        "away": 370,
+        "draw": 270,
         "total": 2.5,
         "book": "DraftKings"
       },
-      "status": "scheduled",
+      "status": "live",
       "id": "760504",
       "date": "2026-07-05T20:00Z",
-      "venue": "MetLife Stadium"
+      "venue": "MetLife Stadium",
+      "clock": 2460,
+      "displayClock": "41'",
+      "detail": "41'",
+      "period": 1
     },
     {
       "stage": "r16",
@@ -1291,8 +1295,8 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 205,
-        "away": 150,
+        "home": 200,
+        "away": 155,
         "draw": 210,
         "total": 2.5,
         "book": "DraftKings"
@@ -1331,9 +1335,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 160,
-        "away": 170,
-        "draw": 240,
+        "home": 165,
+        "away": 165,
+        "draw": 235,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -1353,7 +1357,7 @@
       "odds": {
         "home": -260,
         "away": 750,
-        "draw": 370,
+        "draw": 360,
         "total": 2.5,
         "book": "DraftKings"
       },

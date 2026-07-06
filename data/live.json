@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-06T01:27:25.577Z",
+  "lastUpdated": "2026-07-06T06:04:00.913Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -1280,25 +1280,15 @@
       "stage": "r16",
       "home": "Mexico",
       "away": "England",
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 2,
+      "awayScore": 3,
       "homeWinner": false,
-      "awayWinner": false,
-      "odds": {
-        "home": 205,
-        "away": 155,
-        "draw": 200,
-        "total": 2.5,
-        "book": "DraftKings"
-      },
-      "status": "live",
+      "awayWinner": true,
+      "odds": null,
+      "status": "finished",
       "id": "760505",
       "date": "2026-07-06T01:00Z",
-      "venue": "Estadio Banorte",
-      "clock": 1620,
-      "displayClock": "27'",
-      "detail": "27'",
-      "period": 1
+      "venue": "Estadio Banorte"
     },
     {
       "stage": "r16",
@@ -1311,7 +1301,7 @@
       "odds": {
         "home": 295,
         "away": -110,
-        "draw": 270,
+        "draw": 265,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -1329,9 +1319,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 165,
-        "away": 160,
-        "draw": 245,
+        "home": 155,
+        "away": 175,
+        "draw": 240,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -1349,9 +1339,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -255,
-        "away": 750,
-        "draw": 360,
+        "home": -260,
+        "away": 800,
+        "draw": 370,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -1369,8 +1359,8 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 240,
-        "away": 130,
+        "home": 230,
+        "away": 135,
         "draw": 210,
         "total": 2.5,
         "book": "DraftKings"
@@ -1417,12 +1407,18 @@
     {
       "stage": "qf",
       "home": "Norway",
-      "away": "Round of 16 4 Winner",
+      "away": "England",
       "homeScore": 0,
       "awayScore": 0,
       "homeWinner": false,
       "awayWinner": false,
-      "odds": null,
+      "odds": {
+        "home": 270,
+        "away": 100,
+        "draw": 255,
+        "total": 2.5,
+        "book": "DraftKings"
+      },
       "status": "scheduled",
       "id": "760512",
       "date": "2026-07-11T21:00Z",

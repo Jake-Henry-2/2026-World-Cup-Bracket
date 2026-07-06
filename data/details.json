@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-06T01:27:25.652Z",
+  "lastUpdated": "2026-07-06T06:04:01.174Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -82185,64 +82185,64 @@
       "venue": "Estadio Banorte",
       "stats": {
         "home": {
-          "foulsCommitted": "6",
-          "yellowCards": "0",
+          "foulsCommitted": "14",
+          "yellowCards": "2",
           "redCards": "0",
-          "offsides": "0",
-          "wonCorners": "2",
-          "saves": "1",
-          "possessionPct": "52.7",
-          "totalShots": "3",
-          "shotsOnTarget": "1",
+          "offsides": "1",
+          "wonCorners": "12",
+          "saves": "2",
+          "possessionPct": "66.8",
+          "totalShots": "20",
+          "shotsOnTarget": "5",
           "shotPct": "0.3",
           "penaltyKickGoals": "0",
-          "penaltyKickShots": "0",
-          "accuratePasses": "96",
-          "totalPasses": "106",
+          "penaltyKickShots": "1",
+          "accuratePasses": "420",
+          "totalPasses": "455",
           "passPct": "0.9",
-          "accurateCrosses": "1",
-          "totalCrosses": "3",
-          "crossPct": "0.3",
-          "totalLongBalls": "10",
-          "accurateLongBalls": "4",
-          "longballPct": "0.4",
-          "blockedShots": "2",
-          "effectiveTackles": "1",
-          "totalTackles": "2",
-          "tacklePct": "0.5",
-          "interceptions": "2",
-          "effectiveClearance": "3",
-          "totalClearance": "3"
+          "accurateCrosses": "11",
+          "totalCrosses": "49",
+          "crossPct": "0.2",
+          "totalLongBalls": "42",
+          "accurateLongBalls": "30",
+          "longballPct": "0.7",
+          "blockedShots": "7",
+          "effectiveTackles": "6",
+          "totalTackles": "16",
+          "tacklePct": "0.4",
+          "interceptions": "7",
+          "effectiveClearance": "13",
+          "totalClearance": "13"
         },
         "away": {
-          "foulsCommitted": "1",
-          "yellowCards": "1",
-          "redCards": "0",
+          "foulsCommitted": "7",
+          "yellowCards": "4",
+          "redCards": "1",
           "offsides": "0",
           "wonCorners": "2",
-          "saves": "1",
-          "possessionPct": "47.3",
-          "totalShots": "1",
-          "shotsOnTarget": "1",
-          "shotPct": "1.0",
+          "saves": "3",
+          "possessionPct": "33.2",
+          "totalShots": "6",
+          "shotsOnTarget": "5",
+          "shotPct": "0.8",
           "penaltyKickGoals": "0",
-          "penaltyKickShots": "0",
-          "accuratePasses": "81",
-          "totalPasses": "95",
-          "passPct": "0.9",
-          "accurateCrosses": "0",
-          "totalCrosses": "2",
-          "crossPct": "0.0",
-          "totalLongBalls": "12",
-          "accurateLongBalls": "6",
+          "penaltyKickShots": "1",
+          "accuratePasses": "195",
+          "totalPasses": "244",
+          "passPct": "0.8",
+          "accurateCrosses": "1",
+          "totalCrosses": "4",
+          "crossPct": "0.3",
+          "totalLongBalls": "45",
+          "accurateLongBalls": "22",
           "longballPct": "0.5",
           "blockedShots": "0",
-          "effectiveTackles": "1",
-          "totalTackles": "2",
-          "tacklePct": "0.0",
-          "interceptions": "1",
-          "effectiveClearance": "3",
-          "totalClearance": "3"
+          "effectiveTackles": "9",
+          "totalTackles": "18",
+          "tacklePct": "0.5",
+          "interceptions": "4",
+          "effectiveClearance": "49",
+          "totalClearance": "49"
         }
       },
       "events": [
@@ -82251,6 +82251,126 @@
           "min": "1'",
           "side": "away",
           "player": "Declan Rice"
+        },
+        {
+          "kind": "Goal - Header",
+          "min": "36'",
+          "side": "away",
+          "player": "Goal! Mexico 0, England 1. Jude Bellingham"
+        },
+        {
+          "kind": "Goal",
+          "min": "38'",
+          "side": "away",
+          "player": "Goal! Mexico 0, England 2. Jude Bellingham"
+        },
+        {
+          "kind": "Goal",
+          "min": "42'",
+          "side": "home",
+          "player": "Goal! Mexico 1, England 2. Julián Quiñones"
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "home",
+          "player": "Substitution, Mexico. Edson Álvarez replaces César Montes."
+        },
+        {
+          "kind": "Red Card",
+          "min": "54'",
+          "side": "away",
+          "player": "Jarell Quansah"
+        },
+        {
+          "kind": "Substitution",
+          "min": "57'",
+          "side": "away",
+          "player": "Substitution, England. John Stones replaces Bukayo Saka."
+        },
+        {
+          "kind": "Penalty - Scored",
+          "min": "60'",
+          "side": "away",
+          "player": "Goal! Mexico 1, England 3. Harry Kane"
+        },
+        {
+          "kind": "Substitution",
+          "min": "61'",
+          "side": "home",
+          "player": "Substitution, Mexico. Santiago Giménez replaces Gilberto Mora."
+        },
+        {
+          "kind": "Substitution",
+          "min": "61'",
+          "side": "home",
+          "player": "Substitution, Mexico. Brian Gutiérrez replaces Luis Romo."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "68'",
+          "side": "away",
+          "player": "Marc Guéhi"
+        },
+        {
+          "kind": "Penalty - Scored",
+          "min": "69'",
+          "side": "home",
+          "player": "Goal! Mexico 2, England 3. Raúl Jiménez"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "71'",
+          "side": "home",
+          "player": "Jorge Sánchez"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "72'",
+          "side": "away",
+          "player": "Nico O'Reilly"
+        },
+        {
+          "kind": "Substitution",
+          "min": "74'",
+          "side": "away",
+          "player": "Substitution, England. Djed Spence replaces Nico O'Reilly."
+        },
+        {
+          "kind": "Substitution",
+          "min": "75'",
+          "side": "away",
+          "player": "Substitution, England. Dan Burn replaces Elliot Anderson."
+        },
+        {
+          "kind": "Substitution",
+          "min": "79'",
+          "side": "home",
+          "player": "Substitution, Mexico. Álvaro Fidalgo replaces Jorge Sánchez."
+        },
+        {
+          "kind": "Substitution",
+          "min": "81'",
+          "side": "home",
+          "player": "Substitution, Mexico. Guillermo Martínez replaces Julián Quiñones."
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'",
+          "side": "away",
+          "player": "Substitution, England. Morgan Rogers replaces Harry Kane."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "90'+8'",
+          "side": "home",
+          "player": "Johan Vásquez"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "90'+8'",
+          "side": "away",
+          "player": "Jordan Henderson"
         }
       ],
       "lineups": {
@@ -82635,138 +82755,303 @@
       },
       "commentary": [
         {
-          "min": "26'",
-          "text": "Attempt saved. Anthony Gordon (England) right footed shot from the left side of the box is saved.",
+          "min": "",
+          "text": "Match ends, Mexico 2, England 3.",
           "goal": false
         },
         {
-          "min": "26'",
-          "text": "Delay over. They are ready to continue.",
+          "min": "90'+13'",
+          "text": "Second Half ends, Mexico 2, England 3.",
           "goal": false
         },
         {
-          "min": "23'",
-          "text": "Delay in match for a drinks break.",
+          "min": "90'+12'",
+          "text": "Attempt blocked. Álvaro Fidalgo (Mexico) right footed shot from the right side of the box is blocked. Assisted by Edson Álvarez.",
           "goal": false
         },
         {
-          "min": "21'",
-          "text": "Corner, England. Conceded by Érik Lira.",
+          "min": "90'+12'",
+          "text": "Corner, Mexico. Conceded by Dan Burn.",
           "goal": false
         },
         {
-          "min": "19'",
-          "text": "Foul by César Montes (Mexico).",
+          "min": "90'+12'",
+          "text": "Attempt missed. Raúl Jiménez (Mexico) right footed shot from the right side of the box misses to the left following a corner.",
           "goal": false
         },
         {
-          "min": "19'",
-          "text": "Jude Bellingham (England) wins a free kick in the defensive half.",
+          "min": "90'+12'",
+          "text": "Corner, Mexico. Conceded by John Stones.",
           "goal": false
         },
         {
-          "min": "19'",
-          "text": "Attempt blocked. Gilberto Mora (Mexico) right footed shot from the left side of the box is blocked. Assisted by Julián Quiñones.",
+          "min": "90'+9'",
+          "text": "Santiago Giménez went off injured after Mexico had used all subs.",
           "goal": false
         },
         {
-          "min": "18'",
-          "text": "Foul by Jesús Gallardo (Mexico).",
+          "min": "90'+9'",
+          "text": "Corner, Mexico. Conceded by Djed Spence.",
           "goal": false
         },
         {
-          "min": "18'",
-          "text": "Bukayo Saka (England) wins a free kick in the defensive half.",
+          "min": "90'+8'",
+          "text": "Jordan Henderson (England) is shown the yellow card.",
           "goal": false
         },
         {
-          "min": "16'",
-          "text": "Corner, Mexico. Conceded by Jude Bellingham.",
+          "min": "90'+8'",
+          "text": "Johan Vásquez (Mexico) is shown the yellow card.",
           "goal": false
         },
         {
-          "min": "15'",
+          "min": "90'+7'",
+          "text": "Attempt missed. Raúl Jiménez (Mexico) right footed shot from the centre of the box is too high.",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Attempt blocked. Edson Álvarez (Mexico) right footed shot from outside the box is blocked. Assisted by Álvaro Fidalgo.",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Attempt blocked. Raúl Jiménez (Mexico) right footed shot from outside the box is blocked. Assisted by Álvaro Fidalgo.",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Attempt missed. Jesús Gallardo (Mexico) right footed shot from outside the box misses to the right. Assisted by Johan Vásquez.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Attempt saved. Jude Bellingham (England) right footed shot from more than 35 yards is saved in the top right corner by Raúl Rangel (Mexico). Assisted by Anthony Gordon.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Corner, Mexico. Conceded by Ezri Konsa.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Fourth official has announced 11 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Roberto Alvarado (Mexico) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Foul by Jude Bellingham (England).",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Substitution, England. Morgan Rogers replaces Harry Kane.",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Foul by Raúl Jiménez (Mexico).",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Ezri Konsa (England) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Attempt saved. Álvaro Fidalgo (Mexico) right footed shot from outside the box is saved in the centre of the goal by Jordan Pickford (England). Assisted by Brian Gutiérrez.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Offside, Mexico. Raúl Jiménez is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Foul by Raúl Jiménez (Mexico).",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Ezri Konsa (England) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "VAR Decision: Other Decision Cancelled.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Attempt missed. Santiago Giménez (Mexico) left footed shot from the centre of the box is too high. Assisted by Álvaro Fidalgo with a cross.",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Substitution, Mexico. Guillermo Martínez replaces Julián Quiñones.",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Attempt missed. Edson Álvarez (Mexico) header from very close range misses to the right. Assisted by Roberto Alvarado with a cross following a corner.",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Corner, Mexico. Conceded by John Stones.",
+          "goal": false
+        },
+        {
+          "min": "79'",
           "text": "Corner, Mexico. Conceded by Jordan Pickford.",
           "goal": false
         },
         {
-          "min": "15'",
-          "text": "Attempt saved. Raúl Jiménez (Mexico) header from the centre of the box is saved in the bottom right corner by Jordan Pickford (England). Assisted by Roberto Alvarado with a cross.",
+          "min": "79'",
+          "text": "Substitution, Mexico. Álvaro Fidalgo replaces Jorge Sánchez.",
           "goal": false
         },
         {
-          "min": "8'",
-          "text": "Corner, England. Conceded by Jorge Sánchez.",
+          "min": "78'",
+          "text": "Corner, Mexico. Conceded by Djed Spence.",
           "goal": false
         },
         {
-          "min": "7'",
-          "text": "Foul by Gilberto Mora (Mexico).",
+          "min": "78'",
+          "text": "Attempt blocked. Brian Gutiérrez (Mexico) right footed shot from the left side of the box is blocked. Assisted by Érik Lira.",
           "goal": false
         },
         {
-          "min": "7'",
-          "text": "Marc Guéhi (England) wins a free kick in the defensive half.",
+          "min": "75'",
+          "text": "Substitution, England. Dan Burn replaces Elliot Anderson.",
           "goal": false
         },
         {
-          "min": "6'",
-          "text": "Foul by Érik Lira (Mexico).",
+          "min": "74'",
+          "text": "Substitution, England. Djed Spence replaces Nico O'Reilly.",
           "goal": false
         },
         {
-          "min": "6'",
-          "text": "Jude Bellingham (England) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "4'",
-          "text": "Foul by Jorge Sánchez (Mexico).",
-          "goal": false
-        },
-        {
-          "min": "4'",
-          "text": "Anthony Gordon (England) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "3'",
-          "text": "Attempt blocked. Raúl Jiménez (Mexico) right footed shot from outside the box is blocked. Assisted by Gilberto Mora.",
-          "goal": false
-        },
-        {
-          "min": "3'",
+          "min": "74'",
           "text": "Delay over. They are ready to continue.",
           "goal": false
         },
         {
-          "min": "2'",
-          "text": "Delay in match because of an injury Luis Romo (Mexico).",
+          "min": "72'",
+          "text": "Nico O'Reilly (England) is shown the yellow card.",
           "goal": false
         },
         {
-          "min": "1'",
-          "text": "Declan Rice (England) is shown the yellow card for a bad foul.",
+          "min": "71'",
+          "text": "Delay in match for a drinks break.",
           "goal": false
         },
         {
-          "min": "1'",
-          "text": "Foul by Declan Rice (England).",
+          "min": "71'",
+          "text": "Delay over. They are ready to continue.",
           "goal": false
         },
         {
-          "min": "1'",
-          "text": "Luis Romo (Mexico) wins a free kick in the defensive half.",
+          "min": "71'",
+          "text": "Jorge Sánchez (Mexico) is shown the yellow card.",
           "goal": false
         },
         {
-          "min": "",
-          "text": "First Half begins.",
+          "min": "70'",
+          "text": "Delay in match because of an injury Nico O'Reilly (England).",
           "goal": false
         },
         {
-          "min": "",
-          "text": "Lineups are announced and players are warming up.",
+          "min": "69'",
+          "text": "Goal! Mexico 2, England 3. Raúl Jiménez (Mexico) converts the penalty with a right footed shot to the bottom left corner.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Marc Guéhi (England) is shown the yellow card.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "VAR Decision: Penalty Mexico.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Penalty Mexico. Brian Gutiérrez draws a foul in the penalty area.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Penalty conceded by Harry Kane (England) after a foul in the penalty area.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Corner, Mexico. Conceded by John Stones.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Foul by Edson Álvarez (Mexico).",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Harry Kane (England) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Brian Gutiérrez (Mexico).",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "(England) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Substitution, Mexico. Brian Gutiérrez replaces Luis Romo.",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Substitution, Mexico. Santiago Giménez replaces Gilberto Mora.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Goal! Mexico 1, England 3. Harry Kane (England) converts the penalty with a right footed shot to the bottom left corner.",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Penalty conceded by Raúl Rangel (Mexico) after a foul in the penalty area.",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Penalty England. Anthony Gordon draws a foul in the penalty area.",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Substitution, England. John Stones replaces Bukayo Saka.",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Attempt missed. Julián Quiñones (Mexico) right footed shot from outside the box misses to the left. Assisted by Jesús Gallardo.",
           "goal": false
         }
       ],
@@ -82777,43 +83062,43 @@
             "name": "R. Jiménez",
             "num": "9",
             "pos": "F",
-            "value": "2"
+            "value": "8"
           },
           "away": {
-            "name": "A. Gordon",
-            "num": "18",
-            "pos": "F",
-            "value": "1"
+            "name": "J. Bellingham",
+            "num": "10",
+            "pos": "M",
+            "value": "3"
           }
         },
         {
           "label": "Accurate Passes",
           "home": {
-            "name": "J. Vásquez",
-            "num": "5",
-            "pos": "D",
-            "value": "17"
+            "name": "É. Lira",
+            "num": "6",
+            "pos": "M",
+            "value": "69"
           },
           "away": {
             "name": "M. Guéhi",
             "num": "6",
             "pos": "D",
-            "value": "16"
+            "value": "31"
           }
         },
         {
           "label": "Defensive Interventions",
           "home": {
-            "name": "C. Montes",
-            "num": "3",
+            "name": "J. Vásquez",
+            "num": "5",
             "pos": "D",
-            "value": "2"
+            "value": "8"
           },
           "away": {
             "name": "M. Guéhi",
             "num": "6",
             "pos": "D",
-            "value": "3"
+            "value": "10"
           }
         },
         {
@@ -82822,18 +83107,24 @@
             "name": "R. Rangel",
             "num": "1",
             "pos": "G",
-            "value": "1"
+            "value": "2"
           },
           "away": {
             "name": "J. Pickford",
             "num": "1",
             "pos": "G",
-            "value": "1"
+            "value": "3"
           }
         }
       ],
-      "highlight": null,
-      "final": false,
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0705/dm_260705_Quinones_goal_causes_chaos_in_Mexico_City/dm_260705_Quinones_goal_causes_chaos_in_Mexico_City.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49282524/quinones-goal-causes-chaos-mexico-city",
+        "headline": "Quiñones goal causes chaos in Mexico City",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0705/dm_260705_Quinones_goal_causes_chaos_in_Mexico_City/dm_260705_Quinones_goal_causes_chaos_in_Mexico_City_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0705/dm_260705_Quinones_goal_causes_chaos_in_Mexico_City/dm_260705_Quinones_goal_causes_chaos_in_Mexico_City/playlist.m3u8"
+      },
+      "final": true,
       "dv": 5
     }
   }

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-05T23:45:36.041Z",
+  "lastUpdated": "2026-07-06T01:27:25.652Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -82179,6 +82179,661 @@
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0705/dm_260705_COM_SOC_NEWS_Erling_Haaland_goal_vs_Brazil_sends_Oslo_into_raptures_2026_7_5/dm_260705_COM_SOC_NEWS_Erling_Haaland_goal_vs_Brazil_sends_Oslo_into_raptures_2026_7_5/playlist.m3u8"
       },
       "final": true,
+      "dv": 5
+    },
+    "760505": {
+      "venue": "Estadio Banorte",
+      "stats": {
+        "home": {
+          "foulsCommitted": "6",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "2",
+          "saves": "1",
+          "possessionPct": "52.7",
+          "totalShots": "3",
+          "shotsOnTarget": "1",
+          "shotPct": "0.3",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "96",
+          "totalPasses": "106",
+          "passPct": "0.9",
+          "accurateCrosses": "1",
+          "totalCrosses": "3",
+          "crossPct": "0.3",
+          "totalLongBalls": "10",
+          "accurateLongBalls": "4",
+          "longballPct": "0.4",
+          "blockedShots": "2",
+          "effectiveTackles": "1",
+          "totalTackles": "2",
+          "tacklePct": "0.5",
+          "interceptions": "2",
+          "effectiveClearance": "3",
+          "totalClearance": "3"
+        },
+        "away": {
+          "foulsCommitted": "1",
+          "yellowCards": "1",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "2",
+          "saves": "1",
+          "possessionPct": "47.3",
+          "totalShots": "1",
+          "shotsOnTarget": "1",
+          "shotPct": "1.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "81",
+          "totalPasses": "95",
+          "passPct": "0.9",
+          "accurateCrosses": "0",
+          "totalCrosses": "2",
+          "crossPct": "0.0",
+          "totalLongBalls": "12",
+          "accurateLongBalls": "6",
+          "longballPct": "0.5",
+          "blockedShots": "0",
+          "effectiveTackles": "1",
+          "totalTackles": "2",
+          "tacklePct": "0.0",
+          "interceptions": "1",
+          "effectiveClearance": "3",
+          "totalClearance": "3"
+        }
+      },
+      "events": [
+        {
+          "kind": "Yellow Card",
+          "min": "1'",
+          "side": "away",
+          "player": "Declan Rice"
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Raúl Rangel",
+            "short": "R. Rangel",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Johan Vásquez",
+            "short": "J. Vásquez",
+            "num": "5",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "César Montes",
+            "short": "C. Montes",
+            "num": "3",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Jesús Gallardo",
+            "short": "J. Gallardo",
+            "num": "23",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Jorge Sánchez",
+            "short": "J. Sánchez",
+            "num": "2",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Érik Lira",
+            "short": "É. Lira",
+            "num": "6",
+            "pos": "CM",
+            "place": "4"
+          },
+          {
+            "name": "Luis Romo",
+            "short": "L. Romo",
+            "num": "7",
+            "pos": "LM",
+            "place": "8"
+          },
+          {
+            "name": "Gilberto Mora",
+            "short": "G. Mora",
+            "num": "19",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Raúl Jiménez",
+            "short": "R. Jiménez",
+            "num": "9",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Julián Quiñones",
+            "short": "J. Quiñones",
+            "num": "16",
+            "pos": "LF",
+            "place": "11"
+          },
+          {
+            "name": "Roberto Alvarado",
+            "short": "R. Alvarado",
+            "num": "25",
+            "pos": "RF",
+            "place": "10"
+          }
+        ],
+        "away": [
+          {
+            "name": "Jordan Pickford",
+            "short": "J. Pickford",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Marc Guéhi",
+            "short": "M. Guéhi",
+            "num": "6",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Ezri Konsa",
+            "short": "E. Konsa",
+            "num": "2",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Nico O'Reilly",
+            "short": "N. O'Reilly",
+            "num": "3",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Jarell Quansah",
+            "short": "J. Quansah",
+            "num": "26",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Jude Bellingham",
+            "short": "J. Bellingham",
+            "num": "10",
+            "pos": "AM",
+            "place": "10"
+          },
+          {
+            "name": "Elliot Anderson",
+            "short": "E. Anderson",
+            "num": "8",
+            "pos": "LM",
+            "place": "4"
+          },
+          {
+            "name": "Declan Rice",
+            "short": "D. Rice",
+            "num": "4",
+            "pos": "RM",
+            "place": "8"
+          },
+          {
+            "name": "Harry Kane",
+            "short": "H. Kane",
+            "num": "9",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Anthony Gordon",
+            "short": "A. Gordon",
+            "num": "18",
+            "pos": "AM-L",
+            "place": "11"
+          },
+          {
+            "name": "Bukayo Saka",
+            "short": "B. Saka",
+            "num": "7",
+            "pos": "AM-R",
+            "place": "7"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Guillermo Ochoa",
+            "short": "G. Ochoa",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mateo Chávez",
+            "short": "M. Chávez",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Armando González",
+            "short": "A. González",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Álvaro Fidalgo",
+            "short": "Á. Fidalgo",
+            "num": "8",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Carlos Acevedo",
+            "short": "C. Acevedo",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Obed Vargas",
+            "short": "O. Vargas",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "César Huerta",
+            "short": "C. Huerta",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Alexis Vega",
+            "short": "A. Vega",
+            "num": "10",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Israel Reyes",
+            "short": "I. Reyes",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Santiago Gimenez",
+            "short": "S. Gimenez",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Brian Gutiérrez",
+            "short": "B. Gutiérrez",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Edson Álvarez",
+            "short": "E. Álvarez",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Orbelín Pineda",
+            "short": "O. Pineda",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Guillermo Martínez",
+            "short": "G. Martínez",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Luis Chávez",
+            "short": "L. Chávez",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "John Stones",
+            "short": "J. Stones",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ollie Watkins",
+            "short": "O. Watkins",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jordan Henderson",
+            "short": "J. Henderson",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Noni Madueke",
+            "short": "N. Madueke",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Dan Burn",
+            "short": "D. Burn",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Trevoh Chalobah",
+            "short": "T. Chalobah",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kobbie Mainoo",
+            "short": "K. Mainoo",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "James Trafford",
+            "short": "J. Trafford",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Marcus Rashford",
+            "short": "M. Rashford",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Djed Spence",
+            "short": "D. Spence",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Eberechi Eze",
+            "short": "E. Eze",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Morgan Rogers",
+            "short": "M. Rogers",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Reece James",
+            "short": "R. James",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Dean Henderson",
+            "short": "D. Henderson",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ivan Toney",
+            "short": "I. Toney",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-3-3",
+        "away": "4-2-3-1"
+      },
+      "commentary": [
+        {
+          "min": "26'",
+          "text": "Attempt saved. Anthony Gordon (England) right footed shot from the left side of the box is saved.",
+          "goal": false
+        },
+        {
+          "min": "26'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "23'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "21'",
+          "text": "Corner, England. Conceded by Érik Lira.",
+          "goal": false
+        },
+        {
+          "min": "19'",
+          "text": "Foul by César Montes (Mexico).",
+          "goal": false
+        },
+        {
+          "min": "19'",
+          "text": "Jude Bellingham (England) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "19'",
+          "text": "Attempt blocked. Gilberto Mora (Mexico) right footed shot from the left side of the box is blocked. Assisted by Julián Quiñones.",
+          "goal": false
+        },
+        {
+          "min": "18'",
+          "text": "Foul by Jesús Gallardo (Mexico).",
+          "goal": false
+        },
+        {
+          "min": "18'",
+          "text": "Bukayo Saka (England) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "16'",
+          "text": "Corner, Mexico. Conceded by Jude Bellingham.",
+          "goal": false
+        },
+        {
+          "min": "15'",
+          "text": "Corner, Mexico. Conceded by Jordan Pickford.",
+          "goal": false
+        },
+        {
+          "min": "15'",
+          "text": "Attempt saved. Raúl Jiménez (Mexico) header from the centre of the box is saved in the bottom right corner by Jordan Pickford (England). Assisted by Roberto Alvarado with a cross.",
+          "goal": false
+        },
+        {
+          "min": "8'",
+          "text": "Corner, England. Conceded by Jorge Sánchez.",
+          "goal": false
+        },
+        {
+          "min": "7'",
+          "text": "Foul by Gilberto Mora (Mexico).",
+          "goal": false
+        },
+        {
+          "min": "7'",
+          "text": "Marc Guéhi (England) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "6'",
+          "text": "Foul by Érik Lira (Mexico).",
+          "goal": false
+        },
+        {
+          "min": "6'",
+          "text": "Jude Bellingham (England) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "4'",
+          "text": "Foul by Jorge Sánchez (Mexico).",
+          "goal": false
+        },
+        {
+          "min": "4'",
+          "text": "Anthony Gordon (England) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "3'",
+          "text": "Attempt blocked. Raúl Jiménez (Mexico) right footed shot from outside the box is blocked. Assisted by Gilberto Mora.",
+          "goal": false
+        },
+        {
+          "min": "3'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "2'",
+          "text": "Delay in match because of an injury Luis Romo (Mexico).",
+          "goal": false
+        },
+        {
+          "min": "1'",
+          "text": "Declan Rice (England) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "1'",
+          "text": "Foul by Declan Rice (England).",
+          "goal": false
+        },
+        {
+          "min": "1'",
+          "text": "Luis Romo (Mexico) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "First Half begins.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "Lineups are announced and players are warming up.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "R. Jiménez",
+            "num": "9",
+            "pos": "F",
+            "value": "2"
+          },
+          "away": {
+            "name": "A. Gordon",
+            "num": "18",
+            "pos": "F",
+            "value": "1"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "J. Vásquez",
+            "num": "5",
+            "pos": "D",
+            "value": "17"
+          },
+          "away": {
+            "name": "M. Guéhi",
+            "num": "6",
+            "pos": "D",
+            "value": "16"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "C. Montes",
+            "num": "3",
+            "pos": "D",
+            "value": "2"
+          },
+          "away": {
+            "name": "M. Guéhi",
+            "num": "6",
+            "pos": "D",
+            "value": "3"
+          }
+        },
+        {
+          "label": "Saves",
+          "home": {
+            "name": "R. Rangel",
+            "num": "1",
+            "pos": "G",
+            "value": "1"
+          },
+          "away": {
+            "name": "J. Pickford",
+            "num": "1",
+            "pos": "G",
+            "value": "1"
+          }
+        }
+      ],
+      "highlight": null,
+      "final": false,
       "dv": 5
     }
   }

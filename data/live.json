@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-05T23:45:35.981Z",
+  "lastUpdated": "2026-07-06T01:27:25.577Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -1291,10 +1291,14 @@
         "total": 2.5,
         "book": "DraftKings"
       },
-      "status": "scheduled",
+      "status": "live",
       "id": "760505",
       "date": "2026-07-06T01:00Z",
-      "venue": "Estadio Banorte"
+      "venue": "Estadio Banorte",
+      "clock": 1620,
+      "displayClock": "27'",
+      "detail": "27'",
+      "period": 1
     },
     {
       "stage": "r16",
@@ -1305,9 +1309,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 280,
-        "away": -105,
-        "draw": 265,
+        "home": 295,
+        "away": -110,
+        "draw": 270,
         "total": 2.5,
         "book": "DraftKings"
       },

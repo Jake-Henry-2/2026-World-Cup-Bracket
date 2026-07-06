@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-06T19:13:29.581Z",
+  "lastUpdated": "2026-07-06T21:06:02.794Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -83131,67 +83131,146 @@
       "venue": "AT&T Stadium",
       "stats": {
         "home": {
-          "foulsCommitted": "1",
-          "yellowCards": "0",
+          "foulsCommitted": "9",
+          "yellowCards": "2",
           "redCards": "0",
-          "offsides": "0",
-          "wonCorners": "2",
-          "saves": "1",
-          "possessionPct": "47.5",
-          "totalShots": "3",
-          "shotsOnTarget": "1",
-          "shotPct": "0.3",
+          "offsides": "2",
+          "wonCorners": "3",
+          "saves": "5",
+          "possessionPct": "44.5",
+          "totalShots": "10",
+          "shotsOnTarget": "2",
+          "shotPct": "0.2",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "53",
-          "totalPasses": "64",
+          "accuratePasses": "357",
+          "totalPasses": "426",
           "passPct": "0.8",
-          "accurateCrosses": "0",
-          "totalCrosses": "1",
-          "crossPct": "0.0",
-          "totalLongBalls": "7",
-          "accurateLongBalls": "4",
-          "longballPct": "0.6",
-          "blockedShots": "1",
-          "effectiveTackles": "1",
-          "totalTackles": "1",
-          "tacklePct": "0.0",
-          "interceptions": "0",
-          "effectiveClearance": "1",
-          "totalClearance": "1"
+          "accurateCrosses": "4",
+          "totalCrosses": "13",
+          "crossPct": "0.3",
+          "totalLongBalls": "53",
+          "accurateLongBalls": "24",
+          "longballPct": "0.5",
+          "blockedShots": "3",
+          "effectiveTackles": "9",
+          "totalTackles": "14",
+          "tacklePct": "0.6",
+          "interceptions": "7",
+          "effectiveClearance": "23",
+          "totalClearance": "23"
         },
         "away": {
-          "foulsCommitted": "1",
-          "yellowCards": "0",
+          "foulsCommitted": "13",
+          "yellowCards": "1",
           "redCards": "0",
-          "offsides": "0",
-          "wonCorners": "0",
-          "saves": "1",
-          "possessionPct": "52.5",
-          "totalShots": "2",
-          "shotsOnTarget": "1",
-          "shotPct": "0.5",
+          "offsides": "1",
+          "wonCorners": "7",
+          "saves": "2",
+          "possessionPct": "55.5",
+          "totalShots": "15",
+          "shotsOnTarget": "6",
+          "shotPct": "0.4",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "62",
-          "totalPasses": "73",
-          "passPct": "0.8",
-          "accurateCrosses": "0",
-          "totalCrosses": "0",
-          "crossPct": "0.0",
-          "totalLongBalls": "4",
-          "accurateLongBalls": "2",
+          "accuratePasses": "467",
+          "totalPasses": "531",
+          "passPct": "0.9",
+          "accurateCrosses": "1",
+          "totalCrosses": "16",
+          "crossPct": "0.1",
+          "totalLongBalls": "36",
+          "accurateLongBalls": "17",
           "longballPct": "0.5",
-          "blockedShots": "0",
-          "effectiveTackles": "2",
-          "totalTackles": "2",
-          "tacklePct": "1.0",
-          "interceptions": "1",
-          "effectiveClearance": "3",
-          "totalClearance": "3"
+          "blockedShots": "3",
+          "effectiveTackles": "15",
+          "totalTackles": "19",
+          "tacklePct": "0.8",
+          "interceptions": "5",
+          "effectiveClearance": "14",
+          "totalClearance": "14"
         }
       },
-      "events": [],
+      "events": [
+        {
+          "kind": "Substitution",
+          "min": "56'",
+          "side": "home",
+          "player": "Substitution, Portugal. Nélson Semedo replaces Nuno Mendes because of an injury."
+        },
+        {
+          "kind": "Substitution",
+          "min": "71'",
+          "side": "home",
+          "player": "Substitution, Portugal. Diogo Dalot replaces João Cancelo."
+        },
+        {
+          "kind": "Substitution",
+          "min": "71'",
+          "side": "home",
+          "player": "Substitution, Portugal. Rafael Leão replaces João Félix."
+        },
+        {
+          "kind": "Substitution",
+          "min": "75'",
+          "side": "away",
+          "player": "Substitution, Spain. Ferran Torres replaces Álex Baena."
+        },
+        {
+          "kind": "Substitution",
+          "min": "83'",
+          "side": "home",
+          "player": "Substitution, Portugal. Francisco Conceição replaces Pedro Neto."
+        },
+        {
+          "kind": "Substitution",
+          "min": "83'",
+          "side": "home",
+          "player": "Substitution, Portugal. Bernardo Silva replaces Vitinha."
+        },
+        {
+          "kind": "Substitution",
+          "min": "85'",
+          "side": "away",
+          "player": "Substitution, Spain. Fabián Ruiz replaces Pedri."
+        },
+        {
+          "kind": "Substitution",
+          "min": "85'",
+          "side": "away",
+          "player": "Substitution, Spain. Mikel Merino replaces Dani Olmo."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "89'",
+          "side": "home",
+          "player": "Bernardo Silva"
+        },
+        {
+          "kind": "Goal",
+          "min": "90'+1'",
+          "side": "away",
+          "player": "Goal! Portugal 0, Spain 1. Mikel Merino"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "90'+4'",
+          "side": "home",
+          "player": "Renato Veiga"
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'+7'",
+          "side": "away",
+          "player": "Substitution, Spain. Borja Iglesias replaces Mikel Oyarzabal."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "90'+8'",
+          "side": "away",
+          "player": "Ferran Torres"
+        }
+      ],
       "lineups": {
         "home": [
           {
@@ -83574,68 +83653,303 @@
       },
       "commentary": [
         {
-          "min": "12'",
-          "text": "Corner, Portugal. Conceded by Unai Simón.",
+          "min": "",
+          "text": "Match ends, Portugal 0, Spain 1.",
           "goal": false
         },
         {
-          "min": "12'",
-          "text": "Attempt saved. Cristiano Ronaldo (Portugal) right footed shot from the right side of the box is saved in the bottom right corner by Unai Simón (Spain). Assisted by Bruno Fernandes.",
+          "min": "90'+9'",
+          "text": "Second Half ends, Portugal 0, Spain 1.",
           "goal": false
         },
         {
-          "min": "11'",
-          "text": "Pedro Porro (Spain) wins a free kick in the defensive half.",
+          "min": "90'+9'",
+          "text": "Attempt missed. João Neves (Portugal) header from the centre of the box misses to the left. Assisted by Bruno Fernandes with a cross following a set piece situation.",
           "goal": false
         },
         {
-          "min": "11'",
-          "text": "Foul by João Félix (Portugal).",
+          "min": "90'+8'",
+          "text": "Ferran Torres (Spain) is shown the yellow card for a bad foul.",
           "goal": false
         },
         {
-          "min": "10'",
-          "text": "Attempt blocked. Pedro Neto (Portugal) left footed shot from outside the box is blocked.",
+          "min": "90'+8'",
+          "text": "Foul by Ferran Torres (Spain).",
           "goal": false
         },
         {
-          "min": "9'",
-          "text": "Corner, Portugal. Conceded by Pedri.",
+          "min": "90'+8'",
+          "text": "Francisco Conceição (Portugal) wins a free kick on the right wing.",
           "goal": false
         },
         {
-          "min": "8'",
-          "text": "Attempt missed. Mikel Oyarzabal (Spain) left footed shot from the centre of the box is close, but misses to the right. Assisted by Dani Olmo with a through ball following a fast break.",
+          "min": "90'+7'",
+          "text": "Substitution, Spain. Borja Iglesias replaces Mikel Oyarzabal.",
           "goal": false
         },
         {
-          "min": "7'",
-          "text": "Attempt missed. João Cancelo (Portugal) right footed shot from the right side of the box is too high. Assisted by Nuno Mendes.",
+          "min": "90'+7'",
+          "text": "Attempt missed. Bernardo Silva (Portugal) header from the centre of the box is too high. Assisted by Francisco Conceição with a cross.",
           "goal": false
         },
         {
-          "min": "3'",
-          "text": "Attempt saved. Mikel Oyarzabal (Spain) left footed shot from outside the box is saved in the centre of the goal by Diogo Costa (Portugal).",
+          "min": "90'+4'",
+          "text": "Renato Veiga (Portugal) is shown the yellow card for a bad foul.",
           "goal": false
         },
         {
-          "min": "2'",
+          "min": "90'+3'",
+          "text": "Lamine Yamal (Spain) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Foul by Renato Veiga (Portugal).",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Goal! Portugal 0, Spain 1. Mikel Merino (Spain) left footed shot from the centre of the box to the bottom left corner. Assisted by Ferran Torres with a through ball.",
+          "goal": true
+        },
+        {
+          "min": "90'+1'",
+          "text": "Fourth official has announced 6 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Mikel Merino (Spain) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Foul by Bernardo Silva (Portugal).",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Bernardo Silva (Portugal) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Mikel Merino (Spain) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Foul by Bernardo Silva (Portugal).",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Substitution, Spain. Mikel Merino replaces Dani Olmo.",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Substitution, Spain. Fabián Ruiz replaces Pedri.",
+          "goal": false
+        },
+        {
+          "min": "84'",
           "text": "Foul by Lamine Yamal (Spain).",
           "goal": false
         },
         {
-          "min": "2'",
-          "text": "João Neves (Portugal) wins a free kick on the left wing.",
+          "min": "84'",
+          "text": "Nélson Semedo (Portugal) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "",
-          "text": "First Half begins.",
+          "min": "83'",
+          "text": "Substitution, Portugal. Bernardo Silva replaces Vitinha.",
           "goal": false
         },
         {
-          "min": "",
-          "text": "Lineups are announced and players are warming up.",
+          "min": "83'",
+          "text": "Substitution, Portugal. Francisco Conceição replaces Pedro Neto.",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Handball by Rodri (Spain).",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Corner, Spain. Conceded by Nélson Semedo.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Corner, Spain. Conceded by Rúben Dias.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Attempt blocked. Dani Olmo (Spain) right footed shot from the right side of the box is blocked. Assisted by Mikel Oyarzabal.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Attempt missed. Ferran Torres (Spain) right footed shot from a difficult angle on the right misses to the right. Assisted by Pedri with a through ball.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Attempt missed. Bruno Fernandes (Portugal) right footed shot from the right side of the box is close, but misses to the right.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Attempt blocked. Vitinha (Portugal) right footed shot from outside the box is blocked. Assisted by Cristiano Ronaldo.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Substitution, Spain. Ferran Torres replaces Álex Baena.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Corner, Spain. Conceded by Diogo Costa.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Attempt saved. Lamine Yamal (Spain) left footed shot from a difficult angle and long range on the right is saved in the top centre of the goal by Diogo Costa (Portugal).",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Lamine Yamal (Spain) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Foul by Nélson Semedo (Portugal).",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Substitution, Portugal. Rafael Leão replaces João Félix.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Substitution, Portugal. Diogo Dalot replaces João Cancelo.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Attempt saved. Álex Baena (Spain) left footed shot from the left side of the box is saved in the bottom right corner by Diogo Costa (Portugal).",
+          "goal": false
+        },
+        {
+          "min": "63'",
+          "text": "Foul by Pedri (Spain).",
+          "goal": false
+        },
+        {
+          "min": "63'",
+          "text": "Bruno Fernandes (Portugal) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Attempt blocked. Lamine Yamal (Spain) left footed shot from outside the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Corner, Spain. Conceded by João Félix.",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Corner, Spain. Conceded by Renato Veiga.",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Attempt blocked. Pedri (Spain) right footed shot from outside the box is blocked. Assisted by Dani Olmo.",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Foul by Lamine Yamal (Spain).",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "João Félix (Portugal) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "59'",
+          "text": "Attempt missed. Cristiano Ronaldo (Portugal) right footed shot from a difficult angle on the right is close, but misses to the right. Assisted by João Félix.",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Offside, Portugal. Cristiano Ronaldo is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Substitution, Portugal. Nélson Semedo replaces Nuno Mendes because of an injury.",
+          "goal": false
+        },
+        {
+          "min": "55'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "54'",
+          "text": "Delay in match because of an injury Nuno Mendes (Portugal).",
+          "goal": false
+        },
+        {
+          "min": "50'",
+          "text": "Foul by Lamine Yamal (Spain).",
+          "goal": false
+        },
+        {
+          "min": "50'",
+          "text": "Nuno Mendes (Portugal) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "48'",
+          "text": "Foul by Dani Olmo (Spain).",
+          "goal": false
+        },
+        {
+          "min": "48'",
+          "text": "Cristiano Ronaldo (Portugal) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Second Half begins Portugal 0, Spain 0.",
+          "goal": false
+        },
+        {
+          "min": "45'+7'",
+          "text": "First Half ends, Portugal 0, Spain 0.",
           "goal": false
         }
       ],
@@ -83643,16 +83957,16 @@
         {
           "label": "Total Shots",
           "home": {
-            "name": "P. Neto",
-            "num": "18",
+            "name": "C. Ronaldo",
+            "num": "7",
             "pos": "F",
-            "value": "1"
+            "value": "3"
           },
           "away": {
-            "name": "M. Oyarzabal",
-            "num": "21",
+            "name": "L. Yamal",
+            "num": "19",
             "pos": "F",
-            "value": "2"
+            "value": "3"
           }
         },
         {
@@ -83661,28 +83975,28 @@
             "name": "R. Veiga",
             "num": "13",
             "pos": "D",
-            "value": "11"
+            "value": "54"
           },
           "away": {
-            "name": "P. Cubarsí",
-            "num": "22",
-            "pos": "D",
-            "value": "14"
+            "name": "Rodri",
+            "num": "16",
+            "pos": "M",
+            "value": "87"
           }
         },
         {
           "label": "Defensive Interventions",
           "home": {
-            "name": "Vitinha",
-            "num": "23",
-            "pos": "M",
-            "value": "2"
+            "name": "R. Veiga",
+            "num": "13",
+            "pos": "D",
+            "value": "10"
           },
           "away": {
-            "name": "P. Porro",
-            "num": "12",
-            "pos": "D",
-            "value": "2"
+            "name": "Rodri",
+            "num": "16",
+            "pos": "M",
+            "value": "9"
           }
         },
         {
@@ -83691,18 +84005,24 @@
             "name": "D. Costa",
             "num": "1",
             "pos": "G",
-            "value": "1"
+            "value": "5"
           },
           "away": {
             "name": "U. Simón",
             "num": "23",
             "pos": "G",
-            "value": "1"
+            "value": "2"
           }
         }
       ],
-      "highlight": null,
-      "final": false,
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0705/dm_260705_Ronaldo_tells_media_Ill_finish_when_I_want_not_when_you_want/dm_260705_Ronaldo_tells_media_Ill_finish_when_I_want_not_when_you_want.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49280347/finish-want-not-want",
+        "headline": "Ronaldo tells media: I'll finish when I want, not when you want",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0705/dm_260705_Ronaldo_tells_media_Ill_finish_when_I_want_not_when_you_want/dm_260705_Ronaldo_tells_media_Ill_finish_when_I_want_not_when_you_want_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0705/dm_260705_Ronaldo_tells_media_Ill_finish_when_I_want_not_when_you_want/dm_260705_Ronaldo_tells_media_Ill_finish_when_I_want_not_when_you_want/playlist.m3u8"
+      },
+      "final": true,
       "dv": 5
     }
   }

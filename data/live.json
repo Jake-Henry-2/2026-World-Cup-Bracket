@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-06T19:13:29.507Z",
+  "lastUpdated": "2026-07-06T21:06:02.694Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -1295,24 +1295,14 @@
       "home": "Portugal",
       "away": "Spain",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeWinner": false,
-      "awayWinner": false,
-      "odds": {
-        "home": 290,
-        "away": -105,
-        "draw": 255,
-        "total": 2.5,
-        "book": "DraftKings"
-      },
-      "status": "live",
+      "awayWinner": true,
+      "odds": null,
+      "status": "finished",
       "id": "760506",
       "date": "2026-07-06T19:00Z",
-      "venue": "AT&T Stadium",
-      "clock": 780,
-      "displayClock": "13'",
-      "detail": "13'",
-      "period": 1
+      "venue": "AT&T Stadium"
     },
     {
       "stage": "r16",
@@ -1396,7 +1386,7 @@
     },
     {
       "stage": "qf",
-      "home": "Round of 16 5 Winner",
+      "home": "Spain",
       "away": "Round of 16 6 Winner",
       "homeScore": 0,
       "awayScore": 0,

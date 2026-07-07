@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-07T13:54:19.145Z",
+  "lastUpdated": "2026-07-07T16:28:23.180Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -84938,6 +84938,622 @@
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0706/dm_260706_COM_SOC_NEWS_COM_SOC_NEWS_USA_fans_in_disbelief_after_Freese_mistake_gifts_Belgium_a_third_goal_2/dm_260706_COM_SOC_NEWS_COM_SOC_NEWS_USA_fans_in_disbelief_after_Freese_mistake_gifts_Belgium_a_third_goal_2/playlist.m3u8"
       },
       "final": true,
+      "dv": 5
+    },
+    "760509": {
+      "venue": "Mercedes-Benz Stadium",
+      "stats": {
+        "home": {
+          "foulsCommitted": "6",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "1",
+          "wonCorners": "0",
+          "saves": "0",
+          "possessionPct": "55",
+          "totalShots": "1",
+          "shotsOnTarget": "1",
+          "shotPct": "1.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "1",
+          "accuratePasses": "122",
+          "totalPasses": "137",
+          "passPct": "0.9",
+          "accurateCrosses": "0",
+          "totalCrosses": "0",
+          "crossPct": "0.0",
+          "totalLongBalls": "9",
+          "accurateLongBalls": "6",
+          "longballPct": "0.7",
+          "blockedShots": "0",
+          "effectiveTackles": "4",
+          "totalTackles": "6",
+          "tacklePct": "0.7",
+          "interceptions": "1",
+          "effectiveClearance": "5",
+          "totalClearance": "5"
+        },
+        "away": {
+          "foulsCommitted": "2",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "1",
+          "saves": "1",
+          "possessionPct": "45",
+          "totalShots": "1",
+          "shotsOnTarget": "1",
+          "shotPct": "1.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "101",
+          "totalPasses": "109",
+          "passPct": "0.9",
+          "accurateCrosses": "1",
+          "totalCrosses": "3",
+          "crossPct": "0.3",
+          "totalLongBalls": "4",
+          "accurateLongBalls": "1",
+          "longballPct": "0.3",
+          "blockedShots": "0",
+          "effectiveTackles": "2",
+          "totalTackles": "3",
+          "tacklePct": "0.7",
+          "interceptions": "2",
+          "effectiveClearance": "4",
+          "totalClearance": "4"
+        }
+      },
+      "events": [
+        {
+          "kind": "Goal - Header",
+          "min": "15'",
+          "side": "away",
+          "player": "Goal! Argentina 0, Egypt 1. Yasser Ibrahim"
+        },
+        {
+          "kind": "Penalty - Saved",
+          "min": "21'",
+          "side": "home",
+          "player": "Penalty saved. Lionel Messi"
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Emiliano Martínez",
+            "short": "E. Martínez",
+            "num": "23",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Lisandro Martínez",
+            "short": "L. Martínez",
+            "num": "6",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Cristian Romero",
+            "short": "C. Romero",
+            "num": "13",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Leandro Paredes",
+            "short": "L. Paredes",
+            "num": "5",
+            "pos": "SW",
+            "place": "4"
+          },
+          {
+            "name": "Nicolás Tagliafico",
+            "short": "N. Tagliafico",
+            "num": "3",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Nahuel Molina",
+            "short": "N. Molina",
+            "num": "26",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Alexis Mac Allister",
+            "short": "A. Mac Allister",
+            "num": "20",
+            "pos": "CM",
+            "place": "8"
+          },
+          {
+            "name": "Enzo Fernández",
+            "short": "E. Fernández",
+            "num": "24",
+            "pos": "LM",
+            "place": "11"
+          },
+          {
+            "name": "Rodrigo De Paul",
+            "short": "R. De Paul",
+            "num": "7",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Julián Álvarez",
+            "short": "J. Álvarez",
+            "num": "9",
+            "pos": "CF-L",
+            "place": "10"
+          },
+          {
+            "name": "Lionel Messi",
+            "short": "L. Messi",
+            "num": "10",
+            "pos": "CF-R",
+            "place": "9"
+          }
+        ],
+        "away": [
+          {
+            "name": "Mostafa Shoubir",
+            "short": "M. Shoubir",
+            "num": "23",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Ramy Rabia",
+            "short": "R. Rabia",
+            "num": "5",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Yasser Ibrahim",
+            "short": "Y. Ibrahim",
+            "num": "2",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Karim Hafez",
+            "short": "K. Hafez",
+            "num": "15",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Mohamed Hany",
+            "short": "M. Hany",
+            "num": "3",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Marawan Attia",
+            "short": "M. Attia",
+            "num": "19",
+            "pos": "CM-L",
+            "place": "8"
+          },
+          {
+            "name": "Mohanad Lashin",
+            "short": "M. Lashin",
+            "num": "17",
+            "pos": "CM-R",
+            "place": "4"
+          },
+          {
+            "name": "Emam Ashour",
+            "short": "E. Ashour",
+            "num": "8",
+            "pos": "LM",
+            "place": "11"
+          },
+          {
+            "name": "Haissem Hassan",
+            "short": "H. Hassan",
+            "num": "12",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Mostafa Zico",
+            "short": "M. Zico",
+            "num": "11",
+            "pos": "CF-L",
+            "place": "9"
+          },
+          {
+            "name": "Mohamed Salah",
+            "short": "M. Salah",
+            "num": "10",
+            "pos": "CF-R",
+            "place": "10"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Gerónimo Rulli",
+            "short": "G. Rulli",
+            "num": "12",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Giuliano Simeone",
+            "short": "G. Simeone",
+            "num": "17",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Giovani Lo Celso",
+            "short": "G. Lo Celso",
+            "num": "11",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Thiago Almada",
+            "short": "T. Almada",
+            "num": "16",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Exequiel Palacios",
+            "short": "E. Palacios",
+            "num": "14",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Juan Musso",
+            "short": "J. Musso",
+            "num": "1",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Valentín Barco",
+            "short": "V. Barco",
+            "num": "8",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "José Manuel López",
+            "short": "J. López",
+            "num": "21",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Lautaro Martínez",
+            "short": "L. Martínez",
+            "num": "22",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Nico Paz",
+            "short": "N. Paz",
+            "num": "18",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Facundo Medina",
+            "short": "F. Medina",
+            "num": "25",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Gonzalo Montiel",
+            "short": "G. Montiel",
+            "num": "4",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Marcos Senesi",
+            "short": "M. Senesi",
+            "num": "2",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Nicolás Otamendi",
+            "short": "N. Otamendi",
+            "num": "19",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Nico González",
+            "short": "N. González",
+            "num": "15",
+            "pos": "",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Trézéguet",
+            "short": "Trézéguet",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mohamed Alaa",
+            "short": "M. Alaa",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Zizo",
+            "short": "Zizo",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Hossam Abdelmaguid",
+            "short": "H. Abdelmaguid",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Hamza Abdelkarim",
+            "short": "H. Abdelkarim",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Hamdy Fathy",
+            "short": "H. Fathy",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mohamed El Shenawy",
+            "short": "M. El Shenawy",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mahmoud Saber",
+            "short": "M. Saber",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Omar Marmoush",
+            "short": "O. Marmoush",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ibrahim Adel",
+            "short": "I. Adel",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mahdy Soliman",
+            "short": "M. Soliman",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nabil Donga",
+            "short": "N. Donga",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Tarek Alaa",
+            "short": "T. Alaa",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-1-3-2",
+        "away": "4-4-2"
+      },
+      "commentary": [
+        {
+          "min": "23'",
+          "text": "Foul by Lisandro Martínez (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "23'",
+          "text": "Mohamed Salah (Egypt) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "21'",
+          "text": "Foul by Cristian Romero (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "21'",
+          "text": "Emam Ashour (Egypt) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "21'",
+          "text": "Penalty saved. Lionel Messi (Argentina) left footed shot saved in the bottom right corner by Mostafa Shobeir (Egypt).",
+          "goal": false
+        },
+        {
+          "min": "19'",
+          "text": "Penalty Argentina. Nicolás Tagliafico draws a foul in the penalty area.",
+          "goal": false
+        },
+        {
+          "min": "19'",
+          "text": "Penalty conceded by Haissem Hassan (Egypt) after a foul in the penalty area.",
+          "goal": false
+        },
+        {
+          "min": "18'",
+          "text": "Julián Alvarez (Argentina) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "18'",
+          "text": "Foul by Yasser Ibrahim (Egypt).",
+          "goal": false
+        },
+        {
+          "min": "15'",
+          "text": "Goal! Argentina 0, Egypt 1. Yasser Ibrahim (Egypt) header from the centre of the box to the bottom right corner. Assisted by Marwan Attia with a cross following a corner.",
+          "goal": true
+        },
+        {
+          "min": "14'",
+          "text": "Corner, Egypt. Conceded by Lisandro Martínez.",
+          "goal": false
+        },
+        {
+          "min": "13'",
+          "text": "Foul by Rodrigo De Paul (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "13'",
+          "text": "Emam Ashour (Egypt) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "11'",
+          "text": "Foul by Enzo Fernández (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "11'",
+          "text": "Karim Hafez (Egypt) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "9'",
+          "text": "Offside, Argentina. Rodrigo De Paul is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "7'",
+          "text": "Haissem Hassan (Egypt) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "7'",
+          "text": "Foul by Nicolás Tagliafico (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "5'",
+          "text": "Foul by Enzo Fernández (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "5'",
+          "text": "Mohamed Salah (Egypt) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "First Half begins.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "Lineups are announced and players are warming up.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "L. Messi",
+            "num": "10",
+            "pos": "F",
+            "value": "1"
+          },
+          "away": {
+            "name": "Y. Ibrahim",
+            "num": "2",
+            "pos": "D",
+            "value": "1"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "C. Romero",
+            "num": "13",
+            "pos": "D",
+            "value": "23"
+          },
+          "away": {
+            "name": "M. Attia",
+            "num": "19",
+            "pos": "M",
+            "value": "17"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "L. Martínez",
+            "num": "6",
+            "pos": "D",
+            "value": "3"
+          },
+          "away": {
+            "name": "M. Zico",
+            "num": "11",
+            "pos": "M",
+            "value": "3"
+          }
+        },
+        {
+          "label": "Saves",
+          "away": {
+            "name": "M. Shoubir",
+            "num": "23",
+            "pos": "G",
+            "value": "1"
+          }
+        }
+      ],
+      "highlight": null,
+      "final": false,
       "dv": 5
     }
   }

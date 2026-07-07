@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-07T01:24:36.004Z",
+  "lastUpdated": "2026-07-07T05:35:41.322Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -1309,24 +1309,14 @@
       "home": "United States",
       "away": "Belgium",
       "homeScore": 1,
-      "awayScore": 3,
+      "awayScore": 4,
       "homeWinner": false,
-      "awayWinner": false,
-      "odds": {
-        "home": 155,
-        "away": 185,
-        "draw": 225,
-        "total": 2.5,
-        "book": "DraftKings"
-      },
-      "status": "live",
+      "awayWinner": true,
+      "odds": null,
+      "status": "finished",
       "id": "760507",
       "date": "2026-07-07T00:00Z",
-      "venue": "Lumen Field",
-      "clock": 3600,
-      "displayClock": "60'",
-      "detail": "60'",
-      "period": 2
+      "venue": "Lumen Field"
     },
     {
       "stage": "r16",
@@ -1337,9 +1327,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -270,
-        "away": 850,
-        "draw": 370,
+        "home": -295,
+        "away": 900,
+        "draw": 390,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -1357,8 +1347,8 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 240,
-        "away": 130,
+        "home": 245,
+        "away": 125,
         "draw": 210,
         "total": 2.5,
         "book": "DraftKings"
@@ -1391,12 +1381,18 @@
     {
       "stage": "qf",
       "home": "Spain",
-      "away": "Round of 16 6 Winner",
+      "away": "Belgium",
       "homeScore": 0,
       "awayScore": 0,
       "homeWinner": false,
       "awayWinner": false,
-      "odds": null,
+      "odds": {
+        "home": -160,
+        "away": 450,
+        "draw": 290,
+        "total": 2.5,
+        "book": "DraftKings"
+      },
       "status": "scheduled",
       "id": "760511",
       "date": "2026-07-10T19:00Z",

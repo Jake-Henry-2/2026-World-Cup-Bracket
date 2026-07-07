@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-07T21:56:15.587Z",
+  "lastUpdated": "2026-07-07T23:05:11.891Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -1338,23 +1338,13 @@
       "away": "Colombia",
       "homeScore": 0,
       "awayScore": 0,
-      "homeWinner": false,
+      "homeWinner": true,
       "awayWinner": false,
-      "odds": {
-        "home": 250,
-        "away": 140,
-        "draw": 185,
-        "total": 2.5,
-        "book": "DraftKings"
-      },
-      "status": "live",
+      "odds": null,
+      "status": "finished",
       "id": "760508",
       "date": "2026-07-07T20:00Z",
-      "venue": "BC Place",
-      "clock": 5400,
-      "displayClock": "90'+5'",
-      "detail": "ET",
-      "period": 2
+      "venue": "BC Place"
     },
     {
       "stage": "qf",
@@ -1419,7 +1409,7 @@
     {
       "stage": "qf",
       "home": "Argentina",
-      "away": "Round of 16 8 Winner",
+      "away": "Switzerland",
       "homeScore": 0,
       "awayScore": 0,
       "homeWinner": false,

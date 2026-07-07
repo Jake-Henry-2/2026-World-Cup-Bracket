@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-07T21:56:15.666Z",
+  "lastUpdated": "2026-07-07T23:05:12.035Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -84944,64 +84944,64 @@
       "venue": "BC Place",
       "stats": {
         "home": {
-          "foulsCommitted": "13",
-          "yellowCards": "2",
+          "foulsCommitted": "22",
+          "yellowCards": "3",
           "redCards": "0",
-          "offsides": "4",
+          "offsides": "5",
           "wonCorners": "3",
-          "saves": "2",
-          "possessionPct": "52.4",
-          "totalShots": "6",
-          "shotsOnTarget": "2",
-          "shotPct": "0.3",
-          "penaltyKickGoals": "0",
-          "penaltyKickShots": "0",
-          "accuratePasses": "428",
-          "totalPasses": "491",
-          "passPct": "0.9",
-          "accurateCrosses": "1",
-          "totalCrosses": "13",
-          "crossPct": "0.1",
-          "totalLongBalls": "40",
-          "accurateLongBalls": "18",
-          "longballPct": "0.5",
-          "blockedShots": "1",
-          "effectiveTackles": "4",
-          "totalTackles": "8",
-          "tacklePct": "0.5",
-          "interceptions": "11",
-          "effectiveClearance": "26",
-          "totalClearance": "26"
-        },
-        "away": {
-          "foulsCommitted": "15",
-          "yellowCards": "1",
-          "redCards": "0",
-          "offsides": "4",
-          "wonCorners": "4",
-          "saves": "2",
-          "possessionPct": "47.6",
+          "saves": "3",
+          "possessionPct": "53.2",
           "totalShots": "7",
           "shotsOnTarget": "2",
           "shotPct": "0.3",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "370",
-          "totalPasses": "447",
-          "passPct": "0.8",
+          "accuratePasses": "546",
+          "totalPasses": "626",
+          "passPct": "0.9",
           "accurateCrosses": "1",
-          "totalCrosses": "13",
+          "totalCrosses": "15",
           "crossPct": "0.1",
-          "totalLongBalls": "57",
-          "accurateLongBalls": "20",
-          "longballPct": "0.4",
-          "blockedShots": "3",
+          "totalLongBalls": "62",
+          "accurateLongBalls": "31",
+          "longballPct": "0.5",
+          "blockedShots": "1",
           "effectiveTackles": "7",
-          "totalTackles": "15",
+          "totalTackles": "13",
           "tacklePct": "0.5",
-          "interceptions": "10",
-          "effectiveClearance": "18",
-          "totalClearance": "18"
+          "interceptions": "13",
+          "effectiveClearance": "37",
+          "totalClearance": "37"
+        },
+        "away": {
+          "foulsCommitted": "21",
+          "yellowCards": "2",
+          "redCards": "0",
+          "offsides": "4",
+          "wonCorners": "7",
+          "saves": "2",
+          "possessionPct": "46.8",
+          "totalShots": "15",
+          "shotsOnTarget": "3",
+          "shotPct": "0.2",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "454",
+          "totalPasses": "548",
+          "passPct": "0.8",
+          "accurateCrosses": "4",
+          "totalCrosses": "18",
+          "crossPct": "0.2",
+          "totalLongBalls": "78",
+          "accurateLongBalls": "33",
+          "longballPct": "0.4",
+          "blockedShots": "4",
+          "effectiveTackles": "7",
+          "totalTackles": "16",
+          "tacklePct": "0.4",
+          "interceptions": "12",
+          "effectiveClearance": "21",
+          "totalClearance": "21"
         }
       },
       "events": [
@@ -85076,6 +85076,30 @@
           "min": "90'+2'",
           "side": "home",
           "player": "Substitution, Switzerland. Rubén Vargas replaces Dan Ndoye."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "95'",
+          "side": "away",
+          "player": "Davinson Sánchez"
+        },
+        {
+          "kind": "Substitution",
+          "min": "103'",
+          "side": "home",
+          "player": "Substitution, Switzerland. Zeki Amdouni replaces Fabian Rieder."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "105'",
+          "side": "home",
+          "player": "Miro Muheim"
+        },
+        {
+          "kind": "Substitution",
+          "min": "119'",
+          "side": "away",
+          "player": "Substitution, Colombia. Yerry Mina replaces Jhon Lucumí because of an injury."
         }
       ],
       "lineups": {
@@ -85439,303 +85463,303 @@
       },
       "commentary": [
         {
-          "min": "90'+6'",
-          "text": "Second Half ends, Switzerland 0, Colombia 0.",
+          "min": "",
+          "text": "Match ends, Switzerland 0(4), Colombia 0(3).",
           "goal": false
         },
         {
-          "min": "90'+5'",
-          "text": "Foul by Rubén Vargas (Switzerland).",
+          "min": "120'",
+          "text": "Penalty Shootout ends, Switzerland 0(4), Colombia 0(3).",
           "goal": false
         },
         {
-          "min": "90'+5'",
-          "text": "Richard Ríos (Colombia) wins a free kick in the defensive half.",
+          "min": "120'",
+          "text": "Goal! Switzerland 0(4), Colombia 0(3). Rubén Vargas (Switzerland) converts the penalty with a right footed shot to the bottom left corner.",
           "goal": false
         },
         {
-          "min": "90'+3'",
-          "text": "Corner, Switzerland. Conceded by Johan Mojica.",
+          "min": "120'",
+          "text": "Goal! Switzerland 0(3), Colombia 0(3). Luis Díaz (Colombia) converts the penalty with a right footed shot to the bottom left corner.",
           "goal": false
         },
         {
-          "min": "90'+2'",
-          "text": "Substitution, Switzerland. Rubén Vargas replaces Dan Ndoye.",
+          "min": "120'",
+          "text": "Goal! Switzerland 0(3), Colombia 0(2). Cedric Itten (Switzerland) converts the penalty with a right footed shot to the high centre of the goal.",
           "goal": false
         },
         {
-          "min": "90'+1'",
-          "text": "Attempt missed. Dan Ndoye (Switzerland) right footed shot from the right side of the box misses to the left. Assisted by Djibril Sow.",
+          "min": "120'",
+          "text": "Penalty saved. Cucho Hernández (Colombia) right footed shot saved in the bottom left corner by Gregor Kobel (Switzerland).",
           "goal": false
         },
         {
-          "min": "90'",
-          "text": "Fourth official has announced 5 minutes of added time.",
+          "min": "120'",
+          "text": "Penalty missed. Manuel Akanji (Switzerland) right footed shot is too high.",
           "goal": false
         },
         {
-          "min": "89'",
-          "text": "Dan Ndoye (Switzerland) wins a free kick on the left wing.",
+          "min": "120'",
+          "text": "Goal! Switzerland 0(2), Colombia 0(2). Jaminton Campaz (Colombia) converts the penalty with a left footed shot to the bottom right corner.",
           "goal": false
         },
         {
-          "min": "89'",
-          "text": "Foul by Richard Ríos (Colombia).",
+          "min": "120'",
+          "text": "Goal! Switzerland 0(2), Colombia 0(1). Zeki Amdouni (Switzerland) converts the penalty with a right footed shot to the bottom right corner.",
           "goal": false
         },
         {
-          "min": "88'",
-          "text": "Handball by Dan Ndoye (Switzerland).",
+          "min": "120'",
+          "text": "Penalty missed! Still Switzerland 0(1), Colombia 0(1). Davinson Sánchez (Colombia) hits the bar with a right footed shot.",
           "goal": false
         },
         {
-          "min": "87'",
-          "text": "Foul by Manuel Akanji (Switzerland).",
+          "min": "120'",
+          "text": "Goal! Switzerland 0(1), Colombia 0(1). Granit Xhaka (Switzerland) converts the penalty with a left footed shot to the top left corner.",
           "goal": false
         },
         {
-          "min": "87'",
-          "text": "Cucho Hernández (Colombia) wins a free kick on the right wing.",
+          "min": "120'",
+          "text": "Goal! Switzerland 0, Colombia 0(1). Juan Fernando Quintero (Colombia) converts the penalty with a left footed shot to the centre of the goal.",
           "goal": false
         },
         {
-          "min": "87'",
-          "text": "Substitution, Switzerland. Cedric Itten replaces Breel Embolo.",
+          "min": "120'",
+          "text": "Penalty Shootout begins Switzerland 0, Colombia 0.",
           "goal": false
         },
         {
-          "min": "87'",
-          "text": "Substitution, Switzerland. Silvan Widmer replaces Denis Zakaria.",
+          "min": "120'+2'",
+          "text": "Second Half Extra Time ends, Switzerland 0, Colombia 0.",
           "goal": false
         },
         {
-          "min": "84'",
-          "text": "Offside, Colombia. Jaminton Campaz is caught offside.",
+          "min": "120'+1'",
+          "text": "Fourth official has announced 1 minutes of added time.",
           "goal": false
         },
         {
-          "min": "83'",
-          "text": "Corner, Switzerland. Conceded by Daniel Muñoz.",
+          "min": "120'",
+          "text": "Foul by Cedric Itten (Switzerland).",
           "goal": false
         },
         {
-          "min": "82'",
-          "text": "Substitution, Colombia. Cucho Hernández replaces Luis Suárez.",
+          "min": "120'",
+          "text": "Yerry Mina (Colombia) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "82'",
-          "text": "Substitution, Colombia. Richard Ríos replaces Jefferson Lerma.",
+          "min": "119'",
+          "text": "Substitution, Colombia. Yerry Mina replaces Jhon Lucumí because of an injury.",
           "goal": false
         },
         {
-          "min": "80'",
-          "text": "Dan Ndoye (Switzerland) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "80'",
-          "text": "Foul by Daniel Muñoz (Colombia).",
-          "goal": false
-        },
-        {
-          "min": "79'",
-          "text": "Foul by Breel Embolo (Switzerland).",
-          "goal": false
-        },
-        {
-          "min": "79'",
-          "text": "Davinson Sánchez (Colombia) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "77'",
+          "min": "119'",
           "text": "Delay over. They are ready to continue.",
           "goal": false
         },
         {
-          "min": "77'",
-          "text": "Delay in match because of an injury Manuel Akanji (Switzerland).",
+          "min": "117'",
+          "text": "Delay in match because of an injury Jhon Lucumí (Colombia).",
           "goal": false
         },
         {
-          "min": "76'",
-          "text": "Manuel Akanji (Switzerland) wins a free kick in the defensive half.",
+          "min": "117'",
+          "text": "Attempt missed. Cucho Hernández (Colombia) header from the centre of the box misses to the right. Assisted by Juan Fernando Quintero with a cross following a set piece situation.",
           "goal": false
         },
         {
-          "min": "76'",
-          "text": "Foul by Jaminton Campaz (Colombia).",
+          "min": "116'",
+          "text": "Foul by Nico Elvedi (Switzerland).",
           "goal": false
         },
         {
-          "min": "75'",
-          "text": "Fabian Rieder (Switzerland) wins a free kick on the left wing.",
+          "min": "116'",
+          "text": "Luis Díaz (Colombia) wins a free kick on the left wing.",
           "goal": false
         },
         {
-          "min": "75'",
-          "text": "Foul by Jefferson Lerma (Colombia).",
+          "min": "115'",
+          "text": "Attempt missed. Jaminton Campaz (Colombia) left footed shot from the right side of the box is too high. Assisted by Daniel Muñoz.",
           "goal": false
         },
         {
-          "min": "75'",
-          "text": "Offside, Colombia. Jaminton Campaz is caught offside.",
+          "min": "115'",
+          "text": "Handball by Zeki Amdouni (Switzerland).",
           "goal": false
         },
         {
-          "min": "74'",
-          "text": "Delay over. They are ready to continue.",
+          "min": "114'",
+          "text": "Attempt missed. Granit Xhaka (Switzerland) left footed shot from outside the box is too high. Assisted by Rubén Vargas.",
           "goal": false
         },
         {
-          "min": "73'",
-          "text": "Delay in match because of an injury Breel Embolo (Switzerland).",
+          "min": "112'",
+          "text": "Attempt missed. Juan Fernando Quintero (Colombia) left footed shot from outside the box is high and wide to the left. Assisted by Luis Díaz.",
           "goal": false
         },
         {
-          "min": "73'",
-          "text": "Delay in match because of an injury Camilo Vargas (Colombia).",
+          "min": "112'",
+          "text": "Foul by Zeki Amdouni (Switzerland).",
           "goal": false
         },
         {
-          "min": "72'",
-          "text": "Offside, Switzerland. Breel Embolo is caught offside.",
+          "min": "112'",
+          "text": "Juan Fernando Quintero (Colombia) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "72'",
-          "text": "Dan Ndoye (Switzerland) wins a free kick on the left wing.",
+          "min": "109'",
+          "text": "Foul by Zeki Amdouni (Switzerland).",
           "goal": false
         },
         {
-          "min": "72'",
-          "text": "Foul by Daniel Muñoz (Colombia).",
+          "min": "109'",
+          "text": "Jaminton Campaz (Colombia) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "71'",
-          "text": "Substitution, Switzerland. Miro Muheim replaces Ricardo Rodríguez.",
-          "goal": false
-        },
-        {
-          "min": "70'",
-          "text": "Delay over. They are ready to continue.",
-          "goal": false
-        },
-        {
-          "min": "68'",
-          "text": "Delay in match for a drinks break.",
-          "goal": false
-        },
-        {
-          "min": "66'",
-          "text": "Djibril Sow (Switzerland) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "66'",
-          "text": "Foul by Jefferson Lerma (Colombia).",
-          "goal": false
-        },
-        {
-          "min": "66'",
-          "text": "Substitution, Colombia. Jaminton Campaz replaces Jhon Arias.",
-          "goal": false
-        },
-        {
-          "min": "66'",
-          "text": "Substitution, Colombia. Juan Fernando Quintero replaces James Rodríguez.",
-          "goal": false
-        },
-        {
-          "min": "65'",
+          "min": "107'",
           "text": "Nico Elvedi (Switzerland) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "65'",
+          "min": "107'",
           "text": "Foul by Luis Díaz (Colombia).",
           "goal": false
         },
         {
-          "min": "63'",
-          "text": "Attempt missed. Luis Suárez (Colombia) right footed shot from outside the box is high and wide to the right. Assisted by Jefferson Lerma.",
+          "min": "106'",
+          "text": "Foul by Cedric Itten (Switzerland).",
           "goal": false
         },
         {
-          "min": "62'",
-          "text": "Foul by Granit Xhaka (Switzerland).",
+          "min": "106'",
+          "text": "Davinson Sánchez (Colombia) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "62'",
-          "text": "Gustavo Puerta (Colombia) wins a free kick on the right wing.",
+          "min": "105'",
+          "text": "Second Half Extra Time begins Switzerland 0, Colombia 0.",
           "goal": false
         },
         {
-          "min": "62'",
-          "text": "Offside, Colombia. Johan Mojica is caught offside.",
+          "min": "105'+2'",
+          "text": "First Half Extra Time ends, Switzerland 0, Colombia 0.",
           "goal": false
         },
         {
-          "min": "61'",
-          "text": "Foul by Manuel Akanji (Switzerland).",
+          "min": "105'+1'",
+          "text": "Fourth official has announced 1 minutes of added time.",
           "goal": false
         },
         {
-          "min": "61'",
-          "text": "Luis Suárez (Colombia) wins a free kick in the attacking half.",
+          "min": "105'+1'",
+          "text": "Corner, Colombia. Conceded by Silvan Widmer.",
           "goal": false
         },
         {
-          "min": "61'",
-          "text": "Attempt blocked. Fabian Rieder (Switzerland) left footed shot from outside the box is blocked.",
+          "min": "105'+1'",
+          "text": "Attempt blocked. Luis Díaz (Colombia) right footed shot from the centre of the box is blocked. Assisted by Richard Ríos.",
           "goal": false
         },
         {
-          "min": "60'",
-          "text": "Luis Suárez (Colombia) is shown the yellow card for a bad foul.",
+          "min": "105'",
+          "text": "Miro Muheim (Switzerland) is shown the yellow card for a bad foul.",
           "goal": false
         },
         {
-          "min": "60'",
+          "min": "105'",
+          "text": "Foul by Miro Muheim (Switzerland).",
+          "goal": false
+        },
+        {
+          "min": "105'",
+          "text": "Jaminton Campaz (Colombia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "104'",
+          "text": "Offside, Switzerland. Rubén Vargas is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "103'",
+          "text": "Substitution, Switzerland. Zeki Amdouni replaces Fabian Rieder.",
+          "goal": false
+        },
+        {
+          "min": "103'",
+          "text": "Rubén Vargas (Switzerland) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "103'",
+          "text": "Foul by Richard Ríos (Colombia).",
+          "goal": false
+        },
+        {
+          "min": "102'",
           "text": "Gregor Kobel (Switzerland) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "60'",
-          "text": "Foul by Luis Suárez (Colombia).",
+          "min": "102'",
+          "text": "Foul by Jhon Lucumí (Colombia).",
           "goal": false
         },
         {
-          "min": "60'",
-          "text": "Attempt saved. Luis Díaz (Colombia) left footed shot from the centre of the box is saved in the centre of the goal by Gregor Kobel (Switzerland).",
+          "min": "101'",
+          "text": "Corner, Colombia. Conceded by Gregor Kobel.",
           "goal": false
         },
         {
-          "min": "59'",
-          "text": "Denis Zakaria (Switzerland) is shown the yellow card for a bad foul.",
+          "min": "101'",
+          "text": "Attempt saved. Jaminton Campaz (Colombia) left footed shot from outside the box is saved in the top right corner by Gregor Kobel (Switzerland). Assisted by Cucho Hernández.",
           "goal": false
         },
         {
-          "min": "59'",
-          "text": "Foul by Denis Zakaria (Switzerland).",
+          "min": "100'",
+          "text": "Foul by Cedric Itten (Switzerland).",
           "goal": false
         },
         {
-          "min": "59'",
-          "text": "Luis Díaz (Colombia) wins a free kick in the defensive half.",
+          "min": "100'",
+          "text": "Johan Mojica (Colombia) wins a free kick on the left wing.",
           "goal": false
         },
         {
-          "min": "53'",
-          "text": "Attempt missed. Fabian Rieder (Switzerland) left footed shot from outside the box is close, but misses to the left from a direct free kick.",
+          "min": "100'",
+          "text": "Attempt missed. Richard Ríos (Colombia) right footed shot from outside the box misses to the right. Assisted by Luis Díaz.",
           "goal": false
         },
         {
-          "min": "52'",
-          "text": "Fabian Rieder (Switzerland) wins a free kick in the attacking half.",
+          "min": "99'",
+          "text": "Jhon Lucumí (Colombia) hits the bar with a header from the centre of the box. Assisted by Juan Fernando Quintero with a cross following a corner.",
+          "goal": false
+        },
+        {
+          "min": "98'",
+          "text": "Corner, Colombia. Conceded by Silvan Widmer.",
+          "goal": false
+        },
+        {
+          "min": "97'",
+          "text": "Rubén Vargas (Switzerland) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "97'",
+          "text": "Foul by Daniel Muñoz (Colombia).",
+          "goal": false
+        },
+        {
+          "min": "95'",
+          "text": "Davinson Sánchez (Colombia) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "95'",
+          "text": "Cedric Itten (Switzerland) wins a free kick on the right wing.",
           "goal": false
         }
       ],
@@ -85749,10 +85773,10 @@
             "value": "3"
           },
           "away": {
-            "name": "G. Puerta",
-            "num": "14",
-            "pos": "M",
-            "value": "2"
+            "name": "L. Díaz",
+            "num": "7",
+            "pos": "F",
+            "value": "3"
           }
         },
         {
@@ -85761,13 +85785,13 @@
             "name": "M. Akanji",
             "num": "5",
             "pos": "D",
-            "value": "82"
+            "value": "106"
           },
           "away": {
-            "name": "J. Lerma",
-            "num": "16",
-            "pos": "M",
-            "value": "54"
+            "name": "D. Sánchez",
+            "num": "23",
+            "pos": "D",
+            "value": "68"
           }
         },
         {
@@ -85776,13 +85800,13 @@
             "name": "N. Elvedi",
             "num": "4",
             "pos": "D",
-            "value": "16"
+            "value": "17"
           },
           "away": {
             "name": "D. Sánchez",
             "num": "23",
             "pos": "D",
-            "value": "10"
+            "value": "13"
           }
         },
         {
@@ -85791,7 +85815,7 @@
             "name": "G. Kobel",
             "num": "1",
             "pos": "G",
-            "value": "2"
+            "value": "3"
           },
           "away": {
             "name": "C. Vargas",
@@ -85802,7 +85826,7 @@
         }
       ],
       "highlight": null,
-      "final": false,
+      "final": true,
       "dv": 5
     },
     "760509": {

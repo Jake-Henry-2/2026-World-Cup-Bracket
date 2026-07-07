@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-07T16:28:23.180Z",
+  "lastUpdated": "2026-07-07T18:32:14.431Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -84944,64 +84944,64 @@
       "venue": "Mercedes-Benz Stadium",
       "stats": {
         "home": {
-          "foulsCommitted": "6",
+          "foulsCommitted": "13",
           "yellowCards": "0",
           "redCards": "0",
-          "offsides": "1",
-          "wonCorners": "0",
+          "offsides": "3",
+          "wonCorners": "6",
           "saves": "0",
-          "possessionPct": "55",
-          "totalShots": "1",
-          "shotsOnTarget": "1",
-          "shotPct": "1.0",
+          "possessionPct": "63.6",
+          "totalShots": "19",
+          "shotsOnTarget": "7",
+          "shotPct": "0.4",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "1",
-          "accuratePasses": "122",
-          "totalPasses": "137",
+          "accuratePasses": "541",
+          "totalPasses": "602",
           "passPct": "0.9",
-          "accurateCrosses": "0",
-          "totalCrosses": "0",
-          "crossPct": "0.0",
-          "totalLongBalls": "9",
-          "accurateLongBalls": "6",
-          "longballPct": "0.7",
-          "blockedShots": "0",
-          "effectiveTackles": "4",
-          "totalTackles": "6",
-          "tacklePct": "0.7",
-          "interceptions": "1",
-          "effectiveClearance": "5",
-          "totalClearance": "5"
+          "accurateCrosses": "8",
+          "totalCrosses": "26",
+          "crossPct": "0.3",
+          "totalLongBalls": "31",
+          "accurateLongBalls": "19",
+          "longballPct": "0.6",
+          "blockedShots": "4",
+          "effectiveTackles": "15",
+          "totalTackles": "20",
+          "tacklePct": "0.8",
+          "interceptions": "7",
+          "effectiveClearance": "14",
+          "totalClearance": "14"
         },
         "away": {
-          "foulsCommitted": "2",
-          "yellowCards": "0",
+          "foulsCommitted": "11",
+          "yellowCards": "4",
           "redCards": "0",
           "offsides": "0",
           "wonCorners": "1",
-          "saves": "1",
-          "possessionPct": "45",
-          "totalShots": "1",
-          "shotsOnTarget": "1",
-          "shotPct": "1.0",
+          "saves": "4",
+          "possessionPct": "36.4",
+          "totalShots": "5",
+          "shotsOnTarget": "2",
+          "shotPct": "0.4",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "101",
-          "totalPasses": "109",
-          "passPct": "0.9",
-          "accurateCrosses": "1",
-          "totalCrosses": "3",
+          "accuratePasses": "289",
+          "totalPasses": "349",
+          "passPct": "0.8",
+          "accurateCrosses": "2",
+          "totalCrosses": "8",
           "crossPct": "0.3",
-          "totalLongBalls": "4",
-          "accurateLongBalls": "1",
-          "longballPct": "0.3",
-          "blockedShots": "0",
-          "effectiveTackles": "2",
-          "totalTackles": "3",
-          "tacklePct": "0.7",
-          "interceptions": "2",
-          "effectiveClearance": "4",
-          "totalClearance": "4"
+          "totalLongBalls": "36",
+          "accurateLongBalls": "13",
+          "longballPct": "0.4",
+          "blockedShots": "1",
+          "effectiveTackles": "8",
+          "totalTackles": "15",
+          "tacklePct": "0.5",
+          "interceptions": "10",
+          "effectiveClearance": "43",
+          "totalClearance": "43"
         }
       },
       "events": [
@@ -85016,6 +85016,108 @@
           "min": "21'",
           "side": "home",
           "player": "Penalty saved. Lionel Messi"
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "away",
+          "player": "Substitution, Egypt. Hamdi Fathy replaces Emam Ashour because of an injury."
+        },
+        {
+          "kind": "Substitution",
+          "min": "66'",
+          "side": "home",
+          "player": "Substitution, Argentina. Nico González replaces Nicolás Tagliafico."
+        },
+        {
+          "kind": "Substitution",
+          "min": "66'",
+          "side": "home",
+          "player": "Substitution, Argentina. Lautaro Martínez replaces Rodrigo De Paul."
+        },
+        {
+          "kind": "Goal",
+          "min": "67'",
+          "side": "away",
+          "player": "Goal! Argentina 0, Egypt 2. Mostafa Zico"
+        },
+        {
+          "kind": "Substitution",
+          "min": "73'",
+          "side": "home",
+          "player": "Substitution, Argentina. Gonzalo Montiel replaces Nahuel Molina."
+        },
+        {
+          "kind": "Substitution",
+          "min": "73'",
+          "side": "away",
+          "player": "Substitution, Egypt. Trezeguet replaces Haissem Hassan because of an injury."
+        },
+        {
+          "kind": "Goal - Header",
+          "min": "79'",
+          "side": "home",
+          "player": "Goal! Argentina 1, Egypt 2. Cristian Romero"
+        },
+        {
+          "kind": "Substitution",
+          "min": "80'",
+          "side": "away",
+          "player": "Substitution, Egypt. Omar Marmoush replaces Mostafa Zico."
+        },
+        {
+          "kind": "Goal",
+          "min": "83'",
+          "side": "home",
+          "player": "Goal! Argentina 2, Egypt 2. Lionel Messi"
+        },
+        {
+          "kind": "Goal - Header",
+          "min": "90'+2'",
+          "side": "home",
+          "player": "Goal! Argentina 3, Egypt 2. Enzo Fernández"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "90'+3'",
+          "side": "away",
+          "player": "Mostafa Shobeir"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "90'+4'",
+          "side": "away",
+          "player": "Hamdi Fathy"
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'+5'",
+          "side": "home",
+          "player": "Substitution, Argentina. Facundo Medina replaces Julián Alvarez."
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'+5'",
+          "side": "home",
+          "player": "Substitution, Argentina. Nicolás Otamendi replaces Cristian Romero."
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'+6'",
+          "side": "away",
+          "player": "Substitution, Egypt. Zizo replaces Mohanad Lasheen."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "90'+8'",
+          "side": "away",
+          "player": "Marwan Attia"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "90'+12'",
+          "side": "away",
+          "player": "Haissem Hassan"
         }
       ],
       "lineups": {
@@ -85386,113 +85488,303 @@
       },
       "commentary": [
         {
-          "min": "23'",
-          "text": "Foul by Lisandro Martínez (Argentina).",
+          "min": "",
+          "text": "Match ends, Argentina 3, Egypt 2.",
           "goal": false
         },
         {
-          "min": "23'",
-          "text": "Mohamed Salah (Egypt) wins a free kick in the defensive half.",
+          "min": "90'+12'",
+          "text": "Haissem Hassan (Egypt) is shown the yellow card.",
           "goal": false
         },
         {
-          "min": "21'",
-          "text": "Foul by Cristian Romero (Argentina).",
+          "min": "90'+12'",
+          "text": "Second Half ends, Argentina 3, Egypt 2.",
           "goal": false
         },
         {
-          "min": "21'",
-          "text": "Emam Ashour (Egypt) wins a free kick in the defensive half.",
+          "min": "90'+8'",
+          "text": "Marwan Attia (Egypt) is shown the yellow card for a bad foul.",
           "goal": false
         },
         {
-          "min": "21'",
-          "text": "Penalty saved. Lionel Messi (Argentina) left footed shot saved in the bottom right corner by Mostafa Shobeir (Egypt).",
+          "min": "90'+8'",
+          "text": "Lautaro Martínez (Argentina) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "19'",
-          "text": "Penalty Argentina. Nicolás Tagliafico draws a foul in the penalty area.",
+          "min": "90'+8'",
+          "text": "Foul by Marwan Attia (Egypt).",
           "goal": false
         },
         {
-          "min": "19'",
-          "text": "Penalty conceded by Haissem Hassan (Egypt) after a foul in the penalty area.",
+          "min": "90'+7'",
+          "text": "Foul by Nico González (Argentina).",
           "goal": false
         },
         {
-          "min": "18'",
-          "text": "Julián Alvarez (Argentina) wins a free kick in the defensive half.",
+          "min": "90'+7'",
+          "text": "Zizo (Egypt) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "18'",
-          "text": "Foul by Yasser Ibrahim (Egypt).",
+          "min": "90'+6'",
+          "text": "Substitution, Egypt. Zizo replaces Mohanad Lasheen.",
           "goal": false
         },
         {
-          "min": "15'",
-          "text": "Goal! Argentina 0, Egypt 1. Yasser Ibrahim (Egypt) header from the centre of the box to the bottom right corner. Assisted by Marwan Attia with a cross following a corner.",
+          "min": "90'+5'",
+          "text": "Substitution, Argentina. Nicolás Otamendi replaces Cristian Romero.",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Substitution, Argentina. Facundo Medina replaces Julián Alvarez.",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Hamdi Fathy (Egypt) is shown the yellow card.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Mostafa Shobeir (Egypt) is shown the yellow card.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Goal! Argentina 3, Egypt 2. Enzo Fernández (Argentina) header from the centre of the box to the bottom right corner. Assisted by Lautaro Martínez with a cross following a fast break.",
           "goal": true
         },
         {
-          "min": "14'",
-          "text": "Corner, Egypt. Conceded by Lisandro Martínez.",
+          "min": "90'+2'",
+          "text": "Attempt missed. Trezeguet (Egypt) header from the centre of the box misses to the right. Assisted by Mohamed Hany with a cross.",
           "goal": false
         },
         {
-          "min": "13'",
-          "text": "Foul by Rodrigo De Paul (Argentina).",
+          "min": "90'",
+          "text": "Fourth official has announced 7 minutes of added time.",
           "goal": false
         },
         {
-          "min": "13'",
-          "text": "Emam Ashour (Egypt) wins a free kick in the attacking half.",
+          "min": "89'",
+          "text": "Lautaro Martínez (Argentina) wins a free kick on the right wing.",
           "goal": false
         },
         {
-          "min": "11'",
-          "text": "Foul by Enzo Fernández (Argentina).",
+          "min": "89'",
+          "text": "Foul by Karim Hafez (Egypt).",
           "goal": false
         },
         {
-          "min": "11'",
-          "text": "Karim Hafez (Egypt) wins a free kick in the defensive half.",
+          "min": "87'",
+          "text": "Foul by Nico González (Argentina).",
           "goal": false
         },
         {
-          "min": "9'",
-          "text": "Offside, Argentina. Rodrigo De Paul is caught offside.",
+          "min": "87'",
+          "text": "Omar Marmoush (Egypt) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "7'",
-          "text": "Haissem Hassan (Egypt) wins a free kick on the right wing.",
+          "min": "83'",
+          "text": "Goal! Argentina 2, Egypt 2. Lionel Messi (Argentina) left footed shot from the centre of the box to the high centre of the goal. Assisted by Gonzalo Montiel.",
+          "goal": true
+        },
+        {
+          "min": "82'",
+          "text": "Attempt missed. Lautaro Martínez (Argentina) header from the right side of the six yard box is close, but misses to the right. Assisted by Lionel Messi.",
           "goal": false
         },
         {
-          "min": "7'",
+          "min": "82'",
+          "text": "Corner, Argentina. Conceded by Mohamed Salah.",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Substitution, Egypt. Omar Marmoush replaces Mostafa Zico.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Goal! Argentina 1, Egypt 2. Cristian Romero (Argentina) header from the centre of the box to the top right corner. Assisted by Lionel Messi with a cross.",
+          "goal": true
+        },
+        {
+          "min": "78'",
+          "text": "Corner, Argentina. Conceded by Trezeguet.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Attempt blocked. Lionel Messi (Argentina) right footed shot from the centre of the box is blocked. Assisted by Alexis Mac Allister.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Attempt missed. Trezeguet (Egypt) right footed shot from a difficult angle on the left is close, but misses to the left. Assisted by Mostafa Zico.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Offside, Argentina. Julián Alvarez is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Attempt missed. Lautaro Martínez (Argentina) right footed shot from the centre of the box misses to the right. Assisted by Nico González with a cross.",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Attempt blocked. Lautaro Martínez (Argentina) left footed shot from the centre of the box is blocked. Assisted by Nico González with a cross.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Substitution, Egypt. Trezeguet replaces Haissem Hassan because of an injury.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Substitution, Argentina. Gonzalo Montiel replaces Nahuel Molina.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "70'",
+          "text": "Attempt missed. Lisandro Martínez (Argentina) left footed shot from outside the box misses to the right.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Goal! Argentina 0, Egypt 2. Mostafa Zico (Egypt) right footed shot from the centre of the box to the centre of the goal. Assisted by Haissem Hassan following a fast break.",
+          "goal": true
+        },
+        {
+          "min": "67'",
+          "text": "Corner, Argentina. Conceded by Mostafa Zico.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Substitution, Argentina. Lautaro Martínez replaces Rodrigo De Paul.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Substitution, Argentina. Nico González replaces Nicolás Tagliafico.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Corner, Argentina. Conceded by Mostafa Zico.",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Lisandro Martínez (Argentina) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Foul by Mohamed Salah (Egypt).",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Corner, Argentina. Conceded by Hamdi Fathy.",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Attempt missed. Alexis Mac Allister (Argentina) header from the left side of the six yard box is close, but misses to the right. Assisted by Lionel Messi with a cross following a set piece situation.",
+          "goal": false
+        },
+        {
+          "min": "59'",
+          "text": "VAR Decision: No Goal Argentina 0-1 Egypt.",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "GOAL OVERTURNED BY VAR: Mostafa Zico (Egypt) scores but the goal is ruled out after a VAR review.",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Lisandro Martínez (Argentina) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Foul by Marwan Attia (Egypt).",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Attempt blocked. Leandro Paredes (Argentina) right footed shot from outside the box is blocked. Assisted by Nahuel Molina.",
+          "goal": false
+        },
+        {
+          "min": "55'",
+          "text": "Lionel Messi (Argentina) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "55'",
+          "text": "Foul by Hamdi Fathy (Egypt).",
+          "goal": false
+        },
+        {
+          "min": "54'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "54'",
+          "text": "Delay in match (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "53'",
+          "text": "Attempt missed. Leandro Paredes (Argentina) right footed shot from outside the box is too high. Assisted by Rodrigo De Paul following a set piece situation.",
+          "goal": false
+        },
+        {
+          "min": "52'",
+          "text": "Leandro Paredes (Argentina) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "52'",
+          "text": "Foul by Mohamed Salah (Egypt).",
+          "goal": false
+        },
+        {
+          "min": "48'",
           "text": "Foul by Nicolás Tagliafico (Argentina).",
           "goal": false
         },
         {
-          "min": "5'",
-          "text": "Foul by Enzo Fernández (Argentina).",
+          "min": "48'",
+          "text": "Haissem Hassan (Egypt) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "5'",
-          "text": "Mohamed Salah (Egypt) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "",
-          "text": "First Half begins.",
-          "goal": false
-        },
-        {
-          "min": "",
-          "text": "Lineups are announced and players are warming up.",
+          "min": "48'",
+          "text": "Foul by Julián Alvarez (Argentina).",
           "goal": false
         }
       ],
@@ -85503,28 +85795,28 @@
             "name": "L. Messi",
             "num": "10",
             "pos": "F",
-            "value": "1"
+            "value": "5"
           },
           "away": {
-            "name": "Y. Ibrahim",
-            "num": "2",
-            "pos": "D",
-            "value": "1"
+            "name": "Trézéguet",
+            "num": "7",
+            "pos": "F",
+            "value": "2"
           }
         },
         {
           "label": "Accurate Passes",
           "home": {
-            "name": "C. Romero",
-            "num": "13",
-            "pos": "D",
-            "value": "23"
+            "name": "L. Paredes",
+            "num": "5",
+            "pos": "M",
+            "value": "115"
           },
           "away": {
             "name": "M. Attia",
             "num": "19",
             "pos": "M",
-            "value": "17"
+            "value": "40"
           }
         },
         {
@@ -85533,13 +85825,13 @@
             "name": "L. Martínez",
             "num": "6",
             "pos": "D",
-            "value": "3"
+            "value": "14"
           },
           "away": {
-            "name": "M. Zico",
-            "num": "11",
-            "pos": "M",
-            "value": "3"
+            "name": "Y. Ibrahim",
+            "num": "2",
+            "pos": "D",
+            "value": "11"
           }
         },
         {
@@ -85548,12 +85840,18 @@
             "name": "M. Shoubir",
             "num": "23",
             "pos": "G",
-            "value": "1"
+            "value": "4"
           }
         }
       ],
-      "highlight": null,
-      "final": false,
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0707/dm_260707_COM_SOC_Fans_Argentina_fans_go_wild_after_MessiE28099s_equalizer_vs_Egypt_GLOBAL_2026-07-07/dm_260707_COM_SOC_Fans_Argentina_fans_go_wild_after_MessiE28099s_equalizer_vs_Egypt_GLOBAL_2026-07-07.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49298149/argentina-fans-go-wild-messi-equalizer-vs-egypt",
+        "headline": "Argentina fans go wild after Messi's equalizer vs. Egypt",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0707/dm_260707_COM_SOC_Fans_Argentina_fans_go_wild_after_MessiE28099s_equalizer_vs_Egypt_GLOBAL_2026-07-07/dm_260707_COM_SOC_Fans_Argentina_fans_go_wild_after_MessiE28099s_equalizer_vs_Egypt_GLOBAL_2026-07-07_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0707/dm_260707_COM_SOC_Fans_Argentina_fans_go_wild_after_MessiE28099s_equalizer_vs_Egypt_GLOBAL_2026-07-07/dm_260707_COM_SOC_Fans_Argentina_fans_go_wild_after_MessiE28099s_equalizer_vs_Egypt_GLOBAL_2026-07-07/playlist.m3u8"
+      },
+      "final": true,
       "dv": 5
     }
   }

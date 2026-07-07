@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-07T16:28:22.933Z",
+  "lastUpdated": "2026-07-07T18:32:14.351Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -1322,25 +1322,15 @@
       "stage": "r16",
       "home": "Argentina",
       "away": "Egypt",
-      "homeScore": 0,
-      "awayScore": 1,
-      "homeWinner": false,
+      "homeScore": 3,
+      "awayScore": 2,
+      "homeWinner": true,
       "awayWinner": false,
-      "odds": {
-        "home": -310,
-        "away": 1000,
-        "draw": 390,
-        "total": 2.5,
-        "book": "DraftKings"
-      },
-      "status": "live",
+      "odds": null,
+      "status": "finished",
       "id": "760509",
       "date": "2026-07-07T16:00Z",
-      "venue": "Mercedes-Benz Stadium",
-      "clock": 1620,
-      "displayClock": "27'",
-      "detail": "27'",
-      "period": 1
+      "venue": "Mercedes-Benz Stadium"
     },
     {
       "stage": "r16",
@@ -1352,8 +1342,8 @@
       "awayWinner": false,
       "odds": {
         "home": 245,
-        "away": 125,
-        "draw": 210,
+        "away": 130,
+        "draw": 205,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -1391,9 +1381,9 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -160,
+        "home": -165,
         "away": 450,
-        "draw": 290,
+        "draw": 295,
         "total": 2.5,
         "book": "DraftKings"
       },
@@ -1424,7 +1414,7 @@
     },
     {
       "stage": "qf",
-      "home": "Round of 16 7 Winner",
+      "home": "Argentina",
       "away": "Round of 16 8 Winner",
       "homeScore": 0,
       "awayScore": 0,

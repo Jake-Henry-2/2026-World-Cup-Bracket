@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-06T23:41:56.391Z",
+  "lastUpdated": "2026-07-07T01:24:36.004Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -1308,8 +1308,8 @@
       "stage": "r16",
       "home": "United States",
       "away": "Belgium",
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 1,
+      "awayScore": 3,
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
@@ -1319,10 +1319,14 @@
         "total": 2.5,
         "book": "DraftKings"
       },
-      "status": "scheduled",
+      "status": "live",
       "id": "760507",
       "date": "2026-07-07T00:00Z",
-      "venue": "Lumen Field"
+      "venue": "Lumen Field",
+      "clock": 3600,
+      "displayClock": "60'",
+      "detail": "60'",
+      "period": 2
     },
     {
       "stage": "r16",

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-07T18:32:14.431Z",
+  "lastUpdated": "2026-07-07T20:29:15.811Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -84938,6 +84938,616 @@
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0706/dm_260706_COM_SOC_NEWS_COM_SOC_NEWS_USA_fans_in_disbelief_after_Freese_mistake_gifts_Belgium_a_third_goal_2/dm_260706_COM_SOC_NEWS_COM_SOC_NEWS_USA_fans_in_disbelief_after_Freese_mistake_gifts_Belgium_a_third_goal_2/playlist.m3u8"
       },
       "final": true,
+      "dv": 5
+    },
+    "760508": {
+      "venue": "BC Place",
+      "stats": {
+        "home": {
+          "foulsCommitted": "4",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "1",
+          "wonCorners": "1",
+          "saves": "1",
+          "possessionPct": "45.7",
+          "totalShots": "0",
+          "shotsOnTarget": "0",
+          "shotPct": "0.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "116",
+          "totalPasses": "131",
+          "passPct": "0.9",
+          "accurateCrosses": "0",
+          "totalCrosses": "2",
+          "crossPct": "0.0",
+          "totalLongBalls": "6",
+          "accurateLongBalls": "4",
+          "longballPct": "0.7",
+          "blockedShots": "0",
+          "effectiveTackles": "2",
+          "totalTackles": "4",
+          "tacklePct": "0.5",
+          "interceptions": "5",
+          "effectiveClearance": "9",
+          "totalClearance": "9"
+        },
+        "away": {
+          "foulsCommitted": "4",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "2",
+          "saves": "0",
+          "possessionPct": "54.3",
+          "totalShots": "2",
+          "shotsOnTarget": "1",
+          "shotPct": "0.5",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "135",
+          "totalPasses": "154",
+          "passPct": "0.9",
+          "accurateCrosses": "1",
+          "totalCrosses": "5",
+          "crossPct": "0.2",
+          "totalLongBalls": "16",
+          "accurateLongBalls": "7",
+          "longballPct": "0.4",
+          "blockedShots": "1",
+          "effectiveTackles": "3",
+          "totalTackles": "5",
+          "tacklePct": "0.6",
+          "interceptions": "4",
+          "effectiveClearance": "2",
+          "totalClearance": "2"
+        }
+      },
+      "events": [],
+      "lineups": {
+        "home": [
+          {
+            "name": "Gregor Kobel",
+            "short": "G. Kobel",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Manuel Akanji",
+            "short": "M. Akanji",
+            "num": "5",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Nico Elvedi",
+            "short": "N. Elvedi",
+            "num": "4",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Ricardo Rodríguez",
+            "short": "R. Rodríguez",
+            "num": "13",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Denis Zakaria",
+            "short": "D. Zakaria",
+            "num": "6",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Granit Xhaka",
+            "short": "G. Xhaka",
+            "num": "10",
+            "pos": "CM",
+            "place": "4"
+          },
+          {
+            "name": "Ardon Jashari",
+            "short": "A. Jashari",
+            "num": "14",
+            "pos": "LM",
+            "place": "8"
+          },
+          {
+            "name": "Remo Freuler",
+            "short": "R. Freuler",
+            "num": "8",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Breel Embolo",
+            "short": "B. Embolo",
+            "num": "7",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Dan Ndoye",
+            "short": "D. Ndoye",
+            "num": "11",
+            "pos": "LF",
+            "place": "11"
+          },
+          {
+            "name": "Fabian Rieder",
+            "short": "F. Rieder",
+            "num": "22",
+            "pos": "RF",
+            "place": "10"
+          }
+        ],
+        "away": [
+          {
+            "name": "Camilo Vargas",
+            "short": "C. Vargas",
+            "num": "12",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Jhon Lucumí",
+            "short": "J. Lucumí",
+            "num": "3",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Davinson Sánchez",
+            "short": "D. Sánchez",
+            "num": "23",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Johan Mojica",
+            "short": "J. Mojica",
+            "num": "17",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Daniel Muñoz",
+            "short": "D. Muñoz",
+            "num": "2",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Jefferson Lerma",
+            "short": "J. Lerma",
+            "num": "16",
+            "pos": "CM",
+            "place": "4"
+          },
+          {
+            "name": "Gustavo Puerta",
+            "short": "G. Puerta",
+            "num": "14",
+            "pos": "LM",
+            "place": "8"
+          },
+          {
+            "name": "Jhon Arias",
+            "short": "J. Arias",
+            "num": "11",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Luis Suárez",
+            "short": "L. Suárez",
+            "num": "25",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Luis Díaz",
+            "short": "L. Díaz",
+            "num": "7",
+            "pos": "LF",
+            "place": "11"
+          },
+          {
+            "name": "James Rodríguez",
+            "short": "J. Rodríguez",
+            "num": "10",
+            "pos": "RF",
+            "place": "10"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Marvin Keller",
+            "short": "M. Keller",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Yvon Mvogo",
+            "short": "Y. Mvogo",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Zeki Amdouni",
+            "short": "Z. Amdouni",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Noah Okafor",
+            "short": "N. Okafor",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Rubén Vargas",
+            "short": "R. Vargas",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Eray Cömert",
+            "short": "E. Cömert",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Cedric Itten",
+            "short": "C. Itten",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Christian Fassnacht",
+            "short": "C. Fassnacht",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Silvan Widmer",
+            "short": "S. Widmer",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Miro Muheim",
+            "short": "M. Muheim",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Djibril Sow",
+            "short": "D. Sow",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Aurèle Amenda",
+            "short": "A. Amenda",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Jhon Córdoba",
+            "short": "J. Córdoba",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Santiago Arias",
+            "short": "S. Arias",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Richard Ríos",
+            "short": "R. Ríos",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Cucho Hernández",
+            "short": "C. Hernández",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jáminton Campaz",
+            "short": "J. Campaz",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Kevin Castaño",
+            "short": "K. Castaño",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jorge Carrascal",
+            "short": "J. Carrascal",
+            "num": "8",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Andrés Gómez",
+            "short": "A. Gómez",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Willer Ditta",
+            "short": "W. Ditta",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "David Ospina",
+            "short": "D. Ospina",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Juan Fernando Quintero",
+            "short": "J. Quintero",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Álvaro Montero",
+            "short": "Á. Montero",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Yerry Mina",
+            "short": "Y. Mina",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Juan Portilla",
+            "short": "J. Portilla",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Deiver Machado",
+            "short": "D. Machado",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-3-3",
+        "away": "4-3-3"
+      },
+      "commentary": [
+        {
+          "min": "28'",
+          "text": "Foul by Jefferson Lerma (Colombia).",
+          "goal": false
+        },
+        {
+          "min": "28'",
+          "text": "Granit Xhaka (Switzerland) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "28'",
+          "text": "Foul by Jefferson Lerma (Colombia).",
+          "goal": false
+        },
+        {
+          "min": "28'",
+          "text": "Granit Xhaka (Switzerland) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "26'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "23'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "23'",
+          "text": "Foul by Gustavo Puerta (Colombia).",
+          "goal": false
+        },
+        {
+          "min": "23'",
+          "text": "Granit Xhaka (Switzerland) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "21'",
+          "text": "Corner, Colombia. Conceded by Gregor Kobel.",
+          "goal": false
+        },
+        {
+          "min": "21'",
+          "text": "Attempt saved. Gustavo Puerta (Colombia) right footed shot from the left side of the box is saved in the top right corner by Gregor Kobel (Switzerland). Assisted by Luis Díaz.",
+          "goal": false
+        },
+        {
+          "min": "16'",
+          "text": "Foul by Ardon Jashari (Switzerland).",
+          "goal": false
+        },
+        {
+          "min": "16'",
+          "text": "James Rodríguez (Colombia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "14'",
+          "text": "Corner, Switzerland. Conceded by Daniel Muñoz.",
+          "goal": false
+        },
+        {
+          "min": "12'",
+          "text": "Foul by Nico Elvedi (Switzerland).",
+          "goal": false
+        },
+        {
+          "min": "12'",
+          "text": "Luis Díaz (Colombia) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "7'",
+          "text": "Nico Elvedi (Switzerland) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "7'",
+          "text": "Foul by Luis Suárez (Colombia).",
+          "goal": false
+        },
+        {
+          "min": "6'",
+          "text": "Offside, Switzerland. Dan Ndoye is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "5'",
+          "text": "Dan Ndoye (Switzerland) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "5'",
+          "text": "Foul by Davinson Sánchez (Colombia).",
+          "goal": false
+        },
+        {
+          "min": "5'",
+          "text": "Corner, Colombia. Conceded by Denis Zakaria.",
+          "goal": false
+        },
+        {
+          "min": "4'",
+          "text": "Foul by Remo Freuler (Switzerland).",
+          "goal": false
+        },
+        {
+          "min": "4'",
+          "text": "Johan Mojica (Colombia) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "2'",
+          "text": "Attempt blocked. Jhon Arias (Colombia) right footed shot from the centre of the box is blocked. Assisted by Johan Mojica with a cross.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "First Half begins.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "Lineups are announced and players are warming up.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "M. Akanji",
+            "num": "5",
+            "pos": "D",
+            "value": "26"
+          },
+          "away": {
+            "name": "J. Lerma",
+            "num": "16",
+            "pos": "M",
+            "value": "22"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "D. Ndoye",
+            "num": "11",
+            "pos": "F",
+            "value": "4"
+          },
+          "away": {
+            "name": "J. Lucumí",
+            "num": "3",
+            "pos": "D",
+            "value": "4"
+          }
+        },
+        {
+          "label": "Saves",
+          "home": {
+            "name": "G. Kobel",
+            "num": "1",
+            "pos": "G",
+            "value": "1"
+          }
+        },
+        {
+          "label": "Total Shots",
+          "away": {
+            "name": "G. Puerta",
+            "num": "14",
+            "pos": "M",
+            "value": "1"
+          }
+        }
+      ],
+      "highlight": null,
+      "final": false,
       "dv": 5
     },
     "760509": {

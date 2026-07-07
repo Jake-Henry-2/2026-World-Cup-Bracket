@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-07T18:32:14.351Z",
+  "lastUpdated": "2026-07-07T20:29:15.739Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -1341,16 +1341,20 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 245,
-        "away": 130,
-        "draw": 205,
+        "home": 250,
+        "away": 140,
+        "draw": 185,
         "total": 2.5,
         "book": "DraftKings"
       },
-      "status": "scheduled",
+      "status": "live",
       "id": "760508",
       "date": "2026-07-07T20:00Z",
-      "venue": "BC Place"
+      "venue": "BC Place",
+      "clock": 1680,
+      "displayClock": "28'",
+      "detail": "28'",
+      "period": 1
     },
     {
       "stage": "qf",

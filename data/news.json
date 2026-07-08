@@ -1,48 +1,48 @@
 {
-  "lastUpdated": "2026-07-07T23:05:11.984Z",
+  "lastUpdated": "2026-07-08T00:09:57.417Z",
   "source": "ESPN",
   "articles": [
     {
-      "headline": "World Cup Daily live: Argentina, Messi produce late magic; Switzerland sneak past Colombia",
+      "headline": "Laurens: Switzerland deserved to beat Colombia",
+      "description": "Laurens: Switzerland deserved to beat Colombia",
+      "published": "2026-07-07T23:51:55Z",
+      "link": "https://www.espn.com/video/clip/_/id/49301153/switzerland-deserved-beat-colombia",
+      "image": "https://a.espncdn.com/media/motion/2026/0707/dm_260707_COM_SOC_Analysis_Laurens3A_Switzerland_deserve_to_beat_Colombia_GLOBAL_2026-07-08/dm_260707_COM_SOC_Analysis_Laurens3A_Switzerland_deserve_to_beat_Colombia_GLOBAL_2026-07-08.jpg"
+    },
+    {
+      "headline": "Will Argentina 'fear' facing Switzerland?",
+      "description": "Will Argentina 'fear' facing Switzerland?",
+      "published": "2026-07-07T23:46:27Z",
+      "link": "https://www.espn.com/video/clip/_/id/49301144/will-argentina-fear-facing-switzerland",
+      "image": "https://a.espncdn.com/media/motion/2026/0707/dm_260707_COM_SOC_Analysis_Will_Argentina_E28098fearE28099_facing_Switzerland3F_GLOBAL_2026-07-08/dm_260707_COM_SOC_Analysis_Will_Argentina_E28098fearE28099_facing_Switzerland3F_GLOBAL_2026-07-08.jpg"
+    },
+    {
+      "headline": "World Cup Daily recap: Argentina, Messi produce late magic; Switzerland sneak past Colombia",
       "description": "Enjoy all the features, news, video analysis and color from around the 2026 World Cup as we figure out the last two teams to make the quarterfinals.",
-      "published": "2026-07-07T22:57:57Z",
+      "published": "2026-07-07T23:20:37Z",
       "link": "https://www.espn.com/soccer/story/_/id/49293140/world-cup-daily-live-messi-fans-troll-speed-ronaldo-exit-argentina-colombia-action",
       "image": "https://a.espncdn.com/photo/2026/0707/r1686158_1296x729_16-9.jpg"
     },
     {
       "headline": "Switzerland beat Colombia in shootout, Argentina up next",
       "description": "Switzerland beat Colombia 4-3 in a penalty shootout in Vancouver on Tuesday to reach the quarterfinals of the World Cup for the first time since 1954.",
-      "published": "2026-07-07T23:00:00Z",
+      "published": "2026-07-07T23:49:39Z",
       "link": "https://www.espn.com/soccer/story/_/id/49300023/switzerland-colombia-world-cup-2026-penalty-shootout-argentina",
       "image": "https://a.espncdn.com/photo/2026/0707/r1686161_1296x729_16-9.jpg"
     },
     {
       "headline": "U.S. World Cup loss sets betting records, big profits for house",
       "description": "The United States' run in its home World Cup led to record soccer betting handle and allowed American sportsbooks to profit handsomely when it came to an end.",
-      "published": "2026-07-07T23:02:23Z",
+      "published": "2026-07-07T23:06:44Z",
       "link": "https://www.espn.com/soccer/story/_/id/49300759/us-world-cup-loss-sets-betting-records-net-profits-house",
       "image": "https://a.espncdn.com/photo/2026/0707/r1685642_1296x729_16-9.jpg"
     },
     {
       "headline": "Switzerland send Colombia home from World Cup after penalty shootout",
-      "description": "",
-      "published": "2026-07-07T23:03:44Z",
-      "link": "http://www.espn.com/soccer/report/_/gameId/760509",
+      "description": "Rubén Vargas struck the winning spot-kick as Switzerland beat Colombia 4-3 in a penalty shoot-out to reach the World Cup quarterfinals after a goalless 120 minutes in Vancouver.",
+      "published": "2026-07-07T23:33:51Z",
+      "link": "http://www.espn.com/soccer/report/_/gameId/760508",
       "image": "https://a.espncdn.com/photo/2026/0707/r1686081_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Where would Argentina be if not for Messi? On a flight home from this World Cup",
-      "description": "Argentina's unbelievable comeback win over Egypt on Tuesday was all down to Lionel Messi, who is seemingly dragging his team to another final.",
-      "published": "2026-07-07T22:52:50Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49300589/where-argentina-not-lionel-messi-flight-home-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0707/r1686154_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "2026 World Cup: Jalen Brunson, Jay Z headline celebrities",
-      "description": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America.",
-      "published": "2026-07-07T22:38:16Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49089105/2026-fifa-world-cup-usa-mexico-canada-celebrities",
-      "image": "https://a.espncdn.com/photo/2026/0705/r1684966_608x342_16-9.jpg"
     }
   ]
 }

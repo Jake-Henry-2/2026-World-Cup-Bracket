@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-07-08T21:10:22.086Z",
+  "lastUpdated": "2026-07-08T22:17:07.840Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Morgan Rogers: Has anyone ever stopped Norway's Erling Haaland?",
+      "description": "",
+      "published": "2026-07-08T21:27:00Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49309137/england-vs-norway-world-cup-quarter-final-morgan-rogers-erling-haaland",
+      "image": "https://a.espncdn.com/photo/2026/0708/r1686572_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "World Cup Daily live: Tournament's 3,000th goal one of most controversial? First 'rest day' after 27 days of action",
+      "description": "Enjoy all the features, news, video analysis and color from around the competition as we have our final eight teams of the 2026 FIFA World Cup.",
+      "published": "2026-07-08T21:12:30Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49301983/world-cup-daily-live-tournaments-3000th-goal-one-most-controversial-first-break-27-days",
+      "image": "https://a.espncdn.com/photo/2026/0708/r1686305_1296x729_16-9.jpg"
+    },
     {
       "headline": "Rogers: We know Haaland's threat and the quality Norway possess",
       "description": "Rogers: We know Haaland's threat and the quality Norway possess",
@@ -29,20 +43,6 @@
       "published": "2026-07-08T20:46:45Z",
       "link": "https://www.espn.com/soccer/story/_/id/49308965/martin-odegaard-facing-england-world-cup-were-underdogs-brazil-too",
       "image": "https://a.espncdn.com/photo/2026/0708/r1686565_594x334_16-9.jpg"
-    },
-    {
-      "headline": "Justin Bieber joins World Cup final halftime show lineup",
-      "description": "Justin Bieber will bring his swag to the World Cup's star-studded, Super Bowl-style halftime show, joining fellow headliners Madonna, Shakira and BTS, FIFA announced Wednesday.",
-      "published": "2026-07-08T19:42:10Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49308434/justin-bieber-2026-world-cup-final-half-show-lineup",
-      "image": "https://a.espncdn.com/photo/2026/0708/r1686545_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Odegaard: Norway's quarterfinal against England a 'massive test'",
-      "description": "Odegaard: Norway's quarterfinal against England a 'massive test'",
-      "published": "2026-07-08T18:38:02Z",
-      "link": "https://www.espn.com/video/clip/_/id/49308227/norway-quarterfinal-england-massive-test",
-      "image": "https://a.espncdn.com/media/motion/2026/0708/dm_260708_Odegaard_Norways_quarterfinal_against_England_a_massive_test/dm_260708_Odegaard_Norways_quarterfinal_against_England_a_massive_test.jpg"
     }
   ]
 }

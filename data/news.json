@@ -1,7 +1,35 @@
 {
-  "lastUpdated": "2026-07-08T18:11:25.174Z",
+  "lastUpdated": "2026-07-08T19:56:13.241Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Justin Bieber joins World Cup final halftime show lineup",
+      "description": "Justin Bieber will bring his swag to the World Cup's star-studded, Super Bowl-style halftime show, joining fellow headliners Madonna, Shakira and BTS, FIFA announced Wednesday.",
+      "published": "2026-07-08T19:42:10Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49308434/justin-bieber-2026-world-cup-final-half-show-lineup",
+      "image": "https://a.espncdn.com/photo/2026/0708/r1686545_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Odegaard: Norway's quarterfinal against England a 'massive test'",
+      "description": "Odegaard: Norway's quarterfinal against England a 'massive test'",
+      "published": "2026-07-08T18:38:02Z",
+      "link": "https://www.espn.com/video/clip/_/id/49308227/norway-quarterfinal-england-massive-test",
+      "image": "https://a.espncdn.com/media/motion/2026/0708/dm_260708_Odegaard_Norways_quarterfinal_against_England_a_massive_test/dm_260708_Odegaard_Norways_quarterfinal_against_England_a_massive_test.jpg"
+    },
+    {
+      "headline": "After rejecting France, Bouaddi can end their World Cup with Morocco",
+      "description": "Ayyoub Bouaddi chose Morocco over France to ensure he'd play at the 2026 World Cup. Now the two teams collide in a 2022 semifinal rematch.",
+      "published": "2026-07-08T19:27:19Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49308168/after-rejecting-france-bouaddi-end-their-world-cup-morocco",
+      "image": "https://a.espncdn.com/photo/2026/0708/r1686524_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "World Cup Daily live: Tournament's 3,000th goal one of most controversial? First 'rest day' after 27 days of action",
+      "description": "Enjoy all the features, news, video analysis and color from around the competition as we have our final eight teams of the 2026 FIFA World Cup.",
+      "published": "2026-07-08T18:15:04Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49301983/world-cup-daily-live-tournaments-3000th-goal-one-most-controversial-first-break-27-days",
+      "image": "https://a.espncdn.com/photo/2026/0708/r1686305_1296x729_16-9.jpg"
+    },
     {
       "headline": "World Cup 2026 today: Live updates and news -- as it happened on July 8",
       "description": "After a thrilling conclusion to the round of 16, we have our quarterfinal line up all set. Follow everything from the World Cup across the day with ESPN.",
@@ -15,34 +43,6 @@
       "published": "2026-07-08T16:59:55Z",
       "link": "https://www.espn.com/soccer/story/_/id/49307345/reece-james-marc-guehi-declan-rice-injury-england-training-world-cup-quarterfinal-norway",
       "image": "https://a.espncdn.com/photo/2026/0708/r1686481_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "World Cup Daily live: Tournament's 3,000th goal one of most controversial? First 'rest day' after 27 days of action",
-      "description": "Enjoy all the features, news, video analysis and color from around the competition as we have our final eight teams of the 2026 FIFA World Cup.",
-      "published": "2026-07-08T16:36:20Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49301983/world-cup-daily-live-tournaments-3000th-goal-one-most-controversial-first-break-27-days",
-      "image": "https://a.espncdn.com/photo/2026/0708/r1686305_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "French players call for justice after Mbappé racially abused by a Paraguay senator",
-      "description": "French players call for justice after Mbappé racially abused by a Paraguay senator",
-      "published": "2026-07-08T16:15:35Z",
-      "link": "https://www.espn.com/video/clip/_/id/49307095/french-players-call-justice-mbappe-racially-abused-paraguay-senator",
-      "image": "https://a.espncdn.com/media/motion/2026/0708/dm_260708_French_players_call_for_justice_after_Mbappe_racially_abused_by_a_Paraguay_senator/dm_260708_French_players_call_for_justice_after_Mbappe_racially_abused_by_a_Paraguay_senator.jpg"
-    },
-    {
-      "headline": "Marcotti's Mini World Cup Musings: Messi is supernatural, U.S. get a reality check",
-      "description": "After 28 days of games, Wednesday is the first rest day of the 2026 World Cup: the perfect opportunity to reflect on four weeks of fabulous football.",
-      "published": "2026-07-08T17:54:50Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49307058/gabriele-marcotti-mini-world-cup-musings-lionel-messi-supernatural-usmnt-get-reality-check",
-      "image": "https://a.espncdn.com/photo/2026/0708/r1686457_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Every team's championship odds for the 2026 World Cup",
-      "description": "Updated odds for the remaining eight teams to advance to the final and to win the 2026 World Cup.",
-      "published": "2026-07-08T16:44:45Z",
-      "link": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
-      "image": "https://a.espncdn.com/photo/2026/0707/r1685851_1296x729_16-9.jpg"
     }
   ]
 }

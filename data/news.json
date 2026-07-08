@@ -1,7 +1,35 @@
 {
-  "lastUpdated": "2026-07-08T19:56:13.241Z",
+  "lastUpdated": "2026-07-08T21:10:22.086Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Rogers: We know Haaland's threat and the quality Norway possess",
+      "description": "Rogers: We know Haaland's threat and the quality Norway possess",
+      "published": "2026-07-08T21:00:38Z",
+      "link": "https://www.espn.com/video/clip/_/id/49309084/know-haaland-threat-quality-norway-possess",
+      "image": "https://a.espncdn.com/media/motion/2026/0708/dm_260708_Rogers_We_know_Haalands_threat_and_the_quality_Norway_possess/dm_260708_Rogers_We_know_Haalands_threat_and_the_quality_Norway_possess.jpg"
+    },
+    {
+      "headline": "Rogers: England showed 'grit and determination' in Mexico victory",
+      "description": "Rogers: England showed 'grit and determination' in Mexico victory",
+      "published": "2026-07-08T20:38:42Z",
+      "link": "https://www.espn.com/video/clip/_/id/49308990/england-showed-grit-determination-mexico-victory",
+      "image": "https://a.espncdn.com/media/motion/2026/0708/dm_260708_Rogers_England_showed_grit_and_determination_in_Mexico_victory/dm_260708_Rogers_England_showed_grit_and_determination_in_Mexico_victory.jpg"
+    },
+    {
+      "headline": "England's Jordan Henderson has surgery, eyes return at World Cup",
+      "description": "Jordan Henderson has undergone surgery on his arm in Kansas City after breaking it in the celebrations following England's 3-2 win over Mexico on Sunday.",
+      "published": "2026-07-08T20:44:47Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49306669/england-jordan-henderson-undergoes-surgery-broken-arm-mexico-fifa-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0707/r1686135_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Norway's Martin Ødegaard on facing England in World Cup: 'We were underdogs against Brazil too'",
+      "description": "Martin Ødegaard has said that \"underdogs\" Norway are ready for their \"big test\" against England in Saturday's World Cup quarterfinal.",
+      "published": "2026-07-08T20:46:45Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49308965/martin-odegaard-facing-england-world-cup-were-underdogs-brazil-too",
+      "image": "https://a.espncdn.com/photo/2026/0708/r1686565_594x334_16-9.jpg"
+    },
     {
       "headline": "Justin Bieber joins World Cup final halftime show lineup",
       "description": "Justin Bieber will bring his swag to the World Cup's star-studded, Super Bowl-style halftime show, joining fellow headliners Madonna, Shakira and BTS, FIFA announced Wednesday.",
@@ -15,34 +43,6 @@
       "published": "2026-07-08T18:38:02Z",
       "link": "https://www.espn.com/video/clip/_/id/49308227/norway-quarterfinal-england-massive-test",
       "image": "https://a.espncdn.com/media/motion/2026/0708/dm_260708_Odegaard_Norways_quarterfinal_against_England_a_massive_test/dm_260708_Odegaard_Norways_quarterfinal_against_England_a_massive_test.jpg"
-    },
-    {
-      "headline": "After rejecting France, Bouaddi can end their World Cup with Morocco",
-      "description": "Ayyoub Bouaddi chose Morocco over France to ensure he'd play at the 2026 World Cup. Now the two teams collide in a 2022 semifinal rematch.",
-      "published": "2026-07-08T19:27:19Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49308168/after-rejecting-france-bouaddi-end-their-world-cup-morocco",
-      "image": "https://a.espncdn.com/photo/2026/0708/r1686524_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "World Cup Daily live: Tournament's 3,000th goal one of most controversial? First 'rest day' after 27 days of action",
-      "description": "Enjoy all the features, news, video analysis and color from around the competition as we have our final eight teams of the 2026 FIFA World Cup.",
-      "published": "2026-07-08T18:15:04Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49301983/world-cup-daily-live-tournaments-3000th-goal-one-most-controversial-first-break-27-days",
-      "image": "https://a.espncdn.com/photo/2026/0708/r1686305_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "World Cup 2026 today: Live updates and news -- as it happened on July 8",
-      "description": "After a thrilling conclusion to the round of 16, we have our quarterfinal line up all set. Follow everything from the World Cup across the day with ESPN.",
-      "published": "2026-07-08T18:06:05Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49303740/world-cup-2026-today-blog-08-06-2026-live-updates-news-fixtures-schedule-results-argentina-narrowly-advance-world-cup-quarter-finals-thriller-egypt-3-2-switzerland-beat-colombia-penalties",
-      "image": "https://a.espncdn.com/photo/2026/0708/r1686375_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Reece James, Marc Guéhi and Declan Rice miss England training ahead of World Cup quarterfinal",
-      "description": "Reece James, Marc Guéhi and Declan Rice missed England team training on Wednesday in Kansas ahead of Saturday's World Cup quarterfinal with Norway.",
-      "published": "2026-07-08T16:59:55Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49307345/reece-james-marc-guehi-declan-rice-injury-england-training-world-cup-quarterfinal-norway",
-      "image": "https://a.espncdn.com/photo/2026/0708/r1686481_1296x729_16-9.jpg"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-07-08T03:44:05.696Z",
+  "lastUpdated": "2026-07-08T06:17:20.388Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Salah bids goodbye to the World Cup, with Messi fittingly drawing the curtain",
+      "description": "Where other 'new Messi's failed, Salah departs the World Cup, a legend in his own right.",
+      "published": "2026-07-08T04:10:14Z",
+      "link": "https://www.espn.com/espn/story/_/id/49302913/mohamed-salah-bids-goodbye-2026-fifa-world-cup-lionel-messi-fittingly-drawing-curtain-argentina-egypt",
+      "image": "https://a.espncdn.com/photo/2026/0708/r1686278_1296x729_16-9.jpg"
+    },
     {
       "headline": "Messi tracker: Goals, assists, key moments in 2026",
       "description": "ESPN provides game-by-game analysis of Lionel Messi's performances for Inter Miami and Argentina.",
@@ -36,13 +43,6 @@
       "published": "2026-07-08T01:55:49Z",
       "link": "https://www.espn.com/soccer/story/_/id/49301582/us-men-women-get-equal-split-16m-world-cup-prize",
       "image": "https://a.espncdn.com/photo/2026/0708/r1686227_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Switzerland will look to continue UEFA's party at the World Cup",
-      "description": "Switzerland continue to write World Cup history after eliminating Colombia and will aim for another memorable achievement against Argentina in the quarterfinals.",
-      "published": "2026-07-08T03:20:14Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49301503/switzerland-look-continue-uefas-party-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0708/r1686207_1296x729_16-9.jpg"
     }
   ]
 }

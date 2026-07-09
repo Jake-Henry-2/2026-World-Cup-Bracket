@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-09T18:30:31.539Z",
+  "lastUpdated": "2026-07-09T20:25:27.710Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -86741,6 +86741,602 @@
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0707/dm_260707_COM_SOC_Fans_Argentina_fans_go_wild_after_MessiE28099s_equalizer_vs_Egypt_GLOBAL_2026-07-07/dm_260707_COM_SOC_Fans_Argentina_fans_go_wild_after_MessiE28099s_equalizer_vs_Egypt_GLOBAL_2026-07-07/playlist.m3u8"
       },
       "final": true,
+      "dv": 5
+    },
+    "760510": {
+      "venue": "Gillette Stadium",
+      "stats": {
+        "home": {
+          "foulsCommitted": "2",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "2",
+          "saves": "0",
+          "possessionPct": "61.9",
+          "totalShots": "6",
+          "shotsOnTarget": "1",
+          "shotPct": "0.2",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "162",
+          "totalPasses": "180",
+          "passPct": "0.9",
+          "accurateCrosses": "3",
+          "totalCrosses": "5",
+          "crossPct": "0.6",
+          "totalLongBalls": "7",
+          "accurateLongBalls": "3",
+          "longballPct": "0.4",
+          "blockedShots": "2",
+          "effectiveTackles": "1",
+          "totalTackles": "1",
+          "tacklePct": "1.0",
+          "interceptions": "2",
+          "effectiveClearance": "1",
+          "totalClearance": "1"
+        },
+        "away": {
+          "foulsCommitted": "3",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "0",
+          "saves": "1",
+          "possessionPct": "38.1",
+          "totalShots": "0",
+          "shotsOnTarget": "0",
+          "shotPct": "0.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "90",
+          "totalPasses": "113",
+          "passPct": "0.8",
+          "accurateCrosses": "0",
+          "totalCrosses": "1",
+          "crossPct": "0.0",
+          "totalLongBalls": "16",
+          "accurateLongBalls": "6",
+          "longballPct": "0.4",
+          "blockedShots": "0",
+          "effectiveTackles": "2",
+          "totalTackles": "4",
+          "tacklePct": "0.5",
+          "interceptions": "4",
+          "effectiveClearance": "4",
+          "totalClearance": "4"
+        }
+      },
+      "events": [],
+      "lineups": {
+        "home": [
+          {
+            "name": "Mike Maignan",
+            "short": "M. Maignan",
+            "num": "16",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "William Saliba",
+            "short": "W. Saliba",
+            "num": "17",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Dayot Upamecano",
+            "short": "D. Upamecano",
+            "num": "4",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Lucas Digne",
+            "short": "L. Digne",
+            "num": "3",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Jules Koundé",
+            "short": "J. Koundé",
+            "num": "5",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Michael Olise",
+            "short": "M. Olise",
+            "num": "11",
+            "pos": "AM",
+            "place": "10"
+          },
+          {
+            "name": "Adrien Rabiot",
+            "short": "A. Rabiot",
+            "num": "14",
+            "pos": "LM",
+            "place": "4"
+          },
+          {
+            "name": "Manu Koné",
+            "short": "M. Koné",
+            "num": "6",
+            "pos": "RM",
+            "place": "8"
+          },
+          {
+            "name": "Kylian Mbappé",
+            "short": "K. Mbappé",
+            "num": "10",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Désiré Doué",
+            "short": "D. Doué",
+            "num": "20",
+            "pos": "AM-L",
+            "place": "11"
+          },
+          {
+            "name": "Ousmane Dembélé",
+            "short": "O. Dembélé",
+            "num": "7",
+            "pos": "AM-R",
+            "place": "7"
+          }
+        ],
+        "away": [
+          {
+            "name": "Yassine Bounou",
+            "short": "Y. Bounou",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Noussair Mazraoui",
+            "short": "N. Mazraoui",
+            "num": "3",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Issa Diop",
+            "short": "I. Diop",
+            "num": "14",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Anass Salah-Eddine",
+            "short": "A. Salah-Eddine",
+            "num": "26",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Achraf Hakimi",
+            "short": "A. Hakimi",
+            "num": "2",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Azzedine Ounahi",
+            "short": "A. Ounahi",
+            "num": "8",
+            "pos": "AM",
+            "place": "10"
+          },
+          {
+            "name": "Neil El Aynaoui",
+            "short": "N. El Aynaoui",
+            "num": "24",
+            "pos": "LM",
+            "place": "4"
+          },
+          {
+            "name": "Ayyoub Bouaddi",
+            "short": "A. Bouaddi",
+            "num": "6",
+            "pos": "RM",
+            "place": "8"
+          },
+          {
+            "name": "Bilal El Khannouss",
+            "short": "B. El Khannouss",
+            "num": "23",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Chemsdine Talbi",
+            "short": "C. Talbi",
+            "num": "7",
+            "pos": "AM-L",
+            "place": "11"
+          },
+          {
+            "name": "Brahim Díaz",
+            "short": "B. Díaz",
+            "num": "10",
+            "pos": "AM-R",
+            "place": "7"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "N'Golo Kanté",
+            "short": "N. Kanté",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ibrahima Konaté",
+            "short": "I. Konaté",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Robin Risser",
+            "short": "R. Risser",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Rayan Cherki",
+            "short": "R. Cherki",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Theo Hernández",
+            "short": "T. Hernández",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Lucas Hernández",
+            "short": "L. Hernández",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Bradley Barcola",
+            "short": "B. Barcola",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Marcus Thuram",
+            "short": "M. Thuram",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Brice Samba",
+            "short": "B. Samba",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Maxence Lacroix",
+            "short": "M. Lacroix",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Maghnes Akliouche",
+            "short": "M. Akliouche",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Aurélien Tchouaméni",
+            "short": "A. Tchouaméni",
+            "num": "8",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Warren Zaïre-Emery",
+            "short": "W. Zaïre-Emery",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jean-Philippe Mateta",
+            "short": "J. Mateta",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Malo Gusto",
+            "short": "M. Gusto",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Ahmed Reda Tagnaouti",
+            "short": "A. Tagnaouti",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Youssef Belammari",
+            "short": "Y. Belammari",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Samir El Mourabet",
+            "short": "S. El Mourabet",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Redouane Halhal",
+            "short": "R. Halhal",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gessime Yassine",
+            "short": "G. Yassine",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Marwane Saadane",
+            "short": "M. Saadane",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ismael Saibari",
+            "short": "I. Saibari",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Sofyan Amrabat",
+            "short": "S. Amrabat",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Chadi Riad",
+            "short": "C. Riad",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Soufiane Rahimi",
+            "short": "S. Rahimi",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Amine Sbaï",
+            "short": "A. Sbaï",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Munir El Kajoui",
+            "short": "M. El Kajoui",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ayoube Amaimouni",
+            "short": "A. Amaimouni",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Zakaria El Ouahdi",
+            "short": "Z. El Ouahdi",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ayoub El Kaabi",
+            "short": "A. El Kaabi",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-2-3-1",
+        "away": "4-2-3-1"
+      },
+      "commentary": [
+        {
+          "min": "21'",
+          "text": "Attempt missed. Adrien Rabiot (France) header from the centre of the box is too high. Assisted by Ousmane Dembélé with a cross following a corner.",
+          "goal": false
+        },
+        {
+          "min": "20'",
+          "text": "Corner, France. Conceded by Noussair Mazraoui.",
+          "goal": false
+        },
+        {
+          "min": "20'",
+          "text": "Attempt blocked. Ousmane Dembélé (France) left footed shot from outside the box is blocked. Assisted by Manu Koné.",
+          "goal": false
+        },
+        {
+          "min": "19'",
+          "text": "Handball by Neil El Aynaoui (Morocco).",
+          "goal": false
+        },
+        {
+          "min": "18'",
+          "text": "Attempt missed. Ousmane Dembélé (France) header from the centre of the box misses to the left. Assisted by Désiré Doué with a cross.",
+          "goal": false
+        },
+        {
+          "min": "15'",
+          "text": "Foul by Lucas Digne (France).",
+          "goal": false
+        },
+        {
+          "min": "15'",
+          "text": "Azzedine Ounahi (Morocco) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "14'",
+          "text": "Michael Olise (France) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "14'",
+          "text": "Foul by Neil El Aynaoui (Morocco).",
+          "goal": false
+        },
+        {
+          "min": "10'",
+          "text": "Attempt blocked. Désiré Doué (France) right footed shot from outside the box is blocked. Assisted by Kylian Mbappé.",
+          "goal": false
+        },
+        {
+          "min": "9'",
+          "text": "Foul by Désiré Doué (France).",
+          "goal": false
+        },
+        {
+          "min": "9'",
+          "text": "Brahim Díaz (Morocco) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "4'",
+          "text": "Attempt saved. Dayot Upamecano (France) header from very close range is saved in the centre of the goal by Yassine Bounou (Morocco). Assisted by Ousmane Dembélé with a cross.",
+          "goal": false
+        },
+        {
+          "min": "4'",
+          "text": "Corner, France. Conceded by Yassine Bounou.",
+          "goal": false
+        },
+        {
+          "min": "4'",
+          "text": "Attempt missed. Kylian Mbappé (France) right footed shot from outside the box is close, but misses to the left. Assisted by Désiré Doué.",
+          "goal": false
+        },
+        {
+          "min": "2'",
+          "text": "Manu Koné (France) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "2'",
+          "text": "Foul by Neil El Aynaoui (Morocco).",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "First Half begins.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "Lineups are announced and players are warming up.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "O. Dembélé",
+            "num": "7",
+            "pos": "F",
+            "value": "2"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "W. Saliba",
+            "num": "17",
+            "pos": "D",
+            "value": "25"
+          },
+          "away": {
+            "name": "A. Bouaddi",
+            "num": "6",
+            "pos": "M",
+            "value": "13"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "L. Digne",
+            "num": "3",
+            "pos": "D",
+            "value": "3"
+          },
+          "away": {
+            "name": "B. Díaz",
+            "num": "10",
+            "pos": "M",
+            "value": "4"
+          }
+        },
+        {
+          "label": "Saves",
+          "away": {
+            "name": "Y. Bounou",
+            "num": "1",
+            "pos": "G",
+            "value": "1"
+          }
+        }
+      ],
+      "highlight": null,
+      "final": false,
       "dv": 5
     }
   }

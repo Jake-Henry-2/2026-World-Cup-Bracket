@@ -1,7 +1,35 @@
 {
-  "lastUpdated": "2026-07-09T18:30:31.523Z",
+  "lastUpdated": "2026-07-09T20:25:27.672Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "World Cup updates: France take on Morocco in first quarterfinal showdown",
+      "description": "Enjoy all the updates from Thursday's 2026 World Cup quarterfinal in Foxborough as France take on Morocco.",
+      "published": "2026-07-09T20:09:04Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49309361/world-cup-updates-france-take-morocco-first-quarterfinal-showdown",
+      "image": "https://a.espncdn.com/photo/2026/0709/r1687000_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Norway's Haaland: Chances of winning World Cup 'really low', pressure fully on England",
+      "description": "Norway striker Erling Haaland has said that his side's chances of winning the World Cup are \"really low\" -- and that all the pressure is on England ahead of their World Cup quarterfinal in Miami.",
+      "published": "2026-07-09T19:40:04Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49317174/norway-erling-haaland-chances-really-low-world-cup-pressure-england-quarterfinal",
+      "image": "https://a.espncdn.com/photo/2026/0709/r1686981_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "World Cup Daily live: Mexico star Mora's high school graduation, France-Morocco kicks off quarterfinals",
+      "description": "Enjoy all the features, news, video analysis and color from around the competition as the first day of the 2026 FIFA World Cup quarterfinals begin.",
+      "published": "2026-07-09T19:06:10Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49309123/world-cup-daily-live-mexico-star-mora-high-school-graduation-france-morocco-quarterfinals",
+      "image": "https://a.espncdn.com/photo/2026/0709/r1686754_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Haaland: All the pressure is on England in quarterfinal",
+      "description": "Haaland: All the pressure is on England in quarterfinal",
+      "published": "2026-07-09T18:38:17Z",
+      "link": "https://www.espn.com/video/clip/_/id/49317036/all-pressure-england-quarterfinal",
+      "image": "https://a.espncdn.com/media/motion/2026/0709/dm_260709_COM_SOC_ANALYSIS_Haaland_All_the_pressure_is_on_England_in_quarterfinal_2026_7_9/dm_260709_COM_SOC_ANALYSIS_Haaland_All_the_pressure_is_on_England_in_quarterfinal_2026_7_9.jpg"
+    },
     {
       "headline": "Keir Starmer's England intervention 'more egregious' than Balogun reversal - U.S. official",
       "description": "Sir Keir Starmer's intervention on the Mexico v England kick-off time was \"far more egregious\" than United States President Donald Trump lobbying FIFA over Folarin Balogun's red card, the White House's top World Cup exec",
@@ -12,37 +40,9 @@
     {
       "headline": "England's Jarell Quansah suspended for two World Cup matches after Mexico red card",
       "description": "England fullback Jarell Quansah has been suspended for two matches after receiving a red card in his side's World Cup round-of-16 win over Mexico.",
-      "published": "2026-07-09T18:07:03Z",
+      "published": "2026-07-09T19:35:52Z",
       "link": "https://www.espn.com/soccer/story/_/id/49315827/england-jarell-quansah-suspended-two-world-cup-matches-mexico-red",
       "image": "https://a.espncdn.com/photo/2026/0706/r1685486_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "World Cup Daily live: Mexico star Mora's high school graduation, France-Morocco kicks off quarterfinals",
-      "description": "Enjoy all the features, news, video analysis and color from around the competition as the first day of the 2026 FIFA World Cup quarterfinals begin.",
-      "published": "2026-07-09T16:04:03Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49309123/world-cup-daily-live-mexico-star-mora-high-school-graduation-france-morocco-quarterfinals",
-      "image": "https://a.espncdn.com/photo/2026/0709/r1686754_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Grading the USMNT's World Cup: Did Pochettino, Pulisic & Co. live up to expectations?",
-      "description": "At this summer's World Cup, the U.S. did its homework, aced the quizzes, and then failed the final exam. How should we grade its World Cup?",
-      "published": "2026-07-09T16:35:46Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49314124/usa-world-cup-report-card-grades-mauricio-pochettino-christian-pulisic-analysis",
-      "image": "https://a.espncdn.com/photo/2026/0709/r1686820_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "U.S. star Christian Pulisic suffered microfracture vs. Belgium",
-      "description": "USMNT and AC Milan attacker Christian Pulisic sustained a bone bruise and microfracture in his lower leg and will be sidelined for several weeks, U.S. Soccer confirmed on Thursday.",
-      "published": "2026-07-09T17:01:51Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49315041/usa-christian-pulisic-suffered-microfracture-belgium-sources",
-      "image": "https://a.espncdn.com/photo/2026/0707/r1685654_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Jorge Jesus reaches agreement to become Portugal head coach - sources",
-      "description": "Jorge Jesus has reached an agreement with Portugal's Football Federation (FPF) to become the next head coach of the national team, sources have told ESPN.",
-      "published": "2026-07-09T15:07:30Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49314998/jorge-jesus-reaches-agreement-become-portugal-head-coach-sources",
-      "image": "https://a.espncdn.com/photo/2026/0708/r1686349_1296x729_16-9.jpg"
     }
   ]
 }

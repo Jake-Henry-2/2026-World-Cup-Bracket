@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-09T18:30:31.487Z",
+  "lastUpdated": "2026-07-09T20:25:27.634Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -1355,16 +1355,20 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -165,
+        "home": -170,
         "away": 500,
-        "draw": 270,
+        "draw": 280,
         "total": 2.5,
         "book": "DraftKings"
       },
-      "status": "scheduled",
+      "status": "live",
       "id": "760510",
       "date": "2026-07-09T20:00Z",
-      "venue": "Gillette Stadium"
+      "venue": "Gillette Stadium",
+      "clock": 1440,
+      "displayClock": "24'",
+      "detail": "24'",
+      "period": 1
     },
     {
       "stage": "qf",

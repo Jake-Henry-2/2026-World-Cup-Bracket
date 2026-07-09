@@ -1,11 +1,18 @@
 {
-  "lastUpdated": "2026-07-09T01:12:36.235Z",
+  "lastUpdated": "2026-07-09T05:08:04.748Z",
   "source": "ESPN",
   "articles": [
     {
-      "headline": "Didier Deschamps unconcerned by Argentinian officials in France-Morocco World Cup clash",
+      "headline": "Courtois backs underdog Belgium to upset Spain in World Cup quarterfinals",
+      "description": "Belgium goalkeeper Thibaut Courtois is looking forward to facing Spain for the first time in his career in an official match during Friday's World Cup quarterfinal at SoFi Stadium.",
+      "published": "2026-07-09T04:54:44Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49311500/courtois-backs-underdog-belgium-upset-spain-world-cup-quarterfinals",
+      "image": "https://a.espncdn.com/photo/2026/0709/r1686719_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Didier Deschamps unconcerned by Argentine officials in France-Morocco World Cup clash",
       "description": "France head coach Didier Deschamps has played down the appointment of Argentinian officials for their World Cup quarterfinal against Morocco on Thursday.",
-      "published": "2026-07-09T00:22:33Z",
+      "published": "2026-07-09T01:23:46Z",
       "link": "https://www.espn.com/soccer/story/_/id/49309417/didier-deschamps-unconcerned-argentinian-officials-france-morocco-world-cup-clash",
       "image": "https://a.espncdn.com/photo/2026/0623/r1678333_1296x729_16-9.jpg"
     },
@@ -36,13 +43,6 @@
       "published": "2026-07-08T22:52:51Z",
       "link": "https://www.espn.com/video/clip/_/id/49309664/usmnt-lacked-fight-vs-belgium",
       "image": "https://a.espncdn.com/media/motion/2026/0708/dm_260708_Moreno_USMNT_lacked_fight_vs_Belgium/dm_260708_Moreno_USMNT_lacked_fight_vs_Belgium.jpg"
-    },
-    {
-      "headline": "Mexico start Márquez era on 'strong foundation' after Aguirre",
-      "description": "The Mexican Football Federation announced Wednesday that Rafael Márquez is taking the reins as Javier Aguirre's successor to lead the team up to the 2030 World Cup.",
-      "published": "2026-07-08T22:42:06Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49309364/mexico-start-rafa-marquez-strong-foundation-javier-aguirre-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0708/r1686596_1296x729_16-9.jpg"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-09T21:57:58.765Z",
+  "lastUpdated": "2026-07-09T23:19:19.367Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -1352,23 +1352,13 @@
       "away": "Morocco",
       "homeScore": 2,
       "awayScore": 0,
-      "homeWinner": false,
+      "homeWinner": true,
       "awayWinner": false,
-      "odds": {
-        "home": -170,
-        "away": 500,
-        "draw": 280,
-        "total": 2.5,
-        "book": "DraftKings"
-      },
-      "status": "live",
+      "odds": null,
+      "status": "finished",
       "id": "760510",
       "date": "2026-07-09T20:00Z",
-      "venue": "Gillette Stadium",
-      "clock": 5400,
-      "displayClock": "90'+3'",
-      "detail": "90'+3'",
-      "period": 2
+      "venue": "Gillette Stadium"
     },
     {
       "stage": "qf",

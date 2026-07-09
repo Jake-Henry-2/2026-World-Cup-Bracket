@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-09T21:57:58.849Z",
+  "lastUpdated": "2026-07-09T23:19:19.440Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -86753,54 +86753,54 @@
           "offsides": "0",
           "wonCorners": "5",
           "saves": "1",
-          "possessionPct": "47.9",
-          "totalShots": "20",
-          "shotsOnTarget": "7",
+          "possessionPct": "48.1",
+          "totalShots": "22",
+          "shotsOnTarget": "8",
           "shotPct": "0.4",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "1",
-          "accuratePasses": "413",
-          "totalPasses": "464",
+          "accuratePasses": "432",
+          "totalPasses": "485",
           "passPct": "0.9",
           "accurateCrosses": "5",
           "totalCrosses": "12",
           "crossPct": "0.4",
-          "totalLongBalls": "28",
-          "accurateLongBalls": "13",
+          "totalLongBalls": "30",
+          "accurateLongBalls": "14",
           "longballPct": "0.5",
           "blockedShots": "5",
           "effectiveTackles": "8",
-          "totalTackles": "10",
-          "tacklePct": "0.8",
+          "totalTackles": "11",
+          "tacklePct": "0.7",
           "interceptions": "11",
-          "effectiveClearance": "21",
-          "totalClearance": "21"
+          "effectiveClearance": "22",
+          "totalClearance": "22"
         },
         "away": {
-          "foulsCommitted": "10",
+          "foulsCommitted": "13",
           "yellowCards": "1",
           "redCards": "0",
           "offsides": "0",
           "wonCorners": "5",
-          "saves": "5",
-          "possessionPct": "52.1",
-          "totalShots": "4",
+          "saves": "6",
+          "possessionPct": "51.9",
+          "totalShots": "5",
           "shotsOnTarget": "1",
-          "shotPct": "0.3",
+          "shotPct": "0.2",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "434",
-          "totalPasses": "506",
+          "accuratePasses": "452",
+          "totalPasses": "524",
           "passPct": "0.9",
           "accurateCrosses": "2",
           "totalCrosses": "13",
           "crossPct": "0.2",
-          "totalLongBalls": "37",
-          "accurateLongBalls": "10",
+          "totalLongBalls": "39",
+          "accurateLongBalls": "12",
           "longballPct": "0.3",
           "blockedShots": "1",
           "effectiveTackles": "6",
-          "totalTackles": "16",
+          "totalTackles": "17",
           "tacklePct": "0.4",
           "interceptions": "6",
           "effectiveClearance": "12",
@@ -87269,6 +87269,51 @@
       },
       "commentary": [
         {
+          "min": "",
+          "text": "Match ends, France 2, Morocco 0.",
+          "goal": false
+        },
+        {
+          "min": "90'+7'",
+          "text": "Second Half ends, France 2, Morocco 0.",
+          "goal": false
+        },
+        {
+          "min": "90'+7'",
+          "text": "Attempt missed. Michael Olise (France) left footed shot from outside the box is high and wide to the right. Assisted by Bradley Barcola.",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Foul by Amine Sbaï (Morocco).",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Michael Olise (France) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Attempt missed. Gessime Yassine (Morocco) left footed shot from more than 35 yards is too high. Assisted by Sofyan Amrabat.",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Attempt saved. Jean-Philippe Mateta (France) left footed shot from the centre of the box is saved in the centre of the goal by Yassine Bounou (Morocco). Assisted by Ousmane Dembélé.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Foul by Zakaria El Ouahdi (Morocco).",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Michael Olise (France) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
           "min": "90'+3'",
           "text": "Handball by Amine Sbaï (Morocco).",
           "goal": false
@@ -87522,59 +87567,14 @@
           "min": "45'+4'",
           "text": "Handball by Adrien Rabiot (France).",
           "goal": false
-        },
-        {
-          "min": "45'+3'",
-          "text": "Foul by Désiré Doué (France).",
-          "goal": false
-        },
-        {
-          "min": "45'+3'",
-          "text": "Achraf Hakimi (Morocco) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "45'+2'",
-          "text": "Lucas Digne (France) hits the bar with a left footed shot from outside the box.",
-          "goal": false
-        },
-        {
-          "min": "45'+2'",
-          "text": "Attempt blocked. Michael Olise (France) left footed shot from outside the box is blocked.",
-          "goal": false
-        },
-        {
-          "min": "45'+1'",
-          "text": "Attempt blocked. Manu Koné (France) right footed shot from outside the box is blocked. Assisted by William Saliba.",
-          "goal": false
-        },
-        {
-          "min": "45'+1'",
-          "text": "Fourth official has announced 5 minutes of added time.",
-          "goal": false
-        },
-        {
-          "min": "42'",
-          "text": "Adrien Rabiot (France) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "42'",
-          "text": "Foul by Azzedine Ounahi (Morocco).",
-          "goal": false
-        },
-        {
-          "min": "42'",
-          "text": "Bilal El Khannouss (Morocco) wins a free kick on the left wing.",
-          "goal": false
         }
       ],
       "leaders": [
         {
           "label": "Total Shots",
           "home": {
-            "name": "K. Mbappé",
-            "num": "10",
+            "name": "O. Dembélé",
+            "num": "7",
             "pos": "F",
             "value": "4"
           },
@@ -87591,22 +87591,22 @@
             "name": "D. Upamecano",
             "num": "4",
             "pos": "D",
-            "value": "58"
+            "value": "59"
           },
           "away": {
             "name": "A. Ounahi",
             "num": "8",
             "pos": "M",
-            "value": "59"
+            "value": "61"
           }
         },
         {
           "label": "Defensive Interventions",
           "home": {
-            "name": "J. Koundé",
-            "num": "5",
-            "pos": "D",
-            "value": "8"
+            "name": "A. Rabiot",
+            "num": "14",
+            "pos": "M",
+            "value": "10"
           },
           "away": {
             "name": "I. Diop",
@@ -87627,18 +87627,18 @@
             "name": "Y. Bounou",
             "num": "1",
             "pos": "G",
-            "value": "5"
+            "value": "6"
           }
         }
       ],
       "highlight": {
-        "thumb": "https://a.espncdn.com/media/motion/2026/0709/dm_260709_COM_SOC_NEWS_Fans_in_Paris_and_Casablanca_react_to_Mbappe_penalty_miss_2026_7_9/dm_260709_COM_SOC_NEWS_Fans_in_Paris_and_Casablanca_react_to_Mbappe_penalty_miss_2026_7_9.jpg",
-        "link": "https://www.espn.com/video/clip/_/id/49318102/fans-paris-casablanca-react-mbappe-penalty-miss",
-        "headline": "Fans in Paris and Casablanca react to Mbappe penalty miss",
-        "mp4": "https://media.video-cdn.espn.com/motion/2026/0709/dm_260709_COM_SOC_NEWS_Fans_in_Paris_and_Casablanca_react_to_Mbappe_penalty_miss_2026_7_9/dm_260709_COM_SOC_NEWS_Fans_in_Paris_and_Casablanca_react_to_Mbappe_penalty_miss_2026_7_9_360p30_1464k.mp4",
-        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0709/dm_260709_COM_SOC_NEWS_Fans_in_Paris_and_Casablanca_react_to_Mbappe_penalty_miss_2026_7_9/dm_260709_COM_SOC_NEWS_Fans_in_Paris_and_Casablanca_react_to_Mbappe_penalty_miss_2026_7_9/playlist.m3u8"
+        "thumb": "https://a.espncdn.com/media/motion/2026/0709/dm_260709_France_fans_celebrate_as_Mbappe_scores_first_goal_vs_Morocco/dm_260709_France_fans_celebrate_as_Mbappe_scores_first_goal_vs_Morocco.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49318853/france-fans-celebrate-mbappe-scores-first-goal-vs-morocco",
+        "headline": "France fans celebrate as Mbappé scores first goal vs. Morocco",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0709/dm_260709_France_fans_celebrate_as_Mbappe_scores_first_goal_vs_Morocco/dm_260709_France_fans_celebrate_as_Mbappe_scores_first_goal_vs_Morocco_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0709/dm_260709_France_fans_celebrate_as_Mbappe_scores_first_goal_vs_Morocco/dm_260709_France_fans_celebrate_as_Mbappe_scores_first_goal_vs_Morocco/playlist.m3u8"
       },
-      "final": false,
+      "final": true,
       "dv": 5
     }
   }

@@ -1,27 +1,41 @@
 {
-  "lastUpdated": "2026-07-09T20:25:27.672Z",
+  "lastUpdated": "2026-07-09T21:57:58.788Z",
   "source": "ESPN",
   "articles": [
     {
-      "headline": "World Cup updates: France take on Morocco in first quarterfinal showdown",
+      "headline": "World Cup updates: Mbappé, Dembelé strike to double France's lead over Morocco",
       "description": "Enjoy all the updates from Thursday's 2026 World Cup quarterfinal in Foxborough as France take on Morocco.",
-      "published": "2026-07-09T20:09:04Z",
+      "published": "2026-07-09T21:43:08Z",
       "link": "https://www.espn.com/soccer/story/_/id/49309361/world-cup-updates-france-take-morocco-first-quarterfinal-showdown",
-      "image": "https://a.espncdn.com/photo/2026/0709/r1687000_1296x729_16-9.jpg"
+      "image": "https://a.espncdn.com/photo/2026/0709/r1687050_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "World Cup Daily live: Mexico star Mora's high school graduation",
+      "description": "Enjoy all the features, news, video analysis and color from around the competition as the first day of the 2026 FIFA World Cup quarterfinals begin.",
+      "published": "2026-07-09T21:28:46Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49309123/world-cup-daily-live-mexico-star-mora-high-school-graduation-france-morocco-quarterfinals",
+      "image": "https://a.espncdn.com/photo/2026/0709/r1686754_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Jarell Quansah's extended World Cup ban 'very frustrating' - Bukayo Saka",
+      "description": "England's Bukayo Saka has said Jarell Quansah's two-game World Cup ban is \"very frustrating.\"",
+      "published": "2026-07-09T21:03:02Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49317664/jarell-quansah-extended-world-cup-ban-very-frustrating-bukayo-saka",
+      "image": "https://a.espncdn.com/photo/2026/0706/r1685146_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Fans in Paris and Casablanca react to Mbappe penalty miss",
+      "description": "Fans in Paris and Casablanca react to Mbappe penalty miss",
+      "published": "2026-07-09T20:54:46Z",
+      "link": "https://www.espn.com/video/clip/_/id/49318102/fans-paris-casablanca-react-mbappe-penalty-miss",
+      "image": "https://a.espncdn.com/media/motion/2026/0709/dm_260709_COM_SOC_NEWS_Fans_in_Paris_and_Casablanca_react_to_Mbappe_penalty_miss_2026_7_9/dm_260709_COM_SOC_NEWS_Fans_in_Paris_and_Casablanca_react_to_Mbappe_penalty_miss_2026_7_9.jpg"
     },
     {
       "headline": "Norway's Haaland: Chances of winning World Cup 'really low', pressure fully on England",
       "description": "Norway striker Erling Haaland has said that his side's chances of winning the World Cup are \"really low\" -- and that all the pressure is on England ahead of their World Cup quarterfinal in Miami.",
-      "published": "2026-07-09T19:40:04Z",
+      "published": "2026-07-09T20:46:53Z",
       "link": "https://www.espn.com/soccer/story/_/id/49317174/norway-erling-haaland-chances-really-low-world-cup-pressure-england-quarterfinal",
       "image": "https://a.espncdn.com/photo/2026/0709/r1686981_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "World Cup Daily live: Mexico star Mora's high school graduation, France-Morocco kicks off quarterfinals",
-      "description": "Enjoy all the features, news, video analysis and color from around the competition as the first day of the 2026 FIFA World Cup quarterfinals begin.",
-      "published": "2026-07-09T19:06:10Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49309123/world-cup-daily-live-mexico-star-mora-high-school-graduation-france-morocco-quarterfinals",
-      "image": "https://a.espncdn.com/photo/2026/0709/r1686754_1296x729_16-9.jpg"
     },
     {
       "headline": "Haaland: All the pressure is on England in quarterfinal",
@@ -29,20 +43,6 @@
       "published": "2026-07-09T18:38:17Z",
       "link": "https://www.espn.com/video/clip/_/id/49317036/all-pressure-england-quarterfinal",
       "image": "https://a.espncdn.com/media/motion/2026/0709/dm_260709_COM_SOC_ANALYSIS_Haaland_All_the_pressure_is_on_England_in_quarterfinal_2026_7_9/dm_260709_COM_SOC_ANALYSIS_Haaland_All_the_pressure_is_on_England_in_quarterfinal_2026_7_9.jpg"
-    },
-    {
-      "headline": "Keir Starmer's England intervention 'more egregious' than Balogun reversal - U.S. official",
-      "description": "Sir Keir Starmer's intervention on the Mexico v England kick-off time was \"far more egregious\" than United States President Donald Trump lobbying FIFA over Folarin Balogun's red card, the White House's top World Cup exec",
-      "published": "2026-07-09T18:09:23Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49316584/keir-starmer-england-mexico-intervention-world-cup-egregious-balogun-white-house",
-      "image": "https://a.espncdn.com/photo/2026/0709/r1686934_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "England's Jarell Quansah suspended for two World Cup matches after Mexico red card",
-      "description": "England fullback Jarell Quansah has been suspended for two matches after receiving a red card in his side's World Cup round-of-16 win over Mexico.",
-      "published": "2026-07-09T19:35:52Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49315827/england-jarell-quansah-suspended-two-world-cup-matches-mexico-red",
-      "image": "https://a.espncdn.com/photo/2026/0706/r1685486_1296x729_16-9.jpg"
     }
   ]
 }

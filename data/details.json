@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-09T20:25:27.710Z",
+  "lastUpdated": "2026-07-09T21:57:58.849Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -86747,67 +86747,146 @@
       "venue": "Gillette Stadium",
       "stats": {
         "home": {
-          "foulsCommitted": "2",
+          "foulsCommitted": "10",
           "yellowCards": "0",
           "redCards": "0",
           "offsides": "0",
-          "wonCorners": "2",
-          "saves": "0",
-          "possessionPct": "61.9",
-          "totalShots": "6",
-          "shotsOnTarget": "1",
-          "shotPct": "0.2",
+          "wonCorners": "5",
+          "saves": "1",
+          "possessionPct": "47.9",
+          "totalShots": "20",
+          "shotsOnTarget": "7",
+          "shotPct": "0.4",
           "penaltyKickGoals": "0",
-          "penaltyKickShots": "0",
-          "accuratePasses": "162",
-          "totalPasses": "180",
+          "penaltyKickShots": "1",
+          "accuratePasses": "413",
+          "totalPasses": "464",
           "passPct": "0.9",
-          "accurateCrosses": "3",
-          "totalCrosses": "5",
-          "crossPct": "0.6",
-          "totalLongBalls": "7",
-          "accurateLongBalls": "3",
-          "longballPct": "0.4",
-          "blockedShots": "2",
-          "effectiveTackles": "1",
-          "totalTackles": "1",
-          "tacklePct": "1.0",
-          "interceptions": "2",
-          "effectiveClearance": "1",
-          "totalClearance": "1"
+          "accurateCrosses": "5",
+          "totalCrosses": "12",
+          "crossPct": "0.4",
+          "totalLongBalls": "28",
+          "accurateLongBalls": "13",
+          "longballPct": "0.5",
+          "blockedShots": "5",
+          "effectiveTackles": "8",
+          "totalTackles": "10",
+          "tacklePct": "0.8",
+          "interceptions": "11",
+          "effectiveClearance": "21",
+          "totalClearance": "21"
         },
         "away": {
-          "foulsCommitted": "3",
-          "yellowCards": "0",
+          "foulsCommitted": "10",
+          "yellowCards": "1",
           "redCards": "0",
           "offsides": "0",
-          "wonCorners": "0",
-          "saves": "1",
-          "possessionPct": "38.1",
-          "totalShots": "0",
-          "shotsOnTarget": "0",
-          "shotPct": "0.0",
+          "wonCorners": "5",
+          "saves": "5",
+          "possessionPct": "52.1",
+          "totalShots": "4",
+          "shotsOnTarget": "1",
+          "shotPct": "0.3",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "90",
-          "totalPasses": "113",
-          "passPct": "0.8",
-          "accurateCrosses": "0",
-          "totalCrosses": "1",
-          "crossPct": "0.0",
-          "totalLongBalls": "16",
-          "accurateLongBalls": "6",
-          "longballPct": "0.4",
-          "blockedShots": "0",
-          "effectiveTackles": "2",
-          "totalTackles": "4",
-          "tacklePct": "0.5",
-          "interceptions": "4",
-          "effectiveClearance": "4",
-          "totalClearance": "4"
+          "accuratePasses": "434",
+          "totalPasses": "506",
+          "passPct": "0.9",
+          "accurateCrosses": "2",
+          "totalCrosses": "13",
+          "crossPct": "0.2",
+          "totalLongBalls": "37",
+          "accurateLongBalls": "10",
+          "longballPct": "0.3",
+          "blockedShots": "1",
+          "effectiveTackles": "6",
+          "totalTackles": "16",
+          "tacklePct": "0.4",
+          "interceptions": "6",
+          "effectiveClearance": "12",
+          "totalClearance": "12"
         }
       },
-      "events": [],
+      "events": [
+        {
+          "kind": "Penalty - Saved",
+          "min": "28'",
+          "side": "home",
+          "player": "Penalty saved. Kylian Mbappé"
+        },
+        {
+          "kind": "Goal",
+          "min": "60'",
+          "side": "home",
+          "player": "Goal! France 1, Morocco 0. Kylian Mbappé"
+        },
+        {
+          "kind": "Substitution",
+          "min": "62'",
+          "side": "away",
+          "player": "Substitution, Morocco. Soufiane Rahimi replaces Bilal El Khannouss."
+        },
+        {
+          "kind": "Substitution",
+          "min": "62'",
+          "side": "away",
+          "player": "Substitution, Morocco. Sofyan Amrabat replaces Ayyoub Bouaddi."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "63'",
+          "side": "away",
+          "player": "Issa Diop"
+        },
+        {
+          "kind": "Goal",
+          "min": "66'",
+          "side": "home",
+          "player": "Goal! France 2, Morocco 0. Ousmane Dembélé"
+        },
+        {
+          "kind": "Substitution",
+          "min": "71'",
+          "side": "home",
+          "player": "Substitution, France. Warren Zaïre-Emery replaces Manu Koné."
+        },
+        {
+          "kind": "Substitution",
+          "min": "74'",
+          "side": "away",
+          "player": "Substitution, Morocco. Zakaria El Ouahdi replaces Anass Salah-Eddine."
+        },
+        {
+          "kind": "Substitution",
+          "min": "74'",
+          "side": "away",
+          "player": "Substitution, Morocco. Gessime Yassine replaces Brahim Díaz."
+        },
+        {
+          "kind": "Substitution",
+          "min": "77'",
+          "side": "home",
+          "player": "Substitution, France. Jean-Philippe Mateta replaces Kylian Mbappé because of an injury."
+        },
+        {
+          "kind": "Substitution",
+          "min": "77'",
+          "side": "home",
+          "player": "Substitution, France. Bradley Barcola replaces Désiré Doué."
+        },
+        {
+          "kind": "Substitution",
+          "min": "85'",
+          "side": "away",
+          "player": "Substitution, Morocco. Amine Sbaï replaces Chemsdine Talbi."
+        },
+        {
+          "kind": "Substitution",
+          "min": "87'",
+          "side": "home",
+          "player": "Substitution, France. Malo Gusto replaces Jules Koundé."
+        }
+      ],
       "lineups": {
         "home": [
           {
@@ -87190,98 +87269,303 @@
       },
       "commentary": [
         {
-          "min": "21'",
-          "text": "Attempt missed. Adrien Rabiot (France) header from the centre of the box is too high. Assisted by Ousmane Dembélé with a cross following a corner.",
+          "min": "90'+3'",
+          "text": "Handball by Amine Sbaï (Morocco).",
           "goal": false
         },
         {
-          "min": "20'",
-          "text": "Corner, France. Conceded by Noussair Mazraoui.",
+          "min": "90'+2'",
+          "text": "Corner, Morocco. Conceded by Lucas Digne.",
           "goal": false
         },
         {
-          "min": "20'",
-          "text": "Attempt blocked. Ousmane Dembélé (France) left footed shot from outside the box is blocked. Assisted by Manu Koné.",
+          "min": "90'",
+          "text": "Fourth official has announced 6 minutes of added time.",
           "goal": false
         },
         {
-          "min": "19'",
-          "text": "Handball by Neil El Aynaoui (Morocco).",
+          "min": "90'",
+          "text": "Foul by Achraf Hakimi (Morocco).",
           "goal": false
         },
         {
-          "min": "18'",
-          "text": "Attempt missed. Ousmane Dembélé (France) header from the centre of the box misses to the left. Assisted by Désiré Doué with a cross.",
+          "min": "90'",
+          "text": "Bradley Barcola (France) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "15'",
-          "text": "Foul by Lucas Digne (France).",
+          "min": "88'",
+          "text": "Attempt missed. Jean-Philippe Mateta (France) header from very close range is too high. Assisted by Ousmane Dembélé with a cross following a corner.",
           "goal": false
         },
         {
-          "min": "15'",
-          "text": "Azzedine Ounahi (Morocco) wins a free kick on the right wing.",
-          "goal": false
-        },
-        {
-          "min": "14'",
-          "text": "Michael Olise (France) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "14'",
-          "text": "Foul by Neil El Aynaoui (Morocco).",
-          "goal": false
-        },
-        {
-          "min": "10'",
-          "text": "Attempt blocked. Désiré Doué (France) right footed shot from outside the box is blocked. Assisted by Kylian Mbappé.",
-          "goal": false
-        },
-        {
-          "min": "9'",
-          "text": "Foul by Désiré Doué (France).",
-          "goal": false
-        },
-        {
-          "min": "9'",
-          "text": "Brahim Díaz (Morocco) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "4'",
-          "text": "Attempt saved. Dayot Upamecano (France) header from very close range is saved in the centre of the goal by Yassine Bounou (Morocco). Assisted by Ousmane Dembélé with a cross.",
-          "goal": false
-        },
-        {
-          "min": "4'",
+          "min": "88'",
           "text": "Corner, France. Conceded by Yassine Bounou.",
           "goal": false
         },
         {
-          "min": "4'",
-          "text": "Attempt missed. Kylian Mbappé (France) right footed shot from outside the box is close, but misses to the left. Assisted by Désiré Doué.",
+          "min": "88'",
+          "text": "Attempt saved. Bradley Barcola (France) right footed shot from the left side of the box is saved in the bottom left corner by Yassine Bounou (Morocco).",
           "goal": false
         },
         {
-          "min": "2'",
-          "text": "Manu Koné (France) wins a free kick in the defensive half.",
+          "min": "87'",
+          "text": "Substitution, France. Malo Gusto replaces Jules Koundé.",
           "goal": false
         },
         {
-          "min": "2'",
-          "text": "Foul by Neil El Aynaoui (Morocco).",
+          "min": "86'",
+          "text": "Attempt missed. Michael Olise (France) left footed shot from the right side of the box is high and wide to the left. Assisted by Bradley Barcola following a fast break.",
           "goal": false
         },
         {
-          "min": "",
-          "text": "First Half begins.",
+          "min": "85'",
+          "text": "Substitution, Morocco. Amine Sbaï replaces Chemsdine Talbi.",
           "goal": false
         },
         {
-          "min": "",
-          "text": "Lineups are announced and players are warming up.",
+          "min": "84'",
+          "text": "Attempt missed. Neil El Aynaoui (Morocco) header from the left side of the six yard box is close, but misses to the left. Assisted by Achraf Hakimi with a cross following a corner.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Corner, Morocco. Conceded by Michael Olise.",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Attempt saved. Azzedine Ounahi (Morocco) right footed shot from outside the box is saved in the bottom left corner by Mike Maignan (France). Assisted by Achraf Hakimi.",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Achraf Hakimi (Morocco) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Foul by Adrien Rabiot (France).",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Foul by Jules Koundé (France).",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Zakaria El Ouahdi (Morocco) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Corner, France. Conceded by Issa Diop.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Foul by Warren Zaïre-Emery (France).",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Gessime Yassine (Morocco) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Substitution, France. Bradley Barcola replaces Désiré Doué.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Substitution, France. Jean-Philippe Mateta replaces Kylian Mbappé because of an injury.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Delay in match because of an injury Kylian Mbappé (France).",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Désiré Doué (France) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Foul by Gessime Yassine (Morocco).",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Substitution, Morocco. Gessime Yassine replaces Brahim Díaz.",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Substitution, Morocco. Zakaria El Ouahdi replaces Anass Salah-Eddine.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Corner, Morocco. Conceded by Dayot Upamecano.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Substitution, France. Warren Zaïre-Emery replaces Manu Koné.",
+          "goal": false
+        },
+        {
+          "min": "70'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Goal! France 2, Morocco 0. Ousmane Dembélé (France) right footed shot from outside the box to the bottom right corner. Assisted by Kylian Mbappé.",
+          "goal": true
+        },
+        {
+          "min": "63'",
+          "text": "Issa Diop (Morocco) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "63'",
+          "text": "Kylian Mbappé (France) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "63'",
+          "text": "Foul by Issa Diop (Morocco).",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Substitution, Morocco. Sofyan Amrabat replaces Ayyoub Bouaddi.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Substitution, Morocco. Soufiane Rahimi replaces Bilal El Khannouss.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Goal! France 1, Morocco 0. Kylian Mbappé (France) right footed shot from the left side of the box to the top right corner. Assisted by Désiré Doué.",
+          "goal": true
+        },
+        {
+          "min": "58'",
+          "text": "Handball by Jules Koundé (France).",
+          "goal": false
+        },
+        {
+          "min": "56'",
+          "text": "Attempt missed. Kylian Mbappé (France) right footed shot from the centre of the box is too high.",
+          "goal": false
+        },
+        {
+          "min": "55'",
+          "text": "Attempt saved. Désiré Doué (France) right footed shot from outside the box is saved in the bottom left corner by Yassine Bounou (Morocco). Assisted by Kylian Mbappé.",
+          "goal": false
+        },
+        {
+          "min": "54'",
+          "text": "Michael Olise (France) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "54'",
+          "text": "Foul by Ayyoub Bouaddi (Morocco).",
+          "goal": false
+        },
+        {
+          "min": "52'",
+          "text": "Corner, Morocco. Conceded by Michael Olise.",
+          "goal": false
+        },
+        {
+          "min": "48'",
+          "text": "Attempt blocked. Brahim Díaz (Morocco) right footed shot from outside the box is blocked. Assisted by Azzedine Ounahi.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Second Half begins France 0, Morocco 0.",
+          "goal": false
+        },
+        {
+          "min": "45'+5'",
+          "text": "First Half ends, France 0, Morocco 0.",
+          "goal": false
+        },
+        {
+          "min": "45'+5'",
+          "text": "Attempt missed. Achraf Hakimi (Morocco) right footed shot from outside the box is close, but misses to the right from a direct free kick.",
+          "goal": false
+        },
+        {
+          "min": "45'+4'",
+          "text": "Handball by Adrien Rabiot (France).",
+          "goal": false
+        },
+        {
+          "min": "45'+3'",
+          "text": "Foul by Désiré Doué (France).",
+          "goal": false
+        },
+        {
+          "min": "45'+3'",
+          "text": "Achraf Hakimi (Morocco) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "45'+2'",
+          "text": "Lucas Digne (France) hits the bar with a left footed shot from outside the box.",
+          "goal": false
+        },
+        {
+          "min": "45'+2'",
+          "text": "Attempt blocked. Michael Olise (France) left footed shot from outside the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "45'+1'",
+          "text": "Attempt blocked. Manu Koné (France) right footed shot from outside the box is blocked. Assisted by William Saliba.",
+          "goal": false
+        },
+        {
+          "min": "45'+1'",
+          "text": "Fourth official has announced 5 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "42'",
+          "text": "Adrien Rabiot (France) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "42'",
+          "text": "Foul by Azzedine Ounahi (Morocco).",
+          "goal": false
+        },
+        {
+          "min": "42'",
+          "text": "Bilal El Khannouss (Morocco) wins a free kick on the left wing.",
           "goal": false
         }
       ],
@@ -87289,53 +87573,71 @@
         {
           "label": "Total Shots",
           "home": {
-            "name": "O. Dembélé",
-            "num": "7",
+            "name": "K. Mbappé",
+            "num": "10",
             "pos": "F",
-            "value": "2"
+            "value": "4"
+          },
+          "away": {
+            "name": "N. El Aynaoui",
+            "num": "24",
+            "pos": "M",
+            "value": "1"
           }
         },
         {
           "label": "Accurate Passes",
           "home": {
-            "name": "W. Saliba",
-            "num": "17",
+            "name": "D. Upamecano",
+            "num": "4",
             "pos": "D",
-            "value": "25"
+            "value": "58"
           },
           "away": {
-            "name": "A. Bouaddi",
-            "num": "6",
+            "name": "A. Ounahi",
+            "num": "8",
             "pos": "M",
-            "value": "13"
+            "value": "59"
           }
         },
         {
           "label": "Defensive Interventions",
           "home": {
-            "name": "L. Digne",
-            "num": "3",
+            "name": "J. Koundé",
+            "num": "5",
             "pos": "D",
-            "value": "3"
+            "value": "8"
           },
           "away": {
-            "name": "B. Díaz",
-            "num": "10",
-            "pos": "M",
-            "value": "4"
+            "name": "I. Diop",
+            "num": "14",
+            "pos": "D",
+            "value": "10"
           }
         },
         {
           "label": "Saves",
+          "home": {
+            "name": "M. Maignan",
+            "num": "16",
+            "pos": "G",
+            "value": "1"
+          },
           "away": {
             "name": "Y. Bounou",
             "num": "1",
             "pos": "G",
-            "value": "1"
+            "value": "5"
           }
         }
       ],
-      "highlight": null,
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0709/dm_260709_COM_SOC_NEWS_Fans_in_Paris_and_Casablanca_react_to_Mbappe_penalty_miss_2026_7_9/dm_260709_COM_SOC_NEWS_Fans_in_Paris_and_Casablanca_react_to_Mbappe_penalty_miss_2026_7_9.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49318102/fans-paris-casablanca-react-mbappe-penalty-miss",
+        "headline": "Fans in Paris and Casablanca react to Mbappe penalty miss",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0709/dm_260709_COM_SOC_NEWS_Fans_in_Paris_and_Casablanca_react_to_Mbappe_penalty_miss_2026_7_9/dm_260709_COM_SOC_NEWS_Fans_in_Paris_and_Casablanca_react_to_Mbappe_penalty_miss_2026_7_9_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0709/dm_260709_COM_SOC_NEWS_Fans_in_Paris_and_Casablanca_react_to_Mbappe_penalty_miss_2026_7_9/dm_260709_COM_SOC_NEWS_Fans_in_Paris_and_Casablanca_react_to_Mbappe_penalty_miss_2026_7_9/playlist.m3u8"
+      },
       "final": false,
       "dv": 5
     }

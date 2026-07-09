@@ -1,11 +1,18 @@
 {
-  "lastUpdated": "2026-07-09T16:45:03.274Z",
+  "lastUpdated": "2026-07-09T18:30:31.523Z",
   "source": "ESPN",
   "articles": [
     {
+      "headline": "Keir Starmer's England intervention 'more egregious' than Balogun reversal - U.S. official",
+      "description": "Sir Keir Starmer's intervention on the Mexico v England kick-off time was \"far more egregious\" than United States President Donald Trump lobbying FIFA over Folarin Balogun's red card, the White House's top World Cup exec",
+      "published": "2026-07-09T18:09:23Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49316584/keir-starmer-england-mexico-intervention-world-cup-egregious-balogun-white-house",
+      "image": "https://a.espncdn.com/photo/2026/0709/r1686934_1296x729_16-9.jpg"
+    },
+    {
       "headline": "England's Jarell Quansah suspended for two World Cup matches after Mexico red card",
-      "description": "England full-back Jarell Quansah has been suspended for two matches after receiving a red card in his side's World Cup round-of-16 win over Mexico.",
-      "published": "2026-07-09T16:40:54Z",
+      "description": "England fullback Jarell Quansah has been suspended for two matches after receiving a red card in his side's World Cup round-of-16 win over Mexico.",
+      "published": "2026-07-09T18:07:03Z",
       "link": "https://www.espn.com/soccer/story/_/id/49315827/england-jarell-quansah-suspended-two-world-cup-matches-mexico-red",
       "image": "https://a.espncdn.com/photo/2026/0706/r1685486_1296x729_16-9.jpg"
     },
@@ -26,7 +33,7 @@
     {
       "headline": "U.S. star Christian Pulisic suffered microfracture vs. Belgium",
       "description": "USMNT and AC Milan attacker Christian Pulisic sustained a bone bruise and microfracture in his lower leg and will be sidelined for several weeks, U.S. Soccer confirmed on Thursday.",
-      "published": "2026-07-09T16:42:42Z",
+      "published": "2026-07-09T17:01:51Z",
       "link": "https://www.espn.com/soccer/story/_/id/49315041/usa-christian-pulisic-suffered-microfracture-belgium-sources",
       "image": "https://a.espncdn.com/photo/2026/0707/r1685654_1296x729_16-9.jpg"
     },
@@ -36,13 +43,6 @@
       "published": "2026-07-09T15:07:30Z",
       "link": "https://www.espn.com/soccer/story/_/id/49314998/jorge-jesus-reaches-agreement-become-portugal-head-coach-sources",
       "image": "https://a.espncdn.com/photo/2026/0708/r1686349_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "How do Morocco stop France's unparalleled attack?",
-      "description": "How do Morocco stop France's unparalleled attack?",
-      "published": "2026-07-09T14:49:47Z",
-      "link": "https://www.espn.com/video/clip/_/id/49314997/how-do-morocco-stop-france-unparalleled-attack",
-      "image": "https://a.espncdn.com/media/motion/2026/0709/dm_260709_How_do_Morocco_stop_Frances_unparalleled_attack3F/dm_260709_How_do_Morocco_stop_Frances_unparalleled_attack3F.jpg"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-10T19:24:40.032Z",
+  "lastUpdated": "2026-07-10T20:49:15.865Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -87645,67 +87645,146 @@
       "venue": "SoFi Stadium",
       "stats": {
         "home": {
-          "foulsCommitted": "2",
-          "yellowCards": "0",
+          "foulsCommitted": "11",
+          "yellowCards": "1",
           "redCards": "0",
-          "offsides": "1",
-          "wonCorners": "0",
-          "saves": "0",
-          "possessionPct": "64.1",
-          "totalShots": "3",
-          "shotsOnTarget": "0",
-          "shotPct": "0.0",
+          "offsides": "3",
+          "wonCorners": "5",
+          "saves": "1",
+          "possessionPct": "67.7",
+          "totalShots": "14",
+          "shotsOnTarget": "5",
+          "shotPct": "0.4",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "148",
-          "totalPasses": "169",
+          "accuratePasses": "546",
+          "totalPasses": "603",
           "passPct": "0.9",
-          "accurateCrosses": "1",
-          "totalCrosses": "3",
-          "crossPct": "0.3",
-          "totalLongBalls": "11",
-          "accurateLongBalls": "7",
+          "accurateCrosses": "2",
+          "totalCrosses": "16",
+          "crossPct": "0.1",
+          "totalLongBalls": "31",
+          "accurateLongBalls": "19",
           "longballPct": "0.6",
-          "blockedShots": "2",
-          "effectiveTackles": "2",
-          "totalTackles": "5",
-          "tacklePct": "0.4",
-          "interceptions": "2",
-          "effectiveClearance": "2",
-          "totalClearance": "2"
+          "blockedShots": "5",
+          "effectiveTackles": "5",
+          "totalTackles": "11",
+          "tacklePct": "0.5",
+          "interceptions": "4",
+          "effectiveClearance": "10",
+          "totalClearance": "10"
         },
         "away": {
-          "foulsCommitted": "3",
-          "yellowCards": "0",
+          "foulsCommitted": "14",
+          "yellowCards": "1",
           "redCards": "0",
-          "offsides": "0",
-          "wonCorners": "0",
-          "saves": "0",
-          "possessionPct": "35.9",
-          "totalShots": "1",
-          "shotsOnTarget": "0",
-          "shotPct": "0.0",
+          "offsides": "1",
+          "wonCorners": "1",
+          "saves": "4",
+          "possessionPct": "32.3",
+          "totalShots": "5",
+          "shotsOnTarget": "2",
+          "shotPct": "0.4",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "76",
-          "totalPasses": "95",
+          "accuratePasses": "226",
+          "totalPasses": "286",
           "passPct": "0.8",
-          "accurateCrosses": "0",
-          "totalCrosses": "2",
-          "crossPct": "0.0",
-          "totalLongBalls": "13",
-          "accurateLongBalls": "5",
-          "longballPct": "0.4",
-          "blockedShots": "1",
-          "effectiveTackles": "1",
-          "totalTackles": "1",
-          "tacklePct": "1.0",
-          "interceptions": "5",
-          "effectiveClearance": "9",
-          "totalClearance": "9"
+          "accurateCrosses": "2",
+          "totalCrosses": "8",
+          "crossPct": "0.3",
+          "totalLongBalls": "41",
+          "accurateLongBalls": "19",
+          "longballPct": "0.5",
+          "blockedShots": "2",
+          "effectiveTackles": "5",
+          "totalTackles": "9",
+          "tacklePct": "0.6",
+          "interceptions": "9",
+          "effectiveClearance": "28",
+          "totalClearance": "28"
         }
       },
-      "events": [],
+      "events": [
+        {
+          "kind": "Goal",
+          "min": "30'",
+          "side": "home",
+          "player": "Goal! Spain 1, Belgium 0. Fabián Ruiz"
+        },
+        {
+          "kind": "Goal - Header",
+          "min": "41'",
+          "side": "away",
+          "player": "Goal! Spain 1, Belgium 1. Charles De Ketelaere"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "43'",
+          "side": "home",
+          "player": "Pau Cubarsí"
+        },
+        {
+          "kind": "Substitution",
+          "min": "55'",
+          "side": "home",
+          "player": "Substitution, Spain. Ferran Torres replaces Álex Baena."
+        },
+        {
+          "kind": "Substitution",
+          "min": "55'",
+          "side": "home",
+          "player": "Substitution, Spain. Pedri replaces Fabián Ruiz."
+        },
+        {
+          "kind": "Substitution",
+          "min": "60'",
+          "side": "away",
+          "player": "Substitution, Belgium. Romelu Lukaku replaces Hans Vanaken."
+        },
+        {
+          "kind": "Substitution",
+          "min": "60'",
+          "side": "away",
+          "player": "Substitution, Belgium. Axel Witsel replaces Leandro Trossard."
+        },
+        {
+          "kind": "Substitution",
+          "min": "61'",
+          "side": "away",
+          "player": "Substitution, Belgium. Joaquin Seys replaces Maxim De Cuyper."
+        },
+        {
+          "kind": "Substitution",
+          "min": "71'",
+          "side": "away",
+          "player": "Substitution, Belgium. Senne Lammens replaces Thibaut Courtois because of an injury."
+        },
+        {
+          "kind": "Substitution",
+          "min": "79'",
+          "side": "home",
+          "player": "Substitution, Spain. Nico Williams replaces Mikel Oyarzabal."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "85'",
+          "side": "away",
+          "player": "Kevin De Bruyne"
+        },
+        {
+          "kind": "Substitution",
+          "min": "86'",
+          "side": "away",
+          "player": "Substitution, Belgium. Alexis Saelemaekers replaces Kevin De Bruyne."
+        },
+        {
+          "kind": "Substitution",
+          "min": "86'",
+          "side": "home",
+          "player": "Substitution, Spain. Mikel Merino replaces Dani Olmo."
+        }
+      ],
       "lineups": {
         "home": [
           {
@@ -88067,103 +88146,303 @@
       },
       "commentary": [
         {
-          "min": "23'",
-          "text": "Delay in match for a drinks break.",
+          "min": "86'",
+          "text": "Substitution, Spain. Mikel Merino replaces Dani Olmo.",
           "goal": false
         },
         {
-          "min": "22'",
-          "text": "Mikel Oyarzabal (Spain) wins a free kick in the defensive half.",
+          "min": "86'",
+          "text": "Substitution, Belgium. Alexis Saelemaekers replaces Kevin De Bruyne.",
           "goal": false
         },
         {
-          "min": "22'",
-          "text": "Foul by Nathan Ngoy (Belgium).",
+          "min": "85'",
+          "text": "Kevin De Bruyne (Belgium) is shown the yellow card for a bad foul.",
           "goal": false
         },
         {
-          "min": "21'",
-          "text": "Attempt missed. Lamine Yamal (Spain) left footed shot from outside the box is close, but misses to the left. Assisted by Mikel Oyarzabal.",
+          "min": "85'",
+          "text": "Ferran Torres (Spain) wins a free kick in the attacking half.",
           "goal": false
         },
         {
-          "min": "19'",
-          "text": "Foul by Lamine Yamal (Spain).",
+          "min": "85'",
+          "text": "Foul by Kevin De Bruyne (Belgium).",
           "goal": false
         },
         {
-          "min": "19'",
-          "text": "Brandon Mechele (Belgium) wins a free kick in the defensive half.",
+          "min": "84'",
+          "text": "Attempt blocked. Kevin De Bruyne (Belgium) left footed shot from more than 35 yards is blocked.",
           "goal": false
         },
         {
-          "min": "18'",
-          "text": "Pedro Porro (Spain) wins a free kick in the defensive half.",
+          "min": "82'",
+          "text": "Pau Cubarsí (Spain) wins a free kick on the right wing.",
           "goal": false
         },
         {
-          "min": "18'",
-          "text": "Foul by Maxim De Cuyper (Belgium).",
-          "goal": false
-        },
-        {
-          "min": "15'",
-          "text": "Attempt blocked. Charles De Ketelaere (Belgium) left footed shot from the right side of the box is blocked. Assisted by Jérémy Doku.",
-          "goal": false
-        },
-        {
-          "min": "13'",
-          "text": "Attempt blocked. Álex Baena (Spain) right footed shot from the centre of the box is blocked. Assisted by Pau Cubarsí with a through ball.",
-          "goal": false
-        },
-        {
-          "min": "11'",
-          "text": "Foul by Pedro Porro (Spain).",
-          "goal": false
-        },
-        {
-          "min": "11'",
-          "text": "Jérémy Doku (Belgium) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "10'",
-          "text": "Attempt blocked. Rodri (Spain) right footed shot from the centre of the box is blocked. Assisted by Fabián Ruiz with a cross.",
-          "goal": false
-        },
-        {
-          "min": "9'",
-          "text": "Lamine Yamal (Spain) wins a free kick on the left wing.",
-          "goal": false
-        },
-        {
-          "min": "9'",
-          "text": "Foul by Leandro Trossard (Belgium).",
-          "goal": false
-        },
-        {
-          "min": "3'",
-          "text": "Offside, Spain. Marc Cucurella is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "2'",
+          "min": "82'",
           "text": "Foul by Nicolas Raskin (Belgium).",
           "goal": false
         },
         {
-          "min": "2'",
-          "text": "Lamine Yamal (Spain) wins a free kick in the defensive half.",
+          "min": "79'",
+          "text": "Substitution, Spain. Nico Williams replaces Mikel Oyarzabal.",
           "goal": false
         },
         {
-          "min": "",
-          "text": "First Half begins.",
+          "min": "79'",
+          "text": "Foul by Pedro Porro (Spain).",
           "goal": false
         },
         {
-          "min": "",
-          "text": "Lineups are announced and players are warming up.",
+          "min": "79'",
+          "text": "Jérémy Doku (Belgium) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Foul by Pedro Porro (Spain).",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Nicolas Raskin (Belgium) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Pedri (Spain) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Foul by Axel Witsel (Belgium).",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Attempt blocked. Lamine Yamal (Spain) left footed shot from the right side of the box is blocked. Assisted by Dani Olmo.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Substitution, Belgium. Senne Lammens replaces Thibaut Courtois because of an injury.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Offside, Spain. Marc Cucurella is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "70'",
+          "text": "Pedro Porro (Spain) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "70'",
+          "text": "Foul by Jérémy Doku (Belgium).",
+          "goal": false
+        },
+        {
+          "min": "70'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Delay in match because of an injury Thibaut Courtois (Belgium).",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Foul by Pedro Porro (Spain).",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Jérémy Doku (Belgium) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Dani Olmo (Spain) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Foul by Nicolas Raskin (Belgium).",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Corner, Spain. Conceded by Nathan Ngoy.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Attempt saved. Mikel Oyarzabal (Spain) right footed shot from the right side of the six yard box is saved in the bottom right corner by Thibaut Courtois (Belgium).",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Attempt saved. Kevin De Bruyne (Belgium) right footed shot from the centre of the box is saved in the centre of the goal by Unai Simón (Spain).",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Attempt saved. Lamine Yamal (Spain) left footed shot from outside the box is saved in the bottom left corner by Thibaut Courtois (Belgium). Assisted by Mikel Oyarzabal.",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Substitution, Belgium. Joaquin Seys replaces Maxim De Cuyper.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Substitution, Belgium. Axel Witsel replaces Leandro Trossard.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Substitution, Belgium. Romelu Lukaku replaces Hans Vanaken.",
+          "goal": false
+        },
+        {
+          "min": "59'",
+          "text": "Foul by Lamine Yamal (Spain).",
+          "goal": false
+        },
+        {
+          "min": "59'",
+          "text": "Jérémy Doku (Belgium) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "55'",
+          "text": "Substitution, Spain. Pedri replaces Fabián Ruiz.",
+          "goal": false
+        },
+        {
+          "min": "55'",
+          "text": "Substitution, Spain. Ferran Torres replaces Álex Baena.",
+          "goal": false
+        },
+        {
+          "min": "55'",
+          "text": "Attempt missed. Maxim De Cuyper (Belgium) left footed shot from the left side of the box is close, but misses to the left.",
+          "goal": false
+        },
+        {
+          "min": "53'",
+          "text": "Attempt missed. Dani Olmo (Spain) right footed shot from outside the box is high and wide to the right. Assisted by Pau Cubarsí following a corner.",
+          "goal": false
+        },
+        {
+          "min": "52'",
+          "text": "Corner, Spain. Conceded by Brandon Mechele.",
+          "goal": false
+        },
+        {
+          "min": "52'",
+          "text": "Attempt blocked. Lamine Yamal (Spain) left footed shot from the centre of the box is blocked. Assisted by Marc Cucurella.",
+          "goal": false
+        },
+        {
+          "min": "50'",
+          "text": "Álex Baena (Spain) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "50'",
+          "text": "Foul by Nicolas Raskin (Belgium).",
+          "goal": false
+        },
+        {
+          "min": "50'",
+          "text": "Corner, Belgium. Conceded by Aymeric Laporte.",
+          "goal": false
+        },
+        {
+          "min": "49'",
+          "text": "Fabián Ruiz (Spain) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "49'",
+          "text": "Foul by Kevin De Bruyne (Belgium).",
+          "goal": false
+        },
+        {
+          "min": "48'",
+          "text": "Offside, Spain. Lamine Yamal is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "47'",
+          "text": "Dani Olmo (Spain) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "47'",
+          "text": "Foul by Brandon Mechele (Belgium).",
+          "goal": false
+        },
+        {
+          "min": "46'",
+          "text": "Foul by Marc Cucurella (Spain).",
+          "goal": false
+        },
+        {
+          "min": "46'",
+          "text": "Leandro Trossard (Belgium) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Second Half begins Spain 1, Belgium 1.",
+          "goal": false
+        },
+        {
+          "min": "45'+6'",
+          "text": "First Half ends, Spain 1, Belgium 1.",
+          "goal": false
+        },
+        {
+          "min": "45'+5'",
+          "text": "Foul by Mikel Oyarzabal (Spain).",
+          "goal": false
+        },
+        {
+          "min": "45'+5'",
+          "text": "Nicolas Raskin (Belgium) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "45'+4'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "45'+3'",
+          "text": "Delay in match because of an injury Dani Olmo (Spain).",
+          "goal": false
+        },
+        {
+          "min": "45'+2'",
+          "text": "Attempt blocked. Fabián Ruiz (Spain) left footed shot from the centre of the box is blocked. Assisted by Rodri.",
           "goal": false
         }
       ],
@@ -88174,13 +88453,13 @@
             "name": "L. Yamal",
             "num": "19",
             "pos": "F",
-            "value": "1"
+            "value": "6"
           },
           "away": {
             "name": "C. De Ketelaere",
             "num": "17",
             "pos": "F",
-            "value": "1"
+            "value": "2"
           }
         },
         {
@@ -88189,13 +88468,13 @@
             "name": "Rodri",
             "num": "16",
             "pos": "M",
-            "value": "29"
+            "value": "88"
           },
           "away": {
             "name": "N. Ngoy",
             "num": "25",
             "pos": "D",
-            "value": "14"
+            "value": "36"
           }
         },
         {
@@ -88204,17 +88483,38 @@
             "name": "P. Porro",
             "num": "12",
             "pos": "D",
-            "value": "3"
+            "value": "7"
           },
           "away": {
-            "name": "N. Raskin",
+            "name": "N. Ngoy",
+            "num": "25",
+            "pos": "D",
+            "value": "13"
+          }
+        },
+        {
+          "label": "Saves",
+          "home": {
+            "name": "U. Simón",
             "num": "23",
-            "pos": "M",
-            "value": "6"
+            "pos": "G",
+            "value": "1"
+          },
+          "away": {
+            "name": "T. Courtois",
+            "num": "1",
+            "pos": "G",
+            "value": "4"
           }
         }
       ],
-      "highlight": null,
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0710/dm_260710_COM_SOC_Analysis_Spanish_fans_CELEBRATE_RuizE28099s_goal_for_Spain_vs_Belgium_GLOBAL_2026-07-10/dm_260710_COM_SOC_Analysis_Spanish_fans_CELEBRATE_RuizE28099s_goal_for_Spain_vs_Belgium_GLOBAL_2026-07-10.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49327064/spanish-fans-celebrate-ruiz-goal-spain-vs-belgium",
+        "headline": "Spanish fans celebrate Ruiz's goal for Spain vs. Belgium",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0710/dm_260710_COM_SOC_Analysis_Spanish_fans_CELEBRATE_RuizE28099s_goal_for_Spain_vs_Belgium_GLOBAL_2026-07-10/dm_260710_COM_SOC_Analysis_Spanish_fans_CELEBRATE_RuizE28099s_goal_for_Spain_vs_Belgium_GLOBAL_2026-07-10_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0710/dm_260710_COM_SOC_Analysis_Spanish_fans_CELEBRATE_RuizE28099s_goal_for_Spain_vs_Belgium_GLOBAL_2026-07-10/dm_260710_COM_SOC_Analysis_Spanish_fans_CELEBRATE_RuizE28099s_goal_for_Spain_vs_Belgium_GLOBAL_2026-07-10/playlist.m3u8"
+      },
       "final": false,
       "dv": 5
     }

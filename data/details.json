@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-10T17:54:25.847Z",
+  "lastUpdated": "2026-07-10T19:24:40.032Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -87639,6 +87639,583 @@
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0709/dm_260709_France_fans_celebrate_as_Mbappe_scores_first_goal_vs_Morocco/dm_260709_France_fans_celebrate_as_Mbappe_scores_first_goal_vs_Morocco/playlist.m3u8"
       },
       "final": true,
+      "dv": 5
+    },
+    "760511": {
+      "venue": "SoFi Stadium",
+      "stats": {
+        "home": {
+          "foulsCommitted": "2",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "1",
+          "wonCorners": "0",
+          "saves": "0",
+          "possessionPct": "64.1",
+          "totalShots": "3",
+          "shotsOnTarget": "0",
+          "shotPct": "0.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "148",
+          "totalPasses": "169",
+          "passPct": "0.9",
+          "accurateCrosses": "1",
+          "totalCrosses": "3",
+          "crossPct": "0.3",
+          "totalLongBalls": "11",
+          "accurateLongBalls": "7",
+          "longballPct": "0.6",
+          "blockedShots": "2",
+          "effectiveTackles": "2",
+          "totalTackles": "5",
+          "tacklePct": "0.4",
+          "interceptions": "2",
+          "effectiveClearance": "2",
+          "totalClearance": "2"
+        },
+        "away": {
+          "foulsCommitted": "3",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "0",
+          "saves": "0",
+          "possessionPct": "35.9",
+          "totalShots": "1",
+          "shotsOnTarget": "0",
+          "shotPct": "0.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "76",
+          "totalPasses": "95",
+          "passPct": "0.8",
+          "accurateCrosses": "0",
+          "totalCrosses": "2",
+          "crossPct": "0.0",
+          "totalLongBalls": "13",
+          "accurateLongBalls": "5",
+          "longballPct": "0.4",
+          "blockedShots": "1",
+          "effectiveTackles": "1",
+          "totalTackles": "1",
+          "tacklePct": "1.0",
+          "interceptions": "5",
+          "effectiveClearance": "9",
+          "totalClearance": "9"
+        }
+      },
+      "events": [],
+      "lineups": {
+        "home": [
+          {
+            "name": "Unai Simón",
+            "short": "U. Simón",
+            "num": "23",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Aymeric Laporte",
+            "short": "A. Laporte",
+            "num": "14",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Pau Cubarsí",
+            "short": "P. Cubarsí",
+            "num": "22",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Marc Cucurella",
+            "short": "M. Cucurella",
+            "num": "24",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Pedro Porro",
+            "short": "P. Porro",
+            "num": "12",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Dani Olmo",
+            "short": "D. Olmo",
+            "num": "10",
+            "pos": "AM",
+            "place": "10"
+          },
+          {
+            "name": "Fabián Ruiz",
+            "short": "F. Ruiz",
+            "num": "8",
+            "pos": "LM",
+            "place": "4"
+          },
+          {
+            "name": "Rodri",
+            "short": "Rodri",
+            "num": "16",
+            "pos": "RM",
+            "place": "8"
+          },
+          {
+            "name": "Mikel Oyarzabal",
+            "short": "M. Oyarzabal",
+            "num": "21",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Álex Baena",
+            "short": "Á. Baena",
+            "num": "15",
+            "pos": "AM-L",
+            "place": "11"
+          },
+          {
+            "name": "Lamine Yamal",
+            "short": "L. Yamal",
+            "num": "19",
+            "pos": "AM-R",
+            "place": "7"
+          }
+        ],
+        "away": [
+          {
+            "name": "Thibaut Courtois",
+            "short": "T. Courtois",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Brandon Mechele",
+            "short": "B. Mechele",
+            "num": "4",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Nathan Ngoy",
+            "short": "N. Ngoy",
+            "num": "25",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Maxim De Cuyper",
+            "short": "M. De Cuyper",
+            "num": "5",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Timothy Castagne",
+            "short": "T. Castagne",
+            "num": "21",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Kevin De Bruyne",
+            "short": "K. De Bruyne",
+            "num": "7",
+            "pos": "AM",
+            "place": "10"
+          },
+          {
+            "name": "Nicolas Raskin",
+            "short": "N. Raskin",
+            "num": "23",
+            "pos": "LM",
+            "place": "4"
+          },
+          {
+            "name": "Hans Vanaken",
+            "short": "H. Vanaken",
+            "num": "20",
+            "pos": "RM",
+            "place": "8"
+          },
+          {
+            "name": "Charles De Ketelaere",
+            "short": "C. De Ketelaere",
+            "num": "17",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Jérémy Doku",
+            "short": "J. Doku",
+            "num": "11",
+            "pos": "AM-L",
+            "place": "11"
+          },
+          {
+            "name": "Leandro Trossard",
+            "short": "L. Trossard",
+            "num": "10",
+            "pos": "AM-R",
+            "place": "7"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Nico Williams",
+            "short": "N. Williams",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Yéremy Pino",
+            "short": "Y. Pino",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Alejandro Grimaldo",
+            "short": "A. Grimaldo",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Víctor Muñoz",
+            "short": "V. Muñoz",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mikel Merino",
+            "short": "M. Merino",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Joan García",
+            "short": "J. García",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Eric García",
+            "short": "E. García",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Borja Iglesias",
+            "short": "B. Iglesias",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gavi",
+            "short": "Gavi",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "David Raya",
+            "short": "D. Raya",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Marc Pubill",
+            "short": "M. Pubill",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Pedri",
+            "short": "Pedri",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Martín Zubimendi",
+            "short": "M. Zubimendi",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ferran Torres",
+            "short": "F. Torres",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Marcos Llorente",
+            "short": "M. Llorente",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Alexis Saelemaekers",
+            "short": "A. Saelemaekers",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Koni De Winter",
+            "short": "K. De Winter",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Joaquin Seys",
+            "short": "J. Seys",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Diego Moreira",
+            "short": "D. Moreira",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Senne Lammens",
+            "short": "S. Lammens",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Dodi Lukébakio",
+            "short": "D. Lukébakio",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Arthur Theate",
+            "short": "A. Theate",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Matias Fernandez-Pardo",
+            "short": "M. Fernandez-Pardo",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Thomas Meunier",
+            "short": "T. Meunier",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Axel Witsel",
+            "short": "A. Witsel",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mike Penders",
+            "short": "M. Penders",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Romelu Lukaku",
+            "short": "R. Lukaku",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-2-3-1",
+        "away": "4-2-3-1"
+      },
+      "commentary": [
+        {
+          "min": "23'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "22'",
+          "text": "Mikel Oyarzabal (Spain) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "22'",
+          "text": "Foul by Nathan Ngoy (Belgium).",
+          "goal": false
+        },
+        {
+          "min": "21'",
+          "text": "Attempt missed. Lamine Yamal (Spain) left footed shot from outside the box is close, but misses to the left. Assisted by Mikel Oyarzabal.",
+          "goal": false
+        },
+        {
+          "min": "19'",
+          "text": "Foul by Lamine Yamal (Spain).",
+          "goal": false
+        },
+        {
+          "min": "19'",
+          "text": "Brandon Mechele (Belgium) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "18'",
+          "text": "Pedro Porro (Spain) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "18'",
+          "text": "Foul by Maxim De Cuyper (Belgium).",
+          "goal": false
+        },
+        {
+          "min": "15'",
+          "text": "Attempt blocked. Charles De Ketelaere (Belgium) left footed shot from the right side of the box is blocked. Assisted by Jérémy Doku.",
+          "goal": false
+        },
+        {
+          "min": "13'",
+          "text": "Attempt blocked. Álex Baena (Spain) right footed shot from the centre of the box is blocked. Assisted by Pau Cubarsí with a through ball.",
+          "goal": false
+        },
+        {
+          "min": "11'",
+          "text": "Foul by Pedro Porro (Spain).",
+          "goal": false
+        },
+        {
+          "min": "11'",
+          "text": "Jérémy Doku (Belgium) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "10'",
+          "text": "Attempt blocked. Rodri (Spain) right footed shot from the centre of the box is blocked. Assisted by Fabián Ruiz with a cross.",
+          "goal": false
+        },
+        {
+          "min": "9'",
+          "text": "Lamine Yamal (Spain) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "9'",
+          "text": "Foul by Leandro Trossard (Belgium).",
+          "goal": false
+        },
+        {
+          "min": "3'",
+          "text": "Offside, Spain. Marc Cucurella is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "2'",
+          "text": "Foul by Nicolas Raskin (Belgium).",
+          "goal": false
+        },
+        {
+          "min": "2'",
+          "text": "Lamine Yamal (Spain) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "First Half begins.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "Lineups are announced and players are warming up.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "L. Yamal",
+            "num": "19",
+            "pos": "F",
+            "value": "1"
+          },
+          "away": {
+            "name": "C. De Ketelaere",
+            "num": "17",
+            "pos": "F",
+            "value": "1"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "Rodri",
+            "num": "16",
+            "pos": "M",
+            "value": "29"
+          },
+          "away": {
+            "name": "N. Ngoy",
+            "num": "25",
+            "pos": "D",
+            "value": "14"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "P. Porro",
+            "num": "12",
+            "pos": "D",
+            "value": "3"
+          },
+          "away": {
+            "name": "N. Raskin",
+            "num": "23",
+            "pos": "M",
+            "value": "6"
+          }
+        }
+      ],
+      "highlight": null,
+      "final": false,
       "dv": 5
     }
   }

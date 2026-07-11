@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-11T20:34:07.764Z",
+  "lastUpdated": "2026-07-11T21:29:28.094Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -1383,16 +1383,20 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 310,
-        "away": -120,
+        "home": 330,
+        "away": -125,
         "draw": 280,
         "total": 2.5,
         "book": "DraftKings"
       },
-      "status": "scheduled",
+      "status": "live",
       "id": "760512",
       "date": "2026-07-11T21:00Z",
-      "venue": "Hard Rock Stadium"
+      "venue": "Hard Rock Stadium",
+      "clock": 1680,
+      "displayClock": "28'",
+      "detail": "28'",
+      "period": 1
     },
     {
       "stage": "qf",

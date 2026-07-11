@@ -1,13 +1,34 @@
 {
-  "lastUpdated": "2026-07-11T21:29:28.172Z",
+  "lastUpdated": "2026-07-11T22:26:43.981Z",
   "source": "ESPN",
   "articles": [
     {
-      "headline": "World Cup live updates: Norway take on England in quarterfinal clash",
+      "headline": "World Cup live updates: Second half underway as England and Norway are level",
       "description": "Enjoy all the updates from Saturday's match as Norway take on England in Miami Gardens in 2026 FIFA World Cup quarterfinal action.",
-      "published": "2026-07-11T21:09:43Z",
+      "published": "2026-07-11T22:24:41Z",
       "link": "https://www.espn.com/soccer/story/_/id/49329265/world-cup-live-updates-norway-take-england-quarterfinal-clash",
       "image": "https://a.espncdn.com/photo/2026/0711/r1687924_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "World Cup daily: Free England-Norway ticket in Haaland look-alike contest",
+      "description": "Enjoy all the features, news, video analysis and color from around the 2026 FIFA World Cup as we have our final two quarterfinals.",
+      "published": "2026-07-11T22:24:47Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49329226/world-cup-daily-england-norway-argentina-switzerland-quarterfinals-erling-haaland",
+      "image": "https://a.espncdn.com/photo/2026/0711/r1687666_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Fans in London go wild as Jude Bellingham equalises for England",
+      "description": "Fans in London go wild as Jude Bellingham equalises for England",
+      "published": "2026-07-11T22:01:21Z",
+      "link": "https://www.espn.com/video/clip/_/id/49337390/fans-london-go-wild-jude-bellingham-equalises-england",
+      "image": "https://a.espncdn.com/media/motion/2026/0711/dm_260711_Fans_in_London_go_wild_as_Jude_Bellingham_equalises_for_England/dm_260711_Fans_in_London_go_wild_as_Jude_Bellingham_equalises_for_England.jpg"
+    },
+    {
+      "headline": "Crazy scenes in Oslo has Norway take the lead vs. England",
+      "description": "Crazy scenes in Oslo has Norway take the lead vs. England",
+      "published": "2026-07-11T21:51:16Z",
+      "link": "https://www.espn.com/video/clip/_/id/49337310/crazy-scenes-oslo-norway-take-lead-vs-england",
+      "image": "https://a.espncdn.com/media/motion/2026/0711/dm_260711_COM_SOC_Fans_Crazy_scenes_in_Olso_has_Norway_take_the_lead_vs_England_GLOBAL_2026-07-11/dm_260711_COM_SOC_Fans_Crazy_scenes_in_Olso_has_Norway_take_the_lead_vs_England_GLOBAL_2026-07-11.jpg"
     },
     {
       "headline": "Jordan Pickford breaks Peter Shilton's record for most England World Cup appearances",
@@ -17,32 +38,11 @@
       "image": "https://a.espncdn.com/photo/2026/0711/r1687929_1296x729_16-9.jpg"
     },
     {
-      "headline": "World Cup daily: Free England-Norway ticket in Haaland look-alike contest",
-      "description": "Enjoy all the features, news, video analysis and color from around the 2026 FIFA World Cup as we have our final two quarterfinals.",
-      "published": "2026-07-11T21:00:10Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49329226/world-cup-daily-england-norway-argentina-switzerland-quarterfinals-erling-haaland",
-      "image": "https://a.espncdn.com/photo/2026/0711/r1687666_1296x729_16-9.jpg"
-    },
-    {
       "headline": "Jordan Henderson: Breaking arm in England celebrations 'was not my finest hour'",
       "description": "England midfielder Jordan Henderson joked it was \"not my finest hour\" after he suffered a broken arm while celebrating the World Cup round of 16 win over Mexico last weekend.",
       "published": "2026-07-11T21:14:15Z",
       "link": "https://www.espn.com/soccer/story/_/id/49336872/jordan-henderson-england-world-cup-2026",
       "image": "https://a.espncdn.com/photo/2026/0711/r1687916_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Ezri Konsa starts for England at right-back against Norway as John Stones, Noni Madueke come into team",
-      "description": "England have made two changes and a further positional switch for their World Cup quarterfinal with Norway in Miami on Saturday.",
-      "published": "2026-07-11T19:58:34Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49335655/england-world-cup-norway-team-news-sources-noni-madueke-marc-guehi-quarterfinal",
-      "image": "https://a.espncdn.com/photo/2026/0711/r1687880_2_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Jürgen Klopp reaches agreement on 'key points' of deal to become new Germany head coach",
-      "description": "Jürgen Klopp has reached an agreement on the \"key points\" of a deal to become the new Germany head coach, the German football federation has said.",
-      "published": "2026-07-11T20:54:11Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49334704/jurgen-klopp-germany-world-cup-julian-nagelsmann",
-      "image": "https://a.espncdn.com/photo/2026/0703/r1683833_1296x729_16-9.jpg"
     }
   ]
 }

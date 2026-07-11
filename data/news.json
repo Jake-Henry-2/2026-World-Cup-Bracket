@@ -1,18 +1,32 @@
 {
-  "lastUpdated": "2026-07-11T22:26:43.981Z",
+  "lastUpdated": "2026-07-11T23:28:54.858Z",
   "source": "ESPN",
   "articles": [
     {
-      "headline": "World Cup live updates: Second half underway as England and Norway are level",
+      "headline": "The scenes in London as Jude Bellingham gives England the lead",
+      "description": "The scenes in London as Jude Bellingham gives England the lead",
+      "published": "2026-07-11T23:23:36Z",
+      "link": "https://www.espn.com/video/clip/_/id/49337986/the-scenes-london-jude-bellingham-gives-england-lead",
+      "image": "https://a.espncdn.com/media/motion/2026/0711/dm_260711_The_scenes_in_London_as_Jude_Bellingham_gives_England_the_lead/dm_260711_The_scenes_in_London_as_Jude_Bellingham_gives_England_the_lead.jpg"
+    },
+    {
+      "headline": "England and Norway fans react to Heggem's disallowed goal",
+      "description": "England and Norway fans react to Heggem's disallowed goal",
+      "published": "2026-07-11T22:59:48Z",
+      "link": "https://www.espn.com/video/clip/_/id/49337726/england-norway-fans-react-heggem-disallowed-goal",
+      "image": "https://a.espncdn.com/media/motion/2026/0711/dm_260711_COM_SOC_NEWS_England_and_Norway_fans_react_to_Heggems_disallowed_goal_2026_7_11/dm_260711_COM_SOC_NEWS_England_and_Norway_fans_react_to_Heggems_disallowed_goal_2026_7_11.jpg"
+    },
+    {
+      "headline": "World Cup live updates: England and Norway still level, off to extra time",
       "description": "Enjoy all the updates from Saturday's match as Norway take on England in Miami Gardens in 2026 FIFA World Cup quarterfinal action.",
-      "published": "2026-07-11T22:24:41Z",
+      "published": "2026-07-11T23:01:51Z",
       "link": "https://www.espn.com/soccer/story/_/id/49329265/world-cup-live-updates-norway-take-england-quarterfinal-clash",
       "image": "https://a.espncdn.com/photo/2026/0711/r1687924_1296x729_16-9.jpg"
     },
     {
       "headline": "World Cup daily: Free England-Norway ticket in Haaland look-alike contest",
       "description": "Enjoy all the features, news, video analysis and color from around the 2026 FIFA World Cup as we have our final two quarterfinals.",
-      "published": "2026-07-11T22:24:47Z",
+      "published": "2026-07-11T22:38:40Z",
       "link": "https://www.espn.com/soccer/story/_/id/49329226/world-cup-daily-england-norway-argentina-switzerland-quarterfinals-erling-haaland",
       "image": "https://a.espncdn.com/photo/2026/0711/r1687666_1296x729_16-9.jpg"
     },
@@ -29,20 +43,6 @@
       "published": "2026-07-11T21:51:16Z",
       "link": "https://www.espn.com/video/clip/_/id/49337310/crazy-scenes-oslo-norway-take-lead-vs-england",
       "image": "https://a.espncdn.com/media/motion/2026/0711/dm_260711_COM_SOC_Fans_Crazy_scenes_in_Olso_has_Norway_take_the_lead_vs_England_GLOBAL_2026-07-11/dm_260711_COM_SOC_Fans_Crazy_scenes_in_Olso_has_Norway_take_the_lead_vs_England_GLOBAL_2026-07-11.jpg"
-    },
-    {
-      "headline": "Jordan Pickford breaks Peter Shilton's record for most England World Cup appearances",
-      "description": "Jordan Pickford has broken the record for most England World Cup appearances after featuring in Saturday's quarterfinal against Norway.",
-      "published": "2026-07-11T21:15:51Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49324116/jordan-pickford-world-cup-appearance-record-england-peter-shilton",
-      "image": "https://a.espncdn.com/photo/2026/0711/r1687929_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Jordan Henderson: Breaking arm in England celebrations 'was not my finest hour'",
-      "description": "England midfielder Jordan Henderson joked it was \"not my finest hour\" after he suffered a broken arm while celebrating the World Cup round of 16 win over Mexico last weekend.",
-      "published": "2026-07-11T21:14:15Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49336872/jordan-henderson-england-world-cup-2026",
-      "image": "https://a.espncdn.com/photo/2026/0711/r1687916_1296x729_16-9.jpg"
     }
   ]
 }

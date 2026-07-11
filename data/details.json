@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-11T22:26:44.121Z",
+  "lastUpdated": "2026-07-11T23:28:54.897Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -88540,64 +88540,64 @@
       "venue": "Hard Rock Stadium",
       "stats": {
         "home": {
-          "foulsCommitted": "6",
+          "foulsCommitted": "9",
           "yellowCards": "0",
           "redCards": "0",
           "offsides": "1",
-          "wonCorners": "3",
-          "saves": "1",
-          "possessionPct": "39.8",
-          "totalShots": "6",
-          "shotsOnTarget": "3",
+          "wonCorners": "6",
+          "saves": "3",
+          "possessionPct": "44.5",
+          "totalShots": "10",
+          "shotsOnTarget": "4",
+          "shotPct": "0.4",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "407",
+          "totalPasses": "478",
+          "passPct": "0.9",
+          "accurateCrosses": "3",
+          "totalCrosses": "16",
+          "crossPct": "0.2",
+          "totalLongBalls": "38",
+          "accurateLongBalls": "14",
+          "longballPct": "0.4",
+          "blockedShots": "2",
+          "effectiveTackles": "10",
+          "totalTackles": "22",
+          "tacklePct": "0.5",
+          "interceptions": "7",
+          "effectiveClearance": "19",
+          "totalClearance": "19"
+        },
+        "away": {
+          "foulsCommitted": "5",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "4",
+          "wonCorners": "4",
+          "saves": "3",
+          "possessionPct": "55.5",
+          "totalShots": "11",
+          "shotsOnTarget": "5",
           "shotPct": "0.5",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "219",
-          "totalPasses": "257",
+          "accuratePasses": "541",
+          "totalPasses": "588",
           "passPct": "0.9",
-          "accurateCrosses": "3",
-          "totalCrosses": "6",
-          "crossPct": "0.5",
-          "totalLongBalls": "21",
-          "accurateLongBalls": "9",
-          "longballPct": "0.4",
-          "blockedShots": "1",
-          "effectiveTackles": "8",
-          "totalTackles": "14",
-          "tacklePct": "0.6",
-          "interceptions": "2",
-          "effectiveClearance": "10",
-          "totalClearance": "10"
-        },
-        "away": {
-          "foulsCommitted": "3",
-          "yellowCards": "0",
-          "redCards": "0",
-          "offsides": "3",
-          "wonCorners": "2",
-          "saves": "2",
-          "possessionPct": "60.2",
-          "totalShots": "6",
-          "shotsOnTarget": "2",
-          "shotPct": "0.3",
-          "penaltyKickGoals": "0",
-          "penaltyKickShots": "0",
-          "accuratePasses": "363",
-          "totalPasses": "385",
-          "passPct": "0.9",
-          "accurateCrosses": "3",
-          "totalCrosses": "9",
-          "crossPct": "0.3",
-          "totalLongBalls": "22",
-          "accurateLongBalls": "18",
-          "longballPct": "0.8",
+          "accurateCrosses": "9",
+          "totalCrosses": "21",
+          "crossPct": "0.4",
+          "totalLongBalls": "40",
+          "accurateLongBalls": "24",
+          "longballPct": "0.6",
           "blockedShots": "3",
-          "effectiveTackles": "3",
-          "totalTackles": "3",
-          "tacklePct": "1.0",
-          "interceptions": "2",
-          "effectiveClearance": "9",
-          "totalClearance": "9"
+          "effectiveTackles": "9",
+          "totalTackles": "11",
+          "tacklePct": "0.8",
+          "interceptions": "6",
+          "effectiveClearance": "24",
+          "totalClearance": "24"
         }
       },
       "events": [
@@ -88630,6 +88630,60 @@
           "min": "60'",
           "side": "home",
           "player": "Substitution, Norway. Fredrik Aursnes replaces Julian Ryerson because of an injury."
+        },
+        {
+          "kind": "Substitution",
+          "min": "68'",
+          "side": "home",
+          "player": "Substitution, Norway. Oscar Bobb replaces Alexander Sørloth."
+        },
+        {
+          "kind": "Substitution",
+          "min": "68'",
+          "side": "home",
+          "player": "Substitution, Norway. Antonio Nusa replaces Andreas Schjelderup."
+        },
+        {
+          "kind": "Substitution",
+          "min": "71'",
+          "side": "away",
+          "player": "Substitution, England. Reece James replaces Anthony Gordon."
+        },
+        {
+          "kind": "Substitution",
+          "min": "86'",
+          "side": "away",
+          "player": "Substitution, England. Djed Spence replaces Nico O'Reilly."
+        },
+        {
+          "kind": "Substitution",
+          "min": "89'",
+          "side": "away",
+          "player": "Substitution, England. Morgan Rogers replaces Ezri Konsa."
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'",
+          "side": "home",
+          "player": "Substitution, Norway. Marcus Pedersen replaces David Møller Wolfe."
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'",
+          "side": "home",
+          "player": "Substitution, Norway. Leo Østigård replaces Torbjørn Heggem."
+        },
+        {
+          "kind": "Goal",
+          "min": "93'",
+          "side": "away",
+          "player": "Goal! Norway 1, England 2. Jude Bellingham"
+        },
+        {
+          "kind": "Substitution",
+          "min": "105'",
+          "side": "home",
+          "player": "Substitution, Norway. Jørgen Strand Larsen replaces Erling Haaland."
         }
       ],
       "lineups": {
@@ -89007,8 +89061,228 @@
       },
       "commentary": [
         {
-          "min": "64'",
-          "text": "Offside, Norway. Alexander Sørloth is caught offside.",
+          "min": "105'",
+          "text": "Substitution, Norway. Jørgen Strand Larsen replaces Erling Haaland.",
+          "goal": false
+        },
+        {
+          "min": "105'+4'",
+          "text": "First Half Extra Time ends, Norway 1, England 2.",
+          "goal": false
+        },
+        {
+          "min": "105'+3'",
+          "text": "Bukayo Saka (England) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "105'+3'",
+          "text": "Foul by Marcus Pedersen (Norway).",
+          "goal": false
+        },
+        {
+          "min": "105'+3'",
+          "text": "Attempt missed. Jude Bellingham (England) right footed shot from outside the box is high and wide to the left. Assisted by Bukayo Saka.",
+          "goal": false
+        },
+        {
+          "min": "105'+2'",
+          "text": "Offside, England. Eberechi Eze is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "105'",
+          "text": "Fourth official has announced 3 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "104'",
+          "text": "Corner, Norway. Conceded by Bukayo Saka.",
+          "goal": false
+        },
+        {
+          "min": "104'",
+          "text": "Attempt blocked. Antonio Nusa (Norway) left footed shot from outside the box is blocked. Assisted by Oscar Bobb.",
+          "goal": false
+        },
+        {
+          "min": "101'",
+          "text": "VAR Decision: No Penalty England.",
+          "goal": false
+        },
+        {
+          "min": "93'",
+          "text": "Goal! Norway 1, England 2. Jude Bellingham (England) right footed shot from the centre of the box to the bottom left corner.",
+          "goal": true
+        },
+        {
+          "min": "93'",
+          "text": "Attempt saved. Morgan Rogers (England) right footed shot from outside the box is saved in the bottom right corner by Ørjan Nyland (Norway). Assisted by Eberechi Eze.",
+          "goal": false
+        },
+        {
+          "min": "93'",
+          "text": "Attempt saved. Harry Kane (England) header from a difficult angle on the left is saved in the top right corner by Ørjan Nyland (Norway). Assisted by Bukayo Saka with a cross.",
+          "goal": false
+        },
+        {
+          "min": "92'",
+          "text": "Corner, England. Conceded by Marcus Pedersen.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "First Half Extra Time begins Norway 1, England 1.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Substitution, Norway. Leo Østigård replaces Torbjørn Heggem.",
+          "goal": false
+        },
+        {
+          "min": "90'+9'",
+          "text": "Second Half ends, Norway 1, England 1.",
+          "goal": false
+        },
+        {
+          "min": "90'+8'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "90'+8'",
+          "text": "Delay in match because of an injury Jude Bellingham (England).",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Foul by Eberechi Eze (England).",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Fredrik Aursnes (Norway) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Attempt missed. Jude Bellingham (England) header from the centre of the box misses to the left. Assisted by John Stones with a cross.",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Delay in match because of an injury Torbjørn Heggem (Norway).",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Fourth official has announced 7 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Eberechi Eze (England) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Foul by Patrick Berg (Norway).",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Substitution, Norway. Marcus Pedersen replaces David Møller Wolfe.",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Substitution, England. Morgan Rogers replaces Ezri Konsa.",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Foul by Harry Kane (England).",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Fredrik Aursnes (Norway) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Corner, England. Conceded by David Møller Wolfe.",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Substitution, England. Djed Spence replaces Nico O'Reilly.",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Attempt saved. Antonio Nusa (Norway) right footed shot from the left side of the box is saved in the bottom right corner by Jordan Pickford (England). Assisted by Sander Berge.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Corner, Norway. Conceded by Bukayo Saka.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Kristoffer Ajer (Norway) hits the bar with a header from the centre of the box. Assisted by Fredrik Aursnes following a corner.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Attempt missed. Fredrik Aursnes (Norway) right footed shot from the right side of the box misses to the left following a corner.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Corner, Norway. Conceded by Ezri Konsa.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "71'",
+          "text": "Substitution, England. Reece James replaces Anthony Gordon.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Substitution, Norway. Antonio Nusa replaces Andreas Schjelderup.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Substitution, Norway. Oscar Bobb replaces Alexander Sørloth.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Jude Bellingham (England) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Foul by Sander Berge (Norway).",
           "goal": false
         },
         {
@@ -89085,197 +89359,22 @@
           "min": "45'",
           "text": "Substitution, England. Eberechi Eze replaces Declan Rice.",
           "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Substitution, England. Bukayo Saka replaces Noni Madueke.",
-          "goal": false
-        },
-        {
-          "min": "45'+5'",
-          "text": "First Half ends, Norway 1, England 1.",
-          "goal": false
-        },
-        {
-          "min": "45'+4'",
-          "text": "Offside, England. Harry Kane is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "45'+3'",
-          "text": "Attempt saved. Harry Kane (England) right footed shot from outside the box is saved in the bottom left corner by Ørjan Nyland (Norway).",
-          "goal": false
-        },
-        {
-          "min": "45'+2'",
-          "text": "Goal! Norway 1, England 1. Jude Bellingham (England) left footed shot from the left side of the box to the bottom right corner. Assisted by Anthony Gordon following a fast break.",
-          "goal": true
-        },
-        {
-          "min": "45'+1'",
-          "text": "Fourth official has announced 4 minutes of added time.",
-          "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Offside, England. Declan Rice is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Attempt blocked. Jude Bellingham (England) right footed shot from the centre of the box is blocked. Assisted by Declan Rice with a cross.",
-          "goal": false
-        },
-        {
-          "min": "44'",
-          "text": "Corner, England. Conceded by Torbjørn Heggem.",
-          "goal": false
-        },
-        {
-          "min": "44'",
-          "text": "Attempt blocked. Alexander Sørloth (Norway) left footed shot from the centre of the box is blocked. Assisted by Martin Ødegaard.",
-          "goal": false
-        },
-        {
-          "min": "42'",
-          "text": "Anthony Gordon (England) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "42'",
-          "text": "Foul by Julian Ryerson (Norway).",
-          "goal": false
-        },
-        {
-          "min": "40'",
-          "text": "Attempt saved. Martin Ødegaard (Norway) left footed shot from outside the box is saved in the bottom right corner by Jordan Pickford (England). Assisted by Alexander Sørloth.",
-          "goal": false
-        },
-        {
-          "min": "39'",
-          "text": "Attempt missed. Alexander Sørloth (Norway) left footed shot from the right side of the box is too high. Assisted by Ørjan Nyland following a set piece situation.",
-          "goal": false
-        },
-        {
-          "min": "39'",
-          "text": "Foul by Anthony Gordon (England).",
-          "goal": false
-        },
-        {
-          "min": "39'",
-          "text": "Julian Ryerson (Norway) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "38'",
-          "text": "Nico O'Reilly (England) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "38'",
-          "text": "Foul by Alexander Sørloth (Norway).",
-          "goal": false
-        },
-        {
-          "min": "36'",
-          "text": "Goal! Norway 1, England 0. Andreas Schjelderup (Norway) left footed shot from the left side of the box to the top right corner. Assisted by Martin Ødegaard.",
-          "goal": true
-        },
-        {
-          "min": "35'",
-          "text": "Attempt saved. Erling Haaland (Norway) header from the centre of the box is saved in the top centre of the goal by Jordan Pickford (England). Assisted by Julian Ryerson with a cross.",
-          "goal": false
-        },
-        {
-          "min": "31'",
-          "text": "Anthony Gordon (England) wins a free kick on the left wing.",
-          "goal": false
-        },
-        {
-          "min": "31'",
-          "text": "Foul by Julian Ryerson (Norway).",
-          "goal": false
-        },
-        {
-          "min": "29'",
-          "text": "Attempt missed. Harry Kane (England) right footed shot from outside the box is too high from a direct free kick.",
-          "goal": false
-        },
-        {
-          "min": "28'",
-          "text": "Jude Bellingham (England) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "28'",
-          "text": "Foul by Kristoffer Ajer (Norway).",
-          "goal": false
-        },
-        {
-          "min": "27'",
-          "text": "Delay over. They are ready to continue.",
-          "goal": false
-        },
-        {
-          "min": "23'",
-          "text": "Delay in match for a drinks break.",
-          "goal": false
-        },
-        {
-          "min": "20'",
-          "text": "Handball by Jude Bellingham (England).",
-          "goal": false
-        },
-        {
-          "min": "16'",
-          "text": "Corner, England. Conceded by Kristoffer Ajer.",
-          "goal": false
-        },
-        {
-          "min": "11'",
-          "text": "Handball by Noni Madueke (England).",
-          "goal": false
-        },
-        {
-          "min": "8'",
-          "text": "Jude Bellingham (England) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "8'",
-          "text": "Foul by Sander Berge (Norway).",
-          "goal": false
-        },
-        {
-          "min": "7'",
-          "text": "Offside, England. Noni Madueke is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "",
-          "text": "First Half begins.",
-          "goal": false
-        },
-        {
-          "min": "",
-          "text": "Lineups are announced and players are warming up.",
-          "goal": false
         }
       ],
       "leaders": [
         {
           "label": "Total Shots",
           "home": {
-            "name": "E. Haaland",
-            "num": "9",
-            "pos": "F",
+            "name": "A. Nusa",
+            "num": "20",
+            "pos": "M",
             "value": "2"
           },
           "away": {
             "name": "J. Bellingham",
             "num": "10",
             "pos": "M",
-            "value": "2"
+            "value": "5"
           }
         },
         {
@@ -89284,28 +89383,28 @@
             "name": "S. Berge",
             "num": "8",
             "pos": "M",
-            "value": "42"
-          },
-          "away": {
-            "name": "M. Guéhi",
-            "num": "6",
-            "pos": "D",
-            "value": "55"
-          }
-        },
-        {
-          "label": "Defensive Interventions",
-          "home": {
-            "name": "J. Ryerson",
-            "num": "26",
-            "pos": "D",
-            "value": "7"
+            "value": "82"
           },
           "away": {
             "name": "E. Anderson",
             "num": "8",
             "pos": "M",
-            "value": "5"
+            "value": "84"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "K. Ajer",
+            "num": "3",
+            "pos": "D",
+            "value": "8"
+          },
+          "away": {
+            "name": "E. Anderson",
+            "num": "8",
+            "pos": "M",
+            "value": "8"
           }
         },
         {
@@ -89314,13 +89413,13 @@
             "name": "Ø. Nyland",
             "num": "1",
             "pos": "G",
-            "value": "1"
+            "value": "3"
           },
           "away": {
             "name": "J. Pickford",
             "num": "1",
             "pos": "G",
-            "value": "2"
+            "value": "3"
           }
         }
       ],

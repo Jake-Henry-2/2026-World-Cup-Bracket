@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-07-12T11:47:23.649Z",
+  "lastUpdated": "2026-07-12T12:43:01.926Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Thomas Tuchel on England World Cup semifinal vs Argentina: Nowhere in world I'd rather be",
+      "description": "Thomas Tuchel has said there is \"nowhere else in the whole wide world\" he would rather be than leading England into a World Cup semifinal against reigning champions Argentina.",
+      "published": "2026-07-12T11:52:35Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49342349/thomas-tuchel-england-world-cup-semifinal-vs-argentina-nowhere-world-rather-be",
+      "image": "https://a.espncdn.com/photo/2026/0706/r1685172_1296x729_16-9.jpg"
+    },
     {
       "headline": "World Cup Daily live: Spidercam debate rumbles on as four semifinalists confirmed",
       "description": "Enjoy all the features, news, video analysis and color from around the competition as we now know our four World Cup semifinalists.",
@@ -36,13 +43,6 @@
       "published": "2026-07-12T11:00:57Z",
       "link": "https://www.espn.com/soccer/story/_/id/49342142/senegal-sack-manager-pape-thiaw-world-cup-exit",
       "image": "https://a.espncdn.com/photo/2026/0712/r1688244_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Alf-Inge Haaland: Norway 'robbed' vs England at World Cup, 'well done referee'",
-      "description": "Alf-Inge Haaland claims Norway were \"robbed\" in their World Cup quarterfinal but hopes England go on to win the tournament after knocking out his homeland.",
-      "published": "2026-07-12T10:24:19Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49341900/alf-inge-haaland-norway-robbed-world-cup-2026-england-well-done-referee-erling-haaland",
-      "image": "https://a.espncdn.com/photo/2026/0712/r1688236_1296x729_16-9.jpg"
     }
   ]
 }

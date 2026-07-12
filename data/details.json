@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-11T23:28:54.897Z",
+  "lastUpdated": "2026-07-12T01:07:20.736Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -88540,64 +88540,64 @@
       "venue": "Hard Rock Stadium",
       "stats": {
         "home": {
-          "foulsCommitted": "9",
-          "yellowCards": "0",
+          "foulsCommitted": "10",
+          "yellowCards": "1",
           "redCards": "0",
           "offsides": "1",
-          "wonCorners": "6",
-          "saves": "3",
-          "possessionPct": "44.5",
-          "totalShots": "10",
+          "wonCorners": "7",
+          "saves": "6",
+          "possessionPct": "47.6",
+          "totalShots": "13",
           "shotsOnTarget": "4",
-          "shotPct": "0.4",
+          "shotPct": "0.3",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "407",
-          "totalPasses": "478",
+          "accuratePasses": "492",
+          "totalPasses": "576",
           "passPct": "0.9",
           "accurateCrosses": "3",
-          "totalCrosses": "16",
+          "totalCrosses": "19",
           "crossPct": "0.2",
-          "totalLongBalls": "38",
-          "accurateLongBalls": "14",
+          "totalLongBalls": "48",
+          "accurateLongBalls": "20",
           "longballPct": "0.4",
-          "blockedShots": "2",
-          "effectiveTackles": "10",
-          "totalTackles": "22",
+          "blockedShots": "3",
+          "effectiveTackles": "12",
+          "totalTackles": "24",
           "tacklePct": "0.5",
-          "interceptions": "7",
-          "effectiveClearance": "19",
-          "totalClearance": "19"
+          "interceptions": "8",
+          "effectiveClearance": "21",
+          "totalClearance": "21"
         },
         "away": {
-          "foulsCommitted": "5",
+          "foulsCommitted": "8",
           "yellowCards": "0",
           "redCards": "0",
-          "offsides": "4",
+          "offsides": "5",
           "wonCorners": "4",
           "saves": "3",
-          "possessionPct": "55.5",
-          "totalShots": "11",
-          "shotsOnTarget": "5",
-          "shotPct": "0.5",
+          "possessionPct": "52.4",
+          "totalShots": "14",
+          "shotsOnTarget": "8",
+          "shotPct": "0.6",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "541",
-          "totalPasses": "588",
+          "accuratePasses": "569",
+          "totalPasses": "628",
           "passPct": "0.9",
           "accurateCrosses": "9",
           "totalCrosses": "21",
           "crossPct": "0.4",
-          "totalLongBalls": "40",
-          "accurateLongBalls": "24",
-          "longballPct": "0.6",
+          "totalLongBalls": "50",
+          "accurateLongBalls": "26",
+          "longballPct": "0.5",
           "blockedShots": "3",
-          "effectiveTackles": "9",
-          "totalTackles": "11",
-          "tacklePct": "0.8",
-          "interceptions": "6",
-          "effectiveClearance": "24",
-          "totalClearance": "24"
+          "effectiveTackles": "11",
+          "totalTackles": "15",
+          "tacklePct": "0.7",
+          "interceptions": "7",
+          "effectiveClearance": "35",
+          "totalClearance": "35"
         }
       },
       "events": [
@@ -88684,6 +88684,18 @@
           "min": "105'",
           "side": "home",
           "player": "Substitution, Norway. Jørgen Strand Larsen replaces Erling Haaland."
+        },
+        {
+          "kind": "Substitution",
+          "min": "111'",
+          "side": "away",
+          "player": "Substitution, England. Dan Burn replaces Jude Bellingham."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "117'",
+          "side": "home",
+          "player": "Kristoffer Ajer"
         }
       ],
       "lineups": {
@@ -89061,6 +89073,131 @@
       },
       "commentary": [
         {
+          "min": "",
+          "text": "Match ends, Norway 1, England 2.",
+          "goal": false
+        },
+        {
+          "min": "120'+3'",
+          "text": "Second Half Extra Time ends, Norway 1, England 2.",
+          "goal": false
+        },
+        {
+          "min": "120'+1'",
+          "text": "Fourth official has announced 2 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "119'",
+          "text": "Offside, Norway. Antonio Nusa is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "118'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "117'",
+          "text": "Kristoffer Ajer (Norway) is shown the yellow card.",
+          "goal": false
+        },
+        {
+          "min": "117'",
+          "text": "Delay in match because of an injury Jordan Pickford (England).",
+          "goal": false
+        },
+        {
+          "min": "116'",
+          "text": "Foul by Reece James (England).",
+          "goal": false
+        },
+        {
+          "min": "116'",
+          "text": "Antonio Nusa (Norway) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "116'",
+          "text": "Foul by Elliot Anderson (England).",
+          "goal": false
+        },
+        {
+          "min": "116'",
+          "text": "Patrick Berg (Norway) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "114'",
+          "text": "Attempt missed. Oscar Bobb (Norway) left footed shot from the centre of the box is too high following a corner.",
+          "goal": false
+        },
+        {
+          "min": "114'",
+          "text": "Corner, Norway. Conceded by Reece James.",
+          "goal": false
+        },
+        {
+          "min": "114'",
+          "text": "Attempt blocked. Antonio Nusa (Norway) right footed shot from the left side of the box is blocked. Assisted by Sander Berge.",
+          "goal": false
+        },
+        {
+          "min": "111'",
+          "text": "Substitution, England. Dan Burn replaces Jude Bellingham.",
+          "goal": false
+        },
+        {
+          "min": "110'",
+          "text": "Offside, England. Bukayo Saka is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "110'",
+          "text": "Attempt saved. Bukayo Saka (England) right footed shot from a difficult angle on the right is saved in the top left corner by Ørjan Nyland (Norway).",
+          "goal": false
+        },
+        {
+          "min": "110'",
+          "text": "Attempt saved. Djed Spence (England) right footed shot from outside the box is saved in the bottom right corner by Ørjan Nyland (Norway).",
+          "goal": false
+        },
+        {
+          "min": "109'",
+          "text": "Attempt saved. Bukayo Saka (England) left footed shot from the right side of the box is saved in the bottom left corner by Ørjan Nyland (Norway). Assisted by Harry Kane.",
+          "goal": false
+        },
+        {
+          "min": "109'",
+          "text": "Attempt missed. Patrick Berg (Norway) right footed shot from outside the box is too high. Assisted by Oscar Bobb.",
+          "goal": false
+        },
+        {
+          "min": "107'",
+          "text": "Foul by Bukayo Saka (England).",
+          "goal": false
+        },
+        {
+          "min": "107'",
+          "text": "Leo Østigård (Norway) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "106'",
+          "text": "Jude Bellingham (England) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "106'",
+          "text": "Foul by Sander Berge (Norway).",
+          "goal": false
+        },
+        {
+          "min": "105'",
+          "text": "Second Half Extra Time begins Norway 1, England 2.",
+          "goal": false
+        },
+        {
           "min": "105'",
           "text": "Substitution, Norway. Jørgen Strand Larsen replaces Erling Haaland.",
           "goal": false
@@ -89112,7 +89249,7 @@
         },
         {
           "min": "93'",
-          "text": "Goal! Norway 1, England 2. Jude Bellingham (England) right footed shot from the centre of the box to the bottom left corner.",
+          "text": "Goal! Norway 1, England 2. Jude Bellingham (England) right footed shot from the centre of the box to the bottom left corner following a corner.",
           "goal": true
         },
         {
@@ -89234,131 +89371,6 @@
           "min": "82'",
           "text": "Corner, Norway. Conceded by Bukayo Saka.",
           "goal": false
-        },
-        {
-          "min": "76'",
-          "text": "Kristoffer Ajer (Norway) hits the bar with a header from the centre of the box. Assisted by Fredrik Aursnes following a corner.",
-          "goal": false
-        },
-        {
-          "min": "76'",
-          "text": "Attempt missed. Fredrik Aursnes (Norway) right footed shot from the right side of the box misses to the left following a corner.",
-          "goal": false
-        },
-        {
-          "min": "75'",
-          "text": "Corner, Norway. Conceded by Ezri Konsa.",
-          "goal": false
-        },
-        {
-          "min": "71'",
-          "text": "Delay over. They are ready to continue.",
-          "goal": false
-        },
-        {
-          "min": "71'",
-          "text": "Substitution, England. Reece James replaces Anthony Gordon.",
-          "goal": false
-        },
-        {
-          "min": "68'",
-          "text": "Delay in match for a drinks break.",
-          "goal": false
-        },
-        {
-          "min": "68'",
-          "text": "Substitution, Norway. Antonio Nusa replaces Andreas Schjelderup.",
-          "goal": false
-        },
-        {
-          "min": "68'",
-          "text": "Substitution, Norway. Oscar Bobb replaces Alexander Sørloth.",
-          "goal": false
-        },
-        {
-          "min": "65'",
-          "text": "Jude Bellingham (England) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "65'",
-          "text": "Foul by Sander Berge (Norway).",
-          "goal": false
-        },
-        {
-          "min": "60'",
-          "text": "Delay over. They are ready to continue.",
-          "goal": false
-        },
-        {
-          "min": "60'",
-          "text": "Substitution, Norway. Fredrik Aursnes replaces Julian Ryerson because of an injury.",
-          "goal": false
-        },
-        {
-          "min": "59'",
-          "text": "Delay in match because of an injury Julian Ryerson (Norway).",
-          "goal": false
-        },
-        {
-          "min": "57'",
-          "text": "VAR Decision: No Goal Norway 1-1 England.",
-          "goal": false
-        },
-        {
-          "min": "55'",
-          "text": "GOAL OVERTURNED BY VAR: Torbjørn Heggem (Norway) scores but the goal is ruled out after a VAR review.",
-          "goal": false
-        },
-        {
-          "min": "54'",
-          "text": "Corner, Norway. Conceded by John Stones.",
-          "goal": false
-        },
-        {
-          "min": "53'",
-          "text": "Corner, Norway. Conceded by Jordan Pickford.",
-          "goal": false
-        },
-        {
-          "min": "53'",
-          "text": "Attempt missed. Erling Haaland (Norway) header from the centre of the box is close, but misses to the left. Assisted by Julian Ryerson with a cross following a corner.",
-          "goal": false
-        },
-        {
-          "min": "52'",
-          "text": "Corner, Norway. Conceded by Jordan Pickford.",
-          "goal": false
-        },
-        {
-          "min": "52'",
-          "text": "Attempt blocked. Bukayo Saka (England) left footed shot from the right side of the box is blocked. Assisted by Eberechi Eze.",
-          "goal": false
-        },
-        {
-          "min": "48'",
-          "text": "Attempt blocked. Eberechi Eze (England) right footed shot from outside the box is blocked.",
-          "goal": false
-        },
-        {
-          "min": "46'",
-          "text": "Harry Kane (England) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "46'",
-          "text": "Foul by Sander Berge (Norway).",
-          "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Second Half begins Norway 1, England 1.",
-          "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Substitution, England. Eberechi Eze replaces Declan Rice.",
-          "goal": false
         }
       ],
       "leaders": [
@@ -89368,7 +89380,7 @@
             "name": "A. Nusa",
             "num": "20",
             "pos": "M",
-            "value": "2"
+            "value": "3"
           },
           "away": {
             "name": "J. Bellingham",
@@ -89383,13 +89395,13 @@
             "name": "S. Berge",
             "num": "8",
             "pos": "M",
-            "value": "82"
+            "value": "102"
           },
           "away": {
             "name": "E. Anderson",
             "num": "8",
             "pos": "M",
-            "value": "84"
+            "value": "87"
           }
         },
         {
@@ -89398,7 +89410,7 @@
             "name": "K. Ajer",
             "num": "3",
             "pos": "D",
-            "value": "8"
+            "value": "9"
           },
           "away": {
             "name": "E. Anderson",
@@ -89413,7 +89425,7 @@
             "name": "Ø. Nyland",
             "num": "1",
             "pos": "G",
-            "value": "3"
+            "value": "6"
           },
           "away": {
             "name": "J. Pickford",
@@ -89430,6 +89442,526 @@
         "mp4": "https://media.video-cdn.espn.com/motion/2026/0711/dm_260711_COM_SOC_Fans_Crazy_scenes_in_Olso_has_Norway_take_the_lead_vs_England_GLOBAL_2026-07-11/dm_260711_COM_SOC_Fans_Crazy_scenes_in_Olso_has_Norway_take_the_lead_vs_England_GLOBAL_2026-07-11_360p30_1464k.mp4",
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0711/dm_260711_COM_SOC_Fans_Crazy_scenes_in_Olso_has_Norway_take_the_lead_vs_England_GLOBAL_2026-07-11/dm_260711_COM_SOC_Fans_Crazy_scenes_in_Olso_has_Norway_take_the_lead_vs_England_GLOBAL_2026-07-11/playlist.m3u8"
       },
+      "final": true,
+      "dv": 5
+    },
+    "760513": {
+      "venue": "GEHA Field at Arrowhead Stadium",
+      "stats": {
+        "home": {
+          "foulsCommitted": "1",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "0",
+          "saves": "0",
+          "possessionPct": "23.3",
+          "totalShots": "0",
+          "shotsOnTarget": "0",
+          "shotPct": "0.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "2",
+          "totalPasses": "7",
+          "passPct": "0.3",
+          "accurateCrosses": "0",
+          "totalCrosses": "0",
+          "crossPct": "0.0",
+          "totalLongBalls": "3",
+          "accurateLongBalls": "0",
+          "longballPct": "0.0",
+          "blockedShots": "0",
+          "effectiveTackles": "0",
+          "totalTackles": "0",
+          "tacklePct": "0.0",
+          "interceptions": "0",
+          "effectiveClearance": "1",
+          "totalClearance": "1"
+        },
+        "away": {
+          "foulsCommitted": "1",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "0",
+          "saves": "0",
+          "possessionPct": "76.7",
+          "totalShots": "1",
+          "shotsOnTarget": "0",
+          "shotPct": "0.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "18",
+          "totalPasses": "21",
+          "passPct": "0.9",
+          "accurateCrosses": "0",
+          "totalCrosses": "2",
+          "crossPct": "0.0",
+          "totalLongBalls": "6",
+          "accurateLongBalls": "3",
+          "longballPct": "0.5",
+          "blockedShots": "1",
+          "effectiveTackles": "0",
+          "totalTackles": "0",
+          "tacklePct": "0.0",
+          "interceptions": "0",
+          "effectiveClearance": "1",
+          "totalClearance": "1"
+        }
+      },
+      "events": [],
+      "lineups": {
+        "home": [
+          {
+            "name": "Emiliano Martínez",
+            "short": "E. Martínez",
+            "num": "23",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Lisandro Martínez",
+            "short": "L. Martínez",
+            "num": "6",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Cristian Romero",
+            "short": "C. Romero",
+            "num": "13",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Leandro Paredes",
+            "short": "L. Paredes",
+            "num": "5",
+            "pos": "SW",
+            "place": "4"
+          },
+          {
+            "name": "Nicolás Tagliafico",
+            "short": "N. Tagliafico",
+            "num": "3",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Nahuel Molina",
+            "short": "N. Molina",
+            "num": "26",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Enzo Fernández",
+            "short": "E. Fernández",
+            "num": "24",
+            "pos": "CM",
+            "place": "8"
+          },
+          {
+            "name": "Alexis Mac Allister",
+            "short": "A. Mac Allister",
+            "num": "20",
+            "pos": "LM",
+            "place": "11"
+          },
+          {
+            "name": "Rodrigo De Paul",
+            "short": "R. De Paul",
+            "num": "7",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Julián Álvarez",
+            "short": "J. Álvarez",
+            "num": "9",
+            "pos": "CF-L",
+            "place": "10"
+          },
+          {
+            "name": "Lionel Messi",
+            "short": "L. Messi",
+            "num": "10",
+            "pos": "CF-R",
+            "place": "9"
+          }
+        ],
+        "away": [
+          {
+            "name": "Gregor Kobel",
+            "short": "G. Kobel",
+            "num": "1",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Manuel Akanji",
+            "short": "M. Akanji",
+            "num": "5",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Nico Elvedi",
+            "short": "N. Elvedi",
+            "num": "4",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Ricardo Rodríguez",
+            "short": "R. Rodríguez",
+            "num": "13",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Denis Zakaria",
+            "short": "D. Zakaria",
+            "num": "6",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Fabian Rieder",
+            "short": "F. Rieder",
+            "num": "22",
+            "pos": "AM",
+            "place": "10"
+          },
+          {
+            "name": "Granit Xhaka",
+            "short": "G. Xhaka",
+            "num": "10",
+            "pos": "LM",
+            "place": "4"
+          },
+          {
+            "name": "Remo Freuler",
+            "short": "R. Freuler",
+            "num": "8",
+            "pos": "RM",
+            "place": "8"
+          },
+          {
+            "name": "Breel Embolo",
+            "short": "B. Embolo",
+            "num": "7",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Dan Ndoye",
+            "short": "D. Ndoye",
+            "num": "11",
+            "pos": "AM-L",
+            "place": "11"
+          },
+          {
+            "name": "Djibril Sow",
+            "short": "D. Sow",
+            "num": "15",
+            "pos": "AM-R",
+            "place": "7"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Nicolás Otamendi",
+            "short": "N. Otamendi",
+            "num": "19",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Giuliano Simeone",
+            "short": "G. Simeone",
+            "num": "17",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Exequiel Palacios",
+            "short": "E. Palacios",
+            "num": "14",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Lautaro Martínez",
+            "short": "L. Martínez",
+            "num": "22",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Nico Paz",
+            "short": "N. Paz",
+            "num": "18",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Facundo Medina",
+            "short": "F. Medina",
+            "num": "25",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Nico González",
+            "short": "N. González",
+            "num": "15",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Gerónimo Rulli",
+            "short": "G. Rulli",
+            "num": "12",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Thiago Almada",
+            "short": "T. Almada",
+            "num": "16",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Juan Musso",
+            "short": "J. Musso",
+            "num": "1",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Valentín Barco",
+            "short": "V. Barco",
+            "num": "8",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Marcos Senesi",
+            "short": "M. Senesi",
+            "num": "2",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "José Manuel López",
+            "short": "J. López",
+            "num": "21",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Giovani Lo Celso",
+            "short": "G. Lo Celso",
+            "num": "11",
+            "pos": "",
+            "place": "0"
+          },
+          {
+            "name": "Gonzalo Montiel",
+            "short": "G. Montiel",
+            "num": "4",
+            "pos": "",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Ardon Jashari",
+            "short": "A. Jashari",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Marvin Keller",
+            "short": "M. Keller",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Noah Okafor",
+            "short": "N. Okafor",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Michel Aebischer",
+            "short": "M. Aebischer",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Yvon Mvogo",
+            "short": "Y. Mvogo",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Miro Muheim",
+            "short": "M. Muheim",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Aurèle Amenda",
+            "short": "A. Amenda",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Rubén Vargas",
+            "short": "R. Vargas",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Eray Cömert",
+            "short": "E. Cömert",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Silvan Widmer",
+            "short": "S. Widmer",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Luca Jaquez",
+            "short": "L. Jaquez",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Christian Fassnacht",
+            "short": "C. Fassnacht",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Cedric Itten",
+            "short": "C. Itten",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Zeki Amdouni",
+            "short": "Z. Amdouni",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-1-3-2",
+        "away": "4-2-3-1"
+      },
+      "commentary": [
+        {
+          "min": "3'",
+          "text": "Ricardo Rodríguez (Switzerland) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "3'",
+          "text": "Foul by Julián Alvarez (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "1'",
+          "text": "Foul by Denis Zakaria (Switzerland).",
+          "goal": false
+        },
+        {
+          "min": "1'",
+          "text": "Alexis Mac Allister (Argentina) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "1'",
+          "text": "Attempt blocked. Denis Zakaria (Switzerland) right footed shot from the right side of the box is blocked. Assisted by Djibril Sow.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "First Half begins.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "Lineups are announced and players are warming up.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "C. Romero",
+            "num": "13",
+            "pos": "D",
+            "value": "2"
+          },
+          "away": {
+            "name": "M. Akanji",
+            "num": "5",
+            "pos": "D",
+            "value": "5"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "C. Romero",
+            "num": "13",
+            "pos": "D",
+            "value": "2"
+          },
+          "away": {
+            "name": "G. Kobel",
+            "num": "1",
+            "pos": "G",
+            "value": "1"
+          }
+        },
+        {
+          "label": "Total Shots",
+          "away": {
+            "name": "D. Zakaria",
+            "num": "6",
+            "pos": "M",
+            "value": "1"
+          }
+        }
+      ],
+      "highlight": null,
       "final": false,
       "dv": 5
     }

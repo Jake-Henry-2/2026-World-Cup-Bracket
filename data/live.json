@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-11T23:28:54.773Z",
+  "lastUpdated": "2026-07-12T01:07:20.586Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -1381,22 +1381,12 @@
       "homeScore": 1,
       "awayScore": 2,
       "homeWinner": false,
-      "awayWinner": false,
-      "odds": {
-        "home": 330,
-        "away": -125,
-        "draw": 280,
-        "total": 2.5,
-        "book": "DraftKings"
-      },
-      "status": "live",
+      "awayWinner": true,
+      "odds": null,
+      "status": "finished",
       "id": "760512",
       "date": "2026-07-11T21:00Z",
-      "venue": "Hard Rock Stadium",
-      "clock": 6300,
-      "displayClock": "105'+3'",
-      "detail": "ET-HT",
-      "period": 3
+      "venue": "Hard Rock Stadium"
     },
     {
       "stage": "qf",
@@ -1407,16 +1397,20 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -140,
-        "away": 450,
-        "draw": 245,
+        "home": -135,
+        "away": 500,
+        "draw": 225,
         "total": 2.5,
         "book": "DraftKings"
       },
-      "status": "scheduled",
+      "status": "live",
       "id": "760513",
       "date": "2026-07-12T01:00Z",
-      "venue": "GEHA Field at Arrowhead Stadium"
+      "venue": "GEHA Field at Arrowhead Stadium",
+      "clock": 360,
+      "displayClock": "6'",
+      "detail": "6'",
+      "period": 1
     }
   ]
 }

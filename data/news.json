@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-07-12T15:28:45.374Z",
+  "lastUpdated": "2026-07-12T16:29:58.209Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "World Cup Daily live: Spidercam debate rumbles on as four semifinalists confirmed",
+      "description": "Enjoy all the features, news, video analysis and color from around the competition as we now know our four World Cup semifinalists.",
+      "published": "2026-07-12T16:24:39Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49340531/world-cup-daily-live-spidercam-debate-rumbles-four-semifinalists-confirmed-england-argentina-france-spain",
+      "image": "https://a.espncdn.com/photo/2026/0712/r1688220_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "FIFA, FIFPRO in heat protocol talks after World Cup concerns - sources",
+      "description": "FIFA and global players' union FIFPRO are in discussions over establishing protocols to avoid games being played in excessive heat, sources have told ESPN.",
+      "published": "2026-07-12T16:17:33Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49343877/fifa-world-cup-fifpro-temperature-heat-protocol-talks-sources",
+      "image": "https://a.espncdn.com/photo/2026/0712/r1688340_1296x729_16-9.jpg"
+    },
     {
       "headline": "Haaland, Norway are rowing home, but this World Cup cemented them as superstars",
       "description": "Erling Haaland couldn't lift Norway past England into the World Cup semifinals. But the Scandinavian side had a memorable tournament.",
@@ -26,23 +40,9 @@
     {
       "headline": "World Cup semifinals: What you need to know, predictions, odds",
       "description": "With only a week to go until the final of the 2026 FIFA World Cup, there are now just four teams still harboring dreams of becoming world champions.",
-      "published": "2026-07-12T14:12:36Z",
+      "published": "2026-07-12T15:37:10Z",
       "link": "https://www.espn.com/soccer/story/_/id/49334623/fifa-world-cup-semifinal-preview-predictions-odds-argentina-england-france-spain",
       "image": "https://a.espncdn.com/photo/2026/0712/r1688282_2_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "World Cup Daily live: Spidercam debate rumbles on as four semifinalists confirmed",
-      "description": "Enjoy all the features, news, video analysis and color from around the competition as we now know our four World Cup semifinalists.",
-      "published": "2026-07-12T13:52:12Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49340531/world-cup-daily-live-spidercam-debate-rumbles-four-semifinalists-confirmed-england-argentina-france-spain",
-      "image": "https://a.espncdn.com/photo/2026/0712/r1688220_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Prince William, David Beckham lead England celebrations after World Cup quarterfinal triumph",
-      "description": "Prince William, Sir Keir Starmer and Sir David Beckham were among those celebrating England's dramatic World Cup quarterfinal victory over Norway.",
-      "published": "2026-07-12T13:43:46Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49339438/prince-william-david-beckham-lead-england-celebrations-world-cup-quarterfinal-triumph",
-      "image": "https://a.espncdn.com/photo/2026/0712/r1688087_1296x729_16-9.jpg"
     }
   ]
 }

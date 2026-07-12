@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-12T01:07:20.736Z",
+  "lastUpdated": "2026-07-12T04:36:55.649Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -89449,67 +89449,194 @@
       "venue": "GEHA Field at Arrowhead Stadium",
       "stats": {
         "home": {
-          "foulsCommitted": "1",
-          "yellowCards": "0",
+          "foulsCommitted": "14",
+          "yellowCards": "3",
           "redCards": "0",
-          "offsides": "0",
-          "wonCorners": "0",
-          "saves": "0",
-          "possessionPct": "23.3",
-          "totalShots": "0",
-          "shotsOnTarget": "0",
-          "shotPct": "0.0",
+          "offsides": "4",
+          "wonCorners": "8",
+          "saves": "4",
+          "possessionPct": "59.1",
+          "totalShots": "22",
+          "shotsOnTarget": "7",
+          "shotPct": "0.3",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "2",
-          "totalPasses": "7",
-          "passPct": "0.3",
-          "accurateCrosses": "0",
-          "totalCrosses": "0",
-          "crossPct": "0.0",
-          "totalLongBalls": "3",
-          "accurateLongBalls": "0",
-          "longballPct": "0.0",
-          "blockedShots": "0",
-          "effectiveTackles": "0",
-          "totalTackles": "0",
-          "tacklePct": "0.0",
-          "interceptions": "0",
-          "effectiveClearance": "1",
-          "totalClearance": "1"
+          "accuratePasses": "615",
+          "totalPasses": "692",
+          "passPct": "0.9",
+          "accurateCrosses": "7",
+          "totalCrosses": "22",
+          "crossPct": "0.3",
+          "totalLongBalls": "51",
+          "accurateLongBalls": "22",
+          "longballPct": "0.4",
+          "blockedShots": "7",
+          "effectiveTackles": "8",
+          "totalTackles": "17",
+          "tacklePct": "0.5",
+          "interceptions": "12",
+          "effectiveClearance": "29",
+          "totalClearance": "29"
         },
         "away": {
-          "foulsCommitted": "1",
-          "yellowCards": "0",
-          "redCards": "0",
-          "offsides": "0",
-          "wonCorners": "0",
-          "saves": "0",
-          "possessionPct": "76.7",
-          "totalShots": "1",
-          "shotsOnTarget": "0",
-          "shotPct": "0.0",
+          "foulsCommitted": "18",
+          "yellowCards": "1",
+          "redCards": "1",
+          "offsides": "3",
+          "wonCorners": "2",
+          "saves": "4",
+          "possessionPct": "40.9",
+          "totalShots": "11",
+          "shotsOnTarget": "5",
+          "shotPct": "0.5",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "18",
-          "totalPasses": "21",
-          "passPct": "0.9",
-          "accurateCrosses": "0",
-          "totalCrosses": "2",
-          "crossPct": "0.0",
-          "totalLongBalls": "6",
-          "accurateLongBalls": "3",
-          "longballPct": "0.5",
-          "blockedShots": "1",
-          "effectiveTackles": "0",
-          "totalTackles": "0",
-          "tacklePct": "0.0",
-          "interceptions": "0",
-          "effectiveClearance": "1",
-          "totalClearance": "1"
+          "accuratePasses": "399",
+          "totalPasses": "474",
+          "passPct": "0.8",
+          "accurateCrosses": "3",
+          "totalCrosses": "19",
+          "crossPct": "0.2",
+          "totalLongBalls": "54",
+          "accurateLongBalls": "23",
+          "longballPct": "0.4",
+          "blockedShots": "3",
+          "effectiveTackles": "5",
+          "totalTackles": "12",
+          "tacklePct": "0.4",
+          "interceptions": "6",
+          "effectiveClearance": "26",
+          "totalClearance": "26"
         }
       },
-      "events": [],
+      "events": [
+        {
+          "kind": "Goal - Header",
+          "min": "10'",
+          "side": "home",
+          "player": "Goal! Argentina 1, Switzerland 0. Alexis Mac Allister"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "44'",
+          "side": "away",
+          "player": "Breel Embolo"
+        },
+        {
+          "kind": "Goal",
+          "min": "67'",
+          "side": "away",
+          "player": "Goal! Argentina 1, Switzerland 1. Dan Ndoye"
+        },
+        {
+          "kind": "Red Card",
+          "min": "72'",
+          "side": "away",
+          "player": "Second yellow card to Breel Embolo"
+        },
+        {
+          "kind": "Substitution",
+          "min": "78'",
+          "side": "home",
+          "player": "Substitution, Argentina. Nico González replaces Nicolás Tagliafico."
+        },
+        {
+          "kind": "Substitution",
+          "min": "85'",
+          "side": "home",
+          "player": "Substitution, Argentina. Lautaro Martínez replaces Rodrigo De Paul."
+        },
+        {
+          "kind": "Substitution",
+          "min": "85'",
+          "side": "home",
+          "player": "Substitution, Argentina. Gonzalo Montiel replaces Nahuel Molina."
+        },
+        {
+          "kind": "Substitution",
+          "min": "86'",
+          "side": "away",
+          "player": "Substitution, Switzerland. Silvan Widmer replaces Djibril Sow."
+        },
+        {
+          "kind": "Substitution",
+          "min": "86'",
+          "side": "away",
+          "player": "Substitution, Switzerland. Zeki Amdouni replaces Dan Ndoye."
+        },
+        {
+          "kind": "Substitution",
+          "min": "86'",
+          "side": "away",
+          "player": "Substitution, Switzerland. Miro Muheim replaces Fabian Rieder."
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'+5'",
+          "side": "away",
+          "player": "Substitution, Switzerland. Eray Cömert replaces Ricardo Rodríguez."
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'",
+          "side": "home",
+          "player": "Substitution, Argentina. Thiago Almada replaces Enzo Fernández."
+        },
+        {
+          "kind": "Substitution",
+          "min": "96'",
+          "side": "away",
+          "player": "Substitution, Switzerland. Ardon Jashari replaces Denis Zakaria."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "97'",
+          "side": "home",
+          "player": "Thiago Almada"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "98'",
+          "side": "home",
+          "player": "Lautaro Martínez"
+        },
+        {
+          "kind": "Substitution",
+          "min": "105'",
+          "side": "home",
+          "player": "Substitution, Argentina. Nicolás Otamendi replaces Cristian Romero."
+        },
+        {
+          "kind": "Substitution",
+          "min": "110'",
+          "side": "home",
+          "player": "Substitution, Argentina. José Manuel López replaces Leandro Paredes because of an injury."
+        },
+        {
+          "kind": "Goal",
+          "min": "112'",
+          "side": "home",
+          "player": "Goal! Argentina 2, Switzerland 1. Julián Alvarez"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "114'",
+          "side": "home",
+          "player": "José Manuel López"
+        },
+        {
+          "kind": "Substitution",
+          "min": "115'",
+          "side": "away",
+          "player": "Substitution, Switzerland. Rubén Vargas replaces Remo Freuler."
+        },
+        {
+          "kind": "Goal",
+          "min": "120'+1'",
+          "side": "home",
+          "player": "Goal! Argentina 3, Switzerland 1. Lautaro Martínez"
+        }
+      ],
       "lineups": {
         "home": [
           {
@@ -89885,55 +90012,335 @@
       },
       "commentary": [
         {
-          "min": "3'",
-          "text": "Ricardo Rodríguez (Switzerland) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "3'",
-          "text": "Foul by Julián Alvarez (Argentina).",
-          "goal": false
-        },
-        {
-          "min": "1'",
-          "text": "Foul by Denis Zakaria (Switzerland).",
-          "goal": false
-        },
-        {
-          "min": "1'",
-          "text": "Alexis Mac Allister (Argentina) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "1'",
-          "text": "Attempt blocked. Denis Zakaria (Switzerland) right footed shot from the right side of the box is blocked. Assisted by Djibril Sow.",
-          "goal": false
-        },
-        {
           "min": "",
-          "text": "First Half begins.",
+          "text": "Match ends, Argentina 3, Switzerland 1.",
           "goal": false
         },
         {
-          "min": "",
-          "text": "Lineups are announced and players are warming up.",
+          "min": "120'+4'",
+          "text": "Second Half Extra Time ends, Argentina 3, Switzerland 1.",
+          "goal": false
+        },
+        {
+          "min": "120'+3'",
+          "text": "Offside, Switzerland. Rubén Vargas is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "120'+1'",
+          "text": "Goal! Argentina 3, Switzerland 1. Lautaro Martínez (Argentina) right footed shot from the centre of the box to the bottom right corner following a fast break.",
+          "goal": true
+        },
+        {
+          "min": "120'+1'",
+          "text": "Attempt saved. Thiago Almada (Argentina) right footed shot from the centre of the box is saved in the bottom left corner by Gregor Kobel (Switzerland). Assisted by Lautaro Martínez.",
+          "goal": false
+        },
+        {
+          "min": "120'+1'",
+          "text": "Fourth official has announced 4 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "120'",
+          "text": "Offside, Argentina. Lionel Messi is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "119'",
+          "text": "Corner, Argentina. Conceded by Granit Xhaka.",
+          "goal": false
+        },
+        {
+          "min": "119'",
+          "text": "Attempt blocked. Lionel Messi (Argentina) left footed shot from the centre of the box is blocked. Assisted by Julián Alvarez.",
+          "goal": false
+        },
+        {
+          "min": "118'",
+          "text": "Foul by José Manuel López (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "118'",
+          "text": "Ardon Jashari (Switzerland) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "117'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "116'",
+          "text": "Delay in match because of an injury Emiliano Martínez (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "115'",
+          "text": "Substitution, Switzerland. Rubén Vargas replaces Remo Freuler.",
+          "goal": false
+        },
+        {
+          "min": "114'",
+          "text": "José Manuel López (Argentina) is shown the yellow card.",
+          "goal": false
+        },
+        {
+          "min": "112'",
+          "text": "Goal! Argentina 2, Switzerland 1. Julián Alvarez (Argentina) right footed shot from outside the box to the top right corner. Assisted by José Manuel López.",
+          "goal": true
+        },
+        {
+          "min": "112'",
+          "text": "Attempt saved. Lionel Messi (Argentina) left footed shot from outside the box is saved in the bottom left corner by Gregor Kobel (Switzerland). Assisted by Thiago Almada.",
+          "goal": false
+        },
+        {
+          "min": "110'",
+          "text": "Lautaro Martínez (Argentina) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "110'",
+          "text": "Foul by Manuel Akanji (Switzerland).",
+          "goal": false
+        },
+        {
+          "min": "110'",
+          "text": "Substitution, Argentina. José Manuel López replaces Leandro Paredes because of an injury.",
+          "goal": false
+        },
+        {
+          "min": "107'",
+          "text": "Foul by Alexis Mac Allister (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "107'",
+          "text": "Miro Muheim (Switzerland) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "105'",
+          "text": "Substitution, Argentina. Nicolás Otamendi replaces Cristian Romero.",
+          "goal": false
+        },
+        {
+          "min": "105'",
+          "text": "Second Half Extra Time begins Argentina 1, Switzerland 1.",
+          "goal": false
+        },
+        {
+          "min": "105'+2'",
+          "text": "First Half Extra Time ends, Argentina 1, Switzerland 1.",
+          "goal": false
+        },
+        {
+          "min": "105'+2'",
+          "text": "Attempt missed. Cristian Romero (Argentina) header from the centre of the box is high and wide to the left. Assisted by Lionel Messi with a cross following a corner.",
+          "goal": false
+        },
+        {
+          "min": "105'+1'",
+          "text": "Corner, Argentina. Conceded by Remo Freuler.",
+          "goal": false
+        },
+        {
+          "min": "105'+1'",
+          "text": "Attempt blocked. Lisandro Martínez (Argentina) right footed shot from outside the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "105'+1'",
+          "text": "Fourth official has announced 1 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "105'",
+          "text": "Attempt missed. Ardon Jashari (Switzerland) left footed shot from outside the box is high and wide to the left. Assisted by Zeki Amdouni.",
+          "goal": false
+        },
+        {
+          "min": "103'",
+          "text": "Attempt blocked. Lionel Messi (Argentina) left footed shot from outside the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "102'",
+          "text": "Lionel Messi (Argentina) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "102'",
+          "text": "Foul by Zeki Amdouni (Switzerland).",
+          "goal": false
+        },
+        {
+          "min": "99'",
+          "text": "Attempt missed. Granit Xhaka (Switzerland) left footed shot from outside the box is too high. Assisted by Ardon Jashari.",
+          "goal": false
+        },
+        {
+          "min": "98'",
+          "text": "Lautaro Martínez (Argentina) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "98'",
+          "text": "Foul by Lautaro Martínez (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "98'",
+          "text": "Manuel Akanji (Switzerland) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "98'",
+          "text": "Lisandro Martínez (Argentina) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "98'",
+          "text": "Foul by Manuel Akanji (Switzerland).",
+          "goal": false
+        },
+        {
+          "min": "97'",
+          "text": "Thiago Almada (Argentina) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "97'",
+          "text": "Foul by Thiago Almada (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "97'",
+          "text": "Remo Freuler (Switzerland) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "96'",
+          "text": "Substitution, Switzerland. Ardon Jashari replaces Denis Zakaria.",
+          "goal": false
+        },
+        {
+          "min": "95'",
+          "text": "Thiago Almada (Argentina) hits the left post with a right footed shot from outside the box. Assisted by Leandro Paredes.",
+          "goal": false
+        },
+        {
+          "min": "93'",
+          "text": "Attempt saved. Thiago Almada (Argentina) right footed shot from the left side of the box is saved in the centre of the goal by Gregor Kobel (Switzerland). Assisted by Julián Alvarez.",
+          "goal": false
+        },
+        {
+          "min": "92'",
+          "text": "Attempt missed. Julián Alvarez (Argentina) right footed shot from outside the box is high and wide to the right. Assisted by Leandro Paredes following a corner.",
+          "goal": false
+        },
+        {
+          "min": "91'",
+          "text": "Attempt blocked. Nico González (Argentina) left footed shot from the centre of the box is blocked. Assisted by Lautaro Martínez.",
+          "goal": false
+        },
+        {
+          "min": "91'",
+          "text": "Corner, Argentina. Conceded by Silvan Widmer.",
+          "goal": false
+        },
+        {
+          "min": "91'",
+          "text": "Attempt blocked. Lautaro Martínez (Argentina) right footed shot from the centre of the box is blocked. Assisted by Alexis Mac Allister.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Substitution, Argentina. Thiago Almada replaces Enzo Fernández.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "First Half Extra Time begins Argentina 1, Switzerland 1.",
+          "goal": false
+        },
+        {
+          "min": "90'+10'",
+          "text": "Second Half ends, Argentina 1, Switzerland 1.",
+          "goal": false
+        },
+        {
+          "min": "90'+9'",
+          "text": "Foul by Gonzalo Montiel (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "90'+9'",
+          "text": "Miro Muheim (Switzerland) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+9'",
+          "text": "Attempt saved. Lisandro Martínez (Argentina) left footed shot from the centre of the box is saved in the centre of the goal by Gregor Kobel (Switzerland).",
+          "goal": false
+        },
+        {
+          "min": "90'+8'",
+          "text": "Corner, Argentina. Conceded by Silvan Widmer.",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Substitution, Switzerland. Eray Cömert replaces Ricardo Rodríguez.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Attempt missed. Nico González (Argentina) left footed shot from the left side of the box is high and wide to the left. Assisted by Lionel Messi.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Attempt missed. Lionel Messi (Argentina) right footed shot from outside the box is close, but misses to the right. Assisted by Enzo Fernández following a corner.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Fourth official has announced 9 minutes of added time.",
           "goal": false
         }
       ],
       "leaders": [
         {
-          "label": "Accurate Passes",
+          "label": "Total Shots",
           "home": {
-            "name": "C. Romero",
-            "num": "13",
-            "pos": "D",
-            "value": "2"
+            "name": "A. Mac Allister",
+            "num": "20",
+            "pos": "M",
+            "value": "4"
           },
           "away": {
-            "name": "M. Akanji",
+            "name": "G. Xhaka",
+            "num": "10",
+            "pos": "M",
+            "value": "3"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "L. Paredes",
             "num": "5",
-            "pos": "D",
-            "value": "5"
+            "pos": "M",
+            "value": "112"
+          },
+          "away": {
+            "name": "G. Xhaka",
+            "num": "10",
+            "pos": "M",
+            "value": "67"
           }
         },
         {
@@ -89942,27 +90349,39 @@
             "name": "C. Romero",
             "num": "13",
             "pos": "D",
-            "value": "2"
+            "value": "13"
+          },
+          "away": {
+            "name": "N. Elvedi",
+            "num": "4",
+            "pos": "D",
+            "value": "15"
+          }
+        },
+        {
+          "label": "Saves",
+          "home": {
+            "name": "E. Martínez",
+            "num": "23",
+            "pos": "G",
+            "value": "4"
           },
           "away": {
             "name": "G. Kobel",
             "num": "1",
             "pos": "G",
-            "value": "1"
-          }
-        },
-        {
-          "label": "Total Shots",
-          "away": {
-            "name": "D. Zakaria",
-            "num": "6",
-            "pos": "M",
-            "value": "1"
+            "value": "4"
           }
         }
       ],
-      "highlight": null,
-      "final": false,
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0711/dm_260711_COM_SOC_Fans_Argentina_fans_go_crazy_as_Mac_Allister_scores_opener_vs_Switzerland__GLOBAL_2026-07/dm_260711_COM_SOC_Fans_Argentina_fans_go_crazy_as_Mac_Allister_scores_opener_vs_Switzerland__GLOBAL_2026-07.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49339164/argentina-fans-go-crazy-mac-allister-scores-opener-vs-switzerland",
+        "headline": "Argentina fans go crazy as Mac Allister scores opener vs. Switzerland",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0711/dm_260711_COM_SOC_Fans_Argentina_fans_go_crazy_as_Mac_Allister_scores_opener_vs_Switzerland__GLOBAL_2026-07/dm_260711_COM_SOC_Fans_Argentina_fans_go_crazy_as_Mac_Allister_scores_opener_vs_Switzerland__GLOBAL_2026-07_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0711/dm_260711_COM_SOC_Fans_Argentina_fans_go_crazy_as_Mac_Allister_scores_opener_vs_Switzerland__GLOBAL_2026-07/dm_260711_COM_SOC_Fans_Argentina_fans_go_crazy_as_Mac_Allister_scores_opener_vs_Switzerland__GLOBAL_2026-07/playlist.m3u8"
+      },
+      "final": true,
       "dv": 5
     }
   }

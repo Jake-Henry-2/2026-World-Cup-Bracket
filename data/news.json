@@ -1,20 +1,27 @@
 {
-  "lastUpdated": "2026-07-12T19:46:17.755Z",
+  "lastUpdated": "2026-07-12T20:30:23.498Z",
   "source": "ESPN",
   "articles": [
     {
-      "headline": "FIFA's top-4 teams make World Cup semifinals for first time",
-      "description": "Argentina, Spain, France and England went into the tournament as the top four in FIFA's rankings and are two wins away from being crowned champions again.",
-      "published": "2026-07-12T19:35:37Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49344988/fifa-top-4-teams-world-cup-semifinals-first",
-      "image": "https://a.espncdn.com/photo/2023/1114/r1252976_1296x729_16-9.jpg"
-    },
-    {
       "headline": "World Cup Daily live: Spidercam debate rumbles on as four semifinalists confirmed",
       "description": "Enjoy all the features, news, video analysis and color from around the competition as we now know our four World Cup semifinalists.",
-      "published": "2026-07-12T19:00:11Z",
+      "published": "2026-07-12T20:27:00Z",
       "link": "https://www.espn.com/soccer/story/_/id/49340531/world-cup-daily-live-spidercam-debate-rumbles-four-semifinalists-confirmed-england-argentina-france-spain",
       "image": "https://a.espncdn.com/photo/2026/0712/r1688220_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "FIFA, FIFPRO discussing heat protocols after World Cup concerns - sources",
+      "description": "FIFA and global players' union FIFPRO are in discussions over establishing protocols to avoid games being played in excessive heat, sources have told ESPN.",
+      "published": "2026-07-12T20:20:29Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49343877/fifa-world-cup-fifpro-temperature-heat-protocol-talks-sources",
+      "image": "https://a.espncdn.com/photo/2026/0712/r1688340_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "FIFA's top four teams make World Cup semifinals for first time",
+      "description": "Argentina, Spain, France and England went into the tournament as the top four in FIFA's rankings and are two wins away from being crowned champions again.",
+      "published": "2026-07-12T20:02:45Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49344988/fifa-top-4-teams-world-cup-semifinals-first",
+      "image": "https://a.espncdn.com/photo/2023/1114/r1252976_1296x729_16-9.jpg"
     },
     {
       "headline": "Harry Kane: England must find 'missing piece' ahead of World Cup semifinal vs. Argentina",
@@ -36,13 +43,6 @@
       "published": "2026-07-12T16:36:25Z",
       "link": "https://www.espn.com/soccer/story/_/id/49341436/lionel-messi-praises-not-normal-argentina-world-cup-semifinal-awaits",
       "image": "https://a.espncdn.com/photo/2026/0712/r1688222_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "FIFA, FIFPRO in heat protocol talks after World Cup concerns - sources",
-      "description": "FIFA and global players' union FIFPRO are in discussions over establishing protocols to avoid games being played in excessive heat, sources have told ESPN.",
-      "published": "2026-07-12T16:37:53Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49343877/fifa-world-cup-fifpro-temperature-heat-protocol-talks-sources",
-      "image": "https://a.espncdn.com/photo/2026/0712/r1688340_1296x729_16-9.jpg"
     }
   ]
 }

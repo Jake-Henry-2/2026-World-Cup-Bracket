@@ -1,13 +1,20 @@
 {
-  "lastUpdated": "2026-07-12T20:30:23.498Z",
+  "lastUpdated": "2026-07-12T21:27:16.002Z",
   "source": "ESPN",
   "articles": [
     {
       "headline": "World Cup Daily live: Spidercam debate rumbles on as four semifinalists confirmed",
       "description": "Enjoy all the features, news, video analysis and color from around the competition as we now know our four World Cup semifinalists.",
-      "published": "2026-07-12T20:27:00Z",
+      "published": "2026-07-12T21:17:22Z",
       "link": "https://www.espn.com/soccer/story/_/id/49340531/world-cup-daily-live-spidercam-debate-rumbles-four-semifinalists-confirmed-england-argentina-france-spain",
       "image": "https://a.espncdn.com/photo/2026/0712/r1688220_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Gianni Infantino says FIFA will examine possibility of 64-team World Cup",
+      "description": "Gianni Infantino has confirmed FIFA will discuss expanding the men's World Cup to 64 teams after the 2026 tournament, saying every nation should have the chance to dream of playing at football's biggest event.",
+      "published": "2026-07-12T20:46:11Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49345374/gianni-infantino-fifa-examine-64-team-world-cup-expansion",
+      "image": "https://a.espncdn.com/photo/2026/0712/r1688428_1296x729_16-9.jpg"
     },
     {
       "headline": "FIFA, FIFPRO discussing heat protocols after World Cup concerns - sources",
@@ -36,13 +43,6 @@
       "published": "2026-07-12T17:40:12Z",
       "link": "https://www.espn.com/video/clip/_/id/49344483/switzerland-red-card-vs-argentina-killed-game",
       "image": "https://a.espncdn.com/media/motion/2026/0712/dm_260712_Xhaka_Switzerland_red_card_vs_Argentina_killed_the_game/dm_260712_Xhaka_Switzerland_red_card_vs_Argentina_killed_the_game.jpg"
-    },
-    {
-      "headline": "Lionel Messi praises 'not normal' Argentina as World Cup semifinal awaits",
-      "description": "Lionel Messi has said Argentina's remarkable run of success is \"not normal\" after the reigning world champions beat Switzerland to reach the World Cup semifinals, where they will face England.",
-      "published": "2026-07-12T16:36:25Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49341436/lionel-messi-praises-not-normal-argentina-world-cup-semifinal-awaits",
-      "image": "https://a.espncdn.com/photo/2026/0712/r1688222_1296x729_16-9.jpg"
     }
   ]
 }

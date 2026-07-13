@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-07-13T16:06:10.074Z",
+  "lastUpdated": "2026-07-13T18:04:30.998Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Why McAfee is comparing Christian Pulisic to Paul George",
+      "description": "Why McAfee is comparing Christian Pulisic to Paul George",
+      "published": "2026-07-13T17:12:30Z",
+      "link": "https://www.espn.com/video/clip/_/id/49351350/why-mcafee-comparing-christian-pulisic-paul-george",
+      "image": "https://a.espncdn.com/media/motion/2026/0713/ss_20260713_125924629_3592818782/ss_20260713_125924629_3592818782.jpg"
+    },
     {
       "headline": "World Cup Daily live: Happy Birthday to Lamine Yamal, and the World Cup itself",
       "description": "Enjoy all the features, news, video analysis and color from around the competition as we now know our four World Cup semifinalists.",
@@ -25,8 +32,8 @@
     },
     {
       "headline": "Preparing for penalties: How goalkeepers get ready for World Cup shootouts",
-      "description": "Since the shoot-out debuted at the 1982 World Cup, 39 knockout games have been decided from the penalty spot. What does preparation look like for the goalkeepers?",
-      "published": "2026-07-13T15:45:48Z",
+      "description": "Since the shootout debuted at the 1982 World Cup, 39 knockout games have been decided from the penalty spot. What does preparation look like for the goalkeepers?",
+      "published": "2026-07-13T16:24:04Z",
       "link": "https://www.espn.com/soccer/story/_/id/49350274/penalties-world-cup-england-spain-france-argentina-shootout-stats-psychology",
       "image": "https://a.espncdn.com/photo/2026/0713/r1688681_1296x729_16-9.jpg"
     },
@@ -36,13 +43,6 @@
       "published": "2026-07-13T15:00:38Z",
       "link": "https://www.espn.com/soccer/story/_/id/49349440/world-cup-semifinalists-score-goals-france-olise-spain-yamal-england-argentina-messi",
       "image": "https://a.espncdn.com/photo/2026/0713/r1688629_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Argentina scouting report: How can England stop Lionel Messi and co. in the World Cup semfinal?",
-      "description": "ESPN Argentina's Nico Baier provides the lowdown on England's World Cup semifinal opponents.",
-      "published": "2026-07-13T13:09:36Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49344633/argentina-scouting-report-england-lionel-messi-world-cup-semfinal-2026",
-      "image": "https://a.espncdn.com/photo/2026/0712/r1688378_1296x729_16-9.jpg"
     }
   ]
 }

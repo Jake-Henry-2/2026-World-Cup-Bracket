@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-07-13T01:05:08.927Z",
+  "lastUpdated": "2026-07-13T04:41:21.165Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Pape Thiaw had to go after disastrous World Cup, but his Senegal legacy will never be forgotten",
+      "description": "Thiaw's story - his remarkable triumph, and his World Cup failure - is one of nuanced situations",
+      "published": "2026-07-13T02:37:12Z",
+      "link": "https://www.espn.com/espn/story/_/id/49347526/pape-thiaw-disastrous-fifa-world-cup-2026-senegal-legacy-never-forgotten",
+      "image": "https://a.espncdn.com/photo/2026/0621/r1677227_608x342_16-9.jpg"
+    },
     {
       "headline": "Klinsmann: Argentina vs. England semifinal will be 50-50",
       "description": "Klinsmann: Argentina vs. England semifinal will be 50-50",
@@ -19,7 +26,7 @@
     {
       "headline": "World Cup Daily live: Spidercam debate rumbles on as four semifinalists confirmed",
       "description": "Enjoy all the features, news, video analysis and color from around the competition as we now know our four World Cup semifinalists.",
-      "published": "2026-07-12T21:17:22Z",
+      "published": "2026-07-13T01:16:08Z",
       "link": "https://www.espn.com/soccer/story/_/id/49340531/world-cup-daily-live-spidercam-debate-rumbles-four-semifinalists-confirmed-england-argentina-france-spain",
       "image": "https://a.espncdn.com/photo/2026/0712/r1688220_1296x729_16-9.jpg"
     },
@@ -36,13 +43,6 @@
       "published": "2026-07-12T20:20:29Z",
       "link": "https://www.espn.com/soccer/story/_/id/49343877/fifa-world-cup-fifpro-temperature-heat-protocol-talks-sources",
       "image": "https://a.espncdn.com/photo/2026/0712/r1688340_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "FIFA's top four teams make World Cup semifinals for first time",
-      "description": "Argentina, Spain, France and England went into the tournament as the top four in FIFA's rankings and are two wins away from being crowned champions again.",
-      "published": "2026-07-12T20:02:45Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49344988/fifa-top-4-teams-world-cup-semifinals-first",
-      "image": "https://a.espncdn.com/photo/2023/1114/r1252976_1296x729_16-9.jpg"
     }
   ]
 }

@@ -1,20 +1,27 @@
 {
-  "lastUpdated": "2026-07-14T11:51:32.978Z",
+  "lastUpdated": "2026-07-14T13:07:38.590Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "World Cup Daily live: Haaland latest star to inspire baby name boom",
+      "description": "Enjoy all the features, news, video analysis and color from around the 2026 World Cup as we build up to the first semifinal -- France vs. Spain.",
+      "published": "2026-07-14T13:00:44Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49356289/world-cup-daily-live-norway-erling-haaland-latest-star-inspire-baby-name-boom",
+      "image": "https://a.espncdn.com/photo/2026/0714/r1688980_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Barcelona edge Atlético Madrid, Arsenal as club with most players in 2026 World Cup semis",
+      "description": "Spanish champions Barcelona have more players than any other club still competing for World Cup glory.",
+      "published": "2026-07-14T11:59:16Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49357441/barcelona-players-world-cup-2026-semifinals-atletico-madrid",
+      "image": "https://a.espncdn.com/photo/2026/0714/r1689002_1296x729_16-9.jpg"
+    },
     {
       "headline": "Forget Wonderwall, England's World Cup semifinal opponents Argentina have their own special anthem too",
       "description": "One of the defining images of this World Cup has been England's full-time rendition of Wonderwall in unison with the fans. They're not the only team to have generated a bond with their travelling support however.",
       "published": "2026-07-14T11:04:12Z",
       "link": "https://www.espn.com/football/story/_/id/49351670/world-cup-england-argentina-wonderwall-lionel-messi",
       "image": "https://a.espncdn.com/photo/2026/0712/r1688168_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "World Cup Daily live: Haaland latest star to inspire baby name boom",
-      "description": "Enjoy all the features, news, video analysis and color from around the 2026 World Cup as we build up to the first semifinal -- France vs. Spain.",
-      "published": "2026-07-14T11:11:25Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49356289/world-cup-daily-live-norway-erling-haaland-latest-star-inspire-baby-name-boom",
-      "image": "https://a.espncdn.com/photo/2026/0714/r1688980_1296x729_16-9.jpg"
     },
     {
       "headline": "Diego Maradona Jr.: England semifinal a 'special occasion' for Argentina",
@@ -33,16 +40,9 @@
     {
       "headline": "Folarin Balogun joins Klutch Sports agency after breakout World Cup",
       "description": "United States forward Folarin Balogun has signed with LeBron James' agency Klutch Sports following a breakout World Cup that elevated his profile on and off the pitch.",
-      "published": "2026-07-14T11:48:24Z",
+      "published": "2026-07-14T12:04:12Z",
       "link": "https://www.espn.com/soccer/story/_/id/49356529/folarin-balogun-joins-lebron-james-klutch-sports-agency-breakout-world-cup",
       "image": "https://a.espncdn.com/photo/2026/0705/r1684884_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "England's Nico O'Reilly relishing 'once-in-a-lifetime' opportunity to mark Lionel Messi",
-      "description": "Nico O'Reilly is backing himself to come through the \"once-in-a-lifetime\" task of marking Lionel Messi and turning his dream of winning the World Cup into reality.",
-      "published": "2026-07-14T08:31:46Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49356432/england-nico-oreilly-relishing-once-life-opportunity-mark-lionel-messi",
-      "image": "https://a.espncdn.com/photo/2026/0714/r1688972_1296x729_16-9.jpg"
     }
   ]
 }

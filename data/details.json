@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-14T21:50:05.223Z",
+  "lastUpdated": "2026-07-14T21:56:53.570Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -90380,6 +90380,910 @@
         "headline": "Argentina fans go crazy as Mac Allister scores opener vs. Switzerland",
         "mp4": "https://media.video-cdn.espn.com/motion/2026/0711/dm_260711_COM_SOC_Fans_Argentina_fans_go_crazy_as_Mac_Allister_scores_opener_vs_Switzerland__GLOBAL_2026-07/dm_260711_COM_SOC_Fans_Argentina_fans_go_crazy_as_Mac_Allister_scores_opener_vs_Switzerland__GLOBAL_2026-07_360p30_1464k.mp4",
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0711/dm_260711_COM_SOC_Fans_Argentina_fans_go_crazy_as_Mac_Allister_scores_opener_vs_Switzerland__GLOBAL_2026-07/dm_260711_COM_SOC_Fans_Argentina_fans_go_crazy_as_Mac_Allister_scores_opener_vs_Switzerland__GLOBAL_2026-07/playlist.m3u8"
+      },
+      "final": true,
+      "dv": 5
+    },
+    "760514": {
+      "venue": "AT&T Stadium",
+      "stats": {
+        "home": {
+          "foulsCommitted": "11",
+          "yellowCards": "2",
+          "redCards": "0",
+          "offsides": "4",
+          "wonCorners": "7",
+          "saves": "0",
+          "possessionPct": "49.1",
+          "totalShots": "10",
+          "shotsOnTarget": "3",
+          "shotPct": "0.3",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "395",
+          "totalPasses": "472",
+          "passPct": "0.8",
+          "accurateCrosses": "4",
+          "totalCrosses": "20",
+          "crossPct": "0.2",
+          "totalLongBalls": "36",
+          "accurateLongBalls": "19",
+          "longballPct": "0.5",
+          "blockedShots": "2",
+          "effectiveTackles": "8",
+          "totalTackles": "14",
+          "tacklePct": "0.6",
+          "interceptions": "8",
+          "effectiveClearance": "11",
+          "totalClearance": "11"
+        },
+        "away": {
+          "foulsCommitted": "12",
+          "yellowCards": "1",
+          "redCards": "0",
+          "offsides": "5",
+          "wonCorners": "1",
+          "saves": "3",
+          "possessionPct": "50.9",
+          "totalShots": "10",
+          "shotsOnTarget": "2",
+          "shotPct": "0.2",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "1",
+          "accuratePasses": "428",
+          "totalPasses": "500",
+          "passPct": "0.9",
+          "accurateCrosses": "1",
+          "totalCrosses": "8",
+          "crossPct": "0.1",
+          "totalLongBalls": "49",
+          "accurateLongBalls": "14",
+          "longballPct": "0.3",
+          "blockedShots": "3",
+          "effectiveTackles": "14",
+          "totalTackles": "22",
+          "tacklePct": "0.6",
+          "interceptions": "7",
+          "effectiveClearance": "22",
+          "totalClearance": "22"
+        }
+      },
+      "events": [
+        {
+          "kind": "Yellow Card",
+          "min": "9'",
+          "side": "home",
+          "player": "Adrien Rabiot"
+        },
+        {
+          "kind": "Penalty - Scored",
+          "min": "22'",
+          "side": "away",
+          "player": "Goal! France 0, Spain 1. Mikel Oyarzabal"
+        },
+        {
+          "kind": "Substitution",
+          "min": "30'",
+          "side": "home",
+          "player": "Substitution, France. Maxence Lacroix replaces William Saliba because of an injury."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "31'",
+          "side": "away",
+          "player": "Marc Cucurella"
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "home",
+          "player": "Substitution, France. Manu Koné replaces Adrien Rabiot."
+        },
+        {
+          "kind": "Substitution",
+          "min": "57'",
+          "side": "home",
+          "player": "Substitution, France. Désiré Doué replaces Bradley Barcola."
+        },
+        {
+          "kind": "Goal",
+          "min": "58'",
+          "side": "away",
+          "player": "Goal! France 0, Spain 2. Pedro Porro"
+        },
+        {
+          "kind": "Substitution",
+          "min": "72'",
+          "side": "home",
+          "player": "Substitution, France. Théo Hernández replaces Lucas Digne."
+        },
+        {
+          "kind": "Substitution",
+          "min": "72'",
+          "side": "home",
+          "player": "Substitution, France. Rayan Cherki replaces Michael Olise."
+        },
+        {
+          "kind": "Substitution",
+          "min": "74'",
+          "side": "away",
+          "player": "Substitution, Spain. Ferran Torres replaces Mikel Oyarzabal."
+        },
+        {
+          "kind": "Substitution",
+          "min": "78'",
+          "side": "away",
+          "player": "Substitution, Spain. Mikel Merino replaces Dani Olmo."
+        },
+        {
+          "kind": "Substitution",
+          "min": "78'",
+          "side": "away",
+          "player": "Substitution, Spain. Pedri replaces Fabián Ruiz."
+        },
+        {
+          "kind": "Substitution",
+          "min": "84'",
+          "side": "away",
+          "player": "Substitution, Spain. Marcos Llorente replaces Pedro Porro."
+        },
+        {
+          "kind": "Substitution",
+          "min": "84'",
+          "side": "away",
+          "player": "Substitution, Spain. Nico Williams replaces Álex Baena."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "86'",
+          "side": "home",
+          "player": "Kylian Mbappé"
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Mike Maignan",
+            "short": "M. Maignan",
+            "num": "16",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "William Saliba",
+            "short": "W. Saliba",
+            "num": "17",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Dayot Upamecano",
+            "short": "D. Upamecano",
+            "num": "4",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Lucas Digne",
+            "short": "L. Digne",
+            "num": "3",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Jules Koundé",
+            "short": "J. Koundé",
+            "num": "5",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Michael Olise",
+            "short": "M. Olise",
+            "num": "11",
+            "pos": "AM",
+            "place": "10"
+          },
+          {
+            "name": "Adrien Rabiot",
+            "short": "A. Rabiot",
+            "num": "14",
+            "pos": "LM",
+            "place": "4"
+          },
+          {
+            "name": "Aurélien Tchouaméni",
+            "short": "A. Tchouaméni",
+            "num": "8",
+            "pos": "RM",
+            "place": "8"
+          },
+          {
+            "name": "Kylian Mbappé",
+            "short": "K. Mbappé",
+            "num": "10",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Bradley Barcola",
+            "short": "B. Barcola",
+            "num": "12",
+            "pos": "AM-L",
+            "place": "11"
+          },
+          {
+            "name": "Ousmane Dembélé",
+            "short": "O. Dembélé",
+            "num": "7",
+            "pos": "AM-R",
+            "place": "7"
+          }
+        ],
+        "away": [
+          {
+            "name": "Unai Simón",
+            "short": "U. Simón",
+            "num": "23",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Aymeric Laporte",
+            "short": "A. Laporte",
+            "num": "14",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Pau Cubarsí",
+            "short": "P. Cubarsí",
+            "num": "22",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Marc Cucurella",
+            "short": "M. Cucurella",
+            "num": "24",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Pedro Porro",
+            "short": "P. Porro",
+            "num": "12",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Dani Olmo",
+            "short": "D. Olmo",
+            "num": "10",
+            "pos": "AM",
+            "place": "10"
+          },
+          {
+            "name": "Fabián Ruiz",
+            "short": "F. Ruiz",
+            "num": "8",
+            "pos": "LM",
+            "place": "4"
+          },
+          {
+            "name": "Rodri",
+            "short": "Rodri",
+            "num": "16",
+            "pos": "RM",
+            "place": "8"
+          },
+          {
+            "name": "Mikel Oyarzabal",
+            "short": "M. Oyarzabal",
+            "num": "21",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Álex Baena",
+            "short": "Á. Baena",
+            "num": "15",
+            "pos": "AM-L",
+            "place": "11"
+          },
+          {
+            "name": "Lamine Yamal",
+            "short": "L. Yamal",
+            "num": "19",
+            "pos": "AM-R",
+            "place": "7"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Brice Samba",
+            "short": "B. Samba",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Robin Risser",
+            "short": "R. Risser",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ibrahima Konaté",
+            "short": "I. Konaté",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Malo Gusto",
+            "short": "M. Gusto",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jean-Philippe Mateta",
+            "short": "J. Mateta",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Marcus Thuram",
+            "short": "M. Thuram",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Manu Koné",
+            "short": "M. Koné",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Lucas Hernández",
+            "short": "L. Hernández",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Theo Hernández",
+            "short": "T. Hernández",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Désiré Doué",
+            "short": "D. Doué",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Rayan Cherki",
+            "short": "R. Cherki",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Maghnes Akliouche",
+            "short": "M. Akliouche",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "N'Golo Kanté",
+            "short": "N. Kanté",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Warren Zaïre-Emery",
+            "short": "W. Zaïre-Emery",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Maxence Lacroix",
+            "short": "M. Lacroix",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Alejandro Grimaldo",
+            "short": "A. Grimaldo",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Marc Pubill",
+            "short": "M. Pubill",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ferran Torres",
+            "short": "F. Torres",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Borja Iglesias",
+            "short": "B. Iglesias",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Marcos Llorente",
+            "short": "M. Llorente",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Víctor Muñoz",
+            "short": "V. Muñoz",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nico Williams",
+            "short": "N. Williams",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Yéremy Pino",
+            "short": "Y. Pino",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Pedri",
+            "short": "Pedri",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Eric García",
+            "short": "E. García",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gavi",
+            "short": "Gavi",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Martín Zubimendi",
+            "short": "M. Zubimendi",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Joan García",
+            "short": "J. García",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "David Raya",
+            "short": "D. Raya",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mikel Merino",
+            "short": "M. Merino",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-2-3-1",
+        "away": "4-2-3-1"
+      },
+      "commentary": [
+        {
+          "min": "",
+          "text": "Match ends, France 0, Spain 2.",
+          "goal": false
+        },
+        {
+          "min": "90'+7'",
+          "text": "Second Half ends, France 0, Spain 2.",
+          "goal": false
+        },
+        {
+          "min": "90'+7'",
+          "text": "Attempt missed. Kylian Mbappé (France) right footed shot from outside the box is too high. Assisted by Désiré Doué.",
+          "goal": false
+        },
+        {
+          "min": "90'+7'",
+          "text": "Attempt saved. Ousmane Dembélé (France) right footed shot from the right side of the box is saved in the centre of the goal by Unai Simón (Spain). Assisted by Désiré Doué.",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Attempt saved. Ousmane Dembélé (France) left footed shot from the right side of the box is saved in the top centre of the goal by Unai Simón (Spain). Assisted by Rayan Cherki.",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Attempt missed. Nico Williams (Spain) left footed shot from a difficult angle on the left is close, but misses to the left. Assisted by Ferran Torres.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Rodri (Spain) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Foul by Manu Koné (France).",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Fourth official has announced 7 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Corner, France. Conceded by Marc Cucurella.",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Attempt missed. Kylian Mbappé (France) right footed shot from outside the box is too high from a direct free kick.",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Foul by Lamine Yamal (Spain).",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Désiré Doué (France) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Kylian Mbappé (France) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Unai Simón (Spain) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "86'",
+          "text": "Foul by Kylian Mbappé (France).",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Foul by Rodri (Spain).",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Ousmane Dembélé (France) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Foul by Ferran Torres (Spain).",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Théo Hernández (France) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Substitution, Spain. Nico Williams replaces Álex Baena.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Substitution, Spain. Marcos Llorente replaces Pedro Porro.",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "VAR Decision: Other Decision Cancelled.",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Attempt saved. Désiré Doué (France) right footed shot from outside the box is saved in the top centre of the goal by Unai Simón (Spain).",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Foul by Rodri (Spain).",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Manu Koné (France) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Attempt missed. Ferran Torres (Spain) header from the centre of the box is close, but misses to the left.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Substitution, Spain. Pedri replaces Fabián Ruiz.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Substitution, Spain. Mikel Merino replaces Dani Olmo.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Rodri (Spain) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Foul by Maxence Lacroix (France).",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Foul by Lamine Yamal (Spain).",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Kylian Mbappé (France) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Offside, Spain. Ferran Torres is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "74'",
+          "text": "Substitution, Spain. Ferran Torres replaces Mikel Oyarzabal.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Foul by Dani Olmo (Spain).",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Aurélien Tchouaméni (France) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Substitution, France. Rayan Cherki replaces Michael Olise.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Substitution, France. Théo Hernández replaces Lucas Digne.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "69'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "69'",
+          "text": "Álex Baena (Spain) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "69'",
+          "text": "Foul by Jules Koundé (France).",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Offside, France. Kylian Mbappé is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Attempt blocked. Désiré Doué (France) right footed shot from outside the box is blocked. Assisted by Michael Olise.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Corner, France. Conceded by Marc Cucurella.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Attempt blocked. Kylian Mbappé (France) right footed shot from the right side of the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Dani Olmo (Spain) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Foul by Manu Koné (France).",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Attempt missed. Aurélien Tchouaméni (France) right footed shot from the centre of the box is too high. Assisted by Michael Olise with a cross following a corner.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Corner, France. Conceded by Pedro Porro.",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Corner, France. Conceded by Unai Simón.",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Offside, Spain. Lamine Yamal is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "58'",
+          "text": "Goal! France 0, Spain 2. Pedro Porro (Spain) right footed shot from the centre of the box to the bottom right corner. Assisted by Dani Olmo.",
+          "goal": true
+        },
+        {
+          "min": "58'",
+          "text": "Attempt blocked. Álex Baena (Spain) right footed shot from outside the box is blocked. Assisted by Dani Olmo.",
+          "goal": false
+        },
+        {
+          "min": "57'",
+          "text": "Substitution, France. Désiré Doué replaces Bradley Barcola.",
+          "goal": false
+        },
+        {
+          "min": "55'",
+          "text": "Offside, Spain. Álex Baena is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "52'",
+          "text": "Attempt missed. Mikel Oyarzabal (Spain) left footed shot from outside the box is too high. Assisted by Álex Baena.",
+          "goal": false
+        },
+        {
+          "min": "51'",
+          "text": "Offside, Spain. Lamine Yamal is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "50'",
+          "text": "Mikel Oyarzabal (Spain) wins a free kick in the defensive half.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "K. Mbappé",
+            "num": "10",
+            "pos": "F",
+            "value": "3"
+          },
+          "away": {
+            "name": "Á. Baena",
+            "num": "15",
+            "pos": "M",
+            "value": "2"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "A. Tchouaméni",
+            "num": "8",
+            "pos": "M",
+            "value": "54"
+          },
+          "away": {
+            "name": "A. Laporte",
+            "num": "14",
+            "pos": "D",
+            "value": "70"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "A. Rabiot",
+            "num": "14",
+            "pos": "M",
+            "value": "11"
+          },
+          "away": {
+            "name": "P. Cubarsí",
+            "num": "22",
+            "pos": "D",
+            "value": "10"
+          }
+        },
+        {
+          "label": "Saves",
+          "away": {
+            "name": "U. Simón",
+            "num": "23",
+            "pos": "G",
+            "value": "3"
+          }
+        }
+      ],
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0714/dm_260714_McManaman_Spain_made_us_look_like_fools_for_backing_France/dm_260714_McManaman_Spain_made_us_look_like_fools_for_backing_France.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49361784/spain-made-us-look-fools-backing-france",
+        "headline": "McManaman: Spain made us look like fools for backing France",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0714/dm_260714_McManaman_Spain_made_us_look_like_fools_for_backing_France/dm_260714_McManaman_Spain_made_us_look_like_fools_for_backing_France_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0714/dm_260714_McManaman_Spain_made_us_look_like_fools_for_backing_France/dm_260714_McManaman_Spain_made_us_look_like_fools_for_backing_France/playlist.m3u8"
       },
       "final": true,
       "dv": 5

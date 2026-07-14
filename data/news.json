@@ -1,13 +1,34 @@
 {
-  "lastUpdated": "2026-07-14T00:58:22.792Z",
+  "lastUpdated": "2026-07-14T04:09:28.288Z",
   "source": "ESPN",
   "articles": [
     {
+      "headline": "American ref Elfath to oversee England-Argentina semifinal",
+      "description": "American referee Ismail Elfath has been appointed to take charge of Wednesday's FIFA World Cup semifinal between England and Argentina at Mercedes-Benz Stadium.",
+      "published": "2026-07-14T01:03:43Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49354566/american-ref-elfath-oversee-england-argentina-semifinal",
+      "image": "https://a.espncdn.com/photo/2026/0714/r1688908_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "World Cup Daily live: Haaland returns to Norway with stuffed raccoon in tow",
+      "description": "Enjoy all the features, news, video analysis and color from around the competition as we now know our four World Cup semifinalists.",
+      "published": "2026-07-14T00:51:53Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49348483/world-cup-daily-live-happy-birthday-lamine-yamal-world-cup-itself",
+      "image": "https://a.espncdn.com/photo/2026/0713/r1688820_1296x729_16-9.jpg"
+    },
+    {
       "headline": "De La Fuente: Spain know France 'much better' than Euro '24",
       "description": "Spain head coach Luis de la Fuente said he knows France are a much better team than the one they defeated in the Euro 2024 semifinals two years ago.",
-      "published": "2026-07-14T00:47:46Z",
+      "published": "2026-07-14T00:58:50Z",
       "link": "https://www.espn.com/soccer/story/_/id/49354318/spain-know-france-much-better-euro-24",
       "image": "https://a.espncdn.com/photo/2026/0624/r1678630_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "France's Deschamps predicts 'spectacular' semifinal vs. Spain",
+      "description": "France head coach Didier Deschamps deflected questions about his team's World Cup favorite status and projected a \"spectacular game\" against Spain in Tuesday's semifinal.",
+      "published": "2026-07-14T02:04:51Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49354271/france-deschamps-predicts-spectacular-semifinal-clash-vs-spain",
+      "image": "https://a.espncdn.com/photo/2026/0714/r1688912_1296x729_16-9.jpg"
     },
     {
       "headline": "England vs. Argentina: Declan Rice winning fitness race for World Cup semifinal - sources",
@@ -17,32 +38,11 @@
       "image": "https://a.espncdn.com/photo/2026/0713/r1688896_1296x729_16-9.jpg"
     },
     {
-      "headline": "Koundé says Yamal meant no 'lack of respect' in France jibe",
+      "headline": "Koundé says Yamal meant no 'lack of respect' in France gibe",
       "description": "Jules Koundé said Monday that Spain winger Lamine Yamal's comments that France should fear the defending Euro champions ahead of their FIFA World Cup semifinal weren't a sign of disrespect.",
-      "published": "2026-07-13T23:26:27Z",
+      "published": "2026-07-14T02:34:05Z",
       "link": "https://www.espn.com/soccer/story/_/id/49353462/kounde-yamal-lack-respect-france-jibe",
       "image": "https://a.espncdn.com/photo/2026/0713/r1688884_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Moreno: Kane is the best player Argentina have faced this World Cup",
-      "description": "Moreno: Kane is the best player Argentina have faced this World Cup",
-      "published": "2026-07-13T22:28:21Z",
-      "link": "https://www.espn.com/video/clip/_/id/49353729/kane-best-player-argentina-faced-world-cup",
-      "image": "https://a.espncdn.com/media/motion/2026/0713/dm_260713_COM_SOC_Analysis_Moreno3A_Kane_is_the_best_player_Argentina_have_faced_this_World_Cup_GLOBAL_2026-0/dm_260713_COM_SOC_Analysis_Moreno3A_Kane_is_the_best_player_Argentina_have_faced_this_World_Cup_GLOBAL_2026-0.jpg"
-    },
-    {
-      "headline": "Have Argentina had the easiest route to the World Cup semifinals?",
-      "description": "Have Argentina had the easiest route to the World Cup semifinals?",
-      "published": "2026-07-13T22:23:25Z",
-      "link": "https://www.espn.com/video/clip/_/id/49353621/have-argentina-had-easiest-route-world-cup-semifinals",
-      "image": "https://a.espncdn.com/media/motion/2026/0713/dm_260713_COM_SOC_Analysis_Have_Argentina_had_the_easiest_route_to_the_World_Cup_semifinals3F__GLOBAL_2026-07/dm_260713_COM_SOC_Analysis_Have_Argentina_had_the_easiest_route_to_the_World_Cup_semifinals3F__GLOBAL_2026-07.jpg"
-    },
-    {
-      "headline": "Has Olise 'outshined' Mbappé for France at the World Cup?",
-      "description": "Has Olise 'outshined' Mbappé for France at the World Cup?",
-      "published": "2026-07-13T22:23:12Z",
-      "link": "https://www.espn.com/video/clip/_/id/49353597/has-olise-outshined-mbappe-france-world-cup",
-      "image": "https://a.espncdn.com/media/motion/2026/0713/dm_260713_COM_SOC_Analysis_Has_Olise_E28098outshin1102/dm_260713_COM_SOC_Analysis_Has_Olise_E28098outshin1102.jpg"
     }
   ]
 }

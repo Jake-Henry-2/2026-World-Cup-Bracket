@@ -968,7 +968,7 @@
   // Pull live scores straight from ESPN in the browser → true real-time, no dependency on the
   // build/scheduler. Mirrors scripts/fetch-scores.mjs exactly. A plain GET to site.api.espn.com
   // sends no custom headers (no CORS preflight); on any failure we throw and fall back to the feed.
-  const ESPN_SCOREBOARD = "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates=20260611-20260720";
+  const ESPN_SCOREBOARD = "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates=20260628-20260720";
   // DraftKings odds, straight out of the ESPN feed: home/draw/away moneyline (American) + goal total.
   // We capture the closing price (fallback to opening). These power the projections (probabilities + xG).
   function parseOdds(comp) {

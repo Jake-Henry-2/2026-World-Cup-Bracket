@@ -8,7 +8,7 @@
 import { writeFileSync, readFileSync, existsSync } from "node:fs";
 
 const ESPN = "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates=";
-const START = "2026-06-11";              // tournament opener; we aggregate from here for cumulative scoring
+const START = "2026-06-28";              // tournament opener; we aggregate from here for cumulative scoring
 
 /* --- canonical team names + aliases (mirrors data/league.js) --------------- */
 const GROUPS = {

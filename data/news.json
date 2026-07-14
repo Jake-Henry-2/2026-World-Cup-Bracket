@@ -1,13 +1,27 @@
 {
-  "lastUpdated": "2026-07-14T17:39:36.354Z",
+  "lastUpdated": "2026-07-14T18:47:28.785Z",
   "source": "ESPN",
   "articles": [
     {
-      "headline": "World Cup Daily live: Haaland latest star to inspire baby name boom",
-      "description": "Enjoy all the features, news, video analysis and color from around the 2026 World Cup as we build up to the first semifinal -- France vs. Spain.",
-      "published": "2026-07-14T17:23:02Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49356289/world-cup-daily-live-norway-erling-haaland-latest-star-inspire-baby-name-boom",
-      "image": "https://a.espncdn.com/photo/2026/0714/r1688980_1296x729_16-9.jpg"
+      "headline": "How Scaloni unlocked Messi's goal scoring at World Cup for Argentina",
+      "description": "Lionel Messi went from six goals in four World Cups to 15 (and counting) in 2022 and 2026. What changed under Lionel Scaloni?",
+      "published": "2026-07-14T18:14:56Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49353881/how-argentina-coach-scaloni-unlocked-messi-goal-scoring-2026-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0714/r1688941_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Experience facing England's Premier League stars may help in World Cup semifinal - Alexis Mac Allister",
+      "description": "Argentina midfielder Alexis Mac Allister said playing in the Premier League with Liverpool may be helpful when facing England on Wednesday in Atlanta.",
+      "published": "2026-07-14T17:58:11Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49360330/experience-facing-england-premier-league-stars-help-world-cup-semifinal-alexis-mac-allister",
+      "image": "https://a.espncdn.com/photo/2026/0714/r1689147_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Lionel Messi vs. Harry Kane: How do Argentina and England's captains compare? Key stats before World Cup semifinal clash",
+      "description": "In the latest iteration of a footballing rivalry that goes back generations, England and Argentina are due to showdown in the World Cup semifinal.",
+      "published": "2026-07-14T18:01:07Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49359198/lionel-messi-harry-kane-argentina-england-world-cup-2026",
+      "image": "https://a.espncdn.com/photo/2026/0714/r1689058_1296x729_16-9.jpg"
     },
     {
       "headline": "Why England vs. Argentina is World Cup's best, angriest, most chaotic rivalry",
@@ -29,20 +43,6 @@
       "published": "2026-07-14T17:09:46Z",
       "link": "https://www.espn.com/soccer/story/_/id/49357302/diego-maradona-hand-god-england-argentina-handball-fifa-world-cup",
       "image": "https://a.espncdn.com/photo/2026/0714/r1688927_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Harry Kane: England can't be dragged into emotional baggage of Argentina game",
-      "description": "Harry Kane says a World Cup semifinal against historic rivals Argentina is \"as big as it gets\" but stressed England cannot be drawn into the emotional baggage surrounding the fixture.",
-      "published": "2026-07-14T15:13:44Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49358709/harry-kane-england-argentina-world-cup-2026-semifinal",
-      "image": "https://a.espncdn.com/photo/2026/0714/r1689059_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Moreno backs Bellingham to thrive in 'prickly' environment",
-      "description": "Moreno backs Bellingham to thrive in 'prickly' environment",
-      "published": "2026-07-14T14:39:15Z",
-      "link": "https://www.espn.com/video/clip/_/id/49358524/moreno-backs-bellingham-thrive-prickly-environment",
-      "image": "https://a.espncdn.com/media/motion/2026/0714/dm_260714_COM_SOC_Analysis_Moreno_backs_Bellingham_to_thrive_in_prickly_environment_20260714_GLOBAL_FIFA/dm_260714_COM_SOC_Analysis_Moreno_backs_Bellingham_to_thrive_in_prickly_environment_20260714_GLOBAL_FIFA.jpg"
     }
   ]
 }

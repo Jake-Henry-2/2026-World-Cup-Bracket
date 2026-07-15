@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-15T20:28:26.614Z",
+  "lastUpdated": "2026-07-15T21:31:21.090Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -91292,64 +91292,64 @@
       "venue": "Mercedes-Benz Stadium",
       "stats": {
         "home": {
-          "foulsCommitted": "8",
+          "foulsCommitted": "11",
           "yellowCards": "1",
           "redCards": "0",
           "offsides": "1",
           "wonCorners": "2",
-          "saves": "1",
-          "possessionPct": "40.1",
-          "totalShots": "3",
+          "saves": "3",
+          "possessionPct": "35.7",
+          "totalShots": "5",
           "shotsOnTarget": "2",
-          "shotPct": "0.7",
+          "shotPct": "0.4",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "244",
-          "totalPasses": "277",
-          "passPct": "0.9",
+          "accuratePasses": "273",
+          "totalPasses": "325",
+          "passPct": "0.8",
           "accurateCrosses": "3",
-          "totalCrosses": "10",
-          "crossPct": "0.3",
-          "totalLongBalls": "23",
-          "accurateLongBalls": "9",
+          "totalCrosses": "15",
+          "crossPct": "0.2",
+          "totalLongBalls": "42",
+          "accurateLongBalls": "16",
           "longballPct": "0.4",
-          "blockedShots": "0",
+          "blockedShots": "2",
           "effectiveTackles": "8",
           "totalTackles": "14",
           "tacklePct": "0.6",
-          "interceptions": "6",
-          "effectiveClearance": "17",
-          "totalClearance": "17"
+          "interceptions": "9",
+          "effectiveClearance": "29",
+          "totalClearance": "29"
         },
         "away": {
-          "foulsCommitted": "13",
-          "yellowCards": "2",
+          "foulsCommitted": "15",
+          "yellowCards": "3",
           "redCards": "0",
-          "offsides": "2",
-          "wonCorners": "3",
+          "offsides": "3",
+          "wonCorners": "6",
           "saves": "1",
-          "possessionPct": "59.9",
-          "totalShots": "6",
-          "shotsOnTarget": "1",
-          "shotPct": "0.2",
+          "possessionPct": "64.3",
+          "totalShots": "15",
+          "shotsOnTarget": "5",
+          "shotPct": "0.3",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "381",
-          "totalPasses": "420",
+          "accuratePasses": "537",
+          "totalPasses": "590",
           "passPct": "0.9",
-          "accurateCrosses": "1",
-          "totalCrosses": "8",
-          "crossPct": "0.1",
-          "totalLongBalls": "18",
-          "accurateLongBalls": "7",
-          "longballPct": "0.4",
-          "blockedShots": "1",
-          "effectiveTackles": "7",
-          "totalTackles": "16",
-          "tacklePct": "0.4",
-          "interceptions": "5",
-          "effectiveClearance": "15",
-          "totalClearance": "15"
+          "accurateCrosses": "6",
+          "totalCrosses": "19",
+          "crossPct": "0.3",
+          "totalLongBalls": "27",
+          "accurateLongBalls": "13",
+          "longballPct": "0.5",
+          "blockedShots": "3",
+          "effectiveTackles": "10",
+          "totalTackles": "20",
+          "tacklePct": "0.5",
+          "interceptions": "6",
+          "effectiveClearance": "30",
+          "totalClearance": "30"
         }
       },
       "events": [
@@ -91372,7 +91372,7 @@
           "player": "Cristian Romero"
         },
         {
-          "kind": "Goal - Volley",
+          "kind": "Goal",
           "min": "55'",
           "side": "home",
           "player": "Goal! England 1, Argentina 0. Anthony Gordon"
@@ -91382,6 +91382,78 @@
           "min": "64'",
           "side": "away",
           "player": "Substitution, Argentina. Nico González replaces Leandro Paredes."
+        },
+        {
+          "kind": "Substitution",
+          "min": "72'",
+          "side": "home",
+          "player": "Substitution, England. Ezri Konsa replaces Anthony Gordon."
+        },
+        {
+          "kind": "Substitution",
+          "min": "72'",
+          "side": "away",
+          "player": "Substitution, Argentina. Gonzalo Montiel replaces Nahuel Molina."
+        },
+        {
+          "kind": "Substitution",
+          "min": "72'",
+          "side": "away",
+          "player": "Substitution, Argentina. Rodrigo De Paul replaces Giuliano Simeone."
+        },
+        {
+          "kind": "Substitution",
+          "min": "72'",
+          "side": "away",
+          "player": "Substitution, Argentina. Nicolás Otamendi replaces Lisandro Martínez."
+        },
+        {
+          "kind": "Substitution",
+          "min": "81'",
+          "side": "away",
+          "player": "Substitution, Argentina. Lautaro Martínez replaces Nicolás Tagliafico."
+        },
+        {
+          "kind": "Substitution",
+          "min": "82'",
+          "side": "home",
+          "player": "Substitution, England. Dan Burn replaces Reece James because of an injury."
+        },
+        {
+          "kind": "Substitution",
+          "min": "82'",
+          "side": "home",
+          "player": "Substitution, England. Nico O'Reilly replaces Declan Rice."
+        },
+        {
+          "kind": "Goal",
+          "min": "85'",
+          "side": "away",
+          "player": "Goal! England 1, Argentina 1. Enzo Fernández"
+        },
+        {
+          "kind": "Goal - Header",
+          "min": "90'+2'",
+          "side": "away",
+          "player": "Goal! England 1, Argentina 2. Lautaro Martínez"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "90'+4'",
+          "side": "away",
+          "player": "Rodrigo De Paul"
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'+6'",
+          "side": "home",
+          "player": "Substitution, England. Ivan Toney replaces John Stones."
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'+6'",
+          "side": "home",
+          "player": "Substitution, England. Marcus Rashford replaces Djed Spence."
         }
       ],
       "lineups": {
@@ -91759,8 +91831,228 @@
       },
       "commentary": [
         {
+          "min": "",
+          "text": "Match ends, England 1, Argentina 2.",
+          "goal": false
+        },
+        {
+          "min": "90'+12'",
+          "text": "Second Half ends, England 1, Argentina 2.",
+          "goal": false
+        },
+        {
+          "min": "90'+12'",
+          "text": "Emiliano Martínez (Argentina) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+12'",
+          "text": "Foul by Dan Burn (England).",
+          "goal": false
+        },
+        {
+          "min": "90'+9'",
+          "text": "Lionel Messi (Argentina) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+9'",
+          "text": "Foul by Jude Bellingham (England).",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Substitution, England. Marcus Rashford replaces Djed Spence.",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Substitution, England. Ivan Toney replaces John Stones.",
+          "goal": false
+        },
+        {
+          "min": "90'+4'",
+          "text": "Rodrigo De Paul (Argentina) is shown the yellow card.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Goal! England 1, Argentina 2. Lautaro Martínez (Argentina) header from very close range to the top left corner. Assisted by Lionel Messi with a cross.",
+          "goal": true
+        },
+        {
+          "min": "90'+2'",
+          "text": "Attempt blocked. Alexis Mac Allister (Argentina) right footed shot from outside the box is blocked. Assisted by Nico González.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Fourth official has announced 9 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "88'",
+          "text": "Delay in match because of an injury John Stones (England).",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Goal! England 1, Argentina 1. Enzo Fernández (Argentina) right footed shot from outside the box to the bottom left corner. Assisted by Lionel Messi following a corner.",
+          "goal": true
+        },
+        {
+          "min": "85'",
+          "text": "Corner, Argentina. Conceded by Jordan Pickford.",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Attempt missed. Enzo Fernández (Argentina) right footed shot from outside the box is just a bit too high. Assisted by Julián Alvarez.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Attempt blocked. Rodrigo De Paul (Argentina) right footed shot from outside the box is blocked. Assisted by Enzo Fernández.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Substitution, England. Nico O'Reilly replaces Declan Rice.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Substitution, England. Dan Burn replaces Reece James because of an injury.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Delay in match because of an injury Reece James (England).",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Substitution, Argentina. Lautaro Martínez replaces Nicolás Tagliafico.",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Foul by Nico González (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Harry Kane (England) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Attempt blocked. Morgan Rogers (England) right footed shot from outside the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Offside, Argentina. Nico González is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Attempt saved. Alexis Mac Allister (Argentina) header from the centre of the box is saved in the centre of the goal by Jordan Pickford (England). Assisted by Rodrigo De Paul with a cross.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Attempt missed. Julián Alvarez (Argentina) left footed shot from the centre of the box misses to the left.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Alexis Mac Allister (Argentina) hits the left post with a header from the centre of the box. Assisted by Rodrigo De Paul with a cross.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Substitution, Argentina. Nicolás Otamendi replaces Lisandro Martínez.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Substitution, Argentina. Rodrigo De Paul replaces Giuliano Simeone.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Substitution, Argentina. Gonzalo Montiel replaces Nahuel Molina.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Substitution, England. Ezri Konsa replaces Anthony Gordon.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "69'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "69'",
+          "text": "Foul by Cristian Romero (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "69'",
+          "text": "Djed Spence (England) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "69'",
+          "text": "Attempt saved. Nico González (Argentina) header from the centre of the box is saved in the centre of the goal by Jordan Pickford (England). Assisted by Lionel Messi with a cross.",
+          "goal": false
+        },
+        {
+          "min": "68'",
+          "text": "Corner, Argentina. Conceded by Elliot Anderson.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Corner, Argentina. Conceded by Declan Rice.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Nicolás Tagliafico (Argentina) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Foul by Morgan Rogers (England).",
+          "goal": false
+        },
+        {
           "min": "66'",
-          "text": "Attempt saved. Declan Rice (England) right footed shot from outside the box is saved.",
+          "text": "Attempt blocked. Harry Kane (England) right footed shot from outside the box is blocked. Assisted by Declan Rice.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Attempt saved. Declan Rice (England) right footed shot from outside the box is saved in the bottom left corner by Emiliano Martínez (Argentina). Assisted by Reece James.",
           "goal": false
         },
         {
@@ -91837,234 +92129,14 @@
           "min": "45'+4'",
           "text": "First Half ends, England 0, Argentina 0.",
           "goal": false
-        },
-        {
-          "min": "45'+4'",
-          "text": "Corner, England. Conceded by Enzo Fernández.",
-          "goal": false
-        },
-        {
-          "min": "45'+3'",
-          "text": "Dangerous play by Leandro Paredes (Argentina).",
-          "goal": false
-        },
-        {
-          "min": "45'+3'",
-          "text": "Reece James (England) wins a free kick on the right wing.",
-          "goal": false
-        },
-        {
-          "min": "45'+2'",
-          "text": "Offside, England. Morgan Rogers is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "45'+1'",
-          "text": "Fourth official has announced 3 minutes of added time.",
-          "goal": false
-        },
-        {
-          "min": "43'",
-          "text": "Foul by Enzo Fernández (Argentina).",
-          "goal": false
-        },
-        {
-          "min": "43'",
-          "text": "Elliot Anderson (England) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "42'",
-          "text": "Lisandro Martínez (Argentina) is shown the yellow card for a bad foul.",
-          "goal": false
-        },
-        {
-          "min": "42'",
-          "text": "Foul by Lisandro Martínez (Argentina).",
-          "goal": false
-        },
-        {
-          "min": "42'",
-          "text": "Morgan Rogers (England) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "38'",
-          "text": "Attempt missed. Enzo Fernández (Argentina) right footed shot from outside the box is just a bit too high following a set piece situation.",
-          "goal": false
-        },
-        {
-          "min": "38'",
-          "text": "Attempt blocked. Lionel Messi (Argentina) left footed shot from outside the box is blocked. Assisted by Leandro Paredes.",
-          "goal": false
-        },
-        {
-          "min": "37'",
-          "text": "Elliot Anderson (England) is shown the yellow card for a bad foul.",
-          "goal": false
-        },
-        {
-          "min": "37'",
-          "text": "Lionel Messi (Argentina) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "37'",
-          "text": "Foul by Elliot Anderson (England).",
-          "goal": false
-        },
-        {
-          "min": "35'",
-          "text": "Foul by Nahuel Molina (Argentina).",
-          "goal": false
-        },
-        {
-          "min": "35'",
-          "text": "Jude Bellingham (England) wins a free kick on the left wing.",
-          "goal": false
-        },
-        {
-          "min": "34'",
-          "text": "Foul by Giuliano Simeone (Argentina).",
-          "goal": false
-        },
-        {
-          "min": "34'",
-          "text": "Marc Guéhi (England) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "33'",
-          "text": "Attempt missed. John Stones (England) header from the centre of the box is close, but misses to the right. Assisted by Declan Rice with a cross following a set piece situation.",
-          "goal": false
-        },
-        {
-          "min": "32'",
-          "text": "Foul by Enzo Fernández (Argentina).",
-          "goal": false
-        },
-        {
-          "min": "32'",
-          "text": "Jude Bellingham (England) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "30'",
-          "text": "Giuliano Simeone (Argentina) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "30'",
-          "text": "Foul by Anthony Gordon (England).",
-          "goal": false
-        },
-        {
-          "min": "28'",
-          "text": "Delay over. They are ready to continue.",
-          "goal": false
-        },
-        {
-          "min": "25'",
-          "text": "Delay in match for a drinks break.",
-          "goal": false
-        },
-        {
-          "min": "25'",
-          "text": "Foul by Giuliano Simeone (Argentina).",
-          "goal": false
-        },
-        {
-          "min": "25'",
-          "text": "Jordan Pickford (England) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "24'",
-          "text": "Corner, Argentina. Conceded by Djed Spence.",
-          "goal": false
-        },
-        {
-          "min": "23'",
-          "text": "Alexis Mac Allister (Argentina) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "23'",
-          "text": "Foul by Jude Bellingham (England).",
-          "goal": false
-        },
-        {
-          "min": "21'",
-          "text": "Nicolás Tagliafico (Argentina) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "21'",
-          "text": "Foul by Morgan Rogers (England).",
-          "goal": false
-        },
-        {
-          "min": "21'",
-          "text": "Offside, Argentina. Lionel Messi is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "16'",
-          "text": "Foul by Giuliano Simeone (Argentina).",
-          "goal": false
-        },
-        {
-          "min": "16'",
-          "text": "Anthony Gordon (England) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "13'",
-          "text": "Offside, Argentina. Giuliano Simeone is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "12'",
-          "text": "Delay over. They are ready to continue.",
-          "goal": false
-        },
-        {
-          "min": "12'",
-          "text": "Delay in match (Argentina).",
-          "goal": false
-        },
-        {
-          "min": "10'",
-          "text": "Enzo Fernández (Argentina) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "10'",
-          "text": "Foul by Elliot Anderson (England).",
-          "goal": false
-        },
-        {
-          "min": "9'",
-          "text": "Foul by Giuliano Simeone (Argentina).",
-          "goal": false
-        },
-        {
-          "min": "9'",
-          "text": "Elliot Anderson (England) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "9'",
-          "text": "Foul by Reece James (England).",
-          "goal": false
         }
       ],
       "leaders": [
         {
           "label": "Total Shots",
           "home": {
-            "name": "A. Gordon",
-            "num": "18",
+            "name": "M. Rogers",
+            "num": "17",
             "pos": "F",
             "value": "1"
           },
@@ -92072,7 +92144,7 @@
             "name": "E. Fernández",
             "num": "24",
             "pos": "M",
-            "value": "2"
+            "value": "4"
           }
         },
         {
@@ -92081,13 +92153,13 @@
             "name": "M. Guéhi",
             "num": "6",
             "pos": "D",
-            "value": "51"
+            "value": "54"
           },
           "away": {
-            "name": "L. Paredes",
-            "num": "5",
+            "name": "E. Fernández",
+            "num": "24",
             "pos": "M",
-            "value": "68"
+            "value": "82"
           }
         },
         {
@@ -92096,13 +92168,13 @@
             "name": "D. Spence",
             "num": "25",
             "pos": "D",
-            "value": "9"
+            "value": "10"
           },
           "away": {
             "name": "C. Romero",
             "num": "13",
             "pos": "D",
-            "value": "8"
+            "value": "17"
           }
         },
         {
@@ -92111,7 +92183,7 @@
             "name": "J. Pickford",
             "num": "1",
             "pos": "G",
-            "value": "1"
+            "value": "3"
           },
           "away": {
             "name": "E. Martínez",
@@ -92121,8 +92193,14 @@
           }
         }
       ],
-      "highlight": null,
-      "final": false,
+      "highlight": {
+        "thumb": "https://a.espncdn.com/media/motion/2026/0715/dm_260715_COM_SOC_Fans_BOXPARK_goes_crazy_as_as_Gordon_gives_England_the_lead_vs_Argentina_GLOBAL_2026-07-1/dm_260715_COM_SOC_Fans_BOXPARK_goes_crazy_as_as_Gordon_gives_England_the_lead_vs_Argentina_GLOBAL_2026-07-1.jpg",
+        "link": "https://www.espn.com/video/clip/_/id/49369523/fans-goes-crazy-gordon-gives-england-lead-vs-argentina",
+        "headline": "Fans goes crazy as Gordon gives England the lead vs. Argentina",
+        "mp4": "https://media.video-cdn.espn.com/motion/2026/0715/dm_260715_COM_SOC_Fans_BOXPARK_goes_crazy_as_as_Gordon_gives_England_the_lead_vs_Argentina_GLOBAL_2026-07-1/dm_260715_COM_SOC_Fans_BOXPARK_goes_crazy_as_as_Gordon_gives_England_the_lead_vs_Argentina_GLOBAL_2026-07-1_360p30_1464k.mp4",
+        "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0715/dm_260715_COM_SOC_Fans_BOXPARK_goes_crazy_as_as_Gordon_gives_England_the_lead_vs_Argentina_GLOBAL_2026-07-1/dm_260715_COM_SOC_Fans_BOXPARK_goes_crazy_as_as_Gordon_gives_England_the_lead_vs_Argentina_GLOBAL_2026-07-1/playlist.m3u8"
+      },
+      "final": true,
       "dv": 5
     }
   }

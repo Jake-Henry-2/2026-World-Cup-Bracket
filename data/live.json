@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-15T20:28:26.518Z",
+  "lastUpdated": "2026-07-15T21:31:20.923Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -413,29 +413,19 @@
       "home": "England",
       "away": "Argentina",
       "homeScore": 1,
-      "awayScore": 0,
+      "awayScore": 2,
       "homeWinner": false,
-      "awayWinner": false,
-      "odds": {
-        "home": 170,
-        "away": 205,
-        "draw": 180,
-        "total": 2.5,
-        "book": "DraftKings"
-      },
-      "status": "live",
+      "awayWinner": true,
+      "odds": null,
+      "status": "finished",
       "id": "760515",
       "date": "2026-07-15T19:00Z",
-      "venue": "Mercedes-Benz Stadium",
-      "clock": 4020,
-      "displayClock": "67'",
-      "detail": "67'",
-      "period": 2
+      "venue": "Mercedes-Benz Stadium"
     },
     {
       "stage": "third",
       "home": "France",
-      "away": "Semifinal 2 Loser",
+      "away": "England",
       "homeScore": 0,
       "awayScore": 0,
       "homeWinner": false,
@@ -449,12 +439,18 @@
     {
       "stage": "final",
       "home": "Spain",
-      "away": "Semifinal 2 Winner",
+      "away": "Argentina",
       "homeScore": 0,
       "awayScore": 0,
       "homeWinner": false,
       "awayWinner": false,
-      "odds": null,
+      "odds": {
+        "home": 125,
+        "away": 260,
+        "draw": 200,
+        "total": 2.5,
+        "book": "DraftKings"
+      },
       "status": "scheduled",
       "id": "760517",
       "date": "2026-07-19T19:00Z",

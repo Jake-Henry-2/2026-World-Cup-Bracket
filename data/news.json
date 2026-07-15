@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-07-15T17:56:07.598Z",
+  "lastUpdated": "2026-07-15T19:15:15.186Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Harry Kane becomes England's second most capped player of all time",
+      "description": "Harry Kane is now England's second most capped player of all time, as he started Wednesday's World Cup semifinal against Argentina.",
+      "published": "2026-07-15T19:09:26Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49352315/harry-kane-england-argentina-england-caps-record-world-cup-2026",
+      "image": "https://a.espncdn.com/photo/2026/0715/r1689622_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Post Malone, Tom Cruise, IShowSpeed headline World Cup closing ceremony",
+      "description": "A wide array of performers, from Post Malone to Tom Cruise to streamer IShowSpeed, will help close out the World Cup, FIFA said Tuesday.",
+      "published": "2026-07-15T19:00:57Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49368478/post-malone-tom-cruise-ishowspeed-world-cup-closing-ceremony",
+      "image": "https://a.espncdn.com/photo/2026/0715/r1689611_1296x729_16-9.jpg"
+    },
     {
       "headline": "Morgan Rogers, Djed Spence and Reece James start for England in Argentina semifinal showdown",
       "description": "England have made three changes for their World Cup semifinal against Argentina with Morgan Rogers, Djed Spence and Reece James all starting.",
@@ -17,32 +31,18 @@
       "image": "https://a.espncdn.com/media/motion/2026/0715/dm_260715_Rogers_Spence_James_start_Reacting_to_Englands_XI_to_face_Argentina/dm_260715_Rogers_Spence_James_start_Reacting_to_Englands_XI_to_face_Argentina.jpg"
     },
     {
-      "headline": "Should England focus on Messi or Argentina's midfield?",
-      "description": "Should England focus on Messi or Argentina's midfield?",
-      "published": "2026-07-15T13:21:23Z",
-      "link": "https://www.espn.com/video/clip/_/id/49366431/should-england-focus-messi-argentina-midfield",
-      "image": "https://a.espncdn.com/media/motion/2026/0715/dm_260715_Should_England_focus_on_Messi_or_Argentinas_midfield/dm_260715_Should_England_focus_on_Messi_or_Argentinas_midfield.jpg"
+      "headline": "Fans can pay $80 to attend pre-World Cup final news conference",
+      "description": "FIFA is to stage the World Cup final news conference in front of paying fans with supporters having to pay in excess of $80 (£60) to watch the coaches and players from the two finalists.",
+      "published": "2026-07-15T18:02:27Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49368198/2026-world-cup-final-press-conference-fanatics-fest-fans",
+      "image": "https://a.espncdn.com/photo/2026/0715/r1689594_1296x729_16-9.jpg"
     },
     {
-      "headline": "World Cup: Grades for every eliminated team as each exits the tournament",
-      "description": "When the World Cup ends, 47 teams will have been eliminated, and we're grading every one on how its run compared with expectations.",
-      "published": "2026-07-15T13:22:17Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49178425/world-cup-grades-every-eliminated-team-rating-exit-tournament",
-      "image": "https://a.espncdn.com/photo/2026/0714/r1689296_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Spain's Lamine Yamal issues World Cup final warning: 'New York we're coming for you'",
-      "description": "Lamine Yamal is looking forward to take New York by storm after helping Spain reach the World Cup final with a 2-0 win against France.",
-      "published": "2026-07-15T10:31:48Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49365585/lamine-yamal-sends-world-cup-final-warning-new-york-coming-you",
-      "image": "https://a.espncdn.com/photo/2026/0714/r1689332_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Argentina vice president before World Cup semifinal: England are 'invaders'",
-      "description": "England have been described as \"invaders\" and \"usurping pirates\" by Argentina's vice president ahead of the teams' World Cup semifinal clash.",
-      "published": "2026-07-15T14:31:02Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49365557/argentina-vice-president-world-cup-semifinal-england-invaders",
-      "image": "https://a.espncdn.com/photo/2026/0715/r1689456_1296x729_16-9.jpg"
+      "headline": "Tottenham guaranteed to have a World Cup winner for the third time in a row",
+      "description": "A Tottenham Hotspur player will be a World Cup winner. no matter who emerges victorious in the final.",
+      "published": "2026-07-15T18:54:04Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49368103/spurs-tottenham-world-cup-2026-spain-england-argentina",
+      "image": "https://a.espncdn.com/photo/2026/0715/r1689609_1296x729_16-9.jpg"
     }
   ]
 }

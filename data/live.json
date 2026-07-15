@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-15T17:56:07.376Z",
+  "lastUpdated": "2026-07-15T19:15:15.114Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -417,16 +417,20 @@
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": 165,
+        "home": 170,
         "away": 205,
-        "draw": 185,
+        "draw": 180,
         "total": 2.5,
         "book": "DraftKings"
       },
-      "status": "scheduled",
+      "status": "live",
       "id": "760515",
       "date": "2026-07-15T19:00Z",
-      "venue": "Mercedes-Benz Stadium"
+      "venue": "Mercedes-Benz Stadium",
+      "clock": 900,
+      "displayClock": "15'",
+      "detail": "15'",
+      "period": 1
     },
     {
       "stage": "third",

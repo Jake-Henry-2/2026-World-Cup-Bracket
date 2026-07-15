@@ -137,7 +137,7 @@
           ts.fpts += gf * SG.goalEach;
           if (ga === 0) ts.fpts += SG.shutout;
         } else {                                         // knockout: Win +1, each Goal +1, Shutout +1
-          if (won) ts.fpts += SK.win;
+          if (won) ts.fpts += (stage === "third" ? SK.thirdWin : SK.win);
           ts.fpts += gf * SK.goalEach;
           if (ga === 0) ts.fpts += SK.shutout;
         }
@@ -569,7 +569,7 @@
         <div class="rules-col"><div class="rules-h">Appearance (cumulative)</div>
           ${r("Reach Round of 16", k.r16, true)}${r("Reach Quarterfinal", k.qf, true)}${r("Reach Semifinal", k.sf, true)}${r("Reach Final", k.final, true)}${r("Champion", k.champion, true)}</div>
       </div>
-      <div class="rules-foot">Appearances stack as a team advances — a Champion earns ${APP_CUM.champion} from appearances (1+2+4+6+8) plus Win/Goal/Shutout points each round.</div>`;
+      <div class="rules-foot">Appearances stack as a team advances — a Champion earns ${APP_CUM.champion} from appearances (1+2+4+6+8) plus Win/Goal/Shutout points each round. The 3rd-place game pays +${k.thirdWin} for the win.</div>`;
   }
 
   /* =========================================================================

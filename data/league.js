@@ -64,7 +64,7 @@ window.LEAGUE = {
     // Appearance bonuses are CUMULATIVE — a team banks each round's points as it advances
     // (summed in app.js): so a champion earns 1 + 2 + 4 + 6 + 8 = 21 from appearances alone.
     knockout: {
-      win: 1,             // win a knockout match (incl. on penalties)
+      win: 1, thirdWin: 3,             // win a knockout match (incl. on penalties)
       goalEach: 1,        // 1 point per goal scored
       shutout: 1,         // 1 point for a clean sheet
       r16: 1,             // reaching the Round of 16

@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-07-16T17:38:35.403Z",
+  "lastUpdated": "2026-07-16T18:46:51.724Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "World Cup daily: Argentina fans party after dramatic World Cup semifinal win",
+      "description": "Enjoy all the features, news, video analysis and color from around the competition as the 2026 FIFA World Cup is nearing its end.",
+      "published": "2026-07-16T18:29:51Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49373548/world-cup-daily-argentina-fans-party-dramatic-world-cup-semifinal-win",
+      "image": "https://a.espncdn.com/photo/2026/0716/r1689893_1296x729_16-9.jpg"
+    },
     {
       "headline": "Ibrahimović: England players must 'look in the mirror' after World Cup exit",
       "description": "Zlatan Ibrahimovic has told England's players to \"look in the mirror\" and ask \"how good you really are\" after the Three Lions suffered their latest failure to reach a World Cup final with defeat to Argentina.",
@@ -12,7 +19,7 @@
     {
       "headline": "UK urges FIFA investigation of Argentina over Falklands banner",
       "description": "The British government on Thursday urged FIFA to investigate Argentina's team after players celebrating their 2-1 win over England in the World Cup semifinals posed with a banner that claimed sovereignty over the contest",
-      "published": "2026-07-16T17:14:57Z",
+      "published": "2026-07-16T17:40:26Z",
       "link": "https://www.espn.com/soccer/story/_/id/49375290/argentina-inappropriate-falklands-banner-england-world-cup-clash-minister",
       "image": "https://a.espncdn.com/photo/2026/0716/r1689950_1296x729_16-9.jpg"
     },
@@ -36,13 +43,6 @@
       "published": "2026-07-16T13:12:00Z",
       "link": "https://www.espn.com/soccer/story/_/id/49178425/world-cup-grades-every-eliminated-team-rating-exit-tournament",
       "image": "https://a.espncdn.com/photo/2026/0716/r1689845_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Meet the World Cup superfans who follow their team through it all",
-      "description": "ESPN tracked down three World Cup superfans to find out what their journey has been like, how much it has cost them, and whether it's all been worth it.",
-      "published": "2026-07-16T12:32:04Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49367577/argentina-spain-england-superfans-whove-followed-their-team-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0716/r1689921_1296x729_16-9.jpg"
     }
   ]
 }

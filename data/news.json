@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-07-17T19:50:26.600Z",
+  "lastUpdated": "2026-07-17T20:40:35.711Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Third place matches at the men's World Cup: Winners, results",
+      "description": "Who has won the third-place playoff at the men's World Cup? Find out all the winners throughout the tournament's history.",
+      "published": "2026-07-17T19:51:17Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49385575/third-place-matches-men-world-cup-winners-results",
+      "image": "https://a.espncdn.com/photo/2026/0717/r1690544_608x342_16-9.jpg"
+    },
     {
       "headline": "World Cup Daily live: Final winners (and fans!) to get championship rings",
       "description": "Enjoy all the features, news, video analysis and color from around the competition as we enter the final weekend of the 2026 World Cup.",
@@ -36,13 +43,6 @@
       "published": "2026-07-17T18:04:09Z",
       "link": "https://www.espn.com/soccer/story/_/id/49384849/world-cup-beer-sales-hopping-host-cities-us",
       "image": "https://a.espncdn.com/photo/2026/0717/r1690494_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Gary Neville has 'big problem' with Thomas Tuchel's England 'DNA' comment",
-      "description": "Former England defender Gary Neville has said he has a \"big problem\" with Thomas Tuchel suggesting England's \"DNA\" needs to change in major tournaments.",
-      "published": "2026-07-17T15:42:33Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49384614/gary-neville-big-problem-thomas-tuchel-england-dna-comment",
-      "image": "https://a.espncdn.com/photo/2026/0705/r1684648_1296x729_16-9.jpg"
     }
   ]
 }

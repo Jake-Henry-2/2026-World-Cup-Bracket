@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-07-17T04:26:24.658Z",
+  "lastUpdated": "2026-07-17T06:39:34.014Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Free World Cup 2026 predictor: Simulate your road to the final",
+      "description": "Put your football knowledge to the test with ESPN's free World Cup 2026 predictor games and forecast every twist and turn of the tournament.",
+      "published": "2026-07-17T06:31:47Z",
+      "link": "https://www.espn.com/soccer/story/_/id/48945570/2026-fifa-world-cup-predictions-simulator",
+      "image": "https://a.espncdn.com/photo/2026/0521/r1661625_1296x729_16-9.jpg"
+    },
     {
       "headline": "Superstitious Argentine president Milei won't attend World Cup final",
       "description": "- Argentina President Javier Milei said on Thursday he won't be attending the",
@@ -36,13 +43,6 @@
       "published": "2026-07-16T22:37:12Z",
       "link": "https://www.espn.com/video/clip/_/id/49379948/blame-tuchel-england-loss-vs-argentina",
       "image": "https://a.espncdn.com/media/motion/2026/0716/dm_260716_COM_SOC_Analysis_Nicol3A_I_blame_Tuchel_for_EnglandE28099s_loss_vs_Argentina_GLOBAL_2026-07-16/dm_260716_COM_SOC_Analysis_Nicol3A_I_blame_Tuchel_for_EnglandE28099s_loss_vs_Argentina_GLOBAL_2026-07-16.jpg"
-    },
-    {
-      "headline": "Was Messi the difference between England and Argentina?",
-      "description": "Was Messi the difference between England and Argentina?",
-      "published": "2026-07-16T22:37:42Z",
-      "link": "https://www.espn.com/video/clip/_/id/49379943/was-messi-difference-england-argentina",
-      "image": "https://a.espncdn.com/media/motion/2026/0716/dm_260716_COM_SOC_Analysis_Was_Messi_the_difference_between_England_and_Argentina3F__GLOBAL_2026-07-16/dm_260716_COM_SOC_Analysis_Was_Messi_the_difference_between_England_and_Argentina3F__GLOBAL_2026-07-16.jpg"
     }
   ]
 }

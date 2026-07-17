@@ -1,13 +1,20 @@
 {
-  "lastUpdated": "2026-07-17T16:38:23.167Z",
+  "lastUpdated": "2026-07-17T17:44:37.342Z",
   "source": "ESPN",
   "articles": [
     {
       "headline": "World Cup Daily live: Final winners (and fans!) to get championship rings",
       "description": "Enjoy all the features, news, video analysis and color from around the competition as we enter the final weekend of the 2026 World Cup.",
-      "published": "2026-07-17T16:30:52Z",
+      "published": "2026-07-17T17:24:02Z",
       "link": "https://www.espn.com/soccer/story/_/id/49380811/final-winners-fans-get-championship-rings",
       "image": "https://a.espncdn.com/photo/2026/0717/r1690333_2_500x281_16-9.png"
+    },
+    {
+      "headline": "World Cup beer sales hopping for host cities across U.S.",
+      "description": "The World Cup has been a bonanza for beer in the U.S., with host cities reporting a 14% bump in sales at bars, restaurants and stadiums in the first four weeks of the tournament.",
+      "published": "2026-07-17T17:12:23Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49384849/world-cup-beer-sales-hopping-host-cities-us",
+      "image": "https://a.espncdn.com/photo/2026/0717/r1690494_1296x729_16-9.jpg"
     },
     {
       "headline": "Gary Neville has 'big problem' with Thomas Tuchel's England 'DNA' comment",
@@ -19,7 +26,7 @@
     {
       "headline": "Sources: No concerns about World Cup final despite air quality issues",
       "description": "The World Cup final is not under any threat despite the air quality warnings in the area, sources told ESPN.",
-      "published": "2026-07-17T16:02:11Z",
+      "published": "2026-07-17T17:40:27Z",
       "link": "https://www.espn.com/soccer/story/_/id/49384171/no-concerns-world-cup-final-air-quality-issues-sources",
       "image": "https://a.espncdn.com/photo/2026/0717/r1690431_1296x729_16-9.jpg"
     },
@@ -36,13 +43,6 @@
       "published": "2026-07-17T10:49:01Z",
       "link": "https://www.espn.com/soccer/story/_/id/49376001/just-tuning-world-cup-final-let-catch-what-missed",
       "image": "https://a.espncdn.com/photo/2026/0717/r1690357_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Who is Slavko Vincic? Spain vs. Argentina referee for World Cup final drew Real Madrid backlash, Jose Mourinho praise",
-      "description": "Slovenian referee Slavko Vincic will officiate the World Cup final between Spain and Argentina on Sunday. But who is he, what's his record, and what have been his major moments?",
-      "published": "2026-07-17T11:36:44Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49382615/who-slavko-vincic-spain-vs-argentina-referee-world-cup-final-real-madrid-jose-mourinho-jude-bellingham",
-      "image": "https://a.espncdn.com/photo/2026/0717/r1690353_1296x729_16-9.jpg"
     }
   ]
 }

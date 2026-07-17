@@ -1,20 +1,27 @@
 {
-  "lastUpdated": "2026-07-17T13:59:08.824Z",
+  "lastUpdated": "2026-07-17T15:21:35.827Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "World Cup Daily live: Final winners (and fans!) to get championship rings",
+      "description": "Enjoy all the features, news, video analysis and color from around the competition as we enter the final weekend of the 2026 World Cup.",
+      "published": "2026-07-17T14:48:53Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49380811/final-winners-fans-get-championship-rings",
+      "image": "https://a.espncdn.com/photo/2026/0717/r1690333_2_500x281_16-9.png"
+    },
+    {
+      "headline": "Sources: No concerns about World Cup final despite air quality issues",
+      "description": "The World Cup final is not under any threat despite the air quality warnings in the area, sources told ESPN.",
+      "published": "2026-07-17T14:33:51Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49384171/no-concerns-world-cup-final-air-quality-issues-sources",
+      "image": "https://a.espncdn.com/photo/2026/0717/r1690431_1296x729_16-9.jpg"
+    },
     {
       "headline": "Slovenia's Slavko Vinčić announced as referee for World Cup final",
       "description": "Slovenia's Slavko Vinčić announced as referee for World Cup final",
       "published": "2026-07-17T11:36:21Z",
       "link": "https://www.espn.com/video/clip/_/id/49383212/slovenia-slavko-vini-announced-referee-world-cup-final",
       "image": "https://a.espncdn.com/media/motion/2026/0717/dm_260717_COM_SOC_News_Slovenias_Slavko_Vincic_announced_as_referee_for_World_Cup_final_20260717_GLOBAL_F/dm_260717_COM_SOC_News_Slovenias_Slavko_Vincic_announced_as_referee_for_World_Cup_final_20260717_GLOBAL_F.jpg"
-    },
-    {
-      "headline": "World Cup Daily: Final winners (and fans!) to get championship rings",
-      "description": "Enjoy all the features, news, video analysis and color from around the competition as we enter the final weekend of the 2026 World Cup.",
-      "published": "2026-07-17T11:32:00Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49380811/world-cup-daily-world-cup-winners-spain-argentina-fans-championship-rings",
-      "image": "https://a.espncdn.com/photo/2026/0717/r1690333_2_500x281_16-9.png"
     },
     {
       "headline": "Just tuning in for World Cup final? Let's catch you up on what you've missed",
@@ -36,13 +43,6 @@
       "published": "2026-07-17T10:08:01Z",
       "link": "https://www.espn.com/soccer/story/_/id/40532807/lionel-messi-baby-lamine-yamal-barcelona-spain-argentina-world-cup-final",
       "image": "https://a.espncdn.com/photo/2024/0710/r1356880_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Mauricio Pochettino to make decision on USMNT future next week",
-      "description": "Mauricio Pochettino has said he will make a decision regarding his future as coach of the United States national team next week.",
-      "published": "2026-07-17T10:10:21Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49382484/mauricio-pochettino-make-decision-usmnt-future-next-week",
-      "image": "https://a.espncdn.com/photo/2026/0619/r1675847_1296x729_16-9.jpg"
     }
   ]
 }

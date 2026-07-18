@@ -1,13 +1,20 @@
 {
-  "lastUpdated": "2026-07-18T22:09:39.084Z",
+  "lastUpdated": "2026-07-18T23:10:43.768Z",
   "source": "ESPN",
   "articles": [
     {
       "headline": "World Cup Daily live: France, England play for third place; Messi, Brady in KD's all-star selfie",
       "description": "Enjoy all the features, news, video analysis and color from around the World Cup as we decide who finishes in third place between England and France.",
-      "published": "2026-07-18T21:40:08Z",
+      "published": "2026-07-18T22:35:36Z",
       "link": "https://www.espn.com/soccer/story/_/id/49387153/world-cup-daily-kevin-durant-tom-brady-lionel-messi-selfie-france-england-third-place-playoff",
       "image": "https://a.espncdn.com/photo/2026/0718/r1690743_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Kylian Mbappé surpasses Lionel Messi's all-time World Cup goal-scoring record",
+      "description": "Kylian Mbappé has leapfrogged Lionel Messi on the all-time World Cup goal-scoring chart as he scored his 21st and 22nd career goals in the tournament.",
+      "published": "2026-07-18T22:50:15Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49257085/kylian-mbappe-lionel-messi-all-world-cup-goals-record",
+      "image": "https://a.espncdn.com/photo/2026/0718/r1691006_1296x729_16-9.jpg"
     },
     {
       "headline": "Argentina fans take over Times Square ahead of World Cup final",
@@ -15,6 +22,13 @@
       "published": "2026-07-18T21:47:46Z",
       "link": "https://www.espn.com/video/clip/_/id/49394018/argentina-fans-take-s-square-ahead-world-cup-final",
       "image": "https://a.espncdn.com/media/motion/2026/0718/dm_260718_COM_SOC_News_Argentina_fans_take_over_Times_Square_ahead_of_World_Cup_final_20260718_GLOBAL_FIFA/dm_260718_COM_SOC_News_Argentina_fans_take_over_Times_Square_ahead_of_World_Cup_final_20260718_GLOBAL_FIFA.jpg"
+    },
+    {
+      "headline": "England hold off France in all-time World Cup classic to win third-place playoff",
+      "description": "Bukayo Saka's hat trick helped England survive a dramatic second-half comeback to beat France 6-4 in Saturday's chaotic third-place playoff.",
+      "published": "2026-07-18T23:09:29Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49393769/england-hold-france-all-world-cup-classic-win-third-place-playoff-kylian-mbappe-bukayo-saka",
+      "image": "https://a.espncdn.com/photo/2026/0718/r1691024_1296x729_16-9.jpg"
     },
     {
       "headline": "Future of hydration breaks undecided - FIFA's Arsène Wenger",
@@ -29,20 +43,6 @@
       "published": "2026-07-18T20:43:42Z",
       "link": "https://www.espn.com/soccer/story/_/id/49393019/france-vs-england-thomas-tuchel-names-ivan-toney-much-changed-team-world-cup",
       "image": "https://a.espncdn.com/photo/2026/0718/r1690931_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Spain-Argentina World Cup final last-minute tickets start at $10,000",
-      "description": "Last-minute tickets to see Lionel Messi and Argentina face off against Lamine Yamal and Spain in the FIFA World Cup final range from $10,000 to $60,000.",
-      "published": "2026-07-18T19:48:56Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49392880/spain-argentina-world-cup-final-last-minute-tickets-start-10k",
-      "image": "https://a.espncdn.com/photo/2026/0717/r1690410_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Storms expected to clear wildfire smoke ahead of World Cup final",
-      "description": "Smoke from the Canadian wildfires that has engulfed the Northeast in haze is expected to mostly clear from the New Jersey area just in time for the World Cup final on Sunday, thanks to thunderstorms passing through the a",
-      "published": "2026-07-18T19:20:24Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49392587/storms-due-clear-wildfire-smoke-world-cup-final-spain-argentina",
-      "image": "https://a.espncdn.com/photo/2026/0718/r1690902_1296x729_16-9.jpg"
     }
   ]
 }

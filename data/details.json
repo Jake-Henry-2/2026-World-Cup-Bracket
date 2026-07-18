@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-18T22:09:39.136Z",
+  "lastUpdated": "2026-07-18T23:10:43.825Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -92207,64 +92207,64 @@
       "venue": "Hard Rock Stadium",
       "stats": {
         "home": {
-          "foulsCommitted": "5",
-          "yellowCards": "0",
-          "redCards": "0",
-          "offsides": "1",
-          "wonCorners": "2",
-          "saves": "2",
-          "possessionPct": "44.3",
-          "totalShots": "5",
-          "shotsOnTarget": "2",
-          "shotPct": "0.4",
-          "penaltyKickGoals": "0",
-          "penaltyKickShots": "0",
-          "accuratePasses": "216",
-          "totalPasses": "238",
-          "passPct": "0.9",
-          "accurateCrosses": "0",
-          "totalCrosses": "2",
-          "crossPct": "0.0",
-          "totalLongBalls": "17",
-          "accurateLongBalls": "10",
-          "longballPct": "0.6",
-          "blockedShots": "2",
-          "effectiveTackles": "4",
-          "totalTackles": "7",
-          "tacklePct": "0.6",
-          "interceptions": "3",
-          "effectiveClearance": "3",
-          "totalClearance": "3"
-        },
-        "away": {
-          "foulsCommitted": "5",
+          "foulsCommitted": "14",
           "yellowCards": "0",
           "redCards": "0",
           "offsides": "3",
           "wonCorners": "3",
-          "saves": "2",
-          "possessionPct": "55.7",
-          "totalShots": "11",
-          "shotsOnTarget": "7",
-          "shotPct": "0.6",
+          "saves": "4",
+          "possessionPct": "45.9",
+          "totalShots": "19",
+          "shotsOnTarget": "9",
+          "shotPct": "0.5",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "275",
-          "totalPasses": "294",
+          "accuratePasses": "403",
+          "totalPasses": "444",
           "passPct": "0.9",
-          "accurateCrosses": "3",
-          "totalCrosses": "9",
-          "crossPct": "0.3",
-          "totalLongBalls": "15",
-          "accurateLongBalls": "8",
-          "longballPct": "0.5",
+          "accurateCrosses": "1",
+          "totalCrosses": "6",
+          "crossPct": "0.0",
+          "totalLongBalls": "26",
+          "accurateLongBalls": "17",
+          "longballPct": "0.7",
           "blockedShots": "4",
-          "effectiveTackles": "5",
-          "totalTackles": "12",
+          "effectiveTackles": "10",
+          "totalTackles": "16",
+          "tacklePct": "0.6",
+          "interceptions": "8",
+          "effectiveClearance": "10",
+          "totalClearance": "10"
+        },
+        "away": {
+          "foulsCommitted": "8",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "3",
+          "wonCorners": "4",
+          "saves": "5",
+          "possessionPct": "54.1",
+          "totalShots": "19",
+          "shotsOnTarget": "11",
+          "shotPct": "0.6",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "1",
+          "accuratePasses": "468",
+          "totalPasses": "517",
+          "passPct": "0.9",
+          "accurateCrosses": "4",
+          "totalCrosses": "12",
+          "crossPct": "0.3",
+          "totalLongBalls": "35",
+          "accurateLongBalls": "15",
+          "longballPct": "0.4",
+          "blockedShots": "6",
+          "effectiveTackles": "11",
+          "totalTackles": "25",
           "tacklePct": "0.4",
-          "interceptions": "7",
-          "effectiveClearance": "6",
-          "totalClearance": "6"
+          "interceptions": "11",
+          "effectiveClearance": "12",
+          "totalClearance": "12"
         }
       },
       "events": [
@@ -92321,6 +92321,72 @@
           "min": "45'",
           "side": "away",
           "player": "Substitution, England. Ollie Watkins replaces Marcus Rashford."
+        },
+        {
+          "kind": "Goal",
+          "min": "48'",
+          "side": "home",
+          "player": "Goal! France 1, England 4. Kylian Mbappé"
+        },
+        {
+          "kind": "Goal",
+          "min": "54'",
+          "side": "home",
+          "player": "Goal! France 2, England 4. Bradley Barcola"
+        },
+        {
+          "kind": "Goal",
+          "min": "66'",
+          "side": "home",
+          "player": "Goal! France 3, England 4. Kylian Mbappé"
+        },
+        {
+          "kind": "Substitution",
+          "min": "79'",
+          "side": "away",
+          "player": "Substitution, England. Elliot Anderson replaces Ivan Toney."
+        },
+        {
+          "kind": "Substitution",
+          "min": "79'",
+          "side": "away",
+          "player": "Substitution, England. Jude Bellingham replaces Eberechi Eze."
+        },
+        {
+          "kind": "Substitution",
+          "min": "83'",
+          "side": "away",
+          "player": "Substitution, England. Reece James replaces Jarell Quansah because of an injury."
+        },
+        {
+          "kind": "Penalty - Scored",
+          "min": "87'",
+          "side": "away",
+          "player": "Goal! France 3, England 5. Bukayo Saka"
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'+1'",
+          "side": "home",
+          "player": "Substitution, France. Jules Koundé replaces Malo Gusto because of an injury."
+        },
+        {
+          "kind": "Substitution",
+          "min": "90'+3'",
+          "side": "away",
+          "player": "Substitution, England. Trevoh Chalobah replaces Marc Guéhi."
+        },
+        {
+          "kind": "Goal",
+          "min": "90'+6'",
+          "side": "home",
+          "player": "Goal! France 4, England 5. Ousmane Dembélé"
+        },
+        {
+          "kind": "Goal",
+          "min": "90'+8'",
+          "side": "away",
+          "player": "Goal! France 4, England 6. Jude Bellingham"
         }
       ],
       "lineups": {
@@ -92698,289 +92764,304 @@
       },
       "commentary": [
         {
-          "min": "45'",
-          "text": "Second Half begins France 0, England 4.",
+          "min": "",
+          "text": "Match ends, France 4, England 6.",
           "goal": false
         },
         {
-          "min": "45'",
-          "text": "Substitution, England. Ollie Watkins replaces Marcus Rashford.",
+          "min": "90'+9'",
+          "text": "Second Half ends, France 4, England 6.",
           "goal": false
         },
         {
-          "min": "45'",
-          "text": "Substitution, France. Dayot Upamecano replaces Ibrahima Konaté.",
-          "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Substitution, France. Lucas Digne replaces Théo Hernández.",
-          "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Substitution, France. Bradley Barcola replaces Désiré Doué.",
-          "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Substitution, France. Ousmane Dembélé replaces Rayan Cherki.",
-          "goal": false
-        },
-        {
-          "min": "45'+5'",
-          "text": "First Half ends, France 0, England 4.",
-          "goal": false
-        },
-        {
-          "min": "45'+5'",
-          "text": "Foul by Marc Guéhi (England).",
-          "goal": false
-        },
-        {
-          "min": "45'+5'",
-          "text": "Ibrahima Konaté (France) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "45'+4'",
-          "text": "Corner, England. Conceded by Maxence Lacroix.",
-          "goal": false
-        },
-        {
-          "min": "45'+4'",
-          "text": "Attempt blocked. Ivan Toney (England) right footed shot from the right side of the box is blocked. Assisted by Morgan Rogers.",
-          "goal": false
-        },
-        {
-          "min": "45'+1'",
-          "text": "Goal! France 0, England 4. Bukayo Saka (England) left footed shot from the centre of the box to the bottom right corner. Assisted by Eberechi Eze with a through ball.",
+          "min": "90'+8'",
+          "text": "Goal! France 4, England 6. Jude Bellingham (England) right footed shot from the centre of the box to the bottom right corner following a fast break.",
           "goal": true
         },
         {
-          "min": "45'+1'",
-          "text": "Djed Spence (England) wins a free kick on the left wing.",
-          "goal": false
-        },
-        {
-          "min": "45'+1'",
-          "text": "Foul by Ibrahima Konaté (France).",
-          "goal": false
-        },
-        {
-          "min": "45'+1'",
-          "text": "Fourth official has announced 4 minutes of added time.",
-          "goal": false
-        },
-        {
-          "min": "40'",
-          "text": "Foul by Ezri Konsa (England).",
-          "goal": false
-        },
-        {
-          "min": "40'",
-          "text": "Désiré Doué (France) wins a free kick on the right wing.",
-          "goal": false
-        },
-        {
-          "min": "37'",
-          "text": "Goal! France 0, England 3. Bukayo Saka (England) left footed shot from the left side of the box to the high centre of the goal. Assisted by Marcus Rashford following a fast break.",
+          "min": "90'+6'",
+          "text": "Goal! France 4, England 5. Ousmane Dembélé (France) left footed shot from the centre of the box to the bottom left corner. Assisted by Dayot Upamecano following a fast break.",
           "goal": true
         },
         {
-          "min": "37'",
-          "text": "Attempt blocked. Bukayo Saka (England) left footed shot from the left side of the box is blocked. Assisted by Marcus Rashford.",
-          "goal": false
-        },
-        {
-          "min": "37'",
-          "text": "Attempt saved. Marcus Rashford (England) right footed shot from the left side of the box is saved in the centre of the goal by Mike Maignan (France). Assisted by Bukayo Saka.",
-          "goal": false
-        },
-        {
-          "min": "35'",
-          "text": "Corner, France. Conceded by Dean Henderson.",
-          "goal": false
-        },
-        {
-          "min": "35'",
-          "text": "Attempt saved. Kylian Mbappé (France) right footed shot from the centre of the box is saved in the bottom right corner by Dean Henderson (England). Assisted by Adrien Rabiot.",
-          "goal": false
-        },
-        {
-          "min": "34'",
-          "text": "Foul by Djed Spence (England).",
-          "goal": false
-        },
-        {
-          "min": "34'",
-          "text": "Rayan Cherki (France) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "33'",
-          "text": "Offside, England. Ivan Toney is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "33'",
-          "text": "Attempt saved. Marcus Rashford (England) right footed shot from outside the box is saved in the top centre of the goal by Mike Maignan (France). Assisted by Morgan Rogers.",
-          "goal": false
-        },
-        {
-          "min": "32'",
-          "text": "Jarell Quansah (England) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "32'",
-          "text": "Foul by Désiré Doué (France).",
-          "goal": false
-        },
-        {
-          "min": "28'",
-          "text": "Offside, France. Kylian Mbappé is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "25'",
+          "min": "90'+5'",
           "text": "Delay over. They are ready to continue.",
           "goal": false
         },
         {
-          "min": "23'",
+          "min": "90'+4'",
+          "text": "Delay in match because of an injury Djed Spence (England).",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Substitution, England. Trevoh Chalobah replaces Marc Guéhi.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Jude Bellingham (England) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Foul by Adrien Rabiot (France).",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Offside, France. Kylian Mbappé is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Substitution, France. Jules Koundé replaces Malo Gusto because of an injury.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Corner, France. Conceded by Reece James.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Attempt blocked. Bradley Barcola (France) right footed shot from outside the box is blocked. Assisted by Michael Olise.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Fourth official has announced 7 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Goal! France 3, England 5. Bukayo Saka (England) converts the penalty with a left footed shot to the bottom right corner.",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Penalty England. Djed Spence draws a foul in the penalty area.",
+          "goal": false
+        },
+        {
+          "min": "85'",
+          "text": "Penalty conceded by Malo Gusto (France) after a foul in the penalty area.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Attempt saved. Kylian Mbappé (France) right footed shot from outside the box is saved in the centre of the goal by Dean Henderson (England). Assisted by Bradley Barcola.",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Substitution, England. Reece James replaces Jarell Quansah because of an injury.",
+          "goal": false
+        },
+        {
+          "min": "83'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Delay in match because of an injury Jarell Quansah (England).",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Delay in match (England).",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Attempt missed. Michael Olise (France) right footed shot from the centre of the box is close, but misses to the right. Assisted by Ousmane Dembélé.",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Attempt blocked. Morgan Rogers (England) left footed shot from the centre of the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Attempt saved. Jude Bellingham (England) right footed shot from the left side of the six yard box is saved in the centre of the goal by Mike Maignan (France). Assisted by Ollie Watkins.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Substitution, England. Jude Bellingham replaces Eberechi Eze.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Substitution, England. Elliot Anderson replaces Ivan Toney.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Morgan Rogers (England) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Foul by Lucas Digne (France).",
+          "goal": false
+        },
+        {
+          "min": "79'",
+          "text": "Attempt blocked. Kylian Mbappé (France) left footed shot from a difficult angle on the left is blocked.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Foul by Ollie Watkins (England).",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Malo Gusto (France) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Bukayo Saka (England) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Foul by Lucas Digne (France).",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Attempt missed. Michael Olise (France) left footed shot from the centre of the box misses to the left.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Ivan Toney (England) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "73'",
+          "text": "Foul by Dayot Upamecano (France).",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Marc Guéhi (England) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Foul by Michael Olise (France).",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Jarell Quansah (England) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Foul by Adrien Rabiot (France).",
+          "goal": false
+        },
+        {
+          "min": "72'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "68'",
           "text": "Delay in match for a drinks break.",
           "goal": false
         },
         {
-          "min": "22'",
-          "text": "Attempt missed. Kylian Mbappé (France) right footed shot from outside the box misses to the right. Assisted by Michael Olise.",
+          "min": "68'",
+          "text": "Attempt missed. Kylian Mbappé (France) right footed shot from the centre of the box misses to the left. Assisted by Ousmane Dembélé with a through ball.",
           "goal": false
         },
         {
-          "min": "21'",
-          "text": "Offside, England. Ivan Toney is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "21'",
-          "text": "Foul by Ibrahima Konaté (France).",
-          "goal": false
-        },
-        {
-          "min": "21'",
-          "text": "Ivan Toney (England) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "20'",
-          "text": "Malo Gusto (France) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "20'",
-          "text": "Foul by Eberechi Eze (England).",
-          "goal": false
-        },
-        {
-          "min": "18'",
-          "text": "Goal! France 0, England 2. Ezri Konsa (England) header from the centre of the box to the bottom right corner. Assisted by Declan Rice with a cross following a corner.",
+          "min": "66'",
+          "text": "Goal! France 3, England 4. Kylian Mbappé (France) left footed shot from the centre of the box to the bottom right corner. Assisted by Michael Olise.",
           "goal": true
         },
         {
-          "min": "18'",
-          "text": "Corner, England. Conceded by Maxence Lacroix.",
+          "min": "65'",
+          "text": "Attempt saved. Dayot Upamecano (France) right footed shot from outside the box is saved in the bottom left corner by Dean Henderson (England). Assisted by Warren Zaïre-Emery.",
           "goal": false
         },
         {
-          "min": "18'",
-          "text": "Attempt blocked. Bukayo Saka (England) left footed shot from the centre of the box is blocked. Assisted by Eberechi Eze with a through ball.",
+          "min": "64'",
+          "text": "Attempt saved. Ousmane Dembélé (France) left footed shot from the centre of the box is saved in the centre of the goal by Dean Henderson (England). Assisted by Kylian Mbappé.",
           "goal": false
         },
         {
-          "min": "15'",
-          "text": "Corner, France. Conceded by Marc Guéhi.",
+          "min": "64'",
+          "text": "Attempt blocked. Eberechi Eze (England) left footed shot from the left side of the box is blocked. Assisted by Ollie Watkins.",
           "goal": false
         },
         {
-          "min": "13'",
-          "text": "Ivan Toney (England) wins a free kick in the defensive half.",
+          "min": "63'",
+          "text": "Foul by Declan Rice (England).",
           "goal": false
         },
         {
-          "min": "13'",
-          "text": "Foul by Maxence Lacroix (France).",
+          "min": "63'",
+          "text": "Adrien Rabiot (France) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "11'",
-          "text": "Offside, England. Bukayo Saka is caught offside.",
+          "min": "61'",
+          "text": "Attempt missed. Michael Olise (France) left footed shot from outside the box is close, but misses to the left. Assisted by Warren Zaïre-Emery.",
           "goal": false
         },
         {
-          "min": "11'",
-          "text": "Attempt blocked. Warren Zaïre-Emery (France) left footed shot from outside the box is blocked.",
+          "min": "59'",
+          "text": "Attempt saved. Ivan Toney (England) header from the centre of the box is saved in the bottom right corner by Mike Maignan (France). Assisted by Declan Rice with a cross.",
           "goal": false
         },
         {
-          "min": "11'",
-          "text": "Attempt saved. Rayan Cherki (France) left footed shot from outside the box is saved in the bottom right corner by Dean Henderson (England).",
+          "min": "59'",
+          "text": "Corner, England. Conceded by Dayot Upamecano.",
           "goal": false
         },
         {
-          "min": "9'",
-          "text": "Eberechi Eze (England) wins a free kick on the left wing.",
+          "min": "58'",
+          "text": "Bukayo Saka (England) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "9'",
-          "text": "Foul by Malo Gusto (France).",
+          "min": "58'",
+          "text": "Foul by Bradley Barcola (France).",
           "goal": false
         },
         {
-          "min": "8'",
-          "text": "Attempt blocked. Eberechi Eze (England) left footed shot from the right side of the box is blocked. Assisted by Morgan Rogers.",
+          "min": "56'",
+          "text": "Offside, France. Ousmane Dembélé is caught offside.",
           "goal": false
         },
         {
-          "min": "7'",
-          "text": "Corner, England. Conceded by Malo Gusto.",
+          "min": "56'",
+          "text": "Morgan Rogers (England) wins a free kick in the attacking half.",
           "goal": false
         },
         {
-          "min": "7'",
-          "text": "Attempt blocked. Marcus Rashford (England) right footed shot from the centre of the box is blocked. Assisted by Bukayo Saka with a cross.",
+          "min": "56'",
+          "text": "Foul by Bradley Barcola (France).",
           "goal": false
         },
         {
-          "min": "5'",
-          "text": "Attempt blocked. Kylian Mbappé (France) right footed shot from the left side of the box is blocked. Assisted by Adrien Rabiot.",
-          "goal": false
-        },
-        {
-          "min": "4'",
-          "text": "Foul by Jarell Quansah (England).",
-          "goal": false
-        },
-        {
-          "min": "4'",
-          "text": "Désiré Doué (France) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "3'",
-          "text": "Goal! France 0, England 1. Declan Rice (England) right footed shot from outside the box to the bottom right corner.",
+          "min": "54'",
+          "text": "Goal! France 2, England 4. Bradley Barcola (France) right footed shot from the centre of the box to the bottom left corner. Assisted by Kylian Mbappé with a through ball.",
           "goal": true
-        },
-        {
-          "min": "",
-          "text": "First Half begins.",
-          "goal": false
-        },
-        {
-          "min": "",
-          "text": "Lineups are announced and players are warming up.",
-          "goal": false
         }
       ],
       "leaders": [
@@ -92990,28 +93071,28 @@
             "name": "K. Mbappé",
             "num": "10",
             "pos": "F",
-            "value": "3"
+            "value": "8"
           },
           "away": {
             "name": "B. Saka",
             "num": "7",
             "pos": "F",
-            "value": "4"
+            "value": "5"
           }
         },
         {
           "label": "Accurate Passes",
           "home": {
-            "name": "R. Cherki",
-            "num": "24",
+            "name": "W. Zaïre-Emery",
+            "num": "18",
             "pos": "M",
-            "value": "25"
+            "value": "54"
           },
           "away": {
             "name": "D. Rice",
             "num": "4",
             "pos": "M",
-            "value": "50"
+            "value": "87"
           }
         },
         {
@@ -93020,13 +93101,13 @@
             "name": "M. Lacroix",
             "num": "26",
             "pos": "D",
-            "value": "5"
+            "value": "11"
           },
           "away": {
             "name": "D. Rice",
             "num": "4",
             "pos": "M",
-            "value": "7"
+            "value": "12"
           }
         },
         {
@@ -93035,18 +93116,18 @@
             "name": "M. Maignan",
             "num": "16",
             "pos": "G",
-            "value": "2"
+            "value": "4"
           },
           "away": {
             "name": "D. Henderson",
             "num": "13",
             "pos": "G",
-            "value": "2"
+            "value": "5"
           }
         }
       ],
       "highlight": null,
-      "final": false,
+      "final": true,
       "dv": 5
     }
   }

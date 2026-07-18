@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-18T20:24:08.005Z",
+  "lastUpdated": "2026-07-18T21:14:42.593Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -92201,6 +92201,583 @@
         "hls": "https://service-pkgespn.akamaized.net/opp/hls/espn/2026/0715/dm_260715_COM_SOC_Fans_BOXPARK_goes_crazy_as_as_Gordon_gives_England_the_lead_vs_Argentina_GLOBAL_2026-07-1/dm_260715_COM_SOC_Fans_BOXPARK_goes_crazy_as_as_Gordon_gives_England_the_lead_vs_Argentina_GLOBAL_2026-07-1/playlist.m3u8"
       },
       "final": true,
+      "dv": 5
+    },
+    "760516": {
+      "venue": "Hard Rock Stadium",
+      "stats": {
+        "home": {
+          "foulsCommitted": "1",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "0",
+          "wonCorners": "0",
+          "saves": "0",
+          "possessionPct": "48",
+          "totalShots": "3",
+          "shotsOnTarget": "1",
+          "shotPct": "0.3",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "64",
+          "totalPasses": "72",
+          "passPct": "0.9",
+          "accurateCrosses": "0",
+          "totalCrosses": "0",
+          "crossPct": "0.0",
+          "totalLongBalls": "5",
+          "accurateLongBalls": "1",
+          "longballPct": "0.2",
+          "blockedShots": "2",
+          "effectiveTackles": "0",
+          "totalTackles": "1",
+          "tacklePct": "0.0",
+          "interceptions": "2",
+          "effectiveClearance": "2",
+          "totalClearance": "2"
+        },
+        "away": {
+          "foulsCommitted": "1",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "1",
+          "wonCorners": "1",
+          "saves": "1",
+          "possessionPct": "52",
+          "totalShots": "3",
+          "shotsOnTarget": "1",
+          "shotPct": "0.3",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "68",
+          "totalPasses": "74",
+          "passPct": "0.9",
+          "accurateCrosses": "2",
+          "totalCrosses": "4",
+          "crossPct": "0.5",
+          "totalLongBalls": "4",
+          "accurateLongBalls": "2",
+          "longballPct": "0.5",
+          "blockedShots": "2",
+          "effectiveTackles": "0",
+          "totalTackles": "2",
+          "tacklePct": "0.0",
+          "interceptions": "2",
+          "effectiveClearance": "2",
+          "totalClearance": "2"
+        }
+      },
+      "events": [
+        {
+          "kind": "Goal",
+          "min": "3'",
+          "side": "away",
+          "player": "Goal! France 0, England 1. Declan Rice"
+        }
+      ],
+      "lineups": {
+        "home": [
+          {
+            "name": "Mike Maignan",
+            "short": "M. Maignan",
+            "num": "16",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Maxence Lacroix",
+            "short": "M. Lacroix",
+            "num": "26",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Ibrahima Konaté",
+            "short": "I. Konaté",
+            "num": "15",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Theo Hernández",
+            "short": "T. Hernández",
+            "num": "19",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Malo Gusto",
+            "short": "M. Gusto",
+            "num": "2",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Rayan Cherki",
+            "short": "R. Cherki",
+            "num": "24",
+            "pos": "AM",
+            "place": "10"
+          },
+          {
+            "name": "Adrien Rabiot",
+            "short": "A. Rabiot",
+            "num": "14",
+            "pos": "LM",
+            "place": "4"
+          },
+          {
+            "name": "Warren Zaïre-Emery",
+            "short": "W. Zaïre-Emery",
+            "num": "18",
+            "pos": "RM",
+            "place": "8"
+          },
+          {
+            "name": "Kylian Mbappé",
+            "short": "K. Mbappé",
+            "num": "10",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Désiré Doué",
+            "short": "D. Doué",
+            "num": "20",
+            "pos": "AM-L",
+            "place": "11"
+          },
+          {
+            "name": "Michael Olise",
+            "short": "M. Olise",
+            "num": "11",
+            "pos": "AM-R",
+            "place": "7"
+          }
+        ],
+        "away": [
+          {
+            "name": "Dean Henderson",
+            "short": "D. Henderson",
+            "num": "13",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Marc Guéhi",
+            "short": "M. Guéhi",
+            "num": "6",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Ezri Konsa",
+            "short": "E. Konsa",
+            "num": "2",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Declan Rice",
+            "short": "D. Rice",
+            "num": "4",
+            "pos": "DM",
+            "place": "4"
+          },
+          {
+            "name": "Djed Spence",
+            "short": "D. Spence",
+            "num": "25",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Jarell Quansah",
+            "short": "J. Quansah",
+            "num": "26",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Eberechi Eze",
+            "short": "E. Eze",
+            "num": "21",
+            "pos": "CM-L",
+            "place": "10"
+          },
+          {
+            "name": "Morgan Rogers",
+            "short": "M. Rogers",
+            "num": "17",
+            "pos": "CM-R",
+            "place": "8"
+          },
+          {
+            "name": "Marcus Rashford",
+            "short": "M. Rashford",
+            "num": "11",
+            "pos": "LM",
+            "place": "11"
+          },
+          {
+            "name": "Bukayo Saka",
+            "short": "B. Saka",
+            "num": "7",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Ivan Toney",
+            "short": "I. Toney",
+            "num": "22",
+            "pos": "F",
+            "place": "9"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Marcus Thuram",
+            "short": "M. Thuram",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Robin Risser",
+            "short": "R. Risser",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Manu Koné",
+            "short": "M. Koné",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Maghnes Akliouche",
+            "short": "M. Akliouche",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Bradley Barcola",
+            "short": "B. Barcola",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jean-Philippe Mateta",
+            "short": "J. Mateta",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jules Koundé",
+            "short": "J. Koundé",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Brice Samba",
+            "short": "B. Samba",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "William Saliba",
+            "short": "W. Saliba",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Dayot Upamecano",
+            "short": "D. Upamecano",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ousmane Dembélé",
+            "short": "O. Dembélé",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "N'Golo Kanté",
+            "short": "N. Kanté",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Lucas Digne",
+            "short": "L. Digne",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Lucas Hernández",
+            "short": "L. Hernández",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Aurélien Tchouaméni",
+            "short": "A. Tchouaméni",
+            "num": "8",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Jordan Pickford",
+            "short": "J. Pickford",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jude Bellingham",
+            "short": "J. Bellingham",
+            "num": "10",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Harry Kane",
+            "short": "H. Kane",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nico O'Reilly",
+            "short": "N. O'Reilly",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Trevoh Chalobah",
+            "short": "T. Chalobah",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Elliot Anderson",
+            "short": "E. Anderson",
+            "num": "8",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "James Trafford",
+            "short": "J. Trafford",
+            "num": "23",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "John Stones",
+            "short": "J. Stones",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Dan Burn",
+            "short": "D. Burn",
+            "num": "15",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Jordan Henderson",
+            "short": "J. Henderson",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Noni Madueke",
+            "short": "N. Madueke",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Anthony Gordon",
+            "short": "A. Gordon",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Reece James",
+            "short": "R. James",
+            "num": "24",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ollie Watkins",
+            "short": "O. Watkins",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-2-3-1",
+        "away": "4-1-4-1"
+      },
+      "commentary": [
+        {
+          "min": "11'",
+          "text": "Offside, England. Bukayo Saka is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "11'",
+          "text": "Attempt blocked. Warren Zaïre-Emery (France) left footed shot from outside the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "11'",
+          "text": "Attempt saved. Rayan Cherki (France) left footed shot from outside the box is saved in the bottom right corner by Dean Henderson (England).",
+          "goal": false
+        },
+        {
+          "min": "9'",
+          "text": "Eberechi Eze (England) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "9'",
+          "text": "Foul by Malo Gusto (France).",
+          "goal": false
+        },
+        {
+          "min": "8'",
+          "text": "Attempt blocked. Eberechi Eze (England) left footed shot from the right side of the box is blocked. Assisted by Morgan Rogers.",
+          "goal": false
+        },
+        {
+          "min": "7'",
+          "text": "Corner, England. Conceded by Malo Gusto.",
+          "goal": false
+        },
+        {
+          "min": "7'",
+          "text": "Attempt blocked. Marcus Rashford (England) right footed shot from the centre of the box is blocked. Assisted by Bukayo Saka with a cross.",
+          "goal": false
+        },
+        {
+          "min": "5'",
+          "text": "Attempt blocked. Kylian Mbappé (France) right footed shot from the left side of the box is blocked. Assisted by Adrien Rabiot.",
+          "goal": false
+        },
+        {
+          "min": "4'",
+          "text": "Foul by Jarell Quansah (England).",
+          "goal": false
+        },
+        {
+          "min": "4'",
+          "text": "Désiré Doué (France) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "3'",
+          "text": "Goal! France 0, England 1. Declan Rice (England) right footed shot from outside the box to the bottom right corner.",
+          "goal": true
+        },
+        {
+          "min": "",
+          "text": "First Half begins.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "Lineups are announced and players are warming up.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "W. Zaïre-Emery",
+            "num": "18",
+            "pos": "M",
+            "value": "1"
+          },
+          "away": {
+            "name": "E. Eze",
+            "num": "21",
+            "pos": "M",
+            "value": "1"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "A. Rabiot",
+            "num": "14",
+            "pos": "M",
+            "value": "11"
+          },
+          "away": {
+            "name": "D. Rice",
+            "num": "4",
+            "pos": "M",
+            "value": "11"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "T. Hernández",
+            "num": "19",
+            "pos": "D",
+            "value": "3"
+          },
+          "away": {
+            "name": "D. Rice",
+            "num": "4",
+            "pos": "M",
+            "value": "3"
+          }
+        },
+        {
+          "label": "Saves",
+          "away": {
+            "name": "D. Henderson",
+            "num": "13",
+            "pos": "G",
+            "value": "1"
+          }
+        }
+      ],
+      "highlight": null,
+      "final": false,
       "dv": 5
     }
   }

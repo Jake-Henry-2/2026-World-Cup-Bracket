@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-18T20:24:07.922Z",
+  "lastUpdated": "2026-07-18T21:14:42.523Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -427,20 +427,24 @@
       "home": "France",
       "away": "England",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeWinner": false,
       "awayWinner": false,
       "odds": {
-        "home": -135,
-        "away": 330,
-        "draw": 300,
+        "home": -145,
+        "away": 350,
+        "draw": 310,
         "total": 3.5,
         "book": "DraftKings"
       },
-      "status": "scheduled",
+      "status": "live",
       "id": "760516",
       "date": "2026-07-18T21:00Z",
-      "venue": "Hard Rock Stadium"
+      "venue": "Hard Rock Stadium",
+      "clock": 840,
+      "displayClock": "14'",
+      "detail": "14'",
+      "period": 1
     },
     {
       "stage": "final",

@@ -1,13 +1,20 @@
 {
-  "lastUpdated": "2026-07-18T21:14:42.550Z",
+  "lastUpdated": "2026-07-18T22:09:39.084Z",
   "source": "ESPN",
   "articles": [
     {
       "headline": "World Cup Daily live: France, England play for third place; Messi, Brady in KD's all-star selfie",
       "description": "Enjoy all the features, news, video analysis and color from around the World Cup as we decide who finishes in third place between England and France.",
-      "published": "2026-07-18T20:59:53Z",
+      "published": "2026-07-18T21:40:08Z",
       "link": "https://www.espn.com/soccer/story/_/id/49387153/world-cup-daily-kevin-durant-tom-brady-lionel-messi-selfie-france-england-third-place-playoff",
       "image": "https://a.espncdn.com/photo/2026/0718/r1690743_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Argentina fans take over Times Square ahead of World Cup final",
+      "description": "Argentina fans take over Times Square ahead of World Cup final",
+      "published": "2026-07-18T21:47:46Z",
+      "link": "https://www.espn.com/video/clip/_/id/49394018/argentina-fans-take-s-square-ahead-world-cup-final",
+      "image": "https://a.espncdn.com/media/motion/2026/0718/dm_260718_COM_SOC_News_Argentina_fans_take_over_Times_Square_ahead_of_World_Cup_final_20260718_GLOBAL_FIFA/dm_260718_COM_SOC_News_Argentina_fans_take_over_Times_Square_ahead_of_World_Cup_final_20260718_GLOBAL_FIFA.jpg"
     },
     {
       "headline": "Future of hydration breaks undecided - FIFA's Arsène Wenger",
@@ -36,13 +43,6 @@
       "published": "2026-07-18T19:20:24Z",
       "link": "https://www.espn.com/soccer/story/_/id/49392587/storms-due-clear-wildfire-smoke-world-cup-final-spain-argentina",
       "image": "https://a.espncdn.com/photo/2026/0718/r1690902_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Argentina's Emiliano Martínez admits playing with pain of broken finger",
-      "description": "Argentina goalkeeper Emiliano \"Dibu\" Martínez admitted he's been playing through pain in his right hand throughout the World Cup after avoiding a recommended operation in order to participate in the tournament.",
-      "published": "2026-07-18T19:17:38Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49392007/argentina-emiliano-martinez-admits-playing-pain-broken-finger",
-      "image": "https://a.espncdn.com/photo/2026/0717/r1690635_1296x729_16-9.jpg"
     }
   ]
 }

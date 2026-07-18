@@ -1,13 +1,34 @@
 {
-  "lastUpdated": "2026-07-18T10:51:03.581Z",
+  "lastUpdated": "2026-07-18T11:42:54.232Z",
   "source": "ESPN",
   "articles": [
     {
+      "headline": "Back to his best, Rodri has powered Spain to World Cup final",
+      "description": "Other Spain players get the attention, but midfielder Rodri is the key to them stopping Lionel Messi and Argentina.",
+      "published": "2026-07-18T11:13:12Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49385857/back-best-rodri-powered-spain-2026-world-cup-final",
+      "image": "https://a.espncdn.com/photo/2026/0717/r1690558_1296x729_16-9.jpg"
+    },
+    {
       "headline": "World Cup Daily live: Messi, Brady in Durant's all-star selfie; France, England play for third place",
       "description": "Enjoy all the features, news, video analysis and color from around the World Cup as we decide who finishes in third place between England and France.",
-      "published": "2026-07-18T09:59:38Z",
+      "published": "2026-07-18T11:17:04Z",
       "link": "https://www.espn.com/soccer/story/_/id/49387153/world-cup-daily-kevin-durant-tom-brady-lionel-messi-selfie-france-england-third-place-playoff",
       "image": "https://a.espncdn.com/photo/2026/0718/r1690743_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Who wins World Cup final battle between Messi and Yamal? We do",
+      "description": "We've all seen the image of Lionel Messi bathing Lamine Yamal, and amazingly, both men will go head-to-head in Sunday's World Cup final. Will Yamal take the crown, or will the veteran magician retain his place as the GOA",
+      "published": "2026-07-18T11:02:32Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49381908/world-cup-final-spain-argentina-lamine-yamal-lionel-messi-gab-marcotti",
+      "image": "https://a.espncdn.com/photo/2026/0718/r1690755_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Deschamps reflects on final game as France head coach",
+      "description": "Deschamps reflects on final game as France head coach",
+      "published": "2026-07-18T10:57:07Z",
+      "link": "https://www.espn.com/video/clip/_/id/49390159/deschamps-reflects-final-game-france-head-coach",
+      "image": "https://a.espncdn.com/media/motion/2026/0718/dm_260718_Deschamps_reflects_on_final_game_as_France_head_coach/dm_260718_Deschamps_reflects_on_final_game_as_France_head_coach.jpg"
     },
     {
       "headline": "The world's most remote FIFA World Cup final watch parties",
@@ -22,27 +43,6 @@
       "published": "2026-07-18T08:35:13Z",
       "link": "https://www.espn.com/soccer/story/_/id/49389517/john-stones-england-experiencing-suffering-pain-world-cup-despair",
       "image": "https://a.espncdn.com/photo/2026/0718/r1690729_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Wayne Rooney rows down river after losing bet at World Cup",
-      "description": "Wayne Rooney rowed down a river on Saturday morning after honouring a lost bet at the World Cup.",
-      "published": "2026-07-18T08:17:54Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49389483/wayne-rooney-rows-river-losing-bet-world-cup",
-      "image": "https://a.espncdn.com/photo/2025/1024/r1565123_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Trump questions Kane's 'defensive' role in England's WC exit to Argentina",
-      "description": "Trump questions Kane's 'defensive' role in England's WC exit to Argentina",
-      "published": "2026-07-18T08:03:49Z",
-      "link": "https://www.espn.com/video/clip/_/id/49389431/trump-questions-kane-defensive-role-england-wc-exit-argentina",
-      "image": "https://a.espncdn.com/media/motion/2026/0718/dm_260718_COM_SOC_Analysis_Trump_questions_Kanes_defensive_role_in_EnglandE28099s_WC_exit_to_Argentina_GLOBAL/dm_260718_COM_SOC_Analysis_Trump_questions_Kanes_defensive_role_in_EnglandE28099s_WC_exit_to_Argentina_GLOBAL.jpg"
-    },
-    {
-      "headline": "Tuchel reveals he has 'no regrets' over his decisions vs. Argentina",
-      "description": "Tuchel reveals he has 'no regrets' over his decisions vs. Argentina",
-      "published": "2026-07-18T07:37:24Z",
-      "link": "https://www.espn.com/video/clip/_/id/49389338/tuchel-reveals-no-regrets-decisions-vs-argentina",
-      "image": "https://a.espncdn.com/media/motion/2026/0718/dm_260718_COM_SOC_Analysis_Tuchel_reveals_he_has_E216/dm_260718_COM_SOC_Analysis_Tuchel_reveals_he_has_E216.jpg"
     }
   ]
 }

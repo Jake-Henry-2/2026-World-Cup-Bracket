@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-07-18T17:15:49.543Z",
+  "lastUpdated": "2026-07-18T18:11:16.554Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Argentina's Emiliano Martínez admits playing with pain of broken finger",
+      "description": "Argentina goalkeeper Emiliano \"Dibu\" Martínez admitted he's been playing through pain in his right hand throughout the World Cup after avoiding a recommended operation in order to participate in the tournament.",
+      "published": "2026-07-18T18:00:50Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49392007/argentina-emiliano-martinez-admits-playing-pain-broken-finger",
+      "image": "https://a.espncdn.com/photo/2026/0717/r1690635_1296x729_16-9.jpg"
+    },
     {
       "headline": "Is Pochettino holding out for a club job over the USMNT?",
       "description": "Is Pochettino holding out for a club job over the USMNT?",
@@ -26,7 +33,7 @@
     {
       "headline": "Spain's Aymeric Laporte suggests Argentina often 'leave one in' on opponents",
       "description": "Ahead of the World Cup final Sunday, Spain defender Aymeric Laporte has suggested that Argentina are prone to using \"aggressive tactics\" in games.",
-      "published": "2026-07-18T15:55:58Z",
+      "published": "2026-07-18T17:18:50Z",
       "link": "https://www.espn.com/soccer/story/_/id/49391152/spain-argentina-world-cup-final-2026-aymeric-laporte",
       "image": "https://a.espncdn.com/photo/2026/0718/r1690802_1296x729_16-9.jpg"
     },
@@ -36,13 +43,6 @@
       "published": "2026-07-18T14:22:20Z",
       "link": "https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket",
       "image": "https://a.espncdn.com/photo/2025/1204/r1584809_2_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Back to his best, Rodri has powered Spain to World Cup final",
-      "description": "Other Spain players get the attention, but midfielder Rodri is the key to them stopping Lionel Messi and Argentina.",
-      "published": "2026-07-18T11:13:12Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49385857/back-best-rodri-powered-spain-2026-world-cup-final",
-      "image": "https://a.espncdn.com/photo/2026/0717/r1690558_1296x729_16-9.jpg"
     }
   ]
 }

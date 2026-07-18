@@ -1,11 +1,32 @@
 {
-  "lastUpdated": "2026-07-17T23:28:16.108Z",
+  "lastUpdated": "2026-07-18T00:58:52.663Z",
   "source": "ESPN",
   "articles": [
     {
+      "headline": "Spain captain Rodri says team must raise level vs. Argentina",
+      "description": "Spain reaching the FIFA World Cup final is still something of a novelty, given this is just the second time the country has gotten this far. Rodri sees it as the culmination of years building to this point.",
+      "published": "2026-07-18T00:45:01Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49387336/spain-captain-rodri-raise-level-argentina",
+      "image": "https://a.espncdn.com/photo/2026/0706/r1685609_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "President Donald Trump adds to Thomas Tuchel criticism by questioning Harry Kane role",
+      "description": "U.S. President Donald Trump has joined the growing criticism of Thomas Tuchel's tactics in England's World Cup semifinal defeat to Argentina.",
+      "published": "2026-07-18T00:13:44Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49387156/us-president-donald-trump-questions-harry-kane-england-mistake-argentina-2026-world-cup-tactics",
+      "image": "https://a.espncdn.com/photo/2026/0717/r1690637_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "2026 FIFA World Cup match schedule: Fixtures, results, features",
+      "description": "Check out all the fixtures, features and results for the 2026 FIFA World Cup in the United States, Mexico and Canada.",
+      "published": "2026-07-17T23:50:35Z",
+      "link": "https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket",
+      "image": "https://a.espncdn.com/photo/2025/1204/r1584809_2_1296x729_16-9.jpg"
+    },
+    {
       "headline": "World Cup Daily live: Final winners (and fans!) to get championship rings",
       "description": "Enjoy all the features, news, video analysis and color from around the competition as we enter the final weekend of the 2026 World Cup.",
-      "published": "2026-07-17T23:08:33Z",
+      "published": "2026-07-17T23:53:51Z",
       "link": "https://www.espn.com/soccer/story/_/id/49380811/final-winners-fans-get-championship-rings",
       "image": "https://a.espncdn.com/photo/2026/0717/r1690333_2_500x281_16-9.png"
     },
@@ -19,30 +40,9 @@
     {
       "headline": "FIFA president Infantino proclaims World Cup a success at U.N.",
       "description": "FIFA President Gianni Infantino deemed the FIFA World Cup a success on Friday, saying the tournament achieved its mission of uniting people from all corners of the globe.",
-      "published": "2026-07-17T22:45:11Z",
+      "published": "2026-07-17T23:37:48Z",
       "link": "https://www.espn.com/soccer/story/_/id/49386705/fifa-president-infantino-proclaims-world-cup-success-un",
       "image": "https://a.espncdn.com/photo/2026/0717/r1690607_1024x576_16-9.jpg"
-    },
-    {
-      "headline": "Hislop: WC final will be Spain's tactics vs. Argentina's pure grit",
-      "description": "Hislop: WC final will be Spain's tactics vs. Argentina's pure grit",
-      "published": "2026-07-17T22:29:44Z",
-      "link": "https://www.espn.com/video/clip/_/id/49386822/wc-final-spain-tactics-vs-argentina-pure-grit",
-      "image": "https://a.espncdn.com/media/motion/2026/0717/dm_260717_Hislop_WC_final_will_be_Spains_tactics_vs_Argentinas_pure_grit/dm_260717_Hislop_WC_final_will_be_Spains_tactics_vs_Argentinas_pure_grit.jpg"
-    },
-    {
-      "headline": "Moreno: Yamal needs to elevate his game against Messi",
-      "description": "Moreno: Yamal needs to elevate his game against Messi",
-      "published": "2026-07-17T22:28:31Z",
-      "link": "https://www.espn.com/video/clip/_/id/49386817/yamal-needs-elevate-game-messi",
-      "image": "https://a.espncdn.com/media/motion/2026/0717/dm_260717_Moreno_Yamal_needs_to_elevate_his_game_against_Messi/dm_260717_Moreno_Yamal_needs_to_elevate_his_game_against_Messi.jpg"
-    },
-    {
-      "headline": "Moreno: England were scared to win",
-      "description": "Moreno: England were scared to win",
-      "published": "2026-07-17T22:21:20Z",
-      "link": "https://www.espn.com/video/clip/_/id/49386787/england-were-scared-win",
-      "image": "https://a.espncdn.com/media/motion/2026/0717/dm_260717_Moreno_England_were_scared_to_win/dm_260717_Moreno_England_were_scared_to_win.jpg"
     }
   ]
 }

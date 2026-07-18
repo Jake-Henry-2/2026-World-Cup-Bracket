@@ -1,11 +1,18 @@
 {
-  "lastUpdated": "2026-07-18T16:12:18.409Z",
+  "lastUpdated": "2026-07-18T17:15:49.543Z",
   "source": "ESPN",
   "articles": [
     {
+      "headline": "Is Pochettino holding out for a club job over the USMNT?",
+      "description": "Is Pochettino holding out for a club job over the USMNT?",
+      "published": "2026-07-18T16:42:11Z",
+      "link": "https://www.espn.com/video/clip/_/id/49391868/is-pochettino-holding-club-job-usmnt",
+      "image": "https://a.espncdn.com/media/motion/2026/0718/dm_260718_COM_SOC_Analysis_Is_Pochettino_holding_out_for_a_club_job_over_the_USMNT_20260718_GLOBAL_FIFA_W/dm_260718_COM_SOC_Analysis_Is_Pochettino_holding_out_for_a_club_job_over_the_USMNT_20260718_GLOBAL_FIFA_W.jpg"
+    },
+    {
       "headline": "World Cup Daily live: Messi, Brady in Durant's all-star selfie; France, England play for third place",
       "description": "Enjoy all the features, news, video analysis and color from around the World Cup as we decide who finishes in third place between England and France.",
-      "published": "2026-07-18T15:08:50Z",
+      "published": "2026-07-18T16:17:43Z",
       "link": "https://www.espn.com/soccer/story/_/id/49387153/world-cup-daily-kevin-durant-tom-brady-lionel-messi-selfie-france-england-third-place-playoff",
       "image": "https://a.espncdn.com/photo/2026/0718/r1690743_1296x729_16-9.jpg"
     },
@@ -36,13 +43,6 @@
       "published": "2026-07-18T11:13:12Z",
       "link": "https://www.espn.com/soccer/story/_/id/49385857/back-best-rodri-powered-spain-2026-world-cup-final",
       "image": "https://a.espncdn.com/photo/2026/0717/r1690558_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Who wins World Cup final battle between Messi and Yamal? We do",
-      "description": "We've all seen the image of Lionel Messi bathing Lamine Yamal, and amazingly, both men will go head-to-head in Sunday's World Cup final. Will Yamal take the crown, or will the veteran magician retain his place as the GOA",
-      "published": "2026-07-18T11:02:32Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49381908/world-cup-final-spain-argentina-lamine-yamal-lionel-messi-gab-marcotti",
-      "image": "https://a.espncdn.com/photo/2026/0718/r1690755_1296x729_16-9.jpg"
     }
   ]
 }

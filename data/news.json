@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-07-18T08:11:49.112Z",
+  "lastUpdated": "2026-07-18T09:45:49.659Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "The world's most remote FIFA World Cup final watch parties",
+      "description": "The World Cup final is the most watched sporting event on Earth. Among the estimated 1.5 billion viewers will be fans in the world's most isolated locations.",
+      "published": "2026-07-18T09:03:42Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49363512/worlds-most-remote-fifa-world-cup-final-viewers-spain-argentina",
+      "image": "https://a.espncdn.com/photo/2026/0715/r1689410_1079x607_16-9.jpg"
+    },
+    {
+      "headline": "John Stones: England experiencing \"suffering, pain\" after World Cup despair",
+      "description": "John Stones truly felt England could win the World Cup and has yet to process the devastating semifinal loss to Argentina ahead of their bronze medal meeting with France.",
+      "published": "2026-07-18T08:35:13Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49389517/john-stones-england-experiencing-suffering-pain-world-cup-despair",
+      "image": "https://a.espncdn.com/photo/2026/0718/r1690729_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Wayne Rooney rows down river after losing bet at World Cup",
+      "description": "Wayne Rooney rowed down a river on Saturday morning after honouring a lost bet at the World Cup.",
+      "published": "2026-07-18T08:17:54Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49389483/wayne-rooney-rows-river-losing-bet-world-cup",
+      "image": "https://a.espncdn.com/photo/2025/1024/r1565123_1296x729_16-9.jpg"
+    },
     {
       "headline": "Trump questions Kane's 'defensive' role in England's WC exit to Argentina",
       "description": "Trump questions Kane's 'defensive' role in England's WC exit to Argentina",
@@ -22,27 +43,6 @@
       "published": "2026-07-18T07:03:19Z",
       "link": "https://www.espn.com/video/clip/_/id/49389236/messi-gives-take-crazy-full-circle-lamine-yamal-fixture",
       "image": "https://a.espncdn.com/media/motion/2026/0718/dm_260718_Messi_gives_his_take_on_crazy_full_circle_Lamine_Yamal_fixture/dm_260718_Messi_gives_his_take_on_crazy_full_circle_Lamine_Yamal_fixture.jpg"
-    },
-    {
-      "headline": "Prepare yourself for the ultimate day of sport -- mark your calendars",
-      "description": "Mark down July 19 into your calendars as a day you need to be in front of the TV watching a day of sport that will go down in history.",
-      "published": "2026-07-18T06:34:31Z",
-      "link": "https://www.espn.com/golf/story/_/id/48769330/prepare-ultimate-day-sport-mark-calendars-open-belgium-grand-prix-fifa-world-cup-final",
-      "image": "https://a.espncdn.com/photo/2026/0514/r1658040_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Why are there hydration breaks at the 2026 World Cup, and why has FIFA been criticised?",
-      "description": "All 104 matches at the 2026 World Cup are stopping for two hydration breaks. Why have they been stipulated by FIFA, and why have they been criticised?",
-      "published": "2026-07-18T06:32:48Z",
-      "link": "https://www.espn.com/soccer/story/_/id/48945011/why-there-drinks-breaks-2026-world-cup-fifa-criticised",
-      "image": "https://a.espncdn.com/photo/2026/0615/r1673607_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Free World Cup 2026 predictor: Simulate your road to the final",
-      "description": "Put your football knowledge to the test with ESPN's free World Cup 2026 predictor games and forecast every twist and turn of the tournament.",
-      "published": "2026-07-18T06:23:16Z",
-      "link": "https://www.espn.com/soccer/story/_/id/48945570/2026-fifa-world-cup-predictions-simulator",
-      "image": "https://a.espncdn.com/photo/2026/0521/r1661625_1296x729_16-9.jpg"
     }
   ]
 }

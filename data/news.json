@@ -1,13 +1,34 @@
 {
-  "lastUpdated": "2026-07-18T14:08:29.621Z",
+  "lastUpdated": "2026-07-18T15:13:37.183Z",
   "source": "ESPN",
   "articles": [
     {
       "headline": "World Cup Daily live: Messi, Brady in Durant's all-star selfie; France, England play for third place",
       "description": "Enjoy all the features, news, video analysis and color from around the World Cup as we decide who finishes in third place between England and France.",
-      "published": "2026-07-18T12:59:38Z",
+      "published": "2026-07-18T15:08:50Z",
       "link": "https://www.espn.com/soccer/story/_/id/49387153/world-cup-daily-kevin-durant-tom-brady-lionel-messi-selfie-france-england-third-place-playoff",
       "image": "https://a.espncdn.com/photo/2026/0718/r1690743_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Asking Barcelona locals if they want Yamal or Messi to win the World Cup",
+      "description": "Asking Barcelona locals if they want Yamal or Messi to win the World Cup",
+      "published": "2026-07-18T14:41:07Z",
+      "link": "https://www.espn.com/video/clip/_/id/49391213/asking-barcelona-locals-want-yamal-messi-win-world-cup",
+      "image": "https://a.espncdn.com/media/motion/2026/0718/dm_260718_COM_SOC_fans_Asking_Barcelona_locals_if_they_want_Yamal_or_Messi_to_win_the_World_Cup_GLOBAL_2026-/dm_260718_COM_SOC_fans_Asking_Barcelona_locals_if_they_want_Yamal_or_Messi_to_win_the_World_Cup_GLOBAL_2026-.jpg"
+    },
+    {
+      "headline": "Spain's Aymeric Laporte suggests Argentina often 'leave one in' on opponents",
+      "description": "Spain defender Aymeric Laporte has suggested that Argentina prone to using \"aggressive tactics\" in games, ahead of the World Cup final on Sunday.",
+      "published": "2026-07-18T15:10:23Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49391152/spain-argentina-world-cup-final-2026-aymeric-laporte",
+      "image": "https://a.espncdn.com/photo/2026/0718/r1690802_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "2026 FIFA World Cup match schedule: Fixtures, results, features",
+      "description": "Check out all the fixtures, features and results for the 2026 FIFA World Cup in the United States, Mexico and Canada.",
+      "published": "2026-07-18T14:22:20Z",
+      "link": "https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket",
+      "image": "https://a.espncdn.com/photo/2025/1204/r1584809_2_1296x729_16-9.jpg"
     },
     {
       "headline": "Back to his best, Rodri has powered Spain to World Cup final",
@@ -22,27 +43,6 @@
       "published": "2026-07-18T11:02:32Z",
       "link": "https://www.espn.com/soccer/story/_/id/49381908/world-cup-final-spain-argentina-lamine-yamal-lionel-messi-gab-marcotti",
       "image": "https://a.espncdn.com/photo/2026/0718/r1690755_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "World Cup kit ranking: Which teams will look best in 2026?",
-      "description": "The 2026 World Cup will be the first with 48 teams, bringing a total of more than 100 kits! Here they all are, ranked from worst to first.",
-      "published": "2026-07-18T11:42:58Z",
-      "link": "https://www.espn.com/soccer/story/_/id/48352807/world-cup-2026-kit-ranking-canada-mexico-united-states-argentina-australia-brazil-england-france-germany-portugal-spain",
-      "image": "https://a.espncdn.com/photo/2026/0401/r1637137_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Deschamps reflects on final game as France head coach",
-      "description": "Deschamps reflects on final game as France head coach",
-      "published": "2026-07-18T10:57:07Z",
-      "link": "https://www.espn.com/video/clip/_/id/49390159/deschamps-reflects-final-game-france-head-coach",
-      "image": "https://a.espncdn.com/media/motion/2026/0718/dm_260718_Deschamps_reflects_on_final_game_as_France_head_coach/dm_260718_Deschamps_reflects_on_final_game_as_France_head_coach.jpg"
-    },
-    {
-      "headline": "The world's most remote FIFA World Cup final watch parties",
-      "description": "The World Cup final is the most watched sporting event on Earth. Among the estimated 1.5 billion viewers will be fans in the world's most isolated locations.",
-      "published": "2026-07-18T09:03:42Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49363512/worlds-most-remote-fifa-world-cup-final-viewers-spain-argentina",
-      "image": "https://a.espncdn.com/photo/2026/0715/r1689410_1079x607_16-9.jpg"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-18T11:42:54.232Z",
+  "lastUpdated": "2026-07-18T12:39:24.658Z",
   "source": "ESPN",
   "articles": [
     {
@@ -24,6 +24,13 @@
       "image": "https://a.espncdn.com/photo/2026/0718/r1690755_1296x729_16-9.jpg"
     },
     {
+      "headline": "World Cup kit ranking: Which teams will look best in 2026?",
+      "description": "The 2026 World Cup will be the first with 48 teams, bringing a total of more than 100 kits! Here they all are, ranked from worst to first.",
+      "published": "2026-07-18T11:42:58Z",
+      "link": "https://www.espn.com/soccer/story/_/id/48352807/world-cup-2026-kit-ranking-canada-mexico-united-states-argentina-australia-brazil-england-france-germany-portugal-spain",
+      "image": "https://a.espncdn.com/photo/2026/0401/r1637137_1296x729_16-9.jpg"
+    },
+    {
       "headline": "Deschamps reflects on final game as France head coach",
       "description": "Deschamps reflects on final game as France head coach",
       "published": "2026-07-18T10:57:07Z",
@@ -36,13 +43,6 @@
       "published": "2026-07-18T09:03:42Z",
       "link": "https://www.espn.com/soccer/story/_/id/49363512/worlds-most-remote-fifa-world-cup-final-viewers-spain-argentina",
       "image": "https://a.espncdn.com/photo/2026/0715/r1689410_1079x607_16-9.jpg"
-    },
-    {
-      "headline": "John Stones: England experiencing \"suffering, pain\" after World Cup despair",
-      "description": "John Stones truly felt England could win the World Cup and has yet to process the devastating semifinal loss to Argentina ahead of their bronze medal meeting with France.",
-      "published": "2026-07-18T08:35:13Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49389517/john-stones-england-experiencing-suffering-pain-world-cup-despair",
-      "image": "https://a.espncdn.com/photo/2026/0718/r1690729_1296x729_16-9.jpg"
     }
   ]
 }

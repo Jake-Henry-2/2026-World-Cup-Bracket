@@ -1,13 +1,20 @@
 {
-  "lastUpdated": "2026-07-19T08:55:04.176Z",
+  "lastUpdated": "2026-07-19T10:27:38.529Z",
   "source": "ESPN",
   "articles": [
     {
       "headline": "World Cup Daily live: Final countdown as Spain-Argentina get ready to take New York",
       "description": "Enjoy all the features, news, video analysis and color from around the World Cup as Spain and Lamine Yamal take on Argentina and Lionel Messi in the final.",
-      "published": "2026-07-19T08:05:59Z",
+      "published": "2026-07-19T09:13:49Z",
       "link": "https://www.espn.com/soccer/story/_/id/49397462/world-cup-daily-live-final-countdown-spain-argentina-get-ready-take-new-york-messi-yamal",
       "image": "https://a.espncdn.com/photo/2026/0719/r1691151_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "2026 FIFA World Cup match schedule: Fixtures, results, features",
+      "description": "Check out all the fixtures, features and results for the 2026 FIFA World Cup in the United States, Mexico and Canada.",
+      "published": "2026-07-19T09:12:28Z",
+      "link": "https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket",
+      "image": "https://a.espncdn.com/photo/2025/1204/r1584809_2_1296x729_16-9.jpg"
     },
     {
       "headline": "Declan Rice at World Cup: Best England for years - 'that's a fact'",
@@ -36,13 +43,6 @@
       "published": "2026-07-19T06:46:36Z",
       "link": "https://www.espn.com/soccer/story/_/id/49370934/fifa-world-cup-final-argentina-vs-spain-need-know-predictions-odds",
       "image": "https://a.espncdn.com/photo/2026/0716/r1689928_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Why are there hydration breaks at the 2026 World Cup, and why has FIFA been criticised?",
-      "description": "All 104 matches at the 2026 World Cup are stopping for two hydration breaks. Why have they been stipulated by FIFA, and why have they been criticised?",
-      "published": "2026-07-19T06:30:31Z",
-      "link": "https://www.espn.com/soccer/story/_/id/48945011/why-there-drinks-breaks-2026-world-cup-fifa-criticised",
-      "image": "https://a.espncdn.com/photo/2026/0615/r1673607_1296x729_16-9.jpg"
     }
   ]
 }

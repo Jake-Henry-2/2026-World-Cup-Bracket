@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-19T20:26:40.920Z",
+  "lastUpdated": "2026-07-19T21:26:05.842Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -455,10 +455,10 @@
       "id": "760517",
       "date": "2026-07-19T19:00Z",
       "venue": "MetLife Stadium",
-      "clock": 2940,
-      "displayClock": "49'",
-      "detail": "49'",
-      "period": 2
+      "clock": 5700,
+      "displayClock": "95'",
+      "detail": "95'",
+      "period": 3
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-19T20:26:41.031Z",
+  "lastUpdated": "2026-07-19T21:26:05.970Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -93134,64 +93134,64 @@
       "venue": "MetLife Stadium",
       "stats": {
         "home": {
-          "foulsCommitted": "7",
+          "foulsCommitted": "15",
           "yellowCards": "0",
           "redCards": "0",
           "offsides": "2",
-          "wonCorners": "2",
+          "wonCorners": "9",
           "saves": "0",
-          "possessionPct": "62.9",
-          "totalShots": "4",
-          "shotsOnTarget": "3",
-          "shotPct": "0.8",
+          "possessionPct": "66.8",
+          "totalShots": "16",
+          "shotsOnTarget": "11",
+          "shotPct": "0.7",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "329",
-          "totalPasses": "367",
+          "accuratePasses": "623",
+          "totalPasses": "688",
           "passPct": "0.9",
-          "accurateCrosses": "1",
-          "totalCrosses": "10",
+          "accurateCrosses": "2",
+          "totalCrosses": "23",
           "crossPct": "0.1",
-          "totalLongBalls": "24",
-          "accurateLongBalls": "10",
-          "longballPct": "0.4",
-          "blockedShots": "0",
-          "effectiveTackles": "7",
-          "totalTackles": "8",
-          "tacklePct": "0.9",
-          "interceptions": "4",
-          "effectiveClearance": "8",
-          "totalClearance": "8"
+          "totalLongBalls": "39",
+          "accurateLongBalls": "19",
+          "longballPct": "0.5",
+          "blockedShots": "2",
+          "effectiveTackles": "9",
+          "totalTackles": "14",
+          "tacklePct": "0.6",
+          "interceptions": "8",
+          "effectiveClearance": "11",
+          "totalClearance": "11"
         },
         "away": {
-          "foulsCommitted": "9",
-          "yellowCards": "1",
-          "redCards": "0",
+          "foulsCommitted": "20",
+          "yellowCards": "3",
+          "redCards": "1",
           "offsides": "1",
           "wonCorners": "1",
-          "saves": "3",
-          "possessionPct": "37.1",
+          "saves": "11",
+          "possessionPct": "33.2",
           "totalShots": "0",
           "shotsOnTarget": "0",
           "shotPct": "0.0",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "178",
-          "totalPasses": "222",
+          "accuratePasses": "277",
+          "totalPasses": "350",
           "passPct": "0.8",
           "accurateCrosses": "0",
           "totalCrosses": "2",
           "crossPct": "0.0",
-          "totalLongBalls": "29",
-          "accurateLongBalls": "7",
-          "longballPct": "0.2",
+          "totalLongBalls": "47",
+          "accurateLongBalls": "13",
+          "longballPct": "0.3",
           "blockedShots": "0",
-          "effectiveTackles": "6",
-          "totalTackles": "8",
-          "tacklePct": "0.8",
-          "interceptions": "5",
-          "effectiveClearance": "4",
-          "totalClearance": "4"
+          "effectiveTackles": "10",
+          "totalTackles": "14",
+          "tacklePct": "0.7",
+          "interceptions": "14",
+          "effectiveClearance": "17",
+          "totalClearance": "17"
         }
       },
       "events": [
@@ -93212,6 +93212,72 @@
           "min": "45'",
           "side": "away",
           "player": "Substitution, Argentina. Leandro Paredes replaces Nico González."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "52'",
+          "side": "away",
+          "player": "Leandro Paredes"
+        },
+        {
+          "kind": "Substitution",
+          "min": "58'",
+          "side": "away",
+          "player": "Substitution, Argentina. Nahuel Molina replaces Gonzalo Montiel."
+        },
+        {
+          "kind": "Substitution",
+          "min": "62'",
+          "side": "home",
+          "player": "Substitution, Spain. Ferran Torres replaces Mikel Oyarzabal."
+        },
+        {
+          "kind": "Substitution",
+          "min": "62'",
+          "side": "home",
+          "player": "Substitution, Spain. Pedri replaces Fabián Ruiz."
+        },
+        {
+          "kind": "Substitution",
+          "min": "70'",
+          "side": "away",
+          "player": "Substitution, Argentina. Facundo Medina replaces Cristian Romero because of an injury."
+        },
+        {
+          "kind": "Substitution",
+          "min": "70'",
+          "side": "away",
+          "player": "Substitution, Argentina. Giuliano Simeone replaces Rodrigo De Paul."
+        },
+        {
+          "kind": "Substitution",
+          "min": "75'",
+          "side": "home",
+          "player": "Substitution, Spain. Nico Williams replaces Álex Baena."
+        },
+        {
+          "kind": "Substitution",
+          "min": "75'",
+          "side": "home",
+          "player": "Substitution, Spain. Mikel Merino replaces Dani Olmo."
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "82'",
+          "side": "away",
+          "player": "Enzo Fernández"
+        },
+        {
+          "kind": "Yellow Card",
+          "min": "90'+2'",
+          "side": "away",
+          "player": "Cristian Romero"
+        },
+        {
+          "kind": "Red Card",
+          "min": "90'+3'",
+          "side": "away",
+          "player": "Second yellow card to Enzo Fernández"
         }
       ],
       "lineups": {
@@ -93596,258 +93662,303 @@
       },
       "commentary": [
         {
-          "min": "48'",
-          "text": "Corner, Argentina. Conceded by Aymeric Laporte.",
+          "min": "94'",
+          "text": "Aymeric Laporte (Spain) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "46'",
-          "text": "Attempt saved. Álex Baena (Spain) right footed shot from outside the box is saved in the bottom right corner by Emiliano Martínez (Argentina).",
+          "min": "94'",
+          "text": "Foul by Giuliano Simeone (Argentina).",
           "goal": false
         },
         {
-          "min": "45'",
-          "text": "Second Half begins Spain 0, Argentina 0.",
+          "min": "93'",
+          "text": "Foul by Pedri (Spain).",
           "goal": false
         },
         {
-          "min": "45'",
-          "text": "Substitution, Argentina. Leandro Paredes replaces Nico González.",
+          "min": "93'",
+          "text": "Alexis Mac Allister (Argentina) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "45'+4'",
-          "text": "First Half ends, Spain 0, Argentina 0.",
+          "min": "93'",
+          "text": "Attempt saved. Nico Williams (Spain) header from the centre of the box is saved in the bottom left corner by Emiliano Martínez (Argentina). Assisted by Pedri with a through ball.",
           "goal": false
         },
         {
-          "min": "45'+3'",
-          "text": "Foul by Mikel Oyarzabal (Spain).",
-          "goal": false
-        },
-        {
-          "min": "45'+3'",
-          "text": "Lionel Messi (Argentina) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "45'",
-          "text": "Fourth official has announced 4 minutes of added time.",
-          "goal": false
-        },
-        {
-          "min": "44'",
-          "text": "Substitution, Argentina. Nicolás Otamendi replaces Lisandro Martínez because of an injury.",
-          "goal": false
-        },
-        {
-          "min": "43'",
-          "text": "Attempt missed. Marc Cucurella (Spain) left footed shot from outside the box is close, but misses to the right. Assisted by Fabián Ruiz.",
-          "goal": false
-        },
-        {
-          "min": "41'",
-          "text": "Lisandro Martínez (Argentina) is shown the yellow card for a bad foul.",
-          "goal": false
-        },
-        {
-          "min": "41'",
-          "text": "Mikel Oyarzabal (Spain) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "41'",
-          "text": "Foul by Lisandro Martínez (Argentina).",
-          "goal": false
-        },
-        {
-          "min": "39'",
-          "text": "Attempt saved. Mikel Oyarzabal (Spain) left footed shot from outside the box is saved in the bottom right corner by Emiliano Martínez (Argentina). Assisted by Fabián Ruiz.",
-          "goal": false
-        },
-        {
-          "min": "38'",
-          "text": "Rodri (Spain) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "38'",
-          "text": "Foul by Julián Alvarez (Argentina).",
-          "goal": false
-        },
-        {
-          "min": "36'",
-          "text": "Rodri (Spain) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "36'",
-          "text": "Foul by Nicolás Tagliafico (Argentina).",
-          "goal": false
-        },
-        {
-          "min": "35'",
-          "text": "Offside, Spain. Marc Cucurella is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "34'",
-          "text": "Pedro Porro (Spain) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "34'",
-          "text": "Foul by Julián Alvarez (Argentina).",
-          "goal": false
-        },
-        {
-          "min": "33'",
-          "text": "Foul by Rodri (Spain).",
-          "goal": false
-        },
-        {
-          "min": "33'",
-          "text": "Alexis Mac Allister (Argentina) wins a free kick on the left wing.",
-          "goal": false
-        },
-        {
-          "min": "29'",
-          "text": "Lamine Yamal (Spain) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "29'",
-          "text": "Foul by Nicolás Tagliafico (Argentina).",
-          "goal": false
-        },
-        {
-          "min": "28'",
-          "text": "Handball by Alexis Mac Allister (Argentina).",
-          "goal": false
-        },
-        {
-          "min": "27'",
-          "text": "Delay over. They are ready to continue.",
-          "goal": false
-        },
-        {
-          "min": "25'",
-          "text": "Delay in match for a drinks break.",
-          "goal": false
-        },
-        {
-          "min": "24'",
-          "text": "Foul by Rodri (Spain).",
-          "goal": false
-        },
-        {
-          "min": "24'",
-          "text": "Lionel Messi (Argentina) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "23'",
-          "text": "Corner, Spain. Conceded by Rodrigo De Paul.",
-          "goal": false
-        },
-        {
-          "min": "22'",
-          "text": "Offside, Argentina. Nico González is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "21'",
-          "text": "Offside, Spain. Mikel Oyarzabal is caught offside.",
-          "goal": false
-        },
-        {
-          "min": "20'",
-          "text": "Foul by Dani Olmo (Spain).",
-          "goal": false
-        },
-        {
-          "min": "20'",
-          "text": "Enzo Fernández (Argentina) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "18'",
-          "text": "Dani Olmo (Spain) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "18'",
-          "text": "Foul by Nicolás Tagliafico (Argentina).",
-          "goal": false
-        },
-        {
-          "min": "16'",
-          "text": "Foul by Álex Baena (Spain).",
-          "goal": false
-        },
-        {
-          "min": "16'",
-          "text": "Lionel Messi (Argentina) wins a free kick in the attacking half.",
-          "goal": false
-        },
-        {
-          "min": "14'",
-          "text": "Dani Olmo (Spain) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "14'",
-          "text": "Foul by Alexis Mac Allister (Argentina).",
-          "goal": false
-        },
-        {
-          "min": "12'",
-          "text": "Corner, Spain. Conceded by Lisandro Martínez.",
-          "goal": false
-        },
-        {
-          "min": "8'",
-          "text": "Foul by Lamine Yamal (Spain).",
-          "goal": false
-        },
-        {
-          "min": "8'",
-          "text": "Nicolás Tagliafico (Argentina) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "5'",
-          "text": "Attempt saved. Lamine Yamal (Spain) left footed shot from the right side of the box is saved in the centre of the goal by Emiliano Martínez (Argentina). Assisted by Dani Olmo.",
-          "goal": false
-        },
-        {
-          "min": "4'",
-          "text": "Foul by Gonzalo Montiel (Argentina).",
-          "goal": false
-        },
-        {
-          "min": "4'",
-          "text": "Álex Baena (Spain) wins a free kick in the defensive half.",
-          "goal": false
-        },
-        {
-          "min": "2'",
+          "min": "92'",
           "text": "Foul by Pedro Porro (Spain).",
           "goal": false
         },
         {
-          "min": "2'",
-          "text": "Nico González (Argentina) wins a free kick in the defensive half.",
+          "min": "92'",
+          "text": "Nicolás Tagliafico (Argentina) wins a free kick in the defensive half.",
           "goal": false
         },
         {
-          "min": "",
-          "text": "First Half begins.",
+          "min": "90'",
+          "text": "First Half Extra Time begins Spain 0, Argentina 0.",
           "goal": false
         },
         {
-          "min": "",
-          "text": "Lineups are announced and players are warming up.",
+          "min": "90'+9'",
+          "text": "Second Half ends, Spain 0, Argentina 0.",
+          "goal": false
+        },
+        {
+          "min": "90'+8'",
+          "text": "Corner, Spain. Conceded by Emiliano Martínez.",
+          "goal": false
+        },
+        {
+          "min": "90'+8'",
+          "text": "Attempt saved. Lamine Yamal (Spain) left footed shot from outside the box is saved in the top right corner by Emiliano Martínez (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Ferran Torres (Spain) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "90'+6'",
+          "text": "Foul by Leandro Paredes (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "90'+5'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Delay in match because of an injury Pau Cubarsí (Spain).",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Second yellow card to Enzo Fernández (Argentina) for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Pau Cubarsí (Spain) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Foul by Enzo Fernández (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "90'+3'",
+          "text": "Attempt saved. Nico Williams (Spain) right footed shot from the right side of the box is saved in the top centre of the goal by Emiliano Martínez (Argentina). Assisted by Pedro Porro.",
+          "goal": false
+        },
+        {
+          "min": "90'+2'",
+          "text": "Cristian Romero (Argentina) is shown the yellow card.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Foul by Aymeric Laporte (Spain).",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Lionel Messi (Argentina) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Foul by Ferran Torres (Spain).",
+          "goal": false
+        },
+        {
+          "min": "90'+1'",
+          "text": "Nicolás Otamendi (Argentina) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "90'",
+          "text": "Fourth official has announced 4 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "89'",
+          "text": "Attempt missed. Rodri (Spain) right footed shot from outside the box is too high. Assisted by Pau Cubarsí.",
+          "goal": false
+        },
+        {
+          "min": "87'",
+          "text": "Attempt missed. Ferran Torres (Spain) right footed shot from the centre of the box is close, but misses to the right. Assisted by Mikel Merino with a through ball.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Mikel Merino (Spain) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "84'",
+          "text": "Foul by Enzo Fernández (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Enzo Fernández (Argentina) is shown the yellow card.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "(Spain) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "82'",
+          "text": "Enzo Fernández (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Marc Cucurella (Spain) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Foul by Giuliano Simeone (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "81'",
+          "text": "Attempt saved. Aymeric Laporte (Spain) header from the centre of the box is saved in the bottom left corner by Emiliano Martínez (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "80'",
+          "text": "Corner, Spain. Conceded by Nicolás Tagliafico.",
+          "goal": false
+        },
+        {
+          "min": "78'",
+          "text": "Corner, Spain. Conceded by Nahuel Molina.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Attempt saved. Pau Cubarsí (Spain) right footed shot from outside the box is saved in the centre of the goal by Emiliano Martínez (Argentina). Assisted by Rodri.",
+          "goal": false
+        },
+        {
+          "min": "77'",
+          "text": "Attempt saved. Pedri (Spain) left footed shot from outside the box is saved in the centre of the goal by Emiliano Martínez (Argentina). Assisted by Rodri.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Mikel Merino (Spain) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "76'",
+          "text": "Foul by Leandro Paredes (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Substitution, Spain. Mikel Merino replaces Dani Olmo.",
+          "goal": false
+        },
+        {
+          "min": "75'",
+          "text": "Substitution, Spain. Nico Williams replaces Álex Baena.",
+          "goal": false
+        },
+        {
+          "min": "70'",
+          "text": "Substitution, Argentina. Giuliano Simeone replaces Rodrigo De Paul.",
+          "goal": false
+        },
+        {
+          "min": "70'",
+          "text": "Substitution, Argentina. Facundo Medina replaces Cristian Romero because of an injury.",
+          "goal": false
+        },
+        {
+          "min": "70'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "67'",
+          "text": "Attempt saved. Ferran Torres (Spain) header from the centre of the box is saved in the centre of the goal by Emiliano Martínez (Argentina). Assisted by Lamine Yamal with a cross.",
+          "goal": false
+        },
+        {
+          "min": "66'",
+          "text": "Corner, Spain. Conceded by Nicolás Tagliafico.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Attempt blocked. Dani Olmo (Spain) header from very close range is blocked.",
+          "goal": false
+        },
+        {
+          "min": "65'",
+          "text": "Corner, Spain. Conceded by Leandro Paredes.",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Corner, Spain. Conceded by Emiliano Martínez.",
+          "goal": false
+        },
+        {
+          "min": "64'",
+          "text": "Attempt saved. Dani Olmo (Spain) right footed shot from outside the box is saved in the centre of the goal by Emiliano Martínez (Argentina). Assisted by Pedri.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Ferran Torres (Spain) wins a free kick on the right wing.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Foul by Nicolás Otamendi (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Substitution, Spain. Pedri replaces Fabián Ruiz.",
+          "goal": false
+        },
+        {
+          "min": "62'",
+          "text": "Substitution, Spain. Ferran Torres replaces Mikel Oyarzabal.",
+          "goal": false
+        },
+        {
+          "min": "61'",
+          "text": "Attempt blocked. Lamine Yamal (Spain) left footed shot from outside the box is blocked.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Pedro Porro (Spain) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "60'",
+          "text": "Foul by Leandro Paredes (Argentina).",
           "goal": false
         }
       ],
@@ -93858,7 +93969,7 @@
             "name": "L. Yamal",
             "num": "19",
             "pos": "F",
-            "value": "1"
+            "value": "3"
           }
         },
         {
@@ -93867,13 +93978,13 @@
             "name": "P. Cubarsí",
             "num": "22",
             "pos": "D",
-            "value": "62"
+            "value": "106"
           },
           "away": {
             "name": "C. Romero",
             "num": "13",
             "pos": "D",
-            "value": "30"
+            "value": "36"
           }
         },
         {
@@ -93882,13 +93993,13 @@
             "name": "P. Porro",
             "num": "12",
             "pos": "D",
-            "value": "6"
+            "value": "8"
           },
           "away": {
-            "name": "L. Martínez",
-            "num": "6",
+            "name": "N. Tagliafico",
+            "num": "3",
             "pos": "D",
-            "value": "5"
+            "value": "11"
           }
         },
         {
@@ -93897,7 +94008,7 @@
             "name": "E. Martínez",
             "num": "23",
             "pos": "G",
-            "value": "3"
+            "value": "11"
           }
         }
       ],

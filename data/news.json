@@ -1,18 +1,39 @@
 {
-  "lastUpdated": "2026-07-19T18:12:46.030Z",
+  "lastUpdated": "2026-07-19T19:34:13.737Z",
   "source": "ESPN",
   "articles": [
     {
-      "headline": "World Cup final LIVE: Spain, Argentina prepare to face off in New Jersey",
+      "headline": "Lionel Messi becomes the first man to start in three World Cup finals",
+      "description": "Lionel Messi has officially become the oldest outfield player to ever take the field in a World Cup final, after starting for Argentina as they take on Spain.",
+      "published": "2026-07-19T19:31:26Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49400680/world-cup-final-2026-spain-vs-argentina-lionel-messi",
+      "image": "https://a.espncdn.com/photo/2026/0719/r1691373_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "World Cup final LIVE: Spain, Argentina face off in New Jersey",
       "description": "Enjoy all the features, news, video analysis and color from around the World Cup as Spain and Lamine Yamal take on Argentina and Lionel Messi in the final.",
-      "published": "2026-07-19T18:00:44Z",
+      "published": "2026-07-19T19:19:56Z",
       "link": "https://www.espn.com/soccer/story/_/id/49397462/world-cup-daily-live-final-countdown-spain-argentina-get-ready-take-new-york-messi-yamal",
-      "image": "https://a.espncdn.com/photo/2026/0719/r1691309_1296x729_16-9.jpg"
+      "image": "https://a.espncdn.com/photo/2026/0719/r1691362_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Harry Kane warns England are 'still in that grieving stage' but strongly backs Thomas Tuchel",
+      "description": "Harry Kane admitted England will be \"grieving\" their World Cup heartbreak for some time to come although he backed Thomas Tuchel to stay on as head coach.",
+      "published": "2026-07-19T18:57:04Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49401541/harry-kane-warns-england-that-grieving-stage-strongly-backs-manager-thomas-tuchel",
+      "image": "https://a.espncdn.com/photo/2026/0719/r1691326_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "What changes has Argentina made for the Final against Spain?",
+      "description": "What changes has Argentina made for the Final against Spain?",
+      "published": "2026-07-19T18:25:19Z",
+      "link": "https://www.espn.com/video/clip/_/id/49401540/what-changes-argentina-made-final-spain",
+      "image": "https://a.espncdn.com/media/motion/2026/0719/dm_260719_COM_SOC_Analysis_What_changes_has_Argentina_made_for_the_Final_against_Spain_20260719_GLOBAL_FI/dm_260719_COM_SOC_Analysis_What_changes_has_Argentina_made_for_the_Final_against_Spain_20260719_GLOBAL_FI.jpg"
     },
     {
       "headline": "Argentina make 3 changes to World Cup final lineup vs. Spain",
       "description": "Argentina have made three changes to the starting lineup for the 2026 World Cup final against Spain, with Rodrigo De Paul, Nico González and Gonzalo Montiel set to kick off for the defending champions.",
-      "published": "2026-07-19T17:55:41Z",
+      "published": "2026-07-19T19:19:14Z",
       "link": "https://www.espn.com/soccer/story/_/id/49400794/argentina-spain-fifa-2026-world-cup-final-starting-lineups",
       "image": "https://a.espncdn.com/photo/2026/0719/r1691291_1296x729_16-9.jpg"
     },
@@ -22,27 +43,6 @@
       "published": "2026-07-19T17:41:18Z",
       "link": "https://www.espn.com/soccer/story/_/id/49400888/spain-world-cup-champ-capdevila-gets-us-final",
       "image": "https://a.espncdn.com/photo/2026/0719/r1691298_1024x576_16-9.jpg"
-    },
-    {
-      "headline": "We got a Scorigami! How England's 6-4 win vs. France made World Cup history",
-      "description": "In the 103rd and penultimate game of the 2026 World Cup, a Scorigami finally happened, but what is it?",
-      "published": "2026-07-19T17:27:11Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49065000/so-close-germany-nearly-got-world-cup-scorigami-that",
-      "image": "https://a.espncdn.com/photo/2026/0719/r1691093_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Man United's Senne Lammens will bounce back well from Belgium World Cup woe - Tom Heaton",
-      "description": "Senne Lammens will come back from his FIFA World Cup frustration as a better goalkeeper, Manchester United teammate Tom Heaton has said.",
-      "published": "2026-07-19T12:19:47Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49398782/man-united-senne-lammens-bounce-back-well-belgium-world-cup-woe-tom-heaton",
-      "image": "https://a.espncdn.com/photo/2026/0719/r1691190_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "World Cup integrity questioned, FIFA urged to improve for 2030 by human rights organization",
-      "description": "Europe's top human rights body questioned the integrity of the World Cup and urged FIFA on Sunday to help build a stronger framework for the 2030 edition.",
-      "published": "2026-07-19T16:58:44Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49398752/world-cup-integrity-questioned-fifa-urged-improve-2030-human-rights-organisation",
-      "image": "https://a.espncdn.com/photo/2026/0610/r1670954_1296x729_16-9.jpg"
     }
   ]
 }

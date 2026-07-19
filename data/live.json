@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-19T18:12:45.967Z",
+  "lastUpdated": "2026-07-19T19:34:13.673Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -446,15 +446,19 @@
       "awayWinner": false,
       "odds": {
         "home": 125,
-        "away": 260,
-        "draw": 200,
+        "away": 265,
+        "draw": 205,
         "total": 2.5,
         "book": "DraftKings"
       },
-      "status": "scheduled",
+      "status": "live",
       "id": "760517",
       "date": "2026-07-19T19:00Z",
-      "venue": "MetLife Stadium"
+      "venue": "MetLife Stadium",
+      "clock": 1680,
+      "displayClock": "28'",
+      "detail": "28'",
+      "period": 1
     }
   ]
 }

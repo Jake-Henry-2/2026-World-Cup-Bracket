@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-19T18:12:46.042Z",
+  "lastUpdated": "2026-07-19T19:34:13.783Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -93128,6 +93128,637 @@
       ],
       "highlight": null,
       "final": true,
+      "dv": 5
+    },
+    "760517": {
+      "venue": "MetLife Stadium",
+      "stats": {
+        "home": {
+          "foulsCommitted": "5",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "1",
+          "wonCorners": "2",
+          "saves": "0",
+          "possessionPct": "61",
+          "totalShots": "1",
+          "shotsOnTarget": "1",
+          "shotPct": "1.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "151",
+          "totalPasses": "170",
+          "passPct": "0.9",
+          "accurateCrosses": "1",
+          "totalCrosses": "6",
+          "crossPct": "0.2",
+          "totalLongBalls": "10",
+          "accurateLongBalls": "5",
+          "longballPct": "0.5",
+          "blockedShots": "0",
+          "effectiveTackles": "3",
+          "totalTackles": "3",
+          "tacklePct": "1.0",
+          "interceptions": "2",
+          "effectiveClearance": "2",
+          "totalClearance": "2"
+        },
+        "away": {
+          "foulsCommitted": "4",
+          "yellowCards": "0",
+          "redCards": "0",
+          "offsides": "1",
+          "wonCorners": "0",
+          "saves": "1",
+          "possessionPct": "39",
+          "totalShots": "0",
+          "shotsOnTarget": "0",
+          "shotPct": "0.0",
+          "penaltyKickGoals": "0",
+          "penaltyKickShots": "0",
+          "accuratePasses": "92",
+          "totalPasses": "112",
+          "passPct": "0.8",
+          "accurateCrosses": "0",
+          "totalCrosses": "0",
+          "crossPct": "0.0",
+          "totalLongBalls": "14",
+          "accurateLongBalls": "4",
+          "longballPct": "0.3",
+          "blockedShots": "0",
+          "effectiveTackles": "3",
+          "totalTackles": "4",
+          "tacklePct": "0.8",
+          "interceptions": "2",
+          "effectiveClearance": "2",
+          "totalClearance": "2"
+        }
+      },
+      "events": [],
+      "lineups": {
+        "home": [
+          {
+            "name": "Unai Simón",
+            "short": "U. Simón",
+            "num": "23",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Aymeric Laporte",
+            "short": "A. Laporte",
+            "num": "14",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Pau Cubarsí",
+            "short": "P. Cubarsí",
+            "num": "22",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Marc Cucurella",
+            "short": "M. Cucurella",
+            "num": "24",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Pedro Porro",
+            "short": "P. Porro",
+            "num": "12",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Dani Olmo",
+            "short": "D. Olmo",
+            "num": "10",
+            "pos": "AM",
+            "place": "10"
+          },
+          {
+            "name": "Fabián Ruiz",
+            "short": "F. Ruiz",
+            "num": "8",
+            "pos": "LM",
+            "place": "4"
+          },
+          {
+            "name": "Rodri",
+            "short": "Rodri",
+            "num": "16",
+            "pos": "RM",
+            "place": "8"
+          },
+          {
+            "name": "Mikel Oyarzabal",
+            "short": "M. Oyarzabal",
+            "num": "21",
+            "pos": "F",
+            "place": "9"
+          },
+          {
+            "name": "Álex Baena",
+            "short": "Á. Baena",
+            "num": "15",
+            "pos": "AM-L",
+            "place": "11"
+          },
+          {
+            "name": "Lamine Yamal",
+            "short": "L. Yamal",
+            "num": "19",
+            "pos": "AM-R",
+            "place": "7"
+          }
+        ],
+        "away": [
+          {
+            "name": "Emiliano Martínez",
+            "short": "E. Martínez",
+            "num": "23",
+            "pos": "G",
+            "place": "1"
+          },
+          {
+            "name": "Lisandro Martínez",
+            "short": "L. Martínez",
+            "num": "6",
+            "pos": "CD-L",
+            "place": "6"
+          },
+          {
+            "name": "Cristian Romero",
+            "short": "C. Romero",
+            "num": "13",
+            "pos": "CD-R",
+            "place": "5"
+          },
+          {
+            "name": "Nicolás Tagliafico",
+            "short": "N. Tagliafico",
+            "num": "3",
+            "pos": "LB",
+            "place": "3"
+          },
+          {
+            "name": "Gonzalo Montiel",
+            "short": "G. Montiel",
+            "num": "4",
+            "pos": "RB",
+            "place": "2"
+          },
+          {
+            "name": "Alexis Mac Allister",
+            "short": "A. Mac Allister",
+            "num": "20",
+            "pos": "CM-L",
+            "place": "8"
+          },
+          {
+            "name": "Enzo Fernández",
+            "short": "E. Fernández",
+            "num": "24",
+            "pos": "CM-R",
+            "place": "4"
+          },
+          {
+            "name": "Nico González",
+            "short": "N. González",
+            "num": "15",
+            "pos": "LM",
+            "place": "11"
+          },
+          {
+            "name": "Rodrigo De Paul",
+            "short": "R. De Paul",
+            "num": "7",
+            "pos": "RM",
+            "place": "7"
+          },
+          {
+            "name": "Julián Álvarez",
+            "short": "J. Álvarez",
+            "num": "9",
+            "pos": "CF-L",
+            "place": "9"
+          },
+          {
+            "name": "Lionel Messi",
+            "short": "L. Messi",
+            "num": "10",
+            "pos": "CF-R",
+            "place": "10"
+          }
+        ]
+      },
+      "subs": {
+        "home": [
+          {
+            "name": "Alejandro Grimaldo",
+            "short": "A. Grimaldo",
+            "num": "3",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Martín Zubimendi",
+            "short": "M. Zubimendi",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nico Williams",
+            "short": "N. Williams",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Borja Iglesias",
+            "short": "B. Iglesias",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Ferran Torres",
+            "short": "F. Torres",
+            "num": "7",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Víctor Muñoz",
+            "short": "V. Muñoz",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Pedri",
+            "short": "Pedri",
+            "num": "20",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Mikel Merino",
+            "short": "M. Merino",
+            "num": "6",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Marc Pubill",
+            "short": "M. Pubill",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gavi",
+            "short": "Gavi",
+            "num": "9",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "David Raya",
+            "short": "D. Raya",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Marcos Llorente",
+            "short": "M. Llorente",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Yéremy Pino",
+            "short": "Y. Pino",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Joan García",
+            "short": "J. García",
+            "num": "13",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Eric García",
+            "short": "E. García",
+            "num": "4",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ],
+        "away": [
+          {
+            "name": "Exequiel Palacios",
+            "short": "E. Palacios",
+            "num": "14",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Leandro Paredes",
+            "short": "L. Paredes",
+            "num": "5",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Valentín Barco",
+            "short": "V. Barco",
+            "num": "8",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Gerónimo Rulli",
+            "short": "G. Rulli",
+            "num": "12",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nicolás Otamendi",
+            "short": "N. Otamendi",
+            "num": "19",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nahuel Molina",
+            "short": "N. Molina",
+            "num": "26",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Giovani Lo Celso",
+            "short": "G. Lo Celso",
+            "num": "11",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Giuliano Simeone",
+            "short": "G. Simeone",
+            "num": "17",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "José Manuel López",
+            "short": "J. López",
+            "num": "21",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Thiago Almada",
+            "short": "T. Almada",
+            "num": "16",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Marcos Senesi",
+            "short": "M. Senesi",
+            "num": "2",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Lautaro Martínez",
+            "short": "L. Martínez",
+            "num": "22",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Juan Musso",
+            "short": "J. Musso",
+            "num": "1",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Facundo Medina",
+            "short": "F. Medina",
+            "num": "25",
+            "pos": "SUB",
+            "place": "0"
+          },
+          {
+            "name": "Nico Paz",
+            "short": "N. Paz",
+            "num": "18",
+            "pos": "SUB",
+            "place": "0"
+          }
+        ]
+      },
+      "formation": {
+        "home": "4-2-3-1",
+        "away": "4-4-2"
+      },
+      "commentary": [
+        {
+          "min": "28'",
+          "text": "Handball by Alexis Mac Allister (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "27'",
+          "text": "Delay over. They are ready to continue.",
+          "goal": false
+        },
+        {
+          "min": "25'",
+          "text": "Delay in match for a drinks break.",
+          "goal": false
+        },
+        {
+          "min": "24'",
+          "text": "Foul by Rodri (Spain).",
+          "goal": false
+        },
+        {
+          "min": "24'",
+          "text": "Lionel Messi (Argentina) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "23'",
+          "text": "Corner, Spain. Conceded by Rodrigo De Paul.",
+          "goal": false
+        },
+        {
+          "min": "22'",
+          "text": "Offside, Argentina. Nico González is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "21'",
+          "text": "Offside, Spain. Mikel Oyarzabal is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "20'",
+          "text": "Foul by Dani Olmo (Spain).",
+          "goal": false
+        },
+        {
+          "min": "20'",
+          "text": "Enzo Fernández (Argentina) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "18'",
+          "text": "Dani Olmo (Spain) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "18'",
+          "text": "Foul by Nicolás Tagliafico (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "16'",
+          "text": "Foul by Álex Baena (Spain).",
+          "goal": false
+        },
+        {
+          "min": "16'",
+          "text": "Lionel Messi (Argentina) wins a free kick in the attacking half.",
+          "goal": false
+        },
+        {
+          "min": "14'",
+          "text": "Dani Olmo (Spain) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "14'",
+          "text": "Foul by Alexis Mac Allister (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "12'",
+          "text": "Corner, Spain. Conceded by Lisandro Martínez.",
+          "goal": false
+        },
+        {
+          "min": "8'",
+          "text": "Foul by Lamine Yamal (Spain).",
+          "goal": false
+        },
+        {
+          "min": "8'",
+          "text": "Nicolás Tagliafico (Argentina) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "5'",
+          "text": "Attempt saved. Lamine Yamal (Spain) left footed shot from the right side of the box is saved in the centre of the goal by Emiliano Martínez (Argentina). Assisted by Dani Olmo.",
+          "goal": false
+        },
+        {
+          "min": "4'",
+          "text": "Foul by Gonzalo Montiel (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "4'",
+          "text": "Álex Baena (Spain) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "2'",
+          "text": "Foul by Pedro Porro (Spain).",
+          "goal": false
+        },
+        {
+          "min": "2'",
+          "text": "Nico González (Argentina) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "First Half begins.",
+          "goal": false
+        },
+        {
+          "min": "",
+          "text": "Lineups are announced and players are warming up.",
+          "goal": false
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Total Shots",
+          "home": {
+            "name": "L. Yamal",
+            "num": "19",
+            "pos": "F",
+            "value": "1"
+          }
+        },
+        {
+          "label": "Accurate Passes",
+          "home": {
+            "name": "P. Cubarsí",
+            "num": "22",
+            "pos": "D",
+            "value": "25"
+          },
+          "away": {
+            "name": "E. Fernández",
+            "num": "24",
+            "pos": "M",
+            "value": "15"
+          }
+        },
+        {
+          "label": "Defensive Interventions",
+          "home": {
+            "name": "P. Porro",
+            "num": "12",
+            "pos": "D",
+            "value": "3"
+          },
+          "away": {
+            "name": "L. Martínez",
+            "num": "6",
+            "pos": "D",
+            "value": "3"
+          }
+        },
+        {
+          "label": "Saves",
+          "away": {
+            "name": "E. Martínez",
+            "num": "23",
+            "pos": "G",
+            "value": "1"
+          }
+        }
+      ],
+      "highlight": null,
+      "final": false,
       "dv": 5
     }
   }

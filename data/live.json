@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-19T21:26:05.842Z",
+  "lastUpdated": "2026-07-19T22:27:03.292Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -440,25 +440,15 @@
       "stage": "final",
       "home": "Spain",
       "away": "Argentina",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
-      "homeWinner": false,
+      "homeWinner": true,
       "awayWinner": false,
-      "odds": {
-        "home": 125,
-        "away": 265,
-        "draw": 205,
-        "total": 2.5,
-        "book": "DraftKings"
-      },
-      "status": "live",
+      "odds": null,
+      "status": "finished",
       "id": "760517",
       "date": "2026-07-19T19:00Z",
-      "venue": "MetLife Stadium",
-      "clock": 5700,
-      "displayClock": "95'",
-      "detail": "95'",
-      "period": 3
+      "venue": "MetLife Stadium"
     }
   ]
 }

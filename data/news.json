@@ -1,13 +1,20 @@
 {
-  "lastUpdated": "2026-07-19T10:27:38.529Z",
+  "lastUpdated": "2026-07-19T11:37:02.665Z",
   "source": "ESPN",
   "articles": [
     {
       "headline": "World Cup Daily live: Final countdown as Spain-Argentina get ready to take New York",
       "description": "Enjoy all the features, news, video analysis and color from around the World Cup as Spain and Lamine Yamal take on Argentina and Lionel Messi in the final.",
-      "published": "2026-07-19T09:13:49Z",
+      "published": "2026-07-19T11:13:49Z",
       "link": "https://www.espn.com/soccer/story/_/id/49397462/world-cup-daily-live-final-countdown-spain-argentina-get-ready-take-new-york-messi-yamal",
       "image": "https://a.espncdn.com/photo/2026/0719/r1691151_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "England should sack Thomas Tuchel after World Cup third place - Danny Murphy",
+      "description": "Former England midfielder Danny Murphy has said Thomas Tuchel should be sacked despite guiding the country to their best World Cup finish in 60 years.",
+      "published": "2026-07-19T10:59:46Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49398261/danny-murphy-england-pundits-thomas-tuchel-sacked-fifa-world-cup-third-place",
+      "image": "https://a.espncdn.com/photo/2026/0719/r1691172_1296x729_16-9.jpg"
     },
     {
       "headline": "2026 FIFA World Cup match schedule: Fixtures, results, features",
@@ -36,13 +43,6 @@
       "published": "2026-07-19T07:15:10Z",
       "link": "https://www.espn.com/soccer/story/_/id/49397346/england-bukayo-saka-world-cup-hat-trick-love-played-more",
       "image": "https://a.espncdn.com/photo/2026/0719/r1691146_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "World Cup final: Argentina vs. Spain - What you need to know, predictions, odds",
-      "description": "We're down to the final of the 2026 FIFA World Cup, as there are now just two teams still harboring dreams of becoming world champions.",
-      "published": "2026-07-19T06:46:36Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49370934/fifa-world-cup-final-argentina-vs-spain-need-know-predictions-odds",
-      "image": "https://a.espncdn.com/photo/2026/0716/r1689928_1296x729_16-9.jpg"
     }
   ]
 }

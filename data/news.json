@@ -1,20 +1,41 @@
 {
-  "lastUpdated": "2026-07-19T19:34:13.737Z",
+  "lastUpdated": "2026-07-19T20:26:40.966Z",
   "source": "ESPN",
   "articles": [
     {
-      "headline": "Lionel Messi becomes the first man to start in three World Cup finals",
-      "description": "Lionel Messi has officially become the oldest outfield player to ever take the field in a World Cup final, after starting for Argentina as they take on Spain.",
-      "published": "2026-07-19T19:31:26Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49400680/world-cup-final-2026-spain-vs-argentina-lionel-messi",
-      "image": "https://a.espncdn.com/photo/2026/0719/r1691373_1296x729_16-9.jpg"
-    },
-    {
       "headline": "World Cup final LIVE: Spain, Argentina face off in New Jersey",
       "description": "Enjoy all the features, news, video analysis and color from around the World Cup as Spain and Lamine Yamal take on Argentina and Lionel Messi in the final.",
-      "published": "2026-07-19T19:19:56Z",
+      "published": "2026-07-19T20:22:33Z",
       "link": "https://www.espn.com/soccer/story/_/id/49397462/world-cup-daily-live-final-countdown-spain-argentina-get-ready-take-new-york-messi-yamal",
-      "image": "https://a.espncdn.com/photo/2026/0719/r1691362_1296x729_16-9.jpg"
+      "image": "https://a.espncdn.com/photo/2026/0719/r1691404_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Infantino's epic World Cup tour: FIFA president clocked up over 65,000 miles",
+      "description": "From the 2026 World Cup opener in Mexico City to the final in New Jersey, FIFA president Gianni Infantino flew the equivalent of 2½ times around the Earth.",
+      "published": "2026-07-19T20:08:11Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49116383/infantino-fifa-presidents-epic-world-cup-tour",
+      "image": "https://a.espncdn.com/photo/2026/0719/r1691359_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Argentina's Lisandro Martínez forced off injured in World Cup final vs. Spain",
+      "description": "Argentina centre-back Lisandro Martínez was forced off in the first half of the World Cup final against Spain.",
+      "published": "2026-07-19T20:01:17Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49402754/argentina-lisandro-martinez-forced-injured-world-cup-final-vs-spain",
+      "image": "https://a.espncdn.com/photo/2026/0719/r1691390_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "2026 World Cup final: President Trump, Timothée Chalamet headline celebrities in attendance",
+      "description": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America.",
+      "published": "2026-07-19T20:10:50Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49089105/2026-fifa-world-cup-usa-mexico-canada-celebrities",
+      "image": "https://a.espncdn.com/photo/2026/0719/r1691371_608x342_16-9.jpg"
+    },
+    {
+      "headline": "Lionel Messi becomes first man to start three World Cup finals",
+      "description": "Lionel Messi has officially become the oldest outfield player to ever take the field in a World Cup final, after starting for Argentina as they take on Spain.",
+      "published": "2026-07-19T19:59:58Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49400680/world-cup-final-2026-spain-vs-argentina-lionel-messi",
+      "image": "https://a.espncdn.com/photo/2026/0719/r1691373_1296x729_16-9.jpg"
     },
     {
       "headline": "Harry Kane warns England are 'still in that grieving stage' but strongly backs Thomas Tuchel",
@@ -22,27 +43,6 @@
       "published": "2026-07-19T18:57:04Z",
       "link": "https://www.espn.com/soccer/story/_/id/49401541/harry-kane-warns-england-that-grieving-stage-strongly-backs-manager-thomas-tuchel",
       "image": "https://a.espncdn.com/photo/2026/0719/r1691326_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "What changes has Argentina made for the Final against Spain?",
-      "description": "What changes has Argentina made for the Final against Spain?",
-      "published": "2026-07-19T18:25:19Z",
-      "link": "https://www.espn.com/video/clip/_/id/49401540/what-changes-argentina-made-final-spain",
-      "image": "https://a.espncdn.com/media/motion/2026/0719/dm_260719_COM_SOC_Analysis_What_changes_has_Argentina_made_for_the_Final_against_Spain_20260719_GLOBAL_FI/dm_260719_COM_SOC_Analysis_What_changes_has_Argentina_made_for_the_Final_against_Spain_20260719_GLOBAL_FI.jpg"
-    },
-    {
-      "headline": "Argentina make 3 changes to World Cup final lineup vs. Spain",
-      "description": "Argentina have made three changes to the starting lineup for the 2026 World Cup final against Spain, with Rodrigo De Paul, Nico González and Gonzalo Montiel set to kick off for the defending champions.",
-      "published": "2026-07-19T19:19:14Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49400794/argentina-spain-fifa-2026-world-cup-final-starting-lineups",
-      "image": "https://a.espncdn.com/photo/2026/0719/r1691291_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Spain World Cup champ Capdevila gets into U.S. for final",
-      "description": "Former Spain defender Joan Capdevila has made it to the United States to watch the World Cup final after being denied authorization to travel a decade after playing in an exhibition game in Iran.",
-      "published": "2026-07-19T17:41:18Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49400888/spain-world-cup-champ-capdevila-gets-us-final",
-      "image": "https://a.espncdn.com/photo/2026/0719/r1691298_1024x576_16-9.jpg"
     }
   ]
 }

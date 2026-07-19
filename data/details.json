@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-19T19:34:13.783Z",
+  "lastUpdated": "2026-07-19T20:26:41.031Z",
   "games": {
     "760414": {
       "venue": "Estadio Akron",
@@ -93134,67 +93134,86 @@
       "venue": "MetLife Stadium",
       "stats": {
         "home": {
-          "foulsCommitted": "5",
+          "foulsCommitted": "7",
           "yellowCards": "0",
           "redCards": "0",
-          "offsides": "1",
+          "offsides": "2",
           "wonCorners": "2",
           "saves": "0",
-          "possessionPct": "61",
-          "totalShots": "1",
-          "shotsOnTarget": "1",
-          "shotPct": "1.0",
+          "possessionPct": "62.9",
+          "totalShots": "4",
+          "shotsOnTarget": "3",
+          "shotPct": "0.8",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "151",
-          "totalPasses": "170",
+          "accuratePasses": "329",
+          "totalPasses": "367",
           "passPct": "0.9",
           "accurateCrosses": "1",
-          "totalCrosses": "6",
-          "crossPct": "0.2",
-          "totalLongBalls": "10",
-          "accurateLongBalls": "5",
-          "longballPct": "0.5",
+          "totalCrosses": "10",
+          "crossPct": "0.1",
+          "totalLongBalls": "24",
+          "accurateLongBalls": "10",
+          "longballPct": "0.4",
           "blockedShots": "0",
-          "effectiveTackles": "3",
-          "totalTackles": "3",
-          "tacklePct": "1.0",
-          "interceptions": "2",
-          "effectiveClearance": "2",
-          "totalClearance": "2"
+          "effectiveTackles": "7",
+          "totalTackles": "8",
+          "tacklePct": "0.9",
+          "interceptions": "4",
+          "effectiveClearance": "8",
+          "totalClearance": "8"
         },
         "away": {
-          "foulsCommitted": "4",
-          "yellowCards": "0",
+          "foulsCommitted": "9",
+          "yellowCards": "1",
           "redCards": "0",
           "offsides": "1",
-          "wonCorners": "0",
-          "saves": "1",
-          "possessionPct": "39",
+          "wonCorners": "1",
+          "saves": "3",
+          "possessionPct": "37.1",
           "totalShots": "0",
           "shotsOnTarget": "0",
           "shotPct": "0.0",
           "penaltyKickGoals": "0",
           "penaltyKickShots": "0",
-          "accuratePasses": "92",
-          "totalPasses": "112",
+          "accuratePasses": "178",
+          "totalPasses": "222",
           "passPct": "0.8",
           "accurateCrosses": "0",
-          "totalCrosses": "0",
+          "totalCrosses": "2",
           "crossPct": "0.0",
-          "totalLongBalls": "14",
-          "accurateLongBalls": "4",
-          "longballPct": "0.3",
+          "totalLongBalls": "29",
+          "accurateLongBalls": "7",
+          "longballPct": "0.2",
           "blockedShots": "0",
-          "effectiveTackles": "3",
-          "totalTackles": "4",
+          "effectiveTackles": "6",
+          "totalTackles": "8",
           "tacklePct": "0.8",
-          "interceptions": "2",
-          "effectiveClearance": "2",
-          "totalClearance": "2"
+          "interceptions": "5",
+          "effectiveClearance": "4",
+          "totalClearance": "4"
         }
       },
-      "events": [],
+      "events": [
+        {
+          "kind": "Yellow Card",
+          "min": "41'",
+          "side": "away",
+          "player": "Lisandro Martínez"
+        },
+        {
+          "kind": "Substitution",
+          "min": "44'",
+          "side": "away",
+          "player": "Substitution, Argentina. Nicolás Otamendi replaces Lisandro Martínez because of an injury."
+        },
+        {
+          "kind": "Substitution",
+          "min": "45'",
+          "side": "away",
+          "player": "Substitution, Argentina. Leandro Paredes replaces Nico González."
+        }
+      ],
       "lineups": {
         "home": [
           {
@@ -93577,6 +93596,131 @@
       },
       "commentary": [
         {
+          "min": "48'",
+          "text": "Corner, Argentina. Conceded by Aymeric Laporte.",
+          "goal": false
+        },
+        {
+          "min": "46'",
+          "text": "Attempt saved. Álex Baena (Spain) right footed shot from outside the box is saved in the bottom right corner by Emiliano Martínez (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Second Half begins Spain 0, Argentina 0.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Substitution, Argentina. Leandro Paredes replaces Nico González.",
+          "goal": false
+        },
+        {
+          "min": "45'+4'",
+          "text": "First Half ends, Spain 0, Argentina 0.",
+          "goal": false
+        },
+        {
+          "min": "45'+3'",
+          "text": "Foul by Mikel Oyarzabal (Spain).",
+          "goal": false
+        },
+        {
+          "min": "45'+3'",
+          "text": "Lionel Messi (Argentina) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "45'",
+          "text": "Fourth official has announced 4 minutes of added time.",
+          "goal": false
+        },
+        {
+          "min": "44'",
+          "text": "Substitution, Argentina. Nicolás Otamendi replaces Lisandro Martínez because of an injury.",
+          "goal": false
+        },
+        {
+          "min": "43'",
+          "text": "Attempt missed. Marc Cucurella (Spain) left footed shot from outside the box is close, but misses to the right. Assisted by Fabián Ruiz.",
+          "goal": false
+        },
+        {
+          "min": "41'",
+          "text": "Lisandro Martínez (Argentina) is shown the yellow card for a bad foul.",
+          "goal": false
+        },
+        {
+          "min": "41'",
+          "text": "Mikel Oyarzabal (Spain) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "41'",
+          "text": "Foul by Lisandro Martínez (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "39'",
+          "text": "Attempt saved. Mikel Oyarzabal (Spain) left footed shot from outside the box is saved in the bottom right corner by Emiliano Martínez (Argentina). Assisted by Fabián Ruiz.",
+          "goal": false
+        },
+        {
+          "min": "38'",
+          "text": "Rodri (Spain) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "38'",
+          "text": "Foul by Julián Alvarez (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "36'",
+          "text": "Rodri (Spain) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "36'",
+          "text": "Foul by Nicolás Tagliafico (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "35'",
+          "text": "Offside, Spain. Marc Cucurella is caught offside.",
+          "goal": false
+        },
+        {
+          "min": "34'",
+          "text": "Pedro Porro (Spain) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "34'",
+          "text": "Foul by Julián Alvarez (Argentina).",
+          "goal": false
+        },
+        {
+          "min": "33'",
+          "text": "Foul by Rodri (Spain).",
+          "goal": false
+        },
+        {
+          "min": "33'",
+          "text": "Alexis Mac Allister (Argentina) wins a free kick on the left wing.",
+          "goal": false
+        },
+        {
+          "min": "29'",
+          "text": "Lamine Yamal (Spain) wins a free kick in the defensive half.",
+          "goal": false
+        },
+        {
+          "min": "29'",
+          "text": "Foul by Nicolás Tagliafico (Argentina).",
+          "goal": false
+        },
+        {
           "min": "28'",
           "text": "Handball by Alexis Mac Allister (Argentina).",
           "goal": false
@@ -93723,13 +93867,13 @@
             "name": "P. Cubarsí",
             "num": "22",
             "pos": "D",
-            "value": "25"
+            "value": "62"
           },
           "away": {
-            "name": "E. Fernández",
-            "num": "24",
-            "pos": "M",
-            "value": "15"
+            "name": "C. Romero",
+            "num": "13",
+            "pos": "D",
+            "value": "30"
           }
         },
         {
@@ -93738,13 +93882,13 @@
             "name": "P. Porro",
             "num": "12",
             "pos": "D",
-            "value": "3"
+            "value": "6"
           },
           "away": {
             "name": "L. Martínez",
             "num": "6",
             "pos": "D",
-            "value": "3"
+            "value": "5"
           }
         },
         {
@@ -93753,7 +93897,7 @@
             "name": "E. Martínez",
             "num": "23",
             "pos": "G",
-            "value": "1"
+            "value": "3"
           }
         }
       ],

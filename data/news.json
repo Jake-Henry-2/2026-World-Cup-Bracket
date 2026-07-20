@@ -1,11 +1,25 @@
 {
-  "lastUpdated": "2026-07-20T18:29:59.434Z",
+  "lastUpdated": "2026-07-20T20:09:00.077Z",
   "source": "ESPN",
   "articles": [
     {
+      "headline": "FIFA to investigate violent clash beween Spain and Argentina after World Cup final",
+      "description": "FIFA has opened a disciplinary investigation into the ugly scenes which marred the end of Sunday's World Cup involving several Argentina players and coaches physically attacking members of the Spain team.",
+      "published": "2026-07-20T19:50:25Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49412098/fifa-investigate-violent-clash-beween-spain-argentina-world-cup-final",
+      "image": "https://a.espncdn.com/photo/2026/0720/r1691847_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Stargazing: Inside the last days of Spain's quest for a second World Cup",
+      "description": "There was something in the air as Spain prepared for the World Cup final. No, not the smoke of Canadian wildfires, but a certain inevitability.",
+      "published": "2026-07-20T19:25:27Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49411239/stargazing-last-days-spain-quest-second-fifa-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0720/r1691831_2_1296x729_16-9.jpg"
+    },
+    {
       "headline": "Lionel Messi thanks Argentina, says pain from loss 'immense'",
-      "description": "Argentina star Lionel Messi sent a heartfelt thank you to his fans on Monday, one day after the defending champions fell 1-0 in extra time to Spain at the World Cup final in New Jersey.",
-      "published": "2026-07-20T18:24:44Z",
+      "description": "Argentina star Lionel Messi sent a heartfelt thank-you to his fans on Monday, one day after the defending champions fell to Spain 1-0 in extra time at the World Cup final in New Jersey.",
+      "published": "2026-07-20T19:07:33Z",
       "link": "https://www.espn.com/soccer/story/_/id/49411317/lionel-messi-sends-heartfelt-thank-argentina-fans-loss",
       "image": "https://a.espncdn.com/photo/2026/0720/r1691806_1296x729_16-9.jpg"
     },
@@ -29,20 +43,6 @@
       "published": "2026-07-20T15:49:43Z",
       "link": "https://www.espn.com/soccer/story/_/id/49409980/not-even-lionel-messi-magic-argentina-back-back-fifa-world-cup",
       "image": "https://a.espncdn.com/photo/2026/0720/r1691746_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Spain open as betting favorite to repeat at 2030 World Cup",
-      "description": "With the 2026 World Cup complete, bookmakers are already looking ahead four years to the 2030 tournament, where they have already installed co-host Spain as the favorite to repeat as world champion.",
-      "published": "2026-07-20T15:46:51Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49410201/spain-open-betting-favorite-repeat-2030-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0720/r1691755_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Source: Italy sound out Pep Guardiola for manager role",
-      "description": "Italy have sounded out the possibility of appointing Pep Guardiola as their next coach after missing out on this summer's World Cup, a source told ESPN.",
-      "published": "2026-07-20T16:03:17Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49409930/italy-sound-pep-guardiola-manager-role-source",
-      "image": "https://a.espncdn.com/photo/2026/0524/r1662975_1296x729_16-9.jpg"
     }
   ]
 }

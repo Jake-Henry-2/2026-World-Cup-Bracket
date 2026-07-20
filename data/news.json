@@ -1,13 +1,27 @@
 {
-  "lastUpdated": "2026-07-20T16:27:21.956Z",
+  "lastUpdated": "2026-07-20T18:29:59.434Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Lionel Messi thanks Argentina, says pain from loss 'immense'",
+      "description": "Argentina star Lionel Messi sent a heartfelt thank you to his fans on Monday, one day after the defending champions fell 1-0 in extra time to Spain at the World Cup final in New Jersey.",
+      "published": "2026-07-20T18:24:44Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49411317/lionel-messi-sends-heartfelt-thank-argentina-fans-loss",
+      "image": "https://a.espncdn.com/photo/2026/0720/r1691806_1296x729_16-9.jpg"
+    },
     {
       "headline": "Which World Cup records are most likely to be broken in 2026?",
       "description": "The latest World Cup presents an opportunity to make history, and North America's expanded tournament this summer could be one to rewrite the record books.",
       "published": "2026-07-20T16:04:25Z",
       "link": "https://www.espn.com/soccer/story/_/id/48891969/which-world-cup-records-most-likely-broken-2026",
       "image": "https://a.espncdn.com/photo/2026/0529/r1665514_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Spain World Cup champions return home for a royal welcome, parade",
+      "description": "Spain's World Cup-winning team returned home on Monday, where the 26-man squad is due to meet with Spain's royals and Prime Minister Pedro Sánchez.",
+      "published": "2026-07-20T16:40:23Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49410508/spain-world-cup-champions-return-home-royal-welcome-parade",
+      "image": "https://a.espncdn.com/photo/2026/0720/r1691725_1296x729_16-9.jpg"
     },
     {
       "headline": "Not even Messi's magic could will Argentina to back-to-back World Cups",
@@ -29,20 +43,6 @@
       "published": "2026-07-20T16:03:17Z",
       "link": "https://www.espn.com/soccer/story/_/id/49409930/italy-sound-pep-guardiola-manager-role-source",
       "image": "https://a.espncdn.com/photo/2026/0524/r1662975_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Stephen A. lauds Spain after outclassing Argentina to win World Cup",
-      "description": "Stephen A. lauds Spain after outclassing Argentina to win World Cup",
-      "published": "2026-07-20T14:43:04Z",
-      "link": "https://www.espn.com/video/clip/_/id/49409908/stephen-lauds-spain-outclassing-argentina-win-world-cup",
-      "image": "https://a.espncdn.com/media/motion/2026/0720/ss_20260720_102052756_3598280/ss_20260720_102052756_3598280.jpg"
-    },
-    {
-      "headline": "Zlatan Ibrahimović bid 'farewell' to punditry career live on air after World Cup final",
-      "description": "Zlatan Ibrahimović announced on air that is he is to quit punditry after the World Cup final.",
-      "published": "2026-07-20T14:06:18Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49409811/zlatan-ibrahimovic-bids-farewell-punditry-career-live-air-world-cup-final",
-      "image": "https://a.espncdn.com/photo/2026/0720/r1691735_594x334_16-9.jpg"
     }
   ]
 }

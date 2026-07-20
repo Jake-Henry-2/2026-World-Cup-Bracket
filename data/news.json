@@ -1,11 +1,32 @@
 {
-  "lastUpdated": "2026-07-20T14:56:48.172Z",
+  "lastUpdated": "2026-07-20T16:27:21.956Z",
   "source": "ESPN",
   "articles": [
     {
-      "headline": "Italy sound out Pep Guardiola for manager role - source",
+      "headline": "Which World Cup records are most likely to be broken in 2026?",
+      "description": "The latest World Cup presents an opportunity to make history, and North America's expanded tournament this summer could be one to rewrite the record books.",
+      "published": "2026-07-20T16:04:25Z",
+      "link": "https://www.espn.com/soccer/story/_/id/48891969/which-world-cup-records-most-likely-broken-2026",
+      "image": "https://a.espncdn.com/photo/2026/0529/r1665514_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Not even Messi's magic could will Argentina to back-to-back World Cups",
+      "description": "Argentina were well beaten by Spain in the 2026 World Cup final, but the defending champions were also battling against history in New Jersey.",
+      "published": "2026-07-20T15:49:43Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49409980/not-even-lionel-messi-magic-argentina-back-back-fifa-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0720/r1691746_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Spain open as betting favorite to repeat at 2030 World Cup",
+      "description": "With the 2026 World Cup complete, bookmakers are already looking ahead four years to the 2030 tournament, where they have already installed co-host Spain as the favorite to repeat as world champion.",
+      "published": "2026-07-20T15:46:51Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49410201/spain-open-betting-favorite-repeat-2030-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0720/r1691755_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Source: Italy sound out Pep Guardiola for manager role",
       "description": "Italy have sounded out the possibility of appointing Pep Guardiola as their next coach after missing out on this summer's World Cup, a source told ESPN.",
-      "published": "2026-07-20T14:55:46Z",
+      "published": "2026-07-20T16:03:17Z",
       "link": "https://www.espn.com/soccer/story/_/id/49409930/italy-sound-pep-guardiola-manager-role-source",
       "image": "https://a.espncdn.com/photo/2026/0524/r1662975_1296x729_16-9.jpg"
     },
@@ -22,27 +43,6 @@
       "published": "2026-07-20T14:06:18Z",
       "link": "https://www.espn.com/soccer/story/_/id/49409811/zlatan-ibrahimovic-bids-farewell-punditry-career-live-air-world-cup-final",
       "image": "https://a.espncdn.com/photo/2026/0720/r1691735_594x334_16-9.jpg"
-    },
-    {
-      "headline": "Rudi Garcia to depart as Belgium boss after World Cup run",
-      "description": "Rudi Garcia is to leave his role as Belgium boss after their World Cup run.",
-      "published": "2026-07-20T13:26:00Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49409683/rudi-garcia-depart-belgium-boss-world-cup-run",
-      "image": "https://a.espncdn.com/photo/2026/0705/r1684952_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "World Cup: Grades for every eliminated team as each exits the tournament",
-      "description": "When the World Cup ends, 47 teams will have been eliminated, and we're grading every one on how its run compared with expectations.",
-      "published": "2026-07-20T13:12:16Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49178425/world-cup-grades-every-eliminated-team-rating-exit-tournament",
-      "image": "https://a.espncdn.com/photo/2026/0719/r1691390_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Ranking the 2026 World Cup's best viral moments, from Merlin the Duck to the Viking Row",
-      "description": "Forget the football! These meme-worthy moments helped make the 2026 FIFA World Cup one of the most memorable in history.",
-      "published": "2026-07-20T13:55:25Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49395879/ranking-2026-world-cups-best-viral-moments-merlin-duck-viking-row",
-      "image": "https://a.espncdn.com/photo/2026/0720/r1691737_2_1296x729_16-9.jpg"
     }
   ]
 }

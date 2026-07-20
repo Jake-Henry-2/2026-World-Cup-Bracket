@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-07-20T22:32:43.458Z",
+  "lastUpdated": "2026-07-20T23:34:58.366Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Spain celebrate World Cup glory with trophy lift in Madrid",
+      "description": "Spain celebrate World Cup glory with trophy lift in Madrid",
+      "published": "2026-07-20T22:47:31Z",
+      "link": "https://www.espn.com/video/clip/_/id/49413188/spain-celebrate-world-cup-glory-trophy-lift-madrid",
+      "image": "https://a.espncdn.com/media/motion/2026/0720/dm_260720_Spain_celebrate_World_Cup_glory_with_trophy_lift_in_Madrid_NEW/dm_260720_Spain_celebrate_World_Cup_glory_with_trophy_lift_in_Madrid_NEW.jpg"
+    },
     {
       "headline": "Argentina squad arrive home after World Cup final defeat",
       "description": "Argentina squad arrive home after World Cup final defeat",
@@ -33,16 +40,9 @@
     {
       "headline": "FIFA to investigate violent clash between Spain and Argentina after World Cup final",
       "description": "FIFA has opened a disciplinary investigation into the ugly scenes that marred the end of Sunday's World Cup final when players and coaches of Argentina and Spain clashed on the field.",
-      "published": "2026-07-20T22:30:40Z",
+      "published": "2026-07-20T22:35:41Z",
       "link": "https://www.espn.com/soccer/story/_/id/49412098/fifa-investigate-violent-clash-spain-argentina-world-cup-final",
       "image": "https://a.espncdn.com/photo/2026/0720/r1691847_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Stargazing: Inside the last days of Spain's quest for a second World Cup",
-      "description": "There was something in the air as Spain prepared for the World Cup final. No, not the smoke of Canadian wildfires, but a certain inevitability.",
-      "published": "2026-07-20T19:25:27Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49411239/stargazing-last-days-spain-quest-second-fifa-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0720/r1691831_2_1296x729_16-9.jpg"
     }
   ]
 }

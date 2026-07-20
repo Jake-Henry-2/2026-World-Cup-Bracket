@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-07-20T21:31:26.604Z",
+  "lastUpdated": "2026-07-20T22:32:43.458Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Argentina squad arrive home after World Cup final defeat",
+      "description": "Argentina squad arrive home after World Cup final defeat",
+      "published": "2026-07-20T22:11:54Z",
+      "link": "https://www.espn.com/video/clip/_/id/49412933/argentina-squad-arrive-home-world-cup-final-defeat",
+      "image": "https://a.espncdn.com/media/motion/2026/0720/dm_260720_COM_SOC_Misc_Argentina_squad_arrive_home_after_World_Cup_final_defeat_20260720_GLOBAL_FIFA_WORLD/dm_260720_COM_SOC_Misc_Argentina_squad_arrive_home_after_World_Cup_final_defeat_20260720_GLOBAL_FIFA_WORLD.jpg"
+    },
     {
       "headline": "Shaka pays heartfelt tribute to Kevin Keegan: 'He was a better human being'",
       "description": "Shaka pays heartfelt tribute to Kevin Keegan: 'He was a better human being'",
@@ -25,8 +32,8 @@
     },
     {
       "headline": "FIFA to investigate violent clash between Spain and Argentina after World Cup final",
-      "description": "FIFA has opened a disciplinary investigation into the ugly scenes that marred the end of Sunday's World Cup final involving several Argentina players and coaches physically attacking members of the Spain team.",
-      "published": "2026-07-20T21:18:07Z",
+      "description": "FIFA has opened a disciplinary investigation into the ugly scenes that marred the end of Sunday's World Cup final when players and coaches of Argentina and Spain clashed on the field.",
+      "published": "2026-07-20T22:30:40Z",
       "link": "https://www.espn.com/soccer/story/_/id/49412098/fifa-investigate-violent-clash-spain-argentina-world-cup-final",
       "image": "https://a.espncdn.com/photo/2026/0720/r1691847_1296x729_16-9.jpg"
     },
@@ -36,13 +43,6 @@
       "published": "2026-07-20T19:25:27Z",
       "link": "https://www.espn.com/soccer/story/_/id/49411239/stargazing-last-days-spain-quest-second-fifa-world-cup",
       "image": "https://a.espncdn.com/photo/2026/0720/r1691831_2_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Lionel Messi thanks Argentina, says pain from loss 'immense'",
-      "description": "Argentina star Lionel Messi sent a heartfelt thank-you to his fans on Monday, one day after the defending champions fell to Spain 1-0 in extra time at the World Cup final in New Jersey.",
-      "published": "2026-07-20T19:07:33Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49411317/lionel-messi-sends-heartfelt-thank-argentina-fans-loss",
-      "image": "https://a.espncdn.com/photo/2026/0720/r1691806_1296x729_16-9.jpg"
     }
   ]
 }

@@ -1,12 +1,33 @@
 {
-  "lastUpdated": "2026-07-20T20:09:00.077Z",
+  "lastUpdated": "2026-07-20T21:31:26.604Z",
   "source": "ESPN",
   "articles": [
     {
-      "headline": "FIFA to investigate violent clash beween Spain and Argentina after World Cup final",
-      "description": "FIFA has opened a disciplinary investigation into the ugly scenes which marred the end of Sunday's World Cup involving several Argentina players and coaches physically attacking members of the Spain team.",
-      "published": "2026-07-20T19:50:25Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49412098/fifa-investigate-violent-clash-beween-spain-argentina-world-cup-final",
+      "headline": "Shaka pays heartfelt tribute to Kevin Keegan: 'He was a better human being'",
+      "description": "Shaka pays heartfelt tribute to Kevin Keegan: 'He was a better human being'",
+      "published": "2026-07-20T21:02:30Z",
+      "link": "https://www.espn.com/video/clip/_/id/49412597/was-better-human-being",
+      "image": "https://a.espncdn.com/media/motion/2026/0720/dm_260720_COM_SOC_News_Shaka_pays_heartfelt_tribute_to_Kevin_Keegan_He_was_a_better_human_being_2026072/dm_260720_COM_SOC_News_Shaka_pays_heartfelt_tribute_to_Kevin_Keegan_He_was_a_better_human_being_2026072.jpg"
+    },
+    {
+      "headline": "Is Messi the most important figure in football history?",
+      "description": "Is Messi the most important figure in football history?",
+      "published": "2026-07-20T20:39:12Z",
+      "link": "https://www.espn.com/video/clip/_/id/49412497/is-messi-most-important-figure-football-history",
+      "image": "https://a.espncdn.com/media/motion/2026/0720/dm_260720_COM_SOC_Analysis_Is_Messi_the_most_important_figure_in_football_history_20260720_GLOBAL_FIFA_WO/dm_260720_COM_SOC_Analysis_Is_Messi_the_most_important_figure_in_football_history_20260720_GLOBAL_FIFA_WO.jpg"
+    },
+    {
+      "headline": "Are referees too hesitant to give out early bookings?",
+      "description": "Are referees too hesitant to give out early bookings?",
+      "published": "2026-07-20T20:28:48Z",
+      "link": "https://www.espn.com/video/clip/_/id/49412458/are-referees-too-hesitant-give-early-bookings",
+      "image": "https://a.espncdn.com/media/motion/2026/0720/dm_260720_COM_SOC_Analysis_Are_referees_too_hesitant_to_give_out_early_bookings_20260720_GLOBAL_FIFA_WORL/dm_260720_COM_SOC_Analysis_Are_referees_too_hesitant_to_give_out_early_bookings_20260720_GLOBAL_FIFA_WORL.jpg"
+    },
+    {
+      "headline": "FIFA to investigate violent clash between Spain and Argentina after World Cup final",
+      "description": "FIFA has opened a disciplinary investigation into the ugly scenes that marred the end of Sunday's World Cup final involving several Argentina players and coaches physically attacking members of the Spain team.",
+      "published": "2026-07-20T21:18:07Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49412098/fifa-investigate-violent-clash-spain-argentina-world-cup-final",
       "image": "https://a.espncdn.com/photo/2026/0720/r1691847_1296x729_16-9.jpg"
     },
     {
@@ -22,27 +43,6 @@
       "published": "2026-07-20T19:07:33Z",
       "link": "https://www.espn.com/soccer/story/_/id/49411317/lionel-messi-sends-heartfelt-thank-argentina-fans-loss",
       "image": "https://a.espncdn.com/photo/2026/0720/r1691806_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Which World Cup records are most likely to be broken in 2026?",
-      "description": "The latest World Cup presents an opportunity to make history, and North America's expanded tournament this summer could be one to rewrite the record books.",
-      "published": "2026-07-20T16:04:25Z",
-      "link": "https://www.espn.com/soccer/story/_/id/48891969/which-world-cup-records-most-likely-broken-2026",
-      "image": "https://a.espncdn.com/photo/2026/0529/r1665514_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Spain World Cup champions return home for a royal welcome, parade",
-      "description": "Spain's World Cup-winning team returned home on Monday, where the 26-man squad is due to meet with Spain's royals and Prime Minister Pedro Sánchez.",
-      "published": "2026-07-20T16:40:23Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49410508/spain-world-cup-champions-return-home-royal-welcome-parade",
-      "image": "https://a.espncdn.com/photo/2026/0720/r1691725_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Not even Messi's magic could will Argentina to back-to-back World Cups",
-      "description": "Argentina were well beaten by Spain in the 2026 World Cup final, but the defending champions were also battling against history in New Jersey.",
-      "published": "2026-07-20T15:49:43Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49409980/not-even-lionel-messi-magic-argentina-back-back-fifa-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0720/r1691746_1296x729_16-9.jpg"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-07-21T20:51:01.767Z",
+  "lastUpdated": "2026-07-21T21:52:41.253Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Hislop against potential further World Cup expansion",
+      "description": "Hislop against potential further World Cup expansion",
+      "published": "2026-07-21T21:39:35Z",
+      "link": "https://www.espn.com/video/clip/_/id/49420286/hislop-potential-further-world-cup-expansion",
+      "image": "https://a.espncdn.com/media/motion/2026/0721/dm_260721_COM_SOC_Analysis_Hislop_against_potential_further_World_Cup_expansion_20260721_GLOBAL/dm_260721_COM_SOC_Analysis_Hislop_against_potential_further_World_Cup_expansion_20260721_GLOBAL.jpg"
+    },
     {
       "headline": "Lionel Messi returns to Rosario for rest after World Cup final loss",
       "description": "Lionel Messi arrived back in Rosario, Argentina, on Tuesday for a few days of rest following the World Cup final loss to Spain.",
@@ -36,13 +43,6 @@
       "published": "2026-07-21T11:52:43Z",
       "link": "https://www.espn.com/soccer/story/_/id/49416558/enzo-fernandez-argentina-world-cup-red-card",
       "image": "https://a.espncdn.com/photo/2026/0721/r1692040_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Gary Neville slams Argentina: 'Without Messi, they'd struggle to get to the semifinals'",
-      "description": "Gary Neville has sharply criticised Argentina's style of play in the World Cup final against Spain and is the latest pundit to slam Lionel Scaloni's men for their tactics.",
-      "published": "2026-07-21T10:50:14Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49416184/gary-neville-argentina-world-cup-2026-criticism-stick-football",
-      "image": "https://a.espncdn.com/photo/2026/0721/r1692035_1296x729_16-9.jpg"
     }
   ]
 }

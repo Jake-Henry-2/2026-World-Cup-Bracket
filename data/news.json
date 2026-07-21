@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-07-21T09:40:50.695Z",
+  "lastUpdated": "2026-07-21T11:29:43.755Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Gary Neville slams Argentina: 'Without Messi, they'd struggle to get to the semifinals'",
+      "description": "Gary Neville has sharply criticised Argentina's style of play in the World Cup final against Spain and is the latest pundit to slam Lionel Scaloni's men for their tactics.",
+      "published": "2026-07-21T10:50:14Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49416184/gary-neville-argentina-world-cup-2026-criticism-stick-football",
+      "image": "https://a.espncdn.com/photo/2026/0721/r1692035_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Argentina, without Lionel Messi, greeted by fans in Buenos Aires after World Cup return",
+      "description": "Thousands of fans gathered in Buenos Aires on Monday evening to give a warm welcome to the Argentina football squad, who arrived home without captain Lionel Messi after their World Cup final loss to Spain.",
+      "published": "2026-07-21T09:56:02Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49416015/argentina-lionel-messi-greeted-fans-buenos-aires-world-cup-return",
+      "image": "https://a.espncdn.com/photo/2026/0721/r1692032_1296x729_16-9.jpg"
+    },
     {
       "headline": "Alex Baena makes history with World Cup triumph, becomes first player to achieve unique feat",
       "description": "Álex Baena has made history, becoming the first player to win the Euros, Olympic Games and World Cup back-to-back.",
@@ -29,20 +43,6 @@
       "published": "2026-07-21T08:27:50Z",
       "link": "https://www.espn.com/soccer/story/_/id/49415443/fifa-world-cup-2030-64-teams-gianni-infantino-conmebol",
       "image": "https://a.espncdn.com/photo/2026/0719/r1691513_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Erling Haaland, Vozinha gain most followers on Instagram during World Cup",
-      "description": "The Norwegian striker and the goalie from Cape Verde were among the most followed players on Instagram during the 2026 World Cup.",
-      "published": "2026-07-21T02:35:32Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49413636/erling-haaland-vozinha-most-instagram-followed-world-cup-players-2026-world-cup-tournament",
-      "image": "https://a.espncdn.com/photo/2026/0721/r1691959_608x342_16-9.jpg"
-    },
-    {
-      "headline": "Topps releasing trading card of Lionel Messi, infant Lamine Yamal",
-      "description": "Topps is creating a trading card of a photo that became a sensation during the World Cup of Argentina's Lionel Messi holding Spain's Lamine Yamal, the company said Monday.",
-      "published": "2026-07-21T03:01:00Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49413564/topps-releasing-trading-card-lionel-messi-infant-lamine-yamal",
-      "image": "https://a.espncdn.com/photo/2024/0710/r1356881_1296x729_16-9.jpg"
     }
   ]
 }

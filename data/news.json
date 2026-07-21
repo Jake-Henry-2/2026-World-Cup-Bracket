@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-07-21T07:11:50.935Z",
+  "lastUpdated": "2026-07-21T09:40:50.695Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Alex Baena makes history with World Cup triumph, becomes first player to achieve unique feat",
+      "description": "Álex Baena has made history, becoming the first player to win the Euros, Olympic Games and World Cup back-to-back.",
+      "published": "2026-07-21T09:34:44Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49415922/alex-baena-makes-history-world-cup-triumph-becomes-first-player-achieve-unique-feat-lionel-messi-angel-di-maria",
+      "image": "https://a.espncdn.com/photo/2026/0721/r1692031_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Grading the 2026 World Cup from Spain's A to Infantino's F",
+      "description": "The World Cup is officially over and it's time to provide some final grades to some of the teams and people who became household names in North America.",
+      "published": "2026-07-21T07:49:51Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49410623/grading-2026-world-cup-spains-infantinos-f",
+      "image": "https://a.espncdn.com/photo/2026/0720/r1691798_1296x729_16-9.jpg"
+    },
     {
       "headline": "How will 2026 World Cup be remembered: Messi? Haaland? Cape Verde? Trump?",
       "description": "Every World Cup has one enduring legacy. 2022 was Messi's win. 2018 was Mbappe's breakout. What will 2026 be remembered for?",
@@ -12,7 +26,7 @@
     {
       "headline": "CONMEBOL president says the next World Cup will have 64 teams",
       "description": "The president of CONMEBOL has said on social media that the 2030 World Cup will be a \"64-team tournament.\"",
-      "published": "2026-07-21T07:04:39Z",
+      "published": "2026-07-21T08:27:50Z",
       "link": "https://www.espn.com/soccer/story/_/id/49415443/fifa-world-cup-2030-64-teams-gianni-infantino-conmebol",
       "image": "https://a.espncdn.com/photo/2026/0719/r1691513_1296x729_16-9.jpg"
     },
@@ -29,20 +43,6 @@
       "published": "2026-07-21T03:01:00Z",
       "link": "https://www.espn.com/soccer/story/_/id/49413564/topps-releasing-trading-card-lionel-messi-infant-lamine-yamal",
       "image": "https://a.espncdn.com/photo/2024/0710/r1356881_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Spain celebrate World Cup glory with trophy lift in Madrid",
-      "description": "Spain celebrate World Cup glory with trophy lift in Madrid",
-      "published": "2026-07-20T22:47:31Z",
-      "link": "https://www.espn.com/video/clip/_/id/49413188/spain-celebrate-world-cup-glory-trophy-lift-madrid",
-      "image": "https://a.espncdn.com/media/motion/2026/0720/dm_260720_Spain_celebrate_World_Cup_glory_with_trophy_lift_in_Madrid_NEW/dm_260720_Spain_celebrate_World_Cup_glory_with_trophy_lift_in_Madrid_NEW.jpg"
-    },
-    {
-      "headline": "Argentina squad arrive home after World Cup final defeat",
-      "description": "Argentina squad arrive home after World Cup final defeat",
-      "published": "2026-07-20T22:11:54Z",
-      "link": "https://www.espn.com/video/clip/_/id/49412933/argentina-squad-arrive-home-world-cup-final-defeat",
-      "image": "https://a.espncdn.com/media/motion/2026/0720/dm_260720_COM_SOC_Misc_Argentina_squad_arrive_home_after_World_Cup_final_defeat_20260720_GLOBAL_FIFA_WORLD/dm_260720_COM_SOC_Misc_Argentina_squad_arrive_home_after_World_Cup_final_defeat_20260720_GLOBAL_FIFA_WORLD.jpg"
     }
   ]
 }

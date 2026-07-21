@@ -1,11 +1,18 @@
 {
-  "lastUpdated": "2026-07-21T16:41:42.180Z",
+  "lastUpdated": "2026-07-21T17:59:50.254Z",
   "source": "ESPN",
   "articles": [
     {
+      "headline": "Lionel Messi returns to Rosario for rest after World Cup final loss",
+      "description": "Lionel Messi arrived back in Rosario, Argentina, on Tuesday for a few days of rest following the World Cup final loss to Spain.",
+      "published": "2026-07-21T16:52:30Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49418224/lionel-messi-returns-rosario-rest-world-cup-final-loss",
+      "image": "https://a.espncdn.com/photo/2026/0720/r1691588_1296x729_16-9.jpg"
+    },
+    {
       "headline": "Emi Martínez considering Argentina future after World Cup final heartbreak",
       "description": "Argentina goalkeeper Emiliano Martínez is considering his international future after suffering the heartache of World Cup final defeat.",
-      "published": "2026-07-21T14:15:38Z",
+      "published": "2026-07-21T16:50:14Z",
       "link": "https://www.espn.com/soccer/story/_/id/49417273/emi-martinez-argentina-2026-world-cup",
       "image": "https://a.espncdn.com/photo/2026/0721/r1692073_1296x729_16-9.jpg"
     },
@@ -36,13 +43,6 @@
       "published": "2026-07-21T10:50:14Z",
       "link": "https://www.espn.com/soccer/story/_/id/49416184/gary-neville-argentina-world-cup-2026-criticism-stick-football",
       "image": "https://a.espncdn.com/photo/2026/0721/r1692035_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Argentina, without Lionel Messi, greeted by fans in Buenos Aires after World Cup return",
-      "description": "Thousands of fans gathered in Buenos Aires on Monday evening to give a warm welcome to the Argentina football squad, who arrived home without captain Lionel Messi after their World Cup final loss to Spain.",
-      "published": "2026-07-21T09:56:02Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49416015/argentina-lionel-messi-greeted-fans-buenos-aires-world-cup-return",
-      "image": "https://a.espncdn.com/photo/2026/0721/r1692032_1296x729_16-9.jpg"
     }
   ]
 }

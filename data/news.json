@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-07-20T23:34:58.366Z",
+  "lastUpdated": "2026-07-21T01:04:19.881Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Topps releasing trading card of Lionel Messi, infant Lamine Yamal",
+      "description": "Topps is creating a trading card of a photo that became a sensation during the World Cup of Argentina's Lionel Messi holding Spain's Lamine Yamal, the company said Monday.",
+      "published": "2026-07-21T01:03:19Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49413564/topps-releasing-trading-card-lionel-messi-infant-lamine-yamal",
+      "image": "https://a.espncdn.com/photo/2024/0710/r1356881_1296x729_16-9.jpg"
+    },
     {
       "headline": "Spain celebrate World Cup glory with trophy lift in Madrid",
       "description": "Spain celebrate World Cup glory with trophy lift in Madrid",
@@ -36,13 +43,6 @@
       "published": "2026-07-20T20:28:48Z",
       "link": "https://www.espn.com/video/clip/_/id/49412458/are-referees-too-hesitant-give-early-bookings",
       "image": "https://a.espncdn.com/media/motion/2026/0720/dm_260720_COM_SOC_Analysis_Are_referees_too_hesitant_to_give_out_early_bookings_20260720_GLOBAL_FIFA_WORL/dm_260720_COM_SOC_Analysis_Are_referees_too_hesitant_to_give_out_early_bookings_20260720_GLOBAL_FIFA_WORL.jpg"
-    },
-    {
-      "headline": "FIFA to investigate violent clash between Spain and Argentina after World Cup final",
-      "description": "FIFA has opened a disciplinary investigation into the ugly scenes that marred the end of Sunday's World Cup final when players and coaches of Argentina and Spain clashed on the field.",
-      "published": "2026-07-20T22:35:41Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49412098/fifa-investigate-violent-clash-spain-argentina-world-cup-final",
-      "image": "https://a.espncdn.com/photo/2026/0720/r1691847_1296x729_16-9.jpg"
     }
   ]
 }

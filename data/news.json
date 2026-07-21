@@ -1,11 +1,18 @@
 {
-  "lastUpdated": "2026-07-21T01:04:19.881Z",
+  "lastUpdated": "2026-07-21T04:27:04.299Z",
   "source": "ESPN",
   "articles": [
     {
+      "headline": "Erling Haaland, Vozinha gain most followers on Instagram during World Cup",
+      "description": "The Norwegian striker and the goalie from Cape Verde were among the most followed players on Instagram during the 2026 World Cup.",
+      "published": "2026-07-21T02:35:32Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49413636/erling-haaland-vozinha-most-instagram-followed-world-cup-players-2026-world-cup-tournament",
+      "image": "https://a.espncdn.com/photo/2026/0721/r1691959_608x342_16-9.jpg"
+    },
+    {
       "headline": "Topps releasing trading card of Lionel Messi, infant Lamine Yamal",
       "description": "Topps is creating a trading card of a photo that became a sensation during the World Cup of Argentina's Lionel Messi holding Spain's Lamine Yamal, the company said Monday.",
-      "published": "2026-07-21T01:03:19Z",
+      "published": "2026-07-21T03:01:00Z",
       "link": "https://www.espn.com/soccer/story/_/id/49413564/topps-releasing-trading-card-lionel-messi-infant-lamine-yamal",
       "image": "https://a.espncdn.com/photo/2024/0710/r1356881_1296x729_16-9.jpg"
     },
@@ -36,13 +43,6 @@
       "published": "2026-07-20T20:39:12Z",
       "link": "https://www.espn.com/video/clip/_/id/49412497/is-messi-most-important-figure-football-history",
       "image": "https://a.espncdn.com/media/motion/2026/0720/dm_260720_COM_SOC_Analysis_Is_Messi_the_most_important_figure_in_football_history_20260720_GLOBAL_FIFA_WO/dm_260720_COM_SOC_Analysis_Is_Messi_the_most_important_figure_in_football_history_20260720_GLOBAL_FIFA_WO.jpg"
-    },
-    {
-      "headline": "Are referees too hesitant to give out early bookings?",
-      "description": "Are referees too hesitant to give out early bookings?",
-      "published": "2026-07-20T20:28:48Z",
-      "link": "https://www.espn.com/video/clip/_/id/49412458/are-referees-too-hesitant-give-early-bookings",
-      "image": "https://a.espncdn.com/media/motion/2026/0720/dm_260720_COM_SOC_Analysis_Are_referees_too_hesitant_to_give_out_early_bookings_20260720_GLOBAL_FIFA_WORL/dm_260720_COM_SOC_Analysis_Are_referees_too_hesitant_to_give_out_early_bookings_20260720_GLOBAL_FIFA_WORL.jpg"
     }
   ]
 }

@@ -1,7 +1,35 @@
 {
-  "lastUpdated": "2026-07-22T07:17:27.704Z",
+  "lastUpdated": "2026-07-22T09:43:06.404Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "10 African stars who caught transfer scouts' eyes at the FIFA World Cup",
+      "description": "Every four years, the FIFA World Cup reshapes the transfer landscape, offering players the opportunity to showcase their qualities against elite opposition in front of the watching world.",
+      "published": "2026-07-22T08:58:19Z",
+      "link": "https://www.espn.com/espn/story/_/id/49422933/10-african-stars-caught-transfer-scouts-eyes-fifa-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0722/r1692330_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "African Dream Team - Who made ESPN's African XI from the 2026 World Cup?",
+      "description": "Following an encouraging World Cup campaign from nine of Africa's 10 representatives - not you, Tunisia - ESPN have taken on the difficult task of picking our dream team of the continent's players to have featured in Nor",
+      "published": "2026-07-22T08:32:11Z",
+      "link": "https://www.espn.com/espn/story/_/id/49422788/african-dream-team-made-espn-african-xi-2026-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0714/r1689082_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Africa's FIFA World Cup, though historic, was characterised by 'what ifs'",
+      "description": "",
+      "published": "2026-07-22T08:29:56Z",
+      "link": "https://www.espn.com/espn/story/_/id/49422826/africa-fifa-world-cup-historic-was-characterised-ifs",
+      "image": "https://a.espncdn.com/photo/2026/0705/r1684714_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Scaloni denies rumours of internal conflict in Argentina squad",
+      "description": "Scaloni denies rumours of internal conflict in Argentina squad",
+      "published": "2026-07-22T07:45:25Z",
+      "link": "https://www.espn.com/video/clip/_/id/49422731/scaloni-denies-rumours-internal-conflict-argentina-squad",
+      "image": "https://a.espncdn.com/media/motion/2026/0722/dm_260722_Scaloni_denies_rumours_of_internal_conflict_in_Argentina_squad/dm_260722_Scaloni_denies_rumours_of_internal_conflict_in_Argentina_squad.jpg"
+    },
     {
       "headline": "Why Spain are top of the world in both men's and women's games",
       "description": "It's no coincidence that Spain are the first nation to hold both the men's and women's World Cups simultaneously. It's been a generation in the making.",
@@ -15,34 +43,6 @@
       "published": "2026-07-22T07:09:45Z",
       "link": "https://www.espn.com/soccer/story/_/id/49418623/world-cup-musings-argentina-let-messi-england-regressed",
       "image": "https://a.espncdn.com/photo/2026/0722/r1692281_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "The players who played no minutes at the World Cup -- who were the unlucky few?",
-      "description": "The World Cup was a time to remember for most, for a handful of players though, their time at the tournament was merely sitting in the best seats in the house.",
-      "published": "2026-07-22T06:01:26Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49416547/the-players-played-no-minutes-world-cup-were-unlucky-ngolo-kante-kobbie-mainoo-david-raya-victor-munoz",
-      "image": "https://a.espncdn.com/photo/2026/0204/r1610211_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Mexico great Guillermo Ochoa retires after 22-year career",
-      "description": "Guillermo Ochoa, widely considered among the greatest Mexican goalkeepers in history, announced his retirement from elite soccer on Tuesday, bringing an end to a distinguished 22-year professional career.",
-      "published": "2026-07-22T02:00:07Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49421412/mexico-great-guillermo-ochoa-retires-22-year-career",
-      "image": "https://a.espncdn.com/photo/2026/0624/r1678707_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "World Cup final peaks at 60M viewers in North America",
-      "description": "A lot of things went right during this summer's World Cup, including record viewership numbers in North America for Spain's 1-0 win over Argentina in Sunday's final.",
-      "published": "2026-07-22T06:48:51Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49420870/world-cup-final-peaks-60m-viewers-north-america",
-      "image": "https://a.espncdn.com/photo/2026/0721/r1692263_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Could Gianni Infantino resign after World Cup backlash?",
-      "description": "Could Gianni Infantino resign after World Cup backlash?",
-      "published": "2026-07-21T22:11:09Z",
-      "link": "https://www.espn.com/video/clip/_/id/49420440/could-gianni-infantino-resign-world-cup-backlash",
-      "image": "https://a.espncdn.com/media/motion/2026/0721/dm_260721_COM_SOC_Analysis_Could_Gianni_Infantino_resign_after_World_Cup_backlash_20260721_GLOBAL/dm_260721_COM_SOC_Analysis_Could_Gianni_Infantino_resign_after_World_Cup_backlash_20260721_GLOBAL.jpg"
     }
   ]
 }

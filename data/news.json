@@ -1,7 +1,35 @@
 {
-  "lastUpdated": "2026-07-22T09:43:06.404Z",
+  "lastUpdated": "2026-07-22T11:31:11.519Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Lamine Yamal explains Lionel Messi advice after World Cup final which was as valuable as a medal",
+      "description": "Lionel Messi encouraged Lamine Yamal \"to go his own way\" in the immediate aftermath of Spain's win over Argentina in the World Cup final.",
+      "published": "2026-07-22T10:54:53Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49423331/lionel-messi-encourages-lamine-yamal-go-own-way-spain-world-cup-triumph",
+      "image": "https://a.espncdn.com/photo/2026/0722/r1692337_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "ESPN's outrageous, fanciful, way too early African XI for the 2030 FIFA World Cup",
+      "description": "ESPN have taken on the foolish task of predicting the African continent's best XI for the 2030 FIFA World Cup in four years' time.",
+      "published": "2026-07-22T10:24:38Z",
+      "link": "https://www.espn.com/espn/story/_/id/49423199/espn-outrageous-fanciful-way-too-early-african-xi-2030-fifa-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0114/r1600409_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Spain's Gavi: Argentina players shouldn't be punished for World Cup final fracas",
+      "description": "Spain midfielder Gavi believes Argentina players should not be punished by FIFA for their actions after Sunday's World Cup final.",
+      "published": "2026-07-22T10:25:06Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49423285/spain-gavi-argentina-players-shouldnt-punished-world-cup-final-fracas",
+      "image": "https://a.espncdn.com/photo/2026/0722/r1692336_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Grading Africa's FIFA World Cup teams, plus one key question for each team going forward",
+      "description": "With the FIFA World Cup in the books after six long weeks, and Spain emerging victorious over Argentina in the final, it's time to reflect on what was an historic tournament for Africa.",
+      "published": "2026-07-22T09:45:59Z",
+      "link": "https://www.espn.com/espn/story/_/id/49407999/grading-africa-fifa-world-cup-teams-plus-one-key-question-team-going-forward",
+      "image": "https://a.espncdn.com/photo/2026/0625/r1679172_1296x729_16-9.jpg"
+    },
     {
       "headline": "10 African stars who caught transfer scouts' eyes at the FIFA World Cup",
       "description": "Every four years, the FIFA World Cup reshapes the transfer landscape, offering players the opportunity to showcase their qualities against elite opposition in front of the watching world.",
@@ -15,34 +43,6 @@
       "published": "2026-07-22T08:32:11Z",
       "link": "https://www.espn.com/espn/story/_/id/49422788/african-dream-team-made-espn-african-xi-2026-world-cup",
       "image": "https://a.espncdn.com/photo/2026/0714/r1689082_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Africa's FIFA World Cup, though historic, was characterised by 'what ifs'",
-      "description": "",
-      "published": "2026-07-22T08:29:56Z",
-      "link": "https://www.espn.com/espn/story/_/id/49422826/africa-fifa-world-cup-historic-was-characterised-ifs",
-      "image": "https://a.espncdn.com/photo/2026/0705/r1684714_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Scaloni denies rumours of internal conflict in Argentina squad",
-      "description": "Scaloni denies rumours of internal conflict in Argentina squad",
-      "published": "2026-07-22T07:45:25Z",
-      "link": "https://www.espn.com/video/clip/_/id/49422731/scaloni-denies-rumours-internal-conflict-argentina-squad",
-      "image": "https://a.espncdn.com/media/motion/2026/0722/dm_260722_Scaloni_denies_rumours_of_internal_conflict_in_Argentina_squad/dm_260722_Scaloni_denies_rumours_of_internal_conflict_in_Argentina_squad.jpg"
-    },
-    {
-      "headline": "Why Spain are top of the world in both men's and women's games",
-      "description": "It's no coincidence that Spain are the first nation to hold both the men's and women's World Cups simultaneously. It's been a generation in the making.",
-      "published": "2026-07-22T07:09:24Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49416781/why-spain-top-world-mens-womens-soccer-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0721/r1692061_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "World Cup musings: Argentina let down Messi; England have regressed",
-      "description": "Now that the dust has settled on the 2026 FIFA World Cup, what better time for Gabriele Marcotti to pause and reflect on what we've seen?",
-      "published": "2026-07-22T07:09:45Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49418623/world-cup-musings-argentina-let-messi-england-regressed",
-      "image": "https://a.espncdn.com/photo/2026/0722/r1692281_1296x729_16-9.jpg"
     }
   ]
 }

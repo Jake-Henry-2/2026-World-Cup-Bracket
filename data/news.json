@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-07-22T18:02:02.476Z",
+  "lastUpdated": "2026-07-22T19:39:30.044Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Lewandowski: Eight weeks out affected Yamal's World Cup",
+      "description": "Lewandowski: Eight weeks out affected Yamal's World Cup",
+      "published": "2026-07-22T19:11:53Z",
+      "link": "https://www.espn.com/video/clip/_/id/49426371/eight-weeks-affected-yamal-world-cup",
+      "image": "https://a.espncdn.com/media/motion/2026/0722/dm_260722_Lewandowski_Eight_weeks_out_affected_Yamals_World_Cup/dm_260722_Lewandowski_Eight_weeks_out_affected_Yamals_World_Cup.jpg"
+    },
     {
       "headline": "The players who played no minutes at the World Cup -- who were the unlucky few?",
       "description": "The World Cup was a time to remember for most, for a handful of players though, their time at the tournament was merely sitting in the best seats in the house.",
@@ -36,13 +43,6 @@
       "published": "2026-07-22T09:45:59Z",
       "link": "https://www.espn.com/espn/story/_/id/49407999/grading-africa-fifa-world-cup-teams-plus-one-key-question-team-going-forward",
       "image": "https://a.espncdn.com/photo/2026/0625/r1679172_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "10 African stars who caught transfer scouts' eyes at the FIFA World Cup",
-      "description": "Every four years, the FIFA World Cup reshapes the transfer landscape, offering players the opportunity to showcase their qualities against elite opposition in front of the watching world.",
-      "published": "2026-07-22T08:58:19Z",
-      "link": "https://www.espn.com/espn/story/_/id/49422933/10-african-stars-caught-transfer-scouts-eyes-fifa-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0722/r1692330_1296x729_16-9.jpg"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-07-23T15:25:08.828Z",
+  "lastUpdated": "2026-07-23T16:57:12.560Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Grading FIFA's changes to the World Cup, from expansion to hydration breaks",
+      "description": "Now that the World Cup is over, let's evaluate all the things that FIFA did differently. Which new features earned A's, and which ones were utter flops?",
+      "published": "2026-07-23T15:41:04Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49426177/grading-fifa-world-cup-changes-expansion-hydration-breaks-tickets-substitutes-red-cards",
+      "image": "https://a.espncdn.com/photo/2026/0722/r1692525_1296x729_16-9.jpg"
+    },
     {
       "headline": "CAF support Gianni Infantino's FIFA bid because of his 'loyalty' to Africa - Patrice Motsepe",
       "description": "CAF president Patrice Motsepe threw his support behind FIFA president Gianni Infantino on Tuesday, despite a tumultuous FIFA World Cup that has sparked calls for his resignation.",
@@ -36,13 +43,6 @@
       "published": "2026-07-23T06:37:29Z",
       "link": "https://www.espn.com/espn/story/_/id/49422826/africa-fifa-world-cup-historic-was-characterised-ifs",
       "image": "https://a.espncdn.com/photo/2026/0705/r1684714_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "10 African stars who caught transfer scouts' eyes at the FIFA World Cup",
-      "description": "Every four years, the FIFA World Cup reshapes the transfer landscape, offering players the opportunity to showcase their qualities against elite opposition in front of the watching world.",
-      "published": "2026-07-23T06:36:52Z",
-      "link": "https://www.espn.com/espn/story/_/id/49422933/10-african-stars-caught-transfer-scouts-eyes-fifa-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0722/r1692330_1296x729_16-9.jpg"
     }
   ]
 }

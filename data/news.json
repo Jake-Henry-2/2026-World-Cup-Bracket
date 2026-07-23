@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-07-23T18:16:39.356Z",
+  "lastUpdated": "2026-07-23T19:50:14.778Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "World Cup: Grades for all 47 eliminated teams from the tournament",
+      "description": "With the 2026 World Cup now over, 47 teams have been eliminated, and we're grading each team's run vs. expectations.",
+      "published": "2026-07-23T19:01:07Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49178425/world-cup-grades-every-eliminated-team-rating-exit-tournament",
+      "image": "https://a.espncdn.com/photo/2026/0719/r1691390_1296x729_16-9.jpg"
+    },
     {
       "headline": "Grading FIFA's changes to the World Cup, from expansion to hydration breaks",
       "description": "Now that the World Cup is over, let's evaluate all the things that FIFA did differently. Which new features earned A's, and which ones were utter flops?",
@@ -36,13 +43,6 @@
       "published": "2026-07-23T06:40:02Z",
       "link": "https://www.espn.com/soccer/story/_/id/49416547/the-players-played-no-minutes-world-cup-were-unlucky-ngolo-kante-kobbie-mainoo-david-raya-victor-munoz",
       "image": "https://a.espncdn.com/photo/2026/0204/r1610211_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Africa's FIFA World Cup, though historic, was characterised by 'what ifs'",
-      "description": "",
-      "published": "2026-07-23T06:37:29Z",
-      "link": "https://www.espn.com/espn/story/_/id/49422826/africa-fifa-world-cup-historic-was-characterised-ifs",
-      "image": "https://a.espncdn.com/photo/2026/0705/r1684714_1296x729_16-9.jpg"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-07-24T14:52:45.002Z",
+  "lastUpdated": "2026-07-24T16:34:52.403Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "IOC will not investigate Infantino over Trump interference allegations",
+      "description": "Allegations that FIFA president Gianni Infantino breached Olympic rules on political neutrality in his dealings with U.S. President Donald Trump will not be investigated by the International Olympic Committee.",
+      "published": "2026-07-24T15:56:34Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49440317/ioc-not-investigate-infantino-trump-interference-allegations",
+      "image": "https://a.espncdn.com/photo/2026/0719/r1691371_1296x729_16-9.jpg"
+    },
     {
       "headline": "Klopp: When you don't want me as Germany coach, I'm gone",
       "description": "Klopp: When you don't want me as Germany coach, I'm gone",
@@ -36,13 +43,6 @@
       "published": "2026-07-24T11:39:57Z",
       "link": "https://www.espn.com/soccer/story/_/id/49409382/do-germany-need-jurgen-klopp-fifa-world-cup",
       "image": "https://a.espncdn.com/photo/2026/0724/r1693112_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "How Spain won the World Cup without a marquee goal scorer or elite defense",
-      "description": "Spain's attack and defense didn't have the best players at the World Cup -- but Spain was the best team. How did that happen?",
-      "published": "2026-07-24T08:36:04Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49433484/how-spain-won-world-cup-marquee-goal-scorer-elite-defense",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692876_1296x729_16-9.jpg"
     }
   ]
 }

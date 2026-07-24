@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-07-24T07:14:05.253Z",
+  "lastUpdated": "2026-07-24T09:37:19.532Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Jürgen Klopp named Germany head coach after Julian Nagelsmann departure",
+      "description": "Jürgen Klopp has been named Germany's head coach, following the national team's disappointing World Cup and the resignation of Julian Nagelsmann.",
+      "published": "2026-07-24T09:28:48Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49258815/jurgen-klopp-germany-manager-world-cup-julian-nagalesmann-resigns",
+      "image": "https://a.espncdn.com/photo/2026/0703/r1683833_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "How Spain won the World Cup without a marquee goal scorer or elite defense",
+      "description": "Spain's attack and defense didn't have the best players at the World Cup -- but Spain was the best team. How did that happen?",
+      "published": "2026-07-24T08:36:04Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49433484/how-spain-won-world-cup-marquee-goal-scorer-elite-defense",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692876_1296x729_16-9.jpg"
+    },
     {
       "headline": "The players who played no minutes at the World Cup -- who were the unlucky few?",
       "description": "The World Cup was a time to remember for most, for a handful of players though, their time at the tournament was merely sitting in the best seats in the house.",
@@ -29,20 +43,6 @@
       "published": "2026-07-24T07:11:07Z",
       "link": "https://www.espn.com/soccer/story/_/id/49426177/grading-fifa-world-cup-changes-expansion-hydration-breaks-tickets-substitutes-red-cards",
       "image": "https://a.espncdn.com/photo/2026/0722/r1692525_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "CAF support Gianni Infantino's FIFA bid because of his 'loyalty' to Africa - Patrice Motsepe",
-      "description": "CAF president Patrice Motsepe threw his support behind FIFA president Gianni Infantino on Tuesday, despite a tumultuous FIFA World Cup that has sparked calls for his resignation.",
-      "published": "2026-07-23T12:02:12Z",
-      "link": "https://www.espn.com/espn/story/_/id/49431378/caf-support-gianni-infantino-fifa-bid-loyalty-africa-patrice-motsepe",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692751_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Argentina FA deny president, treasurer summoned to give evidence to U.S. court",
-      "description": "Argentina's Football Association has denied reports that its president or its treasurer have ‌been summoned to give evidence by United States courts.",
-      "published": "2026-07-23T11:41:53Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49430497/argentina-fa-deny-president-treasurer-summoned-give-evidence-us-court",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692724_1296x729_16-9.jpg"
     }
   ]
 }

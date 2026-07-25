@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-07-25T16:36:07.970Z",
+  "lastUpdated": "2026-07-25T17:38:30.867Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Will Pochettino leave USMNT role?",
+      "description": "Will Pochettino leave USMNT role?",
+      "published": "2026-07-25T17:05:16Z",
+      "link": "https://www.espn.com/video/clip/_/id/49447628/will-pochettino-leave-usmnt-role",
+      "image": "https://a.espncdn.com/media/motion/2026/0725/dm_260725_COM_SOC_Analysis_Will_Pochettino_leave_USMNT3F__GLOBAL_2026-07-25/dm_260725_COM_SOC_Analysis_Will_Pochettino_leave_USMNT3F__GLOBAL_2026-07-25.jpg"
+    },
+    {
+      "headline": "Should tickets be more affordable for fans after the World Cup?",
+      "description": "Should tickets be more affordable for fans after the World Cup?",
+      "published": "2026-07-25T16:57:54Z",
+      "link": "https://www.espn.com/video/clip/_/id/49447596/should-tickets-more-affordable-fans-world-cup",
+      "image": "https://a.espncdn.com/media/motion/2026/0725/dm_260725_COM_SOC_Analysis_Should_tickets_be_more_affordable_for_fans_after_the_World_Cup3F__GLOBAL_2026-07-2/dm_260725_COM_SOC_Analysis_Should_tickets_be_more_affordable_for_fans_after_the_World_Cup3F__GLOBAL_2026-07-2.jpg"
+    },
     {
       "headline": "Which South American players raised their stock at the World Cup?",
       "description": "Even if South America didn't impress too much at the 2026 World Cup, many players had their reputations enhanced and could make a move in the transfer window.",
@@ -29,20 +43,6 @@
       "published": "2026-07-24T16:41:13Z",
       "link": "https://www.espn.com/video/clip/_/id/49440737/what-england-team-look-pep-guardiola-was-manager",
       "image": "https://a.espncdn.com/media/motion/2026/0724/dm_260724_COM_SOC_Analysis_What_would_EnglandE28099s_team_look_like_if_Pep_Guardiola_was_manager3F__GLOBAL_2026-07/dm_260724_COM_SOC_Analysis_What_would_EnglandE28099s_team_look_like_if_Pep_Guardiola_was_manager3F__GLOBAL_2026-07.jpg"
-    },
-    {
-      "headline": "IOC will not investigate Infantino over Trump interference allegations",
-      "description": "Allegations that FIFA president Gianni Infantino breached Olympic rules on political neutrality in his dealings with U.S. President Donald Trump will not be investigated by the International Olympic Committee.",
-      "published": "2026-07-24T15:56:34Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49440317/ioc-not-investigate-infantino-trump-interference-allegations",
-      "image": "https://a.espncdn.com/photo/2026/0719/r1691371_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Klopp: When you don't want me as Germany coach, I'm gone",
-      "description": "Klopp: When you don't want me as Germany coach, I'm gone",
-      "published": "2026-07-24T14:31:34Z",
-      "link": "https://www.espn.com/video/clip/_/id/49438479/want-germany-coach-gone",
-      "image": "https://a.espncdn.com/media/motion/2026/0724/dm_260724_COM_SOC_Presser_Klopp_When_you_dont_want_me_as_Germany_coach_Im_gone_20260724_GLOBAL/dm_260724_COM_SOC_Presser_Klopp_When_you_dont_want_me_as_Germany_coach_Im_gone_20260724_GLOBAL.jpg"
     }
   ]
 }

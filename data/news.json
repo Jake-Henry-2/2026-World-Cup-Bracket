@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-07-25T10:42:04.518Z",
+  "lastUpdated": "2026-07-25T11:49:06.485Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Which South American players raised their stock at the World Cup?",
+      "description": "Even if South America didn't impress too much at the 2026 World Cup, many players had their reputations enhanced and could make a move in the transfer window.",
+      "published": "2026-07-25T10:43:07Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49425954/which-south-american-players-raised-their-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692923_1296x729_16-9.jpg"
+    },
     {
       "headline": "The players who played no minutes at the World Cup -- who were the unlucky few?",
       "description": "The World Cup was a time to remember for most, for a handful of players though, their time at the tournament was merely sitting in the best seats in the house.",
@@ -36,13 +43,6 @@
       "published": "2026-07-24T14:31:34Z",
       "link": "https://www.espn.com/video/clip/_/id/49438479/want-germany-coach-gone",
       "image": "https://a.espncdn.com/media/motion/2026/0724/dm_260724_COM_SOC_Presser_Klopp_When_you_dont_want_me_as_Germany_coach_Im_gone_20260724_GLOBAL/dm_260724_COM_SOC_Presser_Klopp_When_you_dont_want_me_as_Germany_coach_Im_gone_20260724_GLOBAL.jpg"
-    },
-    {
-      "headline": "Spain's Luis de la Fuente: Doubting Rodri an 'insult to footballing intelligence'",
-      "description": "Spain coach Luis de la Fuente never had any doubts that Manchester City midfielder Rodri would be a major asset for the team at the World Cup despite concerns about his recent injuries.",
-      "published": "2026-07-24T11:11:57Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49438321/rodri-spain-luis-da-la-fuente-world-cup-2026",
-      "image": "https://a.espncdn.com/photo/2026/0719/r1691549_1296x729_16-9.jpg"
     }
   ]
 }

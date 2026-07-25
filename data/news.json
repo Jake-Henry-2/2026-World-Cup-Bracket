@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-07-25T17:38:30.867Z",
+  "lastUpdated": "2026-07-25T18:38:47.503Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Vozinha to sign for Colo Colo after stellar World Cup - president",
+      "description": "Cape Verde goalkeeper Vozinha has signed a contract with Colo Colo, the South American country's biggest soccer team, its president said.",
+      "published": "2026-07-25T18:37:39Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49448250/vozinha-sign-colo-colo-stellar-world-cup-president",
+      "image": "https://a.espncdn.com/photo/2026/0615/r1673689_1296x729_16-9.jpg"
+    },
     {
       "headline": "Will Pochettino leave USMNT role?",
       "description": "Will Pochettino leave USMNT role?",
@@ -36,13 +43,6 @@
       "published": "2026-07-24T16:44:09Z",
       "link": "https://www.espn.com/video/clip/_/id/49440743/what-does-future-look-italian-national-team",
       "image": "https://a.espncdn.com/media/motion/2026/0724/dm_260724_COM_SOC_Analysis_What_does_the_future_look_like_for_the_Italian_national_team3F__GLOBAL_2026-07-24/dm_260724_COM_SOC_Analysis_What_does_the_future_look_like_for_the_Italian_national_team3F__GLOBAL_2026-07-24.jpg"
-    },
-    {
-      "headline": "What would England's team look like if Pep Guardiola was manager?",
-      "description": "What would England's team look like if Pep Guardiola was manager?",
-      "published": "2026-07-24T16:41:13Z",
-      "link": "https://www.espn.com/video/clip/_/id/49440737/what-england-team-look-pep-guardiola-was-manager",
-      "image": "https://a.espncdn.com/media/motion/2026/0724/dm_260724_COM_SOC_Analysis_What_would_EnglandE28099s_team_look_like_if_Pep_Guardiola_was_manager3F__GLOBAL_2026-07/dm_260724_COM_SOC_Analysis_What_would_EnglandE28099s_team_look_like_if_Pep_Guardiola_was_manager3F__GLOBAL_2026-07.jpg"
     }
   ]
 }

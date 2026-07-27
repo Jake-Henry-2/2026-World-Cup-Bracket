@@ -1,11 +1,18 @@
 {
-  "lastUpdated": "2026-07-27T04:03:19.277Z",
+  "lastUpdated": "2026-07-27T07:46:02.600Z",
   "source": "ESPN",
   "articles": [
     {
+      "headline": "FIFA's Gianni Infantino slams World Cup critics for 'spreading hate'",
+      "description": "FIFA president Gianni Infantino has launched a scathing attack on critics of the 2026 World Cup, accusing them of being \"consumed by hate\" and saying they should \"reflect, meditate, pray, or watch a football match.\"",
+      "published": "2026-07-27T07:19:02Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49460279/fifa-gianni-infantino-slams-world-cup-critics-spreading-hate",
+      "image": "https://a.espncdn.com/photo/2026/0611/r1671041_1296x729_16-9.jpg"
+    },
+    {
       "headline": "The players who played no minutes at the World Cup -- who were the unlucky few?",
       "description": "The World Cup was a time to remember for most, for a handful of players though, their time at the tournament was merely sitting in the best seats in the house.",
-      "published": "2026-07-26T13:42:51Z",
+      "published": "2026-07-27T06:33:57Z",
       "link": "https://www.espn.com/soccer/story/_/id/49416547/the-players-played-no-minutes-world-cup-were-unlucky-ngolo-kante-kobbie-mainoo-david-raya-victor-munoz",
       "image": "https://a.espncdn.com/photo/2026/0204/r1610211_1296x729_16-9.jpg"
     },
@@ -36,13 +43,6 @@
       "published": "2026-07-25T16:57:54Z",
       "link": "https://www.espn.com/video/clip/_/id/49447596/should-tickets-more-affordable-fans-world-cup",
       "image": "https://a.espncdn.com/media/motion/2026/0725/dm_260725_COM_SOC_Analysis_Should_tickets_be_more_affordable_for_fans_after_the_World_Cup3F__GLOBAL_2026-07-2/dm_260725_COM_SOC_Analysis_Should_tickets_be_more_affordable_for_fans_after_the_World_Cup3F__GLOBAL_2026-07-2.jpg"
-    },
-    {
-      "headline": "Which South American players raised their stock at the World Cup?",
-      "description": "Even if South America didn't impress too much at the 2026 World Cup, many players had their reputations enhanced and could make a move in the transfer window.",
-      "published": "2026-07-25T10:43:07Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49425954/which-south-american-players-raised-their-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692923_1296x729_16-9.jpg"
     }
   ]
 }

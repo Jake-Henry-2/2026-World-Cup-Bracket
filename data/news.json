@@ -1,11 +1,18 @@
 {
-  "lastUpdated": "2026-07-27T07:46:02.600Z",
+  "lastUpdated": "2026-07-27T10:57:13.858Z",
   "source": "ESPN",
   "articles": [
     {
+      "headline": "Slavko Vincic retires after refereeing World Cup final",
+      "description": "World Cup final referee Slavko Vincic has retired just a week on from the tournament's conclusion.",
+      "published": "2026-07-27T09:06:33Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49460832/slavko-vincic-world-cup-final-referee-argentina-spain-enzo-fernandez-red-card",
+      "image": "https://a.espncdn.com/photo/2026/0727/r1694212_1296x729_16-9.jpg"
+    },
+    {
       "headline": "FIFA's Gianni Infantino slams World Cup critics for 'spreading hate'",
       "description": "FIFA president Gianni Infantino has launched a scathing attack on critics of the 2026 World Cup, accusing them of being \"consumed by hate\" and saying they should \"reflect, meditate, pray, or watch a football match.\"",
-      "published": "2026-07-27T07:19:02Z",
+      "published": "2026-07-27T07:51:08Z",
       "link": "https://www.espn.com/soccer/story/_/id/49460279/fifa-gianni-infantino-slams-world-cup-critics-spreading-hate",
       "image": "https://a.espncdn.com/photo/2026/0611/r1671041_1296x729_16-9.jpg"
     },
@@ -36,13 +43,6 @@
       "published": "2026-07-25T17:05:16Z",
       "link": "https://www.espn.com/video/clip/_/id/49447628/will-pochettino-leave-usmnt-role",
       "image": "https://a.espncdn.com/media/motion/2026/0725/dm_260725_COM_SOC_Analysis_Will_Pochettino_leave_USMNT3F__GLOBAL_2026-07-25/dm_260725_COM_SOC_Analysis_Will_Pochettino_leave_USMNT3F__GLOBAL_2026-07-25.jpg"
-    },
-    {
-      "headline": "Should tickets be more affordable for fans after the World Cup?",
-      "description": "Should tickets be more affordable for fans after the World Cup?",
-      "published": "2026-07-25T16:57:54Z",
-      "link": "https://www.espn.com/video/clip/_/id/49447596/should-tickets-more-affordable-fans-world-cup",
-      "image": "https://a.espncdn.com/media/motion/2026/0725/dm_260725_COM_SOC_Analysis_Should_tickets_be_more_affordable_for_fans_after_the_World_Cup3F__GLOBAL_2026-07-2/dm_260725_COM_SOC_Analysis_Should_tickets_be_more_affordable_for_fans_after_the_World_Cup3F__GLOBAL_2026-07-2.jpg"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-07-28T15:00:23.122Z",
+  "lastUpdated": "2026-07-28T16:46:44.610Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "UEFA blasts FIFA proposal to allow for $10B in World Cup private investment",
+      "description": "UEFA has rejected a FIFA plan to sell stakes in the World Cup to private investors as a \"line that football's governing institutions should never cross\" and that the World Cup is \"not FIFA's to sell.\"",
+      "published": "2026-07-28T16:31:30Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49470028/uefa-blasts-fifa-proposal-10-billion-world-cup-private-investment",
+      "image": "https://a.espncdn.com/photo/2026/0720/r1691798_1296x729_16-9.jpg"
+    },
     {
       "headline": "What advanced stats say about every USMNT World Cup game since 1990",
       "description": "The U.S. men's latest World Cup exit was the latest in a long string of disappointments ... or was it? Let's look at the numbers behind all their tournament appearances since 1990 to get the real story.",
@@ -36,13 +43,6 @@
       "published": "2026-07-28T09:40:16Z",
       "link": "https://www.espn.com/video/clip/_/id/49468236/waiting-five-years-become-france-head-coach",
       "image": "https://a.espncdn.com/media/motion/2026/0728/dm_260728_Zidane_Ive_been_waiting_five_years_to_become_Frances_head_coach/dm_260728_Zidane_Ive_been_waiting_five_years_to_become_Frances_head_coach.jpg"
-    },
-    {
-      "headline": "Zidane takes France job after five years out of coaching. What will he do?",
-      "description": "France have made Zinedine Zidane their new coach despite his last job at Real Madrid ending in 2021. What will he do? And just where has he been?",
-      "published": "2026-07-28T10:02:44Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49460730/zinedine-zidane-france-coach-five-years-leaving-real-madrid",
-      "image": "https://a.espncdn.com/photo/2026/0728/r1694553_1296x729_16-9.jpg"
     }
   ]
 }

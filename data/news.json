@@ -1,11 +1,25 @@
 {
-  "lastUpdated": "2026-07-28T16:46:44.610Z",
+  "lastUpdated": "2026-07-28T18:04:32.712Z",
   "source": "ESPN",
   "articles": [
     {
+      "headline": "Will Mourinho keep Endrick at Real Madrid?",
+      "description": "Will Mourinho keep Endrick at Real Madrid?",
+      "published": "2026-07-28T17:11:33Z",
+      "link": "https://www.espn.com/video/clip/_/id/49471131/will-mourinho-keep-endrick-real-madrid",
+      "image": "https://a.espncdn.com/media/motion/2026/0728/dm_260728_COM_SOC_Analysis_Will_Mourinho_keep_Endrick_at_Real_Madrid3F_GLOBAL_2026-07-28/dm_260728_COM_SOC_Analysis_Will_Mourinho_keep_Endrick_at_Real_Madrid3F_GLOBAL_2026-07-28.jpg"
+    },
+    {
+      "headline": "Laurens: Zidane's attacking style of football will benefit France",
+      "description": "Laurens: Zidane's attacking style of football will benefit France",
+      "published": "2026-07-28T17:05:07Z",
+      "link": "https://www.espn.com/video/clip/_/id/49471030/zidane-attacking-style-football-benefit-france",
+      "image": "https://a.espncdn.com/media/motion/2026/0728/dm_260728_COM_SOC_Analysis_Laurens3A_ZidaneE28099s_attacking_style_of_football_will_benefit_France_GLOBAL_2026-07-/dm_260728_COM_SOC_Analysis_Laurens3A_ZidaneE28099s_attacking_style_of_football_will_benefit_France_GLOBAL_2026-07-.jpg"
+    },
+    {
       "headline": "UEFA blasts FIFA proposal to allow for $10B in World Cup private investment",
       "description": "UEFA has rejected a FIFA plan to sell stakes in the World Cup to private investors as a \"line that football's governing institutions should never cross\" and that the World Cup is \"not FIFA's to sell.\"",
-      "published": "2026-07-28T16:31:30Z",
+      "published": "2026-07-28T17:49:34Z",
       "link": "https://www.espn.com/soccer/story/_/id/49470028/uefa-blasts-fifa-proposal-10-billion-world-cup-private-investment",
       "image": "https://a.espncdn.com/photo/2026/0720/r1691798_1296x729_16-9.jpg"
     },
@@ -29,20 +43,6 @@
       "published": "2026-07-28T11:35:08Z",
       "link": "https://www.espn.com/soccer/story/_/id/49468627/ifab-var-process-red-card-switzerland-embolo-vs-argentina-wrong",
       "image": "https://a.espncdn.com/photo/2026/0712/r1688116_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Gianni Infantino's message attacking critics 'pathetic,' LaLiga chief Javier Tebas says",
-      "description": "LaLiga president Javier Tebas has called FIFA supremo Gianni Infantino's Instagram message criticising those that questioned his leadership, his organisation and the 2026 World Cup as \"pathetic.sPE",
-      "published": "2026-07-28T09:55:18Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49468267/gianni-infantino-fifa-critics-message-javier-tebas-laliga-chief",
-      "image": "https://a.espncdn.com/photo/2026/0728/r1694546_2_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Zidane: I've been waiting five years to become France's head coach",
-      "description": "Zidane: I've been waiting five years to become France's head coach",
-      "published": "2026-07-28T09:40:16Z",
-      "link": "https://www.espn.com/video/clip/_/id/49468236/waiting-five-years-become-france-head-coach",
-      "image": "https://a.espncdn.com/media/motion/2026/0728/dm_260728_Zidane_Ive_been_waiting_five_years_to_become_Frances_head_coach/dm_260728_Zidane_Ive_been_waiting_five_years_to_become_Frances_head_coach.jpg"
     }
   ]
 }

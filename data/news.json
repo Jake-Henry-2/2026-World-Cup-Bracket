@@ -1,11 +1,25 @@
 {
-  "lastUpdated": "2026-07-29T09:16:46.899Z",
+  "lastUpdated": "2026-07-29T11:36:02.933Z",
   "source": "ESPN",
   "articles": [
     {
+      "headline": "How college teams embraced World Cup fever in 2026",
+      "description": "Messi at Auburn. Germany at Wake Forest. Kansas' love affair with Algeria. Colleges got into the World Cup and also profited from it.",
+      "published": "2026-07-29T11:04:22Z",
+      "link": "https://www.espn.com/college-football/story/_/id/49470625/2026-world-cup-college-teams-embraced-international-teams",
+      "image": "https://a.espncdn.com/photo/2026/0728/r1694777_608x342_16-9.jpg"
+    },
+    {
+      "headline": "Gianni Infantino tells FIFA members to agree to World Cup plan or miss $40m in funding",
+      "description": "FIFA president Gianni Infantino set a Sept. 19 deadline for the 211 member federations to accept a one-off $20 million offer to each underwritten by the investment firm of Jared Kushner's brother as part of a project to ",
+      "published": "2026-07-29T11:18:30Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49478198/gianni-infantino-tells-fifa-members-agree-world-cup-plan-miss-40m-funding-report",
+      "image": "https://a.espncdn.com/photo/2026/0729/r1695066_1296x729_16-9.jpg"
+    },
+    {
       "headline": "FA, Concacaf 'deeply concerned' by Gianni Infantino, FIFA's World Cup plan",
       "description": "The Football Association and Concacaf have both said they are \"deeply concerned\" by FIFA's proposed private investment plan",
-      "published": "2026-07-29T09:07:05Z",
+      "published": "2026-07-29T09:22:31Z",
       "link": "https://www.espn.com/soccer/story/_/id/49477957/fa-concacaf-deeply-concerned-gianni-infantino-fifa-world-cup-plan",
       "image": "https://a.espncdn.com/photo/2026/0610/r1670926_1296x729_16-9.jpg"
     },
@@ -29,20 +43,6 @@
       "published": "2026-07-29T02:45:09Z",
       "link": "https://www.espn.com/soccer/story/_/id/49466177/socceroos-transfer-tracker-where-australias-stars-play-2026-27",
       "image": "https://a.espncdn.com/photo/2026/0728/r1694504_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "UEFA to discuss World Cup boycott over FIFA private investment plan - sources",
-      "description": "UEFA is set to hold an emergency meeting this week, sources told ESPN, to discuss plans, including a potential World Cup boycott, to oppose a FIFA proposal to raise $20 billion from a sale of equity to outside investors.",
-      "published": "2026-07-29T00:06:32Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49470028/uefa-blasts-fifa-proposal-10-billion-world-cup-private-investment",
-      "image": "https://a.espncdn.com/photo/2026/0720/r1691798_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Andy Burnham joins critics of FIFA's World Cup private investment plan",
-      "description": "Prime Minister Andy Burnham has said \"football does not belong to investors\" as he joined the criticism of FIFA's plan to set up a new private company to run the World Cup and other competitions.",
-      "published": "2026-07-28T20:24:33Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49473099/andy-burnham-joins-critics-fifa-world-cup-private-investment-plan",
-      "image": "https://a.espncdn.com/photo/2026/0728/r1694805_1296x729_16-9.jpg"
     }
   ]
 }

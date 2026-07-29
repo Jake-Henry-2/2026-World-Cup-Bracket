@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-07-29T20:34:32.539Z",
+  "lastUpdated": "2026-07-29T21:32:03.319Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "World Cup for sale? FIFA's controversial plans explained",
+      "description": "FIFA's plan to raise up to $20 billion in private investment has been widely condemned. What is it all about? And, crucially, what will happen next?",
+      "published": "2026-07-29T20:47:54Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49478527/world-cup-sale-fifa-controversial-plans-explained",
+      "image": "https://a.espncdn.com/photo/2026/0729/r1695082_1296x729_16-9.jpg"
+    },
     {
       "headline": "FIFA opens assault case against Argentina trio over World Cup final",
       "description": "FIFA has opened disciplinary proceedings for assault against Argentina players Leandro Paredes and Nahuel Molina and assistant coach Roberto Ayala over clashes with Spain players following the World Cup final.",
@@ -36,13 +43,6 @@
       "published": "2026-07-29T14:01:48Z",
       "link": "https://www.espn.com/soccer/story/_/id/49463627/fifa-world-cup-power-rankings-spain-brazil-germany-usa-mexico-england-argentina-france",
       "image": "https://a.espncdn.com/photo/2026/0618/soc_wc_power-rankings_16x9.jpg"
-    },
-    {
-      "headline": "DJ Erling Haaland? How the Man City star is enjoying his summer",
-      "description": "Erling Haaland has used his post-World Cup break to not only lap up the European sun, but keep the internet meme-machine fed.",
-      "published": "2026-07-29T03:24:46Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49476184/dj-erling-haaland-how-man-city-star-enjoying-summer",
-      "image": "https://a.espncdn.com/photo/2026/0729/r1694990_414x233_16-9.jpg"
     }
   ]
 }

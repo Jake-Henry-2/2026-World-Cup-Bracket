@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-07-29T06:17:56.011Z",
+  "lastUpdated": "2026-07-29T09:16:46.899Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "FA, Concacaf 'deeply concerned' by Gianni Infantino, FIFA's World Cup plan",
+      "description": "The Football Association and Concacaf have both said they are \"deeply concerned\" by FIFA's proposed private investment plan",
+      "published": "2026-07-29T09:07:05Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49477957/fa-concacaf-deeply-concerned-gianni-infantino-fifa-world-cup-plan",
+      "image": "https://a.espncdn.com/photo/2026/0610/r1670926_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "World Cup 2030 way-too-early Power Rankings: Who is No. 1?",
+      "description": "The 2026 World Cup is over, and we're already itching to look ahead to 2030. So, we asked our reporters to vote for the top teams they expect to contend in four years' time. Who made the cut?",
+      "published": "2026-07-29T08:41:47Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49463627/fifa-world-cup-power-rankings-spain-brazil-germany-usa-mexico-england-argentina-france",
+      "image": "https://a.espncdn.com/photo/2026/0618/soc_wc_power-rankings_16x9.jpg"
+    },
     {
       "headline": "DJ Erling Haaland? How the Man City star is enjoying his summer",
       "description": "Erling Haaland has used his post-World Cup break to not only lap up the European sun, but keep the internet meme-machine fed.",
@@ -29,20 +43,6 @@
       "published": "2026-07-28T20:24:33Z",
       "link": "https://www.espn.com/soccer/story/_/id/49473099/andy-burnham-joins-critics-fifa-world-cup-private-investment-plan",
       "image": "https://a.espncdn.com/photo/2026/0728/r1694805_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Ogden explains FIFA's plan to sell stakes in the World Cup",
-      "description": "Ogden explains FIFA's plan to sell stakes in the World Cup",
-      "published": "2026-07-28T18:28:35Z",
-      "link": "https://www.espn.com/video/clip/_/id/49472014/ogden-explains-fifa-plan-sell-stakes-world-cup",
-      "image": "https://a.espncdn.com/media/motion/2026/0728/dm_260728_COM_SOC_Analysis_Ogden_explains_FIFAs_plan_to_sell_stakes_in_the_World_Cup_GLOBAL_2026-07-28/dm_260728_COM_SOC_Analysis_Ogden_explains_FIFAs_plan_to_sell_stakes_in_the_World_Cup_GLOBAL_2026-07-28.jpg"
-    },
-    {
-      "headline": "Will Mourinho keep Endrick at Real Madrid?",
-      "description": "Will Mourinho keep Endrick at Real Madrid?",
-      "published": "2026-07-28T17:11:33Z",
-      "link": "https://www.espn.com/video/clip/_/id/49471131/will-mourinho-keep-endrick-real-madrid",
-      "image": "https://a.espncdn.com/media/motion/2026/0728/dm_260728_COM_SOC_Analysis_Will_Mourinho_keep_Endrick_at_Real_Madrid3F_GLOBAL_2026-07-28/dm_260728_COM_SOC_Analysis_Will_Mourinho_keep_Endrick_at_Real_Madrid3F_GLOBAL_2026-07-28.jpg"
     }
   ]
 }

@@ -1,11 +1,25 @@
 {
-  "lastUpdated": "2026-07-30T06:44:07.627Z",
+  "lastUpdated": "2026-07-30T09:20:03.468Z",
   "source": "ESPN",
   "articles": [
     {
+      "headline": "Infantino: FIFA proposal a golden opportunity for development",
+      "description": "Infantino: FIFA proposal a golden opportunity for development",
+      "published": "2026-07-30T08:13:30Z",
+      "link": "https://www.espn.com/video/clip/_/id/49486562/fifa-proposal-golden-opportunity-development",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0730/dm_260730_Infantino_FIFA_proposal_a_golden_opportunity_for_development/dm_260730_Infantino_FIFA_proposal_a_golden_opportunity_for_development.jpg"
+    },
+    {
+      "headline": "Have World Cup withdrawal? Enjoy the greatest kits in the tournament's history",
+      "description": "The 2026 World Cup has come and gone, so after all 48 teams' kits on the pitch, how many of them made ESPN's list of the best in competition history?",
+      "published": "2026-07-30T08:33:55Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49470517/have-fifa-world-cup-withdrawal-enjoy-greatest-football-kits-shirts-soccer-jerseys-tournament-history",
+      "image": "https://a.espncdn.com/photo/2026/0729/r1695261_1295x518_5-2.jpg"
+    },
+    {
       "headline": "Australian players slam FIFA plan as Football Australia waits for more info",
       "description": "Football Australia says it was unaware of FIFA's plans to sell stakes in tournaments such as the FIFA World Cup, but has confirmed it will not form a position until further information and consultation are provided.",
-      "published": "2026-07-30T02:54:28Z",
+      "published": "2026-07-30T08:58:01Z",
       "link": "https://www.espn.com/soccer/story/_/id/49484906/australian-players-slam-fifa-plan-football-australia-waits-more-info",
       "image": "https://a.espncdn.com/photo/2024/0808/r1370173_1296x729_16-9.jpg"
     },
@@ -26,23 +40,9 @@
     {
       "headline": "World Cup for sale? FIFA's controversial plans explained",
       "description": "FIFA's plan to raise up to $20 billion in private investment has been widely condemned. What is it all about? And, crucially, what will happen next?",
-      "published": "2026-07-29T20:47:54Z",
+      "published": "2026-07-30T08:15:50Z",
       "link": "https://www.espn.com/soccer/story/_/id/49478527/world-cup-sale-fifa-controversial-plans-explained",
       "image": "https://a.espncdn.com/photo/2026/0729/r1695082_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "FIFA opens assault case against Argentina trio over World Cup final",
-      "description": "FIFA has opened disciplinary proceedings for assault against Argentina players Leandro Paredes and Nahuel Molina and assistant coach Roberto Ayala over clashes with Spain players following the World Cup final.",
-      "published": "2026-07-29T19:06:34Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49480730/fifa-argentina-2026-world-cup-final-disciplinary-banner",
-      "image": "https://a.espncdn.com/photo/2026/0729/r1695165_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Gianni Infantino tells FIFA members to agree to World Cup plan or miss $40m in funding",
-      "description": "FIFA president Gianni Infantino set a Sept. 19 deadline on Wednesday for the 211 member federations to approve his proposed private investment plan, which would give each association access to up to $40 million in fundin",
-      "published": "2026-07-29T21:46:52Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49478198/gianni-infantino-tells-fifa-members-agree-world-cup-plan-miss-40m-funding-report",
-      "image": "https://a.espncdn.com/photo/2026/0729/r1695066_1296x729_16-9.jpg"
     }
   ]
 }

@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-07-30T01:01:23.745Z",
+  "lastUpdated": "2026-07-30T04:14:05.673Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Australian players slam FIFA plan as Football Australia waits for more info",
+      "description": "Football Australia says it was unaware of FIFA's plans to sell stakes in tournaments such as the FIFA World Cup, but has confirmed it will not form a position until further information and consultation are provided.",
+      "published": "2026-07-30T02:54:28Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49484906/australian-players-slam-fifa-plan-football-australia-waits-more-info",
+      "image": "https://a.espncdn.com/photo/2024/0808/r1370173_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "USSF president: Pochettino new deal talks 'going well,' announcement coming soon",
+      "description": "United States Soccer Federation president Cindy Parlow Cone said Wednesday before the MLS All-Star Game that conversations with Mauricio Pochettino to extend his contract as U.S. men's national team manager are \"going we",
+      "published": "2026-07-30T03:09:01Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49484972/us-soccer-president-parlow-cone-pochettino-new-deal-talks-going-well-announcement-coming-soon",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695421_1296x729_16-9.jpg"
+    },
     {
       "headline": "Ancelotti confirms Italy offer, insists he's committed to Brazil",
       "description": "Carlo Ancelotti has confirmed he received an approach to coach his native Italy but said he turned down the role because he remains committed to leading Brazil.",
@@ -29,20 +43,6 @@
       "published": "2026-07-29T21:46:52Z",
       "link": "https://www.espn.com/soccer/story/_/id/49478198/gianni-infantino-tells-fifa-members-agree-world-cup-plan-miss-40m-funding-report",
       "image": "https://a.espncdn.com/photo/2026/0729/r1695066_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "How college teams embraced World Cup fever in 2026",
-      "description": "Messi at Auburn. Germany at Wake Forest. Kansas' love affair with Algeria. Colleges got into the World Cup and also profited from it.",
-      "published": "2026-07-29T14:49:52Z",
-      "link": "https://www.espn.com/college-football/story/_/id/49470625/2026-world-cup-college-teams-embraced-international-teams",
-      "image": "https://a.espncdn.com/photo/2026/0728/r1694777_608x342_16-9.jpg"
-    },
-    {
-      "headline": "FA, Concacaf 'deeply concerned' by Gianni Infantino, FIFA's World Cup plan",
-      "description": "The Football Association and Concacaf have both said they are \"deeply concerned\" by FIFA's proposed private investment plan",
-      "published": "2026-07-29T09:22:31Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49477957/fa-concacaf-deeply-concerned-gianni-infantino-fifa-world-cup-plan",
-      "image": "https://a.espncdn.com/photo/2026/0610/r1670926_1296x729_16-9.jpg"
     }
   ]
 }

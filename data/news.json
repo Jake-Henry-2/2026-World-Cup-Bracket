@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-07-31T18:03:56.636Z",
+  "lastUpdated": "2026-07-31T19:48:05.527Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "FIFA exec resigns, second exec says Infantino deceived staff over plan",
+      "description": "Two senior FIFA officials criticized Gianni Infantino's World Cup sell-off plan Friday with one resigning as a presidential adviser and a second saying staff were deceived by project that must not go ahead.",
+      "published": "2026-07-31T18:19:37Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49495214/fifa-exec-white-house-world-cup-panel-resigns-protest-infantino-plan",
+      "image": "https://a.espncdn.com/photo/2026/0706/r1685336_1296x729_16-9.jpg"
+    },
     {
       "headline": "Ivory Coast part ways with AFCON-winning coach Emerse Faé",
       "description": "The Ivorian Football Federation have confirmed that Emerse Faé will leave his position as head coach upon the expiry of his contract on July 31, bringing to an end his remarkable two-and-a-half-year spell.",
@@ -36,13 +43,6 @@
       "published": "2026-07-31T12:52:58Z",
       "link": "https://www.espn.com/soccer/story/_/id/49495670/fifa-64-team-world-cup-review-gianni-infantino-backlash",
       "image": "https://a.espncdn.com/photo/2025/1201/r1583334_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "SAFA confirm Bafana boss Hugo Broos exit as South Africa men's head coach",
-      "description": "South African Football Association (SAFA) president Danny Jordaan confirmed the departure of Bafana Bafana head coach Hugo Broos on Friday, the final day of his contract, after five years.",
-      "published": "2026-07-31T11:00:20Z",
-      "link": "https://www.espn.com/espn/story/_/id/49495429/safa-confirm-bafana-boss-hugo-broos-exit-south-africa-men-head-coach",
-      "image": "https://a.espncdn.com/photo/2026/0531/r1666262_1296x729_16-9.jpg"
     }
   ]
 }

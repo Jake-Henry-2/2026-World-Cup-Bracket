@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-07-31T22:52:19.411Z",
+  "lastUpdated": "2026-07-31T23:54:32.793Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Infantino scraps FIFA World Cup sell-off plan after backlash",
+      "description": "FIFA president Gianni Infantino has scrapped his proposal to sell stakes in the World Cup after widespread backlash, including from within global soccer's governing body, and a threatened boycott by European Nations.",
+      "published": "2026-07-31T23:53:17Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49500782/fifa-world-cup-investment-private-gianni-infantino",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695715_1296x729_16-9.jpg"
+    },
     {
       "headline": "FIFA exec resigns, second exec says Infantino deceived staff over plan",
       "description": "Two senior FIFA officials criticized Gianni Infantino's World Cup sell-off plan Friday with one resigning as a presidential adviser and a second saying staff were deceived by project that must not go ahead.",
@@ -36,13 +43,6 @@
       "published": "2026-07-31T15:41:06Z",
       "link": "https://www.espn.com/video/clip/_/id/49497087/how-fifa-boycott-affect-women-game",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0731/dm_260731_COM_SOC_Analysis_How_will_the_FIFA_boycott_affect_the_womenE28099s_game3F_GLOBAL_2026-07-31/dm_260731_COM_SOC_Analysis_How_will_the_FIFA_boycott_affect_the_womenE28099s_game3F_GLOBAL_2026-07-31.jpg"
-    },
-    {
-      "headline": "U.K. Prime Minister Andy Burnham becomes first leader of a major country to call on FIFA president Gianni Infantino to resign",
-      "description": "The U.K. Prime Minister Andy Burnham has called on FIFA President Gianni Infantino to resign over the plan to sell stakes in the World Cup to a private equity group.",
-      "published": "2026-07-31T15:28:09Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49496746/fifa-sell-plans-gianni-infantino-andy-burnham-uk-leader",
-      "image": "https://a.espncdn.com/photo/2026/0731/r1695968_1296x729_16-9.jpg"
     }
   ]
 }

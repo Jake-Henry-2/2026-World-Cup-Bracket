@@ -1,7 +1,35 @@
 {
-  "lastUpdated": "2026-07-31T10:12:30.710Z",
+  "lastUpdated": "2026-07-31T12:19:09.542Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "FIFA advances plans for 64-team World Cup review despite private investment backlash",
+      "description": "FIFA has started a consultation process over an expansion of the Men's World Cup to 64 teams, with documents seen by ESPN aiming for a decision by Aug. 14.",
+      "published": "2026-07-31T11:58:36Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49495670/fifa-64-team-world-cup-review-gianni-infantino-backlash",
+      "image": "https://a.espncdn.com/photo/2025/1201/r1583334_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "SAFA confirm Bafana boss Hugo Broos exit as South Africa men's head coach",
+      "description": "South African Football Association (SAFA) president Danny Jordaan confirmed the departure of Bafana Bafana head coach Hugo Broos on Friday, the final day of his contract, after five years.",
+      "published": "2026-07-31T11:00:20Z",
+      "link": "https://www.espn.com/espn/story/_/id/49495429/safa-confirm-bafana-boss-hugo-broos-exit-south-africa-men-head-coach",
+      "image": "https://a.espncdn.com/photo/2026/0531/r1666262_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Ogden: Infantino's role as FIFA president is becoming untenable",
+      "description": "Ogden: Infantino's role as FIFA president is becoming untenable",
+      "published": "2026-07-31T10:33:04Z",
+      "link": "https://www.espn.com/video/clip/_/id/49495287/infantino-role-fifa-president-becoming-untenable",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0731/dm_260731_COM_SOC_Analysis_Ogden_Infantinos_role_as_FIFA_president_is_becoming_untenable_20260731_GLOBAL/dm_260731_COM_SOC_Analysis_Ogden_Infantinos_role_as_FIFA_president_is_becoming_untenable_20260731_GLOBAL.jpg"
+    },
+    {
+      "headline": "FIFA exec on White House World Cup panel resigns to protest Infantino plan",
+      "description": "Senior FIFA adviser and former U.S. Soccer president Carlos Cordeiro, who represented the world soccer body on the White House Task Force for the World Cup, resigned Friday in protest at its private equity plan.",
+      "published": "2026-07-31T10:30:08Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49495214/fifa-exec-white-house-world-cup-panel-resigns-protest-infantino-plan",
+      "image": "https://a.espncdn.com/photo/2026/0706/r1685336_1296x729_16-9.jpg"
+    },
     {
       "headline": "Gianni Infantino dealt another blow as AFC joins UEFA, Concacaf in rejecting World Cup plan",
       "description": "FIFA's controversial plan to sell stakes in a World Cup company has been dealt what appears to be a fatal blow after the Asian Football Confederation (AFC) joined UEFA and Concacaf in rejecting it.",
@@ -15,34 +43,6 @@
       "published": "2026-07-31T09:02:32Z",
       "link": "https://www.espn.com/soccer/story/_/id/49488584/uefa-boycott-all-fifa-competitions-protest-world-cup-private-equity-plan",
       "image": "https://a.espncdn.com/photo/2026/0730/r1695697_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Casemiro calls Messi 'the god of football'",
-      "description": "Casemiro calls Messi 'the god of football'",
-      "published": "2026-07-31T08:21:28Z",
-      "link": "https://www.espn.com/video/clip/_/id/49494854/casemiro-calls-messi-god-football",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0731/dm_260731_COM_SOC_Presser_Casemiro_calls_Messi_the_god_of_football_20260731_GLOBAL/dm_260731_COM_SOC_Presser_Casemiro_calls_Messi_the_god_of_football_20260731_GLOBAL.jpg"
-    },
-    {
-      "headline": "FIFA defends World Cup private equity plan: 'Nobody is selling football'",
-      "description": "FIFA issued a statement early Friday saying that \"nobody is selling football\" and that it plans to continue the consultation process for the plan to sell stakes in the World Cup to private equity investors.",
-      "published": "2026-07-31T09:02:16Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49493858/fifa-defends-world-cup-private-equity-plan-selling-football",
-      "image": "https://a.espncdn.com/photo/2026/0731/r1695859_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Carlo Ancelotti: Tactical mistake during hydration break led to Brazil's World Cup exit",
-      "description": "Brazil coach Carlo Ancelotti has blamed the tactical changes he made during the second-half hydration break against Norway for his team's early exit from the World Cup.",
-      "published": "2026-07-30T10:05:29Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49486943/carlo-ancelotti-brazil-world-cup-exit-tactical-mistake-hydration-break",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695490_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Sources: UEFA to hold emergency Thursday meeting over FIFA's World Cup plan",
-      "description": "UEFA will hold an emergency meeting of its 55 members on Thursday, sources have told ESPN, to discuss plans, including a potential World Cup boycott, as it coordinates a response to FIFA's proposal to sell a stake in the",
-      "published": "2026-07-30T15:16:17Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49486493/uefa-emergency-meeting-thursday-fifa-private-investment-plan-world-cup-boycott-table",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695491_1296x729_16-9.jpg"
     }
   ]
 }

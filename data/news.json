@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-07-31T04:40:51.880Z",
+  "lastUpdated": "2026-07-31T07:35:11.769Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "FIFA defends World Cup private equity plan: 'Nobody is selling football'",
+      "description": "FIFA issued a statement early Friday saying that \"nobody is selling football\" and that it plans to continue the consultation process for the plan to sell stakes in the World Cup to private equity investors.",
+      "published": "2026-07-31T06:46:05Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49493858/fifa-defends-world-cup-private-equity-plan-selling-football",
+      "image": "https://a.espncdn.com/photo/2026/0731/r1695859_1296x729_16-9.jpg"
+    },
     {
       "headline": "UEFA vows World Cup boycott as Concacaf rejects FIFA private equity plan",
       "description": "FIFA president Gianni Infantino's plan to sell stakes in the World Cup to a private equity group was dealt a major blow on Thursday, after Concacaf joined UEFA in rejecting the proposal.",
@@ -36,13 +43,6 @@
       "published": "2026-07-30T08:33:55Z",
       "link": "https://www.espn.com/soccer/story/_/id/49470517/have-fifa-world-cup-withdrawal-enjoy-greatest-football-kits-shirts-soccer-jerseys-tournament-history",
       "image": "https://a.espncdn.com/photo/2026/0729/r1695261_1295x518_5-2.jpg"
-    },
-    {
-      "headline": "Australian players slam FIFA plan as Football Australia waits for more info",
-      "description": "Football Australia says it was unaware of FIFA's plans to sell stakes in tournaments such as the FIFA World Cup, but has confirmed it will not form a position until further information and consultation are provided.",
-      "published": "2026-07-30T08:58:01Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49484906/australian-players-slam-fifa-plan-football-australia-waits-more-info",
-      "image": "https://a.espncdn.com/photo/2024/0808/r1370173_1296x729_16-9.jpg"
     }
   ]
 }

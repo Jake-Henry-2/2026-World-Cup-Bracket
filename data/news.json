@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-08-01T05:42:10.216Z",
+  "lastUpdated": "2026-08-01T07:51:42.950Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Could Infantino lose FIFA presidency after World Cup plans were rejected?",
+      "description": "Despite making FIFA unimaginable fortunes, Gianni Infantino is wearing out his welcome. His scrapped plans to privatize the World Cup might be the last straw.",
+      "published": "2026-08-01T07:32:56Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49497503/fifa-world-cup-president-gianni-infantino-world-cup-selloff-plan-lose-power-analysis",
+      "image": "https://a.espncdn.com/photo/2026/0731/r1696005_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Why Infantino's World Cup plans never considered impact on women's soccer",
+      "description": "The 2027 Women's World Cup was set to be the first major tournament affected by FIFA's highly controversial plans, and it's too important to the women's game to be treated with such disrespect.",
+      "published": "2026-08-01T07:20:08Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49496364/fifa-president-gianni-infantino-world-cup-plan-uefa-boycott-womens-soccer-threat",
+      "image": "https://a.espncdn.com/photo/2026/0731/r1695910_1296x729_16-9.jpg"
+    },
     {
       "headline": "Infantino scraps FIFA World Cup sell-off plan after backlash",
       "description": "FIFA president Gianni Infantino scrapped his proposal to sell stakes in the World Cup after widespread backlash, including from within global soccer's governing body, and a threatened boycott by European nations.",
@@ -17,13 +31,6 @@
       "image": "https://a.espncdn.com/photo/2026/0706/r1685336_1296x729_16-9.jpg"
     },
     {
-      "headline": "Infantino's World Cup battle risks undermining years of progress in women's soccer",
-      "description": "As FIFA doubles down on its controversial World Cup plans and countries threaten to boycott, the 2027 Women's World Cup could be the first major tournament affected. That's a problem for women's soccer.",
-      "published": "2026-07-31T21:58:00Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49496364/fifa-president-gianni-infantino-world-cup-plan-uefa-boycott-womens-soccer-threat",
-      "image": "https://a.espncdn.com/photo/2026/0731/r1695910_1296x729_16-9.jpg"
-    },
-    {
       "headline": "Ivory Coast part ways with AFCON-winning coach Emerse Faé",
       "description": "The Ivorian Football Federation have confirmed that Emerse Faé will leave his position as head coach upon the expiry of his contract on July 31, bringing to an end his remarkable two-and-a-half-year spell.",
       "published": "2026-07-31T17:53:07Z",
@@ -36,13 +43,6 @@
       "published": "2026-07-31T16:49:15Z",
       "link": "https://www.espn.com/video/clip/_/id/49497531/has-infantino-position-fifa-president-become-untenable",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0731/dm_260731_COM_SOC_Analysis_Has_InfantinoE28099s_position_as_FIFA_president_become_untenable_GLOBAL_2026-07-31/dm_260731_COM_SOC_Analysis_Has_InfantinoE28099s_position_as_FIFA_president_become_untenable_GLOBAL_2026-07-31.jpg"
-    },
-    {
-      "headline": "How will the FIFA boycott affect the women's game?",
-      "description": "How will the FIFA boycott affect the women's game?",
-      "published": "2026-07-31T15:41:06Z",
-      "link": "https://www.espn.com/video/clip/_/id/49497087/how-fifa-boycott-affect-women-game",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0731/dm_260731_COM_SOC_Analysis_How_will_the_FIFA_boycott_affect_the_womenE28099s_game3F_GLOBAL_2026-07-31/dm_260731_COM_SOC_Analysis_How_will_the_FIFA_boycott_affect_the_womenE28099s_game3F_GLOBAL_2026-07-31.jpg"
     }
   ]
 }

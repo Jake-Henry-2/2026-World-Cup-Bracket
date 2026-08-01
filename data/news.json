@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-08-01T09:49:29.718Z",
+  "lastUpdated": "2026-08-01T11:07:29.461Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Gianni Infantino has 'lost UEFA's confidence' as World Cup investment plan fails",
+      "description": "FIFA president Gianni Infantino has \"lost the confidence\" of UEFA over a plan to sell stakes in a World Cup company to private investors, the European football governing body has said.",
+      "published": "2026-08-01T10:40:29Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49503505/gianni-infantino-lost-uefa-confidence-world-cup-investment-plan-fails",
+      "image": "https://a.espncdn.com/photo/2024/0208/r1288495_1296x729_16-9.jpg"
+    },
     {
       "headline": "Will Infantino survive as FIFA president after sell-off U-turn?",
       "description": "Will Infantino survive as FIFA president after sell-off U-turn?",
@@ -36,13 +43,6 @@
       "published": "2026-07-31T21:55:46Z",
       "link": "https://www.espn.com/soccer/story/_/id/49495214/fifa-exec-white-house-world-cup-panel-resigns-protest-infantino-plan",
       "image": "https://a.espncdn.com/photo/2026/0706/r1685336_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Ivory Coast part ways with AFCON-winning coach Emerse Faé",
-      "description": "The Ivorian Football Federation have confirmed that Emerse Faé will leave his position as head coach upon the expiry of his contract on July 31, bringing to an end his remarkable two-and-a-half-year spell.",
-      "published": "2026-07-31T17:53:07Z",
-      "link": "https://www.espn.com/espn/story/_/id/49497803/ivory-coast-part-ways-afcon-winning-coach-emerse-fae",
-      "image": "https://a.espncdn.com/photo/2024/0220/r1293600_1296x729_16-9.jpg"
     }
   ]
 }

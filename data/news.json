@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-08-02T18:13:18.839Z",
+  "lastUpdated": "2026-08-02T19:37:02.591Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Andy Burnham: Gianni Infantino isn't the right man to lead FIFA - we can't 'move on and forget' World Cup plan",
+      "description": "U.K. Prime Minister Andy Burnham has doubled down on his call for change at the top of FIFA, insisting football cannot \"move on and forget.\"",
+      "published": "2026-08-02T18:57:05Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49513925/andy-burnham-gianni-infantino-right-man-fifa-move-forget-world-cup-plan",
+      "image": "https://a.espncdn.com/photo/2026/0802/r1696768_1296x729_16-9.jpg"
+    },
     {
       "headline": "Real Madrid thank UEFA for 'protecting football' after FIFA abandon private equity proposal",
       "description": "Real Madrid have praised UEFA for helping protect football \"at a decisive moment\" after FIFA abandoned plans to sell stakes in a World Cup company to private investors.",
@@ -36,13 +43,6 @@
       "published": "2026-08-01T12:02:49Z",
       "link": "https://www.espn.com/video/clip/_/id/49503925/infantino-sell-plan-never-made-sense",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0801/dm_260801_Marcotti_Infantinos_sell_off_plan_never_made_sense/dm_260801_Marcotti_Infantinos_sell_off_plan_never_made_sense.jpg"
-    },
-    {
-      "headline": "Gianni Infantino has 'lost UEFA's confidence' as World Cup investment plan fails",
-      "description": "FIFA president Gianni Infantino has \"lost the confidence\" of UEFA over a plan to sell stakes in a World Cup company to private investors, the European football governing body has said.",
-      "published": "2026-08-01T18:47:22Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49503505/gianni-infantino-lost-uefa-confidence-world-cup-investment-plan-fails",
-      "image": "https://a.espncdn.com/photo/2024/0208/r1288495_1296x729_16-9.jpg"
     }
   ]
 }

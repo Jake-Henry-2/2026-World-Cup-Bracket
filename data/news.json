@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-08-03T11:48:42.622Z",
+  "lastUpdated": "2026-08-03T14:06:01.844Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Will lure of Europe threaten fresh Pochettino-USMNT partnership?",
+      "description": "Mauricio Pochettino will remain U.S. men's national team coach through the 2030 World Cup, but what happens if a big club comes calling before then?",
+      "published": "2026-08-03T13:38:30Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49519755/will-lure-european-club-football-threaten-fresh-mauricio-pochettino-usmnt-partnership",
+      "image": "https://a.espncdn.com/photo/2026/0803/r1697039_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Mauricio Pochettino signs new deal to remain as USMNT manager",
+      "description": "Mauricio Pochettino has signed a new contract to continue as manager of the U.S. men's national team, U.S. Soccer announced Monday morning.",
+      "published": "2026-08-03T13:42:45Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49519633/mauricio-pochettino-signs-deal-remain-usmnt-manager",
+      "image": "https://a.espncdn.com/photo/2026/0406/r1639368_1296x729_16-9.jpg"
+    },
     {
       "headline": "English and Welsh FAs withdraw support for Gianni Infantino FIFA re-election",
       "description": "The English and Welsh associations have formally withdrawn their support for Gianni Infantino as the pressure continues to mount on the FIFA president.",
@@ -10,9 +24,9 @@
       "image": "https://a.espncdn.com/photo/2026/0730/r1695715_1296x729_16-9.jpg"
     },
     {
-      "headline": "UEFA threatens Gianni Infantino with legal action over World Cup sell-off plan - sources",
-      "description": "UEFA has raised the possibility that it might take legal action against Gianni Infantino over his World Cup sell-off plan, sources have told ESPN.",
-      "published": "2026-08-03T10:17:59Z",
+      "headline": "Sources: UEFA threatens Gianni Infantino with legal action over World Cup sell-off plan",
+      "description": "UEFA has raised the possibility that it could take legal action against Gianni Infantino over his World Cup sell-off plan, sources told ESPN.",
+      "published": "2026-08-03T12:41:21Z",
       "link": "https://www.espn.com/soccer/story/_/id/49518982/uefa-threatens-gianni-infantino-legal-action-world-cup-sell-plan-sources",
       "image": "https://a.espncdn.com/photo/2026/0803/r1697001_1296x729_16-9.jpg"
     },
@@ -29,20 +43,6 @@
       "published": "2026-08-03T02:24:12Z",
       "link": "https://www.espn.com/soccer/story/_/id/49466177/socceroos-transfer-tracker-where-australias-stars-play-2026-27",
       "image": "https://a.espncdn.com/photo/2026/0603/r1667622_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Andy Burnham: Gianni Infantino isn't the right man to lead FIFA - we can't 'move on and forget' World Cup plan",
-      "description": "U.K. Prime Minister Andy Burnham has doubled down on his call for change at the top of FIFA, insisting football cannot \"move on and forget.\"",
-      "published": "2026-08-02T18:57:05Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49513925/andy-burnham-gianni-infantino-right-man-fifa-move-forget-world-cup-plan",
-      "image": "https://a.espncdn.com/photo/2026/0802/r1696768_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Real Madrid thank UEFA for 'protecting football' after FIFA abandon private equity proposal",
-      "description": "Real Madrid have praised UEFA for helping protect football \"at a decisive moment\" after FIFA abandoned plans to sell stakes in a World Cup company to private investors.",
-      "published": "2026-08-02T15:52:20Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49512906/real-madrid-thank-uefa-protecting-football-fifa-abandon-private-equity-proposal",
-      "image": "https://a.espncdn.com/photo/2026/0802/r1696702_1296x729_16-9.jpg"
     }
   ]
 }

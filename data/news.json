@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-08-03T04:47:36.046Z",
+  "lastUpdated": "2026-08-03T08:16:37.166Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Vozinha mobbed by fans as he arrives in Chile to join Colo Colo",
+      "description": "Vozinha mobbed by fans as he arrives in Chile to join Colo Colo",
+      "published": "2026-08-03T07:43:57Z",
+      "link": "https://www.espn.com/video/clip/_/id/49518399/vozinha-mobbed-fans-arrives-chile-join-colo-colo",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0803/dm_260803_COM_SOC_News_Vozinha_mobbed_by_fans_as_he_arrives_in_Chile_to_join_Colo_Colo__20260803_GLOBAL/dm_260803_COM_SOC_News_Vozinha_mobbed_by_fans_as_he_arrives_in_Chile_to_join_Colo_Colo__20260803_GLOBAL.jpg"
+    },
+    {
+      "headline": "Football Association of Wales withdraws support for Gianni Infantino re-election",
+      "description": "The Football Association of Wales (FAW) has withdrawn its support for FIFA president Gianni Infantino's re-election bid over his bungled effort to sell off stakes in the World Cup to private investors.",
+      "published": "2026-08-03T07:55:25Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49518390/football-association-wales-withdraws-support-gianni-infantino-reelection-fifa-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695715_1296x729_16-9.jpg"
+    },
     {
       "headline": "Socceroos transfer tracker: Where Australia's stars will play in 2026-27",
       "description": "There's nothing like a World Cup to put young stars in the shop window! With that in mind, ESPN has assembled a list of all the Socceroos' post-tournament transfers, all in one place.",
@@ -29,20 +43,6 @@
       "published": "2026-08-02T13:28:42Z",
       "link": "https://www.espn.com/soccer/story/_/id/49511728/why-fifa-president-infantino-plans-sell-world-cup-made-no-sense",
       "image": "https://a.espncdn.com/photo/2026/0730/r1695474_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Messi tracker: Goals, assists, key moments in 2026",
-      "description": "ESPN provides game-by-game analysis of Lionel Messi's performances for Inter Miami and Argentina.",
-      "published": "2026-08-02T03:17:29Z",
-      "link": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
-      "image": "https://a.espncdn.com/photo/2026/0617/r1674593_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Marcotti: Infantino's sell-off plan never made sense",
-      "description": "Marcotti: Infantino's sell-off plan never made sense",
-      "published": "2026-08-01T12:02:49Z",
-      "link": "https://www.espn.com/video/clip/_/id/49503925/infantino-sell-plan-never-made-sense",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0801/dm_260801_Marcotti_Infantinos_sell_off_plan_never_made_sense/dm_260801_Marcotti_Infantinos_sell_off_plan_never_made_sense.jpg"
     }
   ]
 }

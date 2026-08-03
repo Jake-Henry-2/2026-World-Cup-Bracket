@@ -1,20 +1,27 @@
 {
-  "lastUpdated": "2026-08-03T08:16:37.166Z",
+  "lastUpdated": "2026-08-03T11:48:42.622Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "English and Welsh FAs withdraw support for Gianni Infantino FIFA re-election",
+      "description": "The English and Welsh associations have formally withdrawn their support for Gianni Infantino as the pressure continues to mount on the FIFA president.",
+      "published": "2026-08-03T10:22:12Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49518390/football-association-wales-withdraws-support-gianni-infantino-reelection-fifa-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695715_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "UEFA threatens Gianni Infantino with legal action over World Cup sell-off plan - sources",
+      "description": "UEFA has raised the possibility that it might take legal action against Gianni Infantino over his World Cup sell-off plan, sources have told ESPN.",
+      "published": "2026-08-03T10:17:59Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49518982/uefa-threatens-gianni-infantino-legal-action-world-cup-sell-plan-sources",
+      "image": "https://a.espncdn.com/photo/2026/0803/r1697001_1296x729_16-9.jpg"
+    },
     {
       "headline": "Vozinha mobbed by fans as he arrives in Chile to join Colo Colo",
       "description": "Vozinha mobbed by fans as he arrives in Chile to join Colo Colo",
       "published": "2026-08-03T07:43:57Z",
       "link": "https://www.espn.com/video/clip/_/id/49518399/vozinha-mobbed-fans-arrives-chile-join-colo-colo",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0803/dm_260803_COM_SOC_News_Vozinha_mobbed_by_fans_as_he_arrives_in_Chile_to_join_Colo_Colo__20260803_GLOBAL/dm_260803_COM_SOC_News_Vozinha_mobbed_by_fans_as_he_arrives_in_Chile_to_join_Colo_Colo__20260803_GLOBAL.jpg"
-    },
-    {
-      "headline": "Football Association of Wales withdraws support for Gianni Infantino re-election",
-      "description": "The Football Association of Wales (FAW) has withdrawn its support for FIFA president Gianni Infantino's re-election bid over his bungled effort to sell off stakes in the World Cup to private investors.",
-      "published": "2026-08-03T07:55:25Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49518390/football-association-wales-withdraws-support-gianni-infantino-reelection-fifa-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695715_1296x729_16-9.jpg"
     },
     {
       "headline": "Socceroos transfer tracker: Where Australia's stars will play in 2026-27",
@@ -36,13 +43,6 @@
       "published": "2026-08-02T15:52:20Z",
       "link": "https://www.espn.com/soccer/story/_/id/49512906/real-madrid-thank-uefa-protecting-football-fifa-abandon-private-equity-proposal",
       "image": "https://a.espncdn.com/photo/2026/0802/r1696702_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Why Infantino's plans to sell off World Cup made no sense",
-      "description": "FIFA president Gianni Infantino has gambled unsuccessfully on questionable ideas before, but his World Cup plans were ham-fisted and delusional from both a business and political perspective.",
-      "published": "2026-08-02T13:28:42Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49511728/why-fifa-president-infantino-plans-sell-world-cup-made-no-sense",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695474_1296x729_16-9.jpg"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-08-04T14:40:12.761Z",
+  "lastUpdated": "2026-08-04T16:31:12.698Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "First USMNT fixtures after new Mauricio Pochettino deal revealed",
+      "description": "The United States men's national team returns to action for the first time since the 2026 World Cup during the September/October FIFA international window, hosting Peru, Chile, Canada and Mexico in friendlies across the ",
+      "published": "2026-08-04T14:59:56Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49528558/first-usmnt-fixtures-new-mauricio-pochettino-deal-revealed",
+      "image": "https://a.espncdn.com/photo/2026/0624/r1678650_1296x729_16-9.jpg"
+    },
     {
       "headline": "Pochettino will now face a different pressure as USMNT boss",
       "description": "Now that he has four years to plan for another World Cup, the demands on Mauricio Pochettino will be entirely different than what he has encountered so far.",
@@ -36,13 +43,6 @@
       "published": "2026-08-03T22:58:19Z",
       "link": "https://www.espn.com/video/clip/_/id/49524593/has-iraola-backed-liverpool-manager",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0803/dm_260803_COM_SOC_Analysis_Burnley3A_Infantino_thinks_heE28099s_untouchable_as_FIFA_president__GLOBAL_2026-08-03/dm_260803_COM_SOC_Analysis_Burnley3A_Infantino_thinks_heE28099s_untouchable_as_FIFA_president__GLOBAL_2026-08-03.jpg"
-    },
-    {
-      "headline": "Will Pochettino leave USMNT before 2030?",
-      "description": "Will Pochettino leave USMNT before 2030?",
-      "published": "2026-08-03T23:00:18Z",
-      "link": "https://www.espn.com/video/clip/_/id/49524577/will-pochettino-leave-usmnt-2030",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0803/dm_260803_COM_SOC_Analysis_Will_Pochettino_leave_USMNT_before_20303F__GLOBAL_2026-08-03/dm_260803_COM_SOC_Analysis_Will_Pochettino_leave_USMNT_before_20303F__GLOBAL_2026-08-03.jpg"
     }
   ]
 }

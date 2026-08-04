@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-08-04T12:12:13.284Z",
+  "lastUpdated": "2026-08-04T14:40:12.761Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Pochettino will now face a different pressure as USMNT boss",
+      "description": "Now that he has four years to plan for another World Cup, the demands on Mauricio Pochettino will be entirely different than what he has encountered so far.",
+      "published": "2026-08-04T13:21:05Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49525299/pochettino-now-face-different-pressure-usmnt-boss",
+      "image": "https://a.espncdn.com/photo/2026/0804/r1697370_1296x729_16-9.jpg"
+    },
     {
       "headline": "World Cup referee Anthony Taylor lands new role in Turkey",
       "description": "English World Cup referee Anthony Taylor has taken up a post as director of elite refereeing with the Turkish Football Federation.",
@@ -12,7 +19,7 @@
     {
       "headline": "Arsène Wenger: Gianni Infantino's FIFA World Cup sell-off U-turn 'absolutely necessary'",
       "description": "FIFA's chief of global football development Arsene Wenger has said Gianni Infantino's decision to withdraw from a plan to sell stakes in a World Cup company to private investors was \"absolutely necessary and beyond quest",
-      "published": "2026-08-04T11:42:25Z",
+      "published": "2026-08-04T14:24:57Z",
       "link": "https://www.espn.com/soccer/story/_/id/49527513/arsene-wenger-gianni-infantino-fifa-world-cup-sell-u-turn-absolutely-necessary",
       "image": "https://a.espncdn.com/photo/2026/0804/r1697427_1296x729_16-9.jpg"
     },
@@ -36,13 +43,6 @@
       "published": "2026-08-03T23:00:18Z",
       "link": "https://www.espn.com/video/clip/_/id/49524577/will-pochettino-leave-usmnt-2030",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0803/dm_260803_COM_SOC_Analysis_Will_Pochettino_leave_USMNT_before_20303F__GLOBAL_2026-08-03/dm_260803_COM_SOC_Analysis_Will_Pochettino_leave_USMNT_before_20303F__GLOBAL_2026-08-03.jpg"
-    },
-    {
-      "headline": "Gomez: Pochettino won't be with USMNT in 2030 despite contract extension",
-      "description": "Gomez: Pochettino won't be with USMNT in 2030 despite contract extension",
-      "published": "2026-08-03T17:46:11Z",
-      "link": "https://www.espn.com/video/clip/_/id/49521919/pochettino-usmnt-2030-contract-extension",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0803/dm_260803_COM_SOC_Analysis_Gomez3A_Pochettino_wonE28099t_be_with_USMNT_in_2030_despite_contract_extension_GLOBAL_2/dm_260803_COM_SOC_Analysis_Gomez3A_Pochettino_wonE28099t_be_with_USMNT_in_2030_despite_contract_extension_GLOBAL_2.jpg"
     }
   ]
 }

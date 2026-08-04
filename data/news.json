@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-08-04T10:03:08.886Z",
+  "lastUpdated": "2026-08-04T12:12:13.284Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "World Cup referee Anthony Taylor lands new role in Turkey",
+      "description": "English World Cup referee Anthony Taylor has taken up a post as director of elite refereeing with the Turkish Football Federation.",
+      "published": "2026-08-04T11:58:47Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49527911/world-cup-referee-anthony-taylor-lands-new-role-turkey",
+      "image": "https://a.espncdn.com/photo/2026/0721/r1692095_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Arsène Wenger: Gianni Infantino's FIFA World Cup sell-off U-turn 'absolutely necessary'",
+      "description": "FIFA's chief of global football development Arsene Wenger has said Gianni Infantino's decision to withdraw from a plan to sell stakes in a World Cup company to private investors was \"absolutely necessary and beyond quest",
+      "published": "2026-08-04T11:42:25Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49527513/arsene-wenger-gianni-infantino-fifa-world-cup-sell-u-turn-absolutely-necessary",
+      "image": "https://a.espncdn.com/photo/2026/0804/r1697427_1296x729_16-9.jpg"
+    },
     {
       "headline": "Burley: Infantino thinks he's untouchable as FIFA president",
       "description": "Burley: Infantino thinks he's untouchable as FIFA president",
@@ -29,20 +43,6 @@
       "published": "2026-08-03T17:46:11Z",
       "link": "https://www.espn.com/video/clip/_/id/49521919/pochettino-usmnt-2030-contract-extension",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0803/dm_260803_COM_SOC_Analysis_Gomez3A_Pochettino_wonE28099t_be_with_USMNT_in_2030_despite_contract_extension_GLOBAL_2/dm_260803_COM_SOC_Analysis_Gomez3A_Pochettino_wonE28099t_be_with_USMNT_in_2030_despite_contract_extension_GLOBAL_2.jpg"
-    },
-    {
-      "headline": "Pochettino: Extending with USMNT was a great opportunity for me",
-      "description": "Pochettino: Extending with USMNT was a great opportunity for me",
-      "published": "2026-08-03T16:57:53Z",
-      "link": "https://www.espn.com/video/clip/_/id/49521510/extending-usmnt-was-great-opportunity-me",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0803/dm_260803_COM_SOC_Analysis_Pochettino3A_Extending_with_USMNT_was_a_great_opportunity_for_me__GLOBAL_2026-08-0/dm_260803_COM_SOC_Analysis_Pochettino3A_Extending_with_USMNT_was_a_great_opportunity_for_me__GLOBAL_2026-08-0.jpg"
-    },
-    {
-      "headline": "Will lure of Europe threaten fresh Pochettino-USMNT partnership?",
-      "description": "Mauricio Pochettino will remain U.S. men's national team coach through the 2030 World Cup, but what happens if a big club comes calling before then?",
-      "published": "2026-08-04T06:21:05Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49519755/will-lure-european-club-football-threaten-fresh-mauricio-pochettino-usmnt-partnership",
-      "image": "https://a.espncdn.com/photo/2026/0624/r1678650_1296x729_16-9.jpg"
     }
   ]
 }

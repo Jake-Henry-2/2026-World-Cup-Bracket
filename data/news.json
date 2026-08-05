@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-08-05T04:22:05.250Z",
+  "lastUpdated": "2026-08-05T07:09:25.915Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Gianni Infantino calls emergency FIFA staff meeting as pressure grows - report",
+      "description": "Gianni Infantino has called an emergency meeting of FIFA staff in Rabat on Wednesday as pressure on the president ramps up, the Press Association understands.",
+      "published": "2026-08-05T06:48:45Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49534594/gianni-infantino-calls-emergency-fifa-staff-meeting-pressure-grows",
+      "image": "https://a.espncdn.com/photo/2026/0610/r1670908_1296x729_16-9.jpg"
+    },
     {
       "headline": "Does football need to vote against Infantino?",
       "description": "Does football need to vote against Infantino?",
@@ -36,13 +43,6 @@
       "published": "2026-08-04T17:03:46Z",
       "link": "https://www.espn.com/soccer/story/_/id/49529781/cape-verde-coach-bubista-steps-historic-world-cup-campaign",
       "image": "https://a.espncdn.com/photo/2026/0627/r1680374_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "First USMNT fixtures after new Mauricio Pochettino deal revealed",
-      "description": "The United States men's national team returns to action for the first time since the 2026 World Cup during the September/October FIFA international window, hosting Peru, Chile, Canada and Mexico in friendlies across the ",
-      "published": "2026-08-04T16:41:45Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49528558/first-usmnt-fixtures-new-mauricio-pochettino-deal-revealed",
-      "image": "https://a.espncdn.com/photo/2026/0624/r1678650_1296x729_16-9.jpg"
     }
   ]
 }

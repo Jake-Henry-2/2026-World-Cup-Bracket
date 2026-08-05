@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-08-05T07:09:25.915Z",
+  "lastUpdated": "2026-08-05T09:48:18.870Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Loved the World Cup? Here's your guide to European soccer, 2026-27",
+      "description": "So, you're keen to extend your soccer love after a wonderful summer? Well let Bill Connelly count 10 things you need to know before the new European seasons kick off in mid-August.",
+      "published": "2026-08-05T08:00:22Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49523086/world-cup-love-premier-league-bundesliga-laliga-season-preview-liverpool-man-city-barcelona-bayern",
+      "image": "https://a.espncdn.com/photo/2026/0805/r1697829_1295x729_16-9.png"
+    },
     {
       "headline": "Gianni Infantino calls emergency FIFA staff meeting as pressure grows - report",
       "description": "Gianni Infantino has called an emergency meeting of FIFA staff in Rabat on Wednesday as pressure on the president ramps up, the Press Association understands.",
@@ -36,13 +43,6 @@
       "published": "2026-08-04T22:20:39Z",
       "link": "https://www.espn.com/soccer/story/_/id/49527513/arsene-wenger-gianni-infantino-fifa-world-cup-sell-u-turn-absolutely-necessary",
       "image": "https://a.espncdn.com/photo/2026/0804/r1697427_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Cape Verde coach Bubista steps down after historic World Cup campaign",
-      "description": "Cape Verde coach Bubista, who led the World Cup debutants to a stellar tournament, joined Moroccan club RS Berkane on Tuesday.",
-      "published": "2026-08-04T17:03:46Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49529781/cape-verde-coach-bubista-steps-historic-world-cup-campaign",
-      "image": "https://a.espncdn.com/photo/2026/0627/r1680374_1296x729_16-9.jpg"
     }
   ]
 }

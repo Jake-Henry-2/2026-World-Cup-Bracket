@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-08-06T07:17:09.459Z",
+  "lastUpdated": "2026-08-06T10:03:10.826Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Argentina announces commemorative day to celebrate World Cup win over England",
+      "description": "Argentina's Football Association unanimously approved for July 15 to be 'National Football Teams Day' in commemoration of the Albiceleste's victory over England in the semifinals of the 2026 World Cup.",
+      "published": "2026-08-06T09:32:07Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49543519/argentina-announce-commemorative-day-celebrate-world-cup-win-england",
+      "image": "https://a.espncdn.com/photo/2026/0716/r1689834_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "CAF's silence is deafening, but Africa can be swing vote in FIFA's Infantino saga",
+      "description": "Since Gianni Infantino's plan to 'sell the FIFA World Cup' scandal first broke, the Confederation of African Football has been conspicuous by its silence.",
+      "published": "2026-08-06T09:10:33Z",
+      "link": "https://www.espn.com/espn/story/_/id/49543506/caf-silence-deafening-africa-swing-vote-fifa-infantino-saga",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692751_1296x729_16-9.jpg"
+    },
     {
       "headline": "Socceroos transfer tracker: Where Australia's stars will play in 2026-27",
       "description": "There's nothing like a World Cup to put young stars in the shop window! With that in mind, ESPN has assembled a list of all the Socceroos' post-tournament transfers, all in one place.",
@@ -29,20 +43,6 @@
       "published": "2026-08-05T23:55:08Z",
       "link": "https://www.espn.com/soccer/story/_/id/49540626/gianni-infantino-fifa-president-meeting-morocco-support",
       "image": "https://a.espncdn.com/photo/2026/0805/r1698132_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Canada PM Carney has no confidence in FIFA's Infantino",
-      "description": "Canadian Prime Minister Mark Carney said Wednesday he no longer has confidence in FIFA President Gianni Infantino, adding to growing pressure on the soccer leader after his abandoned plan to sell stakes in the World Cup ",
-      "published": "2026-08-05T21:32:06Z",
-      "link": "https://www.espn.com/espn/story/_/id/49540216/canada-pm-carney-no-confidence-fifa-infantino",
-      "image": "https://a.espncdn.com/photo/2026/0415/r1644079_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "European leagues pile pressure on Infantino amid 'crisis' meeting",
-      "description": "The association of European soccer leagues called for governance reform of FIFA on Wednesday, adding to the mounting pressure on president Gianni Infantino following his failed plan",
-      "published": "2026-08-05T20:41:42Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49537988/european-leagues-fifa-gianni-infantino-meeting",
-      "image": "https://a.espncdn.com/photo/2026/0730/r1695694_1296x729_16-9.jpg"
     }
   ]
 }

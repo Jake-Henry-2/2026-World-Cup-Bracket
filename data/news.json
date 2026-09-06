@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-06T10:10:41.492Z",
+  "lastUpdated": "2026-09-06T13:40:55.203Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "FIFA president Gianni Infantino to stand for reelection in 2027",
+      "description": "FIFA president Gianni Infantino has reiterated his desire to stand for reelection despite the continuing controversy surrounding his leadership.",
+      "published": "2026-09-06T13:32:29Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49847747/fifa-president-gianni-infantino-stand-re-election-2027",
+      "image": "https://a.espncdn.com/photo/2026/0906/r1712226_1296x729_16-9.jpg"
+    },
     {
       "headline": "Maresca: Enzo Fernandez is 'a winner'",
       "description": "Maresca: Enzo Fernandez is 'a winner'",
@@ -36,13 +43,6 @@
       "published": "2026-09-01T14:42:23Z",
       "link": "https://www.espn.com/video/clip/_/id/49793781/wear-argentina-no-10-jersey-quite-some",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0901/dm_260901_Gomez_Nobody_should_wear_the_Argentina_number_10_jersey_for_quite_some_time/dm_260901_Gomez_Nobody_should_wear_the_Argentina_number_10_jersey_for_quite_some_time.jpg"
-    },
-    {
-      "headline": "Lionel Messi's Argentina career: the stats, records and how he compares to Cristiano Ronaldo",
-      "description": "After Lionel Messi announced his international retirement, ESPN takes a look at the numbers behind his storied Argentina career.",
-      "published": "2026-08-31T19:49:09Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49784066/lionel-messi-argentina-career-stats-records-how-compares-cristiano-ronaldo",
-      "image": "https://a.espncdn.com/photo/2026/0831/r1709497_1296x729_16-9.jpg"
     }
   ]
 }

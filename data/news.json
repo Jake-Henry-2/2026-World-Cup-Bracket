@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-07T09:46:30.539Z",
+  "lastUpdated": "2026-09-07T15:19:17.464Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Belgian FA won't back Infantino's FIFA reelection, cites Balogun red card ban U-turn",
+      "description": "The Belgian football federation said it can't support Gianni Infantino's bid for another term as FIFA president, citing transparency and governance issues and the way FIFA handled clearing Folarin Balogun from a mandator",
+      "published": "2026-09-07T12:27:29Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49857842/gianni-infantino-fifa-belgian-fa-belgium-world-cup-2026-folarin-balogun-red-card-overturned-usmnt",
+      "image": "https://a.espncdn.com/photo/2026/0907/r1712695_1296x729_16-9.jpg"
+    },
     {
       "headline": "FIFA president Gianni Infantino to stand for reelection in 2027",
       "description": "Gianni Infantino will run for reelection as FIFA president despite uncertainty over his future in the position following his failed attempt to raise $20 billion with the sale of a stake in future World Cups to private in",
@@ -36,13 +43,6 @@
       "published": "2026-09-01T22:30:48Z",
       "link": "https://www.espn.com/soccer/story/_/id/49796943/fifa-world-cup-sell-josh-kushner-gianni-infantino",
       "image": "https://a.espncdn.com/photo/2026/0901/r1710146_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Gomez: Nobody should wear the Argentina No. 10 jersey for quite some time!",
-      "description": "Gomez: Nobody should wear the Argentina No. 10 jersey for quite some time!",
-      "published": "2026-09-01T14:42:23Z",
-      "link": "https://www.espn.com/video/clip/_/id/49793781/wear-argentina-no-10-jersey-quite-some",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0901/dm_260901_Gomez_Nobody_should_wear_the_Argentina_number_10_jersey_for_quite_some_time/dm_260901_Gomez_Nobody_should_wear_the_Argentina_number_10_jersey_for_quite_some_time.jpg"
     }
   ]
 }

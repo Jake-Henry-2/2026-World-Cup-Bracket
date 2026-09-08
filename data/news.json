@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-08T09:16:26.387Z",
+  "lastUpdated": "2026-09-08T13:41:36.385Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Cape Verde's Vozinha nominated for Goalkeeper of the Year award at Ballon d'Or after World Cup heroics",
+      "description": "Cape Verde goalkeeper Vozinha has been nominated for the men's Goalkeeper of the Year award at the 2026 Ballon d'Or.",
+      "published": "2026-09-08T12:27:56Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49868020/cape-verde-colo-colo-vozinha-nominated-goalkeeper-year-award",
+      "image": "https://a.espncdn.com/photo/2026/0908/r1713164_1296x729_16-9.jpg"
+    },
     {
       "headline": "Belgian FA won't back Infantino's FIFA reelection, cites Balogun red card ban U-turn",
       "description": "The Belgian football federation said it can't support Gianni Infantino's bid for another term as FIFA president, citing transparency and governance issues and the way FIFA handled clearing Folarin Balogun from a mandator",
@@ -36,13 +43,6 @@
       "published": "2026-09-02T01:17:19Z",
       "link": "https://www.espn.com/soccer/story/_/id/49466177/socceroos-transfer-tracker-where-australias-stars-play-2026-27",
       "image": "https://a.espncdn.com/photo/2026/0902/r1710219_1295x729_16-9.png"
-    },
-    {
-      "headline": "Kushner says he regrets role in FIFA's World Cup sell-off plan",
-      "description": "FIFA's intended investment partner, Josh Kushner, said he regrets getting involved in Gianni Infantino's failed World Cup sell-off plan.",
-      "published": "2026-09-01T22:30:48Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49796943/fifa-world-cup-sell-josh-kushner-gianni-infantino",
-      "image": "https://a.espncdn.com/photo/2026/0901/r1710146_1296x729_16-9.jpg"
     }
   ]
 }

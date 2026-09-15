@@ -1,11 +1,18 @@
 {
-  "lastUpdated": "2026-09-15T21:48:12.617Z",
+  "lastUpdated": "2026-09-15T23:45:46.173Z",
   "source": "ESPN",
   "articles": [
     {
+      "headline": "Thomas Tuchel: 'Regret I didn't eat some grass' after England's Azteca win over Mexico",
+      "description": "Thomas Tuchel has revealed he wished he had eaten some of the grass after England's memorable FIFA World Cup win over Mexico.",
+      "published": "2026-09-15T22:36:44Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49952392/thomas-tuchel-wish-ate-some-azteca-grass-england-stunning-world-cup-win-mexico",
+      "image": "https://a.espncdn.com/photo/2026/0915/r1717253_1296x729_16-9.jpg"
+    },
+    {
       "headline": "Lionel Messi called up for Oct. 6 Argentina friendly as 'last tango' farewell",
-      "description": "Despite announcing his international retirement, Lionel Messi was included Tuesday in Argentina's squad for a farewell friendly against Benin on October 6.",
-      "published": "2026-09-15T21:46:46Z",
+      "description": "Despite announcing his international retirement, Lionel Messi was included Tuesday in Argentina's squad for a farewell friendly against Benin on Oct. 6.",
+      "published": "2026-09-15T22:25:07Z",
       "link": "https://www.espn.com/soccer/story/_/id/49952015/lionel-messi-called-argentina-friendly-last-tango-farewell",
       "image": "https://a.espncdn.com/photo/2026/0915/r1717226_1296x729_16-9.jpg"
     },
@@ -36,13 +43,6 @@
       "published": "2026-09-14T22:00:13Z",
       "link": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
       "image": "https://a.espncdn.com/photo/2026/0617/r1674593_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Ecuador hires Marcelo Gallardo through 2030 World Cup",
-      "description": "Marcelo Gallardo, one of the most decorated coaches in the history of the Argentine league, has reached an agreement to manage Ecuador ahead of the 2030 FIFA World Cup.",
-      "published": "2026-09-14T17:36:41Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49941399/ecuador-hires-marcelo-gallardo-2030-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0914/r1716613_1024x576_16-9.jpg"
     }
   ]
 }

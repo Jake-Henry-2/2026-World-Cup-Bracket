@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-09-17T11:35:23.138Z",
+  "lastUpdated": "2026-09-17T15:38:31.111Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Inter Miami manager: 'It would be only fair' for Messi to win Ballon d'Or again",
+      "description": "Inter Miami manager: 'It would be only fair' for Messi to win Ballon d'Or again",
+      "published": "2026-09-17T13:53:11Z",
+      "link": "https://www.espn.com/video/clip/_/id/49964659/only-fair-messi-win-ballon-dor-again",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0917/dm_260917_Inter_Miami_manager_It_would_be_only_fair_for_Messi_to_win_Ballon_dOr_again/dm_260917_Inter_Miami_manager_It_would_be_only_fair_for_Messi_to_win_Ballon_dOr_again.jpg"
+    },
+    {
+      "headline": "Sources: English FA chief demands Gianni Infantino releases FIFA documents on private equity proposal and Folarin Balogun decision",
+      "description": "FIFA vice president and FA chairwoman Debbie Hewitt has demanded FIFA president Gianni Infantino release all documents concerning his proposal for private investors to buy stakes in the World Cup, sources told ESPN.",
+      "published": "2026-09-17T15:23:13Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49964525/fa-chief-demands-gianni-infantino-releases-fifa-documents-private-equity-proposal-folarin-balogun-decision",
+      "image": "https://a.espncdn.com/photo/2026/0917/r1718041_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "UEFA VP: Gianni Infantino World Cup plan 'struck at the heart of the game'",
+      "description": "Gianni Infantino's plan to sell off a stake in the World Cup \"struck at the very heart of the principles of the game,\" UEFA vice-president Laura McAllister has told ESPN.",
+      "published": "2026-09-17T14:19:51Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49963369/uefa-vp-laura-mcallister-gianni-infantino-world-cup-plan-struck-very-heart-game",
+      "image": "https://a.espncdn.com/photo/2026/0806/r1698399_1296x729_16-9.jpg"
+    },
     {
       "headline": "Barcelona president Joan Laporta says Camp Nou should host 2030 World Cup final",
       "description": "Barcelona president Joan Laporta has argued that the Camp Nou should host the 2030 World Cup final.",
@@ -22,27 +43,6 @@
       "published": "2026-09-16T19:28:31Z",
       "link": "https://www.espn.com/soccer/story/_/id/49959154/england-thomas-tuchel-argentina-substitutions-2026-world-cup",
       "image": "https://a.espncdn.com/photo/2026/0916/r1717694_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Thomas Tuchel: 'Regret I didn't eat some grass' after England's Azteca win over Mexico",
-      "description": "Thomas Tuchel has revealed he wished he had eaten some of the grass after England's memorable FIFA World Cup win over Mexico.",
-      "published": "2026-09-15T22:36:44Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49952392/thomas-tuchel-wish-ate-some-azteca-grass-england-stunning-world-cup-win-mexico",
-      "image": "https://a.espncdn.com/photo/2026/0915/r1717253_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Lionel Messi called up for Oct. 6 Argentina friendly for 'last tango'",
-      "description": "Despite announcing his international retirement, Lionel Messi was included Tuesday in Argentina's squad for a farewell friendly against Benin on Oct. 6.",
-      "published": "2026-09-16T00:52:38Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49952015/lionel-messi-called-argentina-friendly-last-tango-farewell",
-      "image": "https://a.espncdn.com/photo/2026/0915/r1717226_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "James Rodríguez retires from Colombia after 15-year career",
-      "description": "James Rodríguez announced his retirement from Colombia's national team on Tuesday after 15 years on the international stage.",
-      "published": "2026-09-15T19:28:00Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49950986/james-rodriguez-retires-colombia",
-      "image": "https://a.espncdn.com/photo/2026/0205/r1610909_1296x729_16-9.jpg"
     }
   ]
 }

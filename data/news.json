@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-09-23T10:07:00.468Z",
+  "lastUpdated": "2026-09-23T14:59:22.961Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "After Messi and Neymar, who will be next No. 10s for Brazil, Argentina?",
+      "description": "With Lionel Messi and Neymar set to leave the Argentina and Brazil teams, respectively, who will step up to wear two of South America's most historic shirts?",
+      "published": "2026-09-23T14:52:45Z",
+      "link": "https://www.espn.com/soccer/story/_/id/50006618/after-lionel-messi-neymar-brazil-argentinas-next-number-10",
+      "image": "https://a.espncdn.com/photo/2026/0922/r1720466_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Guimaraes: World Cup penalty miss vs. Norway is a scar that still hurts",
+      "description": "Guimaraes: World Cup penalty miss vs. Norway is a scar that still hurts",
+      "published": "2026-09-23T14:44:29Z",
+      "link": "https://www.espn.com/video/clip/_/id/50013350/world-cup-penalty-miss-vs-norway-scar-hurts",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0923/dm_260923_Guimaraes_World_Cup_penalty_miss_vs_Norway_is_a_scar_that_still_hurts/dm_260923_Guimaraes_World_Cup_penalty_miss_vs_Norway_is_a_scar_that_still_hurts.jpg"
+    },
+    {
+      "headline": "UEFA's Aleksander Ceferin: Trust still broken in football after FIFA, Gianni Infantino controversy",
+      "description": "UEFA president Aleksander Ceferin has said trust in world football is still broken despite FIFA abandoning its controversial plan to sell a stake in its commercial rights to private investors.",
+      "published": "2026-09-23T12:48:59Z",
+      "link": "https://www.espn.com/soccer/story/_/id/50012609/trust-broken-football-fifa-gianni-infantino-uefa-aleksander-ceferin",
+      "image": "https://a.espncdn.com/photo/2026/0803/r1697001_1296x729_16-9.jpg"
+    },
     {
       "headline": "Gomez: Jonathan David and Julian Alvarez should play side-by-side",
       "description": "Gomez: Jonathan David and Julian Alvarez should play side-by-side",
@@ -22,27 +43,6 @@
       "published": "2026-09-22T07:55:19Z",
       "link": "https://www.espn.com/video/clip/_/id/50003632/best-yet-come-spanish-national-team",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0922/dm_260922_COM_SOC_Analysis_De_la_Fuente3A_The_best_is_yet_to_come_for_the_Spanish_national_team_GLOBAL_2026-0/dm_260922_COM_SOC_Analysis_De_la_Fuente3A_The_best_is_yet_to_come_for_the_Spanish_national_team_GLOBAL_2026-0.jpg"
-    },
-    {
-      "headline": "Grading Bafana Bafana players' overseas moves since the FIFA World Cup",
-      "description": "South Africa returned to the FIFA World Cup in 2026 after a 16-year absence, and since their round of 32 exit at the hands of Canada, Bafana Bafana players have secured several noteworthy moves abroad.",
-      "published": "2026-09-22T07:35:09Z",
-      "link": "https://www.espn.com/espn/story/_/id/49947673/grading-bafana-bafana-players-overseas-moves-fifa-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/0915/r1716934_1158x651_16-9.png"
-    },
-    {
-      "headline": "Infantino open to FIFA governance review, reforms after backlash",
-      "description": "FIFA President Gianni Infantino has indicated he'd be open to an independent review of its governance system and signaled a willingness to consider reforms.",
-      "published": "2026-09-22T01:11:19Z",
-      "link": "https://www.espn.com/soccer/story/_/id/50001668/infantino-open-fifa-governance-review-reforms-backlash",
-      "image": "https://a.espncdn.com/photo/2026/0806/r1698399_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Messi tracker: Goals, assists, key moments in 2026",
-      "description": "ESPN provides game-by-game analysis of Lionel Messi's performances for Inter Miami and Argentina.",
-      "published": "2026-09-21T02:08:16Z",
-      "link": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
-      "image": "https://a.espncdn.com/photo/2026/0617/r1674593_1296x729_16-9.jpg"
     }
   ]
 }

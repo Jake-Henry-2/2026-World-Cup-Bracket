@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-24T10:11:01.773Z",
+  "lastUpdated": "2026-09-24T15:07:29.410Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Gianni Infantino says he is 'committed to doing what is right' for FIFA",
+      "description": "FIFA president Gianni Infantino says he has \"never been more determined and committed\" to doing \"what is right for the game\" after pledging to conduct an independent review of the organisation's governance.",
+      "published": "2026-09-24T11:12:58Z",
+      "link": "https://www.espn.com/soccer/story/_/id/50019011/gianni-infantino-says-committed-doing-right-fifa",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699291_1296x729_16-9.jpg"
+    },
     {
       "headline": "Gianni Infantino accused of 'woefully inadequate' co-operation with probe into Donald Trump links",
       "description": "FIFA president Gianni Infantino has been accused of a \"woefully inadequate\" level of co-operation over a probe by democratic members of the United States House Judiciary Committee into his relationship with Donald Trump.",
@@ -36,13 +43,6 @@
       "published": "2026-09-22T10:22:04Z",
       "link": "https://www.espn.com/video/clip/_/id/50004142/jonathan-david-julian-alvarez-play-side-side",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0922/dm_260922_Gomez_Jonathan_David_and_Julian_Alvarez_should_play_sidebyside/dm_260922_Gomez_Jonathan_David_and_Julian_Alvarez_should_play_sidebyside.jpg"
-    },
-    {
-      "headline": "Gomez: Raphinha is the best player in the world",
-      "description": "Gomez: Raphinha is the best player in the world",
-      "published": "2026-09-22T09:44:51Z",
-      "link": "https://www.espn.com/video/clip/_/id/50004079/raphinha-best-player-world",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0922/dm_260922_Gomez_Raphinha_is_the_best_player_in_the_world/dm_260922_Gomez_Raphinha_is_the_best_player_in_the_world.jpg"
     }
   ]
 }

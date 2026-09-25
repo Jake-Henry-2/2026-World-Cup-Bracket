@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-25T19:23:25.388Z",
+  "lastUpdated": "2026-09-25T22:36:01.173Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Pochettino shares 'regret' over Balogun controversy, impact on USMNT",
+      "description": "USMNT coach Mauricio Pochettino said he regrets not being more involved in the process of appealing Folarin Balogun's suspension at this summer's World Cup, adding that the incident changed the energy around his squad.",
+      "published": "2026-09-25T20:50:48Z",
+      "link": "https://www.espn.com/soccer/story/_/id/50028671/folarin-balogun-mauricio-pochettino-red-card-suspension-usa-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0925/r1721773_1296x729_16-9.jpg"
+    },
     {
       "headline": "Can Patrick Vieira rescue Senegal from their post-AFCON final hellscape?",
       "description": "Senegal, surely, must be asking what on earth they have done to receive the misfortune and wretched experiences they've endured since January, when they won, and then lost, the AFCON final.",
@@ -36,13 +43,6 @@
       "published": "2026-09-23T14:52:45Z",
       "link": "https://www.espn.com/soccer/story/_/id/50006618/after-lionel-messi-neymar-brazil-argentinas-next-number-10",
       "image": "https://a.espncdn.com/photo/2026/0922/r1720466_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Guimaraes: World Cup penalty miss vs. Norway is a scar that still hurts",
-      "description": "Guimaraes: World Cup penalty miss vs. Norway is a scar that still hurts",
-      "published": "2026-09-23T14:44:29Z",
-      "link": "https://www.espn.com/video/clip/_/id/50013350/world-cup-penalty-miss-vs-norway-scar-hurts",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0923/dm_260923_Guimaraes_World_Cup_penalty_miss_vs_Norway_is_a_scar_that_still_hurts/dm_260923_Guimaraes_World_Cup_penalty_miss_vs_Norway_is_a_scar_that_still_hurts.jpg"
     }
   ]
 }

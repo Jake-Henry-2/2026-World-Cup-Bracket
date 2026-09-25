@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-09-25T05:24:11.534Z",
+  "lastUpdated": "2026-09-25T10:23:31.078Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Premier League, LaLiga, Serie A, Bundesliga demand FIFA reform amid Gianni Infantino re-election bid",
+      "description": "The top leagues in England, Italy, Germany and Spain have issued a joint-statement demanding governance reform at FIFA, amid Gianni Infantino's bid to be re-elected as president in 2027.",
+      "published": "2026-09-25T10:12:42Z",
+      "link": "https://www.espn.com/soccer/story/_/id/50025809/premier-league-bundesliga-la-liga-serie-gianni-infantino-fifa-reform-statement",
+      "image": "https://a.espncdn.com/photo/2026/0925/r1721593_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Can Patrick Vieira rescue Senegal from their post-AFCON final hellscape?",
+      "description": "Senegal, surely, must be asking what on earth they have done to receive the misfortune and wretched experiences they've endured since January, when they won, and then lost, the AFCON final.",
+      "published": "2026-09-25T09:04:04Z",
+      "link": "https://www.espn.com/espn/story/_/id/50025741/can-patrick-vieira-rescue-senegal-their-post-afcon-final-hellscape",
+      "image": "https://a.espncdn.com/photo/2026/0818/r1703391_1296x729_16-9.jpg"
+    },
     {
       "headline": "Gianni Infantino says he is 'committed to doing what is right' for FIFA",
       "description": "FIFA president Gianni Infantino says he has \"never been more determined and committed\" to doing \"what is right for the game\" after pledging to conduct an independent review of the organisation's governance.",
@@ -29,20 +43,6 @@
       "published": "2026-09-23T14:44:29Z",
       "link": "https://www.espn.com/video/clip/_/id/50013350/world-cup-penalty-miss-vs-norway-scar-hurts",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0923/dm_260923_Guimaraes_World_Cup_penalty_miss_vs_Norway_is_a_scar_that_still_hurts/dm_260923_Guimaraes_World_Cup_penalty_miss_vs_Norway_is_a_scar_that_still_hurts.jpg"
-    },
-    {
-      "headline": "UEFA's Aleksander Ceferin: Trust still broken in football after FIFA, Gianni Infantino controversy",
-      "description": "UEFA president Aleksander Ceferin has said trust in world football is still broken despite FIFA abandoning its controversial plan to sell a stake in its commercial rights to private investors.",
-      "published": "2026-09-23T12:48:59Z",
-      "link": "https://www.espn.com/soccer/story/_/id/50012609/trust-broken-football-fifa-gianni-infantino-uefa-aleksander-ceferin",
-      "image": "https://a.espncdn.com/photo/2026/0803/r1697001_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Gomez: Jonathan David and Julian Alvarez should play side-by-side",
-      "description": "Gomez: Jonathan David and Julian Alvarez should play side-by-side",
-      "published": "2026-09-22T10:22:04Z",
-      "link": "https://www.espn.com/video/clip/_/id/50004142/jonathan-david-julian-alvarez-play-side-side",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0922/dm_260922_Gomez_Jonathan_David_and_Julian_Alvarez_should_play_sidebyside/dm_260922_Gomez_Jonathan_David_and_Julian_Alvarez_should_play_sidebyside.jpg"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-27T07:07:56.763Z",
+  "lastUpdated": "2026-09-27T12:59:49.050Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "If FIFA expands the World Cup again, how would a 64-team tournament work?",
+      "description": "The 2026 World Cup was the first to feature 48 teams, and 2030 could see the field swell to 64, but just how feasible is a tournament that size?",
+      "published": "2026-09-27T11:24:24Z",
+      "link": "https://www.espn.com/soccer/story/_/id/50005268/if-fifa-expands-world-cup-again-how-64-team-tournament-work",
+      "image": "https://a.espncdn.com/photo/2026/0922/r1720423_1296x729_16-9.jpg"
+    },
     {
       "headline": "Herc Gomez: USMNT debutants made their mark in 4-1 win vs. Peru",
       "description": "Herc Gomez: USMNT debutants made their mark in 4-1 win vs. Peru",
@@ -36,13 +43,6 @@
       "published": "2026-09-24T11:12:58Z",
       "link": "https://www.espn.com/soccer/story/_/id/50019011/gianni-infantino-says-committed-doing-right-fifa",
       "image": "https://a.espncdn.com/photo/2026/0808/r1699291_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Gianni Infantino accused of 'woefully inadequate' co-operation with probe into Donald Trump links",
-      "description": "FIFA president Gianni Infantino has been accused of a \"woefully inadequate\" level of co-operation over a probe by democratic members of the United States House Judiciary Committee into his relationship with Donald Trump.",
-      "published": "2026-09-23T20:07:48Z",
-      "link": "https://www.espn.com/soccer/story/_/id/50015084/gianni-infantino-donald-trump-fifa-world-cup-uefa",
-      "image": "https://a.espncdn.com/photo/2026/0923/r1720984_1296x729_16-9.jpg"
     }
   ]
 }

@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-09-28T07:42:23.948Z",
+  "lastUpdated": "2026-09-28T16:00:42.823Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Will anyone stop Infantino? FIFA president is confident U20 World Cup cameo says otherwise",
+      "description": "Under fire from UEFA, Infantino is back to business as usual and inching closer to reelection as FIFA president.",
+      "published": "2026-09-28T14:30:27Z",
+      "link": "https://www.espn.com/soccer/story/_/id/50045992/gianni-infantino-fifa-president-scandal-u20-world-cup-uefa-victor-montigliani",
+      "image": "https://a.espncdn.com/photo/2026/0927/r1722644_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Vozinha struggling with World Cup fame: 'I'd choose the life I had before'",
+      "description": "Viral World Cup goalkeeper Vozinha has revealed he is struggling with his newfound fame, saying that he would like to go back to a time before he was so well-known.",
+      "published": "2026-09-28T09:21:26Z",
+      "link": "https://www.espn.com/soccer/story/_/id/50050816/vozinha-world-cup-fame-struggling-cape-verde",
+      "image": "https://a.espncdn.com/photo/2026/0928/r1722870_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Messi tracker: Goals, assists, key moments in 2026",
+      "description": "ESPN provides game-by-game analysis of Lionel Messi's performances for Inter Miami and Argentina.",
+      "published": "2026-09-28T07:57:50Z",
+      "link": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
+      "image": "https://a.espncdn.com/photo/2026/0928/r1722794_1296x729_16-9.jpg"
+    },
     {
       "headline": "If FIFA expands the World Cup again, how would a 64-team tournament work?",
       "description": "The 2026 World Cup was the first to feature 48 teams, and 2030 could see the field swell to 64, but just how feasible is a tournament that size?",
@@ -22,27 +43,6 @@
       "published": "2026-09-25T20:50:48Z",
       "link": "https://www.espn.com/soccer/story/_/id/50028671/folarin-balogun-mauricio-pochettino-red-card-suspension-usa-world-cup",
       "image": "https://a.espncdn.com/photo/2026/0925/r1721773_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Can Patrick Vieira rescue Senegal from their post-AFCON final hellscape?",
-      "description": "Senegal, surely, must be asking what on earth they have done to receive the misfortune and wretched experiences they've endured since January, when they won, and then lost, the AFCON final.",
-      "published": "2026-09-25T13:05:43Z",
-      "link": "https://www.espn.com/espn/story/_/id/50025741/can-patrick-vieira-rescue-senegal-their-post-afcon-final-hellscape",
-      "image": "https://a.espncdn.com/photo/2026/0818/r1703391_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Premier League, LaLiga, Serie A, Bundesliga demand FIFA reform amid Gianni Infantino re-election bid",
-      "description": "The top leagues in England, Italy, Germany and Spain have issued a joint-statement demanding governance reform at FIFA, amid Gianni Infantino's bid to be re-elected as president in 2027.",
-      "published": "2026-09-25T10:12:42Z",
-      "link": "https://www.espn.com/soccer/story/_/id/50025809/premier-league-bundesliga-la-liga-serie-gianni-infantino-fifa-reform-statement",
-      "image": "https://a.espncdn.com/photo/2026/0925/r1721593_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Gianni Infantino says he is 'committed to doing what is right' for FIFA",
-      "description": "FIFA president Gianni Infantino says he has \"never been more determined and committed\" to doing \"what is right for the game\" after pledging to conduct an independent review of the organisation's governance.",
-      "published": "2026-09-24T11:12:58Z",
-      "link": "https://www.espn.com/soccer/story/_/id/50019011/gianni-infantino-says-committed-doing-right-fifa",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699291_1296x729_16-9.jpg"
     }
   ]
 }

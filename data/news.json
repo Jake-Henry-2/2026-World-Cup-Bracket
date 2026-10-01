@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-10-01T16:30:56.892Z",
+  "lastUpdated": "2026-10-01T21:16:25.448Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Zidane set for Italy reunion with no 'regrets' about WC final headbutt",
+      "description": "Twenty years after being sent off in the 2006 World Cup final, Zinedine Zidane faces Italy again on Friday, this time in a suit as France's coach.",
+      "published": "2026-10-01T18:36:34Z",
+      "link": "https://www.espn.com/soccer/story/_/id/50077965/france-italy-zinedine-zidane-world-cup-final-marco-materazzi",
+      "image": "https://a.espncdn.com/photo/2026/1001/r1724560_1296x729_16-9.jpg"
+    },
     {
       "headline": "PSG chief Al-Khelaifi has 'zero interest' in FIFA presidency",
       "description": "European soccer's search for a candidate to challenge Gianni Infantino in the FIFA presidential election will not land on clubs' leader Nasser Al-Khelaifi.",
@@ -19,7 +26,7 @@
     {
       "headline": "U.S. Soccer's post-World Cup vibes: Lamenting a missed opportunity, embracing excitement",
       "description": "The USMNT's World Cup was a paradox. Did inspiring a nation of future fans make it a success, or does the embarrassing exit mean it was a failure?",
-      "published": "2026-09-29T07:20:33Z",
+      "published": "2026-10-01T18:29:28Z",
       "link": "https://www.espn.com/soccer/story/_/id/50020939/us-soccer-men-national-team-post-world-cup-vibes-lamenting-missed-opportunity-embracing-excitement",
       "image": "https://a.espncdn.com/photo/2026/0924/r1721313_1296x729_16-9.jpg"
     },
@@ -36,13 +43,6 @@
       "published": "2026-09-28T16:59:49Z",
       "link": "https://www.espn.com/soccer/story/_/id/50045992/gianni-infantino-fifa-president-scandal-u20-world-cup-uefa-victor-montigliani",
       "image": "https://a.espncdn.com/photo/2026/0927/r1722644_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Vozinha struggling with World Cup fame: 'I'd choose the life I had before'",
-      "description": "Viral World Cup goalkeeper Vozinha has revealed he is struggling with his newfound fame, saying that he would like to go back to a time before he was so well-known.",
-      "published": "2026-09-28T09:21:26Z",
-      "link": "https://www.espn.com/soccer/story/_/id/50050816/vozinha-world-cup-fame-struggling-cape-verde",
-      "image": "https://a.espncdn.com/photo/2026/0928/r1722870_1296x729_16-9.jpg"
     }
   ]
 }

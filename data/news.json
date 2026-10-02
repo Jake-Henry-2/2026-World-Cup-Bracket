@@ -1,7 +1,35 @@
 {
-  "lastUpdated": "2026-10-02T06:33:45.326Z",
+  "lastUpdated": "2026-10-02T13:06:59.027Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "FIFA World Cup report highlights increased tactical strategies but no 'winning formula'",
+      "description": "FIFA's technical report on the 2026 World Cup has highlighted an increased number of tactical strategies at the tournament but concluded there was not necessarily a \"winning formula\".",
+      "published": "2026-10-02T12:09:38Z",
+      "link": "https://www.espn.com/soccer/story/_/id/50084016/fifa-world-cup-report-highlights-increased-tactical-strategies-no-winning-formula",
+      "image": "https://a.espncdn.com/photo/2026/0704/r1684092_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Did the World Cup help USMNT to move forward?",
+      "description": "Did the World Cup help USMNT to move forward?",
+      "published": "2026-10-02T10:03:16Z",
+      "link": "https://www.espn.com/video/clip/_/id/50083565/did-world-cup-help-usmnt-move-forward",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1002/dm_261002_COM_SOC_Analysis_Did_the_World_Cup_help_USMNT_to_move_forward3F__GLOBAL_2026-10-02/dm_261002_COM_SOC_Analysis_Did_the_World_Cup_help_USMNT_to_move_forward3F__GLOBAL_2026-10-02.jpg"
+    },
+    {
+      "headline": "2026 Ballon d'Or: Full men's, women's short lists, host city change, more",
+      "description": "The 2026 Ballon d'Or short lists are out. Here's who could win the biggest individual prizes in men's and women's soccer.",
+      "published": "2026-10-02T08:49:47Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49867974/2026-ballon-dor-full-mens-women-shortlists-host-city-change-vozinha-more",
+      "image": "https://a.espncdn.com/photo/2026/0908/r1713144_2_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "From the USMNT to Germany, why club coaches are taking over national teams",
+      "description": "Pochettino with the U.S., Klopp with Germany, Tuchel with England and more: Are these famous coaches worth it for national teams?",
+      "published": "2026-10-02T07:34:49Z",
+      "link": "https://www.espn.com/soccer/story/_/id/50079068/from-usmnt-germany-why-club-coaches-taking-national-teams",
+      "image": "https://a.espncdn.com/photo/2026/0806/r1698479_1296x729_16-9.jpg"
+    },
     {
       "headline": "Zidane set for Italy reunion with no 'regrets' about WC final headbutt",
       "description": "Twenty years after being sent off in the 2006 World Cup final, Zinedine Zidane faces Italy again on Friday, this time in a suit as France's coach.",
@@ -15,34 +43,6 @@
       "published": "2026-09-29T21:29:34Z",
       "link": "https://www.espn.com/soccer/story/_/id/50061434/fifa-president-nasser-al-khelaifi-psg-gianni-infantino-election",
       "image": "https://a.espncdn.com/photo/2026/0929/r1723629_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Pochettino labels Man City's charges as a 'period of deception'",
-      "description": "Pochettino labels Man City's charges as a 'period of deception'",
-      "published": "2026-09-29T13:24:04Z",
-      "link": "https://www.espn.com/video/clip/_/id/50058472/pochettino-labels-man-city-charges-period-deception",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0929/dm_260929_COM_SOC_Presser_Pochettino_labels_Man_Citys_charges_as_a_period_of_deception_20260929_GLOBAL/dm_260929_COM_SOC_Presser_Pochettino_labels_Man_Citys_charges_as_a_period_of_deception_20260929_GLOBAL.jpg"
-    },
-    {
-      "headline": "U.S. Soccer's post-World Cup vibes: Lamenting a missed opportunity, embracing excitement",
-      "description": "The USMNT's World Cup was a paradox. Did inspiring a nation of future fans make it a success, or does the embarrassing exit mean it was a failure?",
-      "published": "2026-10-01T18:29:28Z",
-      "link": "https://www.espn.com/soccer/story/_/id/50020939/us-soccer-men-national-team-post-world-cup-vibes-lamenting-missed-opportunity-embracing-excitement",
-      "image": "https://a.espncdn.com/photo/2026/0924/r1721313_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "FIFA agrees in principle to federation payments from WC windfall",
-      "description": "FIFA president Gianni Infantino has come out in favor of a tentative proposal from UEFA and Concacaf that FIFA distributes funds to member associations as a result of record revenues from this summer's World Cup.",
-      "published": "2026-09-28T21:41:02Z",
-      "link": "https://www.espn.com/soccer/story/_/id/50054758/fifa-agrees-federation-payments-wc-revenue",
-      "image": "https://a.espncdn.com/photo/2026/0827/r1707823_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Will anyone stop Infantino? FIFA president is confident U20 World Cup cameo says otherwise",
-      "description": "Under fire from UEFA, Infantino is back to business as usual and inching closer to reelection as FIFA president.",
-      "published": "2026-09-28T16:59:49Z",
-      "link": "https://www.espn.com/soccer/story/_/id/50045992/gianni-infantino-fifa-president-scandal-u20-world-cup-uefa-victor-montigliani",
-      "image": "https://a.espncdn.com/photo/2026/0927/r1722644_1296x729_16-9.jpg"
     }
   ]
 }

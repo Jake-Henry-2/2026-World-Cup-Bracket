@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-10-02T13:06:59.027Z",
+  "lastUpdated": "2026-10-02T18:22:59.214Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Zidane: 'Not proud, but no regrets' over 2006 World Cup final clash with Materazzi",
+      "description": "Zidane: 'Not proud, but no regrets' over 2006 World Cup final clash with Materazzi",
+      "published": "2026-10-02T14:58:36Z",
+      "link": "https://www.espn.com/video/clip/_/id/50084975/not-proud-no-regrets-2006-world-cup-final-clash-materazzi",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1002/dm_261002_Zidane_Not_proud_but_no_regrets_over_2006_World_Cup_final_clash_with_Materazzi/dm_261002_Zidane_Not_proud_but_no_regrets_over_2006_World_Cup_final_clash_with_Materazzi.jpg"
+    },
     {
       "headline": "FIFA World Cup report highlights increased tactical strategies but no 'winning formula'",
       "description": "FIFA's technical report on the 2026 World Cup has highlighted an increased number of tactical strategies at the tournament but concluded there was not necessarily a \"winning formula\".",
@@ -36,13 +43,6 @@
       "published": "2026-10-01T18:36:34Z",
       "link": "https://www.espn.com/soccer/story/_/id/50077965/france-italy-zinedine-zidane-world-cup-final-marco-materazzi",
       "image": "https://a.espncdn.com/photo/2026/1001/r1724560_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "PSG chief Al-Khelaifi has 'zero interest' in FIFA presidency",
-      "description": "European soccer's search for a candidate to challenge Gianni Infantino in the FIFA presidential election will not land on clubs' leader Nasser Al-Khelaifi.",
-      "published": "2026-09-29T21:29:34Z",
-      "link": "https://www.espn.com/soccer/story/_/id/50061434/fifa-president-nasser-al-khelaifi-psg-gianni-infantino-election",
-      "image": "https://a.espncdn.com/photo/2026/0929/r1723629_1296x729_16-9.jpg"
     }
   ]
 }

@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-10-04T06:20:08.366Z",
+  "lastUpdated": "2026-10-04T12:34:43.953Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Who most deserves the Ballon d'Or? Whittling down the 30-man short list",
+      "description": "Kylian Mbappé, Lamine Yamal and Harry Kane are the three favorites to win the 2026 Ballon d'Or, but who actually deserves to win it?",
+      "published": "2026-10-04T10:38:08Z",
+      "link": "https://www.espn.com/soccer/story/_/id/50074316/who-most-deserves-ballon-dor-whittling-30-man-short-list",
+      "image": "https://a.espncdn.com/photo/2025/0922/r1549234_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "AFC to introduce Nations League in shake-up of World Cup, Asian Cup qualification",
+      "description": "The Asian Football Confederation is set to introduce a Nations League competition, which will affect the qualification process for the World Cup and Asian Cup.",
+      "published": "2026-10-04T09:18:33Z",
+      "link": "https://www.espn.com/soccer/story/_/id/50098546/afc-introduce-nations-league-shake-world-cup-asian-cup-qualification",
+      "image": "https://a.espncdn.com/photo/2026/1004/r1725697_1296x729_16-9.jpg"
+    },
     {
       "headline": "Zidane: 'Not proud, but no regrets' over 2006 World Cup final clash with Materazzi",
       "description": "Zidane: 'Not proud, but no regrets' over 2006 World Cup final clash with Materazzi",
@@ -29,20 +43,6 @@
       "published": "2026-10-02T08:49:47Z",
       "link": "https://www.espn.com/soccer/story/_/id/49867974/2026-ballon-dor-full-mens-women-shortlists-host-city-change-vozinha-more",
       "image": "https://a.espncdn.com/photo/2026/0908/r1713144_2_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "From the USMNT to Germany, why club coaches are taking over national teams",
-      "description": "Pochettino with the U.S., Klopp with Germany, Tuchel with England and more: Are these famous coaches worth it for national teams?",
-      "published": "2026-10-02T07:34:49Z",
-      "link": "https://www.espn.com/soccer/story/_/id/50079068/from-usmnt-germany-why-club-coaches-taking-national-teams",
-      "image": "https://a.espncdn.com/photo/2026/0806/r1698479_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Zidane set for Italy reunion with no 'regrets' about WC final headbutt",
-      "description": "Twenty years after being sent off in the 2006 World Cup final, Zinedine Zidane faces Italy again on Friday, this time in a suit as France's coach.",
-      "published": "2026-10-01T18:36:34Z",
-      "link": "https://www.espn.com/soccer/story/_/id/50077965/france-italy-zinedine-zidane-world-cup-final-marco-materazzi",
-      "image": "https://a.espncdn.com/photo/2026/1001/r1724560_1296x729_16-9.jpg"
     }
   ]
 }

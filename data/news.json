@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-10-04T20:04:13.633Z",
+  "lastUpdated": "2026-10-04T23:02:48.615Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Jones: USMNT vs. Canada is more than just a match for Jesse Marsch",
+      "description": "Jones: USMNT vs. Canada is more than just a match for Jesse Marsch",
+      "published": "2026-10-04T22:20:03Z",
+      "link": "https://www.espn.com/video/clip/_/id/50104524/usmnt-vs-canada-more-just-match-jesse-marsch",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1004/dm_261004_COM_SOC_ANALYSIS_Jones_USMNT_vs_Canada_is_more_than_just_a_match_for_Jesse_Marsch_2026_10_4/dm_261004_COM_SOC_ANALYSIS_Jones_USMNT_vs_Canada_is_more_than_just_a_match_for_Jesse_Marsch_2026_10_4.jpg"
+    },
     {
       "headline": "Scaloni: Messi's final Argentina match will be unforgettable",
       "description": "Scaloni: Messi's final Argentina match will be unforgettable",
@@ -36,13 +43,6 @@
       "published": "2026-10-02T12:09:38Z",
       "link": "https://www.espn.com/soccer/story/_/id/50084016/fifa-world-cup-report-highlights-increased-tactical-strategies-no-winning-formula",
       "image": "https://a.espncdn.com/photo/2026/0704/r1684092_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Did the World Cup help USMNT to move forward?",
-      "description": "Did the World Cup help USMNT to move forward?",
-      "published": "2026-10-02T10:03:16Z",
-      "link": "https://www.espn.com/video/clip/_/id/50083565/did-world-cup-help-usmnt-move-forward",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1002/dm_261002_COM_SOC_Analysis_Did_the_World_Cup_help_USMNT_to_move_forward3F__GLOBAL_2026-10-02/dm_261002_COM_SOC_Analysis_Did_the_World_Cup_help_USMNT_to_move_forward3F__GLOBAL_2026-10-02.jpg"
     }
   ]
 }

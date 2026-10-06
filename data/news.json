@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-10-06T09:57:30.477Z",
+  "lastUpdated": "2026-10-06T16:37:20.304Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Nigeria considers FIFA compensation claim after DR Congo eligibility revelations",
+      "description": "A top Nigerian National Sports Commission official says Nigeria have been vindicated over their challenge to DR Congo's use of ineligible players in World Cup qualifying.",
+      "published": "2026-10-06T11:59:21Z",
+      "link": "https://www.espn.com/espn/story/_/id/50115954/nigeria-considers-fifa-compensation-claim-dr-congo-eligibility-revelations",
+      "image": "https://a.espncdn.com/photo/2025/0604/r1502303_1296x729_16-9.jpg"
+    },
     {
       "headline": "Jones: USMNT vs. Canada is more than just a match for Jesse Marsch",
       "description": "Jones: USMNT vs. Canada is more than just a match for Jesse Marsch",
@@ -36,13 +43,6 @@
       "published": "2026-10-02T14:58:36Z",
       "link": "https://www.espn.com/video/clip/_/id/50084975/not-proud-no-regrets-2006-world-cup-final-clash-materazzi",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1002/dm_261002_Zidane_Not_proud_but_no_regrets_over_2006_World_Cup_final_clash_with_Materazzi/dm_261002_Zidane_Not_proud_but_no_regrets_over_2006_World_Cup_final_clash_with_Materazzi.jpg"
-    },
-    {
-      "headline": "FIFA World Cup report highlights increased tactical strategies but no 'winning formula'",
-      "description": "FIFA's technical report on the 2026 World Cup has highlighted an increased number of tactical strategies at the tournament but concluded there was not necessarily a \"winning formula\".",
-      "published": "2026-10-02T12:09:38Z",
-      "link": "https://www.espn.com/soccer/story/_/id/50084016/fifa-world-cup-report-highlights-increased-tactical-strategies-no-winning-formula",
-      "image": "https://a.espncdn.com/photo/2026/0704/r1684092_1296x729_16-9.jpg"
     }
   ]
 }

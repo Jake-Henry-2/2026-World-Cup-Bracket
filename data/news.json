@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-10-07T13:51:54.053Z",
+  "lastUpdated": "2026-10-07T19:38:52.120Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Ex-Tottenham defender Ramon Vega to challenge FIFA president Gianni Infantino",
+      "description": "Former Tottenham Hotspur defender Ramon Vega says he will challenge Gianni Infantino for the FIFA presidency.",
+      "published": "2026-10-07T18:28:31Z",
+      "link": "https://www.espn.com/soccer/story/_/id/50126573/fifa-president-election-ramon-vega-gianni-infantino",
+      "image": "https://a.espncdn.com/photo/2026/1007/r1727457_1296x729_16-9.jpg"
+    },
     {
       "headline": "Messi tracker: Goals, assists, key moments in 2026",
       "description": "ESPN provides game-by-game analysis of Lionel Messi's performances for Inter Miami and Argentina.",
@@ -36,13 +43,6 @@
       "published": "2026-10-04T22:20:03Z",
       "link": "https://www.espn.com/video/clip/_/id/50104524/usmnt-vs-canada-more-just-match-jesse-marsch",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1004/dm_261004_COM_SOC_ANALYSIS_Jones_USMNT_vs_Canada_is_more_than_just_a_match_for_Jesse_Marsch_2026_10_4/dm_261004_COM_SOC_ANALYSIS_Jones_USMNT_vs_Canada_is_more_than_just_a_match_for_Jesse_Marsch_2026_10_4.jpg"
-    },
-    {
-      "headline": "Scaloni: Messi's final Argentina match will be unforgettable",
-      "description": "Scaloni: Messi's final Argentina match will be unforgettable",
-      "published": "2026-10-04T14:48:16Z",
-      "link": "https://www.espn.com/video/clip/_/id/50099893/messi-final-argentina-match-unforgettable",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1004/dm_261004_COM_F1_Presser_Scaloni_Messis_final_Argentina_match_will_be_unforgettable_20260904_GLOBAL/dm_261004_COM_F1_Presser_Scaloni_Messis_final_Argentina_match_will_be_unforgettable_20260904_GLOBAL.jpg"
     }
   ]
 }

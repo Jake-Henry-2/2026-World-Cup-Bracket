@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-10-07T06:34:11.232Z",
+  "lastUpdated": "2026-10-07T13:51:54.053Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Messi tracker: Goals, assists, key moments in 2026",
+      "description": "ESPN provides game-by-game analysis of Lionel Messi's performances for Inter Miami and Argentina.",
+      "published": "2026-10-07T11:17:27Z",
+      "link": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
+      "image": "https://a.espncdn.com/photo/2026/1007/r1727271_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "2030 World Cup Power Rankings: Who are the top 15 nations in the men's game?",
+      "description": "With the 2026 World Cup well and truly behind us, the first fall international break saw all the top teams playing four times in three weeks. Which sides look strongest and most likely to contend in four years' time?",
+      "published": "2026-10-07T12:46:49Z",
+      "link": "https://www.espn.com/soccer/story/_/id/50114003/fifa-world-cup-power-rankings-spain-brazil-germany-usa-mexico-england-argentina-france",
+      "image": "https://a.espncdn.com/photo/2026/0618/soc_wc_power-rankings_16x9.jpg"
+    },
     {
       "headline": "Hislop: Messi's World Cup final run 'underlines his legacy'",
       "description": "Hislop: Messi's World Cup final run 'underlines his legacy'",
@@ -29,20 +43,6 @@
       "published": "2026-10-04T14:48:16Z",
       "link": "https://www.espn.com/video/clip/_/id/50099893/messi-final-argentina-match-unforgettable",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1004/dm_261004_COM_F1_Presser_Scaloni_Messis_final_Argentina_match_will_be_unforgettable_20260904_GLOBAL/dm_261004_COM_F1_Presser_Scaloni_Messis_final_Argentina_match_will_be_unforgettable_20260904_GLOBAL.jpg"
-    },
-    {
-      "headline": "Who most deserves the Ballon d'Or? Whittling down the 30-man short list",
-      "description": "Kylian Mbappé, Lamine Yamal and Harry Kane are the three favorites to win the 2026 Ballon d'Or, but who actually deserves to win it?",
-      "published": "2026-10-04T10:38:08Z",
-      "link": "https://www.espn.com/soccer/story/_/id/50074316/who-most-deserves-ballon-dor-whittling-30-man-short-list",
-      "image": "https://a.espncdn.com/photo/2025/0922/r1549234_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "AFC to introduce Nations League in shake-up of World Cup, Asian Cup qualification",
-      "description": "The Asian Football Confederation is set to introduce a Nations League competition, which will affect the qualification process for the World Cup and Asian Cup.",
-      "published": "2026-10-04T09:18:33Z",
-      "link": "https://www.espn.com/soccer/story/_/id/50098546/afc-introduce-nations-league-shake-world-cup-asian-cup-qualification",
-      "image": "https://a.espncdn.com/photo/2026/1004/r1725697_1296x729_16-9.jpg"
     }
   ]
 }

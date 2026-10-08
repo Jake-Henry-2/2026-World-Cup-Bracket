@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-08T10:26:05.072Z",
+  "lastUpdated": "2026-10-08T17:31:48.209Z",
   "source": "ESPN soccer/fifa.world",
   "matches": [
     {
@@ -15,48 +15,6 @@
       "id": "760486",
       "date": "2026-06-28T19:00Z",
       "venue": "SoFi Stadium"
-    },
-    {
-      "stage": "r32",
-      "home": "Brazil",
-      "away": "Japan",
-      "homeScore": 2,
-      "awayScore": 1,
-      "homeWinner": true,
-      "awayWinner": false,
-      "odds": null,
-      "status": "finished",
-      "id": "760487",
-      "date": "2026-06-29T17:00Z",
-      "venue": "NRG Stadium"
-    },
-    {
-      "stage": "r32",
-      "home": "Germany",
-      "away": "Paraguay",
-      "homeScore": 1,
-      "awayScore": 1,
-      "homeWinner": false,
-      "awayWinner": true,
-      "odds": null,
-      "status": "finished",
-      "id": "760489",
-      "date": "2026-06-29T20:30Z",
-      "venue": "Gillette Stadium"
-    },
-    {
-      "stage": "r32",
-      "home": "Netherlands",
-      "away": "Morocco",
-      "homeScore": 1,
-      "awayScore": 1,
-      "homeWinner": false,
-      "awayWinner": true,
-      "odds": null,
-      "status": "finished",
-      "id": "760488",
-      "date": "2026-06-30T01:00Z",
-      "venue": "Estadio BBVA"
     },
     {
       "stage": "r32",
@@ -99,48 +57,6 @@
       "id": "760491",
       "date": "2026-07-01T02:00Z",
       "venue": "Estadio Banorte"
-    },
-    {
-      "stage": "r32",
-      "home": "England",
-      "away": "DR Congo",
-      "homeScore": 2,
-      "awayScore": 1,
-      "homeWinner": true,
-      "awayWinner": false,
-      "odds": null,
-      "status": "finished",
-      "id": "760495",
-      "date": "2026-07-01T16:00Z",
-      "venue": "Mercedes-Benz Stadium"
-    },
-    {
-      "stage": "r32",
-      "home": "Belgium",
-      "away": "Senegal",
-      "homeScore": 3,
-      "awayScore": 2,
-      "homeWinner": true,
-      "awayWinner": false,
-      "odds": null,
-      "status": "finished",
-      "id": "760493",
-      "date": "2026-07-01T20:00Z",
-      "venue": "Lumen Field"
-    },
-    {
-      "stage": "r32",
-      "home": "United States",
-      "away": "Bosnia and Herzegovina",
-      "homeScore": 2,
-      "awayScore": 0,
-      "homeWinner": true,
-      "awayWinner": false,
-      "odds": null,
-      "status": "finished",
-      "id": "760494",
-      "date": "2026-07-02T00:00Z",
-      "venue": "Levi's Stadium"
     },
     {
       "stage": "r32",

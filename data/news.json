@@ -1,13 +1,20 @@
 {
-  "lastUpdated": "2026-10-11T10:08:06.175Z",
+  "lastUpdated": "2026-10-11T16:18:37.784Z",
   "source": "ESPN",
   "articles": [
     {
+      "headline": "De Zerbi: Bentancur red card encouraged Tottenham to play with more character",
+      "description": "De Zerbi: Bentancur red card encouraged Tottenham to play with more character",
+      "published": "2026-10-11T13:54:15Z",
+      "link": "https://www.espn.com/video/clip/_/id/50156783/bentancur-red-card-encouraged-tottenham-play-more-character",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/dm_261011_De_Zerbi_Bentancur_red_card_encouraged_Tottenham_to_play_with_more_character/dm_261011_De_Zerbi_Bentancur_red_card_encouraged_Tottenham_to_play_with_more_character.jpg"
+    },
+    {
       "headline": "Messi tracker: Goals, assists, key moments in 2026",
       "description": "ESPN provides game-by-game analysis of Lionel Messi's performances for Inter Miami and Argentina.",
-      "published": "2026-10-11T03:55:27Z",
+      "published": "2026-10-11T12:27:25Z",
       "link": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
-      "image": "https://a.espncdn.com/photo/2026/1007/r1727271_1296x729_16-9.jpg"
+      "image": "https://a.espncdn.com/photo/2026/1011/r1729118_1296x729_16-9.jpg"
     },
     {
       "headline": "Sources: Infantino reelection path clear as Montagliani plans Concacaf stay",
@@ -36,13 +43,6 @@
       "published": "2026-10-07T12:46:49Z",
       "link": "https://www.espn.com/soccer/story/_/id/50114003/fifa-world-cup-power-rankings-spain-brazil-germany-usa-mexico-england-argentina-france",
       "image": "https://a.espncdn.com/photo/2026/0618/soc_wc_power-rankings_16x9.jpg"
-    },
-    {
-      "headline": "Hislop: Messi's World Cup final run 'underlines his legacy'",
-      "description": "Hislop: Messi's World Cup final run 'underlines his legacy'",
-      "published": "2026-10-06T22:29:48Z",
-      "link": "https://www.espn.com/video/clip/_/id/50120434/messi-world-cup-final-run-underlines-legacy",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1006/dm_261006_Hislop_Messis_World_Cup_final_run_underlines_his_legacy/dm_261006_Hislop_Messis_World_Cup_final_run_underlines_his_legacy.jpg"
     }
   ]
 }

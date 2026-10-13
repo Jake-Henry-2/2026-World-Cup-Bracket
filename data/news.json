@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-10-13T01:31:50.478Z",
+  "lastUpdated": "2026-10-13T08:22:27.309Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "FIFA president Gianni Infantino received undisclosed $1.7M World Cup payment",
+      "description": "FIFA president Gianni Infantino appears to have breached FIFA regulations after an IRS filing revealed an undisclosed $1.72 million pay package on top of his declared salary for 2024.",
+      "published": "2026-10-13T06:24:32Z",
+      "link": "https://www.espn.com/soccer/story/_/id/50171167/fifa-president-gianni-infantino-received-undisclosed-17m-world-cup-payment",
+      "image": "https://a.espncdn.com/photo/2026/1013/r1730003_1296x729_16-9.jpg"
+    },
     {
       "headline": "De Zerbi: Bentancur red card encouraged Tottenham to play with more character",
       "description": "De Zerbi: Bentancur red card encouraged Tottenham to play with more character",
@@ -36,13 +43,6 @@
       "published": "2026-10-07T18:28:31Z",
       "link": "https://www.espn.com/soccer/story/_/id/50126573/fifa-president-election-ramon-vega-gianni-infantino",
       "image": "https://a.espncdn.com/photo/2026/1007/r1727457_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "2030 World Cup Power Rankings: Who are the top 15 nations in the men's game?",
-      "description": "With the 2026 World Cup well and truly behind us, the first fall international break saw all the top teams playing four times in three weeks. Which sides look strongest and most likely to contend in four years' time?",
-      "published": "2026-10-07T12:46:49Z",
-      "link": "https://www.espn.com/soccer/story/_/id/50114003/fifa-world-cup-power-rankings-spain-brazil-germany-usa-mexico-england-argentina-france",
-      "image": "https://a.espncdn.com/photo/2026/0618/soc_wc_power-rankings_16x9.jpg"
     }
   ]
 }

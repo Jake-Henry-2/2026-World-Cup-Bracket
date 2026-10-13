@@ -1,11 +1,18 @@
 {
-  "lastUpdated": "2026-10-13T08:22:27.309Z",
+  "lastUpdated": "2026-10-13T16:11:48.680Z",
   "source": "ESPN",
   "articles": [
     {
+      "headline": "Netflix buys 2030 World Cup broadcast rights in co-host Spain",
+      "description": "Netflix bought exclusive rights to broadcast the 2030 World Cup in co-host Spain on Tuesday in a deal that lets a free-to-air public broadcaster show games each day including the",
+      "published": "2026-10-13T13:50:38Z",
+      "link": "https://www.espn.com/soccer/story/_/id/50173561/netflix-buys-2030-world-cup-broadcast-rights-cohost-defending-champion-spain",
+      "image": "https://a.espncdn.com/photo/2026/0423/r1648066_1296x729_16-9.jpg"
+    },
+    {
       "headline": "FIFA president Gianni Infantino received undisclosed $1.7M World Cup payment",
       "description": "FIFA president Gianni Infantino appears to have breached FIFA regulations after an IRS filing revealed an undisclosed $1.72 million pay package on top of his declared salary for 2024.",
-      "published": "2026-10-13T06:24:32Z",
+      "published": "2026-10-13T16:04:19Z",
       "link": "https://www.espn.com/soccer/story/_/id/50171167/fifa-president-gianni-infantino-received-undisclosed-17m-world-cup-payment",
       "image": "https://a.espncdn.com/photo/2026/1013/r1730003_1296x729_16-9.jpg"
     },
@@ -36,13 +43,6 @@
       "published": "2026-10-08T08:50:56Z",
       "link": "https://www.espn.com/video/clip/_/id/50131464/where-does-messi-rank-top-five-players-all",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1008/dm_261008_COM_SOC_Analysis_Where_does_Messi_rank_in_the_top_five_players_of_all_time__20261008_GLOBAL/dm_261008_COM_SOC_Analysis_Where_does_Messi_rank_in_the_top_five_players_of_all_time__20261008_GLOBAL.jpg"
-    },
-    {
-      "headline": "Ex-Tottenham defender Ramon Vega to challenge FIFA president Gianni Infantino",
-      "description": "Former Tottenham Hotspur defender Ramon Vega says he will challenge Gianni Infantino for the FIFA presidency.",
-      "published": "2026-10-07T18:28:31Z",
-      "link": "https://www.espn.com/soccer/story/_/id/50126573/fifa-president-election-ramon-vega-gianni-infantino",
-      "image": "https://a.espncdn.com/photo/2026/1007/r1727457_1296x729_16-9.jpg"
     }
   ]
 }

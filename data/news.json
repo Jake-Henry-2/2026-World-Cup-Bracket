@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-10-14T15:08:59.859Z",
+  "lastUpdated": "2026-10-14T19:21:37.559Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "FIFA set to change rules that led to Folarin Balogun World Cup red card reversal - sources",
+      "description": "FIFA is set to amend its rules to prevent a repeat of the controversial reversal of the World Cup suspension issued to Folarin Balogun, sources have told ESPN.",
+      "published": "2026-10-14T17:10:39Z",
+      "link": "https://www.espn.com/soccer/story/_/id/50182058/fifa-set-change-rules-folarin-balogun-world-cup-red-card-reversal",
+      "image": "https://a.espncdn.com/photo/2026/0923/r1720984_1296x729_16-9.jpg"
+    },
     {
       "headline": "FIFA to propose sizable association payout bump from $10M to $25M",
       "description": "FIFA will propose a $6.35 billion fund to its members for development between 2027 and 2030, including a boosted amount of $25 million for each association.",
@@ -36,13 +43,6 @@
       "published": "2026-10-11T12:27:25Z",
       "link": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
       "image": "https://a.espncdn.com/photo/2026/1011/r1729118_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Sources: Infantino reelection path clear as Montagliani plans Concacaf stay",
-      "description": "Gianni Infantino faces a clear path towards reelection as FIFA president after sources told ESPN that Victor Montagliani plans to stay as Concacaf president.",
-      "published": "2026-10-08T18:25:18Z",
-      "link": "https://www.espn.com/soccer/story/_/id/50134141/fifa-president-gianni-infantino-victor-montagliani-concacaf",
-      "image": "https://a.espncdn.com/photo/2026/1008/r1727909_1296x729_16-9.jpg"
     }
   ]
 }

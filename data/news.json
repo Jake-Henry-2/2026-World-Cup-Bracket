@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-10-14T00:22:51.289Z",
+  "lastUpdated": "2026-10-14T05:08:53.087Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "FIFA to propose sizable association payout bump from $10M to $25M",
+      "description": "FIFA will propose a $6.35 billion fund to its members for development between 2027 and 2030, including a boosted amount of $25 million for each association.",
+      "published": "2026-10-14T02:48:50Z",
+      "link": "https://www.espn.com/soccer/story/_/id/50178387/fifa-association-payout-bump-10m-25m",
+      "image": "https://a.espncdn.com/photo/2026/0731/r1695859_1296x729_16-9.jpg"
+    },
     {
       "headline": "Netflix buys 2030 World Cup broadcast rights in co-host Spain",
       "description": "Netflix bought exclusive rights to broadcast the 2030 World Cup in co-host Spain on Tuesday in a deal that lets a free-to-air public broadcaster show games each day including the",
@@ -36,13 +43,6 @@
       "published": "2026-10-08T18:25:18Z",
       "link": "https://www.espn.com/soccer/story/_/id/50134141/fifa-president-gianni-infantino-victor-montagliani-concacaf",
       "image": "https://a.espncdn.com/photo/2026/1008/r1727909_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Where does Messi rank in the top five players of all time?",
-      "description": "Where does Messi rank in the top five players of all time?",
-      "published": "2026-10-08T08:50:56Z",
-      "link": "https://www.espn.com/video/clip/_/id/50131464/where-does-messi-rank-top-five-players-all",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1008/dm_261008_COM_SOC_Analysis_Where_does_Messi_rank_in_the_top_five_players_of_all_time__20261008_GLOBAL/dm_261008_COM_SOC_Analysis_Where_does_Messi_rank_in_the_top_five_players_of_all_time__20261008_GLOBAL.jpg"
     }
   ]
 }

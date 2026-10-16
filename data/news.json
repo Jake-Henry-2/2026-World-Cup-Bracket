@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-10-16T09:20:26.340Z",
+  "lastUpdated": "2026-10-16T14:03:35.478Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Gomez: Messi will keep playing as long as he finds joy on the pitch",
+      "description": "Gomez: Messi will keep playing as long as he finds joy on the pitch",
+      "published": "2026-10-16T10:46:52Z",
+      "link": "https://www.espn.com/video/clip/_/id/50195091/messi-keep-playing-long-finds-joy-pitch",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1016/dm_261016_Gomez_Messi_will_keep_playing_as_long_as_he_finds_joy_on_the_pitch/dm_261016_Gomez_Messi_will_keep_playing_as_long_as_he_finds_joy_on_the_pitch.jpg"
+    },
+    {
+      "headline": "Lautaro Martínez on World Cup goal against England: 'One of the most important in Argentina history'",
+      "description": "Argentina forward Lautaro Martínez says he often watches his winning goal against England in the 2026 World Cup semifinal, labelling it \"one of the most important in the history of the national team.\"",
+      "published": "2026-10-16T10:00:58Z",
+      "link": "https://www.espn.com/soccer/story/_/id/50194991/lautaro-martinez-world-cup-goal-england-one-most-important-argentina-history",
+      "image": "https://a.espncdn.com/photo/2026/1016/r1731519_1296x729_16-9.jpg"
+    },
     {
       "headline": "Hislop: Mourinho adopting 'victim mentality' following Vinícius Júnior suspension",
       "description": "Hislop: Mourinho adopting 'victim mentality' following Vinícius Júnior suspension",
@@ -29,20 +43,6 @@
       "published": "2026-10-15T13:41:22Z",
       "link": "https://www.espn.com/soccer/story/_/id/50182058/fifa-set-change-rules-folarin-balogun-world-cup-red-card-reversal",
       "image": "https://a.espncdn.com/photo/2026/0923/r1720984_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "FIFA to propose sizable association payout bump from $10M to $25M",
-      "description": "FIFA will propose a $6.35 billion fund to its members for development between 2027 and 2030, including a boosted amount of $25 million for each association.",
-      "published": "2026-10-14T02:48:50Z",
-      "link": "https://www.espn.com/soccer/story/_/id/50178387/fifa-association-payout-bump-10m-25m",
-      "image": "https://a.espncdn.com/photo/2026/0731/r1695859_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Netflix buys 2030 World Cup broadcast rights in co-host Spain",
-      "description": "Netflix bought exclusive rights to broadcast the 2030 World Cup in co-host Spain on Tuesday in a deal that lets a free-to-air public broadcaster show games each day including the",
-      "published": "2026-10-13T13:50:38Z",
-      "link": "https://www.espn.com/soccer/story/_/id/50173561/netflix-buys-2030-world-cup-broadcast-rights-cohost-defending-champion-spain",
-      "image": "https://a.espncdn.com/photo/2026/0423/r1648066_1296x729_16-9.jpg"
     }
   ]
 }

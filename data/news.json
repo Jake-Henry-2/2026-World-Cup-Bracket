@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-10-16T04:45:56.210Z",
+  "lastUpdated": "2026-10-16T09:20:26.340Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Hislop: Mourinho adopting 'victim mentality' following Vinícius Júnior suspension",
+      "description": "Hislop: Mourinho adopting 'victim mentality' following Vinícius Júnior suspension",
+      "published": "2026-10-16T08:59:30Z",
+      "link": "https://www.espn.com/video/clip/_/id/50194882/mourinho-adopting-victim-mentality-following-vinicius-junior-suspension",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1016/dm_261016_Hislop_Mourinho_adopting_victim_mentality_following_Vinicius_Junior_suspension/dm_261016_Hislop_Mourinho_adopting_victim_mentality_following_Vinicius_Junior_suspension.jpg"
+    },
     {
       "headline": "Gianni Infantino 'not fit to be FIFA president' without answers - FA chair",
       "description": "Football Association chair Debbie Hewitt says Gianni Infantino is \"not fit to be FIFA president\" if he does not answer questions about his World Cup private investor plan or the Folarin Balogun case.",
@@ -36,13 +43,6 @@
       "published": "2026-10-13T13:50:38Z",
       "link": "https://www.espn.com/soccer/story/_/id/50173561/netflix-buys-2030-world-cup-broadcast-rights-cohost-defending-champion-spain",
       "image": "https://a.espncdn.com/photo/2026/0423/r1648066_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "FIFA president Gianni Infantino received undisclosed $1.7M World Cup payment",
-      "description": "FIFA president Gianni Infantino appears to have breached FIFA regulations after an IRS filing revealed an undisclosed $1.72 million pay package on top of his declared salary for 2024.",
-      "published": "2026-10-13T16:04:19Z",
-      "link": "https://www.espn.com/soccer/story/_/id/50171167/fifa-president-gianni-infantino-received-undisclosed-17m-world-cup-payment",
-      "image": "https://a.espncdn.com/photo/2026/1013/r1730003_1296x729_16-9.jpg"
     }
   ]
 }

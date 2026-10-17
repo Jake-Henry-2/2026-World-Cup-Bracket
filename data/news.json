@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-10-17T05:45:03.863Z",
+  "lastUpdated": "2026-10-17T09:43:28.774Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Infantino apologized, but reelection as FIFA president remains far from certain",
+      "description": "Gianni Infantino tried to make amends at Thursday's FIFA Council meeting for his ill-fated attempt to sell the World Cup. Will it be enough to save his reelection bid?",
+      "published": "2026-10-17T09:41:56Z",
+      "link": "https://www.espn.com/soccer/story/_/id/50197782/gianni-infantino-fifa-president-election-far-certain",
+      "image": "https://a.espncdn.com/photo/2026/1016/r1731790_1296x729_16-9.jpg"
+    },
     {
       "headline": "Gomez: Messi will keep playing as long as he finds joy on the pitch",
       "description": "Gomez: Messi will keep playing as long as he finds joy on the pitch",
@@ -36,13 +43,6 @@
       "published": "2026-10-15T23:39:04Z",
       "link": "https://www.espn.com/soccer/story/_/id/50189300/infantino-apologizes-fifa-council-avoids-issues",
       "image": "https://a.espncdn.com/photo/2026/0719/r1691371_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "FIFA set to change rules that led to Folarin Balogun World Cup red card reversal - sources",
-      "description": "FIFA is set to amend its rules to prevent a repeat of the controversial reversal of the World Cup suspension issued to Folarin Balogun, sources have told ESPN.",
-      "published": "2026-10-15T13:41:22Z",
-      "link": "https://www.espn.com/soccer/story/_/id/50182058/fifa-set-change-rules-folarin-balogun-world-cup-red-card-reversal",
-      "image": "https://a.espncdn.com/photo/2026/0923/r1720984_1296x729_16-9.jpg"
     }
   ]
 }

@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-10-20T07:09:00.320Z",
+  "lastUpdated": "2026-10-20T12:42:33.225Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Were Messi and De Paul wrong to 'taunt' Atlanta United's Alonso?",
+      "description": "Were Messi and De Paul wrong to 'taunt' Atlanta United's Alonso?",
+      "published": "2026-10-20T09:08:36Z",
+      "link": "https://www.espn.com/video/clip/_/id/50226152/were-messi-de-paul-wrong-taunt-atlanta-united-alonso",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1020/dm_261020_Were_Messi_and_De_Paul_wrong_to_taunt_Atlanta_Uniteds_Alonso/dm_261020_Were_Messi_and_De_Paul_wrong_to_taunt_Atlanta_Uniteds_Alonso.jpg"
+    },
+    {
+      "headline": "Gianni Infantino courts Asian Football Confederation in reelection campaign bid",
+      "description": "Gianni Infantino's campaign for reelection as FIFA president is set to move this week to Japan and a meeting scheduled for Wednesday with the Asian Football Confederation.",
+      "published": "2026-10-20T10:51:10Z",
+      "link": "https://www.espn.com/soccer/story/_/id/50225613/gianni-infantino-asian-football-federations-reelection-campaign-fifa-president",
+      "image": "https://a.espncdn.com/photo/2026/1020/r1733302_1296x729_16-9.jpg"
+    },
     {
       "headline": "Infantino apologized, but reelection as FIFA president remains far from certain",
       "description": "Gianni Infantino tried to make amends at Thursday's FIFA Council meeting for his ill-fated attempt to sell the World Cup. Will it be enough to save his reelection bid?",
@@ -29,20 +43,6 @@
       "published": "2026-10-16T08:59:30Z",
       "link": "https://www.espn.com/video/clip/_/id/50194882/mourinho-adopting-victim-mentality-following-vinicius-junior-suspension",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1016/dm_261016_Hislop_Mourinho_adopting_victim_mentality_following_Vinicius_Junior_suspension/dm_261016_Hislop_Mourinho_adopting_victim_mentality_following_Vinicius_Junior_suspension.jpg"
-    },
-    {
-      "headline": "Gianni Infantino 'not fit to be FIFA president' without answers - FA chair",
-      "description": "Football Association chair Debbie Hewitt says Gianni Infantino is \"not fit to be FIFA president\" if he does not answer questions about his World Cup private investor plan or the Folarin Balogun case.",
-      "published": "2026-10-15T22:14:46Z",
-      "link": "https://www.espn.com/soccer/story/_/id/50189352/gianni-infantino-fifa-president-council-meeting-debbie-hewitt-fa-chair-fifa",
-      "image": "https://a.espncdn.com/photo/2026/1015/r1731163_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Gianni Infantino apologizes to FIFA Council, avoids key issues",
-      "description": "Gianni Infantino gave an apology to his toughest critics but no new details or documents on FIFA issues during FIFA council meetings Thursday.",
-      "published": "2026-10-15T23:39:04Z",
-      "link": "https://www.espn.com/soccer/story/_/id/50189300/infantino-apologizes-fifa-council-avoids-issues",
-      "image": "https://a.espncdn.com/photo/2026/0719/r1691371_1296x729_16-9.jpg"
     }
   ]
 }

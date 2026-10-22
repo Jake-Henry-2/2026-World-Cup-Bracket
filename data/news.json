@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-10-22T09:39:51.717Z",
+  "lastUpdated": "2026-10-22T14:41:27.112Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "AFC president unclear on backing for Infantino's FIFA reelection",
+      "description": "The president of the AFC gave no hint Thursday about the body's support or opposition to the reelection of Gianni Infantino as FIFA president.",
+      "published": "2026-10-22T10:29:27Z",
+      "link": "https://www.espn.com/soccer/story/_/id/50247013/afc-president-unclear-support-infantino-fifa-reelection",
+      "image": "https://a.espncdn.com/photo/2026/0805/r1697947_1296x729_16-9.jpg"
+    },
     {
       "headline": "Premier League best place to develop Japanese talent - Japan FA chief",
       "description": "The best place to develop Japanese talent is in the English Premier League, the president of the Japan Football Association has said.",
@@ -36,13 +43,6 @@
       "published": "2026-10-16T10:46:52Z",
       "link": "https://www.espn.com/video/clip/_/id/50195091/messi-keep-playing-long-finds-joy-pitch",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1016/dm_261016_Gomez_Messi_will_keep_playing_as_long_as_he_finds_joy_on_the_pitch/dm_261016_Gomez_Messi_will_keep_playing_as_long_as_he_finds_joy_on_the_pitch.jpg"
-    },
-    {
-      "headline": "Lautaro Martínez on World Cup goal against England: 'One of the most important in Argentina history'",
-      "description": "Argentina forward Lautaro Martínez says he often watches his winning goal against England in the 2026 World Cup semifinal, labelling it \"one of the most important in the history of the national team.\"",
-      "published": "2026-10-16T10:00:58Z",
-      "link": "https://www.espn.com/soccer/story/_/id/50194991/lautaro-martinez-world-cup-goal-england-one-most-important-argentina-history",
-      "image": "https://a.espncdn.com/photo/2026/1016/r1731519_1296x729_16-9.jpg"
     }
   ]
 }

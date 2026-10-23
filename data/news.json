@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-10-23T10:11:31.749Z",
+  "lastUpdated": "2026-10-23T15:05:49.976Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Lionel Messi: Argentina's 2026 World Cup final heartbreak \"part of my football journey\"",
+      "description": "Lionel Messi has accepted that Argentina's 2026 World Cup extra-time defeat to Spain was a part of his football journey.",
+      "published": "2026-10-23T10:17:35Z",
+      "link": "https://www.espn.com/soccer/story/_/id/50256249/lionel-messi-argentina-2026-world-cup-final-spain",
+      "image": "https://a.espncdn.com/photo/2026/1023/r1734936_1296x729_16-9.jpg"
+    },
     {
       "headline": "Asian football chief backs Gianni Infantino for another term as FIFA president",
       "description": "The Asian Football Confederation endorsed Gianni Infantino on Friday for a fourth term as FIFA president.",
@@ -36,13 +43,6 @@
       "published": "2026-10-20T10:51:10Z",
       "link": "https://www.espn.com/soccer/story/_/id/50225613/gianni-infantino-asian-football-federations-reelection-campaign-fifa-president",
       "image": "https://a.espncdn.com/photo/2026/1020/r1733302_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Infantino apologized, but reelection as FIFA president remains far from certain",
-      "description": "Gianni Infantino tried to make amends at Thursday's FIFA Council meeting for his ill-fated attempt to sell the World Cup. Will it be enough to save his reelection bid?",
-      "published": "2026-10-17T09:41:56Z",
-      "link": "https://www.espn.com/soccer/story/_/id/50197782/gianni-infantino-fifa-president-election-far-certain",
-      "image": "https://a.espncdn.com/photo/2026/1016/r1731790_1296x729_16-9.jpg"
     }
   ]
 }

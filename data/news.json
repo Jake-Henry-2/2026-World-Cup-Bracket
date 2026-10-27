@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-10-26T23:38:44.031Z",
+  "lastUpdated": "2026-10-27T02:25:19.847Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Kane's long road to Ballon d'Or glory ends with his crowning moment",
+      "description": "After a remarkable year for Bayern Munich and England, Harry Kane becoming the world's best player is the ultimate reward for years of perseverance.",
+      "published": "2026-10-27T01:48:19Z",
+      "link": "https://www.espn.com/soccer/story/_/id/50265615/harry-kanes-long-road-ballon-dor-glory-ends-crowning-moment",
+      "image": "https://a.espncdn.com/photo/2026/1026/r1736765_3_1296x729_16-9.jpg"
+    },
     {
       "headline": "Lionel Messi watches on at the Messi Cup",
       "description": "Lionel Messi watches on at the Messi Cup",
@@ -36,13 +43,6 @@
       "published": "2026-10-22T10:29:27Z",
       "link": "https://www.espn.com/soccer/story/_/id/50247013/afc-president-unclear-support-infantino-fifa-reelection",
       "image": "https://a.espncdn.com/photo/2026/0805/r1697947_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Premier League best place to develop Japanese talent - Japan FA chief",
-      "description": "The best place to develop Japanese talent is in the English Premier League, the president of the Japan Football Association has said.",
-      "published": "2026-10-21T14:33:46Z",
-      "link": "https://www.espn.com/soccer/story/_/id/50237763/premier-league-best-place-develop-japanese-talent",
-      "image": "https://a.espncdn.com/photo/2026/0515/r1658476_1296x729_16-9.jpg"
     }
   ]
 }

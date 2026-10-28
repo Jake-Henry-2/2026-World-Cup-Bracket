@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-10-28T15:27:49.950Z",
+  "lastUpdated": "2026-10-28T20:28:51.329Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Two-time WC coach Okada leaves Japan post over AFC support of Infantino",
+      "description": "Two-time World Cup coach Takeshi Okada resigned as Japanese federation VP in protest over AFC support of FIFA during Gianni Infantino's re-election campaign.",
+      "published": "2026-10-28T18:57:38Z",
+      "link": "https://www.espn.com/soccer/story/_/id/50309762/wc-coach-okada-leaves-japan-post-infantino-support",
+      "image": "https://a.espncdn.com/photo/2026/1028/r1737632_1296x729_16-9.jpg"
+    },
     {
       "headline": "Vozinha's Ballon d'Or night a perfect moment for soccer's dreamers",
       "description": "Vozinha's improbable star turn at the 2026 World Cup led him to Monday night's Ballon d'Or ceremony. It was also a perfect moment for those who love the game, but never get love back.",
@@ -36,13 +43,6 @@
       "published": "2026-10-23T10:17:35Z",
       "link": "https://www.espn.com/soccer/story/_/id/50256249/lionel-messi-argentina-2026-world-cup-final-spain",
       "image": "https://a.espncdn.com/photo/2026/1023/r1734936_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Asian football chief backs Gianni Infantino for another term as FIFA president",
-      "description": "The Asian Football Confederation endorsed Gianni Infantino on Friday for a fourth term as FIFA president.",
-      "published": "2026-10-23T16:00:55Z",
-      "link": "https://www.espn.com/soccer/story/_/id/50255102/asian-football-confederation-backs-gianni-infantino-term-fifa",
-      "image": "https://a.espncdn.com/photo/2026/0907/r1712695_1296x729_16-9.jpg"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-11-02T09:29:35.536Z",
+  "lastUpdated": "2026-11-02T19:43:41.317Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "UEFA awaits FIFA answers to Gianni Infantino queries as deadline looms - report",
+      "description": "UEFA is still waiting to receive answers to a series of questions it posed to FIFA related to Gianni Infantino's presidency, with only hours to go until the deadline for a response passes.",
+      "published": "2026-11-02T16:30:37Z",
+      "link": "https://www.espn.com/soccer/story/_/id/50358121/uefa-await-fifa-answers-gianni-infantino-queries-deadline-looms",
+      "image": "https://a.espncdn.com/photo/2026/0908/r1713266_1296x729_16-9.jpg"
+    },
     {
       "headline": "Messi tracker: Goals, assists, key moments in 2026",
       "description": "ESPN provides game-by-game analysis of Lionel Messi's performances for Inter Miami and Argentina.",
@@ -26,7 +33,7 @@
     {
       "headline": "Kane's long road to Ballon d'Or glory ends with his crowning moment",
       "description": "After a remarkable year for Bayern Munich and England, Harry Kane becoming the world's best player is the ultimate reward for years of perseverance.",
-      "published": "2026-10-27T14:04:40Z",
+      "published": "2026-11-02T15:32:40Z",
       "link": "https://www.espn.com/soccer/story/_/id/50265615/harry-kanes-long-road-ballon-dor-glory-ends-crowning-moment",
       "image": "https://a.espncdn.com/photo/2026/1026/r1736765_3_1296x729_16-9.jpg"
     },
@@ -36,13 +43,6 @@
       "published": "2026-10-26T20:12:38Z",
       "link": "https://www.espn.com/video/clip/_/id/50290177/lionel-messi-watches-messi-cup",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1026/dm_261026_COM_SOC_Analysis_Lionel_Messi_watches_on_at_the_Messi_Cup_2022F10F26_GLOBAL/dm_261026_COM_SOC_Analysis_Lionel_Messi_watches_on_at_the_Messi_Cup_2022F10F26_GLOBAL.jpg"
-    },
-    {
-      "headline": "Lionel Messi: Argentina's 2026 World Cup final heartbreak \"part of my football journey\"",
-      "description": "Lionel Messi has accepted that Argentina's 2026 World Cup extra-time defeat to Spain was a part of his football journey.",
-      "published": "2026-10-23T10:17:35Z",
-      "link": "https://www.espn.com/soccer/story/_/id/50256249/lionel-messi-argentina-2026-world-cup-final-spain",
-      "image": "https://a.espncdn.com/photo/2026/1023/r1734936_1296x729_16-9.jpg"
     }
   ]
 }

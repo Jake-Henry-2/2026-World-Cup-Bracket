@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-11-06T22:59:28.011Z",
+  "lastUpdated": "2026-11-07T02:40:16.791Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Caribbean Football Union endorses Infantino ahead of FIFA presidential election",
+      "description": "The Caribbean Football Union has endorsed Gianni Infantino following regional consultations, boosting his bid ahead of the FIFA presidential March election.",
+      "published": "2026-11-06T23:11:48Z",
+      "link": "https://www.espn.com/soccer/story/_/id/50402359/infantino-secures-caribbean-support-fifa-reelection-bid",
+      "image": "https://a.espncdn.com/photo/2026/1106/r1742190_1296x729_16-9.jpg"
+    },
     {
       "headline": "FIFA's chief legal officer steps down in second high-profile exit",
       "description": "Emilio García Silvero, who has served as FIFA's chief legal and compliance officer for the past eight years, is stepping down from his position.",
@@ -36,13 +43,6 @@
       "published": "2026-11-05T12:03:06Z",
       "link": "https://www.espn.com/video/clip/_/id/50387532/catches-everyone-even-cristiano-ronaldo",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1105/dm_261105_Ogden_Time_catches_up_with_everyone_even_Cristiano_Ronaldo/dm_261105_Ogden_Time_catches_up_with_everyone_even_Cristiano_Ronaldo.jpg"
-    },
-    {
-      "headline": "FIFA Council's Tashima to challenge Infantino in March elections - reports",
-      "description": "FIFA Council member Kohzo Tashima intends to run for president of the global football body against incumbent Gianni Infantino, Japanese media reported.",
-      "published": "2026-11-05T12:51:52Z",
-      "link": "https://www.espn.com/soccer/story/_/id/50387286/fifa-council-japan-tashima-challenge-infantino-reports",
-      "image": "https://a.espncdn.com/photo/2020/0317/r680435_1296x729_16-9.jpg"
     }
   ]
 }

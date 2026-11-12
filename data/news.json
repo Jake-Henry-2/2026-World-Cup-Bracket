@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-11-12T02:50:44.177Z",
+  "lastUpdated": "2026-11-12T10:24:32.517Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "How will Argentina replace Lionel Messi ahead of 2030 World Cup?",
+      "description": "Argentina need several players to shoulder the responsibilities that, for two decades, were concentrated in the greatest player in their history.",
+      "published": "2026-11-12T10:14:06Z",
+      "link": "https://www.espn.com/soccer/story/_/id/50453174/argentina-replacements-lionel-messi",
+      "image": "https://a.espncdn.com/photo/2026/1110/soc_argentina-after-messi_16x9.jpg"
+    },
     {
       "headline": "Brazil revenge mission hands Japan opportunity to finish Hajime Moriyasu legacy on a high",
       "description": "Despite it being a friendly match, Japan will have much to play for against Brazil on Saturday -- for more than one reason.",
@@ -36,13 +43,6 @@
       "published": "2026-11-06T16:50:55Z",
       "link": "https://www.espn.com/soccer/story/_/id/50399850/fifa-chief-legal-compliance-officer-steps-down",
       "image": "https://a.espncdn.com/photo/2026/0413/r1642668_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Ronaldo's Portugal career ended in shame, but at his peak he was a dominant force",
-      "description": "Though his national team career finished in parody and mockery, we should remember Cristiano Ronaldo for what he was at his peak: an almost unstoppable player for his country.",
-      "published": "2026-11-06T01:13:29Z",
-      "link": "https://www.espn.com/soccer/story/_/id/50387949/cristiano-ronaldo-portugal-retirement-reaction-analysis-euro-2016-fifa-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/1105/r1741457_1296x729_16-9.jpg"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-11-14T12:26:41.281Z",
+  "lastUpdated": "2026-11-14T18:24:35.660Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Stars set Singapore alight as Japan exact revenge on Brazil with dramatic late win",
+      "description": "Japan have exacted revenge over Brazil for their World Cup elimination with a dramatic 3-2 win in Singapore on Saturday.",
+      "published": "2026-11-14T15:24:28Z",
+      "link": "https://www.espn.com/soccer/story/_/id/50479233/japan-revenge-brazil-dramatic-late-win",
+      "image": "https://a.espncdn.com/photo/2026/1114/r1745640_1296x729_16-9.jpg"
+    },
     {
       "headline": "Recap: USMNT's Pochettino in tears as he agrees to join Man United",
       "description": "USMNT head coach Mauricio Pochettino is leaving to join Manchester United. Read all the news, analysis and reaction from ESPN.",
@@ -36,13 +43,6 @@
       "published": "2026-11-11T07:31:16Z",
       "link": "https://www.espn.com/soccer/story/_/id/50451094/brazil-revenge-mission-japan-hajime-moriyasu-legacy",
       "image": "https://a.espncdn.com/photo/2026/1111/r1744366_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Keller: USMNT roster will understand if Pochettino joins Man United",
-      "description": "Keller: USMNT roster will understand if Pochettino joins Man United",
-      "published": "2026-11-10T08:44:27Z",
-      "link": "https://www.espn.com/video/clip/_/id/50440647/usmnt-roster-understand-pochettino-joins-man-united",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1110/dm_261110_COM_SOC_Analysis_Keller_USMNT_roster_will_understand_if_Pochettino_joins_Man_United_20261110_GL/dm_261110_COM_SOC_Analysis_Keller_USMNT_roster_will_understand_if_Pochettino_joins_Man_United_20261110_GL.jpg"
     }
   ]
 }

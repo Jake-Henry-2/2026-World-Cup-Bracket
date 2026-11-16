@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-11-16T07:52:46.867Z",
+  "lastUpdated": "2026-11-16T17:45:18.938Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Why FIFA reelection will be a formality for Teflon-like Gianni Infantino",
+      "description": "Despite scandals, controversy and legal challenges, Gianni Infantino looks all but certain to secure a landslide reelection as FIFA president and another four years in charge.",
+      "published": "2026-11-16T14:19:31Z",
+      "link": "https://www.espn.com/soccer/story/_/id/50498344/gianni-infantino-fifa-presidency-reelection-chances",
+      "image": "https://a.espncdn.com/photo/2026/1116/r1746503_2_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Klopp: FIFA worse under Infantino than Blatter",
+      "description": "Klopp: FIFA worse under Infantino than Blatter",
+      "published": "2026-11-16T10:01:50Z",
+      "link": "https://www.espn.com/video/clip/_/id/50500125/fifa-worse-infantino-blatter",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1116/dm_261116_COM_SOC_Presser_Klopp_FIFA_worse_under_Infantino_than_Blatter_161126_GLOBAL/dm_261116_COM_SOC_Presser_Klopp_FIFA_worse_under_Infantino_than_Blatter_161126_GLOBAL.jpg"
+    },
+    {
+      "headline": "Meet Como's Nico Paz, the heir to Lionel Messi's Argentina No. 10 shirt",
+      "description": "Como's Nico Paz has become one of the best young players in Europe, but now he faces the unenviable task of stepping into Lionel Messi's Argentina No. 10 shirt.",
+      "published": "2026-11-16T09:02:57Z",
+      "link": "https://www.espn.com/soccer/story/_/id/50460862/nico-paz-como-argentina-lionel-messi",
+      "image": "https://a.espncdn.com/photo/2026/1112/r1744745_1296x729_16-9.jpg"
+    },
     {
       "headline": "Stars set Singapore alight as Japan exact revenge on Brazil with dramatic late win",
       "description": "Japan have exacted revenge over Brazil for their World Cup elimination with a dramatic 3-2 win in Singapore on Saturday.",
@@ -22,27 +43,6 @@
       "published": "2026-11-12T23:26:46Z",
       "link": "https://www.espn.com/soccer/story/_/id/50463328/fifa-uefa-case-disclosure-new-york-court-thrive-jp-morgan",
       "image": "https://a.espncdn.com/photo/2026/0413/r1642668_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Argentina coach Lionel Scaloni signs new long-term deal through 2030 World Cup",
-      "description": "Lionel Scaloni has signed a new contract to remain as Argentina coach heading into the 2030 World Cup.",
-      "published": "2026-11-12T22:36:43Z",
-      "link": "https://www.espn.com/soccer/story/_/id/50451803/argentina-coach-lionel-scaloni-new-contract-2030-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/1112/r1744634_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "How will Argentina replace Lionel Messi ahead of 2030 World Cup?",
-      "description": "Argentina need several players to shoulder the responsibilities that, for two decades, were concentrated in the greatest player in their history.",
-      "published": "2026-11-12T10:14:06Z",
-      "link": "https://www.espn.com/soccer/story/_/id/50453174/argentina-replacements-lionel-messi",
-      "image": "https://a.espncdn.com/photo/2026/1110/soc_argentina-after-messi_16x9.jpg"
-    },
-    {
-      "headline": "Brazil revenge mission hands Japan opportunity to finish Hajime Moriyasu legacy on a high",
-      "description": "Despite it being a friendly match, Japan will have much to play for against Brazil on Saturday -- for more than one reason.",
-      "published": "2026-11-11T07:31:16Z",
-      "link": "https://www.espn.com/soccer/story/_/id/50451094/brazil-revenge-mission-japan-hajime-moriyasu-legacy",
-      "image": "https://a.espncdn.com/photo/2026/1111/r1744366_1296x729_16-9.jpg"
     }
   ]
 }

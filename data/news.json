@@ -1,11 +1,18 @@
 {
-  "lastUpdated": "2026-11-17T09:09:47.272Z",
+  "lastUpdated": "2026-11-17T18:33:25.204Z",
   "source": "ESPN",
   "articles": [
     {
+      "headline": "France FA boss Diallo confirms bid to challenge Infantino for FIFA presidency",
+      "description": "French Football Federation leader Philippe Diallo confirmed his intention on Tuesday to challenge Gianni Infantino for the FIFA presidency.",
+      "published": "2026-11-17T13:44:49Z",
+      "link": "https://www.espn.com/soccer/story/_/id/50509967/france-fa-diallo-confirms-challenge-infantino-fifa",
+      "image": "https://a.espncdn.com/photo/2026/0728/r1694552_1296x729_16-9.jpg"
+    },
+    {
       "headline": "The USMNT doesn't need a hero like Pep Guardiola as its next manager",
       "description": "The U.S. men's national team is saying goodbye to Mauricio Pochettino while hoping to attract Pep Guardiola as its next manager. But is a superstar coach what this team really needs?",
-      "published": "2026-11-17T08:45:42Z",
+      "published": "2026-11-17T10:47:56Z",
       "link": "https://www.espn.com/soccer/story/_/id/50502389/usmnt-pep-guardiola-mauricio-pochettino-manchester-city",
       "image": "https://a.espncdn.com/photo/2026/1117/r1747006_1296x729_16-9.jpg"
     },
@@ -36,13 +43,6 @@
       "published": "2026-11-16T09:02:57Z",
       "link": "https://www.espn.com/soccer/story/_/id/50460862/nico-paz-como-argentina-lionel-messi",
       "image": "https://a.espncdn.com/photo/2026/1112/r1744745_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Stars set Singapore alight as Japan exact revenge on Brazil with dramatic late win",
-      "description": "Japan have exacted revenge over Brazil for their World Cup elimination with a dramatic 3-2 win in Singapore on Saturday.",
-      "published": "2026-11-14T15:24:28Z",
-      "link": "https://www.espn.com/soccer/story/_/id/50479233/japan-revenge-brazil-dramatic-late-win",
-      "image": "https://a.espncdn.com/photo/2026/1114/r1745640_1296x729_16-9.jpg"
     }
   ]
 }

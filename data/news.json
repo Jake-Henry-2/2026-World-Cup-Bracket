@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-11-17T01:06:35.032Z",
+  "lastUpdated": "2026-11-17T09:09:47.272Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "The USMNT doesn't need a hero like Pep Guardiola as its next manager",
+      "description": "The U.S. men's national team is saying goodbye to Mauricio Pochettino while hoping to attract Pep Guardiola as its next manager. But is a superstar coach what this team really needs?",
+      "published": "2026-11-17T08:45:42Z",
+      "link": "https://www.espn.com/soccer/story/_/id/50502389/usmnt-pep-guardiola-mauricio-pochettino-manchester-city",
+      "image": "https://a.espncdn.com/photo/2026/1117/r1747006_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Stoic until the end, Japan's Hajime Moriyasu can finally let emotions flow",
+      "description": "Even up until the eve of his final game in charge of Japan, Hajime Moriyasu remained solely focused on the task ahead.",
+      "published": "2026-11-17T07:02:56Z",
+      "link": "https://www.espn.com/soccer/story/_/id/50507180/hajime-moriyasu-japan-reign-ends-tuesday",
+      "image": "https://a.espncdn.com/photo/2026/1117/r1746964_1296x729_16-9.jpg"
+    },
     {
       "headline": "Why FIFA reelection will be a formality for Teflon-like Gianni Infantino",
       "description": "Despite scandals, controversy and legal challenges, Gianni Infantino looks all but certain to secure a landslide reelection as FIFA president and another four years in charge.",
@@ -29,20 +43,6 @@
       "published": "2026-11-14T15:24:28Z",
       "link": "https://www.espn.com/soccer/story/_/id/50479233/japan-revenge-brazil-dramatic-late-win",
       "image": "https://a.espncdn.com/photo/2026/1114/r1745640_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Recap: USMNT's Pochettino in tears as he agrees to join Man United",
-      "description": "USMNT head coach Mauricio Pochettino is leaving to join Manchester United. Read all the news, analysis and reaction from ESPN.",
-      "published": "2026-11-13T17:16:59Z",
-      "link": "https://www.espn.com/soccer/story/_/id/50470402/live-updates-mauricio-pochettino-usmnt-man-united",
-      "image": "https://a.espncdn.com/photo/2026/1113/r1745277_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "FIFA loses New York court ruling against UEFA in World Cup investor case",
-      "description": "A judge in Manhattan denied requests by FIFA subsidiaries to block UEFA's attempts to get evidence about Gianni Infantino's failed World Cup investor plan.",
-      "published": "2026-11-12T23:26:46Z",
-      "link": "https://www.espn.com/soccer/story/_/id/50463328/fifa-uefa-case-disclosure-new-york-court-thrive-jp-morgan",
-      "image": "https://a.espncdn.com/photo/2026/0413/r1642668_1296x729_16-9.jpg"
     }
   ]
 }

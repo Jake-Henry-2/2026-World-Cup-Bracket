@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-11-18T08:37:45.779Z",
+  "lastUpdated": "2026-11-18T17:32:49.300Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "2030 World Cup Power Rankings: Who are the top 15 nations in the men's game?",
+      "description": "England's statement win over Spain has shaken up ESPN's World Cup Power Rankings, but our experts still back La Roja as the team to beat.",
+      "published": "2026-11-18T14:02:00Z",
+      "link": "https://www.espn.com/soccer/story/_/id/50506499/soccer-world-cup-power-rankings-usmnt-spain",
+      "image": "https://a.espncdn.com/photo/2026/1118/r1747490_1296x729_16-9.jpg"
+    },
     {
       "headline": "France FA boss Diallo confirms bid to challenge Infantino for FIFA presidency",
       "description": "French Football Federation leader Philippe Diallo confirmed his intention on Tuesday to challenge Gianni Infantino for the FIFA presidency.",
@@ -36,13 +43,6 @@
       "published": "2026-11-16T10:01:50Z",
       "link": "https://www.espn.com/video/clip/_/id/50500125/fifa-worse-infantino-blatter",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1116/dm_261116_COM_SOC_Presser_Klopp_FIFA_worse_under_Infantino_than_Blatter_161126_GLOBAL/dm_261116_COM_SOC_Presser_Klopp_FIFA_worse_under_Infantino_than_Blatter_161126_GLOBAL.jpg"
-    },
-    {
-      "headline": "Meet Como's Nico Paz, the heir to Lionel Messi's Argentina No. 10 shirt",
-      "description": "Como's Nico Paz has become one of the best young players in Europe, but now he faces the unenviable task of stepping into Lionel Messi's Argentina No. 10 shirt.",
-      "published": "2026-11-16T09:02:57Z",
-      "link": "https://www.espn.com/soccer/story/_/id/50460862/nico-paz-como-argentina-lionel-messi",
-      "image": "https://a.espncdn.com/photo/2026/1112/r1744745_1296x729_16-9.jpg"
     }
   ]
 }

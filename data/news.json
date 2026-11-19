@@ -1,11 +1,25 @@
 {
-  "lastUpdated": "2026-11-19T13:46:15.044Z",
+  "lastUpdated": "2026-11-19T21:51:47.859Z",
   "source": "ESPN",
   "articles": [
     {
+      "headline": "Infantino calls for 'fair play' in upcoming FIFA elections",
+      "description": "Gianni Infantino has called for \"fair play\" during the election campaign for the FIFA presidency.",
+      "published": "2026-11-19T18:17:36Z",
+      "link": "https://www.espn.com/soccer/story/_/id/50532452/infantino-respect-fifa-elections-rivals-diallo-tashima",
+      "image": "https://a.espncdn.com/photo/2026/1119/r1748039_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "UEFA pressures FIFA for World Cup sell-off plan documents",
+      "description": "",
+      "published": "2026-11-19T15:55:53Z",
+      "link": "https://www.espn.com/soccer/story/_/id/50531740/uefa-pressures-fifa-world-cup-selloff-plan-documents",
+      "image": "https://a.espncdn.com/photo/2021/1215/r951691_1296x729_16-9.jpg"
+    },
+    {
       "headline": "FIFA confirms Infantino rivals as Diallo, Tashima for 2027 election",
       "description": "FIFA has named Philippe Diallo and Kohzo Tashima as Gianni Infantino's rivals in next year's presidential election.",
-      "published": "2026-11-19T12:33:56Z",
+      "published": "2026-11-19T17:03:59Z",
       "link": "https://www.espn.com/soccer/story/_/id/50529522/fifa-gianni-infantino-phillipe-diallo-kohzo-tashima",
       "image": "https://a.espncdn.com/photo/2026/1110/r1743884_1296x729_16-9.jpg"
     },
@@ -29,20 +43,6 @@
       "published": "2026-11-17T10:47:56Z",
       "link": "https://www.espn.com/soccer/story/_/id/50502389/usmnt-pep-guardiola-mauricio-pochettino-manchester-city",
       "image": "https://a.espncdn.com/photo/2026/1117/r1747006_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Stoic until the end, Japan's Hajime Moriyasu can finally let emotions flow",
-      "description": "Even up until the eve of his final game in charge of Japan, Hajime Moriyasu remained solely focused on the task ahead.",
-      "published": "2026-11-17T07:02:56Z",
-      "link": "https://www.espn.com/soccer/story/_/id/50507180/hajime-moriyasu-japan-reign-ends-tuesday",
-      "image": "https://a.espncdn.com/photo/2026/1117/r1746964_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Why FIFA reelection will be a formality for Teflon-like Gianni Infantino",
-      "description": "Despite scandals, controversy and legal challenges, Gianni Infantino looks all but certain to secure a landslide reelection as FIFA president and another four years in charge.",
-      "published": "2026-11-16T14:19:31Z",
-      "link": "https://www.espn.com/soccer/story/_/id/50498344/gianni-infantino-fifa-presidency-reelection-chances",
-      "image": "https://a.espncdn.com/photo/2026/1116/r1746503_2_1296x729_16-9.jpg"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-11-19T04:27:40.247Z",
+  "lastUpdated": "2026-11-19T13:46:15.044Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "FIFA confirms Infantino rivals as Diallo, Tashima for 2027 election",
+      "description": "FIFA has named Philippe Diallo and Kohzo Tashima as Gianni Infantino's rivals in next year's presidential election.",
+      "published": "2026-11-19T12:33:56Z",
+      "link": "https://www.espn.com/soccer/story/_/id/50529522/fifa-gianni-infantino-phillipe-diallo-kohzo-tashima",
+      "image": "https://a.espncdn.com/photo/2026/1110/r1743884_1296x729_16-9.jpg"
+    },
     {
       "headline": "2030 World Cup Power Rankings: Who are the top 15 nations in the men's game?",
       "description": "England's statement win over Spain has shaken up ESPN's World Cup Power Rankings, but our experts still back La Roja as the team to beat.",
@@ -36,13 +43,6 @@
       "published": "2026-11-16T14:19:31Z",
       "link": "https://www.espn.com/soccer/story/_/id/50498344/gianni-infantino-fifa-presidency-reelection-chances",
       "image": "https://a.espncdn.com/photo/2026/1116/r1746503_2_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Klopp: FIFA worse under Infantino than Blatter",
-      "description": "Klopp: FIFA worse under Infantino than Blatter",
-      "published": "2026-11-16T10:01:50Z",
-      "link": "https://www.espn.com/video/clip/_/id/50500125/fifa-worse-infantino-blatter",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1116/dm_261116_COM_SOC_Presser_Klopp_FIFA_worse_under_Infantino_than_Blatter_161126_GLOBAL/dm_261116_COM_SOC_Presser_Klopp_FIFA_worse_under_Infantino_than_Blatter_161126_GLOBAL.jpg"
     }
   ]
 }

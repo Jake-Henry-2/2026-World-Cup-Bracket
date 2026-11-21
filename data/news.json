@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-11-20T18:47:38.273Z",
+  "lastUpdated": "2026-11-21T00:21:30.256Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "CONMEBOL backs Infantino's reelection as FIFA president",
+      "description": "Support for the reelection of FIFA president Gianni Infantino was reaffirmed by the 10 members of CONMEBOL on Friday.",
+      "published": "2026-11-20T19:51:36Z",
+      "link": "https://www.espn.com/soccer/story/_/id/50542739/conmebol-backs-infantino-reelection-fifa-president",
+      "image": "https://a.espncdn.com/photo/2025/0410/r1476780_1296x729_16-9.jpg"
+    },
     {
       "headline": "Harry Kane sets sights on Champions League, England trophy after Ballon d'Or win",
       "description": "Ballon d'Or winner Harry Kane is on a mission to claim trophies that have so far eluded him in his career, namely a Champions League and a tittle with England.",
@@ -36,13 +43,6 @@
       "published": "2026-11-18T14:02:00Z",
       "link": "https://www.espn.com/soccer/story/_/id/50506499/soccer-world-cup-power-rankings-usmnt-spain",
       "image": "https://a.espncdn.com/photo/2026/1118/r1747490_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "France FA boss Diallo confirms bid to challenge Infantino for FIFA presidency",
-      "description": "French Football Federation leader Philippe Diallo confirmed his intention on Tuesday to challenge Gianni Infantino for the FIFA presidency.",
-      "published": "2026-11-17T13:44:49Z",
-      "link": "https://www.espn.com/soccer/story/_/id/50509967/france-fa-diallo-confirms-challenge-infantino-fifa",
-      "image": "https://a.espncdn.com/photo/2026/0728/r1694552_1296x729_16-9.jpg"
     }
   ]
 }

@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-11-24T17:36:06.849Z",
+  "lastUpdated": "2026-11-25T01:35:05.250Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Guardiola 'embarrassed' to say no to Italy, national team my 'next step'",
+      "description": "Pep Guardiola said he felt \"embarrassed\" to turn down the head coaching position with Italy, but added he could return to coaching in the future and, if he did, would like to do it with a national team.",
+      "published": "2026-11-25T01:31:31Z",
+      "link": "https://www.espn.com/soccer/story/_/id/50587357/guardiola-embarrassed-italy-national-team-next",
+      "image": "https://a.espncdn.com/photo/2026/0729/r1695077_1296x729_16-9.jpg"
+    },
+    {
+      "headline": "Leaked FIFA documents show 96-year plan for stakes in WC sell-off",
+      "description": "Gianni Infantino's failed private equity plan that started the biggest crisis of his FIFA presidency intended to sell stakes in the FIFA World Cup for 96 years.",
+      "published": "2026-11-24T23:07:05Z",
+      "link": "https://www.espn.com/soccer/story/_/id/50585622/leaked-fifa-documents-96-year-world-cup-selloff",
+      "image": "https://a.espncdn.com/photo/2026/0731/r1695859_1296x729_16-9.jpg"
+    },
     {
       "headline": "Messi tracker: Goals, assists, key moments in 2026",
       "description": "ESPN provides game-by-game analysis of Lionel Messi's performances for Inter Miami and Argentina.",
@@ -29,20 +43,6 @@
       "published": "2026-11-19T18:17:36Z",
       "link": "https://www.espn.com/soccer/story/_/id/50532452/infantino-respect-fifa-elections-rivals-diallo-tashima",
       "image": "https://a.espncdn.com/photo/2026/1119/r1748039_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "UEFA pressures FIFA for World Cup sell-off plan documents",
-      "description": "",
-      "published": "2026-11-19T15:55:53Z",
-      "link": "https://www.espn.com/soccer/story/_/id/50531740/uefa-pressures-fifa-world-cup-selloff-plan-documents",
-      "image": "https://a.espncdn.com/photo/2021/1215/r951691_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "FIFA confirms Infantino rivals as Diallo, Tashima for 2027 election",
-      "description": "FIFA has named Philippe Diallo and Kohzo Tashima as Gianni Infantino's rivals in next year's presidential election.",
-      "published": "2026-11-19T17:03:59Z",
-      "link": "https://www.espn.com/soccer/story/_/id/50529522/fifa-gianni-infantino-phillipe-diallo-kohzo-tashima",
-      "image": "https://a.espncdn.com/photo/2026/1110/r1743884_1296x729_16-9.jpg"
     }
   ]
 }

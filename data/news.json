@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-11-25T10:26:27.111Z",
+  "lastUpdated": "2026-11-25T20:03:22.739Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Infantino challenger Tashima wants term limits for FIFA president",
+      "description": "FIFA presidential candidate Kohzo Tashima blasted Gianni Infantino for seeking a fourth term.",
+      "published": "2026-11-25T13:59:05Z",
+      "link": "https://www.espn.com/soccer/story/_/id/50592349/infantino-challenger-tashima-term-limits-fifa-president",
+      "image": "https://a.espncdn.com/photo/2026/1015/r1731163_1296x729_16-9.jpg"
+    },
     {
       "headline": "Guardiola 'embarrassed' to say no to Italy, national team my 'next step'",
       "description": "Pep Guardiola said he felt \"embarrassed\" to turn down the head coaching position with Italy, but added he could return to coaching in the future and, if he did, would like to do it with a national team.",
@@ -36,13 +43,6 @@
       "published": "2026-11-20T12:35:56Z",
       "link": "https://www.espn.com/soccer/story/_/id/50540283/harry-kane-champions-league-bayern-munich-england",
       "image": "https://a.espncdn.com/photo/2026/1102/r1739991_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Infantino calls for 'fair play' in upcoming FIFA elections",
-      "description": "Gianni Infantino has called for \"fair play\" during the election campaign for the FIFA presidency.",
-      "published": "2026-11-19T18:17:36Z",
-      "link": "https://www.espn.com/soccer/story/_/id/50532452/infantino-respect-fifa-elections-rivals-diallo-tashima",
-      "image": "https://a.espncdn.com/photo/2026/1119/r1748039_1296x729_16-9.jpg"
     }
   ]
 }

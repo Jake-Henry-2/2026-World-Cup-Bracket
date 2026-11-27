@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-11-27T03:10:36.871Z",
+  "lastUpdated": "2026-11-27T12:21:33.283Z",
   "source": "ESPN",
   "articles": [
+    {
+      "headline": "Ronaldo on Harry Kane's 'deserved' Ballon d'Or: 'The No. 9 is back'",
+      "description": "Ronaldo has said that Harry Kane's Ballon d'Or was \"well deserved\" and that he was delighted to see a fellow No. 9 win the award.",
+      "published": "2026-11-27T10:57:21Z",
+      "link": "https://www.espn.com/soccer/story/_/id/50610076/ronaldo-harry-kane-ballon-dor-stick-football-disney+",
+      "image": "https://a.espncdn.com/photo/2026/1127/r1751972_1296x729_16-9.jpg"
+    },
     {
       "headline": "Infantino challenger Tashima wants term limits for FIFA president",
       "description": "FIFA presidential candidate Kohzo Tashima blasted Gianni Infantino for seeking a fourth term.",
@@ -36,13 +43,6 @@
       "published": "2026-11-20T19:51:36Z",
       "link": "https://www.espn.com/soccer/story/_/id/50542739/conmebol-backs-infantino-reelection-fifa-president",
       "image": "https://a.espncdn.com/photo/2025/0410/r1476780_1296x729_16-9.jpg"
-    },
-    {
-      "headline": "Harry Kane sets sights on Champions League, England trophy after Ballon d'Or win",
-      "description": "Ballon d'Or winner Harry Kane is on a mission to claim trophies that have so far eluded him in his career, namely a Champions League and a tittle with England.",
-      "published": "2026-11-20T12:35:56Z",
-      "link": "https://www.espn.com/soccer/story/_/id/50540283/harry-kane-champions-league-bayern-munich-england",
-      "image": "https://a.espncdn.com/photo/2026/1102/r1739991_1296x729_16-9.jpg"
     }
   ]
 }
